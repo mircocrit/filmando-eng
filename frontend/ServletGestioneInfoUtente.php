@@ -15,4 +15,4 @@ echo $output;
 $file = fopen("../filesFilmando2/utenti.txt", "a") or die("Unable to open file!");
 fwrite($file, $output);
 fclose($file);
-header("location: ../pagine/sceltaContesti.html");
+header("location: ../sceltaContesti.html");
