@@ -1,15 +1,15 @@
 
-public class ServletGestioneRichiesta extends HttpServlet {
+<?php
+$configurazione = rand(0, 2); //unigrammi, bigrammi, unibigrammi
+$tecnica = rand(0, 1); //normale, pmi
+echo $configurazione . "," . $tecnica;
+$eta = $_POST['attenzione'];
+$genere = $_POST['compagnia'];
+$titolo = $_POST['umore'];
+echo $eta . "," . $genere . "," . $titolo;
 
-    public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
-        Configurazione.tipoRandom();//SCELTA CONFIGURAZIONE RANDOM: unigrammi, bigrammi, unibigrammi
-        Configurazione.tecnicaRandom();//SCELTA TECNICA RANDOM: normale, pmi
-        
-        String configurazione = Configurazione.TipoLemmi;//ASSEGNO CONFIGURAZ GENERATA
-        String tecnica = Configurazione.tecnica;		//ASSEGNO TECNICA GENERATA
-        System.out.println("//////////////////////////////////////GESTIONE RICHIESTA//////////////////////////////////");
-        System.out.println("CONFIGURAZIONE: " + configurazione);
-        System.out.println("TECNICA: " + tecnica);
+/*
+
         int contatoreVuoti=0;
         
         HashSet<Integer> contesti = new HashSet<>();
@@ -17,10 +17,20 @@ public class ServletGestioneRichiesta extends HttpServlet {
         Map<String, String[]> parametri = request.getParameterMap();
 
 
-
-        try {
-            System.out.println("CONTESTI selezionati: " + contesti);	//[2,3,6]
             int locale = selezioneFilm(contesti);//selezione FILM da suggerire
+
+//il metodo legge la top10 di quei contesti e seleziona 1 film a caso fra quelli selezionati
+    public static int selezioneFilm(HashSet<Integer> contesti) throws Exception{
+    	HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = leggiTop10File();   //DESERIALIZZO TOP 10
+        System.out.println("TOP10 film per CONTESTI: " + contestiItemTop10.get(contesti));	//PRENDO TOP10 FILM PER QUEL CONTESTO
+        //PRENDO UN FILM A CASO FRA I 10
+        int dimensione = contestiItemTop10.get(contesti).size();		
+        Configurazione.number= new Random();
+        int locale = (int)contestiItemTop10.get(contesti).toArray()[Configurazione.number.nextInt(dimensione)];
+        return locale;
+    }
+
+
             System.out.println("FILM suggerito: " + locale + "\n");			//11
     
 //////////////////LETTURA FRASI INTERE del dataset .dat, messe in mappaFrasi (4	testo)
@@ -89,16 +99,7 @@ public class ServletGestioneRichiesta extends HttpServlet {
     }
     
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////    
-    //il metodo legge la top10 di quei contesti e seleziona 1 film a caso fra quelli selezionati
-    public static int selezioneFilm(HashSet<Integer> contesti) throws Exception{
-    	HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = leggiTop10File();//DESERIALIZZO TOP 10
-        System.out.println("TOP10 film per CONTESTI: " + contestiItemTop10.get(contesti));	//PRENDO TOP10 FILM PER QUEL CONTESTO
-        //PRENDO UN FILM A CASO FRA I 10
-        int dimensione = contestiItemTop10.get(contesti).size();		
-        Configurazione.number= new Random();
-        int locale = (int)contestiItemTop10.get(contesti).toArray()[Configurazione.number.nextInt(dimensione)];
-        return locale;
-    }
+    
     
     //tale metodo restituisce la lista delle 3 frasi associate a quel film per quei contesti (centroide)
     public static ArrayList<Integer> selezioneFrasiCentroide(int locale, HashSet<Integer> contesti, TreeMap<Integer, String> mappaFrasi) throws Exception{
@@ -125,7 +126,7 @@ public class ServletGestioneRichiesta extends HttpServlet {
     idFilm				138
     n contesti			3
     listacontesti		2,4
-    */
+    
     public static void scriviReport(String tempo, String configurazione, String tecnica, String tipoFrasi, int locale, int numeroContesti, String listaContesti) throws FileNotFoundException {
     	PrintWriter report = new PrintWriter(
     		Configurazione.path + "filesFilmando2/temp/report" + tempo +".txt");
@@ -185,3 +186,4 @@ public class ServletGestioneRichiesta extends HttpServlet {
     }
     
 }
+*/
