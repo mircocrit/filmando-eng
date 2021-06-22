@@ -1,12 +1,30 @@
 
 <?php
-$configurazione = rand(0, 2); //unigrammi, bigrammi, unibigrammi
-$tecnica = rand(0, 1); //normale, pmi
-echo $configurazione . "," . $tecnica;
+$configurazione = rand(0, 2);
+if ($configurazione === 0)      $configurazione = "unigrammi";
+else if ($configurazione === 1) $configurazione = "bigrammi";
+else $configurazione = "unibigrammi";
+
+
+$tecnica = rand(0, 1);
+if ($tecnica === 0)   $tecnica = "normale";
+else $tecnica = "pmi";
+
+//echo $configurazione . "," . $tecnica;
+
+$tecnica = "normale";
+$configurazione = "unigrammi";
 $eta = $_POST['attenzione'];
 $genere = $_POST['compagnia'];
 $titolo = $_POST['umore'];
 echo $eta . "," . $genere . "," . $titolo;
+$path = "" . "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
+echo $path;
+$file = fopen($path, "r") or die("Unable to open file!");
+while (($line = fgets($file)) !== false) {
+    echo $line;
+}
+
 
 /*
 
@@ -30,6 +48,13 @@ echo $eta . "," . $genere . "," . $titolo;
         return locale;
     }
 
+    public static HashMap<HashSet<Integer>, HashSet<Integer>> leggiTop10File() throws Exception{
+    	ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(
+    			Configurazione.path + "filesFilmando2/"  + Configurazione.tecnica + "/" + Configurazione.TipoLemmi + "/serialized/top10combinazioni-items.dat")));	//mirko: top5combinazioni-items-bari
+    	HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = (HashMap<HashSet<Integer>, HashSet<Integer>>)ois.readObject();
+    	ois.close();
+    	return contestiItemTop10;
+    }
 
             System.out.println("FILM suggerito: " + locale + "\n");			//11
     
@@ -139,13 +164,7 @@ echo $eta . "," . $genere . "," . $titolo;
     }
     
     
-    public static HashMap<HashSet<Integer>, HashSet<Integer>> leggiTop10File() throws Exception{
-    	ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(
-    			Configurazione.path + "filesFilmando2/"  + Configurazione.tecnica + "/" + Configurazione.TipoLemmi + "/serialized/top10combinazioni-items.dat")));	//mirko: top5combinazioni-items-bari
-    	HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = (HashMap<HashSet<Integer>, HashSet<Integer>>)ois.readObject();
-    	ois.close();
-    	return contestiItemTop10;
-    }
+    
     
     public static HashMap<HashSet<Integer>, HashMap<Integer, ArrayList<Integer>>> leggiMatrice1() throws Exception {
         ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(
