@@ -1,0 +1,1480 @@
+I:8487;1;be, great, movie, look, sound, better, be great, great movie, movie look, look sound, sound better
+I:8487;2;movie, have, be, enjoy, year, old, be, first, movie, sit, movie have, have be, be enjoy, enjoy year, year old, old be, be first, first movie, movie sit
+I:8487;3;be, excellent, movie, look, great, screen, be excellent, excellent movie, movie look, look great, great screen
+I:8487;4;be, good, price, ~, cheaper, ive, look, be good, good price, price ~, ~ cheaper, cheaper ive, ive look
+I:8487;5;watch, young, child, be, surprise, certain, part, watch young, young child, child be, be surprise, surprise certain, certain part
+I:8487;6;do, name, calling, idiot, do name, name calling, calling idiot
+I:8487;7;be, lesson, be, valuable, be lesson, lesson be, be valuable
+I:8487;8;godson, love, movie, serve, great, gift, godson love, love movie, movie serve, serve great, great gift
+I:8487;9;like, easy, download, like easy, easy download
+I:8487;10;daughter, like, movie, daughter like, like movie
+I:8487;11;recommend, anyone, recommend anyone
+I:8487;12;be, download, more, movie, be download, download more, more movie
+I:8487;13;packaging, be, appropriate, packaging be, be appropriate
+I:8487;14;come, people, be, rate, star, come people, people be, be rate, rate star
+I:8487;15;crap, be, call, crap be, be call
+I:8487;16;love, cartoon, girlfriend, convinced, watch, love cartoon, cartoon girlfriend, girlfriend convinced, convinced watch
+I:8487;17;recommend, anyone, like, cartoon, recommend anyone, anyone like, like cartoon
+I:8487;18;best, chapter, film, be, move, truck, chase, end, film, best chapter, chapter film, film be, be move, move truck, truck chase, chase end, end film
+I:8487;19;movie, be, exciting, watch, lot, get, second, film, movie be, be exciting, exciting watch, watch lot, lot get, get second, second film
+I:8487;20;see, incredible, movie, theater, get, cassette, release, see incredible, incredible movie, movie theater, theater get, get cassette, cassette release
+I:8487;21;great, installment, great installment
+I:8487;22;great, age, everyone, enjoy, film, great age, age everyone, everyone enjoy, enjoy film
+I:8487;23;easy, find, online, great, price, easy find, find online, online great, great price
+I:8487;24;be, brilliant, daughter, love, be brilliant, brilliant daughter, daughter love
+I:8487;25;good, age, good age
+I:8487;26;think, first, be, best, think first, first be, be best
+I:8487;27;have, be, favorite, movie, mine, have be, be favorite, favorite movie, movie mine
+I:8487;28;year, be, great, story, year be, be great, great story
+I:8487;29;enjoy, have, kid, enjoy, kid, enjoy have, have kid, kid enjoy, enjoy kid
+I:8487;30;be, great, movie, be great, great movie
+I:8487;31;daughter, love, be, movie, ask, daughter love, love be, be movie, movie ask
+I:8487;32;love, love, today, love love, love today
+I:8487;33;movie, arrive, time, be, great, shape, arrival, movie arrive, arrive time, time be, be great, great shape, shape arrival
+I:8487;34;be, favorite, childhood, movie, be favorite, favorite childhood, childhood movie
+I:8487;35;stand, test, time, manage, make, laugh, suspense, stand test, test time, time manage, manage make, make laugh, laugh suspense
+I:8487;36;course, love, movie, watch, time, visit, course love, love movie, movie watch, watch time, time visit
+I:8487;37;great, movie, year, old, year, old, twin, love, great movie, movie year, year old, old year, year old, old twin, twin love
+I:8487;38;be, great, version, be, nice, see, high, definition, be great, great version, version be, be nice, nice see, see high, high definition
+I:8487;39;be, same, great, movie, be same, same great, great movie
+I:8487;40;ray, be, sure, be, same, great, movie, ray be, be sure, sure be, be same, same great, great movie
+I:8487;41;have, find, place, expect, have find, find place, place expect
+I:8487;42;write, script, animation, film, voice, over, be, fantastic, technical, aspect, wonderful, watch, write script, script animation, animation film, film voice, voice over, over be, be fantastic, fantastic technical, technical aspect, aspect wonderful, wonderful watch
+I:8487;43;be, real, trick, make, movie, appeal, young, old, do, be real, real trick, trick make, make movie, movie appeal, appeal young, young old, old do
+I:8487;44;original, be, best, original be, be best
+I:8487;45;story, be, cute, humor, be, adult, child, story be, be cute, cute humor, humor be, be adult, adult child
+I:8487;46;character, be, exciting, character be, be exciting
+I:8487;47;love, be, be, great, great, story, wonderful, graphic, storyline, love be, be be, be great, great great, great story, story wonderful, wonderful graphic, graphic storyline
+I:8487;48;movie, be, put, movie be, be put
+I:8487;49;kid, adult, enjoy, antic, toy, imagination, animator, kid adult, adult enjoy, enjoy antic, antic toy, toy imagination, imagination animator
+I:8487;50;do, movie, continue, series, continue, excellence, original, do movie, movie continue, continue series, series continue, continue excellence, excellence original
+I:8487;51;fun, whole, family, watch, fun whole, whole family, family watch
+I:8487;52;be, wonderful, movie, be wonderful, wonderful movie
+I:8487;53;be, funny, action, pack, movie, kid, enjoy, watch, family, be funny, funny action, action pack, pack movie, movie kid, kid enjoy, enjoy watch, watch family
+I:8487;54;be, time, favorite, kid, movie, be time, time favorite, favorite kid, kid movie
+I:8487;55;remember, watch, first, year, watch, first, second, third, son, remember watch, watch first, first year, year watch, watch first, first second, second third, third son
+I:8487;56;be, love, watch, wear, play, anything, be love, love watch, watch wear, wear play, play anything
+I:8487;57;story, line, keep, interest, entire, time, understand, be, go, movie, story line, line keep, keep interest, interest entire, entire time, time understand, understand be, be go, go movie
+I:8487;58;child, love, movie, child love, love movie
+I:8487;59;movie, be, awesome, lil, girl, love, think, be, be, amazing, watch, movie be, be awesome, awesome lil, lil girl, girl love, love think, think be, be be, be amazing, amazing watch
+I:8487;60;movie, be, wonderful, movie be, be wonderful
+I:8487;61;adult, see, old, toy, be, appreciate, child, adult see, see old, old toy, toy be, be appreciate, appreciate child
+I:8487;62;animation, be, wonderful, blu, ray, look, great, animation be, be wonderful, wonderful blu, blu ray, ray look, look great
+I:8487;63;color, be, crisp, color be, be crisp
+I:8487;64;great, job, figure, modern, family, need, great job, job figure, figure modern, modern family, family need
+I:8487;65;movie, be, great, be, movie be, be great, great be
+I:8487;66;year, old, love, movie, year old, old love, love movie
+I:8487;67;year, old, love, movie, introduction, bad, child, next, door, house, year old, old love, love movie, movie introduction, introduction bad, bad child, child next, next door, door house
+I:8487;68;end, be, great, end be, be great
+I:8487;69;overall, great, movie, family, overall great, great movie, movie family
+I:8487;70;be, beloved, franchise, film, animated, film, be beloved, beloved franchise, franchise film, film animated, animated film
+I:8487;71;be, clever, exciting, original, build, such, strong, emotional, tie, audience, deliver, move, cinematic, experience, be clever, clever exciting, exciting original, original build, build such, such strong, strong emotional, emotional tie, tie audience, audience deliver, deliver move, move cinematic, cinematic experience
+I:8487;72;crisp, animation, superb, character, development, plot, stir, profound, emotion, look, childhood, innocence, friendship, be, astute, be, year, old, be, profound, poignant, lovable, today, be, release, crisp animation, animation superb, superb character, character development, development plot, plot stir, stir profound, profound emotion, emotion look, look childhood, childhood innocence, innocence friendship, friendship be, be astute, astute be, be year, year old, old be, be profound, profound poignant, poignant lovable, lovable today, today be, be release
+I:8487;73;be, lot, fun, be lot, lot fun
+I:8487;74;kid, love, be, type, kid, movie, adult, enjoy, kid love, love be, be type, type kid, kid movie, movie adult, adult enjoy
+I:8487;75;have, great, story, line, lovely, family, adult, be, big, kid, :-rrb-, have great, great story, story line, line lovely, lovely family, family adult, adult be, be big, big kid, kid :-rrb-
+I:8487;76;grandkid, love, grandkid love
+I:8487;77;love, detail, story, line, love detail, detail story, story line
+I:8487;78;buy, christmas, present, year, old, love, buy christmas, christmas present, present year, year old, old love
+I:8487;79;have, see, come, be, feel, good, movie, bring, memory, have see, see come, come be, be feel, feel good, good movie, movie bring, bring memory
+I:8487;80;see, movie, theater, year, buy, daughter, love, see movie, movie theater, theater year, year buy, buy daughter, daughter love
+I:8487;81;excite, get, great, deal, free, ticket, top, excite get, get great, great deal, deal free, free ticket, ticket top
+I:8487;82;year, old, son, love, movie, year old, old son, son love, love movie
+I:8487;83;let, watch, first, time, enjoy, let watch, watch first, first time, time enjoy
+I:8487;84;love, house, love house
+I:8487;85;year, old, be, enjoy, watch, adventure, year old, old be, be enjoy, enjoy watch, watch adventure
+I:8487;86;toy, story, be, classic, toy story, story be, be classic
+I:8487;87;fun, watch, whole, family, fun watch, watch whole, whole family
+I:8487;88;year, old, love, year old, old love
+I:8487;89;classic, movie, friendship, loyalty, classic movie, movie friendship, friendship loyalty
+I:8487;90;toy, series, be, brilliant, toy series, series be, be brilliant
+I:8487;91;beautiful, look, animation, wise, develop, character, wise, beautiful look, look animation, animation wise, wise develop, develop character, character wise
+I:8487;92;be, big, fan, pixar, film, be, first, movie, start, be big, big fan, fan pixar, pixar film, film be, be first, first movie, movie start
+I:8487;93;have, love, movie, have love, love movie
+I:8487;94;think, be, great, matter, age, think be, be great, great matter, matter age
+I:8487;95;hope, enjoy, much, do, hope enjoy, enjoy much, much do
+I:8487;96;son, love, movie, have, be, able, find, store, son love, love movie, movie have, have be, be able, able find, find store
+I:8487;97;thank, god, find, time, thank god, god find, find time
+I:8487;98;family, movie, funny, family movie, movie funny
+I:8487;99;recommend, watch, long, other, sequel, recommend watch, watch long, long other, other sequel
+I:8487;100;great, story, view, son, enjoy, great story, story view, view son, son enjoy
+I:8487;101;movie, wonderful, come, perfect, use, develop, mature, animation, amazing, break, new, ground, blaze, new, path, movie wonderful, wonderful come, come perfect, perfect use, use develop, develop mature, mature animation, animation amazing, amazing break, break new, new ground, ground blaze, blaze new, new path
+I:8487;102;be, classic, kid, movie, be classic, classic kid, kid movie
+I:8487;103;classic, be, good, make, adult, love, classic be, be good, good make, make adult, adult love
+I:8487;104;movie, be, pure, amazing, movie be, be pure, pure amazing
+I:8487;105;story, keep, enough, humor, minor, drama, humorous, drama, story keep, keep enough, enough humor, humor minor, minor drama, drama humorous, humorous drama
+I:8487;106;recommend, people, age, see, matter, fact, recommend, see, recommend people, people age, age see, see matter, matter fact, fact recommend, recommend see
+I:8487;107;be, few, title, sequel, be, great, worth, money, lifetime, enjoyment, be few, few title, title sequel, sequel be, be great, great worth, worth money, money lifetime, lifetime enjoyment
+I:8487;108;have, be, fan, movie, do, feel, good, other, one, have be, be fan, fan movie, movie do, do feel, feel good, good other, other one
+I:8487;109;end, story, turn, wonderful, course, scene, be, fun, heartwarming, end story, story turn, turn wonderful, wonderful course, course scene, scene be, be fun, fun heartwarming
+I:8487;110;love, be, main, good, guy, movie, let, have, love be, be main, main good, good guy, guy movie, movie let, let have
+I:8487;111;have, become, favorite, have become, become favorite
+I:8487;112;make, monster, toy, sister, toy, make monster, monster toy, toy sister, sister toy
+I:8487;113;work, escape, follow, move, van, carry, toy, new, home, be, control, mayhem, intricate, funny, spoil, thing, work escape, escape follow, follow move, move van, van carry, carry toy, toy new, new home, home be, be control, control mayhem, mayhem intricate, intricate funny, funny spoil, spoil thing
+I:8487;114;up, everyone, split, side, laugh, up everyone, everyone split, split side, side laugh
+I:8487;115;greatest, animated, picture, have, see, greatest animated, animated picture, picture have, have see
+I:8487;116;son, be, huge, fan, son be, be huge, huge fan
+I:8487;117;character, be, cute, voice, be, wonderful, character be, be cute, cute voice, voice be, be wonderful
+I:8487;118;be, love, be love
+I:8487;119;be, disney, greatest, animation, film, be disney, disney greatest, greatest animation, animation film
+I:8487;120;have, be, top, toy, time, find, top, spot, usurp, new, space, toy, name, have be, be top, top toy, toy time, time find, find top, top spot, spot usurp, usurp new, new space, space toy, toy name
+I:8487;121;be, straightforward, story, great, script, wonderful, act, be straightforward, straightforward story, story great, great script, script wonderful, wonderful act
+I:8487;122;worth, watch, time, time, worth watch, watch time, time time
+I:8487;123;get, time, get time
+I:8487;124;movie, make, laugh, movie make, make laugh
+I:8487;125;love, watch, movie, love watch, watch movie
+I:8487;126;woody, be, best, laughing, be, movie, woody be, be best, best laughing, laughing be, be movie
+I:8487;127;be, great, movie, have, collection, be great, great movie, movie have, have collection
+I:8487;128;storyline, be, wonderful, choice, actor, voice, character, be, perfect, storyline be, be wonderful, wonderful choice, choice actor, actor voice, voice character, character be, be perfect
+I:8487;129;be, inspiring, story, be inspiring, inspiring story
+I:8487;130;10th, anniversary, edition, ~, be, amazing, animated, movie, write, script, be, secret, life, toy, 10th anniversary, anniversary edition, edition ~, ~ be, be amazing, amazing animated, animated movie, movie write, write script, script be, be secret, secret life, life toy
+I:8487;131;animation, be, astounding, consider, be, do, year, animation be, be astounding, astounding consider, consider be, be do, do year
+I:8487;132;recommend, movie, consider, best, animated, make, recommend movie, movie consider, consider best, best animated, animated make
+I:8487;133;song, be, bit, sappy, perfect, animated, movie, music, be, right, par, song be, be bit, bit sappy, sappy perfect, perfect animated, animated movie, movie music, music be, be right, right par
+I:8487;134;doubt, give, movie, star, doubt give, give movie, movie star
+I:8487;135;be, lighter, funnier, number, be, provocative, be lighter, lighter funnier, funnier number, number be, be provocative
+I:8487;136;be, great, movie, be great, great movie
+I:8487;137;daughter, love, daughter love
+I:8487;138;bring, life, take, world, bring life, life take, take world
+I:8487;139;great, movie, whole, family, enjoy, great movie, movie whole, whole family, family enjoy
+I:8487;140;get, abducted, rest, toy, come, rescue, get abducted, abducted rest, rest toy, toy come, come rescue
+I:8487;141;grandchild, love, movie, watch, grandchild love, love movie, movie watch
+I:8487;142;be, glad, order, be, enjoy, be glad, glad order, order be, be enjoy
+I:8487;143;son, grandson, son grandson
+I:8487;144;absolute, classic, kid, have, shelf, absolute classic, classic kid, kid have, have shelf
+I:8487;145;say, husband, love, movie, say husband, husband love, love movie
+I:8487;146;be, be, year, come, be, awesome, watch, be be, be year, year come, come be, be awesome, awesome watch
+I:8487;147;be, first, foray, feature, film, biz, do, good, job, it!woody, voice, be, favorite, toy, be first, first foray, foray feature, feature film, film biz, biz do, do good, good job, job it!woody, it!woody voice, voice be, be favorite, favorite toy
+I:8487;148;suffice, say, be, hilarious, movie, suffice say, say be, be hilarious, hilarious movie
+I:8487;149;be, be, year, love, be be, be year, year love
+I:8487;150;be, great, young, young, heart, be great, great young, young young, young heart
+I:8487;151;need, be, member, reward, be, free, easy, sign, need be, be member, member reward, reward be, be free, free easy, easy sign
+I:8487;152;be, stupendous, movie, year, combo, pack, be, terrific, be stupendous, stupendous movie, movie year, year combo, combo pack, pack be, be terrific
+I:8487;153;fun, fill, animation, favorite, fun fill, fill animation, animation favorite
+I:8487;154;best, trilogy, sure, best trilogy, trilogy sure
+I:8487;155;character, be, amazing, choice, actor, voice, be, perfect, character be, be amazing, amazing choice, choice actor, actor voice, voice be, be perfect
+I:8487;156;be, classic, kid, movie, be, fun, watch, age, be, kid, have, outgrow, grow, tired, be classic, classic kid, kid movie, movie be, be fun, fun watch, watch age, age be, be kid, kid have, have outgrow, outgrow grow, grow tired
+I:8487;157;be, favorite, movie, be favorite, favorite movie
+I:8487;158;much, charm, wonderful, story, much charm, charm wonderful, wonderful story
+I:8487;159;great, movie, be, prejudice, love, anything, disney, great movie, movie be, be prejudice, prejudice love, love anything, anything disney
+I:8487;160;only, way, go, classic, movie, only way, way go, go classic, classic movie
+I:8487;161;be, toy, story, be toy, toy story
+I:8487;162;go, history, classic, go history, history classic
+I:8487;163;movie, love, look, watch, daughter, be, old, enjoy, movie love, love look, look watch, watch daughter, daughter be, be old, old enjoy
+I:8487;164;buy, movie, daughter, im, happy, buy movie, movie daughter, daughter im, im happy
+I:8487;165;adult, child, adult child
+I:8487;166;year, old, love, year old, old love
+I:8487;167;funny, better, most, other, cartoon, movie, funny better, better most, most other, other cartoon, cartoon movie
+I:8487;168;be, happy, find, movie, be happy, happy find, find movie
+I:8487;169;be, pleased, quick, movie, get, be pleased, pleased quick, quick movie, movie get
+I:8487;170;be, sequel, be, few, decent, movie, put, long, time, be sequel, sequel be, be few, few decent, decent movie, movie put, put long, long time
+I:8487;171;old, stuff, evil, take, be, excellent, family, friendly, old stuff, stuff evil, evil take, take be, be excellent, excellent family, family friendly
+I:8487;172;good, book, expose, new, empire, be, mouse, betray, good book, book expose, expose new, new empire, empire be, be mouse, mouse betray
+I:8487;173;kid, love, movie, kid love, love movie
+I:8487;174;love, be, gender, specific, child, enjoy, movie, love be, be gender, gender specific, specific child, child enjoy, enjoy movie
+I:8487;175;video, have, be, clean, higher, bit, rate, original, look, super, begin, video have, have be, be clean, clean higher, higher bit, bit rate, rate original, original look, look super, super begin
+I:8487;176;sound, be, much, improve, new, option, be, available, sound be, be much, much improve, improve new, new option, option be, be available
+I:8487;177;be, improvement, new, feature, make, extra, worthwhile, be improvement, improvement new, new feature, feature make, make extra, extra worthwhile
+I:8487;178;live, movie, daughter, do, live movie, movie daughter, daughter do
+I:8487;179;be, best, animated, movie, have, see, be best, best animated, animated movie, movie have, have see
+I:8487;180;rule, toy, story, rule toy, toy story
+I:8487;181;love, love, love, movie, love love, love love, love movie
+I:8487;182;have, regular, blu, ray, continue, watch, time, time, have regular, regular blu, blu ray, ray continue, continue watch, watch time, time time
+I:8487;183;story, be, something, age, enjoy, humor, be, enjoyable, comical, story be, be something, something age, age enjoy, enjoy humor, humor be, be enjoyable, enjoyable comical
+I:8487;184;hear, rumor, new, ts, come, hope, true, hear rumor, rumor new, new ts, ts come, come hope, hope true
+I:8487;185;find, be, great, find be, be great
+I:8487;186;be, please, movie, timeliness, receive, be please, please movie, movie timeliness, timeliness receive
+I:8487;187;grandson, be, excite, grandson be, be excite
+I:8487;188;fun, film, whole, family, fun film, film whole, whole family
+I:8487;189;film, be, worth, watch, film be, be worth, worth watch
+I:8487;190;mail, be, pack, correct, mail be, be pack, pack correct
+I:8487;191;be, great, shape, thank, have, enjoy, same, time, be great, great shape, shape thank, thank have, have enjoy, enjoy same, same time
+I:8487;192;doubt, be, classic, be, watch, family, year, year, doubt be, be classic, classic be, be watch, watch family, family year, year year
+I:8487;193;good, animation, good, movie, good animation, animation good, good movie
+I:8487;194;have, make, wonderful, addition, pixar, collection, have make, make wonderful, wonderful addition, addition pixar, pixar collection
+I:8487;195;have, think, be, great, have think, think be, be great
+I:8487;196;be, great, movie, keep, everyone, entertain, whole, show, be great, great movie, movie keep, keep everyone, everyone entertain, entertain whole, whole show
+I:8487;197;be, funny, teach, child, share, take, care, thing, be funny, funny teach, teach child, child share, share take, take care, care thing
+I:8487;198;love, movie, year, old, attention, span, be, love movie, movie year, year old, old attention, attention span, span be
+I:8487;199;course, twin, love, course twin, twin love
+I:8487;200;good, experience, make, hero, good experience, experience make, make hero
+I:8487;201;fantastic, blend, quality, make, movie, instant, classic, fantastic blend, blend quality, quality make, make movie, movie instant, instant classic
+I:8487;202;be, family, favorite, disney/kids, movie, be family, family favorite, favorite disney/kids, disney/kids movie
+I:8487;203;be, great, movie, exception, thing, be great, great movie, movie exception, exception thing
+I:8487;204;find, great, price, find great, great price
+I:8487;205;much, love, movie, much love, love movie
+I:8487;206;have, love, movie, child, enjoy, have love, love movie, movie child, child enjoy
+I:8487;207;be, great, be great
+I:8487;208;have, be, few, extra, have, enjoy, have be, be few, few extra, extra have, have enjoy
+I:8487;209;nostalgia, be, excellent, movie, nostalgia be, be excellent, excellent movie
+I:8487;210;script, be, clever, heartfelt, character, be, fantastic, voice, acting, be, great, animation, be, benchmark, time, hold, have, come, long, way, script be, be clever, clever heartfelt, heartfelt character, character be, be fantastic, fantastic voice, voice acting, acting be, be great, great animation, animation be, be benchmark, benchmark time, time hold, hold have, have come, come long, long way
+I:8487;211;best, movie, remind, adult, joy, be, kid, play, toy, imagine, be, alive, best movie, movie remind, remind adult, adult joy, joy be, be kid, kid play, play toy, toy imagine, imagine be, be alive
+I:8487;212;movie, be, classic, sequel, be, fantastic, watch, chronological, order, movie be, be classic, classic sequel, sequel be, be fantastic, fantastic watch, watch chronological, chronological order
+I:8487;213;be, favorite, movie, time, be favorite, favorite movie, movie time
+I:8487;214;be, best, film, have, look, other, be best, best film, film have, have look, look other
+I:8487;215;bonus, feature, be, fascinating, aspire, animators/filmmakers, bonus feature, feature be, be fascinating, fascinating aspire, aspire animators/filmmakers
+I:8487;216;ray, player, be, great, option, ray player, player be, be great, great option
+I:8487;217;get, time, get time
+I:8487;218;be, inspiration, start, write, animation, be inspiration, inspiration start, start write, write animation
+I:8487;219;thanks, help, find, passion, thanks help, help find, find passion
+I:8487;220;course, be, classic, animated, movie, course be, be classic, classic animated, animated movie
+I:8487;221;voice, do, popular, star, be, excellent, voice do, do popular, popular star, star be, be excellent
+I:8487;222;be, movie, everything, work, be, enjoyable, kid, adult, be movie, movie everything, everything work, work be, be enjoyable, enjoyable kid, kid adult
+I:8487;223;have, love, movie, be, great, classic, be, have love, love movie, movie be, be great, great classic, classic be
+I:8487;224;writing, be, time, watch, writing be, be time, time watch
+I:8487;225;come, change, thing, get, act, have, be, come change, change thing, thing get, get act, act have, have be
+I:8487;226;be, charm, entire, scene, make, laugh, toy, see, everryyythiinnng, be charm, charm entire, entire scene, scene make, make laugh, laugh toy, toy see, see everryyythiinnng
+I:8487;227;have, such, great, character, favorite, be, toy, alien, get, manual, have such, such great, great character, character favorite, favorite be, be toy, toy alien, alien get, get manual
+I:8487;228;attitude, machine, claw, be, funny, attitude machine, machine claw, claw be, be funny
+I:8487;229;be, last, double, dip, be last, last double, double dip
+I:8487;230;be, good, movie, be good, good movie
+I:8487;231;order, movie, second, be, month, old, favorite, order movie, movie second, second be, be month, month old, old favorite
+I:8487;232;graphic, animation, detail, graphic animation, animation detail
+I:8487;233;entire, cast, provide, greatest, voice, classic, movie, entire cast, cast provide, provide greatest, greatest voice, voice classic, classic movie
+I:8487;234;mean, watch, movie, device, include, appletv, mean watch, watch movie, movie device, device include, include appletv
+I:8487;235;love, play, appletv, love play, play appletv
+I:8487;236;recommend, get, digital, copy, choose, version, have, means, do, recommend get, get digital, digital copy, copy choose, choose version, version have, have means, means do
+I:8487;237;go, device, travel, go device, device travel
+I:8487;238;kid, watch, car, kid watch, watch car
+I:8487;239;young, age, love, young age, age love
+I:8487;240;be, 1st, movie, deserve, be, put, top, best, movie, be 1st, 1st movie, movie deserve, deserve be, be put, put top, top best, best movie
+I:8487;241;extra, be, amazing, be, make, good, movie, extra be, be amazing, amazing be, be make, make good, good movie
+I:8487;242;come, 26th, go, production, finish, car, come 26th, 26th go, go production, production finish, finish car
+I:8487;243;be, first, film, remain, best, be first, first film, film remain, remain best
+I:8487;244;movie, be, full, lovable, character, full, wonderful, lesson, friendship, trust, delight, age, movie be, be full, full lovable, lovable character, character full, full wonderful, wonderful lesson, lesson friendship, friendship trust, trust delight, delight age
+I:8487;245;animated, movie, have, come, classic, be, doubt, best, animated movie, movie have, have come, come classic, classic be, be doubt, doubt best
+I:8487;246;real, classic, kid, love, much, do, be, small, real classic, classic kid, kid love, love much, much do, do be, be small
+I:8487;247;watch, be, easy, watch be, be easy
+I:8487;248;year, old, daughter, be, ask, watch, year, old, son, love, year old, old daughter, daughter be, be ask, ask watch, watch year, year old, old son, son love
+I:8487;249;movie, be, classic, movie be, be classic
+I:8487;250;see, age, see age
+I:8487;251;get, movie, quick, be, new, get movie, movie quick, quick be, be new
+I:8487;252;family, movie, night, family movie, movie night
+I:8487;253;have, terrific, sequel, third, be, schedule, have terrific, terrific sequel, sequel third, third be, be schedule
+I:8487;254;be, great, film, wasthe, humor, be, make, popular, be great, great film, film wasthe, wasthe humor, humor be, be make, make popular
+I:8487;255;be, ton, funny, line, issue, character, voice, other, be ton, ton funny, funny line, line issue, issue character, character voice, voice other
+I:8487;256;be, many, thing, catch, seem, discover, something, new, be many, many thing, thing catch, catch seem, seem discover, discover something, something new
+I:8487;257;color, be, beautiful, color be, be beautiful
+I:8487;258;be, guarantee, winner, be guarantee, guarantee winner
+I:8487;259;continue, watch, be, funny, heartwarming, entertaining, continue watch, watch be, be funny, funny heartwarming, heartwarming entertaining
+I:8487;260;key, film, be, performance, animated, voice, key film, film be, be performance, performance animated, animated voice
+I:8487;261;be, smart, try, make, full, be smart, smart try, try make, make full
+I:8487;262;length, film, be, ready, computer, model, express, emotion, face, body, language, eye, length film, film be, be ready, ready computer, computer model, model express, express emotion, emotion face, face body, body language, language eye
+I:8487;263;add, supurb, voice, talent, animation, come, life, add supurb, supurb voice, voice talent, talent animation, animation come, come life
+I:8487;264;support, voice, full, mode, make, voice, act, film, best, animated, film, make, support voice, voice full, full mode, mode make, make voice, voice act, act film, film best, best animated, animated film, film make
+I:8487;265;execution, attention, small, detail, give, story, fresh, look, computer, animation, be, give, fresh, look, animation, general, execution attention, attention small, small detail, detail give, give story, story fresh, fresh look, look computer, computer animation, animation be, be give, give fresh, fresh look, look animation, animation general
+I:8487;266;style, animation, fit, imagine, other, way, style animation, animation fit, fit imagine, imagine other, other way
+I:8487;267;be, neat, extra, least, be, detailed, directors/writers, commentary, be neat, neat extra, extra least, least be, be detailed, detailed directors/writers, directors/writers commentary
+I:8487;268;be, reflection, film, make, year, deleted/altered, scene, be, interesting, see, be reflection, reflection film, film make, make year, year deleted/altered, deleted/altered scene, scene be, be interesting, interesting see
+I:8487;269;claw, machine, alien, army, man, be, real, star, movie, claw machine, machine alien, alien army, army man, man be, be real, real star, star movie
+I:8487;270;pop, movie, get, minute, talk, mom, get, dish, do, pop movie, movie get, get minute, minute talk, talk mom, mom get, get dish, dish do
+I:8487;271;be, great, movie, good, age, catch, toddler, attention, be great, great movie, movie good, good age, age catch, catch toddler, toddler attention
+I:8487;272;have, return, son, love, movie, decide, keep, have return, return son, son love, love movie, movie decide, decide keep
+I:8487;273;see, film, best, friend, bring, video, say, love, movie, see film, film best, best friend, friend bring, bring video, video say, say love, love movie
+I:8487;274;animated, film, undeniable, gamble, animated film, film undeniable, undeniable gamble
+I:8487;275;basic, gist, film, be, be, favorite, toy, owner, basic gist, gist film, film be, be be, be favorite, favorite toy, toy owner
+I:8487;276;ensue, adventure, realize, be, fault, realize, be, toy, be, become, great, friend, ensue adventure, adventure realize, realize be, be fault, fault realize, realize be, be toy, toy be, be become, become great, great friend
+I:8487;277;be, great, feeling, film, friendship, pervade, end, be great, great feeling, feeling film, film friendship, friendship pervade, pervade end
+I:8487;278;be, tangible, feeling, heart, film, be, make, great, be tangible, tangible feeling, feeling heart, heart film, film be, be make, make great
+I:8487;279;be, happy, have, blu, be happy, happy have, have blu
+I:8487;280;have, pay, film, be, classic, time, favorite, movie, have pay, pay film, film be, be classic, classic time, time favorite, favorite movie
+I:8487;281;make, such, amazing, film, make such, such amazing, amazing film
+I:8487;282;ish, slipcover, show, picture, be, neat, ish slipcover, slipcover show, show picture, picture be, be neat
+I:8487;283;great, price, great, film, great price, price great, great film
+I:8487;284;think, love, movie, do, think love, love movie, movie do
+I:8487;285;great, story, be, nice, see, animated, movie, do, focus, violence, rudeness, bad, language, much, be, today, great story, story be, be nice, nice see, see animated, animated movie, movie do, do focus, focus violence, violence rudeness, rudeness bad, bad language, language much, much be, be today
+I:8487;286;voice, be, great, addition, incredible, movie, voice be, be great, great addition, addition incredible, incredible movie
+I:8487;287;incredible, detail, facial, expression, shadow, overall, movement, character, incredible detail, detail facial, facial expression, expression shadow, shadow overall, overall movement, movement character
+I:8487;288;movie, appeal, anyone, movie appeal, appeal anyone
+I:8487;289;film, last, age, be, tale, child, teen, adult, anything, film last, last age, age be, be tale, tale child, child teen, teen adult, adult anything
+I:8487;290;hold, close, heart, watch, time, hold close, close heart, heart watch, watch time
+I:8487;291;child, like, think, toy, be, alive, series, bring, imagination, joy, life, child like, like think, think toy, toy be, be alive, alive series, series bring, bring imagination, imagination joy, joy life
+I:8487;292;say, be, glue, tv, hour, say be, be glue, glue tv, tv hour
+I:8487;293;love, put, series, top, favorite, movie, time, love put, put series, series top, top favorite, favorite movie, movie time
+I:8487;294;have, kid, be, have kid, kid be
+I:8487;295;good, film, devoid, touching, sadness, sequel, have, certain, part, be, fun, film, see, landmark, animation, be, impressive, today, good film, film devoid, devoid touching, touching sadness, sadness sequel, sequel have, have certain, certain part, part be, be fun, fun film, film see, see landmark, landmark animation, animation be, be impressive, impressive today
+I:8487;296;heck, mainstream, film, guy, name, be, worth, see, reason, right, heck mainstream, mainstream film, film guy, guy name, name be, be worth, worth see, see reason, reason right
+I:8487;297;earn, be, massive, acclaim, earn be, be massive, massive acclaim
+I:8487;298;great, story, deliver, snappy, screenplay, solid, act, voice, superb, directing, great story, story deliver, deliver snappy, snappy screenplay, screenplay solid, solid act, act voice, voice superb, superb directing
+I:8487;299;kid, thank, love, kid thank, thank love
+I:8487;300;be, fan, movie, entertain, adult, kid, be, happy, be fan, fan movie, movie entertain, entertain adult, adult kid, kid be, be happy
+I:8487;301;original, best, original best
+I:8487;302;visual, be, spectacular, human, appear, bit, rubbery, time, visual be, be spectacular, spectacular human, human appear, appear bit, bit rubbery, rubbery time
+I:8487;303;be, great, be great
+I:8487;304;watch, movie, theater, first, time, think, be, fantastic, watch movie, movie theater, theater first, first time, time think, think be, be fantastic
+I:8487;305;have, everything, remember, watch, theater, special, feature, section, be, fantastic, have everything, everything remember, remember watch, watch theater, theater special, special feature, feature section, section be, be fantastic
+I:8487;306;boot, story, be, excellent, funny, boot story, story be, be excellent, excellent funny
+I:8487;307;character, be, charming, fun, character be, be charming, charming fun
+I:8487;308;music, upbeat, catchy, music upbeat, upbeat catchy
+I:8487;309;be, best, be best
+I:8487;310;movie, be, awesome, love, character, story, movie be, be awesome, awesome love, love character, character story
+I:8487;311;need, watch, need watch
+I:8487;312;order, movie, year, old, be, service, year, order movie, movie year, year old, old be, be service, service year
+I:8487;313;youngest, age, love, movie, youngest age, age love, love movie
+I:8487;314;fun, movie, watch, whole, family, fun movie, movie watch, watch whole, whole family
+I:8487;315;good, product, good, shipping, time, good product, product good, good shipping, shipping time
+I:8487;316;thin, keep, entertain, foe, few, hour, thin keep, keep entertain, entertain foe, foe few, few hour
+I:8487;317;be, enjoyable, film, be enjoyable, enjoyable film
+I:8487;318;grandson, be, watch, be, love, do, grandson be, be watch, watch be, be love, love do
+I:8487;319;be, nephew, favorite, be nephew, nephew favorite
+I:8487;320;be, modern, fairy, tale, create, modern, computer, animation, be modern, modern fairy, fairy tale, tale create, create modern, modern computer, computer animation
+I:8487;321;snappy, dialougue, appeal, adult, viewer, spectacle, fantastic, toy, come, life, appeal, child, adult, wax, nostalgic, toy, enjoy, child, several, be, feature, movie, snappy dialougue, dialougue appeal, appeal adult, adult viewer, viewer spectacle, spectacle fantastic, fantastic toy, toy come, come life, life appeal, appeal child, child adult, adult wax, wax nostalgic, nostalgic toy, toy enjoy, enjoy child, child several, several be, be feature, feature movie
+I:8487;322;tom, personality, shine, persona, voice, lend, right, amount, charisma, tom personality, personality shine, shine persona, persona voice, voice lend, lend right, right amount, amount charisma
+I:8487;323;process, form, eventual, friendship, character, go, lot, antagonism, lot, other, real, human, emotion, process form, form eventual, eventual friendship, friendship character, character go, go lot, lot antagonism, antagonism lot, lot other, other real, real human, human emotion
+I:8487;324;be, entertaining, watch, toy, interact, other, be entertaining, entertaining watch, watch toy, toy interact, interact other
+I:8487;325;buzz, learn, be, child, plaything, noble, space, crusader, fancy, be, beginning, learn, share, special, place, heart, buzz learn, learn be, be child, child plaything, plaything noble, noble space, space crusader, crusader fancy, fancy be, be beginning, beginning learn, learn share, share special, special place, place heart
+I:8487;326;second, installment, saga, be, enhancement, first, first, nothing, short, delightful, second installment, installment saga, saga be, be enhancement, enhancement first, first first, first nothing, nothing short, short delightful
+I:8487;327;anyone, kid, have, watch, movie, ton, anyone kid, kid have, have watch, watch movie, movie ton
+I:8487;328;have, enjoy, have enjoy
+I:8487;329;be, good, movie, matter, format, watch, be good, good movie, movie matter, matter format, format watch
+I:8487;330;omg, be, happy, own, omg be, be happy, happy own
+I:8487;331;be, huge, fan, young, kid, love, be huge, huge fan, fan young, young kid, kid love
+I:8487;332;movie, be, alot, fun, movie be, be alot, alot fun
+I:8487;333;be, sure, recommend, young, child, have, lot, adult/young, adult, humor, personal, experience, be, have, big, fear, toy, doll, come, life, movie, have, freak, be sure, sure recommend, recommend young, young child, child have, have lot, lot adult/young, adult/young adult, adult humor, humor personal, personal experience, experience be, be have, have big, big fear, fear toy, toy doll, doll come, come life, life movie, movie have, have freak
+I:8487;334;continue, spread, great, news, continue spread, spread great, great news
+I:8487;335;send, sister, house, nice, do, send sister, sister house, house nice, nice do
+I:8487;336;love, movie, love movie
+I:8487;337;buy, movie, child, love, buy movie, movie child, child love
+I:8487;338;have, remember, theatre, enjoy, watch, year, have remember, remember theatre, theatre enjoy, enjoy watch, watch year
+I:8487;339;come, animated, classic, be, title, be, great, group, title, come animated, animated classic, classic be, be title, title be, be great, great group, group title
+I:8487;340;force, create, animated, hit, such, bug, car, force create, create animated, animated hit, hit such, such bug, bug car
+I:8487;341;film, be, create, look, beautiful, blu, film be, be create, create look, look beautiful, beautiful blu
+I:8487;342;sure, detail, be, see, teaser, include, special, feature, film, look, fantastic, blu, sure detail, detail be, be see, see teaser, teaser include, include special, special feature, feature film, film look, look fantastic, fantastic blu
+I:8487;343;example, see, detail, be, make, rex, threading, chair, vibrant, color, film, detail, road, film, be, example see, see detail, detail be, be make, make rex, rex threading, threading chair, chair vibrant, vibrant color, color film, film detail, detail road, road film, film be
+I:8487;344;film, look, beautiful, film look, look beautiful
+I:8487;345;old, film, sound, magnificent, lossless, old film, film sound, sound magnificent, magnificent lossless
+I:8487;346;audiophile, be, please, lossless, audio, be, immersive, audiophile be, be please, please lossless, lossless audio, audio be, be immersive
+I:8487;347;be, impressed, lossless, audio, be impressed, impressed lossless, lossless audio
+I:8487;348;o, blast, o blast
+I:8487;349;series, shorts, artist, talk, career, path, share, advice, aspire, filmmaker, animator, series shorts, shorts artist, artist talk, talk career, career path, path share, share advice, advice aspire, aspire filmmaker, filmmaker animator
+I:8487;350;car, film, success, car film, film success
+I:8487;351;short, story, tell, hilarious, story, important, be, team, employee, dress, over, short story, story tell, tell hilarious, hilarious story, story important, important be, be team, team employee, employee dress, dress over
+I:8487;352;special, feature, shot, filmmaker, talk, experience, work, film, special feature, feature shot, shot filmmaker, filmmaker talk, talk experience, experience work, work film
+I:8487;353;critic, star, talk, succeed, thought, watch, film, critic star, star talk, talk succeed, succeed thought, thought watch, watch film
+I:8487;354;ray, special, edition, be, worth, ray special, special edition, edition be, be worth
+I:8487;355;be, impress, be impress
+I:8487;356;ray, much, detail, pop, today, ray much, much detail, detail pop, pop today
+I:8487;357;everything, film, hold, today, everything film, film hold, hold today
+I:8487;358;cg, animation, voice, acting, be, fantastic, overall, story, be, cg animation, animation voice, voice acting, acting be, be fantastic, fantastic overall, overall story, story be
+I:8487;359;be, magic, begin, be magic, magic begin
+I:8487;360;film, catapult, film catapult
+I:8487;361;know, animation, studio, planet, film, create, have, be, successful, know animation, animation studio, studio planet, planet film, film create, create have, have be, be successful
+I:8487;362;ray, release, special, edition, blu, ray release, release special, special edition, edition blu
+I:8487;363;ray, release, be, full, special, feature, ray release, release be, be full, full special, special feature
+I:8487;364;ray, be, worth, owning, ray be, be worth, worth owning
+I:8487;365;special, edition, be, fantastic, film, be, impressive, upgrade, special edition, edition be, be fantastic, fantastic film, film be, be impressive, impressive upgrade
+I:8487;366;ray, release, be, definitive, version, own, time, ray release, release be, be definitive, definitive version, version own, own time
+I:8487;367;be, be, turn, go, college, be be, be turn, turn go, go college
+I:8487;368;kind, movie, anything, be, great, investment, have, small, kid, kind movie, movie anything, anything be, be great, great investment, investment have, have small, small kid
+I:8487;369;classic, sit, entire, family, enjoy, movie, classic sit, sit entire, entire family, family enjoy, enjoy movie
+I:8487;370;matter, age, everyone, love, movie, matter age, age everyone, everyone love, love movie
+I:8487;371;age, be, sure, enjoy, movie, age be, be sure, sure enjoy, enjoy movie
+I:8487;372;video, be, perfect, condition, arrive, time, video be, be perfect, perfect condition, condition arrive, arrive time
+I:8487;373;be, more, money, want, spend, older, movie, have, be, such, good, shopping, experience, be, worth, be more, more money, money want, want spend, spend older, older movie, movie have, have be, be such, such good, good shopping, shopping experience, experience be, be worth
+I:8487;374;think, be, best, movie, think be, be best, best movie
+I:8487;375;whole, family, enjoy, movie, know, be, classic, whole family, family enjoy, enjoy movie, movie know, know be, be classic
+I:8487;376;kid, enjoy, enjoy, kid enjoy, enjoy enjoy
+I:8487;377;be, great, movie, kid, adult, be great, great movie, movie kid, kid adult
+I:8487;378;be, let, future, child, watch, movie, watch, enjoy, lot, tv, show, today, be let, let future, future child, child watch, watch movie, movie watch, watch enjoy, enjoy lot, lot tv, tv show, show today
+I:8487;379;find, play, movie, be, happy, be, thank, enjoy, thanks, find play, play movie, movie be, be happy, happy be, be thank, thank enjoy, enjoy thanks
+I:8487;380;wonderful, feature, team, new, icon, industry, production, wonderful feature, feature team, team new, new icon, icon industry, industry production
+I:8487;381;make, wonderful, production, wonderful, voice, talent, favorite, tv, show, classic, make wonderful, wonderful production, production wonderful, wonderful voice, voice talent, talent favorite, favorite tv, tv show, show classic
+I:8487;382;child, love, wonderful, animated, classic, child love, love wonderful, wonderful animated, animated classic
+I:8487;383;include, wonderful, song, have, get, friend, include wonderful, wonderful song, song have, have get, get friend
+I:8487;384;movie, take, storm, see, summer, theatre, let, tell, movie, be, best, computer, animated, movie, time, movie take, take storm, storm see, see summer, summer theatre, theatre let, let tell, tell movie, movie be, be best, best computer, computer animated, animated movie, movie time
+I:8487;385;plot, be, joyful, original, plot be, be joyful, joyful original
+I:8487;386;story, revolve, quiet, family, home, quiet, town, boy, own, numerous, toy, toddler, sister, story revolve, revolve quiet, quiet family, family home, home quiet, quiet town, town boy, boy own, own numerous, numerous toy, toy toddler, toddler sister
+I:8487;387;assemble, part, create, mutant, toy, clock, be, tick, escape, boy, house, end, be, blow, molecule, assemble part, part create, create mutant, mutant toy, toy clock, clock be, be tick, tick escape, escape boy, boy house, house end, end be, be blow, blow molecule
+I:8487;388;movie, be, fun, original, standard, movie be, be fun, fun original, original standard
+I:8487;389;computer, generate, special, effect, be, innovative, unbelievable, consideree, fact, movie, come, whole, decade, computer generate, generate special, special effect, effect be, be innovative, innovative unbelievable, unbelievable consideree, consideree fact, fact movie, movie come, come whole, whole decade
+I:8487;390;whole, tone, movie, be, fun, charming, be, entire, family, whole tone, tone movie, movie be, be fun, fun charming, charming be, be entire, entire family
+I:8487;391;be, put, newcomer, front, seat, movie, animation, be, start, unbroken, streak, excellent, movie, dynamite, team, be put, put newcomer, newcomer front, front seat, seat movie, movie animation, animation be, be start, start unbroken, unbroken streak, streak excellent, excellent movie, movie dynamite, dynamite team
+I:8487;392;product, be, time, great, condition, product be, be time, time great, great condition
+I:8487;393;be, gift, thank, make, mishap, stress, free, be gift, gift thank, thank make, make mishap, mishap stress, stress free
+I:8487;394;be, gift, old, guy, new, grandson, love, be gift, gift old, old guy, guy new, new grandson, grandson love
+I:8487;395;give, access, character, grandson, be, talk, give access, access character, character grandson, grandson be, be talk
+I:8487;396;cartoon, be, great, picture, be, perfect, cartoon be, be great, great picture, picture be, be perfect
+I:8487;397;ship, time, be, great, live, rural, ship time, time be, be great, great live, live rural
+I:8487;398;ray, better, first, ray better, better first
+I:8487;399;open, whole, new, world, opportunity, animation, world, open whole, whole new, new world, world opportunity, opportunity animation, animation world
+I:8487;400;be, forefather, computer, animated, movie, make, movie, important, make, true, masterpiece, be, year, countless, other, animated, film, hold, be, best, animated, film, time, be forefather, forefather computer, computer animated, animated movie, movie make, make movie, movie important, important make, make true, true masterpiece, masterpiece be, be year, year countless, countless other, other animated, animated film, film hold, hold be, be best, best animated, animated film, film time
+I:8487;401;be, favorite, toy, leader, toy, room, be favorite, favorite toy, toy leader, leader toy, toy room
+I:8487;402;everyone, look, be, respect, admire, everyone look, look be, be respect, respect admire
+I:8487;403;toy, be, such, pleasure, watch, have, accesible, interesting, story, great, character, toy be, be such, such pleasure, pleasure watch, watch have, have accesible, accesible interesting, interesting story, story great, great character
+I:8487;404;be, excellent, character, play, opposite, rest, toy, be, hilarious, be excellent, excellent character, character play, play opposite, opposite rest, rest toy, toy be, be hilarious
+I:8487;405;create, special, film, create special, special film
+I:8487;406;be, true, classic, be true, true classic
+I:8487;407;color, be, reproduce, spot, lot, thing, be, impossible, see, sd, color be, be reproduce, reproduce spot, spot lot, lot thing, thing be, be impossible, impossible see, see sd
+I:8487;408;path, excellent, featurette, feature, animator, start, path excellent, excellent featurette, featurette feature, feature animator, animator start
+I:8487;409;take, feature, ballon, parade, take feature, feature ballon, ballon parade
+I:8487;410;black, see, be, excellent, piece, filmmaker, reflect, original, concept, bad, be, black see, see be, be excellent, excellent piece, piece filmmaker, filmmaker reflect, reflect original, original concept, concept bad, bad be
+I:8487;411;gallery, trailer, disc, gallery trailer, trailer disc
+I:8487;412;close, thought, be, important, animation, world, be, relevant, hilarious, heartfelt, true, masterpiece, close thought, thought be, be important, important animation, animation world, world be, be relevant, relevant hilarious, hilarious heartfelt, heartfelt true, true masterpiece
+I:8487;413;bd, feature, amazing, video, audio, lot, bonus, material, such, come, highest, recommendation, bd feature, feature amazing, amazing video, video audio, audio lot, lot bonus, bonus material, material such, such come, come highest, highest recommendation
+I:8487;414;love, movie, son, have, watch, love movie, movie son, son have, have watch
+I:8487;415;good, flick, do, have, memorize, good flick, flick do, do have, have memorize
+I:8487;416;class, cast, voice, actor, take, care, rest, class cast, cast voice, voice actor, actor take, take care, care rest
+I:8487;417;deserve, bit, recognition, get, role, put, film, shoulder, carry, top, shift, something, have, be, good, other, hand, rage, success, story, deserve bit, bit recognition, recognition get, get role, role put, put film, film shoulder, shoulder carry, carry top, top shift, shift something, something have, have be, be good, good other, other hand, hand rage, rage success, success story
+I:8487;418;animated, film, bring, animated, film, forefront, animated film, film bring, bring animated, animated film, film forefront
+I:8487;419;hold, be, cruder, look, today, standard, hold be, be cruder, cruder look, look today, today standard
+I:8487;420;be, funny, have, great, character, have, nostalgic, sentimental, feel, be funny, funny have, have great, great character, character have, have nostalgic, nostalgic sentimental, sentimental feel
+I:8487;421;look, sound, fantastic, look sound, sound fantastic
+I:8487;422;grandkid, love, do, grandkid love, love do
+I:8487;423;puss, be, great, puss be, be great
+I:8487;424;buy, movie, year, old, grandson, love, buy movie, movie year, year old, old grandson, grandson love
+I:8487;425;be, grandson, favorite, movie, be grandson, grandson favorite, favorite movie
+I:8487;426;other, disc, be, good, portable, player, other disc, disc be, be good, good portable, portable player
+I:8487;427;grand, kiddie, love, have, see, countless, time, doubt, countless, time, grand kiddie, kiddie love, love have, have see, see countless, countless time, time doubt, doubt countless, countless time
+I:8487;428;be, happy, many, reason, be happy, happy many, many reason
+I:8487;429;great, movie, disney/pixars, 1st, moive2, great movie, movie disney/pixars, disney/pixars 1st, 1st moive2
+I:8487;430;have, lot, great, feature, have lot, lot great, great feature
+I:8487;431;be, doubt, best, animated, film, see, classic, movie, theater, year, old, love, be doubt, doubt best, best animated, animated film, film see, see classic, classic movie, movie theater, theater year, year old, old love
+I:8487;432;llhave, watch, vh, tape, have, llhave watch, watch vh, vh tape, tape have
+I:8487;433;have, be, favorite, movie, be, have, own, watch, want, have be, be favorite, favorite movie, movie be, be have, have own, own watch, watch want
+I:8487;434;have, house, full, merchandise, prove, have house, house full, full merchandise, merchandise prove
+I:8487;435;order, movie, month, daughter, love, order movie, movie month, month daughter, daughter love
+I:8487;436;buy, year, old, first, real, movie, love, buy year, year old, old first, first real, real movie, movie love
+I:8487;437;minute, be, captivate, toy, minute be, be captivate, captivate toy
+I:8487;438;love, consider, top, favorite, kid, movie, love consider, consider top, top favorite, favorite kid, kid movie
+I:8487;439;movie, be, girl, favorite, please, enjoy, do, movie be, be girl, girl favorite, favorite please, please enjoy, enjoy do
+I:8487;440;favorite, character, be, course, favorite character, character be, be course
+I:8487;441;be, be, few, year, have, be, park, be, niece, first, time, be be, be few, few year, year have, have be, be park, park be, be niece, niece first, first time
+I:8487;442;imagine, surprise, see, character, lot, ride, imagine surprise, surprise see, see character, character lot, lot ride
+I:8487;443;be, small, world, have, add, character, be small, small world, world have, have add, add character
+I:8487;444;be, new, addition, ride, be new, new addition, addition ride
+I:8487;445;grown, up, kind, roll, eye, grown up, up kind, kind roll, roll eye
+I:8487;446;have, be, childhood, memory, movie, enjoy, re, have be, be childhood, childhood memory, memory movie, movie enjoy, enjoy re
+I:8487;447;get, half, price, get half, half price
+I:8487;448;buy, watch, kid, love, do, buy watch, watch kid, kid love, love do
+I:8487;449;contain, valuable, lesson, child, young, old, child, learn, treat, toy, contain valuable, valuable lesson, lesson child, child young, young old, old child, child learn, learn treat, treat toy
+I:8487;450;addition, love, movie, convey, emotion, happy, sad, happy, addition love, love movie, movie convey, convey emotion, emotion happy, happy sad, sad happy
+I:8487;451;be, sure, be, watch, child, movie, cartoon, enjoy, have, offer, be sure, sure be, be watch, watch child, child movie, movie cartoon, cartoon enjoy, enjoy have, have offer
+I:8487;452;enjoy, fall, love, creation, enjoy fall, fall love, love creation
+I:8487;453;arrive, alloted, time, frame, be, package, arrive alloted, alloted time, time frame, frame be, be package
+I:8487;454;have, happy, grandchild, morning, have happy, happy grandchild, grandchild morning
+I:8487;455;thanks, love, shopping, thanks love, love shopping
+I:8487;456;have, young, child, be, ultimate, family, film, have young, young child, child be, be ultimate, ultimate family, family film
+I:8487;457;have, year, old, girl, have, watch, love, year, have year, year old, old girl, girl have, have watch, watch love, love year
+I:8487;458;have, see, 1st, come, video, teacher, have, buy, family, member, want, make, sure, tape, work, get, watch, class, have see, see 1st, 1st come, come video, video teacher, teacher have, have buy, buy family, family member, member want, want make, make sure, sure tape, tape work, work get, get watch, watch class
+I:8487;459;enjoy, watch, see, 1st, time, know, have, get, enjoy watch, watch see, see 1st, 1st time, time know, know have, have get
+I:8487;460;recommend, movie, fan, disney/pixar, film, fan, computer, animated, movie, recommend movie, movie fan, fan disney/pixar, disney/pixar film, film fan, fan computer, computer animated, animated movie
+I:8487;461;love, movie, go, wrong, story, movie, love movie, movie go, go wrong, wrong story, story movie
+I:8487;462;watch, kid, be, be, love, watch kid, kid be, be be, be love
+I:8487;463;be, great, movie, little, love, be great, great movie, movie little, little love
+I:8487;464;disc, contents, be, same, prefer, certain, case, make, sure, order, correct, disc contents, contents be, be same, same prefer, prefer certain, certain case, case make, make sure, sure order, order correct
+I:8487;465;ray, transfer, be, crisp, clean, perfect, ray transfer, transfer be, be crisp, crisp clean, clean perfect
+I:8487;466;ray, disc, own, be, best, ray disc, disc own, own be, be best
+I:8487;467;be, best, kid, movie, make, be best, best kid, kid movie, movie make
+I:8487;468;great, value, price, pay, great value, value price, price pay
+I:8487;469;believe, deliver, great, message, viewer, believe deliver, deliver great, great message, message viewer
+I:8487;470;least, do, understand, concept, put, work, least do, do understand, understand concept, concept put, put work
+I:8487;471;movie, have, great, plot, write, quest, character, go, movie have, have great, great plot, plot write, write quest, quest character, character go
+I:8487;472;friendship, toy, have, be, incredible, friendship toy, toy have, have be, be incredible
+I:8487;473;be, say, deliver, great, message, be say, say deliver, deliver great, great message
+I:8487;474;thing, demonstrate, bond, plastic, stuff, toy, humankind, thing demonstrate, demonstrate bond, bond plastic, plastic stuff, stuff toy, toy humankind
+I:8487;475;creator, give, movie, put, best, make, laugh, scene, possible, creator give, give movie, movie put, put best, best make, make laugh, laugh scene, scene possible
+I:8487;476;part, rex, favorite, tell, piggybank, come, part rex, rex favorite, favorite tell, tell piggybank, piggybank come
+I:8487;477;be, creator, do, make, best, possible, bring, real, life, be creator, creator do, do make, make best, best possible, possible bring, bring real, real life
+I:8487;478;entire, series, movie, be, timeless, classic, story, friendship, trust, love, entire series, series movie, movie be, be timeless, timeless classic, classic story, story friendship, friendship trust, trust love
+I:8487;479;be, favorite, family, be favorite, favorite family
+I:8487;480;similar, music, lot, same, voice, similar, chase, scene, film, be, good, solid, kid, entertainment, similar music, music lot, lot same, same voice, voice similar, similar chase, chase scene, scene film, film be, be good, good solid, solid kid, kid entertainment
+I:8487;481;weave, content, film, promote, other, film, weave content, content film, film promote, promote other, other film
+I:8487;482;see, movie, few, year, decide, show, movie, toddler, see movie, movie few, few year, year decide, decide show, show movie, movie toddler
+I:8487;483;love, color, be, happy, see, be, love color, color be, be happy, happy see, see be
+I:8487;484;year, old, saw, movie, first, time, be, hooked, year old, old saw, saw movie, movie first, first time, time be, be hooked
+I:8487;485;great, addition, collection, great addition, addition collection
+I:8487;486;movie, be, great, value, anything, imo, movie be, be great, great value, value anything, anything imo
+I:8487;487;kid, watch, movie, day, week, be, entertain, kid watch, watch movie, movie day, day week, week be, be entertain
+I:8487;488;have, chance, see, tech, detail, production, have chance, chance see, see tech, tech detail, detail production
+I:8487;489;story, be, fine, piece, work, story be, be fine, fine piece, piece work
+I:8487;490;give, hr, watch, be, best, pixar, film, make, give hr, hr watch, watch be, be best, best pixar, pixar film, film make
+I:8487;491;give, year, old, movie, ma, love, give year, year old, old movie, movie ma, ma love
+I:8487;492;watch, time, watch time
+I:8487;493;learn, charecter, name, learn charecter, charecter name
+I:8487;494;think, be, excite, chase, move, van, think be, be excite, excite chase, chase move, move van
+I:8487;495;be, great, movie, kid, be great, great movie, movie kid
+I:8487;496;be, lovely, heartfelt, movie, accept, change, come, people, find, be lovely, lovely heartfelt, heartfelt movie, movie accept, accept change, change come, come people, people find
+I:8487;497;be, great, movie, kid, adult, be great, great movie, movie kid, kid adult
+I:8487;498;watch, movie, year, old, granddaughter, enjoy, watch movie, movie year, year old, old granddaughter, granddaughter enjoy
+I:8487;499;be, time, favorite, be time, time favorite
+I:8487;500;character, be, clear, crisp, character be, be clear, clear crisp
+I:8487;501;do, care, be, enjoy, level, do care, care be, be enjoy, enjoy level
+I:8487;502;series, be, perfect, girl, boy, series be, be perfect, perfect girl, girl boy
+I:8487;503;recieve, movie, timely, manner, be, advertise, new, be, shrink, wrap, recieve movie, movie timely, timely manner, manner be, be advertise, advertise new, new be, be shrink, shrink wrap
+I:8487;504;computer, animation, have, advance, year, be, true, masterpiece, entire, family, computer animation, animation have, have advance, advance year, year be, be true, true masterpiece, masterpiece entire, entire family
+I:8487;505;true, visual, treat, watch, feature, absorb, plot, true visual, visual treat, treat watch, watch feature, feature absorb, absorb plot
+I:8487;506;cowboy, be, toy, have, be, boy, favorite, many, year, cowboy be, be toy, toy have, have be, be boy, boy favorite, favorite many, many year
+I:8487;507;have, wing, glow, dark, have, electronic, voicebox, karate, chop, action, have wing, wing glow, glow dark, dark have, have electronic, electronic voicebox, voicebox karate, karate chop, chop action
+I:8487;508;film, feature, several, great, song, film feature, feature several, several great, great song
+I:8487;509;compose, perform, join, closing, credit, version, friend, compose perform, perform join, join closing, closing credit, credit version, version friend
+I:8487;510;great, special, feature, be, song, film, great special, special feature, feature be, be song, song film
+I:8487;511;be, special, feature, let, be, surprise, be special, special feature, feature let, let be, be surprise
+I:8487;512;top, be, great, feature, be, rare, top be, be great, great feature, feature be, be rare
+I:8487;513;special, feature, be, special feature, feature be
+I:8487;514;receive, timely, manner, receive timely, timely manner
+I:8487;515;be, great, movie, age, be great, great movie, movie age
+I:8487;516;refer, new, century, classic, refer new, new century, century classic
+I:8487;517;combine, best, movie, time, get, treat, combine best, best movie, movie time, time get, get treat
+I:8487;518;be, perfect, fan, be perfect, perfect fan
+I:8487;519;recommen, everyone, recommen everyone
+I:8487;520;real, icing, cake, folk, be, be, include, dts, real icing, icing cake, cake folk, folk be, be be, be include, include dts
+I:8487;521;love, movie, come, watch, time, time, love movie, movie come, come watch, watch time, time time
+I:8487;522;reach, sky, be, excellent, fun, reach sky, sky be, be excellent, excellent fun
+I:8487;523;fill, adventure, kid, age, fill adventure, adventure kid, kid age
+I:8487;524;film, compete, owner, affection, film compete, compete owner, owner affection
+I:8487;525;stop, action, packed, adventure, thrilling, climax, stop action, action packed, packed adventure, adventure thrilling, thrilling climax
+I:8487;526;story, be, film, enjoy, watch, agian, story be, be film, film enjoy, enjoy watch, watch agian
+I:8487;527;recommend, product, recommend product
+I:8487;528;entertaining, kid, adult, entertaining kid, kid adult
+I:8487;529;movie, classic, everyone, have, watch, family, movie classic, classic everyone, everyone have, have watch, watch family
+I:8487;530;be, date, kid, continue, love, time, watch, be date, date kid, kid continue, continue love, love time, time watch
+I:8487;531;put, plenty, adult, moment, attract, adult, viewer, put plenty, plenty adult, adult moment, moment attract, attract adult, adult viewer
+I:8487;532;funny, watch, autistic, son, funny watch, watch autistic, autistic son
+I:8487;533;wonderful, little, movie, grandson, watch, least, time, day, wonderful little, little movie, movie grandson, grandson watch, watch least, least time, time day
+I:8487;534;be, fabulous, movie, be fabulous, fabulous movie
+I:8487;535;have, everything, go, great, storyline, great, acting, great, animation, have everything, everything go, go great, great storyline, storyline great, great acting, acting great, great animation
+I:8487;536;issue, classic, issue classic
+I:8487;537;have, listen, lot, track, watch, movie, be, comment, movie, be, progress, be, happen, enjoy, have listen, listen lot, lot track, track watch, watch movie, movie be, be comment, comment movie, movie be, be progress, progress be, be happen, happen enjoy
+I:8487;538;say, movie, song, tell, emotional, moment, film, character, singing, thing, say movie, movie song, song tell, tell emotional, emotional moment, moment film, film character, character singing, singing thing
+I:8487;539;be, shortcut, effective, give, audience, background, need, understand, happen, interlope, be shortcut, shortcut effective, effective give, give audience, audience background, background need, need understand, understand happen, happen interlope
+I:8487;540;movie, have, mix, real, movie have, have mix, mix real
+I:8487;541;speaking, soldier, think, love, green, plastic, soldier, march, attach, little, stand, speaking soldier, soldier think, think love, love green, green plastic, plastic soldier, soldier march, march attach, attach little, little stand
+I:8487;542;episode, blast, be, great, little, introduction, space, shuttle, space, station, lot, real, episode blast, blast be, be great, great little, little introduction, introduction space, space shuttle, shuttle space, space station, station lot, lot real
+I:8487;543;be, job, mess, everything, be, create, film, be job, job mess, mess everything, everything be, be create, create film
+I:8487;544;car, studio, story, be, great, car studio, studio story, story be, be great
+I:8487;545;be, storyboard, clip, reel, cute, simple, graphic, be storyboard, storyboard clip, clip reel, reel cute, cute simple, simple graphic
+I:8487;546;j, tell, win, costume, contest, year, j tell, tell win, win costume, costume contest, contest year
+I:8487;547;call, duty, call duty
+I:8487;548;racing, get, fierce, racing get, get fierce
+I:8487;549;funny, short, narrated, funny short, short narrated
+I:8487;550;black, see, extra, make, special, edition, black see, see extra, extra make, make special, special edition
+I:8487;551;keep, want, multiple, change, particular, rip, keep want, want multiple, multiple change, change particular, particular rip
+I:8487;552;want, story, edgy, cynical, adult, want story, story edgy, edgy cynical, cynical adult
+I:8487;553;way, think, want, way think, think want
+I:8487;554;cringe, cover, face, hand, introduce, part, reel, be, show, dub, black, cringe cover, cover face, face hand, hand introduce, introduce part, part reel, reel be, be show, show dub, dub black
+I:8487;555;spirited, something, see, adult, swim, spirited something, something see, see adult, adult swim
+I:8487;556;week, giant, collective, brain, enthusiasm, redo, way, want, come, start, movie, know, love, week giant, giant collective, collective brain, brain enthusiasm, enthusiasm redo, redo way, way want, want come, come start, start movie, movie know, know love
+I:8487;557;great, extra, movie, be, timeless, great extra, extra movie, movie be, be timeless
+I:8487;558;classic, film, stand, test, time, classic film, film stand, stand test, test time
+I:8487;559;enjoy, much, son, enjoy much, much son
+I:8487;560;cute, movie, hit, kid, be, surprise, name, call, g, rate, movie, cute movie, movie hit, hit kid, kid be, be surprise, surprise name, name call, call g, g rate, rate movie
+I:8487;561;neice, nephew, love, movie, watch, day, neice nephew, nephew love, love movie, movie watch, watch day
+I:8487;562;get, 2nd, go, crazy, get 2nd, 2nd go, go crazy
+I:8487;563;daughter, wife, love, toy, storie, movie, fun, family, recommend, anyone, daughter wife, wife love, love toy, toy storie, storie movie, movie fun, fun family, family recommend, recommend anyone
+I:8487;564;be, thrill, price, pay, movie, be thrill, thrill price, price pay, pay movie
+I:8487;565;son, love, movie, son love, love movie
+I:8487;566;shipping, be, super, fast, curteous, shipping be, be super, super fast, fast curteous
+I:8487;567;be, excellent, deliver, powerful, message, like, kind, movie, have, heart, age, be excellent, excellent deliver, deliver powerful, powerful message, message like, like kind, kind movie, movie have, have heart, heart age
+I:8487;568;thank, video, thank video
+I:8487;569;receive, good, amount, time, enjoy, receive good, good amount, amount time, time enjoy
+I:8487;570;movie, come, be, kid, have, love, movie come, come be, be kid, kid have, have love
+I:8487;571;wait, have, kid, enjoy, movie, have, wait have, have kid, kid enjoy, enjoy movie, movie have
+I:8487;572;removable, top, removable top
+I:8487;573;love, movie, want, watch, day, love movie, movie want, want watch, watch day
+I:8487;574;shipping, be, do, shipping be, be do
+I:8487;575;avoid, film, decade, avoid film, film decade
+I:8487;576;animated, film, build, action, figure, animated film, film build, build action, action figure
+I:8487;577;have, get, give, detail, have get, get give, give detail
+I:8487;578;begin, use, impressed, begin use, use impressed
+I:8487;579;kid, love, kid love
+I:8487;580;wonderful, movie, kid, adult, wonderful movie, movie kid, kid adult
+I:8487;581;sweet, movie, have, decent, storyline, moral, sweet movie, movie have, have decent, decent storyline, storyline moral
+I:8487;582;favorite, movie, favorite movie
+I:8487;583;be, first, full, be first, first full
+I:8487;584;be, group, film, inspire, wonder, imagination, life, time, fit, description, perfectly!have, have, favorite, toy, be group, group film, film inspire, inspire wonder, wonder imagination, imagination life, life time, time fit, fit description, description perfectly!have, perfectly!have have, have favorite, favorite toy
+I:8487;585;be, happy, order, video, be happy, happy order, order video
+I:8487;586;be, timeless, classic, have, enthral, neice, nephew, own, child, be timeless, timeless classic, classic have, have enthral, enthral neice, neice nephew, nephew own, own child
+I:8487;587;movie, be, good, put, star, movie, movie be, be good, good put, put star, star movie
+I:8487;588;write, story, full, imagination, brilliant, theme, write story, story full, full imagination, imagination brilliant, brilliant theme
+I:8487;589;touch, imagination, child, adult, touch imagination, imagination child, child adult
+I:8487;590;be, favorite, mine, be favorite, favorite mine
+I:8487;591;everything, movie, be, good, everything movie, movie be, be good
+I:8487;592;toy, have, life, own, go, animation, toy have, have life, life own, own go, go animation
+I:8487;593;bond, be, form, woody, buzz, remind, alot, friendship, have, grow, bond be, be form, form woody, woody buzz, buzz remind, remind alot, alot friendship, friendship have, have grow
+I:8487;594;recommend, child, see, street, fun, loving, adult, recommend child, child see, see street, street fun, fun loving, loving adult
+I:8487;595;check, toy, story, upcoming, toy, story, pixar, check toy, toy story, story upcoming, upcoming toy, toy story, story pixar
+I:8487;596;kid, love, kid love
+I:8487;597;sound, be, much, improve, sound be, be much, much improve
+I:8487;598;have, make, movie, shine, have make, make movie, movie shine
+I:8487;599;be, disney, fan, be, own, be disney, disney fan, fan be, be own
+I:8487;600;own, previous, version, dollar, be, worth, pick, edition, own previous, previous version, version dollar, dollar be, be worth, worth pick, pick edition
+I:8487;601;guarantee, pixar, movie, be, movie, get, guarantee pixar, pixar movie, movie be, be movie, movie get
+I:8487;602;love, movie, love movie
+I:8487;603;be, great, age, have, awesome, animation, be great, great age, age have, have awesome, awesome animation
+I:8487;604;be, perfect, age, film, be, lot, way, big, cultural, touchstone, grow, be perfect, perfect age, age film, film be, be lot, lot way, way big, big cultural, cultural touchstone, touchstone grow
+I:8487;605;see, many, year, be, lot, way, nostalgia, trip, remembrance, childhood, see many, many year, year be, be lot, lot way, way nostalgia, nostalgia trip, trip remembrance, remembrance childhood
+I:8487;606;film, be, landmark, animation, field, first, feature, film be, be landmark, landmark animation, animation field, field first, first feature
+I:8487;607;be, technical, masterpiece, guide, light, modern, era, be technical, technical masterpiece, masterpiece guide, guide light, light modern, modern era
+I:8487;608;lot, way, deep, lot way, way deep
+I:8487;609;have, come, grip, fact, be, toy, show, child, find, place, world, have come, come grip, grip fact, fact be, be toy, toy show, show child, child find, find place, place world
+I:8487;610;be, greatest, film, continue, be, favorite, child, today, be greatest, greatest film, film continue, continue be, be favorite, favorite child, child today
+I:8487;611;cultural, icon, character, live, work, be, judge, series, cultural icon, icon character, character live, live work, work be, be judge, judge series
+I:8487;612;be, remarkable, film, move, be remarkable, remarkable film, film move
+I:8487;613;film, look, fantastic, blu, film look, look fantastic, fantastic blu
+I:8487;614;own, movie, car, own movie, movie car
+I:8487;615;transfer, be, first, rate, show, transfer be, be first, first rate, rate show
+I:8487;616;movie, be, best, franchise, movie be, be best, best franchise
+I:8487;617;be, fantastic, voice, lead, character, story, be, fun, age, be fantastic, fantastic voice, voice lead, lead character, character story, story be, be fun, fun age
+I:8487;618;be, joke, adult, understand, have, laser, envy, funny, line, be, fast, furious, keep, attention, focus, everyone, be joke, joke adult, adult understand, understand have, have laser, laser envy, envy funny, funny line, line be, be fast, fast furious, furious keep, keep attention, attention focus, focus everyone
+I:8487;619;favorite, character, be, neurotic, dinosaur, toy, be, great, have, distinctive, personality, favorite character, character be, be neurotic, neurotic dinosaur, dinosaur toy, toy be, be great, great have, have distinctive, distinctive personality
+I:8487;620;great, view, year, old, son, love, great view, view year, year old, old son, son love
+I:8487;621;be, instant, hit, kid, be instant, instant hit, hit kid
+I:8487;622;make, interesting, conversation, say, least, make interesting, interesting conversation, conversation say, say least
+I:8487;623;have, find, kid, talk, toy, have find, find kid, kid talk, talk toy
+I:8487;624;see, come, alive, see come, come alive
+I:8487;625;great, animation, great, age, great animation, animation great, great age
+I:8487;626;relevant, human, emotion, surface, toy, relevant human, human emotion, emotion surface, surface toy
+I:8487;627;human, toy, have, adventure, house, human toy, toy have, have adventure, adventure house
+I:8487;628;be, movie, appeal, age, be movie, movie appeal, appeal age
+I:8487;629;be, joke, adult, understand, animation, appeal, younger, audience, be joke, joke adult, adult understand, understand animation, animation appeal, appeal younger, younger audience
+I:8487;630;be, classic, movie, good, age, be classic, classic movie, movie good, good age
+I:8487;631;be, word, describe, child, classic, watch, year, old, be word, word describe, describe child, child classic, classic watch, watch year, year old
+I:8487;632;be, classic, entertain, kid, adult, be classic, classic entertain, entertain kid, kid adult
+I:8487;633;great, package, great, movie, great package, package great, great movie
+I:8487;634;other, tape, get, eat, machine, other tape, tape get, get eat, eat machine
+I:8487;635;love, tape, arrive, expect, excellent, condition, love tape, tape arrive, arrive expect, expect excellent, excellent condition
+I:8487;636;great, computer, animation, great, voice, act, solid, story, great computer, computer animation, animation great, great voice, voice act, act solid, solid story
+I:8487;637;movie, be, have, young, old, movie be, be have, have young, young old
+I:8487;638;whole, family, enjoy, movie, do, whole family, family enjoy, enjoy movie, movie do
+I:8487;639;kid, own, love, kid own, own love
+I:8487;640;buy, grandbaby, love, buy grandbaby, grandbaby love
+I:8487;641;cute, story, baby, cute story, story baby
+I:8487;642;daughter, do, like, movie, be, infant, stage, love, toddler, stage, daughter do, do like, like movie, movie be, be infant, infant stage, stage love, love toddler, toddler stage
+I:8487;643;love, thing, have, do, collect, love thing, thing have, have do, do collect
+I:8487;644;be, perfect, damage, good, price, complete, set, be, fourth, story, horizon, be perfect, perfect damage, damage good, good price, price complete, complete set, set be, be fourth, fourth story, story horizon
+I:8487;645;movie, be, cute, adorable, awesome, film, watch, movie be, be cute, cute adorable, adorable awesome, awesome film, film watch
+I:8487;646;do, excellent, job, do excellent, excellent job
+I:8487;647;adore, movie, adore movie
+I:8487;648;have, see, movie, dozen, time, more, time, be, be, discover, first, time, have see, see movie, movie dozen, dozen time, time more, more time, time be, be be, be discover, discover first, first time
+I:8487;649;specialty, seem, be, make, great, child, movie, resonate, adult, do, specialty seem, seem be, be make, make great, great child, child movie, movie resonate, resonate adult, adult do
+I:8487;650;great, film, people, age, great film, film people, people age
+I:8487;651;cute, fun, film, cute fun, fun film
+I:8487;652;other, movie, play, fine, other movie, movie play, play fine
+I:8487;653;be, great, movie, whole, family, watch, be great, great movie, movie whole, whole family, family watch
+I:8487;654;year, old, love, movie, be, excite, see, great, price, come, perfect, condition, new, word, year old, old love, love movie, movie be, be excite, excite see, see great, great price, price come, come perfect, perfect condition, condition new, new word
+I:8487;655;love, come, kid, love, love come, come kid, kid love
+I:8487;656;buy, new, think, buy new, new think
+I:8487;657;movie, be, son, favorite, movie be, be son, son favorite
+I:8487;658;love, see, toy, come, life, movie, provide, lasting, entertainment, be, play, own, toysl, love see, see toy, toy come, come life, life movie, movie provide, provide lasting, lasting entertainment, entertainment be, be play, play own, own toysl
+I:8487;659;be, gift, grandson, think, be, terrific, be gift, gift grandson, grandson think, think be, be terrific
+I:8487;660;beginning, era, thanks, film, beginning era, era thanks, thanks film
+I:8487;661;clever, animated, story, keep, yr, old, interested, start, finish, clever animated, animated story, story keep, keep yr, yr old, old interested, interested start, start finish
+I:8487;662;be, child, love, animation, love, see, creative, way, old, childhood, toy, be, use, create, great, story, be child, child love, love animation, animation love, love see, see creative, creative way, way old, old childhood, childhood toy, toy be, be use, use create, create great, great story
+I:8487;663;sequel, be, good, get, enjoy, something, new, everytime, watch, sequel be, be good, good get, get enjoy, enjoy something, something new, new everytime, everytime watch
+I:8487;664;year, old, love, year old, old love
+I:8487;665;picture, be, good, be, go, get, picture be, be good, good be, be go, go get
+I:8487;666;scary, year, old, like, scary year, year old, old like
+I:8487;667;remember, much, enjoy, come, imagine, be, something, son, enjoy, much, remember much, much enjoy, enjoy come, come imagine, imagine be, be something, something son, son enjoy, enjoy much
+I:8487;668;transfer, movie, be, fantastic, transfer movie, movie be, be fantastic
+I:8487;669;be, important, have, great, soundtrack, compose, be important, important have, have great, great soundtrack, soundtrack compose
+I:8487;670;integral, part, movie, integral part, part movie
+I:8487;671;be, lot, special, feature, worth, watch, be lot, lot special, special feature, feature worth, worth watch
+I:8487;672;thanks, have, great, price, package, thanks have, have great, great price, price package
+I:8487;673;family, movie, fun, age, love, entertaining, funny, cute, fun, able, colorful, family movie, movie fun, fun age, age love, love entertaining, entertaining funny, funny cute, cute fun, fun able, able colorful
+I:8487;674;be, best, kid, movie, have, see, be best, best kid, kid movie, movie have, have see
+I:8487;675;animation, humor, creativity, be, spot, animation humor, humor creativity, creativity be, be spot
+I:8487;676;be, favorite, be favorite
+I:8487;677;film, get, leave, gas, station, get, capture, mean, kid, street, have, overcome, fact, be, child, play, toy, rescue, be, strap, rocket!overall, good, way, kick, franchise, many, more, come, film get, get leave, leave gas, gas station, station get, get capture, capture mean, mean kid, kid street, street have, have overcome, overcome fact, fact be, be child, child play, play toy, toy rescue, rescue be, be strap, strap rocket!overall, rocket!overall good, good way, way kick, kick franchise, franchise many, many more, more come
+I:8487;678;buy, niece, love, buy niece, niece love
+I:8487;679;recommend, friend, recommend friend
+I:8487;680;be, great, matter, young, young, heart, be great, great matter, matter young, young young, young heart
+I:8487;681;best, movie, make, best movie, movie make
+I:8487;682;miss, other, movie, miss other, other movie
+I:8487;683;time, do, fly, time do, do fly
+I:8487;684;have, be, huge, fan, series, be, overall, amazing, have be, be huge, huge fan, fan series, series be, be overall, overall amazing
+I:8487;685;be, wonderful, be, be wonderful, wonderful be
+I:8487;686;movie, be, amazing, blu, movie be, be amazing, amazing blu
+I:8487;687;be, such, big, hit, come, love, be such, such big, big hit, hit come, come love
+I:8487;688;add, delete, scene, be, storyboard, fun, add delete, delete scene, scene be, be storyboard, storyboard fun
+I:8487;689;wow, be, exciting, kid, wow be, be exciting, exciting kid
+I:8487;690;adult, movie, buff, kid, be, real, snooze, adult movie, movie buff, buff kid, kid be, be real, real snooze
+I:8487;691;sequel, movie, be, good, fill, back, story, toy, be, spin, sequel movie, movie be, be good, good fill, fill back, back story, story toy, toy be, be spin
+I:8487;692;toy, popular, old, tv, series, individualize, toy popular, popular old, old tv, tv series, series individualize
+I:8487;693;be, real, kid, movie, adult, be real, real kid, kid movie, movie adult
+I:8487;694;view, second, series, provide, fun, view, be, much, growth, view second, second series, series provide, provide fun, fun view, view be, be much, much growth
+I:8487;695;story, be, funny, teach, lot, good, value, kid, adult, loyalty, work, team, friendship, story be, be funny, funny teach, teach lot, lot good, good value, value kid, kid adult, adult loyalty, loyalty work, work team, team friendship
+I:8487;696;be, perfect, part, be perfect, perfect part
+I:8487;697;other, character, work, other character, character work
+I:8487;698;landmark, movie, usher, animation, computer, age, be, family, classic, landmark movie, movie usher, usher animation, animation computer, computer age, age be, be family, family classic
+I:8487;699;funny, get, funny get
+I:8487;700;superb, package, bring, movie, full, bonus, superb package, package bring, bring movie, movie full, full bonus
+I:8487;701;theater, outfits, digital, print, show, great, color, various, toy, character, pristine, bright, glory, theater outfits, outfits digital, digital print, print show, show great, great color, color various, various toy, toy character, character pristine, pristine bright, bright glory
+I:8487;702;best, do, need, best do, do need
+I:8487;703;dolby, amp, enjoy, newer, dolby amp, amp enjoy, enjoy newer
+I:8487;704;movie, course, introduce, new, innovative, animation, outfit, call, world, movie course, course introduce, introduce new, new innovative, innovative animation, animation outfit, outfit call, call world
+I:8487;705;course, be, icon, kid, age, other, member, community, be, great, course be, be icon, icon kid, kid age, age other, other member, member community, community be, be great
+I:8487;706;combination, buddy, comedy, toy, fair, combination buddy, buddy comedy, comedy toy, toy fair
+I:8487;707;fi, flick, domestic, sitcom, name, few, element, be, own, way, multus, fi flick, flick domestic, domestic sitcom, sitcom name, name few, few element, element be, be own, own way, way multus
+I:8487;708;layered, satisfying, mature, adult, dramas, layered satisfying, satisfying mature, mature adult, adult dramas
+I:8487;709;disc, have, movie, new, feature, team, few, other, robot, offer, view, do, transform, entire, animation, genre, disc have, have movie, movie new, new feature, feature team, team few, few other, other robot, robot offer, offer view, view do, do transform, transform entire, entire animation, animation genre
+I:8487;710;be, have, goods, be have, have goods
+I:8487;711;couple, dozen, feature, clip, art, gallery, break, wall, give, kid/family, core, crowd, animation, scholar, remarkable, look, much, effort, go, sort, film, couple dozen, dozen feature, feature clip, clip art, art gallery, gallery break, break wall, wall give, give kid/family, kid/family core, core crowd, crowd animation, animation scholar, scholar remarkable, remarkable look, look much, much effort, effort go, go sort, sort film
+I:8487;712;fact, form, be, infancy, time, enhance, great, craftsman, people, be, fact form, form be, be infancy, infancy time, time enhance, enhance great, great craftsman, craftsman people, people be
+I:8487;713;voice, be, fantastic, piano, player, voice be, be fantastic, fantastic piano, piano player
+I:8487;714;be, simple, be, ideal, choice, child, first, movie, sophisticated, enough, give, serious, cineaste, plenty, study, be simple, simple be, be ideal, ideal choice, choice child, child first, first movie, movie sophisticated, sophisticated enough, enough give, give serious, serious cineaste, cineaste plenty, plenty study
+I:8487;715;be, witty, best, literate, comedy, warm, old, be witty, witty best, best literate, literate comedy, comedy warm, warm old
+I:8487;716;drawer, star, be, great, voice, actor, enter, child, world, fresh, drawer star, star be, be great, great voice, voice actor, actor enter, enter child, child world, world fresh
+I:8487;717;movie, toy, creation, be, show, great, show, kid, personality, movie toy, toy creation, creation be, be show, show great, great show, show kid, kid personality
+I:8487;718;establish, flagship, animated, feature, establish flagship, flagship animated, animated feature
+I:8487;719;be, incredible, be, first, be incredible, incredible be, be first
+I:8487;720;deluxe, edition, be, animation, buff, family, kid, anyone, love, movie, deluxe edition, edition be, be animation, animation buff, buff family, family kid, kid anyone, anyone love, love movie
+I:8487;721;great, sequel, dare, say, animation, great sequel, sequel dare, dare say, say animation
+I:8487;722;luck, be, best, luck be, be best
+I:8487;723;love, movie, infinity, love movie, movie infinity
+I:8487;724;be, excellent, child, adult, be excellent, excellent child, child adult
+I:8487;725;contain, humor, great, plot, loveable, character, contain humor, humor great, great plot, plot loveable, loveable character
+I:8487;726;end, be, make, purse, end be, be make, make purse
+I:8487;727;secular, point, view, be, make, movie, secular point, point view, view be, be make, make movie
+I:8487;728;entertaining, kid, adult, entertaining kid, kid adult
+I:8487;729;be, classic, movie, be classic, classic movie
+I:8487;730;kid, adult, remember, watch, teenager, come, toddler, love, kid adult, adult remember, remember watch, watch teenager, teenager come, come toddler, toddler love
+I:8487;731;kid, watch, minute, be, great, want, finish, watch, let, kid watch, watch minute, minute be, be great, great want, want finish, finish watch, watch let
+I:8487;732;love, movie, great, character, justfun, watch, family, love movie, movie great, great character, character justfun, justfun watch, watch family
+I:8487;733;classic, movie, winner, set, classic movie, movie winner, winner set
+I:8487;734;family, love, movie, family love, love movie
+I:8487;735;recommend, anyone, recommend anyone
+I:8487;736;be, excellent, family, film, be excellent, excellent family, family film
+I:8487;737;fun, excitement, laughter, tear, value, fun excitement, excitement laughter, laughter tear, tear value
+I:8487;738;reallyenjoy, like, many, character, reallyenjoy like, like many, many character
+I:8487;739;series, be, become, family, tradition, series be, be become, become family, family tradition
+I:8487;740;glad, order, glad order
+I:8487;741;great, price, delivery, packaging, great price, price delivery, delivery packaging
+I:8487;742;friend, need, last, minute, gift, granddaughter, friend need, need last, last minute, minute gift, gift granddaughter
+I:8487;743;arrive, time, day, spare, arrive time, time day, day spare
+I:8487;744;have, watch, several, time, have watch, watch several, several time
+I:8487;745;child, 4yo, 2yo, 9mo, love, movie, love, child 4yo, 4yo 2yo, 2yo 9mo, 9mo love, love movie, movie love
+I:8487;746;be, good, movie, be good, good movie
+I:8487;747;sharp, mind, robotic, mathematics, sharp mind, mind robotic, robotic mathematics
+I:8487;748;restore, harmony, colony, robot, delight, son, restore harmony, harmony colony, colony robot, robot delight, delight son
+I:8487;749;film, be, animated, make, appeal, child, film be, be animated, animated make, make appeal, appeal child
+I:8487;750;best, cgi, kid, movie, time, best cgi, cgi kid, kid movie, movie time
+I:8487;751;great, movie, family, great movie, movie family
+I:8487;752;love, movie, child, grow, 90, year, old, get, appreciate, series, love movie, movie child, child grow, grow 90, 90 year, year old, old get, get appreciate, appreciate series
+I:8487;753;extra, movie, be, story, be, fantastic, extra movie, movie be, be story, story be, be fantastic
+I:8487;754;play, fine, grandkid, love, price, be, play fine, fine grandkid, grandkid love, love price, price be
+I:8487;755;be, cute, story, little, frightening, place, small, child, be cute, cute story, story little, little frightening, frightening place, place small, small child
+I:8487;756;great, movie, boy, girl, age, great movie, movie boy, boy girl, girl age
+I:8487;757;buy, daughter, want, watch, finish, buy daughter, daughter want, want watch, watch finish
+I:8487;758;recommend, family, friend, recommend family, family friend
+I:8487;759;be, family, movie, be family, family movie
+I:8487;760;have, wonderful, bonus, feature, include, make, be, first, make, featurete, explain, think, charector, include, plot, film, be, awesome, touch, friendship, lesson, movie, be, cowboy, doll, name, have wonderful, wonderful bonus, bonus feature, feature include, include make, make be, be first, first make, make featurete, featurete explain, explain think, think charector, charector include, include plot, plot film, film be, be awesome, awesome touch, touch friendship, friendship lesson, lesson movie, movie be, be cowboy, cowboy doll, doll name
+I:8487;761;time, end, become, best, friend, lifetime!any, fan, enjoy, movie, bonus, features!as, say, time end, end become, become best, best friend, friend lifetime!any, lifetime!any fan, fan enjoy, enjoy movie, movie bonus, bonus features!as, features!as say
+I:8487;762;movie, be, classic, least, movie, go, movie be, be classic, classic least, least movie, movie go
+I:8487;763;be, funny, watch, discover, animation, technology, have, come, few, year, be funny, funny watch, watch discover, discover animation, animation technology, technology have, have come, come few, few year
+I:8487;764;story, be, clever, lot, humor, kid, grow, story be, be clever, clever lot, lot humor, humor kid, kid grow
+I:8487;765;give, star, worth, give star, star worth
+I:8487;766;movie, be, great, aged, kid, movie be, be great, great aged, aged kid
+I:8487;767;everyone, reading, review, know, film, discuss, everyone reading, reading review, review know, know film, film discuss
+I:8487;768;color, be, bright, detail, be, amazing, color be, be bright, bright detail, detail be, be amazing
+I:8487;769;picture, be, perfect, come, detail, source, picture be, be perfect, perfect come, come detail, detail source
+I:8487;770;film, love, blu, ray, film, start, film love, love blu, blu ray, ray film, film start
+I:8487;771;love, come, describe, love come, come describe
+I:8487;772;manage, send, fly, bedroom, window, manage send, send fly, fly bedroom, bedroom window
+I:8487;773;be, masterpiece, be masterpiece
+I:8487;774;animation, be, beautiful, animation be, be beautiful
+I:8487;775;eye, aliens!anyone, enjoy, show, eye aliens!anyone, aliens!anyone enjoy, enjoy show
+I:8487;776;son, be, month, old, love, woddy, son be, be month, month old, old love, love woddy
+I:8487;777;year, old, love, watch, cowboy, movie, year old, old love, love watch, watch cowboy, cowboy movie
+I:8487;778;classic, movie, age, classic movie, movie age
+I:8487;779;video, be, much, fun, mark, tenth, year, be, video be, be much, much fun, fun mark, mark tenth, tenth year, year be
+I:8487;780;think, become, timeless, treasure, be, great, adult, kid, think become, become timeless, timeless treasure, treasure be, be great, great adult, adult kid
+I:8487;781;gang, be, joy, adult, child, gang be, be joy, joy adult, adult child
+I:8487;782;enjoy, go, buy, movie, enjoy go, go buy, buy movie
+I:8487;783;toy, be, great, graphic, scenery, be, toy be, be great, great graphic, graphic scenery, scenery be
+I:8487;784;collectable, be, boy, film, be, ace, anyone, collectable be, be boy, boy film, film be, be ace, ace anyone
+I:8487;785;love, animation, like, be, funny, get, nephew, love, love animation, animation like, like be, be funny, funny get, get nephew, nephew love
+I:8487;786;be, such, big, fan, be, deserve, star, be such, such big, big fan, fan be, be deserve, deserve star
+I:8487;787;movie, year, old, year, old, enjoy, mention, adult, movie year, year old, old year, year old, old enjoy, enjoy mention, mention adult
+I:8487;788;be, best, movie, make, be best, best movie, movie make
+I:8487;789;have, boy, love, have boy, boy love
+I:8487;790;be, great, movie, be great, great movie
+I:8487;791;thanks, year, old, own, thanks year, year old, old own
+I:8487;792;be, excellent, kid, be excellent, excellent kid
+I:8487;793;recommend, movie, everyone, recommend movie, movie everyone
+I:8487;794;first, be, start, wonderful, series, first be, be start, start wonderful, wonderful series
+I:8487;795;story, be, classic, kid, movie, adult, enjoy, watch, story be, be classic, classic kid, kid movie, movie adult, adult enjoy, enjoy watch
+I:8487;796;child, love, movie, child love, love movie
+I:8487;797;think, be, animated, think be, be animated
+I:8487;798;be, terrific, please, child, be terrific, terrific please, please child
+I:8487;799;movie, keep, child, attention, movie keep, keep child, child attention
+I:8487;800;child, watch, year, old, son, love, child watch, watch year, year old, old son, son love
+I:8487;801;make, laugh, make, cry, make laugh, laugh make, make cry
+I:8487;802;think, get, better, better, movie, be, see, think get, get better, better better, better movie, movie be, be see
+I:8487;803;check, manufacturer, be, description, product, check manufacturer, manufacturer be, be description, description product
+I:8487;804;great, work, funny, story, great work, work funny, funny story
+I:8487;805;smart, phone, smart, tv, video, console, have, upto, differnt, technology, streaming, be, same, movie, smart phone, phone smart, smart tv, tv video, video console, console have, have upto, upto differnt, differnt technology, technology streaming, streaming be, be same, same movie
+I:8487;806;love, digital, service, love digital, digital service
+I:8487;807;be, wonderful, movie, friendship, be wonderful, wonderful movie, movie friendship
+I:8487;808;buy, movie, year, old, sister, love, call, main, character, buy movie, movie year, year old, old sister, sister love, love call, call main, main character
+I:8487;809;son, love, movie, son love, love movie
+I:8487;810;be, great, story, be great, great story
+I:8487;811;be, great, movie, little, kid, be great, great movie, movie little, little kid
+I:8487;812;be, great, movie, time, watch, grandson, laugh, scene, be great, great movie, movie time, time watch, watch grandson, grandson laugh, laugh scene
+I:8487;813;be, great, movie, friendship, be great, great movie, movie friendship
+I:8487;814;price, comparable, store, price comparable, comparable store
+I:8487;815;like, fact, do, have, tro, leave, house, shop, like fact, fact do, do have, have tro, tro leave, leave house, house shop
+I:8487;816;grandchild, have, see, love, know, want, keep, grandchild have, have see, see love, love know, know want, want keep
+I:8487;817;part, gift, buy, other, part gift, gift buy, buy other
+I:8487;818;grandson, have, 3rd, edition, love, best, grandson have, have 3rd, 3rd edition, edition love, love best
+I:8487;819;arrive, time, perfect, condition, arrive time, time perfect, perfect condition
+I:8487;820;call, color, call color
+I:8487;821;fun, action, keep, year, old, entertain, happy, fun action, action keep, keep year, year old, old entertain, entertain happy
+I:8487;822;love, buzz, woody, love buzz, buzz woody
+I:8487;823;come, be, great, condition, more, satisfied, desire, see/own, toy, story, come be, be great, great condition, condition more, more satisfied, satisfied desire, desire see/own, see/own toy, toy story
+I:8487;824;like, have, watch, numerous, time, like have, have watch, watch numerous, numerous time
+I:8487;825;get, gift, friend, love, get gift, gift friend, friend love
+I:8487;826;cost, store, be, great, deal, cost store, store be, be great, great deal
+I:8487;827;other, be, great, other be, be great
+I:8487;828;ship, time, ship time
+I:8487;829;character, be, likeable, cute, funny, character be, be likeable, likeable cute, cute funny
+I:8487;830;movie, be, write, movie be, be write
+I:8487;831;good, story, good, character, favorite, household, good story, story good, good character, character favorite, favorite household
+I:8487;832;cute, movie, whole, family, enjoy, cute movie, movie whole, whole family, family enjoy
+I:8487;833;recommend, age, recommend age
+I:8487;834;be, innovative, advance, cartoon, movie, have, see, be innovative, innovative advance, advance cartoon, cartoon movie, movie have, have see
+I:8487;835;be, intrigue, detail, coloration, character, background, be intrigue, intrigue detail, detail coloration, coloration character, character background
+I:8487;836;scene, be, fill, imaginative, fun, adventure, scene be, be fill, fill imaginative, imaginative fun, fun adventure
+I:8487;837;choose, wonderful, actor, voice, main, character, old, choose wonderful, wonderful actor, actor voice, voice main, main character, character old
+I:8487;838;fashion, cowboy, doll, high, fashion cowboy, cowboy doll, doll high
+I:8487;839;create, wonderful, combination, comical, adventurous, plot, create wonderful, wonderful combination, combination comical, comical adventurous, adventurous plot
+I:8487;840;movie, be, fantastic, audience, recommend, everyone, movie be, be fantastic, fantastic audience, audience recommend, recommend everyone
+I:8487;841;wonderful, movie, age, wonderful movie, movie age
+I:8487;842;great, movie, adult, kid, great movie, movie adult, adult kid
+I:8487;843;do, great, work, be, enjoyable, watch, do great, great work, work be, be enjoyable, enjoyable watch
+I:8487;844;love, movie, love movie
+I:8487;845;grandson, love, grandson love
+I:8487;846;amazing, grow, old, amazing grow, grow old
+I:8487;847;yr, son, yr, old, cousin, love, yr son, son yr, yr old, old cousin, cousin love
+I:8487;848;love, buy, sister, seem, watch, more, do, love buy, buy sister, sister seem, seem watch, watch more, more do
+I:8487;849;be, funny, laugh, butt, be, see, great, job, be funny, funny laugh, laugh butt, butt be, be see, see great, great job
+I:8487;850;tell, mommy, tell mommy
+I:8487;851;film, help, boy, age, respect, take, care, toy, film help, help boy, boy age, age respect, respect take, take care, care toy
+I:8487;852;granddaughter, love, granddaughter love
+I:8487;853;be, quote, year, be quote, quote year
+I:8487;854;be, pleased, be, year, old, son, be pleased, pleased be, be year, year old, old son
+I:8487;855;tape, be, clean, play, tape be, be clean, clean play
+I:8487;856;order, way, recommend, method, family, friend, order way, way recommend, recommend method, method family, family friend
+I:8487;857;be, funny, clever, move, be funny, funny clever, clever move
+I:8487;858;kid, adult, kid adult
+I:8487;859;love, movie, love movie
+I:8487;860;watch, grandson, love, see, watch grandson, grandson love, love see
+I:8487;861;great, kid, movie, entertaining, whole, family, great kid, kid movie, movie entertaining, entertaining whole, whole family
+I:8487;862;three.year, old, enjoy, want, watch, three.year old, old enjoy, enjoy want, want watch
+I:8487;863;choose, be, fun, story, boy, girl, age, choose be, be fun, fun story, story boy, boy girl, girl age
+I:8487;864;girl, buy, do, want, cover, boyish, surprise, love, girl buy, buy do, do want, want cover, cover boyish, boyish surprise, surprise love
+I:8487;865;younger, sister, watch, younger sister, sister watch
+I:8487;866;story, be, first, animated, feature, best, animated, film, kind, story be, be first, first animated, animated feature, feature best, best animated, animated film, film kind
+I:8487;867;toy, story, prove, world, art, be, create, cg, animation, toy story, story prove, prove world, world art, art be, be create, create cg, cg animation
+I:8487;868;other, hand, animation, rely, soley, cg, graphic, be, effective, get, love, finding, nemo, other hand, hand animation, animation rely, rely soley, soley cg, cg graphic, graphic be, be effective, effective get, get love, love finding, finding nemo
+I:8487;869;film, be, wonder, anyone, remember, childhood, fill, wide, variety, toy, film be, be wonder, wonder anyone, anyone remember, remember childhood, childhood fill, fill wide, wide variety, variety toy
+I:8487;870;story, fantasy, world, toy, come, life, be, effective, toy, be, base, real, child, toy, story fantasy, fantasy world, world toy, toy come, come life, life be, be effective, effective toy, toy be, be base, base real, real child, child toy
+I:8487;871;film, best, scene, make, use, practical, ability, toy, film best, best scene, scene make, make use, use practical, practical ability, ability toy
+I:8487;872;much, charming, humor, resonate, scene, much charming, charming humor, humor resonate, resonate scene
+I:8487;873;spirited, fantasy, world, be, realistic, own, term, wonder, spirited fantasy, fantasy world, world be, be realistic, realistic own, own term, term wonder
+I:8487;874;story, have, spirited, have, strong, narrative, due, woody, jealousy, buzz, story have, have spirited, spirited have, have strong, strong narrative, narrative due, due woody, woody jealousy, jealousy buzz
+I:8487;875;sequel, be, good, remember, like, orginal, better, sequel be, be good, good remember, remember like, like orginal, orginal better
+I:8487;876;sound, be, magnificant, wonderful, bass, separation, clean, sound be, be magnificant, magnificant wonderful, wonderful bass, bass separation, separation clean
+I:8487;877;top, call, duty, sound, track, top call, call duty, duty sound, sound track
+I:8487;878;year, old, son, love, movie, year old, old son, son love, love movie
+I:8487;879;kid, love, movie, kid love, love movie
+I:8487;880;enjoy, watch, movie, be, nothing, tv, enjoy watch, watch movie, movie be, be nothing, nothing tv
+I:8487;881;fun, whole, family, fun whole, whole family
+I:8487;882;be, great, year, be great, great year
+I:8487;883;whole, family, have, be, enjoy, movie, grand, whole family, family have, have be, be enjoy, enjoy movie, movie grand
+I:8487;884;be, few, movie, remember, loving, be, kid, be few, few movie, movie remember, remember loving, loving be, be kid
+I:8487;885;ray, know, have, have, ray know, know have, have have
+I:8487;886;ray, wait, see, 3rd, hope, be, good, ray wait, wait see, see 3rd, 3rd hope, hope be, be good
+I:8487;887;love, movie, do, whole, family, love movie, movie do, do whole, whole family
+I:8487;888;fun, whole, family, fun whole, whole family
+I:8487;889;have, be, family, favorite, watch, want, have be, be family, family favorite, favorite watch, watch want
+I:8487;890;movie, be, simple, creative, fun, movie be, be simple, simple creative, creative fun
+I:8487;891;enjoy, watch, first, time, year, old, daughter, enjoy watch, watch first, first time, time year, year old, old daughter
+I:8487;892;be, happy, get, be happy, happy get
+I:8487;893;be, please, service, seller, provide, be please, please service, service seller, seller provide
+I:8487;894;perfect, gift, anyone, son, love, perfect gift, gift anyone, anyone son, son love
+I:8487;895;thanks, have, stock, great, price, thanks have, have stock, stock great, great price
+I:8487;896;easy, order, do, easy order, order do
+I:8487;897;toddler, son, love, movie, toddler son, son love, love movie
+I:8487;898;love, quote, sing, song, role, play, character, love quote, quote sing, sing song, song role, role play, play character
+I:8487;899;be, best, movie, have, make, be best, best movie, movie have, have make
+I:8487;900;be, nostalgic, see, toy, grow, plot, be, good, keep, interested, be nostalgic, nostalgic see, see toy, toy grow, grow plot, plot be, be good, good keep, keep interested
+I:8487;901;fun, hole, family, fun hole, hole family
+I:8487;902;get, movie, be, great, get movie, movie be, be great
+I:8487;903;love, movie, have, character, music, be, mp, be, best, movie, love movie, movie have, have character, character music, music be, be mp, mp be, be best, best movie
+I:8487;904;love, movie, come, buy, child, stock, love movie, movie come, come buy, buy child, child stock
+I:8487;905;film, handle, film handle
+I:8487;906;last, longer, be, worth, price, last longer, longer be, be worth, worth price
+I:8487;907;want, watch, right, want watch, watch right
+I:8487;908;thank, help, find, movie, other, wonderful, item, thank help, help find, find movie, movie other, other wonderful, wonderful item
+I:8487;909;wonderful, film, see, first, time, theatre, wonderful film, film see, see first, first time, time theatre
+I:8487;910;warm, charming, funnier, warm charming, charming funnier
+I:8487;911;change, technologies!you, know, be, buddy, picture, change technologies!you, technologies!you know, know be, be buddy, buddy picture
+I:8487;912;be, amazing, be amazing
+I:8487;913;extra, extra, extra, bonus, extra extra, extra extra, extra bonus
+I:8487;914;get, price, youpay, get price, price youpay
+I:8487;915;ray, be, premiere, version, classic, story, ray be, be premiere, premiere version, version classic, classic story
+I:8487;916;be, sure, watch, more, be sure, sure watch, watch more
+I:8487;917;sell, old, get, replace, sell old, old get, get replace
+I:8487;918;be, best, film, be best, best film
+I:8487;919;rely, story, character, important, thing, rely story, story character, character important, important thing
+I:8487;920;classic, age, have, enjoy, movie, classic age, age have, have enjoy, enjoy movie
+I:8487;921;be, nice, addition, collection, be nice, nice addition, addition collection
+I:8487;922;grandkid, play, action, figure, buzz, woody, potato, head, slinky, toy, fun, grandkid play, play action, action figure, figure buzz, buzz woody, woody potato, potato head, head slinky, slinky toy, toy fun
+I:8487;923;recommend, first, movie, recommend first, first movie
+I:8487;924;child, have, enjoy, movie, child have, have enjoy, enjoy movie
+I:8487;925;be, such, great, animated, movie, typical, toy, be, child, room, be such, such great, great animated, animated movie, movie typical, typical toy, toy be, be child, child room
+I:8487;926;humor, be, terrific, kid, age, humor be, be terrific, terrific kid, kid age
+I:8487;927;many, movie, kid, be, make, girl, girl, dream, be, princess, many movie, movie kid, kid be, be make, make girl, girl girl, girl dream, dream be, be princess
+I:8487;928;present, young, boy, name, favorite, toy, present young, young boy, boy name, name favorite, favorite toy
+I:8487;929;wonderful, movie, good, insight, american, suburban, kid, family, wonderful movie, movie good, good insight, insight american, american suburban, suburban kid, kid family
+I:8487;930;kid, love, movie, be, happy, order, kid love, love movie, movie be, be happy, happy order
+I:8487;931;be, good, fun, cute, movie, kid, love, be good, good fun, fun cute, cute movie, movie kid, kid love
+I:8487;932;be, year, movie, get, old, be year, year movie, movie get, get old
+I:8487;933;strength, movie, be, story, strength movie, movie be, be story
+I:8487;934;be, much, territory, explore, flic, have, much, fun, watch, grow, tired, be much, much territory, territory explore, explore flic, flic have, have much, much fun, fun watch, watch grow, grow tired
+I:8487;935;fan, be, bit, curious, fan be, be bit, bit curious
+I:8487;936;entire, package, be, movie, age, age, entire package, package be, be movie, movie age, age age
+I:8487;937;get, enjoy, get enjoy
+I:8487;938;grandson, be, happy, movie, watch, grandson be, be happy, happy movie, movie watch
+I:8487;939;be, worth, penny, be worth, worth penny
+I:8487;940;grandson, love, other, character, grandson love, love other, other character
+I:8487;941;love, go, find, first, story, love go, go find, find first, first story
+I:8487;942;pleased, part, classic, blue, pleased part, part classic, classic blue
+I:8487;943;ray, collectionextreamly, pleased, part, classic, blue, ray collectionextreamly, collectionextreamly pleased, pleased part, part classic, classic blue
+I:8487;944;cowboy, doll, be, favorite, toy, part, come, privilege, be, leader, other, toy, cowboy doll, doll be, be favorite, favorite toy, toy part, part come, come privilege, privilege be, be leader, leader other, other toy
+I:8487;945;succeed, entertainment, level, succeed entertainment, entertainment level
+I:8487;946;story, be, tell, reveal, plot, point, character, story be, be tell, tell reveal, reveal plot, plot point, point character
+I:8487;947;movie, be, funny, lot, joke, adult, audience, classic, line, quote, time, movie be, be funny, funny lot, lot joke, joke adult, adult audience, audience classic, classic line, line quote, quote time
+I:8487;948;movie, be, transfer, digital, file, picture, be, perfect, movie be, be transfer, transfer digital, digital file, file picture, picture be, be perfect
+I:8487;949;sound, be, wonderful, separate, surround, track, sound be, be wonderful, wonderful separate, separate surround, surround track
+I:8487;950;many, extra, be, release, few, year, be, worth, have, many extra, extra be, be release, release few, few year, year be, be worth, worth have
+I:8487;951;commentary, be, informative, commentary be, be informative
+I:8487;952;new, feature, look, movie, year, be, wonderful, new feature, feature look, look movie, movie year, year be, be wonderful
+I:8487;953;be, ground, break, movie, be, much, fun, watch, be, historic, be ground, ground break, break movie, movie be, be much, much fun, fun watch, watch be, be historic
+I:8487;954;have, watch, time, be, remind, fun, be, have watch, watch time, time be, be remind, remind fun, fun be
+I:8487;955;have, get, watch, have get, get watch
+I:8487;956;d, graphic, team, make, movie, best, child, movie, d graphic, graphic team, team make, make movie, movie best, best child, child movie
+I:8487;957;movie, be, go, be, instant, classic, be, adventure, romantic, have, drama, be, supenceful, movie be, be go, go be, be instant, instant classic, classic be, be adventure, adventure romantic, romantic have, have drama, drama be, be supenceful
+I:8487;958;great, thing, be, versitile, child, movie, adult, want, watch, great thing, thing be, be versitile, versitile child, child movie, movie adult, adult want, want watch
+I:8487;959;good, look, sound, great, good look, look sound, sound great
+I:8487;960;have, good, tv, sound, system, be, nice, bump, first, version, have good, good tv, tv sound, sound system, system be, be nice, nice bump, bump first, first version
+I:8487;961;nice, second, disk, extra, nice second, second disk, disk extra
+I:8487;962;order, video, little, grandson, several, year, love, order video, video little, little grandson, grandson several, several year, year love
+I:8487;963;have, take, other, grandchild, see, movie, be, theater, love, have take, take other, other grandchild, grandchild see, see movie, movie be, be theater, theater love
+I:8487;964;be, year, old, memory, be, precious, be year, year old, old memory, memory be, be precious
+I:8487;965;buy, video, younger, grandson, absolute, love, need, own, copy, buy video, video younger, younger grandson, grandson absolute, absolute love, love need, need own, own copy
+I:8487;966;boy, be, love, movie, boy be, be love, love movie
+I:8487;967;be, mother, look, deal, get, have, best, price, be mother, mother look, look deal, deal get, get have, have best, best price
+I:8487;968;buy, gift, grandson, have, receive, appreciate, come, buy gift, gift grandson, grandson have, have receive, receive appreciate, appreciate come
+I:8487;969;wonderful, film, year, old, grandson, have, watch, least, time, wonderful film, film year, year old, old grandson, grandson have, have watch, watch least, least time
+I:8487;970;have, doll, play, act, have doll, doll play, play act
+I:8487;971;be, movie, know, story, line, provide, such, relate, be movie, movie know, know story, story line, line provide, provide such, such relate
+I:8487;972;able, story, experience, life, able story, story experience, experience life
+I:8487;973;movie, be, classic, be, own, everyone, movie be, be classic, classic be, be own, own everyone
+I:8487;974;adult, enjoy, movie, be, child, favorite, adult enjoy, enjoy movie, movie be, be child, child favorite
+I:8487;975;year, enjoy, movie, do, year enjoy, enjoy movie, movie do
+I:8487;976;be, impressive, time, story, be, engaging, compelling, enjoyable, kid, adult, be impressive, impressive time, time story, story be, be engaging, engaging compelling, compelling enjoyable, enjoyable kid, kid adult
+I:8487;977;rare, feat, movie, rare feat, feat movie
+I:8487;978;be, hilarious, moment, be hilarious, hilarious moment
+I:8487;979;kid, love, kid love
+I:8487;980;shop, replace, other, shop replace, replace other
+I:8487;981;love, love, love, watch, few, time, weekjust, great, other, pixar, movie, be, get, love love, love love, love watch, watch few, few time, time weekjust, weekjust great, great other, other pixar, pixar movie, movie be, be get
+I:8487;982;glad, introduce, movie, toddler, love, glad introduce, introduce movie, movie toddler, toddler love
+I:8487;983;have, go, long, watch, best, part, be, guess, voice, actor, have go, go long, long watch, watch best, best part, part be, be guess, guess voice, voice actor
+I:8487;984;question, be, answer, question be, be answer
+I:8487;985;mangled, toy, be, creepy, cute, own, weird, way, save, day, toy, mangled toy, toy be, be creepy, creepy cute, cute own, own weird, weird way, way save, save day, day toy
+I:8487;986;def, setup, sight, sound, be, breathtaking, def setup, setup sight, sight sound, sound be, be breathtaking
+I:8487;987;add, bonus, register, blu, add bonus, bonus register, register blu
+I:8487;988;recommend, movie, be, last, person, planet, have, see, recommend movie, movie be, be last, last person, person planet, planet have, have see
+I:8487;989;kid, have, see, film, numerous, time, kid have, have see, see film, film numerous, numerous time
+I:8487;990;great, character, story, voice, animation, lot, laugh, good, musical, soundtrack, great character, character story, story voice, voice animation, animation lot, lot laugh, laugh good, good musical, musical soundtrack
+I:8487;991;toy, story, be, film, age, toy story, story be, be film, film age
+I:8487;992;character, be, develop, understand, be, go, character be, be develop, develop understand, understand be, be go
+I:8487;993;great, film, hope, make, great film, film hope, hope make
+I:8487;994;toy, story, be, first, animated, film, do, computer, be, get, much, heart, humanity, be, moot, point, toy story, story be, be first, first animated, animated film, film do, do computer, computer be, be get, get much, much heart, heart humanity, humanity be, be moot, moot point
+I:8487;995;caress, toy, youth, be, delight, child, adult, caress toy, toy youth, youth be, be delight, delight child, child adult
+I:8487;996;marvelous, cast, vocal, talent, name, view, loving, appreciation, fragility, childhood, toy, story, be, amazing, cinematic, achievement, many, delightful, joke, humorous, aside, marvelous cast, cast vocal, vocal talent, talent name, name view, view loving, loving appreciation, appreciation fragility, fragility childhood, childhood toy, toy story, story be, be amazing, amazing cinematic, cinematic achievement, achievement many, many delightful, delightful joke, joke humorous, humorous aside
+I:8487;997;toy, story, be, warmhearted, unprecedented, fun, toy story, story be, be warmhearted, warmhearted unprecedented, unprecedented fun
+I:8487;998;love, movie, debut, big, screen, love movie, movie debut, debut big, big screen
+I:8487;999;funny, charming, inventive, brilliant, story, animation, work, make, watchable, infinity, funny charming, charming inventive, inventive brilliant, brilliant story, story animation, animation work, work make, make watchable, watchable infinity
+I:8487;1000;nice, job, nice job
+I:8487;1001;be, best, pixar, movie, be best, best pixar, pixar movie
+I:8487;1002;be, fun, entertaining, stock, matter, be fun, fun entertaining, entertaining stock, stock matter
+I:8487;1003;be, old, fashion, pull, string, cowboy, toy, be, favorite, toy, be old, old fashion, fashion pull, pull string, string cowboy, cowboy toy, toy be, be favorite, favorite toy
+I:8487;1004;be, big, hit, other, toy, become, new, favorite, toy, be big, big hit, hit other, other toy, toy become, become new, new favorite, favorite toy
+I:8487;1005;lady, adventuref, lady adventuref
+I:8487;1006;dream, come, trueg, dream come, come trueg
+I:8487;1007;yr, old, love, movie, yr old, old love, love movie
+I:8487;1008;love, do, sequel, love do, do sequel
+I:8487;1009;have, wonderful, animation, start, infamous, computer, have wonderful, wonderful animation, animation start, start infamous, infamous computer
+I:8487;1010;animated, trend, kid, movie, ton, great, character, original, plot, animated trend, trend kid, kid movie, movie ton, ton great, great character, character original, original plot
+I:8487;1011;whole, concept, toy, talk, have, life, be, fun, child, whole concept, concept toy, toy talk, talk have, have life, life be, be fun, fun child
+I:8487;1012;grandson, love, movie, do, grandson love, love movie, movie do
+I:8487;1013;animation, toy, story, be, rough, kid, do, notice, love, revisit, movie, animation toy, toy story, story be, be rough, rough kid, kid do, do notice, notice love, love revisit, revisit movie
+I:8487;1014;d, show, amazing, be, be, able, take, movie, be, make, 90, make, look, be, create, year, d show, show amazing, amazing be, be be, be able, able take, take movie, movie be, be make, make 90, 90 make, make look, look be, be create, create year
+I:8487;1015;audio, be, incredible, sound, be, room, audio be, be incredible, incredible sound, sound be, be room
+I:8487;1016;toy, be, great, expect, be, show, kid, have, toy be, be great, great expect, expect be, be show, show kid, kid have
+I:8487;1017;be, huge, fan, love, have, blu, be huge, huge fan, fan love, love have, have blu
+I:8487;1018;love, movie, child, love movie, movie child
+I:8487;1019;encouraging, seem, get, attention, encouraging seem, seem get, get attention
+I:8487;1020;watch, love, watch love
+I:8487;1021;be, satisfied, fast, delivery, product, be satisfied, satisfied fast, fast delivery, delivery product
+I:8487;1022;get, chance, plastic, metal, toy, communicate, unspoken, concern, many, intelligent, way, get chance, chance plastic, plastic metal, metal toy, toy communicate, communicate unspoken, unspoken concern, concern many, many intelligent, intelligent way
+I:8487;1023;best, one, be, tortilla, make, best one, one be, be tortilla, tortilla make
+I:8487;1024;shift, toy, make, viewer, laugh, brilliant, design, shift toy, toy make, make viewer, viewer laugh, laugh brilliant, brilliant design
+I:8487;1025;get, be, perfect, condition, get be, be perfect, perfect condition
+I:8487;1026;feel, confident, order, link, feel confident, confident order, order link
+I:8487;1027;actor, character, be, choose, actor character, character be, be choose
+I:8487;1028;be, funny, many, level, have, action, great, storyline, be funny, funny many, many level, level have, have action, action great, great storyline
+I:8487;1029;be, wonderful, story, toy, come, life, kid, be, be wonderful, wonderful story, story toy, toy come, come life, life kid, kid be
+I:8487;1030;be, fantastic, movie, cowboy, space, ranger, go, adventure, time, be fantastic, fantastic movie, movie cowboy, cowboy space, space ranger, ranger go, go adventure, adventure time
+I:8487;1031;be, watch, kid, be, torture, be watch, watch kid, kid be, be torture
+I:8487;1032;have, see, several, time, love, have see, see several, several time, time love
+I:8487;1033;see, kid, first, time, disfigured, toy, be, little, creepy, love, movie, see kid, kid first, first time, time disfigured, disfigured toy, toy be, be little, little creepy, creepy love, love movie
+I:8487;1034;great, story, wonderful, animation, fabulous, script, humor, adult, relate, voice, be, movie, be, enjoy, generation, great story, story wonderful, wonderful animation, animation fabulous, fabulous script, script humor, humor adult, adult relate, relate voice, voice be, be movie, movie be, be enjoy, enjoy generation
+I:8487;1035;son, be, year, old, have, love, movie, long, time, son be, be year, year old, old have, have love, love movie, movie long, long time
+I:8487;1036;whole, family, love, whole family, family love
+I:8487;1037;be, classic, live, be classic, classic live
+I:8487;1038;son, like, movie, son like, like movie
+I:8487;1039;be, make, picture, be, bright, keep, little, focus, story, whole, time, teach, value, be make, make picture, picture be, be bright, bright keep, keep little, little focus, focus story, story whole, whole time, time teach, teach value
+I:8487;1040;year, old, love, year old, old love
+I:8487;1041;recommend, anyone, recommend anyone
+I:8487;1042;be, good, movie, age, get, grandson, family, enjoy, watch, movie, be good, good movie, movie age, age get, get grandson, grandson family, family enjoy, enjoy watch, watch movie
+I:8487;1043;movie, be, destine, be, time, classic, list, movie be, be destine, destine be, be time, time classic, classic list
+I:8487;1044;lesson, learn, movie, be, great, kid, age, be, enjoyable, adult, watch, lesson learn, learn movie, movie be, be great, great kid, kid age, age be, be enjoyable, enjoyable adult, adult watch
+I:8487;1045;kid, quote, whole, block, dialogue, movie, love, be, kid quote, quote whole, whole block, block dialogue, dialogue movie, movie love, love be
+I:8487;1046;be, great, movie, whole, family, be great, great movie, movie whole, whole family
+I:8487;1047;love, like, love like
+I:8487;1048;love, moviewoody, be, jealous, buzz, new, toy, love moviewoody, moviewoody be, be jealous, jealous buzz, buzz new, new toy
+I:8487;1049;be, favorite, be favorite
+I:8487;1050;if, want, basic, extra, be, if want, want basic, basic extra, extra be
+I:8487;1051;kid, love, watch, kid love, love watch
+I:8487;1052;generate, be, fun, witty, romp, appeal, adult, child, generate be, be fun, fun witty, witty romp, romp appeal, appeal adult, adult child
+I:8487;1053;story, character, be, simple, enjoyable, cutting, story character, character be, be simple, simple enjoyable, enjoyable cutting
+I:8487;1054;edge, graphic, be, whole, excellent, edge graphic, graphic be, be whole, whole excellent
+I:8487;1055;great, fun, great fun
+I:8487;1056;son, love, movie, do, husband, i., good, watch, family, good, boy, girl, son love, love movie, movie do, do husband, husband i., i. good, good watch, watch family, family good, good boy, boy girl
+I:8487;1057;get, love, disney, movie, get love, love disney, disney movie
+I:8487;1058;doand, be, best, movie, time, doand be, be best, best movie, movie time
+I:8487;1059;be, second, have, order, child, love, be second, second have, have order, order child, child love
+I:8487;1060;take, classic, myth, toy, come, life, leave, room, toy, story, be, rare, animated, movie, be, view, pleasure, anyone, age, take classic, classic myth, myth toy, toy come, come life, life leave, leave room, room toy, toy story, story be, be rare, rare animated, animated movie, movie be, be view, view pleasure, pleasure anyone, anyone age
+I:8487;1061;story, play, favriote, cherish, toy, world, story play, play favriote, favriote cherish, cherish toy, toy world
+I:8487;1062;be, toy, everyone, want, be toy, toy everyone, everyone want
+I:8487;1063;be, astornaut, outer, space, fight, alien, save, life, whole, deal, be astornaut, astornaut outer, outer space, space fight, fight alien, alien save, save life, life whole, whole deal
+I:8487;1064;be, launch, amazing, adventure, put, test, be launch, launch amazing, amazing adventure, adventure put, put test
+I:8487;1065;computer, animation, love, computer animation, animation love
+I:8487;1066;granddaughter, family, take, trip, aquarium, home, child, age, month, year, enjoy, watch, granddaughter family, family take, take trip, trip aquarium, aquarium home, home child, child age, age month, month year, year enjoy, enjoy watch
+I:8487;1067;grandson, be, love, movie, grandson be, be love, love movie
+I:8487;1068;sit, edge, chair, most, sit edge, edge chair, chair most
+I:8487;1069;kid, enjoy, movie, kid enjoy, enjoy movie
+I:8487;1070;have, cute, story, line, fun, character, be, have, movie, collection, have cute, cute story, story line, line fun, fun character, character be, be have, have movie, movie collection
+I:8487;1071;movie, jump, leap, bound, bd, version, movie jump, jump leap, leap bound, bound bd, bd version
+I:8487;1072;be, original, story, toy, be, alive, have, thought, feeling, own, be original, original story, story toy, toy be, be alive, alive have, have thought, thought feeling, feeling own
+I:8487;1073;see, anyone, age, see anyone, anyone age
+I:8487;1074;launch, be, treat, launch be, be treat
+I:8487;1075;be, great, come, perfect, condition, be great, great come, come perfect, perfect condition
+I:8487;1076;watch, time, watch time
+I:8487;1077;son, enjoy, watch, charming, character, son enjoy, enjoy watch, watch charming, charming character
+I:8487;1078;great, watch, kid, age, great watch, watch kid, kid age
+I:8487;1079;boy, love, movie, be, boy love, love movie, movie be
+I:8487;1080;do, enjoy, watch, do enjoy, enjoy watch
+I:8487;1081;kid, see, first, movie, fall, love, be, toy, story, way, kid see, see first, first movie, movie fall, fall love, love be, be toy, toy story, story way
+I:8487;1082;buy, go, sale, buy go, go sale
+I:8487;1083;buy, movie, kid, have, enjoy, buy movie, movie kid, kid have, have enjoy
+I:8487;1084;be, fantastic, movie, be fantastic, fantastic movie
+I:8487;1085;kid, love, adult, enjoy, watch, kid love, love adult, adult enjoy, enjoy watch
+I:8487;1086;be, load, great, character, adventure, fun, story, line, be load, load great, great character, character adventure, adventure fun, fun story, story line
+I:8487;1087;toy, look, awesome, blu, toy look, look awesome, awesome blu
+I:8487;1088;set, be, perfect, gift, set be, be perfect, perfect gift
+I:8487;1089;kid, love, have, watch, countless, time, kid love, love have, have watch, watch countless, countless time
+I:8487;1090;movie, be, generational, favorite, movie be, be generational, generational favorite
+I:8487;1091;kid, watch, few, time, month, least, kid watch, watch few, few time, time month, month least
+I:8487;1092;have, see, movie, recommend, have see, see movie, movie recommend
+I:8487;1093;year, old, love, movie, be, interesting, watch, have, intelligence, insult, year old, old love, love movie, movie be, be interesting, interesting watch, watch have, have intelligence, intelligence insult
+I:8487;1094;movie, arrive, be, great, condition, movie arrive, arrive be, be great, great condition
+I:8487;1095;have, prime, account, have prime, prime account
+I:8487;1096;make, great, animation, great, story, make great, great animation, animation great, great story
+I:8487;1097;kid, favorite, kid favorite
+I:8487;1098;entertaining, make, entertaining make
+I:8487;1099;year, old, enjoy, year, old, ignore, most, year old, old enjoy, enjoy year, year old, old ignore, ignore most
+I:8487;1100;anyone, have, play, drop, grab, game, be, win, know, air, displace, cruise, jetliner, foot, displace, anything, manage, pick, have, be, able, pull, free, anyone have, have play, play drop, drop grab, grab game, game be, be win, win know, know air, air displace, displace cruise, cruise jetliner, jetliner foot, foot displace, displace anything, anything manage, manage pick, pick have, have be, be able, able pull, pull free
+I:8487;1101;be, cowboy!some, people, be cowboy!some, cowboy!some people
+I:8487;1102;star, call, believe, above, comment, be, serious, star call, call believe, believe above, above comment, comment be, be serious
+I:8487;1103;see, have, see, film, many, time, love, see have, have see, see film, film many, many time, time love
+I:8487;1104;original, movie, be, great, age, love, do, grandson, original movie, movie be, be great, great age, age love, love do, do grandson
+I:8487;1105;be, wonderful, present, young, boy, enjoy, be wonderful, wonderful present, present young, young boy, boy enjoy
+I:8487;1106;great, price, compare, other, store, great price, price compare, compare other, other store
+I:8487;1107;have, love, have love
+I:8487;1108;movie, be, group, receive, same, respect, older, film, movie be, be group, group receive, receive same, same respect, respect older, older film
+I:8487;1109;be, first, computer, animated, film, be, favorite, be first, first computer, computer animated, animated film, film be, be favorite
+I:8487;1110;great, classic, young, old, great classic, classic young, young old
+I:8487;1111;love, see, toy, grow, one, kid, play, love see, see toy, toy grow, grow one, one kid, kid play
+I:8487;1112;be, senior, citizen, do, watch, lot, child, movie, enjoy, movie, be senior, senior citizen, citizen do, do watch, watch lot, lot child, child movie, movie enjoy, enjoy movie
+I:8487;1113;price, be, incredible, be, satisfied, customer, have, price be, be incredible, incredible be, be satisfied, satisfied customer, customer have
+I:8487;1114;thank, great, service, thank great, great service
+I:8487;1115;cute, story, graphic, be, great, cartoon, son, love, series, enjoy, character, cute story, story graphic, graphic be, be great, great cartoon, cartoon son, son love, love series, series enjoy, enjoy character
+I:8487;1116;great, hit, kid, age, great hit, hit kid, kid age
+I:8487;1117;be, first, time, have, order, be, surprised, easy, rewarding, be, be first, first time, time have, have order, order be, be surprised, surprised easy, easy rewarding, rewarding be
+I:8487;1118;open, enjoy, open enjoy
+I:8487;1119;be, pleasant, experience, order, be pleasant, pleasant experience, experience order
+I:8487;1120;movie, be, cute, have, become, favorite, watch, grandchild, movie be, be cute, cute have, have become, become favorite, favorite watch, watch grandchild
+I:8487;1121;awesome, movie, kid, love, adult, love, awesome movie, movie kid, kid love, love adult, adult love
+I:8487;1122;giggly, recommend, add, collection, digital, copy, giggly recommend, recommend add, add collection, collection digital, digital copy
+I:8487;1123;have, love, see, first, time, be, teenager, have love, love see, see first, first time, time be, be teenager
+I:8487;1124;great, movie, funny, be, huge, fan, disrespectful, talk, character, great movie, movie funny, funny be, be huge, huge fan, fan disrespectful, disrespectful talk, talk character
+I:8487;1125;entire, family, enjoy, movie, kid, share, long, car, ride, plane, trip, keep, entertain, entire family, family enjoy, enjoy movie, movie kid, kid share, share long, long car, car ride, ride plane, plane trip, trip keep, keep entertain
+I:8487;1126;excellent, precursor, thing, come, excellent precursor, precursor thing, thing come
+I:8487;1127;great, animation, musical, score, start, animation, great animation, animation musical, musical score, score start, start animation
+I:8487;1128;be, grandson, favorite, movie, year, be grandson, grandson favorite, favorite movie, movie year
+I:8487;1129;prove, start, produce, release, top, prove start, start produce, produce release, release top
+I:8487;1130;animation, be, flawless, plot, be, superb, character, be, type, help, root, animation be, be flawless, flawless plot, plot be, be superb, superb character, character be, be type, type help, help root
+I:8487;1131;people, be, same, room, making, film, play, people be, be same, same room, room making, making film, film play
+I:8487;1132;earn, be, positive, review, be, award, more, be, earn be, be positive, positive review, review be, be award, award more, more be
+I:8487;1133;son, be, big, fan, son be, be big, big fan
+I:8487;1134;be, wonderful, movie, worth, watch, be wonderful, wonderful movie, movie worth, worth watch
+I:8487;1135;have, be, want, see, great, movie, long, time, have be, be want, want see, see great, great movie, movie long, long time
+I:8487;1136;thanks, have, available, thanks have, have available
+I:8487;1137;be, recent, classic, animated, film, be recent, recent classic, classic animated, animated film
+I:8487;1138;child, age, adult, child age, age adult
+I:8487;1139;be, good, movie, memorable, character, be good, good movie, movie memorable, memorable character
+I:8487;1140;be, little, part, be, entertaining, be little, little part, part be, be entertaining
+I:8487;1141;find, be, interesting, villain, movie, be, troubled, kid, love, destroy, toy, find be, be interesting, interesting villain, villain movie, movie be, be troubled, troubled kid, kid love, love destroy, destroy toy
+I:8487;1142;say, be, fantastic, family, movie, good, movie, animation, make, gentle, toy, say be, be fantastic, fantastic family, family movie, movie good, good movie, movie animation, animation make, make gentle, gentle toy
+I:8487;1143;be, year, old, movie, be, release, have, love, be year, year old, old movie, movie be, be release, release have, have love
+I:8487;1144;have, great, storyline, have great, great storyline
+I:8487;1145;be, leader, toy, such, many, more, be leader, leader toy, toy such, such many, many more
+I:8487;1146;case, be, good, condition, case be, be good, good condition
+I:8487;1147;pleasure, do, business, pleasure do, do business
+I:8487;1148;love, movie, do, year, old, son, love movie, movie do, do year, year old, old son
+I:8487;1149;love, character, storyline, love character, character storyline
+I:8487;1150;little, enjoy, older, sibling, get, chance, remember, day, little enjoy, enjoy older, older sibling, sibling get, get chance, chance remember, remember day
+I:8487;1151;good, movie, fun, realistic, animation, decent, plot, good movie, movie fun, fun realistic, realistic animation, animation decent, decent plot
+I:8487;1152;keep, kid, engross, hold, adult, attention, keep kid, kid engross, engross hold, hold adult, adult attention
+I:8487;1153;sit, number, mediocre, cartoon, movie, get, see, movie, enjoy, sit number, number mediocre, mediocre cartoon, cartoon movie, movie get, get see, see movie, movie enjoy
+I:8487;1154;movie, be, ideal, family, movie, be, enjoy, age, group, movie be, be ideal, ideal family, family movie, movie be, be enjoy, enjoy age, age group
+I:8487;1155;older, child, pick, jealosy, competition, older child, child pick, pick jealosy, jealosy competition
+I:8487;1156;everyone, enjoy, humor, be, plenty, excitement, suspense, everyone enjoy, enjoy humor, humor be, be plenty, plenty excitement, excitement suspense
+I:8487;1157;art, work, be, good, best, part, be, actor, voice, hear, art work, work be, be good, good best, best part, part be, be actor, actor voice, voice hear
+I:8487;1158;begin, end, movie, be, entertaining, begin end, end movie, movie be, be entertaining
+I:8487;1159;thanks, have, good, music, thanks have, have good, good music
+I:8487;1160;movie, be, good, be, buy, people, movie be, be good, good be, be buy, buy people
+I:8487;1161;enjoy, grandchild, do, enjoy grandchild, grandchild do
+I:8487;1162;fact, year, old, be, learn, talk, have, be, say, day, everyday, watch, fact year, year old, old be, be learn, learn talk, talk have, have be, be say, say day, day everyday, everyday watch
+I:8487;1163;great, movie, kid, adult, investment, great movie, movie kid, kid adult, adult investment
+I:8487;1164;most, film, be, gem, be, start, most film, film be, be gem, gem be, be start
+I:8487;1165;love, character, story, love character, character story
+I:8487;1166;kind, movie, be, classic, year, come, kind movie, movie be, be classic, classic year, year come
+I:8487;1167;watch, movie, time, love, humor, watch movie, movie time, time love, love humor
+I:8487;1168;play, good, play good
+I:8487;1169;be, good, product, be good, good product
+I:8487;1170;guy, do, seem, nice, bunch, people, guy do, do seem, seem nice, nice bunch, bunch people
+I:8487;1171;supplement, be, interesting, flesh, thing, have, hear, early, problem, supplement be, be interesting, interesting flesh, flesh thing, thing have, have hear, hear early, early problem
+I:8487;1172;craft, work, art, be, better, be, craft work, work art, art be, be better, better be
+I:8487;1173;be, great, see, be great, great see
+I:8487;1174;be, entertaing, heart, warming, fun, movie, make, be entertaing, entertaing heart, heart warming, warming fun, fun movie, movie make
+I:8487;1175;be, much, fun, child, adult, be much, much fun, fun child, child adult
+I:8487;1176;everybody, have, favorite, character, everybody have, have favorite, favorite character
+I:8487;1177;be, fun, movie, watch, grandkid, be fun, fun movie, movie watch, watch grandkid
+I:8487;1178;classic, story, drama, lot, humor, adult, love, great, voice, fantastic, colorful, animation, frame, classic story, story drama, drama lot, lot humor, humor adult, adult love, love great, great voice, voice fantastic, fantastic colorful, colorful animation, animation frame
+I:8487;1179;good, movie, child, watch, good movie, movie child, child watch
+I:8487;1180;remember, watch, movie, be, kid, remember watch, watch movie, movie be, be kid
+I:8487;1181;ray, pack, version, ray pack, pack version
+I:8487;1182;toy, be, prepare, big, move, new, house, make, sure, everyone, have, move, buddy, one, get, toy be, be prepare, prepare big, big move, move new, new house, house make, make sure, sure everyone, everyone have, have move, move buddy, buddy one, one get
+I:8487;1183;get, knock, yard, sociopath, kid, next, door, be, get, do, daring, rescue, get knock, knock yard, yard sociopath, sociopath kid, kid next, next door, door be, be get, get do, do daring, daring rescue
+I:8487;1184;great, animation, music, fun, age, great animation, animation music, music fun, fun age
+I:8487;1185;recommend, seller, recommend seller
+I:8487;1186;be, awesome, be, be awesome, awesome be
+I:8487;1187;actor, be, voice, character, be, excellent, actor be, be voice, voice character, character be, be excellent
+I:8487;1188;father, like, father like
+I:8487;1189;perfect, story, structure, incredible, character, film, cast, be, cavalcade, star, perfect story, story structure, structure incredible, incredible character, character film, film cast, cast be, be cavalcade, cavalcade star
+I:8487;1190;say, be, entire, line, be, amazing, say be, be entire, entire line, line be, be amazing
+I:8487;1191;watch, adult, watch adult
+I:8487;1192;be, good, funny, movie, funny, remember, be, be good, good funny, funny movie, movie funny, funny remember, remember be
+I:8487;1193;son, be, obsess, movie, son be, be obsess, obsess movie
+I:8487;1194;great, have, rewind, great have, have rewind
+I:8487;1195;be, great, classic, movie, child, age, be great, great classic, classic movie, movie child, child age
+I:8487;1196;toy, look, terrific, matter, release, format, be, watch, toy look, look terrific, terrific matter, matter release, release format, format be, be watch
+I:8487;1197;audio, offer, much, sharper, detail, truer, audio offer, offer much, much sharper, sharper detail, detail truer
+I:8487;1198;front, sound, wider, dynamic, frequency, range, front sound, sound wider, wider dynamic, dynamic frequency, frequency range
+I:8487;1199;be, someone, take, window, cleaner, polish, whole, presentation, be someone, someone take, take window, window cleaner, cleaner polish, polish whole, whole presentation
+I:8487;1200;movie, be, classic, masterpiece, movie be, be classic, classic masterpiece
+I:8487;1201;buy, gift, receiver, love, buy gift, gift receiver, receiver love
+I:8487;1202;edition, have, lot, neat, bonus, stuff, edition have, have lot, lot neat, neat bonus, bonus stuff
+I:8487;1203;recommend, movie, recommend movie
+I:8487;1204;be, first, be, best, movie, year, hold, be first, first be, be best, best movie, movie year, year hold
+I:8487;1205;love, movie, watch, time, day, love movie, movie watch, watch time, time day
+I:8487;1206;be, great, family, movie, funny, be great, great family, family movie, movie funny
+I:8487;1207;entire, movie, create, cgi, entire movie, movie create, create cgi
+I:8487;1208;film, be, star, film be, be star
+I:8487;1209;absolute, masterpiece, way, absolute masterpiece, masterpiece way
+I:8487;1210;character, be, real, be, nothing, real, wonderful, voice, character be, be real, real be, be nothing, nothing real, real wonderful, wonderful voice
+I:8487;1211;be, wonderful, be wonderful
+I:8487;1212;rest, cast, be, perfect, rest cast, cast be, be perfect
+I:8487;1213;best, child, movie, time, best child, child movie, movie time
+I:8487;1214;disc, 10th, anniversary, set, include, number, great, extra, disc 10th, 10th anniversary, anniversary set, set include, include number, number great, great extra
+I:8487;1215;deleted, scene, couple, nice, featurette, video, game, be, pack, wondeful, set, deleted scene, scene couple, couple nice, nice featurette, featurette video, video game, game be, be pack, pack wondeful, wondeful set
+I:8487;1216;heartfelt, movie, time, heartfelt movie, movie time
+I:8487;1217;make, remember, toy, have, kid, wish, keep, make remember, remember toy, toy have, have kid, kid wish, wish keep
+I:8487;1218;great, movie, whole, family, great movie, movie whole, whole family
+I:8487;1219;know, english, version, heart, know english, english version, version heart
+I:8487;1220;understand, spanish, version, understand spanish, spanish version
+I:8487;1221;be, impressed, spanish, dubbing, be, do, include, song, be impressed, impressed spanish, spanish dubbing, dubbing be, be do, do include, include song
+I:8487;1222;have, watch, movie, couple, time, have, enjoy, version, have watch, watch movie, movie couple, couple time, time have, have enjoy, enjoy version
+I:8487;1223;recommend, version, anyone, speak, want, learn, recommend version, version anyone, anyone speak, speak want, want learn
+I:8487;1224;little, one, love, little one, one love
+I:8487;1225;less, keep, occupy, happy, multiple, hour, less keep, keep occupy, occupy happy, happy multiple, multiple hour
+I:8487;1226;toy, kid, like, toy kid, kid like
+I:8487;1227;be, fun, children, movie, son, love, be fun, fun children, children movie, movie son, son love
+I:8487;1228;fun, idea, think, toy, have, own, fun, life, live, do, anything, stay, side, fun idea, idea think, think toy, toy have, have own, own fun, fun life, life live, live do, do anything, anything stay, stay side
+I:8487;1229;year, old, be, hook, be, tape, have, break, year old, old be, be hook, hook be, be tape, tape have, have break
+I:8487;1230;be, new, favorite, be new, new favorite
+I:8487;1231;love, child, do, month, old, son, love child, child do, do month, month old, old son
+I:8487;1232;be, classic, be classic
+I:8487;1233;love, movie, be, little, girl, son, love, love movie, movie be, be little, little girl, girl son, son love
+I:8487;1234;good, kid, movie, remember, watch, kid, kid, watch, love, movie, do, good kid, kid movie, movie remember, remember watch, watch kid, kid kid, kid watch, watch love, love movie, movie do
+I:8487;1235;be, classic, movie, age, enjoy, be classic, classic movie, movie age, age enjoy
+I:8487;1236;be, classic, computer, animated, movie, be classic, classic computer, computer animated, animated movie
+I:8487;1237;fun, full, laugh, fun full, full laugh
+I:8487;1238;be, great, movie, be great, great movie
+I:8487;1239;be, good, be good
+I:8487;1240;be, animated, film, be, amazing, many, front, be animated, animated film, film be, be amazing, amazing many, many front
+I:8487;1241;technological, achievement, computer, generation, be, facinate, technological achievement, achievement computer, computer generation, generation be, be facinate
+I:8487;1242;best, be, true, character, story, best be, be true, true character, character story
+I:8487;1243;be, hillarious, fun, witty, be hillarious, hillarious fun, fun witty
+I:8487;1244;story, have, element, real, issue, jealousy, guilt, love, synthesize, entertaining, film, story have, have element, element real, real issue, issue jealousy, jealousy guilt, guilt love, love synthesize, synthesize entertaining, entertaining film
+I:8487;1245;recommend, picture, child, adult, recommend picture, picture child, child adult
+I:8487;1246;movie, be, classic, remember, child, daughter, love, movie, movie be, be classic, classic remember, remember child, child daughter, daughter love, love movie
+I:8487;1247;be, enjoy, child, be, child, movie, be enjoy, enjoy child, child be, be child, child movie
+I:8487;1248;be, cute, movie, friendship, be, everyone, collection, be cute, cute movie, movie friendship, friendship be, be everyone, everyone collection
+I:8487;1249;story, be, great, kid, adult, family, love, joke, go, head, little, one, story be, be great, great kid, kid adult, adult family, family love, love joke, joke go, go head, head little, little one
+I:8487;1250;love, movie, do, wife, son, buy, first, place, love movie, movie do, do wife, wife son, son buy, buy first, first place
+I:8487;1251;son, turn, love, movie, son turn, turn love, love movie
+I:8487;1252;play, everyday, watch, movie, play everyday, everyday watch, watch movie
+I:8487;1253;movie, arrive, perfect, condition, order, movie arrive, arrive perfect, perfect condition, condition order
+I:8487;1254;buy, grandson, like, buy grandson, grandson like
+I:8487;1255;go, love, go love
+I:8487;1256;have, fun, watch, have fun, fun watch
+I:8487;1257;be, great, shape, play, kid, love, toy, story, good, price, be, box, good, be great, great shape, shape play, play kid, kid love, love toy, toy story, story good, good price, price be, be box, box good
+I:8487;1258;important, contemporary, classic, child, important contemporary, contemporary classic, classic child
+I:8487;1259;love, character, love, story, love, humor, love character, character love, love story, story love, love humor
+I:8487;1260;tire, wonderful, film, age, tire wonderful, wonderful film, film age
+I:8487;1261;be, adult, child, adore, film, be adult, adult child, child adore, adore film
+I:8487;1262;be, great, film, child, be great, great film, film child
+I:8487;1263;adult, find, character, adorable, movie, be, overall, entertaining, experience, adult find, find character, character adorable, adorable movie, movie be, be overall, overall entertaining, entertaining experience
+I:8487;1264;be, great, movie, love, do, love, tom, hank, do, great, job, be great, great movie, movie love, love do, do love, love tom, tom hank, hank do, do great, great job
+I:8487;1265;be, great, be, be great, great be
+I:8487;1266;be, time, classic, be time, time classic
+I:8487;1267;film, be, be, time, give, something, unique, film be, be be, be time, time give, give something, something unique
+I:8487;1268;be, film, kid, adult, enjoy, be film, film kid, kid adult, adult enjoy
+I:8487;1269;toy, story, be, best, cg, movie, love, pixar, hope, toy, storey, be, good, first, toy story, story be, be best, best cg, cg movie, movie love, love pixar, pixar hope, hope toy, toy storey, storey be, be good, good first
+I:8487;1270;film, set, benchmark, computer, animated, film, be, release, look, good, today, film set, set benchmark, benchmark computer, computer animated, animated film, film be, be release, release look, look good, good today
+I:8487;1271;story, be, simple, character, be, marvellous, story be, be simple, simple character, character be, be marvellous
+I:8487;1272;think, idea, be, toy, believe, be, space, deserve, think idea, idea be, be toy, toy believe, believe be, be space, space deserve
+I:8487;1273;conceive, idea, have, funny, time, touch, script, conceive idea, idea have, have funny, funny time, time touch, touch script
+I:8487;1274;worth, mention, song, be, underrated, musician, songwriter, write, music, great, movie, worth mention, mention song, song be, be underrated, underrated musician, musician songwriter, songwriter write, write music, music great, great movie
+I:8487;1275;opinion, be, better, opinion be, be better
+I:8487;1276;viewing, be, simple, use, process, next, time, kid, be, town, viewing be, be simple, simple use, use process, process next, next time, time kid, kid be, be town
+I:8487;1277;be, expect, have, interview, original, actor, include, nice, roundtable, discussion, movie, creater, include, writer, amzing, scene, make, featurette, be expect, expect have, have interview, interview original, original actor, actor include, include nice, nice roundtable, roundtable discussion, discussion movie, movie creater, creater include, include writer, writer amzing, amzing scene, scene make, make featurette
+I:8487;1278;deleted, scene, game, music, video, audio, commentary, deleted scene, scene game, game music, music video, video audio, audio commentary
+I:8487;1279;have, be, greatest, kid, have be, be greatest, greatest kid
+I:8487;1280;bring, animation, cutie, bring animation, animation cutie
+I:8487;1281;character, be, rich, dimensional, most, be, character be, be rich, rich dimensional, dimensional most, most be
+I:8487;1282;cowboy, character, be, successful, reach, freshness, find, original, toy, story, cowboy character, character be, be successful, successful reach, reach freshness, freshness find, find original, original toy, toy story
+I:8487;1283;be, time, favorite, many, child, adult, be time, time favorite, favorite many, many child, child adult
+I:8487;1284;mention, movie, anyone, love, remember, mention movie, movie anyone, anyone love, love remember
+I:8487;1285;watch, give, fun, feeling, give, child, heart, feeling, rest, day, watch give, give fun, fun feeling, feeling give, give child, child heart, heart feeling, feeling rest, rest day
+I:8487;1286;be, much, fun, sit, watch, kid, be much, much fun, fun sit, sit watch, watch kid
+I:8487;1287;be, classic, good, age, get, old, be classic, classic good, good age, age get, get old
+I:8487;1288;watch, time, humor, be, great, watch time, time humor, humor be, be great
+I:8487;1289;year, old, love, year old, old love
+I:8487;1290;recommend, whole, family, recommend whole, whole family
+I:8487;1291;top, anniversary, edition, top anniversary, anniversary edition
+I:8487;1292;deliver, work, great, deliver work, work great
+I:8487;1293;screne, be, humor, screne be, be humor
+I:8487;1294;movie, open, be, love, boy, name, get, new, toy, name, get, envy, knock, window, movie open, open be, be love, love boy, boy name, name get, get new, new toy, toy name, name get, get envy, envy knock, knock window
+I:8487;1295;love, kid, love, share, son, love kid, kid love, love share, share son
+I:8487;1296;movie, get, better, better, have, get, special, place, heart, first, movie get, get better, better better, better have, have get, get special, special place, place heart, heart first
+I:8487;1297;kid, adult, kid adult
+I:8487;1298;first, time, cinematic, history, feature, first time, time cinematic, cinematic history, history feature
+I:8487;1299;result, be, spectacular, result be, be spectacular
+I:8487;1300;thanks, fertile, imagination, animator, have, become, beloved, staple, pop, culture, landscape, thanks fertile, fertile imagination, imagination animator, animator have, have become, become beloved, beloved staple, staple pop, pop culture, culture landscape
+I:8487;1301;toy, particular, become, center, attention, household, toy particular, particular become, become center, center attention, attention household
+I:8487;1302;be, dazzling, look, be dazzling, dazzling look
+I:8487;1303;make, special, be, clever, script, make special, special be, be clever, clever script
+I:8487;1304;dialogue, be, sharp, start, finish, situation, character, find, be, amusing, dialogue be, be sharp, sharp start, start finish, finish situation, situation character, character find, find be, be amusing
+I:8487;1305;voice, work, be, strong, board, distinguish, voice work, work be, be strong, strong board, board distinguish
+I:8487;1306;greatest, triumph, be, ability, appeal, youngster, adult, greatest triumph, triumph be, be ability, ability appeal, appeal youngster, youngster adult
+I:8487;1307;character, keep, kid, smile, nostalgia, generate, affection, beloved, toy, remind, grow, character keep, keep kid, kid smile, smile nostalgia, nostalgia generate, generate affection, affection beloved, beloved toy, toy remind, remind grow
+I:8487;1308;up, similar, love, hold, own, plaything, up similar, similar love, love hold, hold own, own plaything
+I:8487;1309;kudos, put, important, entertaining, film, kudos put, put important, important entertaining, entertaining film
+I:8487;1310;be, absolute, favorite, movie, be absolute, absolute favorite, favorite movie
+I:8487;1311;love, do, kid, love do, do kid
+I:8487;1312;good, movie, watch, year, old, do, seem, little, violent, time, good movie, movie watch, watch year, year old, old do, do seem, seem little, little violent, violent time
+I:8487;1313;move, bring, great, younger, memories!if, have, see, move bring, bring great, great younger, younger memories!if, memories!if have, have see
+I:8487;1314;be, wait, d, be wait, wait d
+I:8487;1315;choose, correct, entertaining, day, choose correct, correct entertaining, entertaining day
+I:8487;1316;modern, classic, be, great, adult, modern, spin, dialogue, give, kid, head, modern classic, classic be, be great, great adult, adult modern, modern spin, spin dialogue, dialogue give, give kid, kid head
+I:8487;1317;be, excited, character, be, right, front, know, name, be excited, excited character, character be, be right, right front, front know, know name
+I:8487;1318;buy, graduation, gift, child, buy graduation, graduation gift, gift child
+I:8487;1319;toy, story, be, classic, movie, be, generation, toy story, story be, be classic, classic movie, movie be, be generation
+I:8487;1320;space, be, lovable, develop, animated, character, create, space be, be lovable, lovable develop, develop animated, animated character, character create
+I:8487;1321;movie, be, hilarious, be, many, poignant, moment, go, song, movie be, be hilarious, hilarious be, be many, many poignant, poignant moment, moment go, go song
+I:8487;1322;many, talented, actor, contribute, voice, movie, include, memorable, song, many talented, talented actor, actor contribute, contribute voice, voice movie, movie include, include memorable, memorable song
+I:8487;1323;good, story, have, important, theme, include, meaning, value, friendship, good story, story have, have important, important theme, theme include, include meaning, meaning value, value friendship
+I:8487;1324;be, clever, movie, heart, everyone, see, be clever, clever movie, movie heart, heart everyone, everyone see
+I:8487;1325;whole, family, love, movie, be, sure, be, favorite, many, year, household, whole family, family love, love movie, movie be, be sure, sure be, be favorite, favorite many, many year, year household
+I:8487;1326;wait, mailbox, everyday, see, have, arrive, do, watch, wait mailbox, mailbox everyday, everyday see, see have, have arrive, arrive do, do watch
+I:8487;1327;sort, like, sort like
+I:8487;1328;animated, motion, picture, produce, animated motion, motion picture, picture produce
+I:8487;1329;have, be, impressive, be, great, movie, have be, be impressive, impressive be, be great, great movie
+I:8487;1330;write, blurb, living, write blurb, blurb living
+I:8487;1331;animation, look, little, dated, today, compare, sequel, see, technology, come, year, storytelling, performance, be, wonderful, be, song, write, music, legend, animation look, look little, little dated, dated today, today compare, compare sequel, sequel see, see technology, technology come, come year, year storytelling, storytelling performance, performance be, be wonderful, wonderful be, be song, song write, write music, music legend
+I:8487;1332;be, fun, movie, action, humour, great, graphic, be, angsty, be fun, fun movie, movie action, action humour, humour great, great graphic, graphic be, be angsty
+I:8487;1333;emotion, character, movie, be, complex, satisfy, watch, be, nice, have, central, female, character, emotion character, character movie, movie be, be complex, complex satisfy, satisfy watch, watch be, be nice, nice have, have central, central female, female character
+I:8487;1334;see, point, people, complain, be, scary, kid, see point, point people, people complain, complain be, be scary, scary kid
+I:8487;1335;be, classic, be classic
+I:8487;1336;son, love, movie, be, great, way, end, day, son love, love movie, movie be, be great, great way, way end, end day
+I:8487;1337;have, movie, lover, aficionado, have movie, movie lover, lover aficionado
+I:8487;1338;movie, be, hilarious, have, strong, moral, underpinning, movie be, be hilarious, hilarious have, have strong, strong moral, moral underpinning
+I:8487;1339;watch, movie, dozen, time, grandchild, grow, enjoy, watch, watch movie, movie dozen, dozen time, time grandchild, grandchild grow, grow enjoy, enjoy watch
+I:8487;1340;love, toy, story, love toy, toy story
+I:8487;1341;be, funny, entertaining, kid, age, enjoy, be funny, funny entertaining, entertaining kid, kid age, age enjoy
+I:8487;1342;be, happy, least, movie, work, be happy, happy least, least movie, movie work
+I:8487;1343;timeless, classic, continue, entertain, popularity, have, return, release, new, movie, timeless classic, classic continue, continue entertain, entertain popularity, popularity have, have return, return release, release new, new movie
+I:8487;1344;old, appreciate, enjoy, old appreciate, appreciate enjoy
+I:8487;1345;take, toy, sister, make, creature, take toy, toy sister, sister make, make creature
+I:8487;1346;tell, be, greater, honor, be, toy, make, child, happy, tell be, be greater, greater honor, honor be, be toy, toy make, make child, child happy
+I:8487;1347;escape, house, do, be, funny, escape house, house do, do be, be funny
+I:8487;1348;catch, be, family, catch be, be family
+I:8487;1349;be, best, animated, movie, be, great, watchable, whole, family, be, funny, momment, film, be best, best animated, animated movie, movie be, be great, great watchable, watchable whole, whole family, family be, be funny, funny momment, momment film
+I:8487;1350;be, first, movie, be, type, animated, film, be, year, film, be, release, best, family, movie, be, great, sitcom, actor, voice, film, buddy, be, air, television, new, episode, be first, first movie, movie be, be type, type animated, animated film, film be, be year, year film, film be, be release, release best, best family, family movie, movie be, be great, great sitcom, sitcom actor, actor voice, voice film, film buddy, buddy be, be air, air television, television new, new episode
+I:8487;1351;film, be, rate, content, call, be, funny, fist, fight, frightening, scene, occur, be, film be, be rate, rate content, content call, call be, be funny, funny fist, fist fight, fight frightening, frightening scene, scene occur, occur be
+I:8487;1352;recommend, film, have, great, technology, be, make, company, work, short, film, make, recommend film, film have, have great, great technology, technology be, be make, make company, company work, work short, short film, film make
+I:8487;1353;film, deserve, %, be, good, many, people, say, be, film deserve, deserve %, % be, be good, good many, many people, people say, say be
+I:8487;1354;great, price, classic, movie, great price, price classic, classic movie
+I:8487;1355;movie, work, great, price, movie work, work great, great price
+I:8487;1356;be, perk, own, player, be perk, perk own, own player
+I:8487;1357;be, big, fan, car, figure, give, try, be big, big fan, fan car, car figure, figure give, give try
+I:8487;1358;kid, love, month, granddaughter, be, enjoy, kid love, love month, month granddaughter, granddaughter be, be enjoy
+I:8487;1359;enjoy, be, such, funny, exciting, family, orient, movie, enjoy be, be such, such funny, funny exciting, exciting family, family orient, orient movie
+I:8487;1360;fun, watch, kid, adult, fun watch, watch kid, kid adult
+I:8487;1361;movie, keep, kid, glue, tv, hour, movie keep, keep kid, kid glue, glue tv, tv hour
+I:8487;1362;have, be, perfect, dts, sound, have be, be perfect, perfect dts, dts sound
+I:8487;1363;language, make, edgy, mean, boy, next, door, be, top, language make, make edgy, edgy mean, mean boy, boy next, next door, door be, be top
+I:8487;1364;give, star, story, line, do, keep, attention, give star, star story, story line, line do, do keep, keep attention
+I:8487;1365;family, love, movie, family love, love movie
+I:8487;1366;interesting, story, present, interesting story, story present
+I:8487;1367;yr, old, granddaughter, love, watch, yr old, old granddaughter, granddaughter love, love watch
+I:8487;1368;new, classic, animation, movie, new classic, classic animation, animation movie
+I:8487;1369;review, be, first, movie, mention, other, movie, review be, be first, first movie, movie mention, mention other, other movie
+I:8487;1370;view, way, make, best, trilogy, movie, make, view way, way make, make best, best trilogy, trilogy movie, movie make
+I:8487;1371;possible, exception, lord, set, possible exception, exception lord, lord set
+I:8487;1372;rate, toy, story, movie, star, highest, rating, possible, rate toy, toy story, story movie, movie star, star highest, highest rating, rating possible
+I:8487;1373;make, emotional, delightfultrilogy, watch, make emotional, emotional delightfultrilogy, delightfultrilogy watch
+I:8487;1374;recommend, film, child, grow, recommend film, film child, child grow
+I:8487;1375;watch, couple, time, grandson, love, watch couple, couple time, time grandson, grandson love
+I:8487;1376;character, be, lot, fun, character be, be lot, lot fun
+I:8487;1377;grandson, say, lot, infinity, love, hear, say, grandson say, say lot, lot infinity, infinity love, love hear, hear say
+I:8487;1378;be, enough, action, keep, be, year, old, involve, entire, movie, be enough, enough action, action keep, keep be, be year, year old, old involve, involve entire, entire movie
+I:8487;1379;rest, cast, do, excellent, job, rest cast, cast do, do excellent, excellent job
+I:8487;1380;computer, animation, be, better, older, animation, enjoy, watch, computer animation, animation be, be better, better older, older animation, animation enjoy, enjoy watch
+I:8487;1381;be, classic, legendary, be classic, classic legendary
+I:8487;1382;do, miss, great, hit, kid, love, everafter, do miss, miss great, great hit, hit kid, kid love, love everafter
+I:8487;1383;believe, have, life, toy, good, believe have, have life, life toy, toy good
+I:8487;1384;love, story, like, animation, lot, love story, story like, like animation, animation lot
+I:8487;1385;movie, be, much, perfect, movie be, be much, much perfect
+I:8487;1386;be, adventurous, exciting, entertaining, good, whole, family, be adventurous, adventurous exciting, exciting entertaining, entertaining good, good whole, whole family
+I:8487;1387;great, gift, grandson, be, surprised, have, wear, great gift, gift grandson, grandson be, be surprised, surprised have, have wear
+I:8487;1388;tell, toy, character, have, collect, most, tell toy, toy character, character have, have collect, collect most
+I:8487;1389;love, movie, love movie
+I:8487;1390;loyalty, teamwork, tolerance, be, heavy, theme, light, heart, loyalty teamwork, teamwork tolerance, tolerance be, be heavy, heavy theme, theme light, light heart
+I:8487;1391;be, good, choice, hold, attention, have, be, enjoy, lot, be good, good choice, choice hold, hold attention, attention have, have be, be enjoy, enjoy lot
+I:8487;1392;watch, adult, film, have, stand, time, watch adult, adult film, film have, have stand, stand time
+I:8487;1393;greatest, techinological, achievement, make, greatest, animated, film, cinema, history, greatest, film, first, computer, animated, film, greatest techinological, techinological achievement, achievement make, make greatest, greatest animated, animated film, film cinema, cinema history, history greatest, greatest film, film first, first computer, computer animated, animated film
+I:8487;1394;1st, best, triumph, feature, voice, talent, course, film, duo, vetren, rookie, 1st best, best triumph, triumph feature, feature voice, voice talent, talent course, course film, film duo, duo vetren, vetren rookie
+I:8487;1395;imaginative, story, talk, cowboy, doll, name, own, boy, name, lead, group, other, toy, imaginative story, story talk, talk cowboy, cowboy doll, doll name, name own, own boy, boy name, name lead, lead group, group other, other toy
+I:8487;1396;best, film, 20th, century, best, best film, film 20th, 20th century, century best
+I:8487;1397;brilliant, incredible, wonderous, behold, toy, come, alive, imaginative, idea, brilliant incredible, incredible wonderous, wonderous behold, behold toy, toy come, come alive, alive imaginative, imaginative idea
+I:8487;1398;lovable, character, super, big, thumb, way, incredible, animation, be, toy, want, play, age, lovable character, character super, super big, big thumb, thumb way, way incredible, incredible animation, animation be, be toy, toy want, want play, play age
+I:8487;1399;brilliant, film, make, child, wonder, toy, be, come, life, brilliant film, film make, make child, child wonder, wonder toy, toy be, be come, come life
+I:8487;1400;see, classic, gem, seem, yesterday, see classic, classic gem, gem seem, seem yesterday
+I:8487;1401;have, see, film, be, missin, great, film, age, have see, see film, film be, be missin, missin great, great film, film age
+I:8487;1402;have, see, see, other, film, bring, home, rex, potato, have see, see see, see other, other film, film bring, bring home, home rex, rex potato
+I:8487;1403;head, story, lead, toy, imaginative, brilliant, film, time, head story, story lead, lead toy, toy imaginative, imaginative brilliant, brilliant film, film time
+I:8487;1404;entertaining, adult, entertaining adult
+I:8487;1405;bring, greatest, classic, tale, wonder, animation, bring greatest, greatest classic, classic tale, tale wonder, wonder animation
+I:8487;1406;group, young, upstart, bring, world, ground, break, phenomenon, group young, young upstart, upstart bring, bring world, world ground, ground break, break phenomenon
+I:8487;1407;be, something, come, movie, incredible, original, heartfelt, story, touch, billion, people, be something, something come, come movie, movie incredible, incredible original, original heartfelt, heartfelt story, story touch, touch billion, billion people
+I:8487;1408;day, simple, movie, have, create, legacy, live, infinity, day simple, simple movie, movie have, have create, create legacy, legacy live, live infinity
+I:8487;1409;be, creation, dive, soul, bring, inner, child, be creation, creation dive, dive soul, soul bring, bring inner, inner child
+I:8487;1410;do, come, life, have, mission, be, keep, play, happy, do come, come life, life have, have mission, mission be, be keep, keep play, play happy
+I:8487;1411;happen, day, new, toy, come, be, better, happen day, day new, new toy, toy come, come be, be better
+I:8487;1412;shine, light, tiny, little, thing, think, put, toy, shine light, light tiny, tiny little, little thing, thing think, think put, put toy
+I:8487;1413;voice, acting, be, thing, make, great, voice acting, acting be, be thing, thing make, make great
+I:8487;1414;actor, breathe, amazing, life, role, actor breathe, breathe amazing, amazing life, life role
+I:8487;1415;character, be, unique, humor, be, use, film, be, original, fresh, best, part, be, be, toy, humor, character be, be unique, unique humor, humor be, be use, use film, film be, be original, original fresh, fresh best, best part, part be, be be, be toy, toy humor
+I:8487;1416;movie, be, greatest, movie, compare, film, follow, great, deal, have, improve, animation, look, bit, crude, movie be, be greatest, greatest movie, movie compare, compare film, film follow, follow great, great deal, deal have, have improve, improve animation, animation look, look bit, bit crude
+I:8487;1417;kid, love, movie, kid love, love movie
+I:8487;1418;enjoy, watch, car, trip, enjoy watch, watch car, car trip
+I:8487;1419;choice, grandson, choose, like, woody, fact, be, cowboy, talk, choice grandson, grandson choose, choose like, like woody, woody fact, fact be, be cowboy, cowboy talk
+I:8487;1420;bring, memory, childhood, be, glad, day, technology, let, toddler, enjoy, enjoy, great, movie, bring memory, memory childhood, childhood be, be glad, glad day, day technology, technology let, let toddler, toddler enjoy, enjoy enjoy, enjoy great, great movie
+I:8487;1421;receive, timely, be, great, shape, be, great, movie, receive timely, timely be, be great, great shape, shape be, be great, great movie
+I:8487;1422;love, character, story, line, humor, love character, character story, story line, line humor
+I:8487;1423;get, past, select, language, have, do, time, watch, get past, past select, select language, language have, have do, do time, time watch
+I:8487;1424;be, funny, great, idea, be funny, funny great, great idea
+I:8487;1425;see, magical, world, toy, be, alive, lot, huge, star, see magical, magical world, world toy, toy be, be alive, alive lot, lot huge, huge star
+I:8487;1426;whole, family, sit, laugh, movie, many, time, whole family, family sit, sit laugh, laugh movie, movie many, many time
+I:8487;1427;look, movie, review, look movie, movie review
+I:8487;1428;be, timeless, classic, franchise, set, standard, kid, movie, many, year, come, be timeless, timeless classic, classic franchise, franchise set, set standard, standard kid, kid movie, movie many, many year, year come
+I:8487;1429;awesome, film, family, everyone, be, engage, awesome film, film family, family everyone, everyone be, be engage
+I:8487;1430;be, classic, animated, movie, lover, have, be classic, classic animated, animated movie, movie lover, lover have
+I:8487;1431;be, funnier, better, matter, fact, stick, favorite, movie, be funnier, funnier better, better matter, matter fact, fact stick, stick favorite, favorite movie
+I:8487;1432;love, toy, story, love, product, love toy, toy story, story love, love product
+I:8487;1433;be, great, deal, be great, great deal
+I:8487;1434;ray, be, pure, visual, enjoyment, ray be, be pure, pure visual, visual enjoyment
+I:8487;1435;be, technical, marvel, be, sweet, movie!the, animation, be, beautiful, be technical, technical marvel, marvel be, be sweet, sweet movie!the, movie!the animation, animation be, be beautiful
+I:8487;1436;be, favorite, movie, character, be favorite, favorite movie, movie character
+I:8487;1437;love, five.year, love five.year
+I:8487;1438;old, daughter, love, today, old daughter, daughter love, love today
+I:8487;1439;movie, be, great, be, funny, cute, whote, famity, like, movie be, be great, great be, be funny, funny cute, cute whote, whote famity, famity like
+I:8487;1440;kid, love, movie, kid love, love movie
+I:8487;1441;do, be, huge, fan, cartoon, do be, be huge, huge fan, fan cartoon
+I:8487;1442;cute, fun, movie, cute fun, fun movie
+I:8487;1443;amazing, package, amazing package
+I:8487;1444;best, work, story, character, design, go, best work, work story, story character, character design, design go
+I:8487;1445;belong, tiny, group, perfect, movie, include, adventure, l, a, few, other, belong tiny, tiny group, group perfect, perfect movie, movie include, include adventure, adventure l, l a, a few, few other
+I:8487;1446;remain, fresh, funny, engage, many, viewing, remain fresh, fresh funny, funny engage, engage many, many viewing
+I:8487;1447;reason, perfection, be, combine, technology, subject, matter, reason perfection, perfection be, be combine, combine technology, technology subject, subject matter
+I:8487;1448;note, fundy, complain, magic, black, art, film, note fundy, fundy complain, complain magic, magic black, black art, art film
+I:8487;1449;order, boy, home, be, happy, order boy, boy home, home be, be happy
+I:8487;1450;make, difference, make difference
+I:8487;1451;first, time, watch, movie, laugh, little, kid, first time, time watch, watch movie, movie laugh, laugh little, little kid
+I:8487;1452;love, hand, most, part, entire, cast, love hand, hand most, most part, part entire, entire cast
+I:8487;1453;love, watch, film, dream, kid, love watch, watch film, film dream, dream kid
+I:8487;1454;ok, be, honest, ok be, be honest
+I:8487;1455;be, more, impressive, piece, animation, be more, more impressive, impressive piece, piece animation
+I:8487;1456;be, craft, tale, deal, human, theme, be craft, craft tale, tale deal, deal human, human theme
+I:8487;1457;do, charming, way, warm, heart, child, grow, do charming, charming way, way warm, warm heart, heart child, child grow
+I:8487;1458;be, something, authentic, cowboy, doll, toy, be something, something authentic, authentic cowboy, cowboy doll, doll toy
+I:8487;1459;earth, believable, vulnerability, see, character, something, real, way, issue, become, resolve, earth believable, believable vulnerability, vulnerability see, see character, character something, something real, real way, way issue, issue become, become resolve
+I:8487;1460;be, tale, strike, chord, be tale, tale strike, strike chord
+I:8487;1461;course, be, funny, exciting, movie, entertain, delight, draw, be, become, education, be, bring, face, course be, be funny, funny exciting, exciting movie, movie entertain, entertain delight, delight draw, draw be, be become, become education, education be, be bring, bring face
+I:8487;1462;face, mean, be, human, face mean, mean be, be human
+I:8487;1463;storytelling, be, speak, resonate, human, being, storytelling be, be speak, speak resonate, resonate human, human being
+I:8487;1464;riotous, fun, adventure, riotous fun, fun adventure
+I:8487;1465;say, more, movie, feel, have, see, most, film, be, surprise, say more, more movie, movie feel, feel have, have see, see most, most film, film be, be surprise
+I:8487;1466;do, have, say, be, be, superb, choice, voice, main, character, do have, have say, say be, be be, be superb, superb choice, choice voice, voice main, main character
+I:8487;1467;be, warm, hearted, fun, family, film, child, age, love, be warm, warm hearted, hearted fun, fun family, family film, film child, child age, age love
+I:8487;1468;love, movie, love movie
+I:8487;1469;be, best, movie, make, be best, best movie, movie make
+I:8487;1470;movie, be, release, be, grade, school, remember, movie be, be release, release be, be grade, grade school, school remember
+I:8487;1471;millennial, movie, be, good, be, be, millennial movie, movie be, be good, good be, be be
+I:8487;1472;guess, be, movie, love, animation, guess be, be movie, movie love, love animation
+I:8487;1473;great, movie, kid, love, watch, have, become, classic, year, come, great movie, movie kid, kid love, love watch, watch have, have become, become classic, classic year, year come
+I:8487;1474;like, be, count, like be, be count
+I:8487;1475;pixar, collaboration, produce, wonderful, film, movie, be, much, lop, basic, category, child, adult, pixar collaboration, collaboration produce, produce wonderful, wonderful film, film movie, movie be, be much, much lop, lop basic, basic category, category child, child adult
+I:8487;1476;be, main, area, movie, succeed, be, incredible, eye, be main, main area, area movie, movie succeed, succeed be, be incredible, incredible eye
+I:8487;1477;work, be, watch, work be, be watch
+I:8487;1478;marvel, effect, be, laugh, hilarious, joke, go, kid, head, make, burst, laughter, marvel effect, effect be, be laugh, laugh hilarious, hilarious joke, joke go, go kid, kid head, head make, make burst, burst laughter
+I:8487;1479;be, accomplish, cast, support, character, such, wise, be accomplish, accomplish cast, cast support, support character, character such, such wise
+I:8487;1480;be, influential, film, produce, ability, blur, line, child, adult, cinema, be influential, influential film, film produce, produce ability, ability blur, blur line, line child, child adult, adult cinema

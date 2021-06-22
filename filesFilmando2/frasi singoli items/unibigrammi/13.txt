@@ -1,0 +1,659 @@
+I:10519;1;be, new, film, include, view, excellent, commentary, wonderful, classic, be new, new film, film include, include view, view excellent, excellent commentary, commentary wonderful, wonderful classic
+I:10519;2;get, great, insight, complete, work, film, setting, such, attention, detail, framing, shot, story, colorful, character, live, lengthy, film, be, dramatic, sad, humorous, rewarding, get great, great insight, insight complete, complete work, work film, film setting, setting such, such attention, attention detail, detail framing, framing shot, shot story, story colorful, colorful character, character live, live lengthy, lengthy film, film be, be dramatic, dramatic sad, sad humorous, humorous rewarding
+I:10519;3;be, intimate, love, affair, derive, inspiration, become, passionate, return, work, devote, last, day, memorable, mission, be intimate, intimate love, love affair, affair derive, derive inspiration, inspiration become, become passionate, passionate return, return work, work devote, devote last, last day, day memorable, memorable mission
+I:10519;4;movie, touch, touch, put, hand, heart, *, movie touch, touch touch, touch put, put hand, hand heart, heart *
+I:10519;5;call, movie, greatest, movie, time, be, go, limb, be, top, best, call movie, movie greatest, greatest movie, movie time, time be, be go, go limb, limb be, be top, top best
+I:10519;6;outline, lie, finest, example, film, make, act, outline lie, lie finest, finest example, example film, film make, make act
+I:10519;7;japanese, seem, love, sense, poignancy, nostalgia, art, film, be, best, example, love, japanese seem, seem love, love sense, sense poignancy, poignancy nostalgia, nostalgia art, art film, film be, be best, best example, example love
+I:10519;8;see, film, want, see, movie, be, make, see film, film want, want see, see movie, movie be, be make
+I:10519;9;material, be, move, movie, be, stilted, static, performance, main, actor, be, note, dialogue, explain, be, obvious, viewer, material be, be move, move movie, movie be, be stilted, stilted static, static performance, performance main, main actor, actor be, be note, note dialogue, dialogue explain, explain be, be obvious, obvious viewer
+I:10519;10;soak, tragedy, loss, uplift, promise, self, soak tragedy, tragedy loss, loss uplift, uplift promise, promise self
+I:10519;11;empowerment, translate, live, be, move, film, make, empowerment translate, translate live, live be, be move, move film, film make
+I:10519;12;set, sadness, permeate, scene, know, message, be, try, portray, director, understand, best, relay, message, audience, set sadness, sadness permeate, permeate scene, scene know, know message, message be, be try, try portray, portray director, director understand, understand best, best relay, relay message, message audience
+I:10519;13;point, life, have, live, shell, man, work, provide, son, daughter, point life, life have, have live, live shell, shell man, man work, work provide, provide son, son daughter
+I:10519;14;need, something, believe, push, make, feel, accomplish, need something, something believe, believe push, push make, make feel, feel accomplish
+I:10519;15;be, poignant, life, lesson, be poignant, poignant life, life lesson
+I:10519;16;be, important, learn, live, life, full, have, chance, be important, important learn, learn live, live life, life full, full have, have chance
+I:10519;17;say, go, live, think, be, best, restrict, happiness, be, detrimental, life, say go, go live, live think, think be, be best, best restrict, restrict happiness, happiness be, be detrimental, detrimental life
+I:10519;18;kurosawa, masterpiece, be, essential, view, cinephile, kurosawa masterpiece, masterpiece be, be essential, essential view, view cinephile
+I:10519;19;be, strength, lie, way, story, be, tell, know, tell, story, be strength, strength lie, lie way, way story, story be, be tell, tell know, know tell, tell story
+I:10519;20;happiness, express, dinner, first, time, young, woman, have, ignite, fire, be, single, rewarding, moment, movie, view, history, happiness express, express dinner, dinner first, first time, time young, young woman, woman have, have ignite, ignite fire, fire be, be single, single rewarding, rewarding moment, moment movie, movie view, view history
+I:10519;21;topic, question, be, topic question, question be
+I:10519;22;show, puppy, dog, eye, show puppy, puppy dog, dog eye
+I:10519;23;be, way, viewer, relate, revelatory, happiness, main, character, third, be way, way viewer, viewer relate, relate revelatory, revelatory happiness, happiness main, main character, character third
+I:10519;24;love, lesser, be, evident, fact, other, superior, dramatic, director, be, make, fantastic, film, early, summer, love lesser, lesser be, be evident, evident fact, fact other, other superior, superior dramatic, dramatic director, director be, be make, make fantastic, fantastic film, film early, early summer
+I:10519;25;great, acting, storyline, character, development, believable, realistic, performance, great acting, acting storyline, storyline character, character development, development believable, believable realistic, realistic performance
+I:10519;26;film, mention, film mention
+I:10519;27;film, be, sensitive, robust, masterpiece, fulfil, true, function, film be, be sensitive, sensitive robust, robust masterpiece, masterpiece fulfil, fulfil true, true function
+I:10519;28;reflect, mystery, live, reflect mystery, mystery live
+I:10519;29;be, mortal, being, life, end, certain, point, time, be mortal, mortal being, being life, life end, end certain, certain point, point time
+I:10519;30;give, supress, knowledge, have, ask, be, live, life, worth, living, happen, answer, question, give supress, supress knowledge, knowledge have, have ask, ask be, be live, live life, life worth, worth living, living happen, happen answer, answer question
+I:10519;31;be, important, film, be important, important film
+I:10519;32;part, family, be, concern, transfer, economic, family, authority, part family, family be, be concern, concern transfer, transfer economic, economic family, family authority
+I:10519;33;decide, be, ultimate, virtuous, civil, servant, work, project, child, be, iconic, goods, decide be, be ultimate, ultimate virtuous, virtuous civil, civil servant, servant work, work project, project child, child be, be iconic, iconic goods
+I:10519;34;adopt, neighborhood, petition, small, park, launch, personal, crusade, see, build, adopt neighborhood, neighborhood petition, petition small, small park, park launch, launch personal, personal crusade, crusade see, see build
+I:10519;35;production, value, film, be, excellent, production value, value film, film be, be excellent
+I:10519;36;act, troup, be, superb, act troup, troup be, be superb
+I:10519;37;be, humble, film, soul, angel, be humble, humble film, film soul, soul angel
+I:10519;38;film, quiet, way, ask, ponder, make, life, meaningful, film quiet, quiet way, way ask, ask ponder, ponder make, make life, life meaningful
+I:10519;39;be, play, finest, understate, performance, commit, film, be play, play finest, finest understate, understate performance, performance commit, commit film
+I:10519;40;choose, film, black, white, reflect, starkness, protagonist, last, day, way, world, look, die, eye, work, choose film, film black, black white, white reflect, reflect starkness, starkness protagonist, protagonist last, last day, day way, way world, world look, look die, die eye, eye work
+I:10519;41;be, mark, genius, story, character, sneak, be mark, mark genius, genius story, story character, character sneak
+I:10519;42;learn, illness, learn illness
+I:10519;43;known, opening, scene, combine, pathos, cruel, irony, know, start, care, little, man, life, tread, underfoot, known opening, opening scene, scene combine, combine pathos, pathos cruel, cruel irony, irony know, know start, start care, care little, little man, man life, life tread, tread underfoot
+I:10519;44;film, have, layer, subtlety, visual, poetry, present, understatement, finesse, restraint, wonderful, combination, show, deepest, respect, intelligence, audience, film have, have layer, layer subtlety, subtlety visual, visual poetry, poetry present, present understatement, understatement finesse, finesse restraint, restraint wonderful, wonderful combination, combination show, show deepest, deepest respect, respect intelligence, intelligence audience
+I:10519;45;moral, turning, point, story, be, reach, determine, accomplish, worthwhile, achievement, life, end, moral turning, turning point, point story, story be, be reach, reach determine, determine accomplish, accomplish worthwhile, worthwhile achievement, achievement life, life end
+I:10519;46;turn, event, be, touching, act, redemption, cinema, turn event, event be, be touching, touching act, act redemption, redemption cinema
+I:10519;47;have, watch, hundred, film, be, scene, film, have, burn, heart, be, clear, today, moment, see, have watch, watch hundred, hundred film, film be, be scene, scene film, film have, have burn, burn heart, heart be, be clear, clear today, today moment, moment see
+I:10519;48;famous, scene, end, be, dignified, gracious, artistic, statement, film, be, scene, wound, simplicity, perfect, epitaph, cinematic, elegy, famous scene, scene end, end be, be dignified, dignified gracious, gracious artistic, artistic statement, statement film, film be, be scene, scene wound, wound simplicity, simplicity perfect, perfect epitaph, epitaph cinematic, cinematic elegy
+I:10519;49;kurosawa, be, greatest, filmmaker, be, best, personal, film, kurosawa be, be greatest, greatest filmmaker, filmmaker be, be best, best personal, personal film
+I:10519;50;need, patience, introspection, empathy, appreciate, gentle, masterpiece, be, kind, person, be, move, pity, tenderness, humility, grace, envy, first, viewing, ode, human, spirit, need patience, patience introspection, introspection empathy, empathy appreciate, appreciate gentle, gentle masterpiece, masterpiece be, be kind, kind person, person be, be move, move pity, pity tenderness, tenderness humility, humility grace, grace envy, envy first, first viewing, viewing ode, ode human, human spirit
+I:10519;51;gentle, touching, affirmation, life, gentle touching, touching affirmation, affirmation life
+I:10519;52;mean, be, ring, true, loud, real, life, mean be, be ring, ring true, true loud, loud real, real life
+I:10519;53;needless, say, old, boy, be, move, needless say, say old, old boy, boy be, be move
+I:10519;54;old, man, year, do, old man, man year, year do
+I:10519;55;hit, scheme, do, something, worthwhile, hit scheme, scheme do, do something, something worthwhile
+I:10519;56;do, outstanding, job, play, lead, character, do outstanding, outstanding job, job play, play lead, lead character
+I:10519;57;masterpiece, be, move, burn, feeling, masterpiece be, be move, move burn, burn feeling
+I:10519;58;video, caliber, artistic, workmanship, be, classic, be, view, everyone, video caliber, caliber artistic, artistic workmanship, workmanship be, be classic, classic be, be view, view everyone
+I:10519;59;make, think, live, own, life, do, same, make think, think live, live own, own life, life do, do same
+I:10519;60;put, film, belong, library, put film, film belong, belong library
+I:10519;61;make, comibnation, craft, content, make comibnation, comibnation craft, craft content
+I:10519;62;movie, be, make, movie be, be make
+I:10519;63;lighting, composition, editing, do, be, mean, come, advance, develop, story, lighting composition, composition editing, editing do, do be, be mean, mean come, come advance, advance develop, develop story
+I:10519;64;do, way, be, stylish, many, modern, filmmaker, style, serve, story, other, way, do way, way be, be stylish, stylish many, many modern, modern filmmaker, filmmaker style, style serve, serve story, story other, other way
+I:10519;65;camera, complement, comment, enhance, capture, camera complement, complement comment, comment enhance, enhance capture
+I:10519;66;story, worth, tell, be, worth, tell, own, time, pacing, be, dead, content, story worth, worth tell, tell be, be worth, worth tell, tell own, own time, time pacing, pacing be, be dead, dead content
+I:10519;67;be, unloved, minion, unappreciated, family, unnoticed, life, be unloved, unloved minion, minion unappreciated, unappreciated family, family unnoticed, unnoticed life
+I:10519;68;gruel, be, triumphant, movie, false, schmaltzy, sentimental, way, most, contemporary, movie, deliver, gruel be, be triumphant, triumphant movie, movie false, false schmaltzy, schmaltzy sentimental, sentimental way, way most, most contemporary, contemporary movie, movie deliver
+I:10519;69;be, interested, history, film, go, good, filmmaking, love, good, story, tell, look, movie, be interested, interested history, history film, film go, go good, good filmmaking, filmmaking love, love good, good story, story tell, tell look, look movie
+I:10519;70;great, director, century, explore, profound, impact, ordinary, person, have, community, make, extraordinary, effort, life, learn, have, cancer, great director, director century, century explore, explore profound, profound impact, impact ordinary, ordinary person, person have, have community, community make, make extraordinary, extraordinary effort, effort life, life learn, learn have, have cancer
+I:10519;71;favorite, kurosawa, film, favorite kurosawa, kurosawa film
+I:10519;72;japanese, language, subtitle, film, morality, tale, replete, interesting, cultural, feature, japanese language, language subtitle, subtitle film, film morality, morality tale, tale replete, replete interesting, interesting cultural, cultural feature
+I:10519;73;character, be, funny, move, character be, be funny, funny move
+I:10519;74;live, be, passionate, film, be, small, scope, enormous, heart, live be, be passionate, passionate film, film be, be small, small scope, scope enormous, enormous heart
+I:10519;75;explore, question, be, haughty, pretentious, explore question, question be, be haughty, haughty pretentious
+I:10519;76;be, impressive, action, pack, work, be, personal, be impressive, impressive action, action pack, pack work, work be, be personal
+I:10519;77;stark, realization, come, crash, main, character, play, subtle, precision, stark realization, realization come, come crash, crash main, main character, character play, play subtle, subtle precision
+I:10519;78;realize, little, have, do, time, earth, realize little, little have, have do, do time, time earth
+I:10519;79;story, be, strong, reminder, everyone, be, able, relate, story be, be strong, strong reminder, reminder everyone, everyone be, be able, able relate
+I:10519;80;move, tale, recommend, move tale, tale recommend
+I:10519;81;few, film, touch, heart, sadness, redemption, few film, film touch, touch heart, heart sadness, sadness redemption
+I:10519;82;great, team, accomplish, touching, storyline, creative, cinematography, sound, management, outstanding, acting, great team, team accomplish, accomplish touching, touching storyline, storyline creative, creative cinematography, cinematography sound, sound management, management outstanding, outstanding acting
+I:10519;83;film, doubt, bring, strongest, person, tear, film doubt, doubt bring, bring strongest, strongest person, person tear
+I:10519;84;start, say, think, be, best, movie, have, see, try, address, negative, start say, say think, think be, be best, best movie, movie have, have see, see try, try address, address negative
+I:10519;85;story, be, compelling, intricate, subtlety, direction, make, film, powerful, second, half, film, protagonist, coworker, discuss, final, few, month, wake, story be, be compelling, compelling intricate, intricate subtlety, subtlety direction, direction make, make film, film powerful, powerful second, second half, half film, film protagonist, protagonist coworker, coworker discuss, discuss final, final few, few month, month wake
+I:10519;86;give, performance, be, stand, give performance, performance be, be stand
+I:10519;87;give, lot, people, trouble, give lot, lot people, people trouble
+I:10519;88;be, gentle, story, subtle, nuance, meaning, be, convey, facial, expression, quiet, moment, anything, say, do, be gentle, gentle story, story subtle, subtle nuance, nuance meaning, meaning be, be convey, convey facial, facial expression, expression quiet, quiet moment, moment anything, anything say, say do
+I:10519;89;many, feel, be, best, work, know, terrible, transfer, be, best, get, be, sad, many feel, feel be, be best, best work, work know, know terrible, terrible transfer, transfer be, be best, best get, get be, be sad
+I:10519;90;vertical, line, note, previous, review, be, problematic, vertical line, line note, note previous, previous review, review be, be problematic
+I:10519;91;do, think, be, best, movie, have, see, do think, think be, be best, best movie, movie have, have see
+I:10519;92;agree, other, review, have, discuss, term, message, individual, live, life, meaning, purpose, take, pleasure, help, other, cherish, nurture, child, agree other, other review, review have, have discuss, discuss term, term message, message individual, individual live, live life, life meaning, meaning purpose, purpose take, take pleasure, pleasure help, help other, other cherish, cherish nurture, nurture child
+I:10519;93;commentary, make, clear, main, point, work, be, head, commentary make, make clear, clear main, main point, point work, work be, be head
+I:10519;94;idea, be, prime, motivator, work, other, japanese, artist, humanist, spirited, lunatic, right, exemplify, idea be, be prime, prime motivator, motivator work, work other, other japanese, japanese artist, artist humanist, humanist spirited, spirited lunatic, lunatic right, right exemplify
+I:10519;95;number, people, have, complain, length, second, half, movie, commentary, make, clear, flashback, be, important, establish, stronger, sense, co., worker, character, illustrate, gradual, understanding, meaning, life, highlight, inability, follow, example, number people, people have, have complain, complain length, length second, second half, half movie, movie commentary, commentary make, make clear, clear flashback, flashback be, be important, important establish, establish stronger, stronger sense, sense co., co. worker, worker character, character illustrate, illustrate gradual, gradual understanding, understanding meaning, meaning life, life highlight, highlight inability, inability follow, follow example
+I:10519;96;see, thread, later, movie, include, period, piece, such, film, ordinary, folk, high, mighty, be, find, want, group, see thread, thread later, later movie, movie include, include period, period piece, piece such, such film, film ordinary, ordinary folk, folk high, high mighty, mighty be, be find, find want, want group
+I:10519;97;make, point, movie, effort, such, individual, be, true, definition, nobility, spirit, be, message, provide, power, work, make point, point movie, movie effort, effort such, such individual, individual be, be true, true definition, definition nobility, nobility spirit, spirit be, be message, message provide, provide power, power work
+I:10519;98;be, wonderful, piece, movie, making, be wonderful, wonderful piece, piece movie, movie making
+I:10519;99;be, humanism, trenchant, finest, be humanism, humanism trenchant, trenchant finest
+I:10519;100;see, film, be, best, movie, time, see film, film be, be best, best movie, movie time
+I:10519;101;many, review, give, great, glowing, review, movie, many review, review give, give great, great glowing, glowing review, review movie
+I:10519;102;find, version, have, outstanding, subtitle, look, version, other, foreign, movie, find version, version have, have outstanding, outstanding subtitle, subtitle look, look version, version other, other foreign, foreign movie
+I:10519;103;subtitle, make, large, difference, enjoyment, movie, clean, film, subtitle make, make large, large difference, difference enjoyment, enjoyment movie, movie clean, clean film
+I:10519;104;be, huge, classic, foreign, film, buff, love, film, be huge, huge classic, classic foreign, foreign film, film buff, buff love, love film
+I:10519;105;be, quiet, reflective, film, be quiet, quiet reflective, reflective film
+I:10519;106;give, best, lead, performance, have, see, give best, best lead, lead performance, performance have, have see
+I:10519;107;express, much, look, express much, much look
+I:10519;108;direction, be, masterful, direction be, be masterful
+I:10519;109;be, move, film, be, personal, relationship, people, be, life, touch, last, few, month, be move, move film, film be, be personal, personal relationship, relationship people, people be, be life, life touch, touch last, last few, few month
+I:10519;110;be, reflective, film, be, poignant, touching, quiet, thoughtful, be reflective, reflective film, film be, be poignant, poignant touching, touching quiet, quiet thoughtful
+I:10519;111;be, wonderful, performance, be wonderful, wonderful performance
+I:10519;112;criterion, have, do, wonderful, job, subtitle, update, translation, criterion have, have do, do wonderful, wonderful job, job subtitle, subtitle update, update translation
+I:10519;113;be, work, unparalleled, maturity, take, time, tell, story, unapologetic, deliberate, way, be work, work unparalleled, unparalleled maturity, maturity take, take time, time tell, tell story, story unapologetic, unapologetic deliberate, deliberate way
+I:10519;114;confront, way, other, film, reach, deep, confront way, way other, other film, film reach, reach deep
+I:10519;115;be, sad, be, inspiring, heartfelt, be sad, sad be, be inspiring, inspiring heartfelt
+I:10519;116;be, most, move, most, human, most, timeless, film, be most, most move, move most, most human, human most, most timeless, timeless film
+I:10519;117;begin, personal, journey, become, legacy, begin personal, personal journey, journey become, become legacy
+I:10519;118;way, experience, thing, be, experience, enjoy, thing, be, enjoy, do, thing, think, be, impossible, way experience, experience thing, thing be, be experience, experience enjoy, enjoy thing, thing be, be enjoy, enjoy do, do thing, thing think, think be, be impossible
+I:10519;119;reach, time, life, question, direction, life, have, take, film, explore, difficult, subject, reach time, time life, life question, question direction, direction life, life have, have take, take film, film explore, explore difficult, difficult subject
+I:10519;120;ikiru, meaning, live, deserve, rightful, place, numerous, classic, ikiru meaning, meaning live, live deserve, deserve rightful, rightful place, place numerous, numerous classic
+I:10519;121;power, story, show, matter, reach, point, self, power story, story show, show matter, matter reach, reach point, point self
+I:10519;122;story, life, be, waste, be, vivid, film, have, view, hit, home, story life, life be, be waste, waste be, be vivid, vivid film, film have, have view, view hit, hit home
+I:10519;123;want, film, challenge, have, be, spend, life, pick, today, want film, film challenge, challenge have, have be, be spend, spend life, life pick, pick today
+I:10519;124;film, be, masterpiece, film be, be masterpiece
+I:10519;125;love, samurai, epic, be, favorite, kurosawa, film, believe, have, be, overlook, love samurai, samurai epic, epic be, be favorite, favorite kurosawa, kurosawa film, film believe, believe have, have be, be overlook
+I:10519;126;relationship, co., worker, be, non, relationship co., co. worker, worker be, be non
+I:10519;127;existent, give, nickname, mummy, existent give, give nickname, nickname mummy
+I:10519;128;film, greatest, strength, lay, tender, performance, powerful, message, life, be, short, precious, waste, do, nothing, person, film greatest, greatest strength, strength lay, lay tender, tender performance, performance powerful, powerful message, message life, life be, be short, short precious, precious waste, waste do, do nothing, nothing person
+I:10519;129;make, positive, difference, uncaring, world, make positive, positive difference, difference uncaring, uncaring world
+I:10519;130;be, call, action, be, move, powerful, similar, fare, such, poet, do, concern, group, spotty, be call, call action, action be, be move, move powerful, powerful similar, similar fare, fare such, such poet, poet do, do concern, concern group, group spotty
+I:10519;131;command, audience, take, action, make, difference, world, sum, ethos, unexamined, life, be, worth, living, command audience, audience take, take action, action make, make difference, difference world, world sum, sum ethos, ethos unexamined, unexamined life, life be, be worth, worth living
+I:10519;132;film, be, innovative, last, minute, occur, funeral, drunken, bureaucrat, film be, be innovative, innovative last, last minute, minute occur, occur funeral, funeral drunken, drunken bureaucrat
+I:10519;133;moment, clarity, moment clarity
+I:10519;134;present, day, character, talk, everyday, human, being, oppose, dramatic, ancient, warrior, present day, day character, character talk, talk everyday, everyday human, human being, being oppose, oppose dramatic, dramatic ancient, ancient warrior
+I:10519;135;editor, have, cut, scene, film, simple, message, be, powerful, uplifting, consider, spend, minute, watch, die, man, next, minute, funeral, editor have, have cut, cut scene, scene film, film simple, simple message, message be, be powerful, powerful uplifting, uplifting consider, consider spend, spend minute, minute watch, watch die, die man, man next, next minute, minute funeral
+I:10519;136;be, simple, quiet, powerful, film, cause, examine, be, be simple, simple quiet, quiet powerful, powerful film, film cause, cause examine, examine be
+I:10519;137;be, line, genre, retrospective, life, film, vein, drop, life, ordinary, man, be line, line genre, genre retrospective, retrospective life, life film, film vein, vein drop, drop life, life ordinary, ordinary man
+I:10519;138;be, great, film, veteran, film, love, youth, regular, film, player, give, great, performance, be great, great film, film veteran, veteran film, film love, love youth, youth regular, regular film, film player, player give, give great, great performance
+I:10519;139;precede, canon, deal, perspective, perspective, many, event, perspective, many, many, thing, life, man, park, accomplishment, precede canon, canon deal, deal perspective, perspective perspective, perspective many, many event, event perspective, perspective many, many many, many thing, thing life, life man, man park, park accomplishment
+I:10519;140;be, way, something, rashomon, be way, way something, something rashomon
+I:10519;141;be, many, reason, be, such, great, film, be many, many reason, reason be, be such, such great, great film
+I:10519;142;be, first, third, film, live, be, great, have, be, film, come, be first, first third, third film, film live, live be, be great, great have, have be, be film, film come
+I:10519;143;daring, depth, be, soar, lesser, film, daring depth, depth be, be soar, soar lesser, lesser film
+I:10519;144;victory, be, small, temporal, victory be, be small, small temporal
+I:10519;145;be, greatest, artistic, indictment, bureaucracy, make, post, be greatest, greatest artistic, artistic indictment, indictment bureaucracy, bureaucracy make, make post
+I:10519;146;see, scene, skip, work, office, work, come, halt, mountain, paperwork, continue, bloat, see scene, scene skip, skip work, work office, office work, work come, come halt, halt mountain, mountain paperwork, paperwork continue, continue bloat
+I:10519;147;unforgettable, last, frame, note, swing, scene, be, be, real, climax, turn, be, move, tale, last, frame, say, all, unforgettable last, last frame, frame note, note swing, swing scene, scene be, be be, be real, real climax, climax turn, turn be, be move, move tale, tale last, last frame, frame say, say all
+I:10519;148;film, life, film life
+I:10519;149;have, take, boring, meaningless, job, profess, enjoy, have take, take boring, boring meaningless, meaningless job, job profess, profess enjoy
+I:10519;150;relationship, fling, world, prove, unrewarding, relationship fling, fling world, world prove, prove unrewarding
+I:10519;151;return, job, week, absence, return job, job week, week absence
+I:10519;152;give, eloquent, performance, give eloquent, eloquent performance
+I:10519;153;simple, black, white, statement, possess, quiet, intensity, place, top, rank, film, great, prolific, director, simple black, black white, white statement, statement possess, possess quiet, quiet intensity, intensity place, place top, top rank, rank film, film great, great prolific, prolific director
+I:10519;154;movie, be, year, old, be, stunning, see, little, have, change, world, bureaucracy, movie be, be year, year old, old be, be stunning, stunning see, see little, little have, have change, change world, world bureaucracy
+I:10519;155;say, be, timeless, classic, say be, be timeless, timeless classic
+I:10519;156;title, translate, live, film, explore, mean, great, depth, title translate, translate live, live film, film explore, explore mean, mean great, great depth
+I:10519;157;brilliant, understate, act, drive, home, point, make, difference, world, waste, gift, life, brilliant understate, understate act, act drive, drive home, home point, point make, make difference, difference world, world waste, waste gift, gift life
+I:10519;158;best, film, have, see, best film, film have, have see
+I:10519;159;film, burn, viewer, mind, film burn, burn viewer, viewer mind
+I:10519;160;year, become, world, famous, release, thematic, sequal, year become, become world, world famous, famous release, release thematic, thematic sequal
+I:10519;161;meditation, truth, meaning, modern, world, meditation truth, truth meaning, meaning modern, modern world
+I:10519;162;ozu, be, moving, film, have, see, ozu be, be moving, moving film, film have, have see
+I:10519;163;make, great, make great
+I:10519;164;be, masterful, filmaking, be masterful, masterful filmaking
+I:10519;165;commentary, track, be, do, entertaining, commentary track, track be, be do, do entertaining
+I:10519;166;become, best, film, have, see, become best, best film, film have, have see
+I:10519;167;do, appreciate, good, product, be, better, good, transcend, term, great, do appreciate, appreciate good, good product, product be, be better, better good, good transcend, transcend term, term great
+I:10519;168;be, live, create, succeed, such, beautiful, perfect, way, be, impossible, emulate, own, life, be live, live create, create succeed, succeed such, such beautiful, beautiful perfect, perfect way, way be, be impossible, impossible emulate, emulate own, own life
+I:10519;169;other, have, compare, be, wonderful, life, other have, have compare, compare be, be wonderful, wonderful life
+I:10519;170;be, reasonable, comparison, be, philosophical, abstract, be reasonable, reasonable comparison, comparison be, be philosophical, philosophical abstract
+I:10519;171;want, see, touching, emotional, story, struggle, honest, man, look, want see, see touching, touching emotional, emotional story, story struggle, struggle honest, honest man, man look
+I:10519;172;know, samurai, film, couple, example, take, detour, theme, be, finest, film, make, know samurai, samurai film, film couple, couple example, example take, take detour, detour theme, theme be, be finest, finest film, film make
+I:10519;173;be, public, servant, have, work, government, year, be public, public servant, servant have, have work, work government, government year
+I:10519;174;new, approach, world, part, be, earth, manage, touch, everyone, good, worse, new approach, approach world, world part, part be, be earth, earth manage, manage touch, touch everyone, everyone good, good worse
+I:10519;175;ikiru, show, poignant, side, storyteller, ikiru show, show poignant, poignant side, side storyteller
+I:10519;176;beautiful, cinematography, story, beautiful cinematography, cinematography story
+I:10519;177;showcase, physical, deterioration, face, illness, showcase physical, physical deterioration, deterioration face, face illness
+I:10519;178;eye, speak, volume, physical, pain, find, new, eye speak, speak volume, volume physical, physical pain, pain find, find new
+I:10519;179;find, strength, cling, life, wake, last, breath, world, find strength, strength cling, cling life, life wake, wake last, last breath, breath world
+I:10519;180;feeling, urgency, be, contrast, moment, realize, joy, gratitude, feeling urgency, urgency be, be contrast, contrast moment, moment realize, realize joy, joy gratitude
+I:10519;181;be, make, film, be, timeless, be make, make film, film be, be timeless
+I:10519;182;be, fine, depiction, human, condition, fragility, life, have, be, give, be fine, fine depiction, depiction human, human condition, condition fragility, fragility life, life have, have be, be give
+I:10519;183;worth, sacrifice, life, meaningless, job, worth sacrifice, sacrifice life, life meaningless, meaningless job
+I:10519;184;effective, sequence, film, involve, local, bureau, reaction, proposal, build, park, department, representative, claim, hand, be, tie, pass, buck, department, ceaseless, red, tape, effective sequence, sequence film, film involve, involve local, local bureau, bureau reaction, reaction proposal, proposal build, build park, park department, department representative, representative claim, claim hand, hand be, be tie, tie pass, pass buck, buck department, department ceaseless, ceaseless red, red tape
+I:10519;185;regular, gain, greater, renown, leader, year, be, affect, regular gain, gain greater, greater renown, renown leader, leader year, year be, be affect
+I:10519;186;last, shot, swing, frame, jungle, gym, light, snowfall, sing, theme, be, transcendent, moment, last shot, shot swing, swing frame, frame jungle, jungle gym, gym light, light snowfall, snowfall sing, sing theme, theme be, be transcendent, transcendent moment
+I:10519;187;hand, embody, free, uninhibited, spirit, downscale, character, go, ebullience, key, moment, hand embody, embody free, free uninhibited, uninhibited spirit, spirit downscale, downscale character, character go, go ebullience, ebullience key, key moment
+I:10519;188;informative, commentary, track, provide, author, documentary, informative commentary, commentary track, track provide, provide author, author documentary
+I:10519;189;minute, film, message, late, minute film, film message, message late
+I:10519;190;career, creative, process, film, other, be, engrossing, career creative, creative process, process film, film other, other be, be engrossing
+I:10519;191;minute, film, focus, have, rare, interview, minute film, film focus, focus have, have rare, rare interview
+I:10519;192;be, many, wonderful, review, site, film, be, great, be many, many wonderful, wonderful review, review site, site film, film be, be great
+I:10519;193;many, be, write, many be, be write
+I:10519;194;have, see, many, film, life, stand, head, shoulder, have, see, have see, see many, many film, film life, life stand, stand head, head shoulder, shoulder have, have see
+I:10519;195;reviewer, give, good, poignant, review, film, reviewer give, give good, good poignant, poignant review, review film
+I:10519;196;know, write, be, greatest, film, know write, write be, be greatest, greatest film
+I:10519;197;time, be, bold, statement, time be, be bold, bold statement
+I:10519;198;let, clarify, bit, be, favorite, film, let clarify, clarify bit, bit be, be favorite, favorite film
+I:10519;199;be, quiet, simple, film, be quiet, quiet simple, simple film
+I:10519;200;time, life, have, dream, better, thing, time, grow, accustomed, job, be, alive, passion, make, life, enjoyable, time life, life have, have dream, dream better, better thing, thing time, time grow, grow accustomed, accustomed job, job be, be alive, alive passion, passion make, make life, life enjoyable
+I:10519;201;belong, bureaucratic, machine, make, difference, viewer, be, find, belong bureaucratic, bureaucratic machine, machine make, make difference, difference viewer, viewer be, be find
+I:10519;202;live, life, job, live life, life job
+I:10519;203;humble, protagonist, realize, life, have, meaning, humble protagonist, protagonist realize, realize life, life have, have meaning
+I:10519;204;alienate, son, set, correct, little, time, have, remain, make, sort, contribution, society, alienate son, son set, set correct, correct little, little time, time have, have remain, remain make, make sort, sort contribution, contribution society
+I:10519;205;contribution, come, way, children, park, contribution come, come way, way children, children park
+I:10519;206;simple, poignant, simple poignant
+I:10519;207;be, greatest, film, greatest, film, be greatest, greatest film, film greatest, greatest film
+I:10519;208;film, be, simple, reminder, be, willing, take, time, see, be, attempt, show, life, be, short, film be, be simple, simple reminder, reminder be, be willing, willing take, take time, time see, see be, be attempt, attempt show, show life, life be, be short
+I:10519;209;do, life, matter, do life, life matter
+I:10519;210;character, do, succeed, give, meaning, short, life, existence, character do, do succeed, succeed give, give meaning, meaning short, short life, life existence
+I:10519;211;watch, film, tire, view, watch film, film tire, tire view
+I:10519;212;be, heartfelt, film, greatest, role, play, part, film, such, outstanding, humility, viewer, come, empathize, be heartfelt, heartfelt film, film greatest, greatest role, role play, play part, part film, film such, such outstanding, outstanding humility, humility viewer, viewer come, come empathize
+I:10519;213;have, forget, part, sing, drinking, establishment, end, film, swing, finished, child, playground, haunting, beautiful, have forget, forget part, part sing, sing drinking, drinking establishment, establishment end, end film, film swing, swing finished, finished child, child playground, playground haunting, haunting beautiful
+I:10519;214;film, put, be, important, life, perspective, film put, put be, be important, important life, life perspective
+I:10519;215;live, life, day, be, last, live life, life day, day be, be last
+I:10519;216;be, uplifting, craft, movie, master, be uplifting, uplifting craft, craft movie, movie master
+I:10519;217;last, scene, stay, last scene, scene stay
+I:10519;218;be, favorite, kurosawa, film, be favorite, favorite kurosawa, kurosawa film
+I:10519;219;delicate, beautiful, make, feel, be, watch, wilting, fragile, flower, be, petal, be, drop, slow, delicate beautiful, beautiful make, make feel, feel be, be watch, watch wilting, wilting fragile, fragile flower, flower be, be petal, petal be, be drop, drop slow
+I:10519;220;watch, open, mind, heart, understand, everyone, leave, review, be, talk, watch open, open mind, mind heart, heart understand, understand everyone, everyone leave, leave review, review be, be talk
+I:10519;221;be, film, be, be, deep, be, open, reach, soul, be film, film be, be be, be deep, deep be, be open, open reach, reach soul
+I:10519;222;match, storytelling, convention, serve, match storytelling, storytelling convention, convention serve
+I:10519;223;be, good, good, great, movie, be good, good good, good great, great movie
+I:10519;224;be, few, go, great, be few, few go, go great
+I:10519;225;film, rare, humanity, move, funny, tell, story, die, man, last, crusade, turn, be, triumph, best, thing, have, do, life, something, be, remember, film rare, rare humanity, humanity move, move funny, funny tell, tell story, story die, die man, man last, last crusade, crusade turn, turn be, be triumph, triumph best, best thing, thing have, have do, do life, life something, something be, be remember
+I:10519;226;understand, park, be, important, understand park, park be, be important
+I:10519;227;answer, be, simple, answer be, be simple
+I:10519;228;family, co., worker, do, know, ill, be, make, scene, powerful, poignant, family co., co. worker, worker do, do know, know ill, ill be, be make, make scene, scene powerful, powerful poignant
+I:10519;229;film, have, many, quiet, compelling, moment, film have, have many, many quiet, quiet compelling, compelling moment
+I:10519;230;be, die, man, hopeful, life, affirm, be, be die, die man, man hopeful, hopeful life, life affirm, affirm be
+I:10519;231;decide, do, be, do, decide do, do be, be do
+I:10519;232;be, wonderful, see, end, do, be wonderful, wonderful see, see end, end do
+I:10519;233;be, best, film, samurai, be best, best film, film samurai
+I:10519;234;take, while, get, start, have, be, guy, have, do, thing, life, face, last, day, wonderful, dignity, take while, while get, get start, start have, have be, be guy, guy have, have do, do thing, thing life, life face, face last, last day, day wonderful, wonderful dignity
+I:10519;235;wish, give, movie, stars!one, greatest, feature, time, wish give, give movie, movie stars!one, stars!one greatest, greatest feature, feature time
+I:10519;236;film, show, be, more, director, epic, samurai, picture, film show, show be, be more, more director, director epic, epic samurai, samurai picture
+I:10519;237;direct, powerful, dramas, direct powerful, powerful dramas
+I:10519;238;die, bureaucrat, give, greatest, performance, motion, picture, history, die bureaucrat, bureaucrat give, give greatest, greatest performance, performance motion, motion picture, picture history
+I:10519;239;true, testament, act, ability, true testament, testament act, act ability
+I:10519;240;make, angry, petty, politician, feature, do, give, damm, anything, take, credit, good, be, be, do, most, be, inspiring, make angry, angry petty, petty politician, politician feature, feature do, do give, give damm, damm anything, anything take, take credit, credit good, good be, be be, be do, do most, most be, be inspiring
+I:10519;241;make, statement, bureaucracy, make statement, statement bureaucracy
+I:10519;242;find, do, reflective, era, be, film, cover, find do, do reflective, reflective era, era be, be film, film cover
+I:10519;243;be, excellent, reflective, intuitive, treatment, main, character, be excellent, excellent reflective, reflective intuitive, intuitive treatment, treatment main, main character
+I:10519;244;be, excellent, film, be excellent, excellent film
+I:10519;245;thanks, make, masterpiece, available, thanks make, make masterpiece, masterpiece available
+I:10519;246;retelling, death, be, beautiful, level, retelling death, death be, be beautiful, beautiful level
+I:10519;247;other, filmmaker, have, have, talent, frame, shot, keep, subject, matter, human, other filmmaker, filmmaker have, have have, have talent, talent frame, frame shot, shot keep, keep subject, subject matter, matter human
+I:10519;248;tale, enlightenment, gain, inner, clarity, live, life, guide, clarity, truth, goodness, majority, do, understand, tale enlightenment, enlightenment gain, gain inner, inner clarity, clarity live, live life, life guide, guide clarity, clarity truth, truth goodness, goodness majority, majority do, do understand
+I:10519;249;saddening, uplifting, film, saddening uplifting, uplifting film
+I:10519;250;be, doubt, cinema, revered, director, know, samurai, epic, such, recommend, throne, blood, japanese, version, immortal, play, have, see, be doubt, doubt cinema, cinema revered, revered director, director know, know samurai, samurai epic, epic such, such recommend, recommend throne, throne blood, blood japanese, japanese version, version immortal, immortal play, play have, have see
+I:10519;251;be, simple, story, simple, man, face, utter, despair, be simple, simple story, story simple, simple man, man face, face utter, utter despair
+I:10519;252;plot, be, simple, be, middle, plot be, be simple, simple be, be middle
+I:10519;253;second, half, film, show, funeral, people, attend, discuss, last, day, give, perspective, final, act, second half, half film, film show, show funeral, funeral people, people attend, attend discuss, discuss last, last day, day give, give perspective, perspective final, final act
+I:10519;254;film, possess, gentle, heart, film possess, possess gentle, gentle heart
+I:10519;255;break, beauty, make, look, own, heart, ask, have, make, something, life, break beauty, beauty make, make look, look own, own heart, heart ask, ask have, have make, make something, something life
+I:10519;256;simple, poetic, beauty, be, give, such, power, simple poetic, poetic beauty, beauty be, be give, give such, such power
+I:10519;257;scene, end, see, swing, snow, singing, haunting, song, be, brief, death, bring, such, pure, emotion, raw, power, scene end, end see, see swing, swing snow, snow singing, singing haunting, haunting song, song be, be brief, brief death, death bring, bring such, such pure, pure emotion, emotion raw, raw power
+I:10519;258;be, film, age, be film, film age
+I:10519;259;do, favor, see, film, do favor, favor see, see film
+I:10519;260;last, day, simple, man, be, die, cancer, make, real, transformation, value, hold, last day, day simple, simple man, man be, be die, die cancer, cancer make, make real, real transformation, transformation value, value hold
+I:10519;261;decide, give, surprise, own, daughter, tell, illness, capture, powerful, statement, state, want, die, possible, decide give, give surprise, surprise own, own daughter, daughter tell, tell illness, illness capture, capture powerful, powerful statement, statement state, state want, want die, die possible
+I:10519;262;supreme, masterpiece, cinema, story, supreme masterpiece, masterpiece cinema, cinema story
+I:10519;263;many, people, consider, be, expressive, poignant, work, many people, people consider, consider be, be expressive, expressive poignant, poignant work
+I:10519;264;do, agree, undoubtly, be, real, gem, do agree, agree undoubtly, undoubtly be, be real, real gem
+I:10519;265;great, film, director, have, film, make, career, be, consider, masterpiece, great film, film director, director have, have film, film make, make career, career be, be consider, consider masterpiece
+I:10519;266;be, best, director, history, film, making, be best, best director, director history, history film, film making
+I:10519;267;seem, set, many, director, be, seem, be, many, movie, have, make, be, consider, masterpiece, seem set, set many, many director, director be, be seem, seem be, be many, many movie, movie have, have make, make be, be consider, consider masterpiece
+I:10519;268;ran, other, have, direct, be, consider, masterpiece, ran other, other have, have direct, direct be, be consider, consider masterpiece
+I:10519;269;be, classic, movie, be classic, classic movie
+I:10519;270;be, film, be, consider, masterpiece, make, strong, case, be film, film be, be consider, consider masterpiece, masterpiece make, make strong, strong case
+I:10519;271;be, grandeur, say, ran, battle, scene, action, be, powerful, film, subtle, meaning, be grandeur, grandeur say, say ran, ran battle, battle scene, scene action, action be, be powerful, powerful film, film subtle, subtle meaning
+I:10519;272;be, bureaucrat, hold, title, section, chief, public, affair, be bureaucrat, bureaucrat hold, hold title, title section, section chief, chief public, public affair
+I:10519;273;want, chance, do, something, have, meaning, give, purpose, live, time, have, leave, want chance, chance do, do something, something have, have meaning, meaning give, give purpose, purpose live, live time, time have, have leave
+I:10519;274;come, head, day, come, home, young, girl, family, think, be, have, affair, come head, head day, day come, come home, home young, young girl, girl family, family think, think be, be have, have affair
+I:10519;275;family, know, nothing, lead, confrontation, son, family know, know nothing, nothing lead, lead confrontation, confrontation son
+I:10519;276;take, place, point, be, interesting, art, story, tell, take place, place point, point be, be interesting, interesting art, art story, story tell
+I:10519;277;watch, film, know, be, go, happen, watch film, film know, know be, be go, go happen
+I:10519;278;way, be, outstanding, movie, way be, be outstanding, outstanding movie
+I:10519;279;direct, film, co., write, be, greatest, movie, make, direct film, film co., co. write, write be, be greatest, greatest movie, movie make
+I:10519;280;other, hand, be, contemporary, film, least, be, be, make, other hand, hand be, be contemporary, contemporary film, film least, least be, be be, be make
+I:10519;281;thing, story, be, be, timeless, thing story, story be, be be, be timeless
+I:10519;282;be, film, mankind, live, life, depart, bring, mean, be film, film mankind, mankind live, live life, life depart, depart bring, bring mean
+I:10519;283;be, moment, be, lighthearted, bring, smile, laugh, be moment, moment be, be lighthearted, lighthearted bring, bring smile, smile laugh
+I:10519;284;main, purpose, film, be, get, viewer, look, life, main purpose, purpose film, film be, be get, get viewer, viewer look, look life
+I:10519;285;course, praise, excellent, work, make, film, be, other, person, deserve, praise, make, movie, outstanding, course praise, praise excellent, excellent work, work make, make film, film be, be other, other person, person deserve, deserve praise, praise make, make movie, movie outstanding
+I:10519;286;be, doubt, be, masterpiece, actor, be doubt, doubt be, be masterpiece, masterpiece actor
+I:10519;287;performance, be, greatest, performance, actor, have, give, cinema, history, performance be, be greatest, greatest performance, performance actor, actor have, have give, give cinema, cinema history
+I:10519;288;be, memorable, be memorable
+I:10519;289;take, roll, man, weight, world, shoulder, take roll, roll man, man weight, weight world, world shoulder
+I:10519;290;give, performance, make, feel, sympathy, give performance, performance make, make feel, feel sympathy
+I:10519;291;keep, feeling, rest, world, viewer, get, see, man, turmoil, be, go, develop, sympathy, find, care, happen, next, keep feeling, feeling rest, rest world, world viewer, viewer get, get see, see man, man turmoil, turmoil be, be go, go develop, develop sympathy, sympathy find, find care, care happen, happen next
+I:10519;292;be, powerful, performance, subtle, way, be powerful, powerful performance, performance subtle, subtle way
+I:10519;293;love, action, movie, next, person, love, movie, like, much, more, love action, action movie, movie next, next person, person love, love movie, movie like, like much, much more
+I:10519;294;love, good, movie, make, look, inward, love good, good movie, movie make, make look, look inward
+I:10519;295;challenge, thought, belief, show, complexity, life, challenge thought, thought belief, belief show, show complexity, complexity life
+I:10519;296;movie, show, speak, word, provide, more, action, dozen, shoot, explosive, scene, best, action, movie, show, movie show, show speak, speak word, word provide, provide more, more action, action dozen, dozen shoot, shoot explosive, explosive scene, scene best, best action, action movie, movie show
+I:10519;297;be, make, viewer, take, everything, be, go, story, be make, make viewer, viewer take, take everything, everything be, be go, go story
+I:10519;298;message, film, be, important, see, message film, film be, be important, important see
+I:10519;299;be, potent, devastate, picture, prove, cinematic, art, be, oxymoron, be potent, potent devastate, devastate picture, picture prove, prove cinematic, cinematic art, art be, be oxymoron
+I:10519;300;acting, cinematography, pacing, thematic, element, script, dialogue, intelligence, emotional, pitch, humor, film, be, acting cinematography, cinematography pacing, pacing thematic, thematic element, element script, script dialogue, dialogue intelligence, intelligence emotional, emotional pitch, pitch humor, humor film, film be
+I:10519;301;perfect, have, search, hard, find, anything, complain, party, scene, drag, few, minute, perfect have, have search, search hard, hard find, find anything, anything complain, complain party, party scene, scene drag, drag few, few minute
+I:10519;302;adapt, source, novel, capture, spirit, identifiable, blend, savage, satire, melancholy, idealism, run, author, work, idiot, novel, have, adapt, adapt source, source novel, novel capture, capture spirit, spirit identifiable, identifiable blend, blend savage, savage satire, satire melancholy, melancholy idealism, idealism run, run author, author work, work idiot, idiot novel, novel have, have adapt
+I:10519;303;epilepsy, alcoholism, share, sensibility, powerful, belief, world, be, decent, place, people, make, slightest, humanitarian, effort, combine, kind, quiet, rage, face, reality, humanity, whole, make, effort, epilepsy alcoholism, alcoholism share, share sensibility, sensibility powerful, powerful belief, belief world, world be, be decent, decent place, place people, people make, make slightest, slightest humanitarian, humanitarian effort, effort combine, combine kind, kind quiet, quiet rage, rage face, face reality, reality humanity, humanity whole, whole make, make effort
+I:10519;304;have, center, profound, subject, human, condition, approach, death, invidual, fear, non, have center, center profound, profound subject, subject human, human condition, condition approach, approach death, death invidual, invidual fear, fear non
+I:10519;305;existence, meaning, life, existence meaning, meaning life
+I:10519;306;intense, subject, be, sure, masterful, direction, man, experience, human, human, condition, be, tell, dignity, light, touch, intense subject, subject be, be sure, sure masterful, masterful direction, direction man, man experience, experience human, human human, human condition, condition be, be tell, tell dignity, dignity light, light touch
+I:10519;307;many, way, plot, parallel, favorite, japanese, film, many way, way plot, plot parallel, parallel favorite, favorite japanese, japanese film
+I:10519;308;elderly, man, approach, end, life, little, comfort, find, past, wife, have, die, elderly man, man approach, approach end, end life, life little, little comfort, comfort find, find past, past wife, wife have, have die
+I:10519;309;level, present, scathing, satire, subject, bureaucracy, stifle, effect, creativity, human, spirit, level present, present scathing, scathing satire, satire subject, subject bureaucracy, bureaucracy stifle, stifle effect, effect creativity, creativity human, human spirit
+I:10519;310;relationship, girl, be, complex, begin, unwind, deteriorate, relationship girl, girl be, be complex, complex begin, begin unwind, unwind deteriorate
+I:10519;311;spiritual, process, have, be, ignite, spiritual process, process have, have be, be ignite
+I:10519;312;take, become, unpretentious, man, action, committee, take become, become unpretentious, unpretentious man, man action, action committee
+I:10519;313;thing, film, make, realise, be, job, be, job, thing film, film make, make realise, realise be, be job, job be, be job
+I:10519;314;film, be, heartful, beautiful, make, age, group, realise, life, be, live, correct, be, say, know, be, go, die, do, begin, live, film be, be heartful, heartful beautiful, beautiful make, make age, age group, group realise, realise life, life be, be live, live correct, correct be, be say, say know, know be, be go, go die, die do, do begin, begin live
+I:10519;315;recommend, film, everyone, love, japanese, film, be, best, film, recommend film, film everyone, everyone love, love japanese, japanese film, film be, be best, best film
+I:10519;316;film, be, powerful, message, career, film be, be powerful, powerful message, message career
+I:10519;317;greatest, film, time, greatest film, film time
+I:10519;318;presentation, be, structure, ponderous., audience, view, know, life, be, testament, humanity, presentation be, be structure, structure ponderous., ponderous. audience, audience view, view know, know life, life be, be testament, testament humanity
+I:10519;319;become, aware, become aware
+I:10519;320;masterpiece, be, bulge, lexicon, choose, nevermind, be, show, age, masterpiece be, be bulge, bulge lexicon, lexicon choose, choose nevermind, nevermind be, be show, show age
+I:10519;321;humble, bureaucrat, near, end, career, discover, have, terminal, cancer, set, achieve, something, meaningful, remain, life, humble bureaucrat, bureaucrat near, near end, end career, career discover, discover have, have terminal, terminal cancer, cancer set, set achieve, achieve something, something meaningful, meaningful remain, remain life
+I:10519;322;hero, be, man, humble, means, final, lasting, testament, be, awe, hero be, be man, man humble, humble means, means final, final lasting, lasting testament, testament be, be awe
+I:10519;323;be, small, be small
+I:10519;324;affirm, film, hope, find, affirm film, film hope, hope find
+I:10519;325;be, sad, life, affirm, same, time, be sad, sad life, life affirm, affirm same, same time
+I:10519;326;interesting, sympathetic, character, play, brief, role, be, go, trace, interesting sympathetic, sympathetic character, character play, play brief, brief role, role be, be go, go trace
+I:10519;327;know, samurai, epic, craft, move, tale, find, purpose, dignity, forbid, face, death, know samurai, samurai epic, epic craft, craft move, move tale, tale find, find purpose, purpose dignity, dignity forbid, forbid face, face death
+I:10519;328;be, marvelous, bright, attractive, young, girl, lead, rediscover, community, be marvelous, marvelous bright, bright attractive, attractive young, young girl, girl lead, lead rediscover, rediscover community
+I:10519;329;be, japanese, provenance, appeal, be, universal, be japanese, japanese provenance, provenance appeal, appeal be, be universal
+I:10519;330;movie, tend, mature, mind, like, period, week, month, take, year, like, be, afraid, be, beautiful, begin, end, movie tend, tend mature, mature mind, mind like, like period, period week, week month, month take, take year, year like, like be, be afraid, afraid be, be beautiful, beautiful begin, begin end
+I:10519;331;best, thing, movie, be, fact, do, want, be, tearjerker, best thing, thing movie, movie be, be fact, fact do, do want, want be, be tearjerker
+I:10519;332;be, better, movie, admire, be better, better movie, movie admire
+I:10519;333;be, movie, everyone, watch, make, want, savour, life, be movie, movie everyone, everyone watch, watch make, make want, want savour, savour life
+I:10519;334;movie, turn, tear, stream, face, say, be, greatest, movie, have, see, movie turn, turn tear, tear stream, stream face, face say, say be, be greatest, greatest movie, movie have, have see
+I:10519;335;be, full, common, hero, common, villan, be full, full common, common hero, hero common, common villan
+I:10519;336;find, character, feeling, thinking, feel, be, reform, happen, movie, find character, character feeling, feeling thinking, thinking feel, feel be, be reform, reform happen, happen movie
+I:10519;337;note, recommend, go, subtitle, voice, do, understand, japanese, note recommend, recommend go, go subtitle, subtitle voice, voice do, do understand, understand japanese
+I:10519;338;everything, movie, be, vivid, sens, imagination, make, lapse, understand, dialogue, everything movie, movie be, be vivid, vivid sens, sens imagination, imagination make, make lapse, lapse understand, understand dialogue
+I:10519;339;best, movie, have, see, best movie, movie have, have see
+I:10519;340;be, greatest, film, make, be greatest, greatest film, film make
+I:10519;341;philosophical, struggle, meaning, life, be, capture, film, philosophical struggle, struggle meaning, meaning life, life be, be capture, capture film
+I:10519;342;be, human, story, time, be human, human story, story time
+I:10519;343;be, movie, change, life, be movie, movie change, change life
+I:10519;344;want, change, life, take, peek, future, get, movie, want change, change life, life take, take peek, peek future, future get, get movie
+I:10519;345;provoke, movie, legendary, director, provoke movie, movie legendary, legendary director
+I:10519;346;movie, make, think, live, life, time, be, limit, movie make, make think, think live, live life, life time, time be, be limit
+I:10519;347;utilize, powerful, technique, silence, illustrate, main, character, thinking, journey, utilize powerful, powerful technique, technique silence, silence illustrate, illustrate main, main character, character thinking, thinking journey
+I:10519;348;moving, movie, have, see, moving movie, movie have, have see
+I:10519;349;be, film, draw, attention, trust, be, worthy, direction, be film, film draw, draw attention, attention trust, trust be, be worthy, worthy direction
+I:10519;350;strike, something, mind, need, start, live, do, same, thing, everyday, strike something, something mind, mind need, need start, start live, live do, do same, same thing, thing everyday
+I:10519;351;meet, young, girl, admire, youth, joy, meet young, young girl, girl admire, admire youth, youth joy
+I:10519;352;inspire, do, something, big, die, inspire do, do something, something big, big die
+I:10519;353;do, live, last, minute, do live, live last, last minute
+I:10519;354;old, black, white, picture, add, emotion, film, old black, black white, white picture, picture add, add emotion, emotion film
+I:10519;355;story, be, timeless, be, appear, many, people, life, story be, be timeless, timeless be, be appear, appear many, many people, people life
+I:10519;356;think, give, film, extra, something, be, act, make, character, realistic, think give, give film, film extra, extra something, something be, be act, act make, make character, character realistic
+I:10519;357;have, look, face, entire, film, show, pain, age, fear, future, have look, look face, face entire, entire film, film show, show pain, pain age, age fear, fear future
+I:10519;358;say, film, black, white, picture, add, lot, film, feel, want, give, watch, understand, say film, film black, black white, white picture, picture add, add lot, lot film, film feel, feel want, want give, give watch, watch understand
+I:10519;359;see, flaw, be, see, love, work, see flaw, flaw be, be see, see love, love work
+I:10519;360;human, sensitivity, be, flamboyant, theatrical, style, japanese, counterpart, be, less, impressive, human sensitivity, sensitivity be, be flamboyant, flamboyant theatrical, theatrical style, style japanese, japanese counterpart, counterpart be, be less, less impressive
+I:10519;361;be, true, film, artist, be, sure, be true, true film, film artist, artist be, be sure
+I:10519;362;first, half, film, make, shed, few, tear, watch, poor, first, find, have, stomach, cancer, try, have, fun, life, first half, half film, film make, make shed, shed few, few tear, tear watch, watch poor, poor first, first find, find have, have stomach, stomach cancer, cancer try, try have, have fun, fun life
+I:10519;363;attempt, do, be, touching, do, work, attempt do, do be, be touching, touching do, do work
+I:10519;364;decide, do, something, noble, people, work, get, second, half, film, wake, colleague, reminisce, noble, act, accomplish, town, die, decide do, do something, something noble, noble people, people work, work get, get second, second half, half film, film wake, wake colleague, colleague reminisce, reminisce noble, noble act, act accomplish, accomplish town, town die
+I:10519;365;be, intriguing, see, effect, death, fellow, worker, townspeople, help, be intriguing, intriguing see, see effect, effect death, death fellow, fellow worker, worker townspeople, townspeople help
+I:10519;366;be, sentimental, be, feel, be, resistant, sentimental, excess, be, be sentimental, sentimental be, be feel, feel be, be resistant, resistant sentimental, sentimental excess, excess be
+I:10519;367;give, unforgettable, performance, esp, give unforgettable, unforgettable performance, performance esp
+I:10519;368;image, go, show, be, masterly, visual, artist, film, image go, go show, show be, be masterly, masterly visual, visual artist, artist film
+I:10519;369;be, good, film, deserve, be, see, powerful, message, nothing, be good, good film, film deserve, deserve be, be see, see powerful, powerful message, message nothing
+I:10519;370;movie, be, extraordinary, allegory, man, find, meaning, life, engagement, other, help, other, join, positive, cause, own, immediate, concern, movie be, be extraordinary, extraordinary allegory, allegory man, man find, find meaning, meaning life, life engagement, engagement other, other help, help other, other join, join positive, positive cause, cause own, own immediate, immediate concern
+I:10519;371;be, film, be, full, subtlety, build, dark, atmosphere, journey, end, be film, film be, be full, full subtlety, subtlety build, build dark, dark atmosphere, atmosphere journey, journey end
+I:10519;372;subtle, moment, be, balanced, act, sound, cinematography, direct, bring, brilliant, cinematic, experience, subtle moment, moment be, be balanced, balanced act, act sound, sound cinematography, cinematography direct, direct bring, bring brilliant, brilliant cinematic, cinematic experience
+I:10519;373;live, be, beautiful, film, live be, be beautiful, beautiful film
+I:10519;374;buy, read, sypnosis, feel, be, able, relate, story, buy read, read sypnosis, sypnosis feel, feel be, be able, able relate, relate story
+I:10519;375;buy, film, have, see, several, film, have, become, favorite, director, prefer, combine, buy film, film have, have see, see several, several film, film have, have become, become favorite, favorite director, director prefer, prefer combine
+I:10519;376;film, ask, same, question, less, direct, manner, focus, mental, evolution, change, film ask, ask same, same question, question less, less direct, direct manner, manner focus, focus mental, mental evolution, evolution change
+I:10519;377;feel, be, greatest, accomplishment, feel be, be greatest, greatest accomplishment
+I:10519;378;fact, believe, red, be, best, accomplishment, history, cinema, art, fact believe, believe red, red be, be best, best accomplishment, accomplishment history, history cinema, cinema art
+I:10519;379;think, be, get, chronological, order, put, emphasis, person, think be, be get, get chronological, chronological order, order put, put emphasis, emphasis person
+I:10519;380;recommend, movie, many, other, movie, have, make, recommend movie, movie many, many other, other movie, movie have, have make
+I:10519;381;be, nice, version, movie, have, be nice, nice version, version movie, movie have
+I:10519;382;star, poor, condition, print, ikiru, be, masterpiece, film, be, true, classic, cinema, star poor, poor condition, condition print, print ikiru, ikiru be, be masterpiece, masterpiece film, film be, be true, true classic, classic cinema
+I:10519;383;move, film, do, go, cheap, sentiment, touch, soul, move film, film do, do go, go cheap, cheap sentiment, sentiment touch, touch soul
+I:10519;384;action, camera, move, edit, be, utilize, make, film, virtual, text, book, power, filmmaking, action camera, camera move, move edit, edit be, be utilize, utilize make, make film, film virtual, virtual text, text book, book power, power filmmaking
+I:10519;385;criterion, do, best, achieve, beautiful, sharpness, good, contrast, transfer, criterion do, do best, best achieve, achieve beautiful, beautiful sharpness, sharpness good, good contrast, contrast transfer
+I:10519;386;extra, audio, commentary, be, best, scholarly, commentary, extra audio, audio commentary, commentary be, be best, best scholarly, scholarly commentary
+I:10519;387;be, few, talk, have, increase, appreciation, film, large, degree, be few, few talk, talk have, have increase, increase appreciation, appreciation film, film large, large degree
+I:10519;388;longer, documentary, provide, rare, footage, set, direct, later, day, film, interview, longer documentary, documentary provide, provide rare, rare footage, footage set, set direct, direct later, later day, day film, film interview
+I:10519;389;be, admirable, movie, useful, lesson, use, life, make, world, way, be admirable, admirable movie, movie useful, useful lesson, lesson use, use life, life make, make world, world way
+I:10519;390;work, management, office, housing, project, year, work management, management office, office housing, housing project, project year
+I:10519;391;be, kind, civil, service, job, be, ridicule, suppose, be kind, kind civil, civil service, service job, job be, be ridicule, ridicule suppose
+I:10519;392;lesson, be, take, lesson be, be take
+I:10519;393;day, jig, be, be, home, day jig, jig be, be be, be home
+I:10519;394;do, something, be, do something, something be
+I:10519;395;be, artistic, touch, appreciate, be artistic, artistic touch, touch appreciate
+I:10519;396;be, nice, way, get, message, park, be, beautiful, thing, neighborhood, get, mushy, be nice, nice way, way get, get message, message park, park be, be beautiful, beautiful thing, thing neighborhood, neighborhood get, get mushy
+I:10519;397;favorite, part, movie, be, watch, young, girl, work, hero, department, favorite part, part movie, movie be, be watch, watch young, young girl, girl work, work hero, hero department
+I:10519;398;be, full, fun, energy, movie, need, desert, need, soft, drink, machine, be full, full fun, fun energy, energy movie, movie need, need desert, desert need, need soft, soft drink, drink machine
+I:10519;399;thing, like, movie, be, hero, son, be, real, piece, garbage, thing like, like movie, movie be, be hero, hero son, son be, be real, real piece, piece garbage
+I:10519;400;be, nice, see, recognize, intelligent, movie, be nice, nice see, see recognize, recognize intelligent, intelligent movie
+I:10519;401;film, most, basic, level, be, redemption, living, ikiru, be, live, english, die, matter, make, difference, life, life, other, film most, most basic, basic level, level be, be redemption, redemption living, living ikiru, ikiru be, be live, live english, english die, die matter, matter make, make difference, difference life, life life, life other
+I:10519;402;film, be, quiet, powerful, basic, study, man, try, find, meaning, last, day, film be, be quiet, quiet powerful, powerful basic, basic study, study man, man try, try find, find meaning, meaning last, last day
+I:10519;403;be, more, describe, film, purpose, noble, genuine, warm, move, beautiful, be more, more describe, describe film, film purpose, purpose noble, noble genuine, genuine warm, warm move, move beautiful
+I:10519;404;remember, poignant, sad, triumphant, example, human, spirit, persevere, make, wonderful, difference, remember poignant, poignant sad, sad triumphant, triumphant example, example human, human spirit, spirit persevere, persevere make, make wonderful, wonderful difference
+I:10519;405;say, woman, look, relative, say woman, woman look, look relative
+I:10519;406;give, remarkable, performance, masterpiece, give remarkable, remarkable performance, performance masterpiece
+I:10519;407;chance, encounter, young, lady, department, result, friendship, be, strike, chance encounter, encounter young, young lady, lady department, department result, result friendship, friendship be, be strike
+I:10519;408;be, attract, youthful, vigor, enthusiasm, be, intrigue, older, gentleman, have, nickname, mummy, be, kind, fellow, be attract, attract youthful, youthful vigor, vigor enthusiasm, enthusiasm be, be intrigue, intrigue older, older gentleman, gentleman have, have nickname, nickname mummy, mummy be, be kind, kind fellow
+I:10519;409;story, take, inspire, turn, story take, take inspire, inspire turn
+I:10519;410;be, uplifting, experience, see, path, result, struggle, be uplifting, uplifting experience, experience see, see path, path result, result struggle
+I:10519;411;be, greatest, make, be greatest, greatest make
+I:10519;412;mean, _, live, japanese, beautiful, movie, be, best, representation, matter, life, mean _, _ live, live japanese, japanese beautiful, beautiful movie, movie be, be best, best representation, representation matter, matter life
+I:10519;413;recommend, watch, movie, read, brevitate, vita, recommend watch, watch movie, movie read, read brevitate, brevitate vita
+I:10519;414;be, good, watch, good, reminder, movie, be, be good, good watch, watch good, good reminder, reminder movie, movie be
+I:10519;415;be, simple, movie, exceed, sum, part, be simple, simple movie, movie exceed, exceed sum, sum part
+I:10519;416;be, many, classic, movie, few, have, such, timeless, relevant, theme, be many, many classic, classic movie, movie few, few have, have such, such timeless, timeless relevant, relevant theme
+I:10519;417;say, be, few, movie, make, rethink, live, life, think, be, right, say be, be few, few movie, movie make, make rethink, rethink live, live life, life think, think be, be right
+I:10519;418;movie, be, best, view, matinee, movie be, be best, best view, view matinee
+I:10519;419;see, movie, today, museum, stun, see movie, movie today, today museum, museum stun
+I:10519;420;say, make, sure, be, wide, patient, mood, say make, make sure, sure be, be wide, wide patient, patient mood
+I:10519;421;one, be, important, one be, be important
+I:10519;422;be, be, greatest, film, be be, be greatest, greatest film
+I:10519;423;man, diagnose, cancer, realize, have, live, life, man diagnose, diagnose cancer, cancer realize, realize have, have live, live life
+I:10519;424;work, political, office, stamp, papers, work political, political office, office stamp, stamp papers
+I:10519;425;fine, performance, legendary, takshi, shimura, samurai, rashomon, godzilla, akira, kurosawa, moving, think, provoke, film, make, fine performance, performance legendary, legendary takshi, takshi shimura, shimura samurai, samurai rashomon, rashomon godzilla, godzilla akira, akira kurosawa, kurosawa moving, moving think, think provoke, provoke film, film make
+I:10519;426;be, meaningful, movie, be meaningful, meaningful movie
+I:10519;427;say, be, traumatizing, movie, have, see, say be, be traumatizing, traumatizing movie, movie have, have see
+I:10519;428;represent, attitude, have, embrace, earlier, age, represent attitude, attitude have, have embrace, embrace earlier, earlier age
+I:10519;429;ikiru, rank, important, film, examine, human, life, ikiru rank, rank important, important film, film examine, examine human, human life
+I:10519;430;talk, other, close, talk other, other close
+I:10519;431;samurai, give, incredible, performance, samurai give, give incredible, incredible performance
+I:10519;432;keep, watch, least, year, keep watch, watch least, least year
+I:10519;433;be, captivating, be, be captivating, captivating be
+I:10519;434;thing, be, mention, be, actor, apply, craft, genius, worthy, film, thing be, be mention, mention be, be actor, actor apply, apply craft, craft genius, genius worthy, worthy film
+I:10519;435;great, film, be, best, great film, film be, be best
+I:10519;436;order, watch, regret, order watch, watch regret
+I:10519;437;have, interesting, narrative, structure, observe, nuance, boldness, combine, give, originality, elevate, rewarding, movie, be, great, novelty, value, present, story, film, have interesting, interesting narrative, narrative structure, structure observe, observe nuance, nuance boldness, boldness combine, combine give, give originality, originality elevate, elevate rewarding, rewarding movie, movie be, be great, great novelty, novelty value, value present, present story, story film
+I:10519;438;be, uplifting, film, unsentimental, juxtaposition, be, wide, cast, character, have, knit, play, narrative, social, commentary, be uplifting, uplifting film, film unsentimental, unsentimental juxtaposition, juxtaposition be, be wide, wide cast, cast character, character have, have knit, knit play, play narrative, narrative social, social commentary
+I:10519;439;be, film, be, interesting, be, expression, view, much, anything, be, natural, companion, piece, later, film, regard, be, philosophical, position, hold, think, be film, film be, be interesting, interesting be, be expression, expression view, view much, much anything, anything be, be natural, natural companion, companion piece, piece later, later film, film regard, regard be, be philosophical, philosophical position, position hold, hold think
+I:10519;440;be, favorite, kurosawa, film, be favorite, favorite kurosawa, kurosawa film
+I:10519;441;ikiru, quiet, emotional, impact, remind, thematic, overtone, bear, unifying, moral, center, ordinary, people, come, extraordinary, resolve, death, endearing, character, ikiru quiet, quiet emotional, emotional impact, impact remind, remind thematic, thematic overtone, overtone bear, bear unifying, unifying moral, moral center, center ordinary, ordinary people, people come, come extraordinary, extraordinary resolve, resolve death, death endearing, endearing character
+I:10519;442;learn, diagnosis, awaken, life, learn diagnosis, diagnosis awaken, awaken life
+I:10519;443;good, bureaucrat, life, source, be, pleasant, sure, measure, control, tranquil, dead, calm, way, be, call, question, shun, urgency, good bureaucrat, bureaucrat life, life source, source be, be pleasant, pleasant sure, sure measure, measure control, control tranquil, tranquil dead, dead calm, calm way, way be, be call, call question, question shun, shun urgency
+I:10519;444;film, be, record, life, be, awaken, sensitize, other, human, being, film be, be record, record life, life be, be awaken, awaken sensitize, sensitize other, other human, human being
+I:10519;445;generous, benevolent, awakening, revive, connection, people, create, powerful, emotional, effect, sympathy, people, encounter, way, generous benevolent, benevolent awakening, awakening revive, revive connection, connection people, people create, create powerful, powerful emotional, emotional effect, effect sympathy, sympathy people, people encounter, encounter way
+I:10519;446;reconciliatory, emotion, come, awakening, be, empathy, admiration, reconciliatory emotion, emotion come, come awakening, awakening be, be empathy, empathy admiration
+I:10519;447;generosity, fill, screen, subtle, act, give, generosity fill, fill screen, screen subtle, subtle act, act give
+I:10519;448;have, way, light, scene, delight, record, sheer, happiness, simple, move, bring, have way, way light, light scene, scene delight, delight record, record sheer, sheer happiness, happiness simple, simple move, move bring
+I:10519;449;unforgettable, final, scene, swing, rock, city, park, light, snow, settle, hat, coat, face, bring, tranquility, last, day, unforgettable final, final scene, scene swing, swing rock, rock city, city park, park light, light snow, snow settle, settle hat, hat coat, coat face, face bring, bring tranquility, tranquility last, last day
+I:10519;450;last, scene, film, be, great, moment, cinema, scene, evoke, mixed, emotion, last scene, scene film, film be, be great, great moment, moment cinema, cinema scene, scene evoke, evoke mixed, mixed emotion
+I:10519;451;twilight, life, get, upper, twilight life, life get, get upper
+I:10519;452;aged, man, see, subtle, splendour, aged man, man see, see subtle, subtle splendour
+I:10519;453;reason, touch, chord, heart, reason touch, touch chord, chord heart
+I:10519;454;see, protagonist, see protagonist
+I:10519;455;see, character, honor, scene, denigrate, stand, see character, character honor, honor scene, scene denigrate, denigrate stand
+I:10519;456;be, able, examine, watch, movie, be able, able examine, examine watch, watch movie
+I:10519;457;see, minor, line, emulsion, act, overcome, see minor, minor line, line emulsion, emulsion act, act overcome
+I:10519;458;melodrama, weepie, move, thoughtful, film, take, unusal, narrative, turn, melodrama weepie, weepie move, move thoughtful, thoughtful film, film take, take unusal, unusal narrative, narrative turn
+I:10519;459;third, way, explore, critical, celebratory, view, hero, successful, effort, get, park, bult, third way, way explore, explore critical, critical celebratory, celebratory view, view hero, hero successful, successful effort, effort get, get park, park bult
+I:10519;460;final, shot, recall, earlier, beautiful, shot, film, hold, hope, thing, change, aknowledge, be, little, reason, hope, man, effort, change, anything, final shot, shot recall, recall earlier, earlier beautiful, beautiful shot, shot film, film hold, hold hope, hope thing, thing change, change aknowledge, aknowledge be, be little, little reason, reason hope, hope man, man effort, effort change, change anything
+I:10519;461;be, long, film, wife, find, engage, be long, long film, film wife, wife find, find engage
+I:10519;462;be, setting, use, explore, nature, modern, life, human, dilemma, meaning, insignificance, be setting, setting use, use explore, explore nature, nature modern, modern life, life human, human dilemma, dilemma meaning, meaning insignificance
+I:10519;463;main, character, be, audience, build, great, empathy, be, success, factor, movie, main character, character be, be audience, audience build, build great, great empathy, empathy be, be success, success factor, factor movie
+I:10519;464;add, continual, realistic, plot, development, superb, acting, strong, parallel, japanese, american, society, get, winner, remember, add continual, continual realistic, realistic plot, plot development, development superb, superb acting, acting strong, strong parallel, parallel japanese, japanese american, american society, society get, get winner, winner remember
+I:10519;465;film, have, complex, structure, film have, have complex, complex structure
+I:10519;466;be, appreciate, have, realise, be, go, die, know, mean, be appreciate, appreciate have, have realise, realise be, be go, go die, die know, know mean
+I:10519;467;watch, prepare, subtle, style, watch prepare, prepare subtle, subtle style
+I:10519;468;camera, show, several, shot, closeup, face, speak, doctor, see, anguish, eye, camera show, show several, several shot, shot closeup, closeup face, face speak, speak doctor, doctor see, see anguish, anguish eye
+I:10519;469;bring, whole, thing, halt, request, pianist, play, old, song, sing, word, young, girl, fall, love, enjoy, love, life, be, short, bring whole, whole thing, thing halt, halt request, request pianist, pianist play, play old, old song, song sing, sing word, word young, young girl, girl fall, fall love, love enjoy, enjoy love, love life, life be, be short
+I:10519;470;melody, be, haunt, be, theme, several, key, point, film, melody be, be haunt, haunt be, be theme, theme several, several key, key point, point film
+I:10519;471;be, exhilarate, joyous, love, life, enthusiasm, appetite, be exhilarate, exhilarate joyous, joyous love, love life, life enthusiasm, enthusiasm appetite
+I:10519;472;bedroom, be, photo, young, attractive, woman, wife, bedroom be, be photo, photo young, young attractive, attractive woman, woman wife
+I:10519;473;be, theme, haunting, overtone, japanese, culture, be theme, theme haunting, haunting overtone, overtone japanese, japanese culture
+I:10519;474;power, greatness, beauty, be, transient, teach, live, more, power greatness, greatness beauty, beauty be, be transient, transient teach, teach live, live more
+I:10519;475;be, kind, tomb, be kind, kind tomb
+I:10519;476;show, survivor, grief, stricken, be, motivate, personal, consideration, show survivor, survivor grief, grief stricken, stricken be, be motivate, motivate personal, personal consideration
+I:10519;477;show, be, natural, inevitable, satirise, more, extreme, manifestation, show be, be natural, natural inevitable, inevitable satirise, satirise more, more extreme, extreme manifestation
+I:10519;478;be, social, dimension, action, inaction, be social, social dimension, dimension action, action inaction
+I:10519;479;want, viewer, film, be, wake, reflect, life, death, mean, want viewer, viewer film, film be, be wake, wake reflect, reflect life, life death, death mean
+I:10519;480;be, happy, playground, song, be happy, happy playground, playground song
+I:10519;481;have, find, something, vital, have find, find something, something vital
+I:10519;482;make, important, film, be, viewer, watch, understand, have, find, make important, important film, film be, be viewer, viewer watch, watch understand, understand have, have find
+I:10519;483;agree, be, compelling, film, agree be, be compelling, compelling film
+I:10519;484;introduction, movie, occur, poignant, moment, own, life, believe, resonate, deeper, have, foresee, introduction movie, movie occur, occur poignant, poignant moment, moment own, own life, life believe, believe resonate, resonate deeper, deeper have, have foresee
+I:10519;485;main, character, find, be, die, stomach, cancer, vague, paternalistic, way, medical, system, be, concern, put, life, perspective, struggle, proceed, final, day, main character, character find, find be, be die, die stomach, stomach cancer, cancer vague, vague paternalistic, paternalistic way, way medical, medical system, system be, be concern, concern put, put life, life perspective, perspective struggle, struggle proceed, proceed final, final day
+I:10519;486;end, cycle, besiege, live, creature, essence, fuse, nature, allow, be, reintegrate, end cycle, cycle besiege, besiege live, live creature, creature essence, essence fuse, fuse nature, nature allow, allow be, be reintegrate
+I:10519;487;meaning, life, be, go, effect, conquer, death, understand, lie, life, meaning life, life be, be go, go effect, effect conquer, conquer death, death understand, understand lie, lie life
+I:10519;488;be, something, do, film, be something, something do, do film
+I:10519;489;poingnant, series, flashback, earlier, life, see, number, scene, tell, relationship, life, poingnant series, series flashback, flashback earlier, earlier life, life see, see number, number scene, scene tell, tell relationship, relationship life
+I:10519;490;sense, sudden, loss, wife, be, create, scene, fading, relationship, son, touch, deepest, sense sudden, sudden loss, loss wife, wife be, be create, create scene, scene fading, fading relationship, relationship son, son touch, touch deepest
+I:10519;491;answer, come, young, lady, work, office, be, play, actress, be, sorry, say, be, identify, cast, credit, answer come, come young, young lady, lady work, work office, office be, be play, play actress, actress be, be sorry, sorry say, say be, be identify, identify cast, cast credit
+I:10519;492;realize, have, time, do, something, life, go, try, do, realize have, have time, time do, do something, something life, life go, go try, try do
+I:10519;493;matter, fact, way, director, move, time, allow, piece, puzzle, matter fact, fact way, way director, director move, move time, time allow, allow piece, piece puzzle
+I:10519;494;director, have, create, masterpiece, human, spirit, director have, have create, create masterpiece, masterpiece human, human spirit
+I:10519;495;acting, be, do, acting be, be do
+I:10519;496;be, film, worth, see, be film, film worth, worth see
+I:10519;497;long, connection, distant, son, work, bureaucratic, job, be, paper, long connection, connection distant, distant son, son work, work bureaucratic, bureaucratic job, job be, be paper
+I:10519;498;decide, live, last, few, month, meaning, decide live, live last, last few, few month, month meaning
+I:10519;499;have, fun, live, exprience, other, have fun, fun live, live exprience, exprience other
+I:10519;500;novelist, young, female, coworker, zest, life, novelist young, young female, female coworker, coworker zest, zest life
+I:10519;501;haunting, song, youth, tell, haunting song, song youth, youth tell
+I:10519;502;be, wonderful, actor, face, be, expressive, viewer, feel, emotional, pain, be wonderful, wonderful actor, actor face, face be, be expressive, expressive viewer, viewer feel, feel emotional, emotional pain
+I:10519;503;tale/hollywood, ending, get, be, satisfying, tale/hollywood ending, ending get, get be, be satisfying
+I:10519;504;be, best, become, favorite, movie, time, be best, best become, become favorite, favorite movie, movie time
+I:10519;505;live, be, chill, depiction, film, hero, civil, servant, work, city, office, clerk, live be, be chill, chill depiction, depiction film, film hero, hero civil, civil servant, servant work, work city, city office, office clerk
+I:10519;506;film, be, grip, relate, disillusionment, hope, many, japanese, experienced, film be, be grip, grip relate, relate disillusionment, disillusionment hope, hope many, many japanese, japanese experienced
+I:10519;507;main, theme, film, deal, full, disclosure, simple, term, truth, main theme, theme film, film deal, deal full, full disclosure, disclosure simple, simple term, term truth
+I:10519;508;director, be, legendary, director, japanese, film, history, accompany, screenplay, hashimoto, be, relevant, aspect, film, director be, be legendary, legendary director, director japanese, japanese film, film history, history accompany, accompany screenplay, screenplay hashimoto, hashimoto be, be relevant, relevant aspect, aspect film
+I:10519;509;cinematography, be, impeccable, reveal, emotion, action, actor, cinematography be, be impeccable, impeccable reveal, reveal emotion, emotion action, action actor
+I:10519;510;be, quiet, haunting, manage, allude, viewer, little, bit, humor, midst, death, offer, sense, realism, conscience, be quiet, quiet haunting, haunting manage, manage allude, allude viewer, viewer little, little bit, bit humor, humor midst, midst death, death offer, offer sense, sense realism, realism conscience
+I:10519;511;doubt, film, be, great, achievement, be, view, film, buff, anyone, interested, humanistic, film, be, sentimental, doubt film, film be, be great, great achievement, achievement be, be view, view film, film buff, buff anyone, anyone interested, interested humanistic, humanistic film, film be, be sentimental
+I:10519;512;stand, testament, human, spirit, stand testament, testament human, human spirit
+I:10519;513;give, greatest, performance, have, see, raging, bull, give greatest, greatest performance, performance have, have see, see raging, raging bull
+I:10519;514;scene, lag, make, more, insult, ignorance, scene lag, lag make, make more, more insult, insult ignorance
+I:10519;515;few, people, follow, step, be, able, do, few people, people follow, follow step, step be, be able, able do
+I:10519;516;raise, film, mere, entertainment, raise film, film mere, mere entertainment
+I:10519;517;be, parable, worthy, teaching, wisest, people, be parable, parable worthy, worthy teaching, teaching wisest, wisest people
+I:10519;518;be, moral, film, have, see, be moral, moral film, film have, have see
+I:10519;519;other, review, discuss, plot, film, other review, review discuss, discuss plot, plot film
+I:10519;520;person, view, pleasure, be, enhance, know, advance, be, be, see, person view, view pleasure, pleasure be, be enhance, enhance know, know advance, advance be, be be, be see
+I:10519;521;rhythm, take, terrific, film, have, offer, rhythm take, take terrific, terrific film, film have, have offer
+I:10519;522;be, certain, passage, dialogue, be, translate, provide, greater, depth, understanding, film, have, be, be certain, certain passage, passage dialogue, dialogue be, be translate, translate provide, provide greater, greater depth, depth understanding, understanding film, film have, have be
+I:10519;523;be, tear, jerker, maximum, proportion, be tear, tear jerker, jerker maximum, maximum proportion
+I:10519;524;story, be, japanese, dated, have, do, give, gift, time, responsibility, gift, story be, be japanese, japanese dated, dated have, have do, do give, give gift, gift time, time responsibility, responsibility gift
+I:10519;525;story, be, simple, story be, be simple
+I:10519;526;be, emotional, have, observe, approach, death, love, be emotional, emotional have, have observe, observe approach, approach death, death love
+I:10519;527;be, warn, be, light, film, be, price, time, be warn, warn be, be light, light film, film be, be price, price time
+I:10519;528;be, sure, be, film, beg, praise, be, work, absolute, brilliance, respect, japanese, film, industry, single, finest, moment, be sure, sure be, be film, film beg, beg praise, praise be, be work, work absolute, absolute brilliance, brilliance respect, respect japanese, japanese film, film industry, industry single, single finest, finest moment
+I:10519;529;do, do, be, lay, do do, do be, be lay
+I:10519;530;take, make, come, alive, take make, make come, come alive
+I:10519;531;have, work, year, accomplished, nothing, note, have work, work year, year accomplished, accomplished nothing, nothing note
+I:10519;532;average, film, everyone, turn, fine, performance, average film, film everyone, everyone turn, turn fine, fine performance
+I:10519;533;course, be, master, director, show, movie, be, pace, let, get, know, drag, course be, be master, master director, director show, show movie, movie be, be pace, pace let, let get, get know, know drag
+I:10519;534;amazing, half, hour, film, existential, crisis, amazing half, half hour, hour film, film existential, existential crisis
+I:10519;535;do, find, amusing, number, review, have, read, have, comment, film, feel, do find, find amusing, amusing number, number review, review have, have read, read have, have comment, comment film, film feel
+I:10519;536;be, timeless, depiction, corporate/government, meaningless, work, jokey, credit, something, be, accomplish, beauty, life, offer, individual, mire, system, be timeless, timeless depiction, depiction corporate/government, corporate/government meaningless, meaningless work, work jokey, jokey credit, credit something, something be, be accomplish, accomplish beauty, beauty life, life offer, offer individual, individual mire, mire system
+I:10519;537;film, buff, true, masterpiece, film buff, buff true, true masterpiece
+I:10519;538;note, artistry, scene, end, show, cloudy, sky, view, electric, train, catenary, wire, note artistry, artistry scene, scene end, end show, show cloudy, cloudy sky, sky view, view electric, electric train, train catenary, catenary wire
+I:10519;539;other, have, note, perfection, actor, other have, have note, note perfection, perfection actor
+I:10519;540;inclined, pick, numerous, casting, overlap, be, entertaining, effort, inclined pick, pick numerous, numerous casting, casting overlap, overlap be, be entertaining, entertaining effort
+I:10519;541;be, engaging, powerful, film, have, see, be engaging, engaging powerful, powerful film, film have, have see
+I:10519;542;popular, non, popular non
+I:10519;543;be, most, unique, move, film, be most, most unique, unique move, move film
+I:10519;544;be, most, intimate, film, focus, inner, life, single, character, confront, impending, death, be most, most intimate, intimate film, film focus, focus inner, inner life, life single, single character, character confront, confront impending, impending death
+I:10519;545;minor, bureaucrat, course, film, realize, meaningless, life, have, be, resolve, leave, least, good, work, minor bureaucrat, bureaucrat course, course film, film realize, realize meaningless, meaningless life, life have, have be, be resolve, resolve leave, leave least, least good, good work
+I:10519;546;die, sit, swing, park, be, snow, winter, be, sign, end, life, snow, purify, symbol, covering, past, blemish, build, child, be, powerful, beautiful, cinema, die sit, sit swing, swing park, park be, be snow, snow winter, winter be, be sign, sign end, end life, life snow, snow purify, purify symbol, symbol covering, covering past, past blemish, blemish build, build child, child be, be powerful, powerful beautiful, beautiful cinema
+I:10519;547;have, see, movie, half, dozen, time, pick, more, viewing, have see, see movie, movie half, half dozen, dozen time, time pick, pick more, more viewing
+I:10519;548;find, uplifting, find uplifting
+I:10519;549;deal, man, new, find, passion, life, deal man, man new, new find, find passion, passion life
+I:10519;550;be, film, movie, be film, film movie
+I:10519;551;have, make, choice, have make, make choice
+I:10519;552;be, life, worth, wise, older, samurai, love, beaten, man, film, be life, life worth, worth wise, wise older, older samurai, samurai love, love beaten, beaten man, man film
+I:10519;553;be, man, desire, understand, answer, question, be, life, be man, man desire, desire understand, understand answer, answer question, question be, be life
+I:10519;554;put, confrontation, mortality, put confrontation, confrontation mortality
+I:10519;555;provoke, film, beautiful, performance, provoke film, film beautiful, beautiful performance
+I:10519;556;love, guy, huge, sad, love guy, guy huge, huge sad
+I:10519;557;such, confidence, samurai, such, street, such confidence, confidence samurai, samurai such, such street
+I:10519;558;smart, cop, such, petty, evil, villian, remarkable, performance, smart cop, cop such, such petty, petty evil, evil villian, villian remarkable, remarkable performance
+I:10519;559;mind, be, greatest, film, canon, cinema, greatest, director, mind be, be greatest, greatest film, film canon, canon cinema, cinema greatest, greatest director
+I:10519;560;be, engage, film, have, see, reveal, new, insight, time, watch, be engage, engage film, film have, have see, see reveal, reveal new, new insight, insight time, time watch
+I:10519;561;japanese, word, ikiru, be, verb, meaning, live, provide, concise, summary, film, be, japanese word, word ikiru, ikiru be, be verb, verb meaning, meaning live, live provide, provide concise, concise summary, summary film, film be
+I:10519;562;desk, contain, enormous, stack, petition, request, public, various, form, memo, desk contain, contain enormous, enormous stack, stack petition, petition request, request public, public various, various form, form memo
+I:10519;563;tear, first, page, plan, use, clean, glass, throw, crumpled, paper, trashcan, tear first, first page, page plan, plan use, use clean, clean glass, glass throw, throw crumpled, crumpled paper, paper trashcan
+I:10519;564;be, fascinating, unique, film, many, level, be fascinating, fascinating unique, unique film, film many, many level
+I:10519;565;circular, structure, summarize, vicious, circle, bureaucracy, show, surprising, amount, time, waste, fashion, circular structure, structure summarize, summarize vicious, vicious circle, circle bureaucracy, bureaucracy show, show surprising, surprising amount, amount time, time waste, waste fashion
+I:10519;566;movie, examine, meaning, life, common, contemporary, culture, movie examine, examine meaning, meaning life, life common, common contemporary, contemporary culture
+I:10519;567;accord, existentialist, film, tell, life, be, meaningless, everything, be, say, do, same, time, man, life, acquire, meaning, undertake, perform, task, be, meaningful, accord existentialist, existentialist film, film tell, tell life, life be, be meaningless, meaningless everything, everything be, be say, say do, do same, same time, time man, man life, life acquire, acquire meaning, meaning undertake, undertake perform, perform task, task be, be meaningful
+I:10519;568;be, true, need, look, more, life, disregard, way, other, perceive, action, be true, true need, need look, look more, more life, life disregard, disregard way, way other, other perceive, perceive action
+I:10519;569;express, philosophy, life, last, greatest, book, express philosophy, philosophy life, life last, last greatest, greatest book
+I:10519;570;consider, be, film, consider be, be film
+I:10519;571;awaken, realization, action, make, difference, human, life, intersect, other, awaken realization, realization action, action make, make difference, difference human, human life, life intersect, intersect other
+I:10519;572;final, analysis, think, be, final analysis, analysis think, think be
+I:10519;573;film, be, beautiful, insightful, reminder, none, be, recognize, responsibility, other, share, world, film be, be beautiful, beautiful insightful, insightful reminder, reminder none, none be, be recognize, recognize responsibility, responsibility other, other share, share world
+I:10519;574;be, answer, be, wonderful, life, be answer, answer be, be wonderful, wonderful life
+I:10519;575;employ, creative, narrative, style, be, employ creative, creative narrative, narrative style, style be
+I:10519;576;deliberate, pacing, evoke, sense, story, be, occur, real, deliberate pacing, pacing evoke, evoke sense, sense story, story be, be occur, occur real
+I:10519;577;thought, emotion, fear, unfold, thought emotion, emotion fear, fear unfold
+I:10519;578;be, universal, story, simple, life, be universal, universal story, story simple, simple life
+I:10519;579;be, collection, be collection
+I:10519;580;be, greatest, film, life, mean, live, be greatest, greatest film, film life, life mean, mean live
+I:10519;581;film, be, plot, first, half, see, death, cope, illness, deal, relationship, son, daughter, film be, be plot, plot first, first half, half see, see death, death cope, cope illness, illness deal, deal relationship, relationship son, son daughter
+I:10519;582;humble, opinion, be, perfect, movie, get, humble opinion, opinion be, be perfect, perfect movie, movie get
+I:10519;583;achievement, film, movie, be, greatest, approach, big, subject, life, be, meaning, succeed, value, aspect, film, making, story, music, visual, editing, achievement film, film movie, movie be, be greatest, greatest approach, approach big, big subject, subject life, life be, be meaning, meaning succeed, succeed value, value aspect, aspect film, film making, making story, story music, music visual, visual editing
+I:10519;584;be, simplicity, film, achieve, complex, portrait, life, die, man, be simplicity, simplicity film, film achieve, achieve complex, complex portrait, portrait life, life die, die man
+I:10519;585;man, aspire, achieve, man aspire, aspire achieve
+I:10519;586;film, approach, question, instance, answer, film approach, approach question, question instance, instance answer
+I:10519;587;subtle, poignant, be, beautiful, movie, make, subtle poignant, poignant be, be beautiful, beautiful movie, movie make
+I:10519;588;see, lead, character, become, mindless, mummy, see lead, lead character, character become, become mindless, mindless mummy
+I:10519;589;examine, person, reaction, imminent, death, person, hold, take, him/her, examine person, person reaction, reaction imminent, imminent death, death person, person hold, hold take, take him/her
+I:10519;590;see, film, see, see film, film see
+I:10519;591;greatest, writer, last, year, say, live, be, pick, desert, island, interview, die, terminal, cancer, same, hero, story, greatest writer, writer last, last year, year say, say live, live be, be pick, pick desert, desert island, island interview, interview die, die terminal, terminal cancer, cancer same, same hero, hero story
+I:10519;592;hero, rendition, uta, song, be, price, hero rendition, rendition uta, uta song, song be, be price
+I:10519;593;beauty, movie, be, director, cause, pause, moment, think, beauty movie, movie be, be director, director cause, cause pause, pause moment, moment think
+I:10519;594;be, reflective, personal, story, offer, fascinating, contrast, director, more, epic, work, be reflective, reflective personal, personal story, story offer, offer fascinating, fascinating contrast, contrast director, director more, more epic, epic work
+I:10519;595;be, timeless, tale, power, individual, triumph, mechanization, uncaring, bureaucracy, be timeless, timeless tale, tale power, power individual, individual triumph, triumph mechanization, mechanization uncaring, uncaring bureaucracy
+I:10519;596;insightful, talk, young, co., worker, name, die, man, set, accomplish, something, meaningful, time, have, leave, insightful talk, talk young, young co., co. worker, worker name, name die, die man, man set, set accomplish, accomplish something, something meaningful, meaningful time, time have, have leave
+I:10519;597;be, notable, exploration, social, dynamics, structured, society, be, memorable, exploration, humanity, be notable, notable exploration, exploration social, social dynamics, dynamics structured, structured society, society be, be memorable, memorable exploration, exploration humanity
+I:10519;598;be, excellent, crucial, role, leave, lasting, impression, female, character, have, populate, work, be excellent, excellent crucial, crucial role, role leave, leave lasting, lasting impression, impression female, female character, character have, have populate, populate work
+I:10519;599;small, scope, be, satisfying, insightful, work, famed, director, small scope, scope be, be satisfying, satisfying insightful, insightful work, work famed, famed director
+I:10519;600;ikiru, mean, live, be, most, beloved, film, ikiru mean, mean live, live be, be most, most beloved, beloved film
+I:10519;601;find, touching, find touching
+I:10519;602;find, film, be, impressive, many, aspect, find film, film be, be impressive, impressive many, many aspect
+I:10519;603;period, film, nice, scenery, include, panchinko, parlor, period film, film nice, nice scenery, scenery include, include panchinko, panchinko parlor
+I:10519;604;first, be, part, series, be, film, include, interview, filmmaker, include, first be, be part, part series, series be, be film, film include, include interview, interview filmmaker, filmmaker include
+I:10519;605;other, be, message, documentary, be, include, many, interview, set, many, film, other be, be message, message documentary, documentary be, be include, include many, many interview, interview set, set many, many film
+I:10519;606;recommendation, be, stick, version, recommendation be, be stick, stick version
+I:10519;607;be, price, be price
+I:10519;608;revelation, make, start, review, life, conclude, have, do, nothing, worthwhile, revelation make, make start, start review, review life, life conclude, conclude have, have do, do nothing, nothing worthwhile
+I:10519;609;find, own, reason, go, final, day, reason, center, do, genuine, good, chance, reward, find own, own reason, reason go, go final, final day, day reason, reason center, center do, do genuine, genuine good, good chance, chance reward
+I:10519;610;be, deep, film, fill, theme, existentialism, movie, tackle, be deep, deep film, film fill, fill theme, theme existentialism, existentialism movie, movie tackle
+I:10519;611;ask, biggest, question, be, ask, life, ask biggest, biggest question, question be, be ask, ask life
+I:10519;612;performance, be, greatest, cinema, performance be, be greatest, greatest cinema
+I:10519;613;other, cast, member, be, outstanding, young, female, coworker, other cast, cast member, member be, be outstanding, outstanding young, young female, female coworker
+I:10519;614;sort, date, confide, have, humorous, name, everyone, department, base, behave, be, mummy, sort date, date confide, confide have, have humorous, humorous name, name everyone, everyone department, department base, base behave, behave be, be mummy
+I:10519;615;compose, samurai, film, direct, contemporary, dramas, look, effortless, compose samurai, samurai film, film direct, direct contemporary, contemporary dramas, dramas look, look effortless
+I:10519;616;reverse, be, true, reverse be, be true
+I:10519;617;manage, tell, story, flashy, technique, set, piece, manage tell, tell story, story flashy, flashy technique, technique set, set piece
+I:10519;618;ikiru, foreshadow, life, real, japanese, hero, second, part, 20th, century, be, call, many, ikiru foreshadow, foreshadow life, life real, real japanese, japanese hero, hero second, second part, part 20th, 20th century, century be, be call, call many
+I:10519;619;aggressive, successful, counterpart, east, coast, be, regard, japanese, boss, aggressive successful, successful counterpart, counterpart east, east coast, coast be, be regard, regard japanese, japanese boss
+I:10519;620;minute, feature, make, cast, crew, interview, minute feature, feature make, make cast, cast crew, crew interview
+I:10519;621;doc, be, excellent, watch, more, intelligence, see, doc be, be excellent, excellent watch, watch more, more intelligence, intelligence see
+I:10519;622;print, scratch, batter, bit, age, be, good, be, likely, see, print scratch, scratch batter, batter bit, bit age, age be, be good, good be, be likely, likely see
+I:10519;623;subject, be, fact, modern, universal, be, sweep, relevance, story, subject be, be fact, fact modern, modern universal, universal be, be sweep, sweep relevance, relevance story
+I:10519;624;be, dictionary, definition, term, timeless, classic, be dictionary, dictionary definition, definition term, term timeless, timeless classic
+I:10519;625;have, see, movie, love, story, have see, see movie, movie love, love story
+I:10519;626;japanese, film, today, take, develop, character, story, line, japanese film, film today, today take, take develop, develop character, character story, story line
+I:10519;627;japanese, film, give, money, worth, american, film, japanese film, film give, give money, money worth, worth american, american film
+I:10519;628;forsake, job, bury, hedonism, spend, money, party, fun, remain, time, forsake job, job bury, bury hedonism, hedonism spend, spend money, money party, party fun, fun remain, remain time
+I:10519;629;first, part, be, tell, show, go, day, be, tell, perspective, second, part, be, tell, show, life, eye, other, first part, part be, be tell, tell show, show go, go day, day be, be tell, tell perspective, perspective second, second part, part be, be tell, tell show, show life, life eye, eye other
+I:10519;630;see, complete, story, life, have, do, be, reveal, friend, revelation, have, power, lift, soul, see complete, complete story, story life, life have, have do, do be, be reveal, reveal friend, friend revelation, revelation have, have power, power lift, lift soul
+I:10519;631;do, dignity, humanity, intact?yes, do dignity, dignity humanity, humanity intact?yes
+I:10519;632;film, let, know, live, be, film let, let know, know live, live be
+I:10519;633;love, see, update, be, classic, stand, love see, see update, update be, be classic, classic stand
+I:10519;634;use, time, have, leave, make, last, moment, life, greater, last, year, transform, result, find, own, purpose, use time, time have, have leave, leave make, make last, last moment, moment life, life greater, greater last, last year, year transform, transform result, result find, find own, own purpose
+I:10519;635;be, beautiful, movie, tend, harp, great, go, wind, be, see, get, be beautiful, beautiful movie, movie tend, tend harp, harp great, great go, go wind, wind be, be see, see get
+I:10519;636;ia, greater, film, ia greater, greater film
+I:10519;637;believe, be, best, work, believe be, be best, best work
+I:10519;638;go, bar, tell, trouble, random, patron, go bar, bar tell, tell trouble, trouble random, random patron
+I:10519;639;strike, brief, friendship, try, help, enjoy, sampling, little, city, night, life, strike brief, brief friendship, friendship try, try help, help enjoy, enjoy sampling, sampling little, little city, city night, night life
+I:10519;640;grasp, company, grasp company
+I:10519;641;turn, last, time, find, purpose, life, turn last, last time, time find, find purpose, purpose life
+I:10519;642;director, tell, seize, day, live, die, tomorrow, director tell, tell seize, seize day, day live, live die, die tomorrow
+I:10519;643;acting, be, passionate, structure, be, impecable, original, keep, cinematography, simple, befit, story, ordinary, man, be, samurai, epic, acting be, be passionate, passionate structure, structure be, be impecable, impecable original, original keep, keep cinematography, cinematography simple, simple befit, befit story, story ordinary, ordinary man, man be, be samurai, samurai epic
+I:10519;644;spare, other, story, have, many, spare other, other story, story have, have many
+I:10519;645;be, prime, example, personal, directorial, motive, seem, drive, work, be prime, prime example, example personal, personal directorial, directorial motive, motive seem, seem drive, drive work
+I:10519;646;be, place, precipice, life, be place, place precipice, precipice life
+I:10519;647;alter, experience, cataclysmic, event, change, course, main, protagonist, life, film, alter experience, experience cataclysmic, cataclysmic event, event change, change course, course main, main protagonist, protagonist life, life film
+I:10519;648;way, see, spiritual, embodiment, film, sort, personal, reflection, matter, second, chance, life, reminiscent, own, earlier, experience, earthquake, literary, exposure, have, much, say, life, near, way see, see spiritual, spiritual embodiment, embodiment film, film sort, sort personal, personal reflection, reflection matter, matter second, second chance, chance life, life reminiscent, reminiscent own, own earlier, earlier experience, experience earthquake, earthquake literary, literary exposure, exposure have, have much, much say, say life, life near
+I:10519;649;see, type, person, pay, mind, notion, resurrection, reborn, life, entail, person, be, survive, edge, see type, type person, person pay, pay mind, mind notion, notion resurrection, resurrection reborn, reborn life, life entail, entail person, person be, be survive, survive edge
+I:10519;650;see, film, cherish, memory, son, memory, see, figure, thing, put, value, point, everything, do, life, be, sake, young, boy, see film, film cherish, cherish memory, memory son, son memory, memory see, see figure, figure thing, thing put, put value, value point, point everything, everything do, do life, life be, be sake, sake young, young boy
+I:10519;651;prosperous, grateful, son, remember, hard, father, work, provide, good, comfortable, life, prosperous grateful, grateful son, son remember, remember hard, hard father, father work, work provide, provide good, good comfortable, comfortable life
+I:10519;652;ancillary, note, find, interesting, discuss, young, female, worker, ancillary note, note find, find interesting, interesting discuss, discuss young, young female, female worker
+I:10519;653;bring, mind, idea, blind, love, be, difficult, type, love, go, unseen, bring mind, mind idea, idea blind, blind love, love be, be difficult, difficult type, type love, love go, go unseen
+I:10519;654;determine, new, end, life, spiritual, vein, determine new, new end, end life, life spiritual, spiritual vein
+I:10519;655;have, something, be, remember, become, embody, form, new, park, build, have something, something be, be remember, remember become, become embody, embody form, form new, new park, park build
+I:10519;656;manage, serve, tribute, be, watch, film, way, memory, read, important, figure, memoirs, manage serve, serve tribute, tribute be, be watch, watch film, film way, way memory, memory read, read important, important figure, figure memoirs
+I:10519;657;memory, be, last, park, be, remind, toil, sweat, blood, memory be, be last, last park, park be, be remind, remind toil, toil sweat, sweat blood
+I:10519;658;be, be, endure, high, be be, be endure, endure high
+I:10519;659;be, memorable, legacy, be memorable, memorable legacy

@@ -1,0 +1,322 @@
+I:9765;1;astonishing, film, director, astonishing film, film director
+I:9765;2;carl, deliver, marvellous, performance, troubled, give, unique, insight, mind, misanthrope, carl deliver, deliver marvellous, marvellous performance, performance troubled, troubled give, give unique, unique insight, insight mind, mind misanthrope
+I:9765;3;transfer, be, stunning, transfer be, be stunning
+I:9765;4;most, era, most era
+I:9765;5;movie, be, guy, carry, camera, go, movie be, be guy, guy carry, carry camera, camera go
+I:9765;6;have, unresolved, childhood, issue, have unresolved, unresolved childhood, childhood issue
+I:9765;7;view, 10/12rate, be, interesting, study, voyeurism, be, define, real, peeping, view 10/12rate, 10/12rate be, be interesting, interesting study, study voyeurism, voyeurism be, be define, define real, real peeping
+I:9765;8;idea, breeding, freakish, trait, child, be, fascinating, part, film, idea breeding, breeding freakish, freakish trait, trait child, child be, be fascinating, fascinating part, part film
+I:9765;9;display, good, unconventional, piece, act, display good, good unconventional, unconventional piece, piece act
+I:9765;10;make, movie, work, make movie, movie work
+I:9765;11;blind, mother, yeah, right, blind mother, mother yeah, yeah right
+I:9765;12;cinematography, be, do, cinematography be, be do
+I:9765;13;be, kind, film, have, direct, kudos, be kind, kind film, film have, have direct, direct kudos
+I:9765;14;boehm, give, performance, be, naive, frightening.years, time, peeping, tom, remain, chilling, british, film, lense, boehm give, give performance, performance be, be naive, naive frightening.years, frightening.years time, time peeping, peeping tom, tom remain, remain chilling, chilling british, british film, film lense
+I:9765;15;pioneering, movie, be, interest, horror, fan, movie, buff, pioneering movie, movie be, be interest, interest horror, horror fan, fan movie, movie buff
+I:9765;16;be, quiet, innocent, film, be quiet, quiet innocent, innocent film
+I:9765;17;shocking, today, manage, pose, question, relationship, movie, audience, shocking today, today manage, manage pose, pose question, question relationship, relationship movie, movie audience
+I:9765;18;much, rest, symbolism, be, heavy, much rest, rest symbolism, symbolism be, be heavy
+I:9765;19;have, bit, part, several, film, have bit, bit part, part several, several film
+I:9765;20;think, be, brilliant, psychological, thriller, think be, be brilliant, brilliant psychological, psychological thriller
+I:9765;21;be, great, character, be great, great character
+I:9765;22;think, be, ploted, act, direct, script, think be, be ploted, ploted act, act direct, direct script
+I:9765;23;nothing, be, captivating, nothing be, be captivating
+I:9765;24;hide, dark, secret, stalk, murder, lovely, young, woman, capture, last, moment, sheer, terror, portable, movie, camera, hide dark, dark secret, secret stalk, stalk murder, murder lovely, lovely young, young woman, woman capture, capture last, last moment, moment sheer, sheer terror, terror portable, portable movie, movie camera
+I:9765;25;neighbour, strike, friendship, life, be, film, glorious, blaze, be, fill, intriguing, performance, lot, underlie, subtext, neighbour strike, strike friendship, friendship life, life be, be film, film glorious, glorious blaze, blaze be, be fill, fill intriguing, intriguing performance, performance lot, lot underlie, underlie subtext
+I:9765;26;be, mesmerize, watch, conflicted, tortured, relationship, character, start, bloom, begin, start, walk, dark, murderous, desire, be mesmerize, mesmerize watch, watch conflicted, conflicted tortured, tortured relationship, relationship character, character start, start bloom, bloom begin, begin start, start walk, walk dark, dark murderous, murderous desire
+I:9765;27;joseph, beloved, trilogy, joseph beloved, beloved trilogy
+I:9765;28;look, lovely, technicolor, flaming, red, hair, look lovely, lovely technicolor, technicolor flaming, flaming red, red hair
+I:9765;29;have, be, publicize, rival, masterful, film, technique, great, have be, be publicize, publicize rival, rival masterful, masterful film, film technique, technique great
+I:9765;30;character, be, write, set, play, imperfect, world, seedy, underbelly, character be, be write, write set, set play, play imperfect, imperfect world, world seedy, seedy underbelly
+I:9765;31;portrayal, be, offset, exhibit, calm, disarm, persona, subtle, crack, obsess, camera, fold, confront, truth, portrayal be, be offset, offset exhibit, exhibit calm, calm disarm, disarm persona, persona subtle, subtle crack, crack obsess, obsess camera, camera fold, fold confront, confront truth
+I:9765;32;make, film, interesting, be, theme, voyeurism, infiltrate, aspect, script, make film, film interesting, interesting be, be theme, theme voyeurism, voyeurism infiltrate, infiltrate aspect, aspect script
+I:9765;33;police, keep, hidden, watchful, eye, killer, find, compel, sneak, apartment, play, reel, hold, close, police keep, keep hidden, hidden watchful, watchful eye, eye killer, killer find, find compel, compel sneak, sneak apartment, apartment play, play reel, reel hold, hold close
+I:9765;34;expect, enjoy, understand, work, early, master, be, relevant, genius, compelling, be, release, expect enjoy, enjoy understand, understand work, work early, early master, master be, be relevant, relevant genius, genius compelling, compelling be, be release
+I:9765;35;put, high, priority, list, be, best, put high, high priority, priority list, list be, be best
+I:9765;36;innovative, same, time, notorious, film, be, perverse, peeping, tom, innovative same, same time, time notorious, notorious film, film be, be perverse, perverse peeping, peeping tom
+I:9765;37;release, few, month, similar, thriller, be, first, consider, best, explore, motivation, psychopath, mind, release few, few month, month similar, similar thriller, thriller be, be first, first consider, consider best, best explore, explore motivation, motivation psychopath, psychopath mind
+I:9765;38;carl, be, superb, disturbed, young, man, manage, gain, sympathy, horrible, act, commit, carl be, be superb, superb disturbed, disturbed young, young man, man manage, manage gain, gain sympathy, sympathy horrible, horrible act, act commit
+I:9765;39;be, surprising, color, movie, redness, blood, have, be, exploit, way, be, begin, horror, production, period, be surprising, surprising color, color movie, movie redness, redness blood, blood have, have be, be exploit, exploit way, way be, be begin, begin horror, horror production, production period
+I:9765;40;pop, color, photography, be, endure, strength, give, look, seedy, pulp, novel, cover, come, life, pop color, color photography, photography be, be endure, endure strength, strength give, give look, look seedy, seedy pulp, pulp novel, novel cover, cover come, come life
+I:9765;41;film, time, have, gain, worthy, reputation, offbeat, underground, classic, lurid, subject, matter, exude, genuine, sensitivity, film time, time have, have gain, gain worthy, worthy reputation, reputation offbeat, offbeat underground, underground classic, classic lurid, lurid subject, subject matter, matter exude, exude genuine, genuine sensitivity
+I:9765;42;transfer, gorgeous, mm, print, image, be, razor, sharp, beautiful, color, density, saturation, transfer gorgeous, gorgeous mm, mm print, print image, image be, be razor, razor sharp, sharp beautiful, beautiful color, color density, density saturation
+I:9765;43;disturbing, compelling, masterpiece, obsessive, power, movie, be, worth, good, long, look, disturbing compelling, compelling masterpiece, masterpiece obsessive, obsessive power, power movie, movie be, be worth, worth good, good long, long look
+I:9765;44;be, intriguing, story, hail, critic, british, equivalent, be intriguing, intriguing story, story hail, hail critic, critic british, british equivalent
+I:9765;45;make, outstanding, double, feature, stormy, night, make outstanding, outstanding double, double feature, feature stormy, stormy night
+I:9765;46;claim, be, greatest, film, depict, mechanic, direct, claim be, be greatest, greatest film, film depict, depict mechanic, mechanic direct
+I:9765;47;be, story, work, scene, film, studio, be story, story work, work scene, scene film, film studio
+I:9765;48;have, strange, fascination, camera, stem, childhood, have strange, strange fascination, fascination camera, camera stem, stem childhood
+I:9765;49;father, have, incessant, passion, sadistic, passion, capture, aspect, son, life, tape, father have, have incessant, incessant passion, passion sadistic, sadistic passion, passion capture, capture aspect, aspect son, son life, life tape
+I:9765;50;dad, enjoy, catch, reaction, nervous, system, fear, child, dad enjoy, enjoy catch, catch reaction, reaction nervous, nervous system, system fear, fear child
+I:9765;51;thing, enjoy, film, be, psychological, process, filmmaker, use, accomplish, goal, actor, actress, thing enjoy, enjoy film, film be, be psychological, psychological process, process filmmaker, filmmaker use, use accomplish, accomplish goal, goal actor, actor actress
+I:9765;52;remember, hear, make, debut, film, remember hear, hear make, make debut, debut film
+I:9765;53;silly, b, %, ch, wait, til, pull, knife, see, worthy, acting, silly b, b %, % ch, ch wait, wait til, til pull, pull knife, knife see, see worthy, worthy acting
+I:9765;54;peep, be, plain, brilliant, filmmaking, doubt, peep be, be plain, plain brilliant, brilliant filmmaking, filmmaking doubt
+I:9765;55;fan, be, intrigue, premise, fan be, be intrigue, intrigue premise
+I:9765;56;film, be, bath, get, look, delicious, film be, be bath, bath get, get look, look delicious
+I:9765;57;be, want, color, pronounced, accentuate, possible, give, aspect, shoot, ability, stand, own, be want, want color, color pronounced, pronounced accentuate, accentuate possible, possible give, give aspect, aspect shoot, shoot ability, ability stand, stand own
+I:9765;58;silence, lambs, be, more, psychological, profiler, silence lambs, lambs be, be more, more psychological, psychological profiler
+I:9765;59;much, be, make, clear, view, movie, present, upstairs, screening, room, be, be, lifelong, subject, father, experiment, human, reaction, fear, much be, be make, make clear, clear view, view movie, movie present, present upstairs, upstairs screening, screening room, room be, be be, be lifelong, lifelong subject, subject father, father experiment, experiment human, human reaction, reaction fear
+I:9765;60;include, be, fascinating, documentary, provide, insight, life, screenwriter, include be, be fascinating, fascinating documentary, documentary provide, provide insight, insight life, life screenwriter
+I:9765;61;be, film, film, pt, present, interesting, risqu, slant, topic, be film, film film, film pt, pt present, present interesting, interesting risqu, risqu slant, slant topic
+I:9765;62;be, chill, think, be chill, chill think
+I:9765;63;provoke, psychodrama, present, be, check, provoke psychodrama, psychodrama present, present be, be check
+I:9765;64;give, sexual, rush, see, fear, eye, realize, be, go, be, kill, give sexual, sexual rush, rush see, see fear, fear eye, eye realize, realize be, be go, go be, be kill
+I:9765;65;moment, work, cerebral, level, let, audience, twisted, mind, killer, moment work, work cerebral, cerebral level, level let, let audience, audience twisted, twisted mind, mind killer
+I:9765;66;peep, have, be, influential, film, today, filmmaker, influence, be, see, film, perdition, peep have, have be, be influential, influential film, film today, today filmmaker, filmmaker influence, influence be, be see, see film, film perdition
+I:9765;67;recommend, fan, film, film, history, recommend fan, fan film, film film, film history
+I:9765;68;watch, become, voyeur, participant, be, do, watch become, become voyeur, voyeur participant, participant be, be do
+I:9765;69;find, attraction, be, love, be, salvation, be, conflict, find attraction, attraction be, be love, love be, be salvation, salvation be, be conflict
+I:9765;70;rate, actress, role, be, excellent, rate actress, actress role, role be, be excellent
+I:9765;71;realize, something, be, wrong, want, give, love, help, realize something, something be, be wrong, wrong want, want give, give love, love help
+I:9765;72;usual, film, look, great, extra, be, worth, watch, usual film, film look, look great, great extra, extra be, be worth, worth watch
+I:9765;73;extra, writer, be, fascinating, extra writer, writer be, be fascinating
+I:9765;74;be, disturbing, entertaining, be disturbing, disturbing entertaining
+I:9765;75;have, secret, life, have secret, secret life
+I:9765;76;have, bigger, secret, have bigger, bigger secret
+I:9765;77;scientist, father, film, grow, subject, terror, experiment, obsess, boy, effect, fear, photography, capture, life, be, live, scientist father, father film, film grow, grow subject, subject terror, terror experiment, experiment obsess, obsess boy, boy effect, effect fear, fear photography, photography capture, capture life, life be, be live
+I:9765;78;be, amazing, modern, audience, upset, viewer, be amazing, amazing modern, modern audience, audience upset, upset viewer
+I:9765;79;be, strong, stuff, context, time, be, make, worth, catch, horror, buff, be strong, strong stuff, stuff context, context time, time be, be make, make worth, worth catch, catch horror, horror buff
+I:9765;80;concept, movie, be, real, winner, concept movie, movie be, be real, real winner
+I:9765;81;keep, open, mind, remember, keep open, open mind, mind remember
+I:9765;82;be, movie, entertainment, be movie, movie entertainment
+I:9765;83;peep, be, original, film, deal, theme, voyeurism, fear, childhood, trauma, unique, interesting, way, peep be, be original, original film, film deal, deal theme, theme voyeurism, voyeurism fear, fear childhood, childhood trauma, trauma unique, unique interesting, interesting way
+I:9765;84;opening, shot, reveal, hand, opening shot, shot reveal, reveal hand
+I:9765;85;enjoy, film, enjoy film
+I:9765;86;aspect, film, set, many, thriller, film, be, amount, psychological, complexity, character, be, treat, aspect film, film set, set many, many thriller, thriller film, film be, be amount, amount psychological, psychological complexity, complexity character, character be, be treat
+I:9765;87;play, character, breathe, life, character, unstable, man, vivid, sense, own, trouble, play character, character breathe, breathe life, life character, character unstable, unstable man, man vivid, vivid sense, sense own, own trouble
+I:9765;88;top, everything, enjoy, way, piano, music, be, weave, film, like, entire, soundtrack, top everything, everything enjoy, enjoy way, way piano, piano music, music be, be weave, weave film, film like, like entire, entire soundtrack
+I:9765;89;ending, film, be, tremendous, weird, indescribable, ending film, film be, be tremendous, tremendous weird, weird indescribable
+I:9765;90;same, reason, find, film, compelling, same reason, reason find, find film, film compelling
+I:9765;91;be, give, film, look, be give, give film, film look
+I:9765;92;best, say, be, be, master, color, best say, say be, be be, be master, master color
+I:9765;93;use, color, red, be, interesting, horror, film, drop, blood, be, spill, use color, color red, red be, be interesting, interesting horror, horror film, film drop, drop blood, blood be, be spill
+I:9765;94;be, nice, see, extended, cameo, do, interesting, latin, dance, be nice, nice see, see extended, extended cameo, cameo do, do interesting, interesting latin, latin dance
+I:9765;95;day, age, importance, film, society, grow, leap, bound, everyday, devastating, unforgettable, level, convincing, argument, do, watch, film, day age, age importance, importance film, film society, society grow, grow leap, leap bound, bound everyday, everyday devastating, devastating unforgettable, unforgettable level, level convincing, convincing argument, argument do, do watch, watch film
+I:9765;96;boy, grow, carry, father, work, boy grow, grow carry, carry father, father work
+I:9765;97;decide, greatest, fear, experience, come, point, death, decide greatest, greatest fear, fear experience, experience come, come point, point death
+I:9765;98;move, hitchcock, envy, force, watch, own, frightened, face, small, mirror, attach, front, camera, move hitchcock, hitchcock envy, envy force, force watch, watch own, own frightened, frightened face, face small, small mirror, mirror attach, attach front, front camera
+I:9765;99;see, see, film, watch, footage, home, be, immerse, film, see see, see film, film watch, watch footage, footage home, home be, be immerse, immerse film
+I:9765;100;be, right, watch, victim, relish, terror, be right, right watch, watch victim, victim relish, relish terror
+I:9765;101;walk, next, room, place, lip, lense, camera, look, pure, passion, cross, face, walk next, next room, room place, place lip, lip lense, lense camera, camera look, look pure, pure passion, passion cross, cross face
+I:9765;102;be, film, film, experience, moviegoer, be film, film film, film experience, experience moviegoer
+I:9765;103;be, exhilarating, unnerving, experience, sit, theater, watch, be, go, live, be exhilarating, exhilarating unnerving, unnerving experience, experience sit, sit theater, theater watch, watch be, be go, go live
+I:9765;104;view, film, understand, british, critic, time, view film, film understand, understand british, british critic, critic time
+I:9765;105;theme, go, simplistic, rationalization, be, closer, relation, contemporary, film, mm, thesis, theme go, go simplistic, simplistic rationalization, rationalization be, be closer, closer relation, relation contemporary, contemporary film, film mm, mm thesis
+I:9765;106;be, credit, younger, director, film, be, find, restore, be, appreciate, masterpiece, be, be credit, credit younger, younger director, director film, film be, be find, find restore, restore be, be appreciate, appreciate masterpiece, masterpiece be
+I:9765;107;criterion, have, do, superb, job, original, film, extra, add, appreciation, criterion have, have do, do superb, superb job, job original, original film, film extra, extra add, add appreciation
+I:9765;108;peep, open, close, same, week, prove, be, prescient, work, peep open, open close, close same, same week, week prove, prove be, be prescient, prescient work
+I:9765;109;little, indie, film, project, concern, subject, be, intimate, little indie, indie film, film project, project concern, concern subject, subject be, be intimate
+I:9765;110;string, unsolved, murder, involve, alluring, young, woman, string unsolved, unsolved murder, murder involve, involve alluring, alluring young, young woman
+I:9765;111;be, happy, get, see, less, own, exist, print, legendary, film, period, be happy, happy get, get see, see less, less own, own exist, exist print, print legendary, legendary film, film period
+I:9765;112;feature, interesting, documentary, movie, feature interesting, interesting documentary, documentary movie
+I:9765;113;see, film, noir, fan, cult, movie, conisseur, see film, film noir, noir fan, fan cult, cult movie, movie conisseur
+I:9765;114;film, be, much, debate, british, enthusiast, be, much, film be, be much, much debate, debate british, british enthusiast, enthusiast be, be much
+I:9765;115;work, more, level, work more, more level
+I:9765;116;film, show, period, good, effect, film show, show period, period good, good effect
+I:9765;117;be, good, performance, round, portrait, terror, stand, be good, good performance, performance round, round portrait, portrait terror, terror stand
+I:9765;118;provoke, film, fascinating, watch, underrated, provoke film, film fascinating, fascinating watch, watch underrated
+I:9765;119;be, make, be, film, foot, set, be make, make be, be film, film foot, foot set
+I:9765;120;villain, latch, heroine, mother, figure, be, indicate, tell, have, move, mother, old, room, villain latch, latch heroine, heroine mother, mother figure, figure be, be indicate, indicate tell, tell have, have move, move mother, mother old, old room
+I:9765;121;be, amusing, film, be, straight, show, drunk, woman, be amusing, amusing film, film be, be straight, straight show, show drunk, drunk woman
+I:9765;122;character, be, believable, puppet, move, create, pure, cinema, character be, be believable, believable puppet, puppet move, move create, create pure, pure cinema
+I:9765;123;be, sunny, expect, see, mod, rocker, street, be sunny, sunny expect, expect see, see mod, mod rocker, rocker street
+I:9765;124;speak, fluent, definite, german, accent, speak fluent, fluent definite, definite german, german accent
+I:9765;125;subject, little, peeping, be, interesting, subject little, little peeping, peeping be, be interesting
+I:9765;126;dare, expect, be, glad, economic, miracle, have, food, rationing, year, war, win, dare expect, expect be, be glad, glad economic, economic miracle, miracle have, have food, food rationing, rationing year, year war, war win
+I:9765;127;be, breathtaking, combination, voyeurism, eroticism, horror, be breathtaking, breathtaking combination, combination voyeurism, voyeurism eroticism, eroticism horror
+I:9765;128;peep, be, provocative, unsettling, peep be, be provocative, provocative unsettling
+I:9765;129;serial, killer, young, shy, attractive, sympathetic, man, be, victim, serial killer, killer young, young shy, shy attractive, attractive sympathetic, sympathetic man, man be, be victim
+I:9765;130;play, father, young, son, play, young, play father, father young, young son, son play, play young
+I:9765;131;think, add, initial, shock, movie, be, release, think add, add initial, initial shock, shock movie, movie be, be release
+I:9765;132;peep, be, movie, make, movie, peep be, be movie, movie make, make movie
+I:9765;133;work, camera, assistant, film, director, dream, become, famous, director, day, work camera, camera assistant, assistant film, film director, director dream, dream become, become famous, famous director, director day
+I:9765;134;understand, controversy, subject, sheer, brilliance, film, understand controversy, controversy subject, subject sheer, sheer brilliance, brilliance film
+I:9765;135;choice, music, work, camera, acting, dark, humor, guy, look, be, choice music, music work, work camera, camera acting, acting dark, dark humor, humor guy, guy look, look be
+I:9765;136;result, movie, be, layered, voyerism, be, make, know, be, watch, film, film, film, fact, layer, be, creation, snuff, film, film, reference, distort, mirror, implication, arouse, be, creepy, result movie, movie be, be layered, layered voyerism, voyerism be, be make, make know, know be, be watch, watch film, film film, film film, film fact, fact layer, layer be, be creation, creation snuff, snuff film, film film, film reference, reference distort, distort mirror, mirror implication, implication arouse, arouse be, be creepy
+I:9765;137;killer, play, handsome, young, be, treat, give, period, film, be, make, release, combination, be, raise, moral, hackle, imaginable, killer play, play handsome, handsome young, young be, be treat, treat give, give period, period film, film be, be make, make release, release combination, combination be, be raise, raise moral, moral hackle, hackle imaginable
+I:9765;138;film, develop, mystique, today, many, filmmaker, critic, include, regard, fine, film, film develop, develop mystique, mystique today, today many, many filmmaker, filmmaker critic, critic include, include regard, regard fine, fine film
+I:9765;139;have, be, influential, film, film, film, occur, title, peeping, top, be, sure, be, mention, have be, be influential, influential film, film film, film film, film occur, occur title, title peeping, peeping top, top be, be sure, sure be, be mention
+I:9765;140;edition, include, interesting, documentary, writer, nice, commentary, restore, cut, possible, edition include, include interesting, interesting documentary, documentary writer, writer nice, nice commentary, commentary restore, restore cut, cut possible
+I:9765;141;visual, sound, element, be, good, visual sound, sound element, element be, be good
+I:9765;142;kinda, important, story, reveal, compulsion, kill, be, uncontrollable, kinda important, important story, story reveal, reveal compulsion, compulsion kill, kill be, be uncontrollable
+I:9765;143;peep, be, interesting, movie, be, taste, peep be, be interesting, interesting movie, movie be, be taste
+I:9765;144;recommend, see, purchase, recommend, everyone, least, give, try, recommend see, see purchase, purchase recommend, recommend everyone, everyone least, least give, give try
+I:9765;145;have, put, good, collection, special, feature, film, include, interesting, documentary, british, have put, put good, good collection, collection special, special feature, feature film, film include, include interesting, interesting documentary, documentary british
+I:9765;146;respect, reviewer, think, masterpiece, hit, deeper, have, give, credit, respect reviewer, reviewer think, think masterpiece, masterpiece hit, hit deeper, deeper have, have give, give credit
+I:9765;147;be, philosophical, film, piece, visual, literature, peel, layer, think, deeper, look, be philosophical, philosophical film, film piece, piece visual, visual literature, literature peel, peel layer, layer think, think deeper, deeper look
+I:9765;148;be, film, reveal, dark, side, cinema, human, nature, be film, film reveal, reveal dark, dark side, side cinema, cinema human, human nature
+I:9765;149;be, film, carry, veiwfinder, watch, filmmaker, get, violence, viewfinder, be film, film carry, carry veiwfinder, veiwfinder watch, watch filmmaker, filmmaker get, get violence, violence viewfinder
+I:9765;150;enjoy, watch, enjoy, enjoy watch, watch enjoy
+I:9765;151;create, fear, create, adrenaline, rush, audience, be, thrilling, profitable, create fear, fear create, create adrenaline, adrenaline rush, rush audience, audience be, be thrilling, thrilling profitable
+I:9765;152;michael, direct, have, create, lushest, work, art, history, cinema, be, way, time, michael direct, direct have, have create, create lushest, lushest work, work art, art history, history cinema, cinema be, be way, way time
+I:9765;153;film, trouble, film trouble
+I:9765;154;make, rethink, violence, be, place, cinema, cinema, place, world, make rethink, rethink violence, violence be, be place, place cinema, cinema cinema, cinema place, place world
+I:9765;155;enjoy, history, violence, appreciate, unforgettable, classic, enjoy history, history violence, violence appreciate, appreciate unforgettable, unforgettable classic
+I:9765;156;use, camera, script, open, gate, new, world, young, director, be, influence, film, year, use camera, camera script, script open, open gate, gate new, new world, world young, young director, director be, be influence, influence film, film year
+I:9765;157;film, be, cult, movie, film, own, time, film be, be cult, cult movie, movie film, film own, own time
+I:9765;158;powell, remind, peep, be, viewer, time, seat, front, screen, powell remind, remind peep, peep be, be viewer, viewer time, time seat, seat front, front screen
+I:9765;159;british, director, screenwriter, collaborate, film, think, have, something, special, british director, director screenwriter, screenwriter collaborate, collaborate film, film think, think have, have something, something special
+I:9765;160;go, movie, be, intriguing, consider, date, release, subject, matter, tackle, go movie, movie be, be intriguing, intriguing consider, consider date, date release, release subject, subject matter, matter tackle
+I:9765;161;be, gaze, window, use, camera, spy, intimate, detail, other, people, life, be gaze, gaze window, window use, use camera, camera spy, spy intimate, intimate detail, detail other, other people, people life
+I:9765;162;point, proceedings, young, equate, woman, terror, fit, full, grown, man, have, decide, conduct, own, amateur, experiment, point proceedings, proceedings young, young equate, equate woman, woman terror, terror fit, fit full, full grown, grown man, man have, have decide, decide conduct, conduct own, own amateur, amateur experiment
+I:9765;163;fact, take, shine, mere, idea, photograph, fact take, take shine, shine mere, mere idea, idea photograph
+I:9765;164;one, want, feel, murderer, young, woman, movie, give, character, endearing, trait, one want, want feel, feel murderer, murderer young, young woman, woman movie, movie give, give character, character endearing, endearing trait
+I:9765;165;give, gift, means, trick, situation, victimize, like, respect, want, be, happy, give gift, gift means, means trick, trick situation, situation victimize, victimize like, like respect, respect want, want be, be happy
+I:9765;166;capture, concept, scared, tormented, little, boy, wrap, man, body, capture concept, concept scared, scared tormented, tormented little, little boy, boy wrap, wrap man, man body
+I:9765;167;hat, do, grand, job, widescreen, picture, transfer, heap, extra, include, disc, hat do, do grand, grand job, job widescreen, widescreen picture, picture transfer, transfer heap, heap extra, extra include, include disc
+I:9765;168;find, be, colorful, quiet, movie, disturbed, young, man, look, way, personal, darkness, find be, be colorful, colorful quiet, quiet movie, movie disturbed, disturbed young, young man, man look, look way, way personal, personal darkness
+I:9765;169;want, good, suspense, film, watch, wait, dark, want good, good suspense, suspense film, film watch, watch wait, wait dark
+I:9765;170;son, appear, black/white, sequence, film, good, effect, son appear, appear black/white, black/white sequence, sequence film, film good, good effect
+I:9765;171;excellent, supplement, british, psycho, min, contain, course, hindsight, number, critic, excellent supplement, supplement british, british psycho, psycho min, min contain, contain course, course hindsight, hindsight number, number critic
+I:9765;172;cryptography, genius, recount, activity, british, service, cryptography genius, genius recount, recount activity, activity british, british service
+I:9765;173;include, write, unique, poem, agent, memorize, application, encrypt, message, include write, write unique, unique poem, poem agent, agent memorize, memorize application, application encrypt, encrypt message
+I:9765;174;have, voice, aura, great, actor, be, voice, last, temptation, have voice, voice aura, aura great, great actor, actor be, be voice, voice last, last temptation
+I:9765;175;be, tangential, make, gem, own, right, be tangential, tangential make, make gem, gem own, own right
+I:9765;176;peep, be, best, keep, secret, seem, peep be, be best, best keep, keep secret, secret seem
+I:9765;177;remember, last, time, see, psychological, study, refine, beautiful, disturbing, remember last, last time, time see, see psychological, psychological study, study refine, refine beautiful, beautiful disturbing
+I:9765;178;be, tale, youthful, killer, intense, spare, time, assistant, director/cameramanin, daily, life, be tale, tale youthful, youthful killer, killer intense, intense spare, spare time, time assistant, assistant director/cameramanin, director/cameramanin daily, daily life
+I:9765;179;paradox, bizarre, character, be, do, help, sympathize, claim, victim, victim, record, facial, expression, die, add, documentary, paradox bizarre, bizarre character, character be, be do, do help, help sympathize, sympathize claim, claim victim, victim victim, victim record, record facial, facial expression, expression die, die add, add documentary
+I:9765;180;mark, take, father, work, step, mark take, take father, father work, work step
+I:9765;181;paradox, character, be, believable, heartwrenching, paradox character, character be, be believable, believable heartwrenching
+I:9765;182;ending, be, tragedy, come, way, ending be, be tragedy, tragedy come, come way
+I:9765;183;many, film, see, inner, working, reasoning, serial, killer, such, way, understand, motivation, give, excellent, subtle, personal, portrayal, soul, torment, own, desire, many film, film see, see inner, inner working, working reasoning, reasoning serial, serial killer, killer such, such way, way understand, understand motivation, motivation give, give excellent, excellent subtle, subtle personal, personal portrayal, portrayal soul, soul torment, torment own, own desire
+I:9765;184;have, give, best, performance, lively, humorous, murder, victim, have, something, special, something, deeper, have give, give best, best performance, performance lively, lively humorous, humorous murder, murder victim, victim have, have something, something special, special something, something deeper
+I:9765;185;spinsterish, girl, discover, be, inspire, casting, spinsterish girl, girl discover, discover be, be inspire, inspire casting
+I:9765;186;purveyor, public, sickness, feed, purveyor public, public sickness, sickness feed
+I:9765;187;be, strong, indictment, idea, cast, non, be strong, strong indictment, indictment idea, idea cast, cast non
+I:9765;188;film, make, subtle, point, good, actor, do, better, job, effort, film make, make subtle, subtle point, point good, good actor, actor do, do better, better job, job effort
+I:9765;189;study, human, emotion, subject, study human, human emotion, emotion subject
+I:9765;190;brilliant, relevant, brilliant relevant
+I:9765;191;shoot, craft, shoot craft
+I:9765;192;release, same, year, offer, many, parallel, be, mystify, film, be, hit, fiasco, release same, same year, year offer, offer many, many parallel, parallel be, be mystify, mystify film, film be, be hit, hit fiasco
+I:9765;193;perverse, treat, horror, thriller, devotee, perverse treat, treat horror, horror thriller, thriller devotee
+I:9765;194;want, add, kudos, create, great, presentation, memorable, provocative, film, want add, add kudos, kudos create, create great, great presentation, presentation memorable, memorable provocative, provocative film
+I:9765;195;thanks, commentary, track, documentary, include, appreciate, subtlety, intellectual, depth, contain, film, thanks commentary, commentary track, track documentary, documentary include, include appreciate, appreciate subtlety, subtlety intellectual, intellectual depth, depth contain, contain film
+I:9765;196;be, watch, end, movie, say, stink, be watch, watch end, end movie, movie say, say stink
+I:9765;197;amount, word, describe, experience, have, film, first, viewing, amount word, word describe, describe experience, experience have, have film, film first, first viewing
+I:9765;198;stop, read, review, stop, ruin, experience, be, worth, stop read, read review, review stop, stop ruin, ruin experience, experience be, be worth
+I:9765;199;work, assistant, cameraman, film, studio, have, trouble, appreciate, difference, real, world, see, lens, camera, work assistant, assistant cameraman, cameraman film, film studio, studio have, have trouble, trouble appreciate, appreciate difference, difference real, real world, world see, see lens, lens camera
+I:9765;200;psychological, dimension, outweigh, thriller, element, be, make, noteworthy, film, psychological dimension, dimension outweigh, outweigh thriller, thriller element, element be, be make, make noteworthy, noteworthy film
+I:9765;201;part, be, be, work, technicolor, rich, color, work, horror, element, film, part be, be be, be work, work technicolor, technicolor rich, rich color, color work, work horror, horror element, element film
+I:9765;202;primary, fear, have, be, fear, have, fear, primary fear, fear have, have be, be fear, fear have, have fear
+I:9765;203;movie, be, history, awareness, movie be, be history, history awareness
+I:9765;204;movie, be, good, film, show, deep, meditation, cinema, fear, movie be, be good, good film, film show, show deep, deep meditation, meditation cinema, cinema fear
+I:9765;205;use, weapon, tripod, murder, woman, use weapon, weapon tripod, tripod murder, murder woman
+I:9765;206;reaction, british, critic, cause, career, be, derail, criticize, year, reaction british, british critic, critic cause, cause career, career be, be derail, derail criticize, criticize year
+I:9765;207;consider, be, unworthy, british, impolite, topic, have, be, bring, screen, consider be, be unworthy, unworthy british, british impolite, impolite topic, topic have, have be, be bring, bring screen
+I:9765;208;extra, be, insightful, worth, view, listen, extra be, be insightful, insightful worth, worth view, view listen
+I:9765;209;see, trailer, film, be, hooked, see trailer, trailer film, film be, be hooked
+I:9765;210;have, see, be, pleasant, surprise, have see, see be, be pleasant, pleasant surprise
+I:9765;211;be, cult, film, live, reputation, be cult, cult film, film live, live reputation
+I:9765;212;be, exciting, be exciting
+I:9765;213;admirer, psycho, release, same, year, find, many, point, comparison, admirer psycho, psycho release, release same, same year, year find, find many, many point, point comparison
+I:9765;214;aspect, release, be, top, aspect release, release be, be top
+I:9765;215;film, transfer, be, clear, look, new, film transfer, transfer be, be clear, clear look, look new
+I:9765;216;extra, release, be, total, knockout, audio, commentary, critic, be, detail, easy, follow, extra release, release be, be total, total knockout, knockout audio, audio commentary, commentary critic, critic be, be detail, detail easy, easy follow
+I:9765;217;minute, documentary, british, be, fascinating, be, sum, original, british, trailer, be, worthwhile, bonus, minute documentary, documentary british, british be, be fascinating, fascinating be, be sum, sum original, original british, british trailer, trailer be, be worthwhile, worthwhile bonus
+I:9765;218;peep, be, require, view, interested, possibility, art, form, peep be, be require, require view, view interested, interested possibility, possibility art, art form
+I:9765;219;film, be, fine, daring, piece, work, detail, obsession, madness, young, be, traumatize, child, obsess, father, film be, be fine, fine daring, daring piece, piece work, work detail, detail obsession, obsession madness, madness young, young be, be traumatize, traumatize child, child obsess, obsess father
+I:9765;220;view, footage, private, self, gratification, view footage, footage private, private self, self gratification
+I:9765;221;be, make, own, pornography, be make, make own, own pornography
+I:9765;222;movie, be, heavy, statement, renowned, filmmaker, put, career, line, make, movie be, be heavy, heavy statement, statement renowned, renowned filmmaker, filmmaker put, put career, career line, line make
+I:9765;223;today, film, survive, testament, viewpoint, idea, today film, film survive, survive testament, testament viewpoint, viewpoint idea
+I:9765;224;be, richer, be richer
+I:9765;225;do, get, be, rare, treat, do get, get be, be rare, rare treat
+I:9765;226;little, slower, modern, thriller, watch, little slower, slower modern, modern thriller, thriller watch
+I:9765;227;color, scheme, subject, matter, sexy, woman, color scheme, scheme subject, subject matter, matter sexy, sexy woman
+I:9765;228;everything, great, paperback, cover, fifty, offer, be, deliver, bigger, life, great, film, everything great, great paperback, paperback cover, cover fifty, fifty offer, offer be, be deliver, deliver bigger, bigger life, life great, great film
+I:9765;229;mad, pass, gen, son, murder, relief, authority, society, mad pass, pass gen, gen son, son murder, murder relief, relief authority, authority society
+I:9765;230;be, true, fan, film, be true, true fan, fan film
+I:9765;231;guess, call, classic, be, age, guess call, call classic, classic be, be age
+I:9765;232;be, decent, story, have, be, be decent, decent story, story have, have be
+I:9765;233;be, min, be, ton, material, pack, be min, min be, be ton, ton material, material pack
+I:9765;234;film, pioneer, audience, incrimination, technique, archetypal, charming, quiet, young, man, serial, killer, have, become, staple, genre, film pioneer, pioneer audience, audience incrimination, incrimination technique, technique archetypal, archetypal charming, charming quiet, quiet young, young man, man serial, serial killer, killer have, have become, become staple, staple genre
+I:9765;235;see, film, do, be, edition, see, see film, film do, do be, be edition, edition see
+I:9765;236;least, first, edition, janus, film, have, supervise, own, brilliant, restoration, transfer, film, least first, first edition, edition janus, janus film, film have, have supervise, supervise own, own brilliant, brilliant restoration, restoration transfer, transfer film
+I:9765;237;preserve, original, exotic, aspect, ratio, look, marvelous, preserve original, original exotic, exotic aspect, aspect ratio, ratio look, look marvelous
+I:9765;238;course, special, feature, be, top, notch, be, course special, special feature, feature be, be top, top notch, notch be
+I:9765;239;be, perfect, be perfect
+I:9765;240;pro, great, film, great, director, pro great, great film, film great, great director
+I:9765;241;standard, be, few, special, feature, standard be, be few, few special, special feature
+I:9765;242;nobody, say, art, have, be, good, taste, nobody say, say art, art have, have be, be good, good taste
+I:9765;243;best, artist, have, be, insane, best artist, artist have, have be, be insane
+I:9765;244;expect, be, nudge, wink, other, enjoy, subtle, expect be, be nudge, nudge wink, wink other, other enjoy, enjoy subtle
+I:9765;245;great, artist, be, misunderstand, great artist, artist be, be misunderstand
+I:9765;246;be, great, actor, director, know, elicit, extreme, fear, actress, non, be great, great actor, actor director, director know, know elicit, elicit extreme, extreme fear, fear actress, actress non
+I:9765;247;small, price, perfect, shot, small price, price perfect, perfect shot
+I:9765;248;find, striking, film, explore, find striking, striking film, film explore
+I:9765;249;voyeur, be, extent, voyeur be, be extent
+I:9765;250;opening, scene, set, tone, most, rest, film, feeling, seedy, desperation, opening scene, scene set, set tone, tone most, most rest, rest film, film feeling, feeling seedy, seedy desperation
+I:9765;251;want, take, father, work, step, be, obsess, fear, be, consume, idea, see, capture, face, fear, camera, bring, ultimate, understanding, want take, take father, father work, work step, step be, be obsess, obsess fear, fear be, be consume, consume idea, idea see, see capture, capture face, face fear, fear camera, camera bring, bring ultimate, ultimate understanding
+I:9765;252;be, second, scene, film, raise, wry, grin, be, street, film, police, investigate, murder, prostitute, be second, second scene, scene film, film raise, raise wry, wry grin, grin be, be street, street film, film police, police investigate, investigate murder, murder prostitute
+I:9765;253;be, ingenue, innocent, sense, word, be ingenue, ingenue innocent, innocent sense, sense word
+I:9765;254;open, moment, trust, empathy, share, glimpse, tortured, childhood, show, film, father, take, carry, research, open moment, moment trust, trust empathy, empathy share, share glimpse, glimpse tortured, tortured childhood, childhood show, show film, film father, father take, take carry, carry research
+I:9765;255;performance, be, wonderful, be, monster, be, monster, own, father, know, be, monster, same, do, want, be, monster, performance be, be wonderful, wonderful be, be monster, monster be, be monster, monster own, own father, father know, know be, be monster, monster same, same do, do want, want be, be monster
+I:9765;256;lie, problem, be, sympathetic, character, lie problem, problem be, be sympathetic, sympathetic character
+I:9765;257;peep, be, unique, movie, extraordinary, sense, touch, subject, first, glance, wouldhave, limited, commercial, potential, peep be, be unique, unique movie, movie extraordinary, extraordinary sense, sense touch, touch subject, subject first, first glance, glance wouldhave, wouldhave limited, limited commercial, commercial potential
+I:9765;258;show, confidence, economic, outcome, thefilm, impervious, public, blowback, controversialstory, show confidence, confidence economic, economic outcome, outcome thefilm, thefilm impervious, impervious public, public blowback, blowback controversialstory
+I:9765;259;involve, be, perfectionist, such, script, timeless, modern, involve be, be perfectionist, perfectionist such, such script, script timeless, timeless modern
+I:9765;260;rich, woman, wear, pants, look, stylish, young, anddesirable, rich woman, woman wear, wear pants, pants look, look stylish, stylish young, young anddesirable
+I:9765;261;movie, build, mix, suspense, tension, relaxation, astrange, paradox, min, movie build, build mix, mix suspense, suspense tension, tension relaxation, relaxation astrange, astrange paradox, paradox min
+I:9765;262;peep, be, undiscovered, gem, deserve, place, cinema, outstanding, achievement, peep be, be undiscovered, undiscovered gem, gem deserve, deserve place, place cinema, cinema outstanding, outstanding achievement
+I:9765;263;intense, erotic, suspenseful, be, gem, movie, intense erotic, erotic suspenseful, suspenseful be, be gem, gem movie
+I:9765;264;creepy, horror, film, predate, month, predate, slasher, film, year, brave, new, ground, deviate, gothic, horror, film, movement, spawn, film, help, move, horror, gothic, castle, house, next, door, creepy horror, horror film, film predate, predate month, month predate, predate slasher, slasher film, film year, year brave, brave new, new ground, ground deviate, deviate gothic, gothic horror, horror film, film movement, movement spawn, spawn film, film help, help move, move horror, horror gothic, gothic castle, castle house, house next, next door
+I:9765;265;young, man, world, come, young, woman, want, understand, love, find, horrible, secret, late?while, lambast, critic, condemend, film, be, sicket, filthiest, film, remember, see, interesting, horror, film, early, 60, young man, man world, world come, come young, young woman, woman want, want understand, understand love, love find, find horrible, horrible secret, secret late?while, late?while lambast, lambast critic, critic condemend, condemend film, film be, be sicket, sicket filthiest, filthiest film, film remember, remember see, see interesting, interesting horror, horror film, film early, early 60
+I:9765;266;interim, make, wonderful, australian, film, be, general, interim make, make wonderful, wonderful australian, australian film, film be, be general
+I:9765;267;receive, american, audience, be, familiar, age, star, young, tantalizing, receive american, american audience, audience be, be familiar, familiar age, age star, star young, young tantalizing
+I:9765;268;work, film, studio, assistant, cameraman, be, work film, film studio, studio assistant, assistant cameraman, cameraman be
+I:9765;269;struggle, keep, relationship, normal, indulge, seamier, side, nature, expect, consequence, struggle keep, keep relationship, relationship normal, normal indulge, indulge seamier, seamier side, side nature, nature expect, expect consequence
+I:9765;270;lewis, be, sympathetic, character, be, many, way, peep, be, superior, film, depth, character, lewis be, be sympathetic, sympathetic character, character be, be many, many way, way peep, peep be, be superior, superior film, film depth, depth character
+I:9765;271;inner, struggle, center, action, have, make, lot, inner struggle, struggle center, center action, action have, have make, make lot
+I:9765;272;list, do, list do
+I:9765;273;see, film, interested, history, thriller, see film, film interested, interested history, history thriller
+I:9765;274;peep, be, condemn, release, have, see, ascend, position, cult, favorite, peep be, be condemn, condemn release, release have, have see, see ascend, ascend position, position cult, cult favorite
+I:9765;275;be, last, major, film, have, see, say, comparison, other, film, do, come, be last, last major, major film, film have, have see, see say, say comparison, comparison other, other film, film do, do come
+I:9765;276;be, expect, minor, masterpiece, be, incline, see, be expect, expect minor, minor masterpiece, masterpiece be, be incline, incline see
+I:9765;277;believe, be, decent, film, weakest, major, film, believe be, be decent, decent film, film weakest, weakest major, major film
+I:9765;278;carl, be, son, great, german, conductor, do, good, job, film, wonder, bit, have, be, cast, carl be, be son, son great, great german, german conductor, conductor do, do good, good job, job film, film wonder, wonder bit, bit have, have be, be cast
+I:9765;279;interesting, compelling, interesting compelling
+I:9765;280;interesting, casting, quiddity, be, presence, same, film, interesting casting, casting quiddity, quiddity be, be presence, presence same, same film
+I:9765;281;be, interesting, film, strong, performance, tell, less, usual, flair, be interesting, interesting film, film strong, strong performance, performance tell, tell less, less usual, usual flair
+I:9765;282;future, see, balanced, assessment, film, dominate, today, future see, see balanced, balanced assessment, assessment film, film dominate, dominate today
+I:9765;283;entire, movie, sort, stalk, pull, watch, entire movie, movie sort, sort stalk, stalk pull, pull watch
+I:9765;284;nothing, disturb, more, amount, love, sweet, voice, nothing disturb, disturb more, more amount, amount love, love sweet, sweet voice
+I:9765;285;be, code, expert, be, fascinating, man, have, hear, talk, be code, code expert, expert be, be fascinating, fascinating man, man have, have hear, hear talk
+I:9765;286;people, deserve, good, thing, movie, deserve, much, recognition, possible, people deserve, deserve good, good thing, thing movie, movie deserve, deserve much, much recognition, recognition possible
+I:9765;287;peep, impact, remain, undiminished, year, have, see, go, revile, despise, horror, film, classic, british, cinema, peep impact, impact remain, remain undiminished, undiminished year, year have, have see, see go, go revile, revile despise, despise horror, horror film, film classic, classic british, british cinema
+I:9765;288;open, eye, follow, descent, insanity, illustrate, power, film, open eye, eye follow, follow descent, descent insanity, insanity illustrate, illustrate power, power film
+I:9765;289;indispensable, addition, horror, fan, collection, indispensable addition, addition horror, horror fan, fan collection
+I:9765;290;director, screenwriter, put, sort, metophoric, mirror, front, be, shock, distorted, vision, see, director screenwriter, screenwriter put, put sort, sort metophoric, metophoric mirror, mirror front, front be, be shock, shock distorted, distorted vision, vision see
+I:9765;291;find, show, sympathy, think, be, monster, find show, show sympathy, sympathy think, think be, be monster
+I:9765;292;be, twist, perception, shocking, audience, time, movie, release, make, powerful, cinematic, expression, time, be twist, twist perception, perception shocking, shocking audience, audience time, time movie, movie release, release make, make powerful, powerful cinematic, cinematic expression, expression time
+I:9765;293;be, interesting, film, look, be interesting, interesting film, film look
+I:9765;294;controversial, important, artistic, achievement, destroy, carrer, ferocious, merciless, critic, controversial important, important artistic, artistic achievement, achievement destroy, destroy carrer, carrer ferocious, ferocious merciless, merciless critic
+I:9765;295;time, outrageous, unbeliavable, shocking, classic, meditation, observation, murder, depraved, cruelty, time outrageous, outrageous unbeliavable, unbeliavable shocking, shocking classic, classic meditation, meditation observation, observation murder, murder depraved, depraved cruelty
+I:9765;296;destroy, reputation, become, cult, classic, thriller, genre, overthrow, standard, standard, possible, concept, post, destroy reputation, reputation become, become cult, cult classic, classic thriller, thriller genre, genre overthrow, overthrow standard, standard standard, standard possible, possible concept, concept post
+I:9765;297;recomend, ultimate, dark, masterpiece, psychological, thriller, mind, recomend ultimate, ultimate dark, dark masterpiece, masterpiece psychological, psychological thriller, thriller mind
+I:9765;298;daring, milestone, be, capable, achieve, daring milestone, milestone be, be capable, capable achieve
+I:9765;299;document, emotional, condition, twisted, psyche, be, wait, presence, come, show, start, document emotional, emotional condition, condition twisted, twisted psyche, psyche be, be wait, wait presence, presence come, come show, show start
+I:9765;300;film, capture, sadistic, nature, people, show, thing, be, film capture, capture sadistic, sadistic nature, nature people, people show, show thing, thing be
+I:9765;301;meet, young, woman, be, tennant, home, meet young, young woman, woman be, be tennant, tennant home
+I:9765;302;ground, floor, become, interesting, life, ground floor, floor become, become interesting, interesting life
+I:9765;303;film, have, great, act, fright, victim, be, convincing, film have, have great, great act, act fright, fright victim, victim be, be convincing
+I:9765;304;have, see, documentary, disc, be, excellent, criterion, work, image, be, brilliant, thing, do, have, mess, aspect, ratio, film, have see, see documentary, documentary disc, disc be, be excellent, excellent criterion, criterion work, work image, image be, be brilliant, brilliant thing, thing do, do have, have mess, mess aspect, aspect ratio, ratio film
+I:9765;305;groundbreaking, suspense, thriller, colorful, history, receive, deserve, rebirth, release, groundbreaking suspense, suspense thriller, thriller colorful, colorful history, history receive, receive deserve, deserve rebirth, rebirth release
+I:9765;306;film, be, complicated, intriguing, psychological, drama, be, center, man, seek, capture, final, moment, life, film, film be, be complicated, complicated intriguing, intriguing psychological, psychological drama, drama be, be center, center man, man seek, seek capture, capture final, final moment, moment life, life film
+I:9765;307;work, magazine, shop, have, photo, studio, upstairs, photograph, model, sexy, attire, work magazine, magazine shop, shop have, have photo, photo studio, studio upstairs, upstairs photograph, photograph model, model sexy, sexy attire
+I:9765;308;have, workroom, develop, film, view, movie, have workroom, workroom develop, develop film, film view, view movie
+I:9765;309;house, be, childhood, home, inherit, father, house be, be childhood, childhood home, home inherit, inherit father
+I:9765;310;carl, performance, be, captivating, display, great, range, carl performance, performance be, be captivating, captivating display, display great, great range
+I:9765;311;make, strong, impression, clairvoyant, mother, bring, innocence, purity, girl, be, special, photograph, make strong, strong impression, impression clairvoyant, clairvoyant mother, mother bring, bring innocence, innocence purity, purity girl, girl be, be special, special photograph
+I:9765;312;edition, be, solid, release, extra, be, extensive, region, release, edition be, be solid, solid release, release extra, extra be, be extensive, extensive region, region release
+I:9765;313;be, landmark, film, be, make, disturbing, be landmark, landmark film, film be, be make, make disturbing
+I:9765;314;thing, have, make, film, gem, come, thing have, have make, make film, film gem, gem come
+I:9765;315;make, scary, movie, be, effective, realistic, make scary, scary movie, movie be, be effective, effective realistic
+I:9765;316;story, be, reclusive, man, work, cameraman, movie, studio, day, night, film, thing, hand, hold, movie, camera, story be, be reclusive, reclusive man, man work, work cameraman, cameraman movie, movie studio, studio day, day night, night film, film thing, thing hand, hand hold, hold movie, movie camera
+I:9765;317;hit, mother, blind, woman, be, good, use, other, sens, tell, be, stand, window, have, doubt, new, love, interest, hit mother, mother blind, blind woman, woman be, be good, good use, use other, other sens, sens tell, tell be, be stand, stand window, window have, have doubt, doubt new, new love, love interest
+I:9765;318;incredible, scene, be, confrontation, be, terrifying, watch, incredible scene, scene be, be confrontation, confrontation be, be terrifying, terrifying watch
+I:9765;319;excellent, subject, matter, be, full, commentary, film, theorist, doumentary, entitle, british, excellent subject, subject matter, matter be, be full, full commentary, commentary film, film theorist, theorist doumentary, doumentary entitle, entitle british
+I:9765;320;be, gallery, include, scene, shot, theatrical, trailer, be gallery, gallery include, include scene, scene shot, shot theatrical, theatrical trailer
+I:9765;321;lover, question, very, medium, enthusiasm, lover question, question very, very medium, medium enthusiasm
+I:9765;322;be, make, film, invite, mind, sympathetic, charasmatic, serial, killer, have, penchant, film, killing, victim, be make, make film, film invite, invite mind, mind sympathetic, sympathetic charasmatic, charasmatic serial, serial killer, killer have, have penchant, penchant film, film killing, killing victim

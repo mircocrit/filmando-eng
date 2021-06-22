@@ -1,0 +1,182 @@
+I:11271;1;french, film, be, winner, award, be, easy, see, tender, subject, wartime, win, heart, award, french film, film be, be winner, winner award, award be, be easy, easy see, see tender, tender subject, subject wartime, wartime win, win heart, heart award
+I:11271;2;be, determine, give, creature, proper, burial, be determine, determine give, give creature, creature proper, proper burial
+I:11271;3;family, have, adopt, family have, have adopt
+I:11271;4;be, deep, friendship, love, life, search, dignity, death, be deep, deep friendship, friendship love, love life, life search, search dignity, dignity death
+I:11271;5;be, morbid, be, enlighten, eye, child, be morbid, morbid be, be enlighten, enlighten eye, eye child
+I:11271;6;usual, child, foreign, film, have, do, wonderful, performance, usual child, child foreign, foreign film, film have, have do, do wonderful, wonderful performance
+I:11271;7;see, get, see get
+I:11271;8;see, child, see child
+I:11271;9;first, film, see, horror, war, eye, child, be, critical, smash, win, prize, critic, first film, film see, see horror, horror war, war eye, eye child, child be, be critical, critical smash, smash win, win prize, prize critic
+I:11271;10;portrait, paint, adult, character, be, disdainful, be, tribute, imperishable, spirit, french, people, wartime, portrait paint, paint adult, adult character, character be, be disdainful, disdainful be, be tribute, tribute imperishable, imperishable spirit, spirit french, french people, people wartime
+I:11271;11;story, potential, drip, easy, sentimentality, generous, peasant, family, take, adorable, war, orphan, offer, something, brace, clear, story potential, potential drip, drip easy, easy sentimentality, sentimentality generous, generous peasant, peasant family, family take, take adorable, adorable war, war orphan, orphan offer, offer something, something brace, brace clear
+I:11271;12;nothing, career, match, achievement, classic, nothing career, career match, match achievement, achievement classic
+I:11271;13;invite, viewer, interpret, weird, thing, go, reveal, own, heart, mind, dark, side, invite viewer, viewer interpret, interpret weird, weird thing, thing go, go reveal, reveal own, own heart, heart mind, mind dark, dark side
+I:11271;14;surface, disregard, everything, say, film, be, beautiful, haunting, surface disregard, disregard everything, everything say, say film, film be, be beautiful, beautiful haunting
+I:11271;15;charming, little, kid, play, secret, game, charming little, little kid, kid play, play secret, secret game
+I:11271;16;cinematography, be, gorgeous, guitar, splendid, music, be, enchant, overall, mixture, tragicomedy, macabre, allegory, be, haunt, cinematography be, be gorgeous, gorgeous guitar, guitar splendid, splendid music, music be, be enchant, enchant overall, overall mixture, mixture tragicomedy, tragicomedy macabre, macabre allegory, allegory be, be haunt
+I:11271;17;character, group, character, be, worth, attention, study, character group, group character, character be, be worth, worth attention, attention study
+I:11271;18;deal, reaction, couple, child, deal reaction, reaction couple, couple child
+I:11271;19;have, witness, have, go, have witness, witness have, have go
+I:11271;20;topic, be, analize, simplicity, ill, influence, child, play, psychological, mental, connotation, meaning, be, apply, be, today, original, piece, cinema, reach, same, meaning, be, film, today, context, recent, history, influence, topic be, be analize, analize simplicity, simplicity ill, ill influence, influence child, child play, play psychological, psychological mental, mental connotation, connotation meaning, meaning be, be apply, apply be, be today, today original, original piece, piece cinema, cinema reach, reach same, same meaning, meaning be, be film, film today, today context, context recent, recent history, history influence
+I:11271;21;do, right, thing, material, be, hand, story, meaning, be, powerful, execute, be, enjoy, today, do right, right thing, thing material, material be, be hand, hand story, story meaning, meaning be, be powerful, powerful execute, execute be, be enjoy, enjoy today
+I:11271;22;one, think, movie, make, child, lead, actor, act, be, flawless, one think, think movie, movie make, make child, child lead, lead actor, actor act, act be, be flawless
+I:11271;23;say, question, innocence, child, be, due, great, part, look, great, work, give, great, credibility, premise, say question, question innocence, innocence child, child be, be due, due great, great part, part look, look great, great work, work give, give great, great credibility, credibility premise
+I:11271;24;usual, be, commendable, work, restoration, many, sens, sense, allow, more, people, usual be, be commendable, commendable work, work restoration, restoration many, many sens, sens sense, sense allow, allow more, more people
+I:11271;25;original, french, soundtrack, be, include, english, dub, monophonic, original french, french soundtrack, soundtrack be, be include, include english, english dub, dub monophonic
+I:11271;26;be, forbid, game, child, play, have, nothing, do, sex, usual, designation, forbid, be forbid, forbid game, game child, child play, play have, have nothing, nothing do, do sex, sex usual, usual designation, designation forbid
+I:11271;27;old, do, be, forbid, be, steal, cross, cemetery, top, horse, old do, do be, be forbid, forbid be, be steal, steal cross, cross cemetery, cemetery top, top horse
+I:11271;28;war, movie, incredible, delicacy, lace, humor, poignancy, war movie, movie incredible, incredible delicacy, delicacy lace, lace humor, humor poignancy
+I:11271;29;be, clean, exclaim, smell, good, be clean, clean exclaim, exclaim smell, smell good
+I:11271;30;transpire, be, child, interpretation, healing, power, religious, ritual, symbol, transpire be, be child, child interpretation, interpretation healing, healing power, power religious, religious ritual, ritual symbol
+I:11271;31;cl, ment, use, world, child, counterpoint, war, background, gentle, satire, church, cl ment, ment use, use world, world child, child counterpoint, counterpoint war, war background, background gentle, gentle satire, satire church
+I:11271;32;child, make, game, religion, do, demonstrate, healing, power, ritual, sacrament, child make, make game, game religion, religion do, do demonstrate, demonstrate healing, healing power, power ritual, ritual sacrament
+I:11271;33;make, original, symbolic, film, work, be, uncluttered, naturalistic, vision, cl, ment, wonderful, direction, little, star, make original, original symbolic, symbolic film, film work, work be, be uncluttered, uncluttered naturalistic, naturalistic vision, vision cl, cl ment, ment wonderful, wonderful direction, direction little, little star
+I:11271;34;particular, be, amazing, particular be, be amazing
+I:11271;35;be, unaffected, natural, adorable, little, girl, world, make, new, world, great, odds, be unaffected, unaffected natural, natural adorable, adorable little, little girl, girl world, world make, make new, new world, world great, great odds
+I:11271;36;sense, personal, integrity, strong, make, believe, succeed, sense personal, personal integrity, integrity strong, strong make, make believe, believe succeed
+I:11271;37;performance, convey, creative, world, child, be, compare, performance convey, convey creative, creative world, world child, child be, be compare
+I:11271;38;be, religious, film, rely, pre, be religious, religious film, film rely, rely pre
+I:11271;39;good, be, farm, boy, love, little, show, love, assume, psychological, spiritual, responsibility, help, overcome, tragedy, be, orphan, good be, be farm, farm boy, boy love, love little, little show, show love, love assume, assume psychological, psychological spiritual, spiritual responsibility, responsibility help, help overcome, overcome tragedy, tragedy be, be orphan
+I:11271;40;be, experience, pre, be experience, experience pre
+I:11271;41;adolescent, come, age, transition, exemplify, rebellion, grow, independence, mind, spirit, adolescent come, come age, age transition, transition exemplify, exemplify rebellion, rebellion grow, grow independence, independence mind, mind spirit
+I:11271;42;be, intense, engage, scene, see, mouth, unison, line, preparation, time, speak, be intense, intense engage, engage scene, scene see, see mouth, mouth unison, unison line, line preparation, preparation time, time speak
+I:11271;43;film, win, academy, award, same, year, best, foreign, film, film win, win academy, academy award, award same, same year, year best, best foreign, foreign film
+I:11271;44;be, wonder, french, cinema, masterpiece, human, spirit, be, miss, be wonder, wonder french, french cinema, cinema masterpiece, masterpiece human, human spirit, spirit be, be miss
+I:11271;45;see, child, strength, character, inspire, see child, child strength, strength character, character inspire
+I:11271;46;movie, be, masterpiece, movie be, be masterpiece
+I:11271;47;child, actor, be, sensational, direct, superb, child actor, actor be, be sensational, sensational direct, direct superb
+I:11271;48;musical, score, be, beautiful, jeux, interdit, musical score, score be, be beautiful, beautiful jeux, jeux interdit
+I:11271;49;read, review, give, stunning, review, course, say, be, tear, read review, review give, give stunning, stunning review, review course, course say, say be, be tear
+I:11271;50;little, paulette, youthful, recover, psychic, wound, shot, little, wander, chaotic, tide, refugee, be, sear, film, annals, little paulette, paulette youthful, youthful recover, recover psychic, psychic wound, wound shot, shot little, little wander, wander chaotic, chaotic tide, tide refugee, refugee be, be sear, sear film, film annals
+I:11271;51;film, brilliance, lie, make, feel, feel, unsentimental, way, film brilliance, brilliance lie, lie make, make feel, feel feel, feel unsentimental, unsentimental way
+I:11271;52;be, testament, mystery, human, personality, intuitive, boy, emerge, such, unpromising, family, fodder, be testament, testament mystery, mystery human, human personality, personality intuitive, intuitive boy, boy emerge, emerge such, such unpromising, unpromising family, family fodder
+I:11271;53;much, pass, be, overlook, much pass, pass be, be overlook
+I:11271;54;be, boy, lusty, relationship, older, girl, be boy, boy lusty, lusty relationship, relationship older, older girl
+I:11271;55;graveyard, scene, feud, family, have, comical, undertone, graveyard scene, scene feud, feud family, family have, have comical, comical undertone
+I:11271;56;look, be, unexpected, deposit, humor, somber, story, look be, be unexpected, unexpected deposit, deposit humor, humor somber, somber story
+I:11271;57;remain, masterpiece, unadorned, understatement, remain masterpiece, masterpiece unadorned, unadorned understatement
+I:11271;58;stagey, graveyard, scene, be, tell, simple, straightforward, fashion, allow, audience, emotion, build, final, shatter, scene, stagey graveyard, graveyard scene, scene be, be tell, tell simple, simple straightforward, straightforward fashion, fashion allow, allow audience, audience emotion, emotion build, build final, final shatter, shatter scene
+I:11271;59;be, effective, be effective
+I:11271;60;proof, something, worthwhile, have, be, show, tv, blow, proof something, something worthwhile, worthwhile have, have be, be show, show tv, tv blow
+I:11271;61;beautiful, little, film, little, girl, orphan, war, adopt, farming, family, beautiful little, little film, film little, little girl, girl orphan, orphan war, war adopt, adopt farming, farming family
+I:11271;62;delelope, close, frienship, young, boy, family, delelope close, close frienship, frienship young, young boy, boy family
+I:11271;63;be, profound, move, film, have, stay, see, it.yes, love, have, be, die, see, be profound, profound move, move film, film have, have stay, stay see, see it.yes, it.yes love, love have, have be, be die, die see
+I:11271;64;only, thing, dislike, be, be, subtitle, packaging, movie, be, good, only thing, thing dislike, dislike be, be be, be subtitle, subtitle packaging, packaging movie, movie be, be good
+I:11271;65;imagination, way, play, period, war, imagination way, way play, play period, period war
+I:11271;66;sensitivity, creativity, feeling, film, transmit, sensitivity creativity, creativity feeling, feeling film, film transmit
+I:11271;67;war, intolerance, narrow, mindedness, adult, be, other, forbid, game, second, game, create, first.yes, be, anti, war intolerance, intolerance narrow, narrow mindedness, mindedness adult, adult be, be other, other forbid, forbid game, game second, second game, game create, create first.yes, first.yes be, be anti
+I:11271;68;think, film, be, exceptional, way, think film, film be, be exceptional, exceptional way
+I:11271;69;acting, molding, music, event, photography, truth, picture, acting molding, molding music, music event, event photography, photography truth, truth picture
+I:11271;70;be, equal, equal, equal, best, picture, be equal, equal equal, equal equal, equal best, best picture
+I:11271;71;complete, collection, masterpiece, cinema, complete collection, collection masterpiece, masterpiece cinema
+I:11271;72;give, best, child, performance, film, do, older, boy, give best, best child, child performance, performance film, film do, do older, older boy
+I:11271;73;director, wife, help, shape, film, be, be, commend, ability, get, such, exceptional, performance, one, young, director wife, wife help, help shape, shape film, film be, be be, be commend, commend ability, ability get, get such, such exceptional, exceptional performance, performance one, one young
+I:11271;74;be, award, best, actress, be award, award best, best actress
+I:11271;75;achievement, unmatched, other, year, old, achievement unmatched, unmatched other, other year, year old
+I:11271;76;star, star, be, picture, change, way, look, world, star star, star be, be picture, picture change, change way, way look, look world
+I:11271;77;remember, want, see, remember want, want see
+I:11271;78;splurge, get, last, splurge get, get last
+I:11271;79;movie, age, cinematography, be, state, art, acting, be, refreshing, movie age, age cinematography, cinematography be, be state, state art, art acting, acting be, be refreshing
+I:11271;80;see, younger, viewer, such, kid, love, movie, be, treat, adult, see younger, younger viewer, viewer such, such kid, kid love, love movie, movie be, be treat, treat adult
+I:11271;81;film, be, landmark, story, world, cinema, film be, be landmark, landmark story, story world, world cinema
+I:11271;82;merciless, mesage, haunting, poignant, script, mean, ww2, mean, ww1, merciless mesage, mesage haunting, haunting poignant, poignant script, script mean, mean ww2, ww2 mean, mean ww1
+I:11271;83;intimate, beloved, friend, intimate beloved, beloved friend
+I:11271;84;countless, quality, powerful, movie, make, top, french, film, age, best, achievement, glorious, career, countless quality, quality powerful, powerful movie, movie make, make top, top french, french film, film age, age best, best achievement, achievement glorious, glorious career
+I:11271;85;simple, human, reaction, child, express, time, confusion, simple human, human reaction, reaction child, child express, express time, time confusion
+I:11271;86;stark, simplicity, masterpiece, make, more, eloquent, anti, stark simplicity, simplicity masterpiece, masterpiece make, make more, more eloquent, eloquent anti
+I:11271;87;world, go, mad, respond, act, quiet, kindness, be, way, make, sense, be, happen, world go, go mad, mad respond, respond act, act quiet, quiet kindness, kindness be, be way, way make, make sense, sense be, be happen
+I:11271;88;cling, childhood, secret, game, reflect, humanity, noblest, trait, darkest, hour, cling childhood, childhood secret, secret game, game reflect, reflect humanity, humanity noblest, noblest trait, trait darkest, darkest hour
+I:11271;89;movie, be, perfect, example, person, judge, book, cover, movie be, be perfect, perfect example, example person, person judge, judge book, book cover
+I:11271;90;be, preoccupy, get, dog, be preoccupy, preoccupy get, get dog
+I:11271;91;death, be, theme, film, be, theme, be, hammer, ground, death be, be theme, theme film, film be, be theme, theme be, be hammer, hammer ground
+I:11271;92;anyone, watch, film, realize, be, great, film, do, mean, enjoy, anyone watch, watch film, film realize, realize be, be great, great film, film do, do mean, mean enjoy
+I:11271;93;lot, great, film, be, entertaining, lot great, great film, film be, be entertaining
+I:11271;94;film, be, entertaining, film be, be entertaining
+I:11271;95;be, important, film, be, important, be important, important film, film be, be important
+I:11271;96;be, wonderful, photograph, act, film, be, unseen, today, be wonderful, wonderful photograph, photograph act, act film, film be, be unseen, unseen today
+I:11271;97;bridge, scene, present, powerful, gripping, symbolism, multiple, way, bridge scene, scene present, present powerful, powerful gripping, gripping symbolism, symbolism multiple, multiple way
+I:11271;98;much, sentiment, emerge, son, provide, desire, much sentiment, sentiment emerge, emerge son, son provide, provide desire
+I:11271;99;have, develop, own, idea, jock, rest, little, grave, have develop, develop own, own idea, idea jock, jock rest, rest little, little grave
+I:11271;100;much, thought, provide, help, childish, infatuation, motivate, do, take, ease, find, agony, much thought, thought provide, provide help, help childish, childish infatuation, infatuation motivate, motivate do, do take, take ease, ease find, find agony
+I:11271;101;lead, story, ghastly, direction, stain, basic, notion, child, innocence, provide, intriguing, proposition, child, learn, environment, lead story, story ghastly, ghastly direction, direction stain, stain basic, basic notion, notion child, child innocence, innocence provide, provide intriguing, intriguing proposition, proposition child, child learn, learn environment
+I:11271;102;ren, cl, ment, break, taboo, death, child, tell, story, do, clever, symbolism, remarkable, scene, frame, ren cl, cl ment, ment break, break taboo, taboo death, death child, child tell, tell story, story do, do clever, clever symbolism, symbolism remarkable, remarkable scene, scene frame
+I:11271;103;addition, propose, child, display, view, world, play, addition propose, propose child, child display, display view, view world, world play
+I:11271;104;child, learn, begin, reflect, own, experience, child learn, learn begin, begin reflect, reflect own, own experience
+I:11271;105;provide, foundation, child, world, perspective, begin, form, own, idea, guidance, provide foundation, foundation child, child world, world perspective, perspective begin, begin form, form own, own idea, idea guidance
+I:11271;106;arrive, view, day, receive, arrive view, view day, day receive
+I:11271;107;find, be, interesting, film, charming, tale, childhood, innocence, face, unfathomable, loss, find be, be interesting, interesting film, film charming, charming tale, tale childhood, childhood innocence, innocence face, face unfathomable, unfathomable loss
+I:11271;108;course, help, be, time, greatest, need, course help, help be, be time, time greatest, greatest need
+I:11271;109;child, star, be, superb, respective, role, director, manage, wring, superb, performance, remainder, major, player, child star, star be, be superb, superb respective, respective role, role director, director manage, manage wring, wring superb, superb performance, performance remainder, remainder major, major player
+I:11271;110;haunting, score, imbue, film, aura, happy, sadness, make, movie, satisfying, haunting score, score imbue, imbue film, film aura, aura happy, happy sadness, sadness make, make movie, movie satisfying
+I:11271;111;appeal, be, glimpse, french, farm, life, bucolic, countryside, comical, relationship, have, neighbor, appeal be, be glimpse, glimpse french, french farm, farm life, life bucolic, bucolic countryside, countryside comical, comical relationship, relationship have, have neighbor
+I:11271;112;recommend, edition, wish, own, recommend edition, edition wish, wish own
+I:11271;113;edition, provide, extra, give, value, money, edition provide, provide extra, extra give, give value, value money
+I:11271;114;come, pompous, popinjay, be, charming, forthcoming, commentary, come pompous, pompous popinjay, popinjay be, be charming, charming forthcoming, forthcoming commentary
+I:11271;115;be, alternative, beginning, ending, interesting, be, drop, one, make, final, cut, be alternative, alternative beginning, beginning ending, ending interesting, interesting be, be drop, drop one, one make, make final, final cut
+I:11271;116;couple, other, extra, add, bit, value, couple other, other extra, extra add, add bit, bit value
+I:11271;117;masterful, film, innocence, face, harsh, adult, reality, masterful film, film innocence, innocence face, face harsh, harsh adult, adult reality
+I:11271;118;heartbreaking, memorable, be, film, have, own, share, heartbreaking memorable, memorable be, be film, film have, have own, own share
+I:11271;119;be, make, movie, young, actor, film, incredible, setting, detail, be make, make movie, movie young, young actor, actor film, film incredible, incredible setting, setting detail
+I:11271;120;film, black, white, many, scene, be, haunt, leave, room, imagine, film black, black white, white many, many scene, scene be, be haunt, haunt leave, leave room, room imagine
+I:11271;121;beautiful, movie, beautiful, music, be, match, make, heaven, captivate, inspire, beautiful movie, movie beautiful, beautiful music, music be, be match, match make, make heaven, heaven captivate, captivate inspire
+I:11271;122;wonderful, simple, story, child, wartime, become, friend, attempt, understand, war, death, be, accessible, involve, story, cull, good, performance, young, lead, end, downbeat, note, be, film, wonderful simple, simple story, story child, child wartime, wartime become, become friend, friend attempt, attempt understand, understand war, war death, death be, be accessible, accessible involve, involve story, story cull, cull good, good performance, performance young, young lead, lead end, end downbeat, downbeat note, note be, be film
+I:11271;123;welcome, family, forge, strange, bond, welcome family, family forge, forge strange, strange bond
+I:11271;124;be, great, movie, manage, be, cynical, unrelenting, realism, stay, sweet, sentimental, surface, be great, great movie, movie manage, manage be, be cynical, cynical unrelenting, unrelenting realism, realism stay, stay sweet, sweet sentimental, sentimental surface
+I:11271;125;way, movie, weave, drama, social, commentary, comedy, subtle, disturbing, little, fable, remind, great, french, title, release, way movie, movie weave, weave drama, drama social, social commentary, commentary comedy, comedy subtle, subtle disturbing, disturbing little, little fable, fable remind, remind great, great french, french title, title release
+I:11271;126;watch, make, want, see, other, film, watch make, make want, want see, see other, other film
+I:11271;127;relate, film, relate film
+I:11271;128;be, anything, better, more, interesting, take, innocence, mean, be anything, anything better, better more, more interesting, interesting take, take innocence, innocence mean
+I:11271;129;film, critic, nail, movie, film critic, critic nail, nail movie
+I:11271;130;child, star, blow, child star, star blow
+I:11271;131;acting, be, superb, acting be, be superb
+I:11271;132;war, drama, think, be, great, comedy, film, war drama, drama think, think be, be great, great comedy, comedy film
+I:11271;133;child, actor, provide, best, line, child actor, actor provide, provide best, best line
+I:11271;134;scene, play, bury, bless, deceased, dog, be, outrageous, funniest, thing, have, see, scene play, play bury, bury bless, bless deceased, deceased dog, dog be, be outrageous, outrageous funniest, funniest thing, thing have, have see
+I:11271;135;be, delight, hear, entire, film, be delight, delight hear, hear entire, entire film
+I:11271;136;enjoy, playing, prefer, rendition, beautiful, tune, enjoy playing, playing prefer, prefer rendition, rendition beautiful, beautiful tune
+I:11271;137;love, comment, make, interview, love comment, comment make, make interview
+I:11271;138;be, great, actor, be great, great actor
+I:11271;139;be, consider, gift, family, friend, be consider, consider gift, gift family, family friend
+I:11271;140;recommend, watch, recommend watch
+I:11271;141;be, cinema, classic, do, want, miss, be cinema, cinema classic, classic do, do want, want miss
+I:11271;142;star, movie, list, be, percent, star movie, movie list, list be, be percent
+I:11271;143;be, film, be, perfect, act, direct, be, impeccable, soundtrack, complement, action, cinematography, be, grand, be, grandiose, be film, film be, be perfect, perfect act, act direct, direct be, be impeccable, impeccable soundtrack, soundtrack complement, complement action, action cinematography, cinematography be, be grand, grand be, be grandiose
+I:11271;144;movie, top, movie top
+I:11271;145;be, perfect, film, be perfect, perfect film
+I:11271;146;be, gentle, comedy, have, see, anyone, call, comedy, be gentle, gentle comedy, comedy have, have see, see anyone, anyone call, call comedy
+I:11271;147;be, simple, six.year, be simple, simple six.year
+I:11271;148;straddle, be, worthy, great, praise, straddle be, be worthy, worthy great, great praise
+I:11271;149;be, beautiful, funny, gentle, sad, thought, be beautiful, beautiful funny, funny gentle, gentle sad, sad thought
+I:11271;150;be, masterpiece, filmmaking, see, be, concerned, be, greatest, film, make, be masterpiece, masterpiece filmmaking, filmmaking see, see be, be concerned, concerned be, be greatest, greatest film, film make
+I:11271;151;simple, premise, brilliant, execution, title, story, be, set, simple premise, premise brilliant, brilliant execution, execution title, title story, story be, be set
+I:11271;152;amazing, naturalistic, performance, child, star, help, secure, much, deserve, best, foreign, amazing naturalistic, naturalistic performance, performance child, child star, star help, help secure, secure much, much deserve, deserve best, best foreign
+I:11271;153;forbid, inform, most, basic, experience, mean, be, alive, forbid inform, inform most, most basic, basic experience, experience mean, mean be, be alive
+I:11271;154;urgent, relevant, urgent relevant
+I:11271;155;touch, story, child, deserve, award, best, foreign, language, film, touch story, story child, child deserve, deserve award, award best, best foreign, foreign language, language film
+I:11271;156;see, share, wife, frenchwoman, friend, see share, share wife, wife frenchwoman, frenchwoman friend
+I:11271;157;something, feel, better, possess, have, own, something feel, feel better, better possess, possess have, have own
+I:11271;158;move, film, wonderful, child, actor, be, depress, do, move film, film wonderful, wonderful child, child actor, actor be, be depress, depress do
+I:11271;159;be, strong, arguement, war, plea, war, orphan, be strong, strong arguement, arguement war, war plea, plea war, war orphan
+I:11271;160;ment, utilize, untraditional, way, opening, close, film, ment utilize, utilize untraditional, untraditional way, way opening, opening close, close film
+I:11271;161;way, be, present, slice, life, be, able, relate, better, story, character, way be, be present, present slice, slice life, life be, be able, able relate, relate better, better story, story character
+I:11271;162;spite, grim, subject, be, few, moment, humor, spite, seriousness, action, spite grim, grim subject, subject be, be few, few moment, moment humor, humor spite, spite seriousness, seriousness action
+I:11271;163;laughter, time, crisis, be, therapeutic, cl, ment, give, few, moment, laughter time, time crisis, crisis be, be therapeutic, therapeutic cl, cl ment, ment give, give few, few moment
+I:11271;164;little, girl, be, grow, be, be, outstanding, little girl, girl be, be grow, grow be, be be, be outstanding
+I:11271;165;person, love, old, film, be, gem, person love, love old, old film, film be, be gem
+I:11271;166;end, break, heart, end break, break heart
+I:11271;167;be, nice, film, recommend, be nice, nice film, film recommend
+I:11271;168;end, drama, war, be, heighten, famous, climax, end drama, drama war, war be, be heighten, heighten famous, famous climax
+I:11271;169;good, point, previous, reviewer, blood, gore, be, effective, innocent, story, unfold, poignant, statement, good point, point previous, previous reviewer, reviewer blood, blood gore, gore be, be effective, effective innocent, innocent story, story unfold, unfold poignant, poignant statement
+I:11271;170;movie, be, lyrical, child, act, heartfelt, inevitability, loss, heartbreaking, movie be, be lyrical, lyrical child, child act, act heartfelt, heartfelt inevitability, inevitability loss, loss heartbreaking
+I:11271;171;be, rare, moment, cinema, kid, be, depict, be, be, such, innocence, be rare, rare moment, moment cinema, cinema kid, kid be, be depict, depict be, be be, be such, such innocence
+I:11271;172;say, be, best, film, see, be, realistic, touching, film, have, see, child, say be, be best, best film, film see, see be, be realistic, realistic touching, touching film, film have, have see, see child
+I:11271;173;be, heartbreaking, see, sadness, loneliness, inspiring, see, cope, clever, spiritual, way, be heartbreaking, heartbreaking see, see sadness, sadness loneliness, loneliness inspiring, inspiring see, see cope, cope clever, clever spiritual, spiritual way
+I:11271;174;greatest, thing, be, look, natural, do, seem, child, be, act, greatest thing, thing be, be look, look natural, natural do, do seem, seem child, child be, be act
+I:11271;175;have, issue, superb, transfer, masterpiece, warfare, affect, child, have issue, issue superb, superb transfer, transfer masterpiece, masterpiece warfare, warfare affect, affect child
+I:11271;176;be, fine, piece, filmmaking, director, such, work, novel, first, film, be fine, fine piece, piece filmmaking, filmmaking director, director such, such work, work novel, novel first, first film
+I:11271;177;end, sorrow, be, profound, sit, speechless, end sorrow, sorrow be, be profound, profound sit, sit speechless
+I:11271;178;director, have, draw, little, performance, great, beauty, director have, have draw, draw little, little performance, performance great, great beauty
+I:11271;179;judge, be, wow, name, five.year, judge be, be wow, wow name, name five.year
+I:11271;180;old, best, actress, adult, be, interview, disc, extra, old best, best actress, actress adult, adult be, be interview, interview disc, disc extra
+I:11271;181;win, award, best, foreign, language, slam, win award, award best, best foreign, foreign language, language slam
+I:11271;182;movie, title, come, war, adult, world, childlen, get, effect, movie title, title come, come war, war adult, adult world, world childlen, childlen get, get effect

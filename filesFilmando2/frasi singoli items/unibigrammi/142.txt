@@ -1,0 +1,802 @@
+I:8690;1;deal, find, movie, other, deal find, find movie, movie other
+I:8690;2;be, follow, classic, food, fight, be follow, follow classic, classic food, food fight
+I:8690;3;such, humor, go, wrong, such humor, humor go, go wrong
+I:8690;4;appeal, teenaged, boy, everyone, appeal teenaged, teenaged boy, boy everyone
+I:8690;5;film, arrive, ballyhoo, pack, seat, slide, film arrive, arrive ballyhoo, ballyhoo pack, pack seat, seat slide
+I:8690;6;pick, steam, more, people, realize, much, fun, be, pick steam, steam more, more people, people realize, realize much, much fun, fun be
+I:8690;7;be, humor, have, permeate, culture, be humor, humor have, have permeate, permeate culture
+I:8690;8;be, plenty, familiar, face, movie, be plenty, plenty familiar, familiar face, face movie
+I:8690;9;grab, guitar, smash, grab guitar, guitar smash
+I:8690;10;film, benefit, writing, film benefit, benefit writing
+I:8690;11;free, love, mayhem, seem, anachronistic, 21st, century, be, valuable, window, generation, film, maker, prior, generation, portray, free love, love mayhem, mayhem seem, seem anachronistic, anachronistic 21st, 21st century, century be, be valuable, valuable window, window generation, generation film, film maker, maker prior, prior generation, generation portray
+I:8690;12;have, see, be, world, expand, experience, have see, see be, be world, world expand, expand experience
+I:8690;13;grow, be, plain, fun, grow be, be plain, plain fun
+I:8690;14;be, be, fun, romp, college, life, be be, be fun, fun romp, romp college, college life
+I:8690;15;great, classic, best, movie, great classic, classic best, best movie
+I:8690;16;be, simple, basic, comedy, be, funny, be, better, copycat, movie, come, be simple, simple basic, basic comedy, comedy be, be funny, funny be, be better, better copycat, copycat movie, movie come
+I:8690;17;be, perfect, movie, be perfect, perfect movie
+I:8690;18;have, lot, funny, crude, humor, lot, fighting, lot, wonderful, quote, lot, alcoholic, beverage, lot, swearing, lot, hot, babe, strip, lot, destruction, lot, everything, dream, movie, have lot, lot funny, funny crude, crude humor, humor lot, lot fighting, fighting lot, lot wonderful, wonderful quote, quote lot, lot alcoholic, alcoholic beverage, beverage lot, lot swearing, swearing lot, lot hot, hot babe, babe strip, strip lot, lot destruction, destruction lot, lot everything, everything dream, dream movie
+I:8690;19;love, movie, love movie
+I:8690;20;character, be, hilarious, have, be, character be, be hilarious, hilarious have, have be
+I:8690;21;find, girlfriend, have, see, get, see, love, find girlfriend, girlfriend have, have see, see get, get see, see love
+I:8690;22;great, classic, everyone, enjoy, great classic, classic everyone, everyone enjoy
+I:8690;23;lease, expect, something, special, special, edition, lease expect, expect something, something special, special special, special edition
+I:8690;24;watch, movie, feature, turn, gain, trivia, watch movie, movie feature, feature turn, turn gain, gain trivia
+I:8690;25;interesting, interview, segment, have, many, main, character, director, composer, screen, writer, producer, more, talk, making, movie, interesting interview, interview segment, segment have, have many, many main, main character, character director, director composer, composer screen, screen writer, writer producer, producer more, more talk, talk making, making movie
+I:8690;26;set, story, scene, footage, set story, story scene, scene footage
+I:8690;27;be, time, favourite, movie, be, excite, see, blu, be time, time favourite, favourite movie, movie be, be excite, excite see, see blu
+I:8690;28;video, transfer, audio, be, excellent, video transfer, transfer audio, audio be, be excellent
+I:8690;29;be, happy, have, library, blu, be happy, happy have, have library, library blu
+I:8690;30;include, neat, special, feature, trivia, game, be, include neat, neat special, special feature, feature trivia, trivia game, game be
+I:8690;31;featurette, disc, new, minute, making, featurette disc, disc new, new minute, minute making
+I:8690;32;gift, set, include, neat, yearbook, gift set, set include, include neat, neat yearbook
+I:8690;33;movie, be, classic, comedy, fill, great, funny, dialogue, funny, situation, movie be, be classic, classic comedy, comedy fill, fill great, great funny, funny dialogue, dialogue funny, funny situation
+I:8690;34;storyline, be, simple, fun, storyline be, be simple, simple fun
+I:8690;35;character, be, smash, character be, be smash
+I:8690;36;act, be, great, cast, act be, be great, great cast
+I:8690;37;soundtrack, include, good, classy, oldy, soundtrack include, include good, good classy, classy oldy
+I:8690;38;movie, be, essential, comedy, make, movie be, be essential, essential comedy, comedy make
+I:8690;39;dialogue, be, hilarious, dialogue be, be hilarious
+I:8690;40;act, great, watch, act great, great watch
+I:8690;41;be, lot, funny, memorable, moment, be lot, lot funny, funny memorable, memorable moment
+I:8690;42;reccomended, anybody, look, good, laugh, reccomended anybody, anybody look, look good, good laugh
+I:8690;43;fantastic, funny, movie, collage, life, fantastic funny, funny movie, movie collage, collage life
+I:8690;44;recommend, title, funny, movie, be, great, recommend title, title funny, funny movie, movie be, be great
+I:8690;45;come, enjoy, time, great, american, comedy, come enjoy, enjoy time, time great, great american, american comedy
+I:8690;46;great, film, finest, decade, history, filmmaking, great film, film finest, finest decade, decade history, history filmmaking
+I:8690;47;classic, film, love, music, classic film, film love, love music
+I:8690;48;house, serve, shelter, such, be, seventh, year, college, nothing, show, less, gpa, play, want, fit, film, be, great, parody, college, life, old, enough, remember, toga, party, appreciate, classic, house serve, serve shelter, shelter such, such be, be seventh, seventh year, year college, college nothing, nothing show, show less, less gpa, gpa play, play want, want fit, fit film, film be, be great, great parody, parody college, college life, life old, old enough, enough remember, remember toga, toga party, party appreciate, appreciate classic
+I:8690;49;be, film, most, people, have, admit, be, great, be film, film most, most people, people have, have admit, admit be, be great
+I:8690;50;be, time, classic, make, laugh, time, watch, be time, time classic, classic make, make laugh, laugh time, time watch
+I:8690;51;be, hilarious, film, delta, fraternity, campus, be hilarious, hilarious film, film delta, delta fraternity, fraternity campus
+I:8690;52;watch, charactor, pull, crazy, stunt, get, anything, want, be, entertaining, funny, watch charactor, charactor pull, pull crazy, crazy stunt, stunt get, get anything, anything want, want be, be entertaining, entertaining funny
+I:8690;53;believe, film, be, classic, recommend, anybody, someone, be, go, college, drinking, go, charactor, be, funny, have, special, trait, make, think, somebody, know, believe film, film be, be classic, classic recommend, recommend anybody, anybody someone, someone be, be go, go college, college drinking, drinking go, go charactor, charactor be, be funny, funny have, have special, special trait, trait make, make think, think somebody, somebody know
+I:8690;54;recommend, movie, anybody, recommend movie, movie anybody
+I:8690;55;be, rare, film, set, new, standard, comedy, sense, clever, storytelling, raise, bar, celebrate, underdog, rebel, establishment, be rare, rare film, film set, set new, new standard, standard comedy, comedy sense, sense clever, clever storytelling, storytelling raise, raise bar, bar celebrate, celebrate underdog, underdog rebel, rebel establishment
+I:8690;56;ideas?despite, issue, think, be, comedy, belong, everyone, collection, ideas?despite issue, issue think, think be, be comedy, comedy belong, belong everyone, everyone collection
+I:8690;57;be, many, classic, line, worth, repeat, be many, many classic, classic line, line worth, worth repeat
+I:8690;58;movie, be, buy, gift, movie be, be buy, buy gift
+I:8690;59;have, be, favorite, classic, long, remember, blu, have be, be favorite, favorite classic, classic long, long remember, remember blu
+I:8690;60;ray, edition, be, great, update, old, version, sit, shelf, ray edition, edition be, be great, great update, update old, old version, version sit, sit shelf
+I:8690;61;funny, classic, line, quote, today, funny classic, classic line, line quote, quote today
+I:8690;62;see, revenge, nerd, little, be, clear, get, best, plot, line, see revenge, revenge nerd, nerd little, little be, be clear, clear get, get best, best plot, plot line
+I:8690;63;fact, beer, be, major, theme, fact beer, beer be, be major, major theme
+I:8690;64;be, imaginative, fellow, do, bother, go, class, be imaginative, imaginative fellow, fellow do, do bother, bother go, go class
+I:8690;65;be, gift, son, be, elect, president, fraternity, be gift, gift son, son be, be elect, elect president, president fraternity
+I:8690;66;give, movie, star, be, possible, give movie, movie star, star be, be possible
+I:8690;67;opinion, be, funniest, movie, opinion be, be funniest, funniest movie
+I:8690;68;be, way, enjoy, funniest, movie, be way, way enjoy, enjoy funniest, funniest movie
+I:8690;69;be, little, disappointed, give, film, star, be, funny, be little, little disappointed, disappointed give, give film, film star, star be, be funny
+I:8690;70;be, greatest, movie, time, format, make, movie, seem, come, alive, be, watch, be greatest, greatest movie, movie time, time format, format make, make movie, movie seem, seem come, come alive, alive be, be watch
+I:8690;71;grant, be, staple, hold, film, be, many, other, do, grant be, be staple, staple hold, hold film, film be, be many, many other, other do
+I:8690;72;classic, compare, classic compare
+I:8690;73;comparison, be, laugh, riot, comparison be, be laugh, laugh riot
+I:8690;74;want, be, entertain, be, look, good, poke, eye, college, life, fit, bill, want be, be entertain, entertain be, be look, look good, good poke, poke eye, eye college, college life, life fit, fit bill
+I:8690;75;be, wacky, tale, fraternity, do, seem, fit, be wacky, wacky tale, tale fraternity, fraternity do, do seem, seem fit
+I:8690;76;definite, see, week, believe, guy, do, good, time, cause, have, definite see, see week, week believe, believe guy, guy do, do good, good time, time cause, cause have
+I:8690;77;be, few, film, treasure, be few, few film, film treasure
+I:8690;78;be, creative, comedy, be, music, be creative, creative comedy, comedy be, be music
+I:8690;79;be, incorrect, harken, time, use, accept, inconsistency, selfishness, unpredictability, human, nature, be incorrect, incorrect harken, harken time, time use, use accept, accept inconsistency, inconsistency selfishness, selfishness unpredictability, unpredictability human, human nature
+I:8690;80;mind, reason, be, rollick, laugh, riot, lift, spirit, mind reason, reason be, be rollick, rollick laugh, laugh riot, riot lift, lift spirit
+I:8690;81;be, excite, special, edition, come, buy, be excite, excite special, special edition, edition come, come buy
+I:8690;82;time, main, feature, come, be, snack, have, pee, time main, main feature, feature come, come be, be snack, snack have, have pee
+I:8690;83;love, movie, extra, be, be, cool, love movie, movie extra, extra be, be be, be cool
+I:8690;84;make, want, join, pos, frat, house, tear, make want, want join, join pos, pos frat, frat house, house tear
+I:8690;85;see, like, see like
+I:8690;86;be, kind, movie, everyone, laugh, be kind, kind movie, movie everyone, everyone laugh
+I:8690;87;humor, be, sophisticated, humor be, be sophisticated
+I:8690;88;film, be, film be
+I:8690;89;know, need, introduction, suffice, say, be, few, mega, hit, comedy, funny, decade, know need, need introduction, introduction suffice, suffice say, say be, be few, few mega, mega hit, hit comedy, comedy funny, funny decade
+I:8690;90;be, significant, many, other, reason, least, be, launch, pad, many, people, thing, be significant, significant many, many other, other reason, reason least, least be, be launch, launch pad, pad many, many people, people thing
+I:8690;91;be, first, film, establish, franchise, remain, successful, equal, be first, first film, film establish, establish franchise, franchise remain, remain successful, successful equal
+I:8690;92;be, first, successful, film, be first, first successful, successful film
+I:8690;93;most, have, go, notable, vary, career, remain, high, point, most have, have go, go notable, notable vary, vary career, career remain, remain high, high point
+I:8690;94;everyone, praise, work, be, movie, make, household, name, standout, performance, be, be, great, comic, portrayal, everyone praise, praise work, work be, be movie, movie make, make household, household name, name standout, standout performance, performance be, be be, be great, great comic, comic portrayal
+I:8690;95;notable, aspect, be, portray, college, experience, many, man, notable aspect, aspect be, be portray, portray college, college experience, experience many, many man
+I:8690;96;film, be, release, be, set, spirit, cross, generation, film be, be release, release be, be set, set spirit, spirit cross, cross generation
+I:8690;97;make, great, gift, college, student, have, strong, potential, bring, various, generation, make great, great gift, gift college, college student, student have, have strong, strong potential, potential bring, bring various, various generation
+I:8690;98;truth, be, valuable, like, deny, truth be, be valuable, valuable like, like deny
+I:8690;99;comment, trailer, cast/crew, biography, comment trailer, trailer cast/crew, cast/crew biography
+I:8690;100;be, hilarious, be, be hilarious, hilarious be
+I:8690;101;comedy, be, much, spirit, film, comedy be, be much, much spirit, spirit film
+I:8690;102;time, fan, love, time fan, fan love
+I:8690;103;give, much, interesting, information, inspiration, movie, making, reaction, aftereffect, manage, be, entertaining, give much, much interesting, interesting information, information inspiration, inspiration movie, movie making, making reaction, reaction aftereffect, aftereffect manage, manage be, be entertaining
+I:8690;104;let, have, long, love, film, appreciate, have, see, have, excuse, continue, wait, let have, have long, long love, love film, film appreciate, appreciate have, have see, see have, have excuse, excuse continue, continue wait
+I:8690;105;animal, be, funniest, subversive, comedy, make, animal be, be funniest, funniest subversive, subversive comedy, comedy make
+I:8690;106;obsess, alcoholic, hmmm, sound, pretty, normal, knack, cause, mayhem, obsess alcoholic, alcoholic hmmm, hmmm sound, sound pretty, pretty normal, normal knack, knack cause, cause mayhem
+I:8690;107;type, set, finding, fulfil, woman, fantasy, type set, set finding, finding fulfil, fulfil woman, woman fantasy
+I:8690;108;be, brilliant, drunken, lunatic, heart, gold, be brilliant, brilliant drunken, drunken lunatic, lunatic heart, heart gold
+I:8690;109;hilarious, humor, magazine, conceive, do, hilarious humor, humor magazine, magazine conceive, conceive do
+I:8690;110;have, small, part, hardbar, have small, small part, part hardbar
+I:8690;111;end, movie, be, characteristic, endeavor, own, fraternity, brother, end movie, movie be, be characteristic, characteristic endeavor, endeavor own, own fraternity, fraternity brother
+I:8690;112;sixty, identify, aspect, movie, sixty identify, identify aspect, aspect movie
+I:8690;113;version, contain, original, movie, lot, interview, involve, create, act, classic, movie, time, version contain, contain original, original movie, movie lot, lot interview, interview involve, involve create, create act, act classic, classic movie, movie time
+I:8690;114;start, franchise, start franchise
+I:8690;115;many, cast, go, star, career, many cast, cast go, go star, star career
+I:8690;116;lot, funny, stuff, film, funny, stuff, lot funny, funny stuff, stuff film, film funny, funny stuff
+I:8690;117;best, moment, belong, late, signature, role, best moment, moment belong, belong late, late signature, signature role
+I:8690;118;national, take, big, risk, produce, taboo, breaking, movie, be, success, open, door, flood, teen, come, age, film, follow, national take, take big, big risk, risk produce, produce taboo, taboo breaking, breaking movie, movie be, be success, success open, open door, door flood, flood teen, teen come, come age, age film, film follow
+I:8690;119;bring, fold, witness, true, diversity, character, be, brother, bring fold, fold witness, witness true, true diversity, diversity character, character be, be brother
+I:8690;120;thing, go, man, call, office, place, double, secret, probation, thing go, go man, man call, call office, office place, place double, double secret, secret probation
+I:8690;121;timeless, humor, film, make, wonder, have, ascend, cult, classic, status, timeless humor, humor film, film make, make wonder, wonder have, have ascend, ascend cult, cult classic, classic status
+I:8690;122;original, witty, comedy, wield, trailblazing, influence, teen/college, comedy, have, earn, place, hallowed, hall, american, cinematic, classic, original witty, witty comedy, comedy wield, wield trailblazing, trailblazing influence, influence teen/college, teen/college comedy, comedy have, have earn, earn place, place hallowed, hallowed hall, hall american, american cinematic, cinematic classic
+I:8690;123;classic, comedy, frat, believe, first, classic comedy, comedy frat, frat believe, believe first
+I:8690;124;have, get, be, most, have get, get be, be most
+I:8690;125;classic, sure, be, expect, movie, do, enjoy, genre, cookie, classic sure, sure be, be expect, expect movie, movie do, do enjoy, enjoy genre, genre cookie
+I:8690;126;little, raunchy, time, love, movie, little raunchy, raunchy time, time love, love movie
+I:8690;127;be, handful, great, film, american, youth, be handful, handful great, great film, film american, american youth
+I:8690;128;american, graffiti, fast, time, dazed, confused, name, few, count, movie, american graffiti, graffiti fast, fast time, time dazed, dazed confused, confused name, name few, few count, count movie
+I:8690;129;be, first, movie, remain, best, be first, first movie, movie remain, remain best
+I:8690;130;have, right, ingredient, great, script, improvisation, great, director, great, cast, include, immortal, hilarious, set, piece, simmer, bit, shocking, subject, matter, time, expletive, sex, drug, have right, right ingredient, ingredient great, great script, script improvisation, improvisation great, great director, director great, great cast, cast include, include immortal, immortal hilarious, hilarious set, set piece, piece simmer, simmer bit, bit shocking, shocking subject, subject matter, matter time, time expletive, expletive sex, sex drug
+I:8690;131;be, period, remain, comedy, classic, be period, period remain, remain comedy, comedy classic
+I:8690;132;classic, comedy, modern, time, classic comedy, comedy modern, modern time
+I:8690;133;funny, inappropriate, child, funny inappropriate, inappropriate child
+I:8690;134;movie, speak, movie speak
+I:8690;135;be, excellent, respects, make, laugh, matter, many, time, see, be excellent, excellent respects, respects make, make laugh, laugh matter, matter many, many time, time see
+I:8690;136;be, original, movie, be, hilarious, be original, original movie, movie be, be hilarious
+I:8690;137;be, be, great, movie, watch, be be, be great, great movie, movie watch
+I:8690;138;be, true, classic, comedy, be true, true classic, classic comedy
+I:8690;139;think, be, best, think be, be best
+I:8690;140;list, source, cult, classic, movie, history, list source, source cult, cult classic, classic movie, movie history
+I:8690;141;be, great, roll, do, great, be, crazy, wild, party, way, be great, great roll, roll do, do great, great be, be crazy, crazy wild, wild party, party way
+I:8690;142;great, experienc, be, know, point, movie, be, good, be, entertaining, fun, movie, onestory, acting, direction, be, %, get, star, great experienc, experienc be, be know, know point, point movie, movie be, be good, good be, be entertaining, entertaining fun, fun movie, movie onestory, onestory acting, acting direction, direction be, be %, % get, get star
+I:8690;143;be, feel, be feel
+I:8690;144;bright, spot, be, performance, be, muddle, bright spot, spot be, be performance, performance be, be muddle
+I:8690;145;classic, movie, collage, guy, party, check, out, girl, do, crazy, crap, classic movie, movie collage, collage guy, guy party, party check, check out, out girl, girl do, do crazy, crazy crap
+I:8690;146;love, have, movie, love have, have movie
+I:8690;147;loving, memory, comedian, deliver, funny, role, movie, loving memory, memory comedian, comedian deliver, deliver funny, funny role, role movie
+I:8690;148;thanks, do, thanks do
+I:8690;149;bring, memory, good, friend, school, bring memory, memory good, good friend, friend school
+I:8690;150;classic, enjoy, watch, classic enjoy, enjoy watch
+I:8690;151;funny, year, funny year
+I:8690;152;be, good, old, humor, time, see, be good, good old, old humor, humor time, time see
+I:8690;153;be, time, classic, movie, be time, time classic, classic movie
+I:8690;154;movie, judge, other, people, character, movie judge, judge other, other people, people character
+I:8690;155;be, hope, share, wife, be hope, hope share, share wife
+I:8690;156;true, comedy, classic, funniest, film, make, true comedy, comedy classic, classic funniest, funniest film, film make
+I:8690;157;know, be, come, very, line, actor, be, go, say, gag, be, funny, know be, be come, come very, very line, line actor, actor be, be go, go say, say gag, gag be, be funny
+I:8690;158;stepson, have, see, think, be, great, stock, stuffer, stepson have, have see, see think, think be, be great, great stock, stock stuffer
+I:8690;159;remove, original, classic, music, film, remove original, original classic, classic music, music film
+I:8690;160;be, madcap, comedy, be, sweet, touching, film, be madcap, madcap comedy, comedy be, be sweet, sweet touching, touching film
+I:8690;161;character, be, such, great, fun, be, sad, see, height, comedy, power, be, make, big, break, character be, be such, such great, great fun, fun be, be sad, sad see, see height, height comedy, comedy power, power be, be make, make big, big break
+I:8690;162;best, movie, make, perfect, cast, perfect, writing, perfect, story, line, watch, movie, time, love, best movie, movie make, make perfect, perfect cast, cast perfect, perfect writing, writing perfect, perfect story, story line, line watch, watch movie, movie time, time love
+I:8690;163;be, classic, one, afford, miss, be classic, classic one, one afford, afford miss
+I:8690;164;see, best, see best
+I:8690;165;film, have, know, actor, play, good, support, role, film have, have know, know actor, actor play, play good, good support, support role
+I:8690;166;be, superb, film, be superb, superb film
+I:8690;167;be, get, great, role, do, other, fit, dialogue, scene, be get, get great, great role, role do, do other, other fit, fit dialogue, dialogue scene
+I:8690;168;watch, need, good, laugh, watch need, need good, good laugh
+I:8690;169;be, best, be best
+I:8690;170;time, favorite, high, time favorite, favorite high
+I:8690;171;school, day, best, friend, quote, school day, day best, best friend, friend quote
+I:8690;172;movie, make, laugh, time, movie make, make laugh, laugh time
+I:8690;173;come, great, packageing, come great, great packageing
+I:8690;174;thanks, great, movie, thanks great, great movie
+I:8690;175;best, goofy, character, act, have, see, best goofy, goofy character, character act, act have, have see
+I:8690;176;see, laugh, be, first, time, have, see, see laugh, laugh be, be first, first time, time have, have see
+I:8690;177;funniest, movie, have, see, funniest movie, movie have, have see
+I:8690;178;couple, year, have, watch, couple year, year have, have watch
+I:8690;179;be, top, game, wonderful, film, be top, top game, game wonderful, wonderful film
+I:8690;180;be, such, massive, comic, force, laugh, turn, eyebrow, be such, such massive, massive comic, comic force, force laugh, laugh turn, turn eyebrow
+I:8690;181;film, be, grace, excellent, young, cast, be, elevate, film, comic, nirvana, film be, be grace, grace excellent, excellent young, young cast, cast be, be elevate, elevate film, film comic, comic nirvana
+I:8690;182;humor, hold, today, seem, little, innocent, light, brother, american, creator, have, bring, screen, humor hold, hold today, today seem, seem little, little innocent, innocent light, light brother, brother american, american creator, creator have, have bring, bring screen
+I:8690;183;enjoy, innocent, fratboy, humor, film, take, be, enjoy innocent, innocent fratboy, fratboy humor, humor film, film take, take be
+I:8690;184;movie, be, funniest, movie, time, movie be, be funniest, funniest movie, movie time
+I:8690;185;be, be, funniest, man, time, be be, be funniest, funniest man, man time
+I:8690;186;be, comedic, classic, great, act, number, know, actor, future, be comedic, comedic classic, classic great, great act, act number, number know, know actor, actor future
+I:8690;187;see, entirety, first, time, realize, cultural, impact, be, have, year, theatrical, release, see entirety, entirety first, first time, time realize, realize cultural, cultural impact, impact be, be have, have year, year theatrical, theatrical release
+I:8690;188;film, do, do, think, be, case, film do, do do, do think, think be, be case
+I:8690;189;have, live, have, graduate, dramatic, role, counterpart, have live, live have, have graduate, graduate dramatic, dramatic role, role counterpart
+I:8690;190;remain, enjoyable, film, doubt, continue, be, source, other, college, remain enjoyable, enjoyable film, film doubt, doubt continue, continue be, be source, source other, other college
+I:8690;191;release, film, remain, funniest, movie, produce, release film, film remain, remain funniest, funniest movie, movie produce
+I:8690;192;rival, comedy, rival comedy
+I:8690;193;play, be, member, fraternity, play be, be member, member fraternity
+I:8690;194;be, see, movie, anyone, experience, fraternity, life, late, early, be see, see movie, movie anyone, anyone experience, experience fraternity, fraternity life, life late, late early
+I:8690;195;sound, track, be, excellent, vehicle, return, viewer, time, go, sound track, track be, be excellent, excellent vehicle, vehicle return, return viewer, viewer time, time go
+I:8690;196;everyone, top, pick, comedy, everyone top, top pick, pick comedy
+I:8690;197;want, blast, past, recapture, magic, moment, great, actor, actress, be, want blast, blast past, past recapture, recapture magic, magic moment, moment great, great actor, actor actress, actress be
+I:8690;198;be, thanks, laugh, be thanks, thanks laugh
+I:8690;199;classic, slob, comedy, be, par, refined, nostalgia, piece, summer, give, frank, look, fraternity, life, classic slob, slob comedy, comedy be, be par, par refined, refined nostalgia, nostalgia piece, piece summer, summer give, give frank, frank look, look fraternity, fraternity life
+I:8690;200;be, certain, irony, fact, rowdy, member, fraterinity, become, leader, more, straight, be certain, certain irony, irony fact, fact rowdy, rowdy member, member fraterinity, fraterinity become, become leader, leader more, more straight
+I:8690;201;arrive, stately, arrive stately
+I:8690;202;friendly, chat, make, mind, become, delta, legacy, follow, suit, friendly chat, chat make, make mind, mind become, become delta, delta legacy, legacy follow, follow suit
+I:8690;203;make, early, appearance, new, member, make early, early appearance, appearance new, new member
+I:8690;204;be, amusing, see, later, life, channel, energy, libido, more, constructive, profession, be amusing, amusing see, see later, later life, life channel, channel energy, energy libido, libido more, more constructive, constructive profession
+I:8690;205;film, be, classic, film be, be classic
+I:8690;206;great, actor, today, be, film, great actor, actor today, today be, be film
+I:8690;207;video, transfer, be, good, video transfer, transfer be, be good
+I:8690;208;be, clean, print, pop, other, defect, be clean, clean print, print pop, pop other, other defect
+I:8690;209;be, dobly, do, adequate, job, be dobly, dobly do, do adequate, adequate job
+I:8690;210;give, movie, welcome, college, gift, niece, nephew, 2nd, semester, freshman, year, give movie, movie welcome, welcome college, college gift, gift niece, niece nephew, nephew 2nd, 2nd semester, semester freshman, freshman year
+I:8690;211;be, kind, movie, watch, year, enjoy, be kind, kind movie, movie watch, watch year, year enjoy
+I:8690;212;be, timeless, be, validity, be timeless, timeless be, be validity
+I:8690;213;take, time, learn, more, movie, cast, film, appreciate, be, kind, genre, take time, time learn, learn more, more movie, movie cast, cast film, film appreciate, appreciate be, be kind, kind genre
+I:8690;214;gentleman, be, brief, gentleman be, be brief
+I:8690;215;laugh, hard, do, first, time, see, laugh hard, hard do, do first, first time, time see
+I:8690;216;be, more, funny, film, be more, more funny, funny film
+I:8690;217;be, lot, funny, film, be lot, lot funny, funny film
+I:8690;218;make, special, be, overdrawn, accurate, portrayal, college, life, make special, special be, be overdrawn, overdrawn accurate, accurate portrayal, portrayal college, college life
+I:8690;219;someone, spend, year, college, additional, year, grad, school, decade, teach, college, level, resonate, man, fraternity, wind, get, best, self, someone spend, spend year, year college, college additional, additional year, year grad, grad school, school decade, decade teach, teach college, college level, level resonate, resonate man, man fraternity, fraternity wind, wind get, get best, best self
+I:8690;220;important, few, have, root, underdog, stick, man, important few, few have, have root, root underdog, underdog stick, stick man
+I:8690;221;be, house, do, way, hilarious, fitting, be house, house do, do way, way hilarious, hilarious fitting
+I:8690;222;fact, film, have, engender, knockoff, such, be, testimony, landmark, status, enduring, value, fact film, film have, have engender, engender knockoff, knockoff such, such be, be testimony, testimony landmark, landmark status, status enduring, enduring value
+I:8690;223;hit, nail, head, hit nail, nail head
+I:8690;224;have, be, fan, movie, theatrical, release, give, movie, star, have be, be fan, fan movie, movie theatrical, theatrical release, release give, give movie, movie star
+I:8690;225;fine, wine, be, worth, wait, fine wine, wine be, be worth, worth wait
+I:8690;226;be, pioneering, movie, party, movie, genre, be pioneering, pioneering movie, movie party, party movie, movie genre
+I:8690;227;watch, much, any, party, movie, today, see, influence, ah, watch much, much any, any party, party movie, movie today, today see, see influence, influence ah
+I:8690;228;above, offend, do, best, skip, flick, above offend, offend do, do best, best skip, skip flick
+I:8690;229;sake, nostalgia, film, be, look, sake nostalgia, nostalgia film, film be, be look
+I:8690;230;remember, be, ok, visit, remember be, be ok, ok visit
+I:8690;231;see, movie, be, fan, see movie, movie be, be fan
+I:8690;232;be, gross, wicked, funny, touching, smart, comedy, go, show, college, life, be, like, day, be gross, gross wicked, wicked funny, funny touching, touching smart, smart comedy, comedy go, go show, show college, college life, life be, be like, like day
+I:8690;233;tell, music, tell music
+I:8690;234;handful, laugh, faternity, style, prank, college, binge, drinking, atmosphere, fill, enough, laugh, rest, real, handful laugh, laugh faternity, faternity style, style prank, prank college, college binge, binge drinking, drinking atmosphere, atmosphere fill, fill enough, enough laugh, laugh rest, rest real
+I:8690;235;movie, be, great, condition, movie be, be great, great condition
+I:8690;236;be, great, movie, be great, great movie
+I:8690;237;people, mother, people mother
+I:8690;238;see, movie, think, be, blast, time, see, get, see movie, movie think, think be, be blast, blast time, time see, see get
+I:8690;239;be, live, age, american, movie, have, raise, bar, kind, humor, be live, live age, age american, american movie, movie have, have raise, raise bar, bar kind, kind humor
+I:8690;240;find, little, humor, find little, little humor
+I:8690;241;only, thing, save, be, complete, turd, be, good, acting, only thing, thing save, save be, be complete, complete turd, turd be, be good, good acting
+I:8690;242;everything, good, movie, have, find, condiser, best, movie, be, bear, year, everything good, good movie, movie have, have find, find condiser, condiser best, best movie, movie be, be bear, bear year
+I:8690;243;great, movei, get, good, friend, be, tell, much, love, movie, great movei, movei get, get good, good friend, friend be, be tell, tell much, much love, love movie
+I:8690;244;have, do, be, expect, classic, have do, do be, be expect, expect classic
+I:8690;245;be, wonderful, presentation, be wonderful, wonderful presentation
+I:8690;246;do, recommend, bonus, material, movie, be, great, do recommend, recommend bonus, bonus material, material movie, movie be, be great
+I:8690;247;be, good, movie, go, time, watch, few, year, be good, good movie, movie go, go time, time watch, watch few, few year
+I:8690;248;classic, spawn, toga, party, world, classic spawn, spawn toga, toga party, party world
+I:8690;249;recommend, watch, find, attend, toga, party, recommend watch, watch find, find attend, attend toga, toga party
+I:8690;250;everyone, watch, movie, while, everyone watch, watch movie, movie while
+I:8690;251;film, be, good, film be, be good
+I:8690;252;accurate, nostalgia, look, life, change, accurate nostalgia, nostalgia look, look life, life change
+I:8690;253;age, actor, give, old, college, try, result, be, vibrant, age actor, actor give, give old, old college, college try, try result, result be, be vibrant
+I:8690;254;new, disc, image, range, ok, good, audio, upgrade, add, punch, comedy, grace, straight, new disc, disc image, image range, range ok, ok good, good audio, audio upgrade, upgrade add, add punch, punch comedy, comedy grace, grace straight
+I:8690;255;come, head, college, come head, head college
+I:8690;256;have, watch, movie, many, time, enjoy, antic, fellow, have watch, watch movie, movie many, many time, time enjoy, enjoy antic, antic fellow
+I:8690;257;amazing, stunt, get, amazing stunt, stunt get
+I:8690;258;have, great, time, watch, holiday, have great, great time, time watch, watch holiday
+I:8690;259;special, edition, have, great, addition, special edition, edition have, have great, great addition
+I:8690;260;like, comedy, many, sequel, ilk, amuse, end, rank, best, franchise, like comedy, comedy many, many sequel, sequel ilk, ilk amuse, amuse end, end rank, rank best, best franchise
+I:8690;261;be, amusing, good, main, course, humour, be amusing, amusing good, good main, main course, course humour
+I:8690;262;wise, be, nice, touch, wise be, be nice, nice touch
+I:8690;263;tire, movie, great, line, tire movie, movie great, great line
+I:8690;264;ultimate, party, flick, edition, deliver, fan, ultimate party, party flick, flick edition, edition deliver, deliver fan
+I:8690;265;relive, prank, wild, celebration, late, great, relive prank, prank wild, wild celebration, celebration late, late great
+I:8690;266;movie, be, fantastic, description, situation, exciting, example, sort, alternative, social, circle, movie be, be fantastic, fantastic description, description situation, situation exciting, exciting example, example sort, sort alternative, alternative social, social circle
+I:8690;267;watch, movie, find, impressed, unity, group, be, divide, social, circle, senior, high, be, least, be, hostile, bac, watch movie, movie find, find impressed, impressed unity, unity group, group be, be divide, divide social, social circle, circle senior, senior high, high be, be least, least be, be hostile, hostile bac
+I:8690;268;person, movie, be, person, have, know, person movie, movie be, be person, person have, have know
+I:8690;269;send, kid, grandmama, draw, shades, turn, volume, invite, few, close, friend, enjoy, send kid, kid grandmama, grandmama draw, draw shades, shades turn, turn volume, volume invite, invite few, few close, close friend, friend enjoy
+I:8690;270;college, movie, begin, end, little, film, call, college movie, movie begin, begin end, end little, little film, film call
+I:8690;271;foray, movie, first, time, have, succeed, radio, magazine, raucous, classic, have, everything, want, comedy, memorable, character, quote, party, great, soundtrack, group, unknown, become, star, overnight, foray movie, movie first, first time, time have, have succeed, succeed radio, radio magazine, magazine raucous, raucous classic, classic have, have everything, everything want, want comedy, comedy memorable, memorable character, character quote, quote party, party great, great soundtrack, soundtrack group, group unknown, unknown become, become star, star overnight
+I:8690;272;say, bring, mind, say bring, bring mind
+I:8690;273;be, best, character, hand, speech, get, be, be, classic, yell, be, bomb, be best, best character, character hand, hand speech, speech get, get be, be be, be classic, classic yell, yell be, be bomb
+I:8690;274;see, watch, see watch
+I:8690;275;love, end, tell, charactor, go, become, love end, end tell, tell charactor, charactor go, go become
+I:8690;276;movie, be, classic, year, original, movie be, be classic, classic year, year original
+I:8690;277;be, cult, classic, be cult, cult classic
+I:8690;278;many, party, scene, be, exaggerated, succeed, paint, accurate, comedic, portrait, fraternity, life, college, campus, many party, party scene, scene be, be exaggerated, exaggerated succeed, succeed paint, paint accurate, accurate comedic, comedic portrait, portrait fraternity, fraternity life, life college, college campus
+I:8690;279;try, night, need, something, make, feel, good, yearn, younger, day, try night, night need, need something, something make, make feel, feel good, good yearn, yearn younger, younger day
+I:8690;280;film, poke, fun, good, old, fashion, campus, antic, film poke, poke fun, fun good, good old, old fashion, fashion campus, campus antic
+I:8690;281;be, standout, career, have, get, recognition, deserve, be standout, standout career, career have, have get, get recognition, recognition deserve
+I:8690;282;cool, aplomb, make, film, work, score, do, self, parody, own, swashbuckling, buccaneer, score, antic, parade, cool aplomb, aplomb make, make film, film work, work score, score do, do self, self parody, parody own, own swashbuckling, swashbuckling buccaneer, buccaneer score, score antic, antic parade
+I:8690;283;gross, folk, great, character, lead, prime, campus, anticsanchoring, whole, movie, gross folk, folk great, great character, character lead, lead prime, prime campus, campus anticsanchoring, anticsanchoring whole, whole movie
+I:8690;284;good, own, be, hilarious, year, stand, repeat, viewing, .3, good own, own be, be hilarious, hilarious year, year stand, stand repeat, repeat viewing, viewing .3
+I:8690;285;be, quotable, comedy, time, be quotable, quotable comedy, comedy time
+I:8690;286;other, fan, play, non, other fan, fan play, play non
+I:8690;287;funniest, film, rest, cast, be, greatand, late, score, be, great, funniest film, film rest, rest cast, cast be, be greatand, greatand late, late score, score be, be great
+I:8690;288;movie, be, timeless, hit, be, view, movie be, be timeless, timeless hit, hit be, be view
+I:8690;289;movie, actor, be, hilarious, movie actor, actor be, be hilarious
+I:8690;290;comedy, be, twisted, be, hilarious, comedy be, be twisted, twisted be, be hilarious
+I:8690;291;be, popular, movie, history, comedy, be popular, popular movie, movie history, history comedy
+I:8690;292;double, secret, probation, edition, rock, love, bonus, material, double secret, secret probation, probation edition, edition rock, rock love, love bonus, bonus material
+I:8690;293;entire, movie, base, college, party, life, be, real, funny, entire movie, movie base, base college, college party, party life, life be, be real, real funny
+I:8690;294;obscene, ludicrous, piece, fine, entertainment, obscene ludicrous, ludicrous piece, piece fine, fine entertainment
+I:8690;295;soundtrack, be, great, knight, love, special, feature, soundtrack be, be great, great knight, knight love, love special, special feature
+I:8690;296;have, see, several, great, comedy, film, nothing, top, find, great, classic, have see, see several, several great, great comedy, comedy film, film nothing, nothing top, top find, find great, great classic
+I:8690;297;cafeteria, scene, be, best, end, food, fight, cafeteria scene, scene be, be best, best end, end food, food fight
+I:8690;298;cast, crew, arrive, find, experience, cast crew, crew arrive, arrive find, find experience
+I:8690;299;be, great, classic, avid, fan, have, know, premiere, be great, great classic, classic avid, avid fan, fan have, have know, know premiere
+I:8690;300;great, movie, bad, greedy, suit, get, way, great movie, movie bad, bad greedy, greedy suit, suit get, get way
+I:8690;301;industry, wish, receive, more, have, start, treat, be, individual, right, choose, watch, movie, industry wish, wish receive, receive more, more have, have start, start treat, treat be, be individual, individual right, right choose, choose watch, watch movie
+I:8690;302;be, best, landis/belushi, movie, time, be best, best landis/belushi, landis/belushi movie, movie time
+I:8690;303;be, special, feature, such, be, featurette, feature, many, original, cast, course, be special, special feature, feature such, such be, be featurette, featurette feature, feature many, many original, original cast, cast course
+I:8690;304;best, bet, be, go, make, popcorn, come, best bet, bet be, be go, go make, make popcorn, popcorn come
+I:8690;305;point, be, do, enjoy, excellent, funny, parody, life, frat, house, late, 60, point be, be do, do enjoy, enjoy excellent, excellent funny, funny parody, parody life, life frat, frat house, house late, late 60
+I:8690;306;be, funny, movie, best, comedy, movie, make, movie, history, be funny, funny movie, movie best, best comedy, comedy movie, movie make, make movie, movie history
+I:8690;307;agree, many, people, need, good, great, laugh, watch, movie, enjoy, everything, have, offer, fan, movie, agree many, many people, people need, need good, good great, great laugh, laugh watch, watch movie, movie enjoy, enjoy everything, everything have, have offer, offer fan, fan movie
+I:8690;308;give, star, number, laugh, have, watch, have, watch, mutiple, time, year, buy, give star, star number, number laugh, laugh have, have watch, watch have, have watch, watch mutiple, mutiple time, time year, year buy
+I:8690;309;like, movie, have, people, rebele, college, love, like movie, movie have, have people, people rebele, rebele college, college love
+I:8690;310;be, funniest, film, see, be funniest, funniest film, film see
+I:8690;311;laugh, time, see, laugh time, time see
+I:8690;312;film, be, year, old, make, laugh, watch, have, classic, film be, be year, year old, old make, make laugh, laugh watch, watch have, have classic
+I:8690;313;be, date, release, huge, hit, be date, date release, release huge, huge hit
+I:8690;314;be, several, actor, actress, star, film, familiar, face, come, star, be several, several actor, actor actress, actress star, star film, film familiar, familiar face, face come, come star
+I:8690;315;animal, be, base, fraternity, animal be, be base, base fraternity
+I:8690;316;do, require, much, thought, analysis, watch, understand, be, entertaining, get, do require, require much, much thought, thought analysis, analysis watch, watch understand, understand be, be entertaining, entertaining get
+I:8690;317;c'mon, decent, easter, egg, sake, get, advertising, other, way, c'mon decent, decent easter, easter egg, egg sake, sake get, get advertising, advertising other, other way
+I:8690;318;comedy, generation, take, place, era, comedy generation, generation take, take place, place era
+I:8690;319;assortment, misfit, be, recognizable, assortment misfit, misfit be, be recognizable
+I:8690;320;be, gung, ho, rotc, officer, drop, give, be gung, gung ho, ho rotc, rotc officer, officer drop, drop give
+I:8690;321;statue, college, founder, be, funny, knowledge, be, good, statue college, college founder, founder be, be funny, funny knowledge, knowledge be, be good
+I:8690;322;be, greatest, movie, time, be greatest, greatest movie, movie time
+I:8690;323;be, much, funnier, be, be much, much funnier, funnier be
+I:8690;324;movie, be, funny, movie be, be funny
+I:8690;325;think, mean, spitited, humor, see, someone, bully, weak, everything, movie, be, super, keen, funny, think mean, mean spitited, spitited humor, humor see, see someone, someone bully, bully weak, weak everything, everything movie, movie be, be super, super keen, keen funny
+I:8690;326;most, great, movie, be, famous, most, french, people, love, american, movie, most great, great movie, movie be, be famous, famous most, most french, french people, people love, love american, american movie
+I:8690;327;think, give, try, think give, give try
+I:8690;328;time, favorite, movie, be, gon, be, time favorite, favorite movie, movie be, be gon, gon be
+I:8690;329;come, recommend, come recommend
+I:8690;330;be, good, be good
+I:8690;331;cast, be, bind, be, classic, remain, way, year, come, cast be, be bind, bind be, be classic, classic remain, remain way, way year, year come
+I:8690;332;crazy, character, ox, knight, black, club, walk, hilarious, crazy character, character ox, ox knight, knight black, black club, club walk, walk hilarious
+I:8690;333;enjoy, movie, remind, college, day, enjoy movie, movie remind, remind college, college day
+I:8690;334;wonderful, addition, collection, wonderful addition, addition collection
+I:8690;335;seem, belie, spirit, social, anarchy, film, celebrate, seem belie, belie spirit, spirit social, social anarchy, anarchy film, film celebrate
+I:8690;336;likable, funny, actor, begin, film, skate, right, uncomfortableness, do, wonderful, comic, actress, likable funny, funny actor, actor begin, begin film, film skate, skate right, right uncomfortableness, uncomfortableness do, do wonderful, wonderful comic, comic actress
+I:8690;337;ed, have, film, funniest, moment, ed have, have film, film funniest, funniest moment
+I:8690;338;favorite, movie, time, favorite, favorite movie, movie time, time favorite
+I:8690;339;buy, movie, grandson, be, pledge, fraternity, other, pledge, love, buy movie, movie grandson, grandson be, be pledge, pledge fraternity, fraternity other, other pledge, pledge love
+I:8690;340;buy, see, many, year, know, great, movie, be, buy see, see many, many year, year know, know great, great movie, movie be
+I:8690;341;be, involve, sorority, have, see, movie, be involve, involve sorority, sorority have, have see, see movie
+I:8690;342;get, lot, attention, several, scene, be, many, other, make, movie, endure, laugh, get lot, lot attention, attention several, several scene, scene be, be many, many other, other make, make movie, movie endure, endure laugh
+I:8690;343;classic, comedy, bring, many, memory, classic comedy, comedy bring, bring many, many memory
+I:8690;344;experience, great, parady, college, life, experience great, great parady, parady college, college life
+I:8690;345;laugh, hard, think, be, go, wet, pants, laugh hard, hard think, think be, be go, go wet, wet pants
+I:8690;346;love, love, love love
+I:8690;347;movie, be, timeless, comedy, movie be, be timeless, timeless comedy
+I:8690;348;be, greatest, american, comedy, film, be greatest, greatest american, american comedy, comedy film
+I:8690;349;take, movie, prove, doubt, genius, take movie, movie prove, prove doubt, doubt genius
+I:8690;350;have, hilarious, dialogue, silent, scene, be, amazing, have hilarious, hilarious dialogue, dialogue silent, silent scene, scene be, be amazing
+I:8690;351;have, expressive, face, film, raise, eyebrow, leer, see, character, think, have expressive, expressive face, face film, film raise, raise eyebrow, eyebrow leer, leer see, see character, character think
+I:8690;352;death, rob, charismatic, actor/comedian, death rob, rob charismatic, charismatic actor/comedian
+I:8690;353;belushi, play, seedier, member, degenerate, fun, belushi play, play seedier, seedier member, member degenerate, degenerate fun
+I:8690;354;movie, do, genuine, wit, movie do, do genuine, genuine wit
+I:8690;355;patriotism, honesty, sobriety, chastity, american, way, race, relation, conservatism, liberalism, intelligence, stupidity, patriotism honesty, honesty sobriety, sobriety chastity, chastity american, american way, way race, race relation, relation conservatism, conservatism liberalism, liberalism intelligence, intelligence stupidity
+I:8690;356;serve, poppyseed, bun, order, fries, serve poppyseed, poppyseed bun, bun order, order fries
+I:8690;357;special, edition, include, sweet, widescreen, print, film, little, dark, place, biographies/filmographies, actor, fun, featurette, feature, many, original, star, reminisce, make, movie, special edition, edition include, include sweet, sweet widescreen, widescreen print, print film, film little, little dark, dark place, place biographies/filmographies, biographies/filmographies actor, actor fun, fun featurette, featurette feature, feature many, many original, original star, star reminisce, reminisce make, make movie
+I:8690;358;time, favorite, movie, time favorite, favorite movie
+I:8690;359;be, happy, be, blu, be happy, happy be, be blu
+I:8690;360;perfect, blend, perfect blend
+I:8690;361;humor, slapstick, yuck, humor slapstick, slapstick yuck
+I:8690;362;be, gonzo, portrayal, remain, iconic, help, make, former, cast, member, bigtime, comic, star, be gonzo, gonzo portrayal, portrayal remain, remain iconic, iconic help, help make, make former, former cast, cast member, member bigtime, bigtime comic, comic star
+I:8690;363;find, make, same, time, frame, enjoyable, find make, make same, same time, time frame, frame enjoyable
+I:8690;364;blame, disaffection, rest, numerous, spoof, various, homage, reference, other, popular, culture, offering, have, appear, year, blame disaffection, disaffection rest, rest numerous, numerous spoof, spoof various, various homage, homage reference, reference other, other popular, popular culture, culture offering, offering have, have appear, appear year
+I:8690;365;original, be, view, heighten, expectation, pale, bit, original be, be view, view heighten, heighten expectation, expectation pale, pale bit
+I:8690;366;rousing, speech, end, be, masterful, rousing speech, speech end, end be, be masterful
+I:8690;367;feel, apreciate, get, visit, gravesite, feel apreciate, apreciate get, get visit, visit gravesite
+I:8690;368;classic, film, deserve, better, classic film, film deserve, deserve better
+I:8690;369;movie, be, classic, anyone, be, be, want, be, college, need, see, movie, movie be, be classic, classic anyone, anyone be, be be, be want, want be, be college, college need, need see, see movie
+I:8690;370;movie, be, classic, funny, movie, movie be, be classic, classic funny, funny movie
+I:8690;371;antic, movie, make, worth, watch, antic movie, movie make, make worth, worth watch
+I:8690;372;watch, have, drop, give, watch have, have drop, drop give
+I:8690;373;be, favorite, actor, have, few, movie, death, enjoy, be favorite, favorite actor, actor have, have few, few movie, movie death, death enjoy
+I:8690;374;be, frat, boy, love, genre, movie, be frat, frat boy, boy love, love genre, genre movie
+I:8690;375;say, bring, tear, eye, say bring, bring tear, tear eye
+I:8690;376;be, greatest, best, college, movie, make, be greatest, greatest best, best college, college movie, movie make
+I:8690;377;incomming, freshman, orientation, incomming freshman, freshman orientation
+I:8690;378;bat, be, best, movie, bat be, be best, best movie
+I:8690;379;be, best, frat/college, movie, be, be best, best frat/college, frat/college movie, movie be
+I:8690;380;john, be, hilarious, favorite, character, john be, be hilarious, hilarious favorite, favorite character
+I:8690;381;scene, horse, new, pledge, be, funny, scene horse, horse new, new pledge, pledge be, be funny
+I:8690;382;amazing, movie, spectacular, cast, amazing movie, movie spectacular, spectacular cast
+I:8690;383;remind, college, friend, time, fun, remind college, college friend, friend time, time fun
+I:8690;384;movie, see, love, kid, have, see, few, time, movie see, see love, love kid, kid have, have see, see few, few time
+I:8690;385;love, know, lot, line, recite, whe, movie, love know, know lot, lot line, line recite, recite whe, whe movie
+I:8690;386;laugh, scene, time, have, mellow, laugh scene, scene time, time have, have mellow
+I:8690;387;funniest, movie, funniest movie
+I:8690;388;grandkid, tiurn, grandkid tiurn
+I:8690;389;be, great, xmas, gift, niece, love, be great, great xmas, xmas gift, gift niece, niece love
+I:8690;390;be, best, movie, come, world, be best, best movie, movie come, come world
+I:8690;391;movie, be, hilarious, raunchy, humor, movie be, be hilarious, hilarious raunchy, raunchy humor
+I:8690;392;best, american, comedy, time, be, system, best american, american comedy, comedy time, time be, be system
+I:8690;393;fraternity, brother, rebellion, be, way, life, fraternity brother, brother rebellion, rebellion be, be way, way life
+I:8690;394;love, film, love film
+I:8690;395;be, huge, fan, late, great, first, time, see, know, right, be, enjoyable, be huge, huge fan, fan late, late great, great first, first time, time see, see know, know right, right be, be enjoyable
+I:8690;396;do, have, many, scene, be, sure, other, agree, steal, show, deliver, performance, have, immortalize, do have, have many, many scene, scene be, be sure, sure other, other agree, agree steal, steal show, show deliver, deliver performance, performance have, have immortalize
+I:8690;397;rest, cast, include, name, few, bring, life, wacky, character, forget!i, recommend, movie, rest cast, cast include, include name, name few, few bring, bring life, life wacky, wacky character, character forget!i, forget!i recommend, recommend movie
+I:8690;398;be, release, universal, studio, be release, release universal, universal studio
+I:8690;399;film, win, people, choice, award, favorite, non, film win, win people, people choice, choice award, award favorite, favorite non
+I:8690;400;summary, cast, be, great, summary cast, cast be, be great
+I:8690;401;add, great, road, trip, fun, town, parade, have, great, movie, add great, great road, road trip, trip fun, fun town, town parade, parade have, have great, great movie
+I:8690;402;enjoy, biography, disc, yearbook, photo, be, enjoy biography, biography disc, disc yearbook, yearbook photo, photo be
+I:8690;403;watch, be, kind, surprised, language, movie, make, watch be, be kind, kind surprised, surprised language, language movie, movie make
+I:8690;404;be, funniest, comedy, make, be funniest, funniest comedy, comedy make
+I:8690;405;movie, be, great, many, year, come, movie be, be great, great many, many year, year come
+I:8690;406;be, college, classic, popular, today, be college, college classic, classic popular, popular today
+I:8690;407;be, movie, be, hillarious, generation, be movie, movie be, be hillarious, hillarious generation
+I:8690;408;college, student, enjoy, good, party, college student, student enjoy, enjoy good, good party
+I:8690;409;movie, be, best, national, movie, make, movie be, be best, best national, national movie, movie make
+I:8690;410;everyone, watch, least, time, life, everyone watch, watch least, least time, time life
+I:8690;411;bizarre, top, be, hilarious, portrayal, loser, college, join, frat, seek, revenge, administration, bizarre top, top be, be hilarious, hilarious portrayal, portrayal loser, loser college, college join, join frat, frat seek, seek revenge, revenge administration
+I:8690;412;have, make, requirement, come, sentence, have make, make requirement, requirement come, come sentence
+I:8690;413;be, late, best, film, other, film, be, timeless, comedy, classic, guanteed, kepp, laugh, be late, late best, best film, film other, other film, film be, be timeless, timeless comedy, comedy classic, classic guanteed, guanteed kepp, kepp laugh
+I:8690;414;be, film, watch, year, laugh, time, be film, film watch, watch year, year laugh, laugh time
+I:8690;415;have, see, least, dozen, time, be, funny, be, first, time, watch, have see, see least, least dozen, dozen time, time be, be funny, funny be, be first, first time, time watch
+I:8690;416;make, fun, family, movie, night, make fun, fun family, family movie, movie night
+I:8690;417;be, happy, get, have, watch, many, time, be happy, happy get, get have, have watch, watch many, many time
+I:8690;418;be, classic, house, be classic, classic house
+I:8690;419;shipping, be, time, perfect, condition, shipping be, be time, time perfect, perfect condition
+I:8690;420;film, be, film, like, most, film be, be film, film like, like most
+I:8690;421;love, era, be, bear, love era, era be, be bear
+I:8690;422;have, smell, era, have smell, smell era
+I:8690;423;classic, confuse, sadden, classic confuse, confuse sadden
+I:8690;424;be, plenty, way, view, schooling, system, work, dead, poet, be plenty, plenty way, way view, view schooling, schooling system, system work, work dead, dead poet
+I:8690;425;gift, son, rugby, house, seem, enjoy, have, collection, gift son, son rugby, rugby house, house seem, seem enjoy, enjoy have, have collection
+I:8690;426;be, hilarious, look, college, greek, life, be hilarious, hilarious look, look college, college greek, greek life
+I:8690;427;be, appropriate, older, teens, adult, be appropriate, appropriate older, older teens, teens adult
+I:8690;428;like, best, be, remind, 70, like best, best be, be remind, remind 70
+I:8690;429;remind, hippie, generation, be, part, remind hippie, hippie generation, generation be, be part
+I:8690;430;john, character, be, great, watch, john character, character be, be great, great watch
+I:8690;431;have, wonderful, gentle, absurd, sense, humor, have wonderful, wonderful gentle, gentle absurd, absurd sense, sense humor
+I:8690;432;be, diamond, cast, be diamond, diamond cast
+I:8690;433;rest, performer, be, dwarf, talent, rest performer, performer be, be dwarf, dwarf talent
+I:8690;434;see, white, girl, be, fine, be, attack, see white, white girl, girl be, be fine, fine be, be attack
+I:8690;435;character, have, jewish, sound, name, blutarsky, y., woman, movie, character have, have jewish, jewish sound, sound name, name blutarsky, blutarsky y., y. woman, woman movie
+I:8690;436;be, lot, fun, watch, be lot, lot fun, fun watch
+I:8690;437;funny, movie, college, student, frat, belong, funny movie, movie college, college student, student frat, frat belong
+I:8690;438;old, school, music, be, good, singing, hit, time, old school, school music, music be, be good, good singing, singing hit, hit time
+I:8690;439;be, classic, be classic
+I:8690;440;have, be, favorite, movie, year, have be, be favorite, favorite movie, movie year
+I:8690;441;time, comedy, classic, be, great, watch, time comedy, comedy classic, classic be, be great, great watch
+I:8690;442;clarity, color, sound, overall, presentation, particular, version, be, better, older, copy, have, clarity color, color sound, sound overall, overall presentation, presentation particular, particular version, version be, be better, better older, older copy, copy have
+I:8690;443;control, movie, say, less, word, control movie, movie say, say less, less word
+I:8690;444;film, goer, today, hail, something, wedding, crasher, happy, gilmore, like, need, remember, lunacy, comedic, frat, house, farce, film goer, goer today, today hail, hail something, something wedding, wedding crasher, crasher happy, happy gilmore, gilmore like, like need, need remember, remember lunacy, lunacy comedic, comedic frat, frat house, house farce
+I:8690;445;greatest, movie, make, greatest movie, movie make
+I:8690;446;favorite, movie, favorite movie
+I:8690;447;nostalgic, funny, matter, many, time, view, nostalgic funny, funny matter, matter many, many time, time view
+I:8690;448;be, great, documentary, making, be, second, disc, be, cool, be great, great documentary, documentary making, making be, be second, second disc, disc be, be cool
+I:8690;449;good, hear, trial, tribulation, make, phenominal, movie, do, consider, hard, be, get, duck, row, speak, good hear, hear trial, trial tribulation, tribulation make, make phenominal, phenominal movie, movie do, do consider, consider hard, hard be, be get, get duck, duck row, row speak
+I:8690;450;see, super, creative, mind, come, greatness, have, see super, super creative, creative mind, mind come, come greatness, greatness have
+I:8690;451;greatest, comedy, great, movie, outstanding, cast, greatest comedy, comedy great, great movie, movie outstanding, outstanding cast
+I:8690;452;be, funny, fresh, today, be, first, time, see, year, be funny, funny fresh, fresh today, today be, be first, first time, time see, see year
+I:8690;453;much, movie, be, do, spur, moment, include, smash, beer, forehead, much movie, movie be, be do, do spur, spur moment, moment include, include smash, smash beer, beer forehead
+I:8690;454;remember, political, social, satire, remember political, political social, social satire
+I:8690;455;movie, complete, joy, movie complete, complete joy
+I:8690;456;guy, moon, shot, pass, car, be, funny, have, watch, same, moon, next, guy moon, moon shot, shot pass, pass car, car be, be funny, funny have, have watch, watch same, same moon, moon next
+I:8690;457;go, read, brilliant, work, go read, read brilliant, brilliant work
+I:8690;458;fail, grade, lude, public, act, alcohol, know, do, fraternity, brother, face, court, hearing, potential, revoke, charter, fail grade, grade lude, lude public, public act, act alcohol, alcohol know, know do, do fraternity, fraternity brother, brother face, face court, court hearing, hearing potential, potential revoke, revoke charter
+I:8690;459;give, comedy, star, give comedy, comedy star
+I:8690;460;classic, be, glad, buy, classic be, be glad, glad buy
+I:8690;461;be, funniest, modern, college, comedy, be funniest, funniest modern, modern college, college comedy
+I:8690;462;steal, show, level, physical, comedy, movie, show, best, funniest, steal show, show level, level physical, physical comedy, comedy movie, movie show, show best, best funniest
+I:8690;463;be, great, sence, be great, great sence
+I:8690;464;premium, blast, past, premium blast, blast past
+I:8690;465;wonderful, innovative, gag, keep, laugh, wonderful innovative, innovative gag, gag keep, keep laugh
+I:8690;466;movie, feature, movie feature
+I:8690;467;movie, be, young, first, screen, role, play, host, ensemble, actor, actress, movie be, be young, young first, first screen, screen role, role play, play host, host ensemble, ensemble actor, actor actress
+I:8690;468;be, do, develop, execute, be do, do develop, develop execute
+I:8690;469;direct, be, best, hilarious, film, direct be, be best, best hilarious, hilarious film
+I:8690;470;film, focus, fraternity, sorority, life, small, college, town, film focus, focus fraternity, fraternity sorority, sorority life, life small, small college, college town
+I:8690;471;other, word, have, blast, other word, word have, have blast
+I:8690;472;year, be, entertaining, be, be, first, release, year be, be entertaining, entertaining be, be be, be first, first release
+I:8690;473;have, become, classic, film, be, date, have become, become classic, classic film, film be, be date
+I:8690;474;become, stunning, tribute, fantastic, comedic, ability, become stunning, stunning tribute, tribute fantastic, fantastic comedic, comedic ability
+I:8690;475;give, overwhelming, star, great, script, superb, comedic, acting, engaging, story, keep, laugh, film, give overwhelming, overwhelming star, star great, great script, script superb, superb comedic, comedic acting, acting engaging, engaging story, story keep, keep laugh, laugh film
+I:8690;476;funny, come, best, funny come, come best
+I:8690;477;get, love, character, favorite, moment, be, he, spy, sorority, girl, funny, hell, get love, love character, character favorite, favorite moment, moment be, be he, he spy, spy sorority, sorority girl, girl funny, funny hell
+I:8690;478;love, be, able, find, old, favourite, place, love be, be able, able find, find old, old favourite, favourite place
+I:8690;479;have, go, funniest, movie, have go, go funniest, funniest movie
+I:8690;480;see, movie, be, tell, be, funniest, movie, create, see movie, movie be, be tell, tell be, be funniest, funniest movie, movie create
+I:8690;481;be, superior, be superior
+I:8690;482;be, more, satisfied, thankful, be more, more satisfied, satisfied thankful
+I:8690;483;be, funny, guy, be funny, funny guy
+I:8690;484;john, be, great, come, comedy, john be, be great, great come, come comedy
+I:8690;485;be, celebration, movie, actor, make, great, movie, have, last, time, celebrate, great, movie, be celebration, celebration movie, movie actor, actor make, make great, great movie, movie have, have last, last time, time celebrate, celebrate great, great movie
+I:8690;486;be, funniest, movie, make, period, be funniest, funniest movie, movie make, make period
+I:8690;487;have, funniest, stuff, least, expect, car, run, something, have funniest, funniest stuff, stuff least, least expect, expect car, car run, run something
+I:8690;488;movie, prove, be, case, movie prove, prove be, be case
+I:8690;489;keep, weekend, keep weekend
+I:8690;490;let, move, something, let move, move something
+I:8690;491;pure, classic, watch, college, student, person, look, good, laugh, pure classic, classic watch, watch college, college student, student person, person look, look good, good laugh
+I:8690;492;release, great, movie, release great, great movie
+I:8690;493;funniest, movie, time, funniest movie, movie time
+I:8690;494;ton, catch, phrase, take, bar, ton catch, catch phrase, phrase take, take bar
+I:8690;495;watch, movie, zillion, time, laugh, be, watch movie, movie zillion, zillion time, time laugh, laugh be
+I:8690;496;next, day, be, sure, let, watch, yeah, next day, day be, be sure, sure let, let watch, watch yeah
+I:8690;497;television, station, gut, film, best, gag, dialog, course, nudity, television station, station gut, gut film, film best, best gag, gag dialog, dialog course, course nudity
+I:8690;498;version, thx, remastering, be, sharp, crisp, version thx, thx remastering, remastering be, be sharp, sharp crisp
+I:8690;499;love, film, same, reason, love, everyone, seem, be, have, more, fun, get, third, love film, film same, same reason, reason love, love everyone, everyone seem, seem be, be have, have more, more fun, fun get, get third
+I:8690;500;rate, public, education, get, get, third, rate, public, education, rate public, public education, education get, get get, get third, third rate, rate public, public education
+I:8690;501;funniest, movie, funniest movie
+I:8690;502;give, excellent, performance, give excellent, excellent performance
+I:8690;503;have, enjoy, movie, year, intial, release, rebroadcast, tv, have enjoy, enjoy movie, movie year, year intial, intial release, release rebroadcast, rebroadcast tv
+I:8690;504;be, happy, have, collection, be happy, happy have, have collection
+I:8690;505;funny, movie, edition, be, terrible, funny movie, movie edition, edition be, be terrible
+I:8690;506;lyric, be, mysterious, be, lyric be, be mysterious, mysterious be
+I:8690;507;year, see, band, perform, same, song, year see, see band, band perform, perform same, same song
+I:8690;508;kid, be, college, greek, system, have, see, classic, kid be, be college, college greek, greek system, system have, have see, see classic
+I:8690;509;get, think, be, hilarious, get think, think be, be hilarious
+I:8690;510;be, best, movie, time, be best, best movie, movie time
+I:8690;511;gift, set, version, say, have, ad, be, worth, extra, buck, get, ad, gift set, set version, version say, say have, have ad, ad be, be worth, worth extra, extra buck, buck get, get ad
+I:8690;512;best, movie, make, best movie, movie make
+I:8690;513;be, have, say, be have, have say
+I:8690;514;movie, be, great, comedy, classic, movie be, be great, great comedy, comedy classic
+I:8690;515;everything, movie, be, great, acting, music, setting, make, movie, masterpiece, comedy, everything movie, movie be, be great, great acting, acting music, music setting, setting make, make movie, movie masterpiece, masterpiece comedy
+I:8690;516;want, great, laugh, get, movie, want great, great laugh, laugh get, get movie
+I:8690;517;be, funny, be, first, release, laugh, loud, time, watch, be funny, funny be, be first, first release, release laugh, laugh loud, loud time, time watch
+I:8690;518;have, buy, year, have buy, buy year
+I:8690;519;be, classic, agree, have, comment, have, spawn, anything, positive, be classic, classic agree, agree have, have comment, comment have, have spawn, spawn anything, anything positive
+I:8690;520;movie, be, own, term, be, riot, rate, half, star, movie be, be own, own term, term be, be riot, riot rate, rate half, half star
+I:8690;521;trivia, pop, up, be, fun, breathtaking, doubt, use, facility, trivia pop, pop up, up be, be fun, fun breathtaking, breathtaking doubt, doubt use, use facility
+I:8690;522;umentary, be, fun, only, real, new, extra, disc, umentary be, be fun, fun only, only real, real new, new extra, extra disc
+I:8690;523;time, 25th, anniversary, time 25th, 25th anniversary
+I:8690;524;begin, think, film, have, be, funniest, film, college, fraternity, life, have, scene, begin think, think film, film have, have be, be funniest, funniest film, film college, college fraternity, fraternity life, life have, have scene
+I:8690;525;be, comedic, best, film, soundtrack, film, be, spectacular, be comedic, comedic best, best film, film soundtrack, soundtrack film, film be, be spectacular
+I:8690;526;movie, be, little, outdated, trust, love, film, movie be, be little, little outdated, outdated trust, trust love, love film
+I:8690;527;turn, show, physical, comedic, gift, possess, turn show, show physical, physical comedic, comedic gift, gift possess
+I:8690;528;movie, do, have, be, classic, lowbrow, humor, form, food, fight, sexual, situation, like, movie do, do have, have be, be classic, classic lowbrow, lowbrow humor, humor form, form food, food fight, fight sexual, sexual situation, situation like
+I:8690;529;be, excellent, womanize, be, good, couple, be, perfect, bumble, flounder, add, right, amount, slime, be, hateable, be, impose, bring, perfect, amount, nativity, be excellent, excellent womanize, womanize be, be good, good couple, couple be, be perfect, perfect bumble, bumble flounder, flounder add, add right, right amount, amount slime, slime be, be hateable, hateable be, be impose, impose bring, bring perfect, perfect amount, amount nativity
+I:8690;530;success, spawn, many, imitator, none, capture, humor, charm, success spawn, spawn many, many imitator, imitator none, none capture, capture humor, humor charm
+I:8690;531;be, clasic, movie, belong, everyone, library, be clasic, clasic movie, movie belong, belong everyone, everyone library
+I:8690;532;extra, feature, segment, be, long, winded, un, funny, extra feature, feature segment, segment be, be long, long winded, winded un, un funny
+I:8690;533;making, feature, be, good, making feature, feature be, be good
+I:8690;534;movie, be, easy, top, best, movie, comedy, time, movie be, be easy, easy top, top best, best movie, movie comedy, comedy time
+I:8690;535;give, look, laugh, bottom, give look, look laugh, laugh bottom
+I:8690;536;be, release, color, be release, release color
+I:8690;537;movie, be, full, lowbrow, humor, work, normal, clean, movie be, be full, full lowbrow, lowbrow humor, humor work, work normal, normal clean
+I:8690;538;scene, movie, be, hard, believe, be, funny, scene movie, movie be, be hard, hard believe, believe be, be funny
+I:8690;539;end, movie, put, good, cap, thing, tie, everything, end movie, movie put, put good, good cap, cap thing, thing tie, tie everything
+I:8690;540;be, movie, college, student, heart, be movie, movie college, college student, student heart
+I:8690;541;opinion, funniest, movie, make, opinion funniest, funniest movie, movie make
+I:8690;542;be, hysterical, make, way, cafeteria, be hysterical, hysterical make, make way, way cafeteria
+I:8690;543;serious, film, direct, taxi, driver, appear, bring, french, serious film, film direct, direct taxi, taxi driver, driver appear, appear bring, bring french
+I:8690;544;bob, dominate, light, comedy, breezy, shtick, virginate, sex, comedy, bob dominate, dominate light, light comedy, comedy breezy, breezy shtick, shtick virginate, virginate sex, sex comedy
+I:8690;545;simmer, middle, class, produce, college, bind, kid, baby, boom, number, youth, culture, look, own, laugh, statement, .2, nd, writer, performer, get, green, light, pent, baby, boomer, instinct, produce, influential, comedy, last, simmer middle, middle class, class produce, produce college, college bind, bind kid, kid baby, baby boom, boom number, number youth, youth culture, culture look, look own, own laugh, laugh statement, statement .2, .2 nd, nd writer, writer performer, performer get, get green, green light, light pent, pent baby, baby boomer, boomer instinct, instinct produce, produce influential, influential comedy, comedy last
+I:8690;546;nubile, young, girl, show, stuff, nubile young, young girl, girl show, show stuff
+I:8690;547;generation, love, spirited, laugher, old, day, do, pretty, risky, stuff, generation love, love spirited, spirited laugher, laugher old, old day, day do, do pretty, pretty risky, risky stuff
+I:8690;548;want, campus, ask, rich, boy, help, accomplish, task, want campus, campus ask, ask rich, rich boy, boy help, help accomplish, accomplish task
+I:8690;549;be, fun, begin, be fun, fun begin
+I:8690;550;class, guy, inhabit, house, live, pull, prank, fraternity, class guy, guy inhabit, inhabit house, house live, live pull, pull prank, prank fraternity
+I:8690;551;movie, portray, college, life, campus, movie portray, portray college, college life, life campus
+I:8690;552;pledge, class, consist, reject, year, year, past, pledge class, class consist, consist reject, reject year, year year, year past
+I:8690;553;lunchroom, scene, be, classic, lunchroom scene, scene be, be classic
+I:8690;554;lucky, love, interest, include, life, be, characteristic, young, man, college, sexual, escapade, lucky love, love interest, interest include, include life, life be, be characteristic, characteristic young, young man, man college, college sexual, sexual escapade
+I:8690;555;closing, road, trip, be, comical, closing road, road trip, trip be, be comical
+I:8690;556;parade, parade, allow, get, revenge, parade parade, parade allow, allow get, get revenge
+I:8690;557;keep, smile, relive, quote, replay, scene, mind, year, view, funny, film, keep smile, smile relive, relive quote, quote replay, replay scene, scene mind, mind year, year view, view funny, funny film
+I:8690;558;funny, slapstick, comedy, funny slapstick, slapstick comedy
+I:8690;559;be, classic, today, year, release, attract, amuse, new, viewer, be classic, classic today, today year, year release, release attract, attract amuse, amuse new, new viewer
+I:8690;560;comedy, appear, be, new, something, original, comedy appear, appear be, be new, new something, something original
+I:8690;561;shock, outlandish, image, inspire, laughter, shock outlandish, outlandish image, image inspire, inspire laughter
+I:8690;562;film, seem, fresh, today, do, film seem, seem fresh, fresh today, today do
+I:8690;563;make, film, energy, one, provide, fine, early, make film, film energy, energy one, one provide, provide fine, fine early
+I:8690;564;actor, provide, grace, performance, actor provide, provide grace, grace performance
+I:8690;565;character, know, be, be, childish, love, character know, know be, be be, be childish, childish love
+I:8690;566;be, event!moreover, film, have, underlying, intelligent, charm, be event!moreover, event!moreover film, film have, have underlying, underlying intelligent, intelligent charm
+I:8690;567;motto, knowledge, be, good, motto knowledge, knowledge be, be good
+I:8690;568;be, paraphrase, single, motto, single, school, country, be paraphrase, paraphrase single, single motto, motto single, single school, school country
+I:8690;569;movie, be, smart, top, stupidity, clever, satire, be, aware, be, paradoxical, movie be, be smart, smart top, top stupidity, stupidity clever, clever satire, satire be, be aware, aware be, be paradoxical
+I:8690;570;know, generate, laugh, be, say, most, comedy, know generate, generate laugh, laugh be, be say, say most, most comedy
+I:8690;571;special, edition, be, nice, nothing, spectacular, special edition, edition be, be nice, nice nothing, nothing spectacular
+I:8690;572;movie, be, classic, movie be, be classic
+I:8690;573;funny, line, quote, funny line, line quote
+I:8690;574;be, fun, watch, spot, many, great, young, actor, turn, be, big, star, be fun, fun watch, watch spot, spot many, many great, great young, young actor, actor turn, turn be, be big, big star
+I:8690;575;toga, party, have, be, bear, movie, become, national, sensation, late, thanks, toga party, party have, have be, be bear, bear movie, movie become, become national, national sensation, sensation late, late thanks
+I:8690;576;check, band, young, play, bass, guitar, check band, band young, young play, play bass, bass guitar
+I:8690;577;comedy, hold, decade, comedy hold, hold decade
+I:8690;578;film, rely, sight, gag, gross, humor, brilliant, comic, writing, imagination, film rely, rely sight, sight gag, gag gross, gross humor, humor brilliant, brilliant comic, comic writing, writing imagination
+I:8690;579;be, step, double, secret, probation, be step, step double, double secret, secret probation
+I:8690;580;movie, be, rite, passage, be, many, classic, liner, sound, track, be, great, music, reflect, mood, time, movie be, be rite, rite passage, passage be, be many, many classic, classic liner, liner sound, sound track, track be, be great, great music, music reflect, reflect mood, mood time
+I:8690;581;be, look, good, old, classic, come, age, movie, best, old, comedian, recommend, movie, anybody, revenge, nerd, be look, look good, good old, old classic, classic come, come age, age movie, movie best, best old, old comedian, comedian recommend, recommend movie, movie anybody, anybody revenge, revenge nerd
+I:8690;582;be, best, make, be best, best make
+I:8690;583;card, board, house, be, cool, look, colorfull, thick, steardy, card board, board house, house be, be cool, cool look, look colorfull, colorfull thick, thick steardy
+I:8690;584;yearbook, be, treat, w/rare, cool, look, photo, yearbook be, be treat, treat w/rare, w/rare cool, cool look, look photo
+I:8690;585;bonus, feature, rock, bonus feature, feature rock
+I:8690;586;be, remarkable, film, appeal, have, hold, year, initial, release, year, be remarkable, remarkable film, film appeal, appeal have, have hold, hold year, year initial, initial release, release year
+I:8690;587;be, member, band, be member, member band
+I:8690;588;examine, undergraduate, life, be, share, common, examine undergraduate, undergraduate life, life be, be share, share common
+I:8690;589;plan, see, first, time, be, urge, see, good, news, plan see, see first, first time, time be, be urge, urge see, see good, good news
+I:8690;590;portrayal, life, campus, good, news, establish, frame, portrayal life, life campus, campus good, good news, news establish, establish frame
+I:8690;591;be, favorite, movie, be favorite, favorite movie
+I:8690;592;film, genre, be, comedy, moral, use, ridicule, correct, abuse, aim, college, fraternity, film genre, genre be, be comedy, comedy moral, moral use, use ridicule, ridicule correct, correct abuse, abuse aim, aim college, college fraternity
+I:8690;593;soundtrack, movie, be, awesome, sound, sixty, soundtrack movie, movie be, be awesome, awesome sound, sound sixty
+I:8690;594;scale, star, film, be, scale star, star film, film be
+I:8690;595;be, classic, comedy, be classic, classic comedy
+I:8690;596;be, funny, be, be, release, year, be funny, funny be, be be, be release, release year
+I:8690;597;be, easy, get, wrap, cheer, house, good, guy, be easy, easy get, get wrap, wrap cheer, cheer house, house good, good guy
+I:8690;598;be, fun, movie, watch, everyone, have, movie, home, video, library, be fun, fun movie, movie watch, watch everyone, everyone have, have movie, movie home, home video, video library
+I:8690;599;up, footnote, movie, up footnote, footnote movie
+I:8690;600;crazed, genius, explode, sustained, incarnation, crazed genius, genius explode, explode sustained, sustained incarnation
+I:8690;601;be, hilarous, movie, be hilarous, hilarous movie
+I:8690;602;be, funny, be, great, movie, watch, friend, be, relax, have, few, beer, be funny, funny be, be great, great movie, movie watch, watch friend, friend be, be relax, relax have, have few, few beer
+I:8690;603;do, introduce, new, style, perfect, do introduce, introduce new, new style, style perfect
+I:8690;604;have, experienced, college, life, love, movie, have experienced, experienced college, college life, life love, love movie
+I:8690;605;laugh, laugh, laugh, more, laugh laugh, laugh laugh, laugh more
+I:8690;606;movie, be, good, movie be, be good
+I:8690;607;get, love, classic, line, time, get love, love classic, classic line, line time
+I:8690;608;like, movie, general, like movie, movie general
+I:8690;609;someone, say, classic, doesnt, mean, be, compel, laugh, someone say, say classic, classic doesnt, doesnt mean, mean be, be compel, compel laugh
+I:8690;610;love, movie, first, time, time, watch, love movie, movie first, first time, time time, time watch
+I:8690;611;classic, be, hit, comedy, come, classic be, be hit, hit comedy, comedy come
+I:8690;612;movie, be, great, lot, fun, get, see, booby, hear, curse, word, have, watch, movie, edit, piece, weekend, teen, year, usa, tbs, humor, hold, wish, work, movie be, be great, great lot, lot fun, fun get, get see, see booby, booby hear, hear curse, curse word, word have, have watch, watch movie, movie edit, edit piece, piece weekend, weekend teen, teen year, year usa, usa tbs, tbs humor, humor hold, hold wish, wish work
+I:8690;613;universal, home, do, universal home, home do
+I:8690;614;be, be, brim, energy, be, funny, be be, be brim, brim energy, energy be, be funny
+I:8690;615;forget, upbringing, scruple, enjoy, forget upbringing, upbringing scruple, scruple enjoy
+I:8690;616;be, movie, be, lack, taste, be, masterpiece, be movie, movie be, be lack, lack taste, taste be, be masterpiece
+I:8690;617;acting, be, laugh, loud, hilarous, acting be, be laugh, laugh loud, loud hilarous
+I:8690;618;everything, be, funny, everything be, be funny
+I:8690;619;moment, put, be, unexpected, moment put, put be, be unexpected
+I:8690;620;watch, laugh, much, do, first, time, watch, watch laugh, laugh much, much do, do first, first time, time watch
+I:8690;621;reccomend, film, reccomend film
+I:8690;622;funniest, movie, time, funniest movie, movie time
+I:8690;623;film, provide, few, chuckle, be, film provide, provide few, few chuckle, chuckle be
+I:8690;624;be, classic, think, be, hilarious, be, teens, be, little, dated, be classic, classic think, think be, be hilarious, hilarious be, be teens, teens be, be little, little dated
+I:8690;625;be, such, great, movie, be such, such great, great movie
+I:8690;626;have, be, favorite, mine, many, year, have be, be favorite, favorite mine, mine many, many year
+I:8690;627;movie, watch, movie watch
+I:8690;628;bring, college, day, bring college, college day
+I:8690;629;get, star, demand, store, take, open, get star, star demand, demand store, store take, take open
+I:8690;630;movie, be, classic, great, level, wont, board, laugh, start, finish, movie be, be classic, classic great, great level, level wont, wont board, board laugh, laugh start, start finish
+I:8690;631;see, second, night, be, be, be, funny, be, see second, second night, night be, be be, be be, be funny, funny be
+I:8690;632;bonus, material, be, excellent, hook, oxygen, pool, scream, bonus material, material be, be excellent, excellent hook, hook oxygen, oxygen pool, pool scream
+I:8690;633;time, use, time use
+I:8690;634;movie, course, be, best, movie course, course be, be best
+I:8690;635;time, favorite, movie, time favorite, favorite movie
+I:8690;636;everyone, age, see, least, time, everyone age, age see, see least, least time
+I:8690;637;movie, sport, greatest, cinematic, finale, movie sport, sport greatest, greatest cinematic, cinematic finale
+I:8690;638;time, scene, have, countless, moment, comic, inspiration, suprise, be, quotable, hilarious, movie, make, last, quarter, last, year, time scene, scene have, have countless, countless moment, moment comic, comic inspiration, inspiration suprise, suprise be, be quotable, quotable hilarious, hilarious movie, movie make, make last, last quarter, quarter last, last year
+I:8690;639;be, best, bravura, performance, reminiscent, great, comic, do, aplomb, be best, best bravura, bravura performance, performance reminiscent, reminiscent great, great comic, comic do, do aplomb
+I:8690;640;be, quintessential, smooth, talker, work, angle, everybody, lady, be quintessential, quintessential smooth, smooth talker, talker work, work angle, angle everybody, everybody lady
+I:8690;641;be, suave, be suave
+I:8690;642;screenwriter, director, do, great, job, evoke, screenwriter director, director do, do great, great job, job evoke
+I:8690;643;era, find, lot, laugh, era find, find lot, lot laugh
+I:8690;644;unqualified, classic, simplest, definition, unqualified classic, classic simplest, simplest definition
+I:8690;645;make, laugh, make laugh
+I:8690;646;be, require, addition, collection, be require, require addition, addition collection
+I:8690;647;hold, own, repeat, viewing, hold own, own repeat, repeat viewing
+I:8690;648;be, classic, have, significant, effect, tv, movie, comedy, introduction, be classic, classic have, have significant, significant effect, effect tv, tv movie, movie comedy, comedy introduction
+I:8690;649;enjoy, watch, content, be, able, recognize, location, enjoy watch, watch content, content be, be able, able recognize, recognize location
+I:8690;650;be, good, be, kind, require, viewing, experience, grow, have, see, do, love, be good, good be, be kind, kind require, require viewing, viewing experience, experience grow, grow have, have see, see do, do love
+I:8690;651;be, classic, movie, late, '70, be classic, classic movie, movie late, late '70
+I:8690;652;be, high, school, come, think, be, hilarious, be high, high school, school come, come think, think be, be hilarious
+I:8690;653;love, classic, love classic
+I:8690;654;be, influential, be influential
+I:8690;655;film, follow, wild, adventure, group, fraternity, campus, film follow, follow wild, wild adventure, adventure group, group fraternity, fraternity campus
+I:8690;656;be, comprise, fun, be comprise, comprise fun
+I:8690;657;win, battle, kick, campus, revenge, be, awesome, win battle, battle kick, kick campus, campus revenge, revenge be, be awesome
+I:8690;658;give, movie, star, be, hilarious, give movie, movie star, star be, be hilarious
+I:8690;659;best, minute, spentin, college, lot, time, best minute, minute spentin, spentin college, college lot, lot time
+I:8690;660;great, time, everyone, great time, time everyone
+I:8690;661;funniest, movie, funniest movie
+I:8690;662;movie, be, true, classic, movie be, be true, true classic
+I:8690;663;funny, year, funny year
+I:8690;664;special, feature, be, good, movie, special feature, feature be, be good, good movie
+I:8690;665;like, feature, movie, make, process, like feature, feature movie, movie make, make process
+I:8690;666;look, guy, have, lot, fun, look guy, guy have, have lot, lot fun
+I:8690;667;be, fun, watch, last, time, see, theatre, couple, time, tv, be fun, fun watch, watch last, last time, time see, see theatre, theatre couple, couple time, time tv
+I:8690;668;recommend, anyone, be, college, recommend anyone, anyone be, be college
+I:8690;669;hold, year, dang, hold year, year dang
+I:8690;670;consistent, solid, work, be, kind, cool, see, style, voice, evolve, consistent solid, solid work, work be, be kind, kind cool, cool see, see style, style voice, voice evolve
+I:8690;671;lot, actor, know, today, tiny, role, first, film, role, example, lot actor, actor know, know today, today tiny, tiny role, role first, first film, film role, role example
+I:8690;672;joke, hold, time, setting, be, take, account, joke hold, hold time, time setting, setting be, be take, take account
+I:8690;673;have, best, bit, utter, word, have best, best bit, bit utter, utter word
+I:8690;674;see, film, comedy, aficionado, see film, film comedy, comedy aficionado
+I:8690;675;get, be, sell, get be, be sell
+I:8690;676;movie, come, nice, case, buy, store, movie come, come nice, nice case, case buy, buy store
+I:8690;677;head, be, fast, paced, hysterical, tribute, earlier, time, load, laugh, many, bright, new, star, head be, be fast, fast paced, paced hysterical, hysterical tribute, tribute earlier, earlier time, time load, load laugh, laugh many, many bright, bright new, new star
+I:8690;678;go, college, be, fraternity, sorority, film, be, great, relive, fun, day, go college, college be, be fraternity, fraternity sorority, sorority film, film be, be great, great relive, relive fun, fun day
+I:8690;679;kid, love, kid love
+I:8690;680;entertaining, harmless, old, movie, be, fun, watch, kid, entertaining harmless, harmless old, old movie, movie be, be fun, fun watch, watch kid
+I:8690;681;be, funny, have, lot, silly, scene, be funny, funny have, have lot, lot silly, silly scene
+I:8690;682;great, sexy, wacky, scene, remind, big, budget, nutty, version, m, s, h, dare, tell, be, better, m, s, h, great sexy, sexy wacky, wacky scene, scene remind, remind big, big budget, budget nutty, nutty version, version m, m s, s h, h dare, dare tell, tell be, be better, better m, m s, s h
+I:8690;683;day, be, good, motorcycle, deathmobile, nice, mustache, day be, be good, good motorcycle, motorcycle deathmobile, deathmobile nice, nice mustache
+I:8690;684;bab, tour, guide, bab tour, tour guide
+I:8690;685;waithe, meet, right, woman, waithe meet, meet right, right woman
+I:8690;686;become, right, wing, religious, nut, see, food, go, self, become right, right wing, wing religious, religious nut, nut see, see food, food go, go self
+I:8690;687;kid, wife, car, have, everythinga, man, want, kid wife, wife car, car have, have everythinga, everythinga man, man want
+I:8690;688;documentary, get, real, story, documentary get, get real, real story
+I:8690;689;producer, have, create, be, order, make, move, college, producer have, have create, create be, be order, order make, make move, move college
+I:8690;690;movie, be, funny, come, be, funny, today, movie be, be funny, funny come, come be, be funny, funny today
+I:8690;691;be, classic, movie, get, tickled, remember, get, tickled, be classic, classic movie, movie get, get tickled, tickled remember, remember get, get tickled
+I:8690;692;husband, do, grow, other, watch, movie, be, be, age, be, come, time, get, zip, husband do, do grow, grow other, other watch, watch movie, movie be, be be, be age, age be, be come, come time, time get, get zip
+I:8690;693;laugh, same, thing, laugh, find, be, laugh, same, thing, be, laugh, laugh same, same thing, thing laugh, laugh find, find be, be laugh, laugh same, same thing, thing be, be laugh
+I:8690;694;be, funniest, classic, know, be funniest, funniest classic, classic know
+I:8690;695;family, favorite, family favorite
+I:8690;696;be, class, be, funny, be class, class be, be funny
+I:8690;697;be, best, effort, make, movie, be best, best effort, effort make, make movie
+I:8690;698;best, old, school, movie, best old, old school, school movie
+I:8690;699;glad, find, glad find
+I:8690;700;teenager, love, best, teenager love, love best
+I:8690;701;average, person, see, way, average person, person see, see way
+I:8690;702;like, say, need, keep, eye, prize, please, review, movie, preview, like say, say need, need keep, keep eye, eye prize, prize please, please review, review movie, movie preview
+I:8690;703;be, say, be, greatest, college, comedy, time, be say, say be, be greatest, greatest college, college comedy, comedy time
+I:8690;704;best, national, have, do, best national, national have, have do
+I:8690;705;love, film, be, likely, time, favorite, list, love film, film be, be likely, likely time, time favorite, favorite list
+I:8690;706;see, relevant, long, be, make, see relevant, relevant long, long be, be make
+I:8690;707;be, huge, comedy, fan, be, hard, beat, be huge, huge comedy, comedy fan, fan be, be hard, hard beat
+I:8690;708;receive, mail, receive mail
+I:8690;709;enjoy, watch, movie, year, look, watch, unedited, enjoy watch, watch movie, movie year, year look, look watch, watch unedited
+I:8690;710;funniest, movie, make, funniest movie, movie make
+I:8690;711;be, mood, outrageous, funny, histerical, movie, be, be mood, mood outrageous, outrageous funny, funny histerical, histerical movie, movie be
+I:8690;712;be, personal, favorite, comedy, time, be personal, personal favorite, favorite comedy, comedy time
+I:8690;713;funniest, stuff, have, read, be, page, be, guy, write, script, funniest stuff, stuff have, have read, read be, be page, page be, be guy, guy write, write script
+I:8690;714;perfect, cast, come, perfect cast, cast come
+I:8690;715;believe, great, strength, be, bad, guy, be, believe great, great strength, strength be, be bad, bad guy, guy be
+I:8690;716;craft, hilarious, be, time, someone, put, foot, craft hilarious, hilarious be, be time, time someone, someone put, put foot
+I:8690;717;believe, director, give, film, affectionate, nostalgic, look, bring, wonderful, timing, scene, holding, expression, character, cut, next, scene, add, laugh, several, scene, believe director, director give, give film, film affectionate, affectionate nostalgic, nostalgic look, look bring, bring wonderful, wonderful timing, timing scene, scene holding, holding expression, expression character, character cut, cut next, next scene, scene add, add laugh, laugh several, several scene
+I:8690;718;know, have, give, film, school, flunky, opinion, film, main, reason, work, be, hilarious, know have, have give, give film, film school, school flunky, flunky opinion, opinion film, film main, main reason, reason work, work be, be hilarious
+I:8690;719;view, anyone, little, college, fun, leave, view anyone, anyone little, little college, college fun, fun leave
+I:8690;720;aw, love, have, tell, wish, have, copy, anus, mal, house, day, be, look, something, think, hay, look, see, have, do, soo, aw love, love have, have tell, tell wish, wish have, have copy, copy anus, anus mal, mal house, house day, day be, be look, look something, something think, think hay, hay look, look see, see have, have do, do soo
+I:8690;721;1st, saw, movie, hilarious, john, belushi, give, greatest, performance, like, 1st saw, saw movie, movie hilarious, hilarious john, john belushi, belushi give, give greatest, greatest performance, performance like
+I:8690;722;let, say, be, opinion, best, comedy, make, let say, say be, be opinion, opinion best, best comedy, comedy make
+I:8690;723;video, transfer, be, good, be, top, video transfer, transfer be, be good, good be, be top
+I:8690;724;final, note, extra, be, nice, final note, note extra, extra be, be nice
+I:8690;725;think, judge, scene, like, come, dad, enjoy, go, buy, blockbuster, gift, card, have, recieve, think judge, judge scene, scene like, like come, come dad, dad enjoy, enjoy go, go buy, buy blockbuster, blockbuster gift, gift card, card have, have recieve
+I:8690;726;select, few, chuckle, worthy, scene, be, able, sell, much, pay, select few, few chuckle, chuckle worthy, worthy scene, scene be, be able, able sell, sell much, much pay
+I:8690;727;good, ridden, be, say, good ridden, ridden be, be say
+I:8690;728;be, comic, genius, be, remember, great, movie, be comic, comic genius, genius be, be remember, remember great, great movie
+I:8690;729;great, comedy, super, actor, great comedy, comedy super, super actor
+I:8690;730;action, be, funny, act, superb, action be, be funny, funny act, act superb
+I:8690;731;plot, be, simple, maintain, enjoyment, movie, plot be, be simple, simple maintain, maintain enjoyment, enjoyment movie
+I:8690;732;take, watch, friend, take watch, watch friend
+I:8690;733;good, old, day, type, fun, good old, old day, day type, type fun
+I:8690;734;get, popcorn, enjoy, get popcorn, popcorn enjoy
+I:8690;735;best, part, movie, involve, raucous, party, play, toga, party, druken, antic, best part, part movie, movie involve, involve raucous, raucous party, party play, play toga, toga party, party druken, druken antic
+I:8690;736;john, be, great, brother, have, be, college, year, have, gpa, john be, be great, great brother, brother have, have be, be college, college year, year have, have gpa
+I:8690;737;eyebrow, tell, hilarious, story, eyebrow tell, tell hilarious, hilarious story
+I:8690;738;scene, be, be, funny, be, toga, party, leave, horse, dean, office, scene be, be be, be funny, funny be, be toga, toga party, party leave, leave horse, horse dean, dean office
+I:8690;739;widescreen, presentation, look, fine, movie, be, good, extra, be, good, widescreen presentation, presentation look, look fine, fine movie, movie be, be good, good extra, extra be, be good
+I:8690;740;be, comedy, classic, plenty, gross, joke, keep, laugh, be comedy, comedy classic, classic plenty, plenty gross, gross joke, joke keep, keep laugh
+I:8690;741;be, funny, go, watch, be funny, funny go, go watch
+I:8690;742;be, top, comedy, movie, make, be top, top comedy, comedy movie, movie make
+I:8690;743;casting, be, do, movie, act, script, be, do, be, great, casting be, be do, do movie, movie act, act script, script be, be do, do be, be great
+I:8690;744;have, get, be, funniest, movie, have, see, life, have get, get be, be funniest, funniest movie, movie have, have see, see life
+I:8690;745;anyone, like, movie, recommend, oppinion, be, best, anyone like, like movie, movie recommend, recommend oppinion, oppinion be, be best
+I:8690;746;funny, hilarious, many, year, funny hilarious, hilarious many, many year
+I:8690;747;classic, movie, have, get, classic movie, movie have, have get
+I:8690;748;get, great, price, cheaper, else, bet, get great, great price, price cheaper, cheaper else, else bet
+I:8690;749;entertaining, movie, college, classic, entertaining movie, movie college, college classic
+I:8690;750;lifestyle, college, fraternity, have, change, day, serve, cult, favorite, many, youth, lifestyle college, college fraternity, fraternity have, have change, change day, day serve, serve cult, cult favorite, favorite many, many youth
+I:8690;751;look, style, see, popular, culture, education, look style, style see, see popular, popular culture, culture education
+I:8690;752;excellent, movie, hold, year, excellent movie, movie hold, hold year
+I:8690;753;mockumentary, be, best, part, package, movie, mockumentary be, be best, best part, part package, package movie
+I:8690;754;movie, be, classic, funny, movie be, be classic, classic funny
+I:8690;755;opinion, be, best, comedy, make, opinion be, be best, best comedy, comedy make
+I:8690;756;college, son, laugh, watch, first, time, college son, son laugh, laugh watch, watch first, first time
+I:8690;757;extra, video, remind, viewer, be, make, extra video, video remind, remind viewer, viewer be, be make
+I:8690;758;movie, have, be, favorite, come, movie have, have be, be favorite, favorite come
+I:8690;759;be, funny, movie, be funny, funny movie
+I:8690;760;making, movie, be, interesting, watch, making movie, movie be, be interesting, interesting watch
+I:8690;761;go, college, recognize, most, character, movie, go college, college recognize, recognize most, most character, character movie
+I:8690;762;late, 1970, be, great, time, movie, late 1970, 1970 be, be great, great time, time movie
+I:8690;763;movie, have, ensemble, cast, be, steal, show, movie have, have ensemble, ensemble cast, cast be, be steal, steal show
+I:8690;764;time, movie, become, tasteless, temper, moment, wit, quick, dialogue, time movie, movie become, become tasteless, tasteless temper, temper moment, moment wit, wit quick, quick dialogue
+I:8690;765;be, few, young, adult, comedy, be, funny, be, plain, stupid, be few, few young, young adult, adult comedy, comedy be, be funny, funny be, be plain, plain stupid
+I:8690;766;be, college, look, good, be college, college look, look good
+I:8690;767;part, fraternity, graduate, guy, be, pledge, fraternity, let, game, begin, part fraternity, fraternity graduate, graduate guy, guy be, be pledge, pledge fraternity, fraternity let, let game, game begin
+I:8690;768;be, funny, try, cheer, everyone, be funny, funny try, try cheer, cheer everyone
+I:8690;769;guy, have, fun, college, guy have, have fun, fun college
+I:8690;770;great, classic, movie, watch, have, great, following, great classic, classic movie, movie watch, watch have, have great, great following
+I:8690;771;be, sure, be, generation, come, discover, movie, take, heart, be sure, sure be, be generation, generation come, come discover, discover movie, movie take, take heart
+I:8690;772;love, come, theater, love come, come theater
+I:8690;773;extra, add, fun, extra add, add fun
+I:8690;774;see, young, teen, theatre, folk, have, idea, be, have, see, movie, genre, sniff, see young, young teen, teen theatre, theatre folk, folk have, have idea, idea be, be have, have see, see movie, movie genre, genre sniff
+I:8690;775;great, cast, script, soundtrack, make, truley, hilarious, movie, buy, soundtrack, spin, push, party, top, great cast, cast script, script soundtrack, soundtrack make, make truley, truley hilarious, hilarious movie, movie buy, buy soundtrack, soundtrack spin, spin push, push party, party top
+I:8690;776;disc, package, be, cool, be, minute, documentary, making, film, enthusiast, find, interesting, disc package, package be, be cool, cool be, be minute, minute documentary, documentary making, making film, film enthusiast, enthusiast find, find interesting
+I:8690;777;have, see, movie, thoiusand, time, past, year, have see, see movie, movie thoiusand, thoiusand time, time past, past year
+I:8690;778;have, say, cast, be, excellent, music, brilliant, iha, inspire, many, good, nuight, opr, ming, persona, character, portray, have say, say cast, cast be, be excellent, excellent music, music brilliant, brilliant iha, iha inspire, inspire many, many good, good nuight, nuight opr, opr ming, ming persona, persona character, character portray
+I:8690;779;see, tobelieve, see, dream, see, live, see tobelieve, tobelieve see, see dream, dream see, see live
+I:8690;780;anyone, appreciate, film, be, come, cult, live, 22nd, anyone appreciate, appreciate film, film be, be come, come cult, cult live, live 22nd
+I:8690;781;love, movie, love movie
+I:8690;782;be, many, memorable, scene, have, watch, movie, several, time, qoute, character, be many, many memorable, memorable scene, scene have, have watch, watch movie, movie several, several time, time qoute, qoute character
+I:8690;783;movie, be, crazy, good, movie be, be crazy, crazy good
+I:8690;784;today, many, year, come, stand, head, shoulder, competition, today many, many year, year come, come stand, stand head, head shoulder, shoulder competition
+I:8690;785;undoubted, star, undoubted star
+I:8690;786;rouse, speech, give, fraternity, brother, be, bomb, rouse speech, speech give, give fraternity, fraternity brother, brother be, be bomb
+I:8690;787;be, greatest, night, life, be greatest, greatest night, night life
+I:8690;788;comedy, be, paint, primary, comedy be, be paint, paint primary
+I:8690;789;be, odd, be odd
+I:8690;790;put, be, modern, american, classic, put be, be modern, modern american, american classic
+I:8690;791;end, film, use, series, freeze, frame, tell, happen, character, end film, film use, use series, series freeze, freeze frame, frame tell, tell happen, happen character
+I:8690;792;thank, contact, thank contact
+I:8690;793;appreciate, patronage, hope, continue, enjoy, otheruniversal, release, appreciate patronage, patronage hope, hope continue, continue enjoy, enjoy otheruniversal, otheruniversal release
+I:8690;794;have, be, best, comedy, time, role, make, famous, be, hilarious, watch, film, feature, performance, shout, make, wan, get, dance, have be, be best, best comedy, comedy time, time role, role make, make famous, famous be, be hilarious, hilarious watch, watch film, film feature, feature performance, performance shout, shout make, make wan, wan get, get dance
+I:8690;795;recommend, film, like, american, come, film, spawn, recommend film, film like, like american, american come, come film, film spawn
+I:8690;796;be, best, frat, movie, be best, best frat, frat movie
+I:8690;797;movie, star, be, great, be, best, movie star, star be, be great, great be, be best
+I:8690;798;be, great, family, movie, have, kid, get, pg, version, be great, great family, family movie, movie have, have kid, kid get, get pg, pg version
+I:8690;799;film, be, laugh, loud, sensation, leave, beg, more, film be, be laugh, laugh loud, loud sensation, sensation leave, leave beg, beg more
+I:8690;800;see, movie, take, eye, screen, laugh, whole, night, see movie, movie take, take eye, eye screen, screen laugh, laugh whole, whole night
+I:8690;801;be, greatest, comedy, have, see, be greatest, greatest comedy, comedy have, have see
+I:8690;802;deliver, best, preformence, love, movie, deliver best, best preformence, preformence love, love movie

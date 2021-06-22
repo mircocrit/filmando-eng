@@ -1,0 +1,6820 @@
+L            	3
+.2           	0,00000162
+.3           	0,00000158
+18th         	0,00000000
+1930         	0,00000257
+1950         	0,00000000
+1970         	0,00000000
+19th         	0,00000215
+20th         	0,00000058
+20th century 	0,00000101
+21st         	0,00000000
+21st century 	0,00000143
+25th         	0,00000000
+2nd          	0,00000000
+3rd          	0,00000000
+60           	0,00000148
+:-rrb-       	0,00000148
+=            	0,00000000
+_            	0,00000224
+a            	0,00000000
+a.           	0,00000000
+abandon      	0,00000221
+ability      	0,00000000
+ability be   	0,00000000
+able         	0,00000000
+able do      	0,00000000
+able enjoy   	0,00000000
+able get     	0,00000000
+able make    	0,00000000
+able see     	0,00000000
+able watch   	0,00000125
+abound       	0,00000205
+above        	0,00000000
+above average	0,00000000
+absence      	0,00000807
+absolute     	0,00000000
+absolute best	0,00000000
+absorb       	0,00000112
+abuse        	0,00000183
+academy      	0,00000000
+academy award	0,00000000
+accent       	0,00000077
+accent be    	0,00000000
+accept       	0,00000335
+acceptable   	0,00000000
+acceptance   	0,00001205
+accident     	0,00000355
+acclaimed    	0,00000000
+accompany    	0,00000164
+accomplish   	0,00000108
+accomplishment	0,00000000
+accord       	0,00000000
+account      	0,00000000
+accuracy     	0,00000112
+accurate     	0,00000065
+achieve      	0,00000156
+achievement  	0,00000028
+achievement be	0,00000000
+acknowledge  	0,00000878
+act          	0,00000000
+act ability  	0,00000145
+act be       	0,00000126
+act direct   	0,00000000
+act film     	0,00000000
+act great    	0,00000000
+act have     	0,00000210
+act make     	0,00000280
+act movie    	0,00000000
+act performance	0,00000000
+act skill    	0,00000000
+act story    	0,00000000
+act write    	0,00000273
+acting       	0,00000000
+acting be    	0,00000000
+acting good  	0,00000000
+acting great 	0,00000000
+action       	0,00000054
+action adventure	0,00000092
+action be    	0,00000088
+action comedy	0,00000165
+action drama 	0,00000000
+action film  	0,00000028
+action flick 	0,00000101
+action good  	0,00000193
+action great 	0,00000000
+action hero  	0,00000193
+action humor 	0,00000000
+action keep  	0,00000000
+action movie 	0,00000102
+action pack  	0,00000100
+action packed	0,00000183
+action romance	0,00000000
+action scene 	0,00000028
+action sequence	0,00000000
+action suspense	0,00000000
+action thriller	0,00000000
+activity     	0,00000187
+actor        	0,00000000
+actor actress	0,00000117
+actor award  	0,00000000
+actor be     	0,00000000
+actor do     	0,00000000
+actor film   	0,00000000
+actor generation	0,00000000
+actor give   	0,00000331
+actor have   	0,00000087
+actor movie  	0,00000000
+actor performance	0,00000000
+actor play   	0,00000000
+actor portray	0,00000396
+actor work   	0,00000000
+actress      	0,00000103
+actress be   	0,00000080
+actual       	0,00000127
+actual event 	0,00000000
+adapt        	0,00000000
+adaptation   	0,00000015
+adaptation be	0,00000000
+adaption     	0,00000000
+add          	0,00000000
+add be       	0,00000000
+add collection	0,00000133
+add lot      	0,00000000
+add more     	0,00000253
+add movie    	0,00000000
+addict       	0,00000000
+addiction    	0,00000278
+addition     	0,00000050
+addition be  	0,00000000
+addition collection	0,00000179
+addition movie	0,00000000
+additional   	0,00000000
+address      	0,00000000
+adequate     	0,00000000
+admirable    	0,00000000
+admiration   	0,00000588
+admire       	0,00000220
+admit        	0,00000063
+admit be     	0,00000000
+adolescent   	0,00000000
+adopt        	0,00000000
+adorable     	0,00000501
+adore        	0,00000095
+adrenaline   	0,00000251
+adult        	0,00000089
+adult be     	0,00000000
+adult child  	0,00000337
+adult enjoy  	0,00000000
+adult kid    	0,00000000
+advance      	0,00000000
+advantage    	0,00000160
+adventure    	0,00000153
+adventure be 	0,00000000
+adventure film	0,00000210
+adventure movie	0,00000000
+adventurous  	0,00000000
+adversity    	0,00000202
+advice       	0,00000000
+aesthetic    	0,00000436
+affair       	0,00001912
+affect       	0,00000091
+affection    	0,00003252
+aforementioned	0,00000202
+afraid       	0,00000351
+african      	0,00000000
+african queen	0,00000000
+afternoon    	0,00000000
+age          	0,00000000
+age be       	0,00000000
+aged         	0,00000351
+agenda       	0,00000000
+agent        	0,00000056
+aging        	0,00000249
+agree        	0,00000107
+agree be     	0,00000000
+aid          	0,00000108
+aim          	0,00000000
+air          	0,00000083
+airplane     	0,00000161
+alien        	0,00000042
+alien be     	0,00000000
+alive        	0,00000069
+all          	0,00000000
+allegory     	0,00000000
+allow        	0,00000221
+allow be     	0,00000269
+ally         	0,00000000
+alot         	0,00000000
+alter        	0,00000000
+amaze        	0,00000044
+amazing      	0,00000000
+amazing be   	0,00000000
+amazing film 	0,00000000
+amazing movie	0,00000074
+amazing performance	0,00000146
+amazing special	0,00000000
+amazing story	0,00000000
+amazing thing	0,00000000
+amazon       	0,00000000
+ambiguity    	0,00000000
+ambiguous    	0,00000249
+ambition     	0,00000115
+ambitious    	0,00000066
+american     	0,00000000
+american be  	0,00000000
+american cinema	0,00000000
+american classic	0,00000196
+american film	0,00000000
+american history	0,00000000
+amount       	0,00000040
+amusing      	0,00000037
+analysis     	0,00000000
+analyze      	0,00000000
+ancient      	0,00000132
+anger        	0,00000988
+angle        	0,00000124
+angry        	0,00000000
+angst        	0,00000430
+animal       	0,00000187
+animated     	0,00000058
+animated feature	0,00000000
+animated film	0,00000000
+animated movie	0,00000078
+animation    	0,00000032
+animation be 	0,00000041
+animator     	0,00000000
+anime        	0,00000000
+annoying     	0,00000348
+answer       	0,00000178
+answer be    	0,00000000
+answer question	0,00000000
+anti         	0,00000000
+antic        	0,00000129
+anticipate   	0,00000000
+anticipation 	0,00000000
+anxiety      	0,00000257
+anybody      	0,00000000
+anyone       	0,00000000
+anyone be    	0,00000113
+anyone enjoy 	0,00000175
+anyone have  	0,00000111
+anyone like  	0,00000125
+anyone look  	0,00000000
+anyone love  	0,00000145
+anyone want  	0,00000000
+anyone watch 	0,00000000
+anything     	0,00000000
+anything be  	0,00000000
+apartment    	0,00000088
+ape          	0,00000809
+appeal       	0,00000037
+appeal be    	0,00000000
+appealing    	0,00000084
+appear       	0,00000153
+appear be    	0,00000086
+appearance   	0,00000069
+applaud      	0,00000132
+apply        	0,00000000
+appreciate   	0,00000079
+appreciate be	0,00000000
+appreciation 	0,00000410
+approach     	0,00000125
+appropriate  	0,00000000
+arc          	0,00000169
+area         	0,00000000
+argue        	0,00000000
+argument     	0,00000143
+arm          	0,00000000
+armor        	0,00000436
+army         	0,00000074
+array        	0,00000000
+arrest       	0,00000299
+arrival      	0,00000000
+arrive       	0,00000092
+art          	0,00000068
+art be       	0,00000000
+art direction	0,00000000
+art film     	0,00000000
+art form     	0,00000000
+art movie    	0,00000000
+artist       	0,00000176
+artist be    	0,00000000
+artistic     	0,00000029
+artistry     	0,00000361
+asian        	0,00000193
+ask          	0,00000000
+ask be       	0,00000183
+aspect       	0,00000000
+aspect be    	0,00000138
+aspect film  	0,00000130
+aspect movie 	0,00000000
+aspire       	0,00000198
+ass          	0,00000359
+assassin     	0,00000000
+assemble     	0,00000000
+asset        	0,00000205
+assist       	0,00000242
+assistant    	0,00000249
+associate    	0,00000202
+assume       	0,00000287
+assure       	0,00000077
+astonishing  	0,00000056
+astounding   	0,00000000
+astronaut    	0,00000172
+atmosphere   	0,00000038
+atmosphere be	0,00000152
+atmospheric  	0,00000000
+attach       	0,00000000
+attack       	0,00000190
+attempt      	0,00000105
+attend       	0,00000174
+attention    	0,00000060
+attention be 	0,00000000
+attention detail	0,00000061
+attitude     	0,00000420
+attract      	0,00000787
+attraction   	0,00003139
+attractive   	0,00001293
+attribute    	0,00000000
+audience     	0,00000000
+audience be  	0,00000121
+audience have	0,00000229
+audio        	0,00000000
+aura         	0,00000000
+authentic    	0,00000121
+authenticity 	0,00000118
+author       	0,00000056
+authority    	0,00000169
+available    	0,00000113
+average      	0,00000000
+aviator      	0,00000287
+avoid        	0,00000229
+await        	0,00000000
+award        	0,00000019
+award be     	0,00000000
+award best   	0,00000000
+award include	0,00000000
+award win    	0,00000069
+award winner 	0,00000000
+aware        	0,00000121
+awareness    	0,00000000
+awe          	0,00000089
+awesome      	0,00000000
+awesome be   	0,00000000
+awesome movie	0,00000000
+awkward      	0,00000242
+b            	0,00000000
+baby         	0,00000000
+back         	0,00000000
+backdrop     	0,00000114
+background   	0,00000125
+backstory    	0,00000174
+bad          	0,00000056
+bad be       	0,00000000
+bad guy      	0,00000000
+bag          	0,00000000
+balance      	0,00000080
+bale         	0,00000000
+bale be      	0,00000000
+ball         	0,00000132
+ballet       	0,00000176
+band         	0,00000033
+bank         	0,00000000
+banter       	0,00000382
+bar          	0,00000044
+bare         	0,00000273
+base         	0,00000061
+base be      	0,00000000
+base book    	0,00000202
+base comic   	0,00000000
+base novel   	0,00000000
+base real    	0,00000000
+base true    	0,00000048
+basic        	0,00000171
+basis        	0,00000328
+basketball   	0,00000115
+bat          	0,00000000
+batman       	0,00000000
+batman movie 	0,00000000
+battle       	0,00000071
+battle be    	0,00000000
+battle scene 	0,00000100
+battle sequence	0,00000000
+battlefield  	0,00000000
+be           	0,00000000
+be ability   	0,00000000
+be able      	0,00000000
+be above     	0,00000000
+be absolute  	0,00000000
+be absorb    	0,00000000
+be accurate  	0,00000000
+be act       	0,00000143
+be action    	0,00000071
+be actor     	0,00000133
+be actual    	0,00000000
+be adapt     	0,00000000
+be add       	0,00000000
+be adorable  	0,00000000
+be adult     	0,00000143
+be affect    	0,00000205
+be afraid    	0,00000104
+be age       	0,00000000
+be alive     	0,00000078
+be amaze     	0,00000085
+be amazing   	0,00000000
+be american  	0,00000000
+be amusing   	0,00000000
+be animated  	0,00000000
+be answer    	0,00000000
+be anyone    	0,00000000
+be anything  	0,00000000
+be appeal    	0,00000000
+be appreciate	0,00000236
+be appropriate	0,00000000
+be art       	0,00000174
+be artistic  	0,00000000
+be ask       	0,00000000
+be astonishing	0,00000000
+be astounding	0,00000000
+be available 	0,00000387
+be average   	0,00000759
+be award     	0,00000000
+be aware     	0,00000000
+be awe       	0,00000150
+be awesome   	0,00000040
+be awsome    	0,00000000
+be bad       	0,00000000
+be base      	0,00000018
+be battle    	0,00000000
+be be        	0,00000000
+be bear      	0,00000084
+be beat      	0,00000000
+be beautiful 	0,00000032
+be beauty    	0,00000179
+be become    	0,00000000
+be beginning 	0,00000000
+be believable	0,00000000
+be believe   	0,00000000
+be best      	0,00000018
+be better    	0,00000010
+be big       	0,00000018
+be bigger    	0,00000000
+be biggest   	0,00000000
+be bind      	0,00000000
+be bit       	0,00000040
+be black     	0,00000118
+be blu       	0,00000257
+be bold      	0,00000000
+be book      	0,00000000
+be boring    	0,00000000
+be brave     	0,00000337
+be break     	0,00000000
+be breath    	0,00000000
+be breathtaking	0,00000040
+be brief     	0,00000215
+be bright    	0,00000000
+be brilliant 	0,00000015
+be bring     	0,00000000
+be build     	0,00000162
+be call      	0,00000062
+be capable   	0,00000076
+be captivate 	0,00000501
+be captivating	0,00000000
+be capture   	0,00000000
+be carry     	0,00000000
+be cast      	0,00000000
+be catch     	0,00000136
+be certain   	0,00000119
+be change    	0,00000000
+be character 	0,00000104
+be charming  	0,00000204
+be child     	0,00000424
+be chill     	0,00000000
+be cinematic 	0,00000124
+be classic   	0,00000030
+be clean     	0,00000000
+be clear     	0,00000000
+be clever    	0,00000078
+be close     	0,00000000
+be come      	0,00000044
+be comedy    	0,00000359
+be comic     	0,00000000
+be common    	0,00000000
+be compare   	0,00000000
+be compelling	0,00000076
+be complete  	0,00000188
+be complex   	0,00000000
+be concern   	0,00000138
+be concerned 	0,00000000
+be confident 	0,00000000
+be consider  	0,00000031
+be construct 	0,00000000
+be convincing	0,00000045
+be cool      	0,00000036
+be correct   	0,00000000
+be couple    	0,00000883
+be course    	0,00000067
+be craft     	0,00000000
+be crazy     	0,00000000
+be create    	0,00000000
+be creative  	0,00000000
+be credible  	0,00000000
+be creepy    	0,00000000
+be crisp     	0,00000000
+be cult      	0,00000179
+be curious   	0,00000000
+be cut       	0,00000000
+be cute      	0,00000911
+be dark      	0,00000072
+be darn      	0,00000000
+be date      	0,00000167
+be day       	0,00000000
+be dazzling  	0,00000000
+be dead      	0,00000000
+be deal      	0,00000224
+be decent    	0,00000000
+be deep      	0,00000906
+be definite  	0,00000000
+be delight   	0,00000000
+be delighted 	0,00000170
+be delightful	0,00000000
+be deliver   	0,00000000
+be depict    	0,00000000
+be deserve   	0,00000000
+be deserving 	0,00000000
+be design    	0,00000000
+be detail    	0,00000000
+be develop   	0,00000063
+be dialogue  	0,00000000
+be die       	0,00000000
+be difficult 	0,00000000
+be direct    	0,00000045
+be director  	0,00000000
+be disappoint	0,00000000
+be discover  	0,00000000
+be display   	0,00000000
+be disturbing	0,00000000
+be do        	0,00000000
+be documentary	0,00000000
+be doubt     	0,00000042
+be drama     	0,00000273
+be dramatic  	0,00000000
+be draw      	0,00000000
+be dream     	0,00000127
+be drive     	0,00000000
+be due       	0,00000000
+be dynamic   	0,00000000
+be easy      	0,00000100
+be edge      	0,00000221
+be effective 	0,00000079
+be element   	0,00000000
+be emotional 	0,00001558
+be end       	0,00000078
+be endearing 	0,00000162
+be engage    	0,00000096
+be engaging  	0,00000000
+be enhance   	0,00000169
+be enjoy     	0,00000000
+be enjoyable 	0,00000018
+be enough    	0,00000092
+be entertain 	0,00000089
+be entertaining	0,00000018
+be entertainment	0,00000215
+be epic      	0,00000053
+be equal     	0,00000000
+be essential 	0,00000000
+be everyone  	0,00000085
+be everything	0,00000000
+be evident   	0,00000128
+be example   	0,00000000
+be excellent 	0,00000000
+be exception 	0,00000000
+be exceptional	0,00000000
+be excite    	0,00000227
+be excited   	0,00000396
+be exciting  	0,00000000
+be execute   	0,00000000
+be expect    	0,00000000
+be exquisite 	0,00000000
+be extraordinary	0,00000000
+be eye       	0,00000000
+be fabulous  	0,00000000
+be face      	0,00000134
+be fact      	0,00000157
+be fair      	0,00000000
+be faithful  	0,00000000
+be familiar  	0,00000000
+be family    	0,00000000
+be famous    	0,00000000
+be fan       	0,00000050
+be fantastic 	0,00000000
+be fascinate 	0,00000000
+be fascinating	0,00000230
+be fast      	0,00000000
+be father    	0,00000242
+be favorite  	0,00000018
+be favourite 	0,00000198
+be feature   	0,00000000
+be feel      	0,00000117
+be few       	0,00000000
+be fiction   	0,00000000
+be fight     	0,00000106
+be fill      	0,00000078
+be film      	0,00000000
+be find      	0,00000039
+be fine      	0,00000046
+be finest    	0,00000027
+be first     	0,00000000
+be fitting   	0,00000000
+be flaw      	0,00000000
+be flawless  	0,00000044
+be focus     	0,00000147
+be follow    	0,00000000
+be force     	0,00000202
+be forget    	0,00000207
+be fresh     	0,00000000
+be friend    	0,00000143
+be frightening	0,00000000
+be full      	0,00000040
+be fun       	0,00000017
+be funnier   	0,00000000
+be funniest  	0,00000000
+be funny     	0,00000057
+be gay       	0,00000791
+be gem       	0,00000000
+be genius    	0,00000000
+be genre     	0,00000278
+be genuine   	0,00000192
+be get       	0,00000017
+be gift      	0,00000067
+be gifted    	0,00000000
+be girl      	0,00000233
+be give      	0,00000148
+be glad      	0,00000095
+be glue      	0,00000000
+be go        	0,00000008
+be gon       	0,00000000
+be good      	0,00000000
+be gorgeous  	0,00000000
+be grand     	0,00000420
+be graphic   	0,00000000
+be great     	0,00000000
+be greater   	0,00000000
+be greatest  	0,00000021
+be grip      	0,00000000
+be gritty    	0,00000000
+be grow      	0,00000000
+be guarantee 	0,00000000
+be guy       	0,00000000
+be hand      	0,00000000
+be handle    	0,00000092
+be happen    	0,00000000
+be happy     	0,00000054
+be hard      	0,00000024
+be have      	0,00000076
+be head      	0,00000000
+be hear      	0,00000155
+be heart     	0,00004566
+be heartbreaking	0,00000210
+be heartwarming	0,00000000
+be help      	0,00000000
+be hero      	0,00000000
+be high      	0,00000049
+be highest   	0,00000000
+be hilarious 	0,00000000
+be historical	0,00000000
+be history   	0,00000161
+be hit       	0,00000000
+be hold      	0,00000000
+be home      	0,00000210
+be honest    	0,00000147
+be hoot      	0,00000000
+be hope      	0,00000090
+be horror    	0,00000162
+be hot       	0,00000757
+be hour      	0,00000000
+be huge      	0,00000026
+be human     	0,00000116
+be humor     	0,00000000
+be humorous  	0,00000000
+be hysterical	0,00000000
+be iconic    	0,00000000
+be ideal     	0,00000000
+be imaginative	0,00000000
+be impeccable	0,00000000
+be important 	0,00000000
+be impossible	0,00000132
+be impress   	0,00000000
+be impressed 	0,00000038
+be impressive	0,00000000
+be include   	0,00000000
+be incredible	0,00000041
+be innocent  	0,00000000
+be innovative	0,00000000
+be insightful	0,00000000
+be inspirational	0,00000000
+be inspire   	0,00000000
+be inspiring 	0,00000000
+be instant   	0,00000000
+be intelligent	0,00000000
+be intend    	0,00000189
+be intense   	0,00000000
+be interested	0,00000000
+be interesting	0,00000013
+be intriguing	0,00000000
+be introduce 	0,00000000
+be involve   	0,00000088
+be journey   	0,00000000
+be joy       	0,00000000
+be keep      	0,00000065
+be key       	0,00000000
+be kid       	0,00000644
+be kill      	0,00000000
+be kind      	0,00000054
+be know      	0,00000000
+be landmark  	0,00000000
+be large     	0,00000257
+be last      	0,00000000
+be late      	0,00000242
+be laugh     	0,00000000
+be lay       	0,00000000
+be lead      	0,00000092
+be learn     	0,00000000
+be least     	0,00000000
+be leave     	0,00000057
+be less      	0,00000000
+be let       	0,00000000
+be life      	0,00000000
+be light     	0,00000000
+be likable   	0,00000000
+be like      	0,00000000
+be likeable  	0,00000000
+be likely    	0,00000000
+be line      	0,00000000
+be list      	0,00000265
+be little    	0,00000309
+be live      	0,00000000
+be load      	0,00000000
+be long      	0,00000000
+be look      	0,00000038
+be lose      	0,00000000
+be lot       	0,00000059
+be love      	0,00005145
+be lovely    	0,00000073
+be lucky     	0,00000000
+be magic     	0,00000000
+be magical   	0,00000109
+be magnificent	0,00000038
+be main      	0,00000000
+be major     	0,00000114
+be make      	0,00000000
+be man       	0,00000108
+be many      	0,00000106
+be mark      	0,00000233
+be marry     	0,00000174
+be marvel    	0,00000000
+be marvelous 	0,00000122
+be masterful 	0,00000000
+be masterpiece	0,00000021
+be matter    	0,00000000
+be mature    	0,00000198
+be mean      	0,00000134
+be meet      	0,00000000
+be memorable 	0,00000062
+be mention   	0,00000000
+be mesmerizing	0,00000000
+be message   	0,00000000
+be middle    	0,00000000
+be mind      	0,00000000
+be minor     	0,00000000
+be minute    	0,00000000
+be miss      	0,00000000
+be mix       	0,00000000
+be modern    	0,00000000
+be moment    	0,00000066
+be money     	0,00000167
+be mood      	0,00000000
+be more      	0,00000000
+be most      	0,00000000
+be move      	0,00000113
+be movie     	0,00000000
+be much      	0,00000036
+be murder    	0,00000287
+be music     	0,00000093
+be musical   	0,00000000
+be mystery   	0,00000239
+be natural   	0,00000101
+be neat      	0,00000150
+be necessary 	0,00000121
+be need      	0,00000000
+be new       	0,00000073
+be next      	0,00000000
+be nice      	0,00000034
+be nominate  	0,00000000
+be non       	0,00000000
+be normal    	0,00000000
+be nothing   	0,00000034
+be number    	0,00000269
+be numerous  	0,00000000
+be obsess    	0,00000249
+be obvious   	0,00000131
+be ok        	0,00000000
+be old       	0,00000327
+be older     	0,00000165
+be one       	0,00000000
+be only      	0,00000047
+be open      	0,00000000
+be opinion   	0,00000000
+be order     	0,00000239
+be original  	0,00000046
+be other     	0,00000252
+be outstanding	0,00000000
+be overall   	0,00000000
+be overlook  	0,00000151
+be own       	0,00000081
+be pace      	0,00000000
+be part      	0,00000151
+be pay       	0,00000000
+be people    	0,00000000
+be perfect   	0,00000000
+be performance	0,00000000
+be person    	0,00000193
+be personal  	0,00000156
+be phenomenal	0,00000000
+be piece     	0,00000000
+be pitch     	0,00000000
+be place     	0,00000000
+be plain     	0,00000000
+be plan      	0,00000000
+be play      	0,00000019
+be pleasant  	0,00000000
+be please    	0,00000000
+be pleased   	0,00000057
+be pleasure  	0,00000000
+be plenty    	0,00000051
+be plot      	0,00000138
+be poignant  	0,00000000
+be point     	0,00000000
+be popular   	0,00000000
+be portray   	0,00000040
+be positive  	0,00000000
+be possible  	0,00000000
+be powerful  	0,00001574
+be predictable	0,00000000
+be present   	0,00000035
+be price     	0,00000000
+be priceless 	0,00000000
+be prime     	0,00000000
+be produce   	0,00000000
+be profound  	0,00000152
+be proud     	0,00000066
+be psychological	0,00000000
+be pull      	0,00000000
+be pure      	0,00000384
+be put       	0,00000069
+be question  	0,00000000
+be quick     	0,00000000
+be quiet     	0,00000000
+be quintessential	0,00000000
+be rare      	0,00000020
+be rate      	0,00000000
+be raw       	0,00000000
+be read      	0,00000000
+be ready     	0,00000487
+be real      	0,00000046
+be realistic 	0,00000045
+be realize   	0,00000410
+be reason    	0,00000000
+be recognize 	0,00000215
+be recommend 	0,00000000
+be refresh   	0,00000000
+be refreshing	0,00000000
+be regard    	0,00000000
+be relationship	0,00002347
+be release   	0,00000055
+be relevant  	0,00000000
+be remake    	0,00000224
+be remarkable	0,00000000
+be remember  	0,00000000
+be remind    	0,00000156
+be render    	0,00000179
+be responsible	0,00000246
+be restore   	0,00000000
+be reveal    	0,00000000
+be reward    	0,00000000
+be rich      	0,00000000
+be right     	0,00000000
+be rivet     	0,00000000
+be riveting  	0,00000000
+be romance   	0,00003576
+be romantic  	0,00003147
+be sad       	0,00000000
+be safe      	0,00000000
+be same      	0,00000048
+be satisfy   	0,00000202
+be satisfying	0,00000000
+be save      	0,00000000
+be say       	0,00000000
+be scare     	0,00000000
+be scariest  	0,00000000
+be scary     	0,00000044
+be scene     	0,00000092
+be score     	0,00000269
+be screen    	0,00000000
+be second    	0,00000069
+be see       	0,00000000
+be seem      	0,00000000
+be self      	0,00000316
+be send      	0,00000000
+be sensitive 	0,00000189
+be sequel    	0,00000000
+be serious   	0,00000086
+be set       	0,00000067
+be several   	0,00000096
+be sexy      	0,00000374
+be shame     	0,00000000
+be share     	0,00000000
+be sharp     	0,00000000
+be sheer     	0,00000000
+be shine     	0,00000215
+be shock     	0,00000000
+be shocking  	0,00000000
+be shoot     	0,00000000
+be short     	0,00000165
+be show      	0,00000000
+be sign      	0,00000000
+be similar   	0,00000000
+be simple    	0,00000055
+be single    	0,00000183
+be sit       	0,00000000
+be slow      	0,00000000
+be small     	0,00000000
+be smart     	0,00000000
+be solid     	0,00000000
+be someone   	0,00000221
+be something 	0,00000030
+be son       	0,00000000
+be sort      	0,00000108
+be sound     	0,00000000
+be speak     	0,00000000
+be special   	0,00000131
+be spectacular	0,00000027
+be spot      	0,00000000
+be star      	0,00000000
+be start     	0,00000101
+be steal     	0,00000000
+be stellar   	0,00000000
+be story     	0,00000124
+be striking  	0,00000000
+be strong    	0,00000023
+be strongest 	0,00000000
+be stunning  	0,00000017
+be stylish   	0,00000000
+be subject   	0,00000000
+be sublime   	0,00000000
+be subtle    	0,00000000
+be successful	0,00000144
+be such      	0,00000015
+be super     	0,00000000
+be superb    	0,00000016
+be superhero 	0,00000000
+be superior  	0,00000000
+be support   	0,00000000
+be suppose   	0,00000071
+be sure      	0,00000048
+be surprise  	0,00000000
+be surprised 	0,00000000
+be surprising	0,00000000
+be surreal   	0,00000000
+be suspenseful	0,00000000
+be sweep     	0,00000000
+be sweet     	0,00001929
+be take      	0,00000000
+be tale      	0,00000000
+be talented  	0,00000000
+be talk      	0,00000000
+be tear      	0,00000000
+be teenager  	0,00000522
+be tell      	0,00000058
+be tense     	0,00000000
+be terrific  	0,00000017
+be testament 	0,00000000
+be theme     	0,00000000
+be thing     	0,00000068
+be think     	0,00000031
+be third     	0,00000000
+be thrill    	0,00000242
+be thriller  	0,00000453
+be thrilling 	0,00000096
+be throw     	0,00000000
+be tight     	0,00000000
+be time      	0,00000067
+be timeless  	0,00000358
+be today     	0,00000000
+be ton       	0,00000287
+be top       	0,00000030
+be total     	0,00000000
+be touch     	0,00001664
+be touching  	0,00000000
+be tough     	0,00000099
+be tragic    	0,00001434
+be transform 	0,00000174
+be treat     	0,00000000
+be tremendous	0,00000000
+be triumph   	0,00000000
+be true      	0,00000116
+be truth     	0,00000000
+be try       	0,00000052
+be turn      	0,00000000
+be twist     	0,00000000
+be type      	0,00000080
+be typical   	0,00000299
+be ultimate  	0,00000000
+be unbelievable	0,00000265
+be underrated	0,00000000
+be understand	0,00000000
+be unexpected	0,00000000
+be unforgettable	0,00000000
+be unique    	0,00000054
+be universal 	0,00000224
+be unpredictable	0,00000000
+be unusual   	0,00000000
+be uplifting 	0,00000000
+be use       	0,00000000
+be usual     	0,00000000
+be vibrant   	0,00000000
+be view      	0,00000058
+be violent   	0,00000000
+be visual    	0,00000000
+be vivid     	0,00000000
+be voice     	0,00000000
+be want      	0,00000000
+be war       	0,00000200
+be warm      	0,00000000
+be watch     	0,00000000
+be watchable 	0,00000000
+be way       	0,00000000
+be weave     	0,00000000
+be welcome   	0,00000000
+be whole     	0,00000000
+be wild      	0,00000000
+be willing   	0,00000179
+be win       	0,00000109
+be winner    	0,00000000
+be wise      	0,00000196
+be witty     	0,00000000
+be woman     	0,00000334
+be wonder    	0,00000197
+be wonderful 	0,00000020
+be work      	0,00000032
+be world     	0,00000000
+be worth     	0,00000000
+be worthwhile	0,00000000
+be worthy    	0,00000000
+be write     	0,00000040
+be wrong     	0,00000000
+be year      	0,00000108
+be young     	0,00000040
+be younger   	0,00000000
+beach        	0,00000080
+bear         	0,00000000
+beast        	0,00000566
+beat         	0,00000103
+beautiful    	0,00000000
+beautiful be 	0,00000237
+beautiful film	0,00000000
+beautiful mind	0,00000000
+beautiful movie	0,00000000
+beautiful music	0,00000000
+beautiful scene	0,00000000
+beautiful scenery	0,00000263
+beautiful story	0,00000148
+beautiful woman	0,00000123
+beauty       	0,00000949
+beauty be    	0,00000000
+beauty beast 	0,00000218
+beauty film  	0,00000000
+become       	0,00000000
+become classic	0,00000000
+become cult  	0,00000000
+become friend	0,00000000
+bed          	0,00000790
+bedroom      	0,00000469
+befriend     	0,00000126
+begin        	0,00000156
+begin be     	0,00000000
+begin end    	0,00000071
+begining     	0,00000000
+beginning    	0,00000000
+beginning be 	0,00000000
+beginning film	0,00000000
+beginning movie	0,00000000
+behavior     	0,00000000
+being        	0,00000000
+belief       	0,00000000
+believability	0,00000492
+believable   	0,00000000
+believable be	0,00000000
+believe      	0,00000000
+believe be   	0,00000080
+believe have 	0,00000000
+believeable  	0,00000218
+belong       	0,00000050
+beloved      	0,00000103
+belt         	0,00000236
+bend         	0,00000000
+benefit      	0,00000000
+best         	0,00000000
+best act     	0,00000000
+best acting  	0,00000000
+best action  	0,00000000
+best actor   	0,00000017
+best actress 	0,00000000
+best american	0,00000000
+best animated	0,00000000
+best be      	0,00000034
+best best    	0,00000000
+best bond    	0,00000000
+best character	0,00000000
+best comedy  	0,00000000
+best comic   	0,00000000
+best director	0,00000030
+best do      	0,00000000
+best film    	0,00000007
+best friend  	0,00000000
+best have    	0,00000000
+best line    	0,00000000
+best make    	0,00000000
+best moment  	0,00000000
+best movie   	0,00000011
+best musical 	0,00000000
+best part    	0,00000064
+best performance	0,00000000
+best picture 	0,00000000
+best role    	0,00000064
+best scene   	0,00000000
+best science 	0,00000000
+best screenplay	0,00000000
+best see     	0,00000000
+best sound   	0,00000000
+best story   	0,00000198
+best superhero	0,00000000
+best support 	0,00000000
+best thing   	0,00000048
+best time    	0,00000133
+best war     	0,00000000
+best work    	0,00000042
+betray       	0,00000366
+betrayal     	0,00000453
+better       	0,00000000
+better be    	0,00000000
+better better	0,00000000
+better film  	0,00000000
+better first 	0,00000155
+better have  	0,00000000
+better most  	0,00000000
+better movie 	0,00000000
+better original	0,00000000
+bias         	0,00000000
+big          	0,00000000
+big budget   	0,00000000
+big fan      	0,00000000
+big fish     	0,00000000
+big screen   	0,00000066
+big time     	0,00000000
+bigger       	0,00000000
+biggest      	0,00000038
+bill         	0,00000097
+bind         	0,00000162
+biography    	0,00000000
+biopic       	0,00000175
+bird         	0,00000000
+birth        	0,00000474
+bit          	0,00000000
+bit be       	0,00000150
+bite         	0,00000000
+bitter       	0,00000425
+bittersweet  	0,00000422
+bizarre      	0,00000000
+black        	0,00000109
+black comedy 	0,00000000
+black man    	0,00000253
+black white  	0,00000025
+blame        	0,00000261
+blast        	0,00000098
+blaze        	0,00000000
+bleak        	0,00000000
+blend        	0,00000062
+bless        	0,00000246
+blind        	0,00000726
+block        	0,00000000
+blockbuster  	0,00000000
+blonde       	0,00000413
+blood        	0,00000046
+blood be     	0,00000000
+bloody       	0,00000070
+blow         	0,00000078
+blu          	0,00000000
+blu ray      	0,00000066
+blue         	0,00000078
+blue ray     	0,00000000
+blur         	0,00000278
+board        	0,00000000
+boast        	0,00000084
+boat         	0,00000091
+body         	0,00000173
+bold         	0,00000065
+bomb         	0,00000174
+bond         	0,00000135
+bond be      	0,00000000
+bond film    	0,00000000
+bone         	0,00000102
+bonus        	0,00000023
+bonus feature	0,00000000
+book         	0,00000000
+book be      	0,00000024
+book character	0,00000000
+book film    	0,00000000
+book have    	0,00000130
+book hero    	0,00000000
+book movie   	0,00000036
+boost        	0,00000000
+boot         	0,00000000
+boot camp    	0,00000000
+border       	0,00000319
+bore         	0,00000181
+boring       	0,00000000
+boss         	0,00000000
+bother       	0,00000000
+bottom       	0,00000122
+bottom line  	0,00000113
+boundary     	0,00000172
+bow          	0,00000000
+box          	0,00000019
+box be       	0,00000242
+box office   	0,00000095
+box set      	0,00000170
+boxer        	0,00000127
+boxing       	0,00000071
+boy          	0,00000255
+boy be       	0,00000225
+boyfriend    	0,00000185
+brain        	0,00000159
+brand        	0,00000074
+brand new    	0,00000000
+brave        	0,00000362
+bravery      	0,00000158
+break        	0,00000292
+break heart  	0,00002594
+breath       	0,00000073
+breath fresh 	0,00000000
+breathe      	0,00000181
+breathless   	0,00000679
+breathtaking 	0,00000041
+breed        	0,00000000
+bride        	0,00000425
+brief        	0,00000120
+bright       	0,00000116
+brilliance   	0,00000042
+brilliant    	0,00000000
+brilliant be 	0,00000000
+brilliant film	0,00000000
+brilliant performance	0,00000000
+bring        	0,00000000
+bring best   	0,00000441
+bring life   	0,00000000
+bring lot    	0,00000000
+bring memory 	0,00000000
+bring new    	0,00000000
+bring screen 	0,00000000
+bring story  	0,00000161
+bring tear   	0,00000000
+british      	0,00000049
+broad        	0,00000000
+broken       	0,00000447
+brooding     	0,00000000
+brother      	0,00000048
+brother be   	0,00000116
+brother have 	0,00000236
+brutal       	0,00000170
+brutality    	0,00000172
+buck         	0,00000099
+bud          	0,00000191
+buddy        	0,00000205
+budget       	0,00000000
+buff         	0,00000035
+bug          	0,00000000
+build        	0,00000112
+building     	0,00000057
+bull         	0,00000075
+bull be      	0,00000000
+bullet       	0,00000000
+bunch        	0,00000065
+burn         	0,00000107
+burst        	0,00000133
+bury         	0,00000242
+bus          	0,00000000
+business     	0,00000158
+busy         	0,00000249
+button       	0,00000000
+buy          	0,00000000
+buy be       	0,00000278
+buy movie    	0,00000066
+buzz         	0,00000000
+caliber      	0,00000000
+call         	0,00000126
+call be      	0,00000000
+call best    	0,00000000
+calm         	0,00000133
+cameo        	0,00000000
+camera       	0,00000068
+camera be    	0,00000000
+camera work  	0,00000000
+camerawork   	0,00000000
+camp         	0,00000060
+campy        	0,00000000
+candy        	0,00000220
+cant         	0,00000261
+capable      	0,00000134
+capacity     	0,00000748
+captain      	0,00000361
+captivate    	0,00000107
+captivating  	0,00000035
+capture      	0,00000098
+capture be   	0,00000000
+capture essence	0,00000000
+capture film 	0,00000000
+capture heart	0,00002312
+capture spirit	0,00000242
+car          	0,00000077
+car be       	0,00000000
+car chase    	0,00000000
+card         	0,00000120
+care         	0,00000223
+care be      	0,00000000
+care character	0,00000000
+career       	0,00000063
+career be    	0,00000000
+careful      	0,00000382
+caring       	0,00000549
+carry        	0,00000095
+carry film   	0,00000000
+carry movie  	0,00000000
+cartoon      	0,00000034
+case         	0,00000000
+case be      	0,00000082
+cash         	0,00000478
+casino       	0,00000066
+casino be    	0,00000000
+cast         	0,00000000
+cast be      	0,00000016
+cast crew    	0,00000077
+cast do      	0,00000000
+cast give    	0,00000212
+cast great   	0,00000000
+cast have    	0,00000120
+cast include 	0,00000056
+cast lead    	0,00000000
+cast make    	0,00000000
+cast member  	0,00000000
+casting      	0,00000017
+casting be   	0,00000000
+castle       	0,00000200
+casual       	0,00000142
+cat          	0,00000054
+cat mouse    	0,00000000
+catch        	0,00000075
+catch thief  	0,00000000
+catchy       	0,00000000
+category     	0,00000066
+cause        	0,00000179
+cause be     	0,00000000
+celebrate    	0,00000528
+celebration  	0,00000212
+celebrity    	0,00000145
+cell         	0,00000000
+celluloid    	0,00000215
+cement       	0,00000000
+center       	0,00000207
+central      	0,00000063
+century      	0,00000085
+cerebral     	0,00000000
+certain      	0,00000000
+certain scene	0,00000000
+cg           	0,00000000
+cgi          	0,00000000
+chain        	0,00000000
+chair        	0,00000152
+challenge    	0,00000259
+challenging  	0,00000000
+champion     	0,00000212
+chance       	0,00000110
+chance be    	0,00000181
+chance see   	0,00000000
+change       	0,00000189
+change be    	0,00000355
+change life  	0,00000275
+channel      	0,00000084
+chaos        	0,00000192
+chapter      	0,00000305
+character    	0,00000000
+character act	0,00000000
+character actor	0,00000254
+character be 	0,00000000
+character development	0,00000000
+character do 	0,00000169
+character feel	0,00000000
+character film	0,00000223
+character find	0,00000269
+character get	0,00000000
+character have	0,00000075
+character life	0,00000000
+character love	0,00001345
+character make	0,00000150
+character movie	0,00000165
+character play	0,00000177
+character plot	0,00000000
+character seem	0,00000351
+character story	0,00000093
+characteristic	0,00000154
+characterization	0,00000000
+charactor    	0,00000239
+charge       	0,00000130
+charisma     	0,00000170
+charismatic  	0,00000217
+charm        	0,00000148
+charming     	0,00000192
+chase        	0,00000019
+cheap        	0,00000183
+check        	0,00000046
+cheek        	0,00000177
+cheer        	0,00000113
+cheesy       	0,00000113
+chemistry    	0,00001046
+chemistry be 	0,00000000
+cherish      	0,00000110
+chew         	0,00000242
+chick        	0,00000349
+chick flick  	0,00000000
+child        	0,00000192
+child actor  	0,00000000
+child adult  	0,00000000
+child be     	0,00000185
+child have   	0,00000430
+child love   	0,00000138
+child movie  	0,00000000
+childhood    	0,00000108
+childhood friend	0,00000273
+chill        	0,00000032
+chilling     	0,00000078
+chinese      	0,00000000
+chock        	0,00000000
+choice       	0,00000058
+choice be    	0,00000615
+choose       	0,00000203
+chop         	0,00000000
+choreograph  	0,00000133
+choreography 	0,00000070
+choreography be	0,00000000
+christian    	0,00000038
+christian bale	0,00000000
+christmas    	0,00000000
+christopher  	0,00000000
+chronicle    	0,00000183
+chuckle      	0,00000000
+church       	0,00000143
+cinema       	0,00000150
+cinema be    	0,00000218
+cinematic    	0,00000053
+cinematic experience	0,00000000
+cinematic history	0,00000187
+cinematic masterpiece	0,00000355
+cinematographer	0,00000000
+cinematography	0,00000041
+cinematography be	0,00000000
+circle       	0,00000000
+circumstance 	0,00000347
+circus       	0,00000000
+citizen      	0,00000156
+city         	0,00000000
+city be      	0,00000000
+civil        	0,00000000
+civilization 	0,00000000
+claim        	0,00000063
+claim be     	0,00000000
+clarity      	0,00000000
+clash        	0,00000000
+class        	0,00000075
+classic      	0,00000031
+classic be   	0,00000024
+classic best 	0,00000249
+classic comedy	0,00000221
+classic do   	0,00000000
+classic everyone	0,00000253
+classic film 	0,00000000
+classic great	0,00000242
+classic have 	0,00000184
+classic horror	0,00000000
+classic love 	0,00000436
+classic movie	0,00000017
+classic scene	0,00000000
+classic story	0,00000000
+classic time 	0,00000000
+classical    	0,00000131
+clean        	0,00000000
+clear        	0,00000000
+clear be     	0,00000242
+clever       	0,00000051
+clich        	0,00000151
+cliche       	0,00000380
+climactic    	0,00000000
+climax       	0,00000094
+clip         	0,00000331
+clock        	0,00000193
+close        	0,00000000
+close attention	0,00000000
+closer       	0,00000000
+closest      	0,00000341
+closing      	0,00000102
+closure      	0,00000191
+clothes      	0,00000170
+clothing     	0,00000148
+club         	0,00000000
+clue         	0,00000071
+co.          	0,00000216
+coaster      	0,00000000
+coaster ride 	0,00000000
+cocky        	0,00000278
+code         	0,00000000
+coffee       	0,00000000
+coincidence  	0,00000215
+cold         	0,00000264
+collaboration	0,00000000
+collateral   	0,00000000
+collateral be	0,00000000
+collection   	0,00000000
+collection be	0,00000000
+collective   	0,00000273
+collector edition	0,00000177
+college      	0,00000169
+color        	0,00000057
+color be     	0,00000000
+colorful     	0,00000180
+colour       	0,00000000
+com          	0,00000148
+combat       	0,00000114
+combination  	0,00000000
+combine      	0,00000135
+come         	0,00000000
+come age     	0,00000000
+come alive   	0,00000000
+come be      	0,00000147
+come great   	0,00000000
+come have    	0,00000000
+come life    	0,00000000
+come long    	0,00000000
+come love    	0,00000000
+come make    	0,00000000
+come mind    	0,00000113
+come movie   	0,00000327
+come term    	0,00000000
+come true    	0,00001012
+come year    	0,00000000
+comeback     	0,00000246
+comedian     	0,00000000
+comedic      	0,00000034
+comedy       	0,00000148
+comedy be    	0,00000091
+comedy classic	0,00000000
+comedy drama 	0,00000000
+comedy have  	0,00000170
+comedy make  	0,00000246
+comedy movie 	0,00000000
+comedy romance	0,00000000
+comedy time  	0,00000000
+comfort      	0,00000403
+comfortable  	0,00000259
+comic        	0,00000013
+comic be     	0,00000167
+comic book   	0,00000018
+comic movie  	0,00000000
+comic relief 	0,00000000
+comical      	0,00000102
+command      	0,00000000
+commend      	0,00000176
+comment      	0,00000000
+commentary   	0,00000019
+commentary be	0,00000000
+commentary track	0,00000000
+commercial   	0,00000065
+commit       	0,00000195
+commitment   	0,00000176
+common       	0,00000335
+communicate  	0,00000552
+communication	0,00000191
+community    	0,00000268
+companion    	0,00000342
+company      	0,00000120
+compare      	0,00000040
+comparison   	0,00000000
+compassion   	0,00000652
+compassionate	0,00000280
+compel       	0,00000391
+compelling   	0,00000079
+compelling be	0,00000287
+compelling story	0,00000000
+compete      	0,00000478
+competent    	0,00000143
+competition  	0,00000000
+complain     	0,00000194
+complement   	0,00000101
+complete     	0,00000135
+complex      	0,00000179
+complex character	0,00000000
+complexity   	0,00000292
+complicate   	0,00000325
+complicated  	0,00000476
+compliment   	0,00000060
+component    	0,00000233
+compose      	0,00000445
+composer     	0,00000067
+composition  	0,00000000
+comprehend   	0,00000278
+computer     	0,00000049
+computer animation	0,00000000
+computer generate	0,00000000
+conceive     	0,00000307
+concentrate  	0,00000000
+concept      	0,00000065
+concept be   	0,00000000
+concern      	0,00000283
+concerned    	0,00000000
+conclusion   	0,00000000
+conclusion be	0,00000000
+condition    	0,00000130
+condition be 	0,00000000
+confess      	0,00000459
+confidence   	0,00000209
+confident    	0,00000141
+confirm      	0,00000000
+conflict     	0,00000424
+confront     	0,00000000
+confrontation	0,00000143
+confuse      	0,00000288
+confused     	0,00000359
+confusing    	0,00000000
+confusion    	0,00000000
+connect      	0,00000420
+connection   	0,00002113
+conquer      	0,00000487
+conscience   	0,00000174
+conscious    	0,00000287
+consciousness	0,00000000
+consequence  	0,00000131
+consider     	0,00000000
+consider be  	0,00000063
+consider best	0,00000000
+consider classic	0,00000000
+considerable 	0,00000187
+consideration	0,00000000
+consist      	0,00000370
+consistent   	0,00000098
+constant     	0,00000145
+construct    	0,00000075
+construction 	0,00000278
+contact      	0,00000148
+contain      	0,00000083
+contemplate  	0,00000269
+contemporary 	0,00000063
+content      	0,00000107
+content be   	0,00000000
+contest      	0,00000000
+context      	0,00000000
+continue     	0,00000120
+continue be  	0,00000000
+contrary     	0,00000000
+contrast     	0,00000095
+contribute   	0,00000065
+contribution 	0,00000403
+control      	0,00000035
+controversial	0,00000164
+convention   	0,00000275
+conventional 	0,00000457
+conversation 	0,00000244
+convey       	0,00000461
+convict      	0,00000226
+conviction   	0,00000380
+convince     	0,00000306
+convincing   	0,00000138
+cool         	0,00000056
+cool be      	0,00000334
+cop          	0,00000088
+cop be       	0,00000000
+cope         	0,00000607
+copy be      	0,00000000
+core         	0,00000354
+corner       	0,00000000
+corny        	0,00000177
+correct      	0,00000000
+corrupt      	0,00000112
+corruption   	0,00000000
+cost         	0,00000122
+costume      	0,00000068
+costume be   	0,00000000
+count        	0,00000047
+counter      	0,00000273
+countless    	0,00000110
+country      	0,00000164
+country be   	0,00000000
+countryside  	0,00000181
+couple       	0,00000699
+couple hour  	0,00000000
+couple time  	0,00000000
+couple year  	0,00000181
+courage      	0,00000212
+courageous   	0,00000155
+course       	0,00000087
+course be    	0,00000099
+course film  	0,00000000
+course have  	0,00000000
+course movie 	0,00000257
+court        	0,00000145
+cousin       	0,00000000
+cover        	0,00000073
+cowboy       	0,00000346
+crack        	0,00000153
+craft        	0,00000091
+crash        	0,00000072
+crazy        	0,00000082
+create       	0,00000000
+create be    	0,00000000
+create character	0,00000000
+create film  	0,00000000
+create masterpiece	0,00000000
+creation     	0,00000040
+creative     	0,00000112
+creativity   	0,00000069
+creator      	0,00000086
+creature     	0,00000187
+creature be  	0,00000207
+credibility  	0,00000196
+credible     	0,00000088
+credit       	0,00000040
+credit roll  	0,00000000
+creep        	0,00000181
+creepy       	0,00000118
+crew         	0,00000042
+crew be      	0,00000000
+crime        	0,00000093
+crime drama  	0,00000506
+criminal     	0,00000093
+cringe       	0,00000233
+crisis       	0,00000334
+crisp        	0,00000000
+crisp clear  	0,00000000
+critic       	0,00000000
+critical     	0,00000069
+critique     	0,00000000
+cross        	0,00000306
+crow         	0,00000000
+crowd        	0,00000149
+crucial      	0,00000000
+cruel        	0,00000233
+cruelty      	0,00000218
+cruise       	0,00000000
+cruise be    	0,00000000
+cry          	0,00000231
+crystal      	0,00000183
+crystal clear	0,00000233
+culminate    	0,00000405
+cult         	0,00000000
+cult classic 	0,00000068
+cultural     	0,00000131
+culture      	0,00000094
+culture be   	0,00000000
+cup          	0,00000000
+curiosity    	0,00000478
+curious      	0,00000091
+curse        	0,00000249
+cut          	0,00000000
+cut be       	0,00000000
+cute         	0,00000747
+cute movie   	0,00000265
+cynical      	0,00000205
+cynicism     	0,00000717
+d            	0,00000000
+dad          	0,00000109
+daily        	0,00000292
+damage       	0,00000193
+damn         	0,00000000
+dance        	0,00000104
+dance number 	0,00000000
+dance wolf   	0,00000000
+dancing      	0,00000077
+danger       	0,00000064
+dangerous    	0,00000088
+dare         	0,00000095
+daring       	0,00000164
+dark         	0,00000029
+dark be      	0,00000000
+dark city    	0,00000000
+dark comedy  	0,00000000
+dark humor   	0,00000000
+darker       	0,00000000
+darkest      	0,00000000
+darkness     	0,00000202
+darn         	0,00000000
+dash         	0,00000000
+date         	0,00000083
+date be      	0,00000161
+date movie   	0,00000000
+dated        	0,00000000
+daughter     	0,00000317
+daughter be  	0,00000402
+daughter love	0,00000000
+dawn         	0,00000207
+day          	0,00000074
+day be       	0,00000069
+day day      	0,00000000
+day have     	0,00000198
+day see      	0,00000574
+dazzle       	0,00000000
+dazzling     	0,00000063
+dc           	0,00000000
+dead         	0,00000064
+deadly       	0,00000143
+deal         	0,00000094
+deal be      	0,00000000
+death        	0,00000358
+death be     	0,00000000
+debate       	0,00000000
+debut        	0,00000042
+decade       	0,00000075
+decent       	0,00000033
+decent movie 	0,00000000
+decide       	0,00000058
+decide be    	0,00000405
+decide watch 	0,00000000
+decision     	0,00000051
+declare      	0,00000261
+dedicated    	0,00000253
+dedication   	0,00000369
+deep         	0,00001574
+deeper       	0,00000237
+deepest      	0,00002539
+defeat       	0,00000284
+defend       	0,00000000
+define       	0,00000041
+definition   	0,00000057
+definitive   	0,00000234
+deft         	0,00000000
+defy         	0,00000351
+degree       	0,00000000
+delete scene 	0,00000000
+deliberate   	0,00000000
+delicate     	0,00000201
+delicious    	0,00000000
+delight      	0,00000090
+delightful   	0,00000083
+deliver      	0,00000041
+deliver goods	0,00000000
+deliver great	0,00000162
+delivery     	0,00000046
+delivery be  	0,00000000
+demand       	0,00000053
+demeanor     	0,00000600
+demon        	0,00000263
+demonstrate  	0,00000285
+deny         	0,00000317
+depart       	0,00000000
+depart be    	0,00000000
+department   	0,00000000
+depend       	0,00000000
+depict       	0,00000256
+depiction    	0,00000031
+depressing   	0,00000000
+depression   	0,00000176
+depth        	0,00000166
+depths       	0,00000607
+descent      	0,00000000
+describe     	0,00000121
+description  	0,00000183
+desert       	0,00000000
+deserve      	0,00000000
+deserve be   	0,00000000
+deserve star 	0,00000000
+deserve win  	0,00000000
+deserving    	0,00000000
+design       	0,00000030
+design be    	0,00000000
+designer     	0,00000148
+desire       	0,00002096
+despair      	0,00000922
+desperate    	0,00000461
+desperation  	0,00000453
+destine      	0,00000000
+destiny      	0,00000331
+destroy      	0,00000053
+destruction  	0,00000148
+detail       	0,00000044
+detail be    	0,00000000
+detailed     	0,00000000
+detective    	0,00000098
+determination	0,00000404
+determine    	0,00000116
+detract      	0,00000000
+develop      	0,00000273
+develop character	0,00000000
+development  	0,00000045
+development be	0,00000000
+device       	0,00000135
+devote       	0,00000998
+devoted      	0,00000679
+devotion     	0,00000609
+dialog       	0,00000101
+dialog be    	0,00000129
+dialogue     	0,00000000
+dialogue be  	0,00000000
+dialouge     	0,00000229
+diamond      	0,00000198
+didnt        	0,00000000
+die          	0,00000168
+die be       	0,00000000
+die hard     	0,00000000
+difference   	0,00000160
+difference be	0,00000179
+difficult    	0,00000129
+difficulty   	0,00000725
+dig          	0,00000273
+digital      	0,00000039
+digital copy 	0,00000000
+dignity      	0,00000269
+dilemma      	0,00000140
+dimension    	0,00000000
+dimensional  	0,00000088
+diminish     	0,00000282
+dinner       	0,00000000
+dinosaur     	0,00000000
+direct       	0,00000046
+direct act   	0,00000000
+direct be    	0,00000000
+direct film  	0,00000000
+direct movie 	0,00000140
+direct star  	0,00000000
+direct write 	0,00000000
+directing    	0,00000022
+direction    	0,00000032
+direction be 	0,00000028
+director     	0,00000000
+director actor	0,00000170
+director be  	0,00000000
+director best	0,00000096
+director cut 	0,00000000
+director film	0,00000000
+director have	0,00000000
+director make	0,00000000
+director time	0,00000000
+directorial  	0,00000000
+dirty        	0,00000140
+disappear    	0,00000174
+disappoint   	0,00000103
+disaster     	0,00000236
+disbelief    	0,00000000
+disc         	0,00000000
+disc be      	0,00000000
+disc have    	0,00000000
+disc set     	0,00000000
+disc special 	0,00000142
+discipline   	0,00000425
+discover     	0,00000163
+discover be  	0,00000297
+discovery    	0,00000263
+discuss      	0,00000084
+discussion   	0,00000070
+disk         	0,00000000
+disk be      	0,00000000
+disney       	0,00000000
+display      	0,00000170
+distance     	0,00000542
+distant      	0,00000242
+distinct     	0,00000273
+distinction  	0,00000000
+distinguish  	0,00000000
+distract     	0,00000000
+disturb      	0,00000000
+disturbing   	0,00000099
+diverse      	0,00000161
+divide       	0,00000000
+divine       	0,00000239
+divorce      	0,00000604
+do           	0,00000000
+do act       	0,00000538
+do add       	0,00000287
+do anything  	0,00000000
+do be        	0,00000057
+do believe   	0,00000113
+do best      	0,00000049
+do better    	0,00000000
+do care      	0,00000088
+do come      	0,00000000
+do disappoint	0,00000146
+do do        	0,00000000
+do end       	0,00000000
+do enjoy     	0,00000000
+do everything	0,00000000
+do excellent 	0,00000028
+do expect    	0,00000000
+do feel      	0,00000000
+do find      	0,00000000
+do fine      	0,00000059
+do get       	0,00000027
+do give      	0,00000090
+do go        	0,00000000
+do good      	0,00000000
+do great     	0,00000000
+do happen    	0,00000000
+do have      	0,00000053
+do incredible	0,00000000
+do justice   	0,00000097
+do keep      	0,00000000
+do know      	0,00000201
+do let       	0,00000000
+do like      	0,00000087
+do live      	0,00000000
+do look      	0,00000000
+do love      	0,00000221
+do make      	0,00000041
+do many      	0,00000000
+do matter    	0,00000000
+do mean      	0,00000000
+do mind      	0,00000000
+do more      	0,00000000
+do movie     	0,00000000
+do need      	0,00000084
+do nice      	0,00000000
+do notice    	0,00000000
+do outstanding	0,00000000
+do own       	0,00000000
+do realize   	0,00000000
+do recommend 	0,00000000
+do remarkable	0,00000000
+do same      	0,00000000
+do say       	0,00000000
+do see       	0,00000000
+do seem      	0,00000000
+do show      	0,00000187
+do something 	0,00000000
+do take      	0,00000312
+do think     	0,00000000
+do try       	0,00000000
+do understand	0,00000234
+do want      	0,00000093
+do watch     	0,00000000
+do wonderful 	0,00000043
+do work      	0,00000116
+doctor       	0,00000430
+document     	0,00000000
+documentary  	0,00000024
+documentary be	0,00000000
+doesnt       	0,00000198
+dog          	0,00000209
+dog be       	0,00000000
+doll         	0,00000000
+dollar       	0,00000094
+dominate     	0,00000204
+don          	0,00000000
+donkey       	0,00000271
+dont         	0,00000126
+doom         	0,00000472
+door         	0,00000226
+dose         	0,00000152
+double       	0,00000083
+doubt        	0,00000045
+doubt be     	0,00000175
+doubt best   	0,00000000
+down         	0,00000000
+downs        	0,00000000
+dozen        	0,00000000
+dozen time   	0,00000000
+drag         	0,00000000
+dragon       	0,00000370
+drama        	0,00000118
+drama action 	0,00000000
+drama be     	0,00000618
+dramas       	0,00000000
+dramatic     	0,00000096
+draw         	0,00000071
+drawing      	0,00000000
+dread        	0,00000000
+dream        	0,00000104
+dream be     	0,00000145
+dream come   	0,00000239
+dress        	0,00000156
+drink        	0,00000000
+drive        	0,00000172
+driver       	0,00000077
+drop         	0,00000136
+drug         	0,00000336
+drunk        	0,00000169
+dry          	0,00000122
+dub          	0,00000000
+due          	0,00000094
+duel         	0,00000000
+dull         	0,00000116
+dumb         	0,00000532
+dust         	0,00000158
+duty         	0,00000456
+dynamic      	0,00000159
+dynamics     	0,00000000
+dysfunctional	0,00000000
+e.           	0,00000181
+ear          	0,00000067
+earlier      	0,00000202
+earlier film 	0,00000246
+early        	0,00000000
+earn         	0,00000032
+earnest      	0,00000000
+earth        	0,00000058
+ease         	0,00000287
+easier       	0,00000162
+easy         	0,00000100
+easy follow  	0,00000000
+easy see     	0,00000000
+eat          	0,00000060
+eccentric    	0,00000000
+edge         	0,00000000
+edge seat    	0,00000000
+edgy         	0,00000000
+edit         	0,00000000
+editing      	0,00000022
+edition      	0,00000000
+edition be   	0,00000038
+editor       	0,00000115
+educate      	0,00000000
+education    	0,00000738
+eerie        	0,00000000
+effect       	0,00000053
+effect action	0,00000000
+effect be    	0,00000000
+effect film  	0,00000000
+effect great 	0,00000000
+effect have  	0,00000000
+effect make  	0,00000000
+effect movie 	0,00000000
+effective    	0,00000039
+efficient    	0,00000000
+effort       	0,00000035
+effort be    	0,00000000
+effortless   	0,00000472
+egg          	0,00000273
+ego          	0,00000294
+elaborate    	0,00000133
+elder        	0,00000492
+electric     	0,00000210
+electrifying 	0,00000287
+elegance     	0,00000000
+elegant      	0,00000153
+element      	0,00000080
+element be   	0,00000261
+element make 	0,00000000
+elephant     	0,00000212
+elevate      	0,00000092
+elevated     	0,00000265
+elicit       	0,00000269
+eloquent     	0,00000212
+else         	0,00000000
+elusive      	0,00000000
+embark       	0,00000555
+embody       	0,00000323
+embrace      	0,00000898
+emerge       	0,00000066
+emotion      	0,00001596
+emotion be   	0,00000179
+emotion character	0,00000514
+emotional    	0,00001228
+emotional impact	0,00000000
+empathize    	0,00000000
+empathy      	0,00000703
+emphasis     	0,00000161
+emphasize    	0,00000267
+empire       	0,00000102
+employ       	0,00000112
+empty        	0,00000000
+enable       	0,00000630
+enchant      	0,00000362
+enchanting   	0,00000000
+encounter    	0,00000246
+encourage    	0,00000084
+end          	0,00000000
+end be       	0,00000122
+end do       	0,00000000
+end film     	0,00000139
+end have     	0,00000096
+end leave    	0,00000183
+end make     	0,00000000
+end movie    	0,00000080
+end result   	0,00000000
+end see      	0,00000459
+endearing    	0,00000000
+endeavor     	0,00000236
+ending       	0,00000000
+ending be    	0,00000000
+ending movie 	0,00000000
+endless      	0,00000176
+endure       	0,00000182
+enduring     	0,00000000
+enemy        	0,00000116
+enemy be     	0,00000000
+energetic    	0,00000000
+energy       	0,00000072
+engage       	0,00000000
+engaging     	0,00000106
+english      	0,00000000
+engross      	0,00000000
+engrossing   	0,00000000
+enhance      	0,00000122
+enigmatic    	0,00000142
+enjoy        	0,00000016
+enjoy action 	0,00000000
+enjoy be     	0,00000098
+enjoy do     	0,00000130
+enjoy film   	0,00000000
+enjoy good   	0,00000514
+enjoy great  	0,00000000
+enjoy have   	0,00000000
+enjoy many   	0,00000000
+enjoy movie  	0,00000000
+enjoy much   	0,00000000
+enjoy music  	0,00000000
+enjoy see    	0,00000000
+enjoy time   	0,00000122
+enjoy watch  	0,00000000
+enjoy year   	0,00000000
+enjoyable    	0,00000023
+enjoyable film	0,00000000
+enjoyable movie	0,00000000
+enjoyable watch	0,00000000
+enlighten    	0,00000000
+enormous     	0,00000000
+enough       	0,00000000
+ensemble     	0,00000000
+ensemble cast	0,00000068
+ensue        	0,00000344
+ensure       	0,00000177
+enter        	0,00000000
+enter be     	0,00000000
+entertain    	0,00000030
+entertaining 	0,00000032
+entertaining be	0,00000000
+entertaining film	0,00000000
+entertaining have	0,00000000
+entertaining movie	0,00000000
+entertaining watch	0,00000000
+entertainment	0,00000082
+entertainment be	0,00000000
+entertainment value	0,00000143
+enthusiasm   	0,00000000
+enthusiast   	0,00000000
+entice       	0,00000000
+entire       	0,00000000
+entire cast  	0,00000045
+entire family	0,00000000
+entire film  	0,00000052
+entire movie 	0,00000089
+entire time  	0,00000000
+entirety     	0,00000000
+entrance     	0,00000177
+entry        	0,00000000
+environment  	0,00000069
+envy         	0,00000538
+epic         	0,00000049
+epic film    	0,00000107
+episode      	0,00000000
+equal        	0,00000273
+era          	0,00000000
+era be       	0,00000000
+escape       	0,00000226
+essence      	0,00000119
+essential    	0,00000103
+establish    	0,00000138
+etc          	0,00000000
+eternal      	0,00000532
+ethic        	0,00000000
+european     	0,00000130
+evening      	0,00000000
+event        	0,00000111
+event be     	0,00000000
+eventual     	0,00000337
+everybody    	0,00000000
+everyday     	0,00000254
+everyday life	0,00000000
+everyman     	0,00000000
+everyone     	0,00000000
+everyone be  	0,00000182
+everyone do  	0,00000000
+everyone enjoy	0,00000000
+everyone have	0,00000072
+everyone involve	0,00000148
+everyone know	0,00000000
+everyone see 	0,00000114
+everyone watch	0,00000000
+everything   	0,00000000
+everything be	0,00000049
+everything do	0,00000000
+everything film	0,00000000
+everything have	0,00000000
+everything movie	0,00000000
+evident      	0,00000295
+evil         	0,00000095
+evoke        	0,00000460
+evolve       	0,00000257
+exact        	0,00000130
+examination  	0,00000000
+examine      	0,00000099
+example      	0,00000125
+exceed       	0,00000128
+excel        	0,00000192
+excellence   	0,00000000
+excellent    	0,00000000
+excellent acting	0,00000084
+excellent be 	0,00000062
+excellent cast	0,00000000
+excellent character	0,00000000
+excellent cinematography	0,00000000
+excellent condition	0,00000000
+excellent film	0,00000000
+excellent job	0,00000030
+excellent movie	0,00000000
+excellent performance	0,00000043
+excellent role	0,00000000
+excellent script	0,00000000
+excellent special	0,00000000
+excellent story	0,00000105
+exception    	0,00000033
+exceptional  	0,00000044
+excess       	0,00000000
+excessive    	0,00000000
+exchange     	0,00000239
+excite       	0,00000049
+excite see   	0,00000000
+excitement   	0,00000113
+exciting     	0,00000042
+exciting action	0,00000000
+execute      	0,00000000
+execution    	0,00000000
+executive    	0,00000221
+exhibit      	0,00000152
+exhilarating 	0,00000000
+exist        	0,00000183
+existence    	0,00000065
+existential  	0,00000688
+exorcist     	0,00000000
+exotic       	0,00000388
+expand       	0,00000185
+expect       	0,00000000
+expect be    	0,00000000
+expectation  	0,00000091
+expectation be	0,00000000
+expensive    	0,00000000
+experience   	0,00000000
+experience be	0,00000069
+experience have	0,00000215
+experience movie	0,00000253
+experiment   	0,00000000
+expert       	0,00000000
+explain      	0,00000102
+explain be   	0,00000000
+explanation  	0,00000000
+explode      	0,00000000
+exploit      	0,00000000
+exploration  	0,00000179
+explore      	0,00000258
+explosion    	0,00000069
+explosive    	0,00000110
+expose       	0,00000000
+express      	0,00002157
+expression   	0,00000328
+expressive   	0,00000555
+exquisite    	0,00000271
+extend       	0,00000000
+extended     	0,00000000
+extent       	0,00000210
+exterior     	0,00000000
+extra        	0,00000000
+extra be     	0,00000000
+extra disc   	0,00000000
+extra footage	0,00000000
+extra include	0,00000000
+extraordinary	0,00000079
+extreme      	0,00000000
+exude        	0,00000189
+eye          	0,00000000
+eye be       	0,00000214
+fable        	0,00000344
+fabulous     	0,00000056
+face         	0,00000000
+face be      	0,00000070
+facet        	0,00000000
+facial       	0,00000348
+facial expression	0,00000096
+fact         	0,00000000
+fact be      	0,00000108
+fact do      	0,00000229
+fact film    	0,00000000
+fact have    	0,00000000
+fact movie   	0,00000000
+factor       	0,00000000
+factual      	0,00000261
+fail         	0,00000337
+failure      	0,00000000
+faint        	0,00000000
+fair         	0,00000072
+fairy        	0,00000041
+fairy tale   	0,00000000
+fairytale    	0,00000215
+faith        	0,00000097
+faithful     	0,00000104
+fake         	0,00000328
+fall         	0,00002553
+fall love    	0,00003539
+fame         	0,00000164
+familiar     	0,00000117
+family       	0,00000139
+family be    	0,00000044
+family enjoy 	0,00000000
+family favorite	0,00000000
+family film  	0,00000000
+family friend	0,00000131
+family have  	0,00000129
+family life  	0,00000000
+family love  	0,00000159
+family man   	0,00000000
+family member	0,00000000
+family movie 	0,00000000
+family watch 	0,00000000
+famous       	0,00000151
+fan          	0,00000000
+fan be       	0,00000031
+fan comic    	0,00000183
+fan do       	0,00000000
+fan enjoy    	0,00000000
+fan fan      	0,00000000
+fan film     	0,00000000
+fan have     	0,00000174
+fan like     	0,00000000
+fan love     	0,00000086
+fan movie    	0,00000000
+fan series   	0,00000000
+fancy        	0,00000202
+fantastic    	0,00000000
+fantastic be 	0,00000000
+fantastic movie	0,00000000
+fantastic performance	0,00000000
+fantastic story	0,00000000
+fantastical  	0,00000261
+fantasy      	0,00000112
+far          	0,00000000
+fascinate    	0,00000000
+fascinating  	0,00000039
+fascinating watch	0,00000000
+fascination  	0,00000137
+fashion      	0,00000058
+fast         	0,00000121
+fast pace    	0,00000207
+fast paced   	0,00000000
+fate         	0,00000109
+father       	0,00000000
+father be    	0,00000000
+father son   	0,00000251
+fault        	0,00000111
+favor        	0,00000000
+favorite     	0,00000000
+favorite actor	0,00000000
+favorite be  	0,00000000
+favorite character	0,00000000
+favorite director	0,00000189
+favorite film	0,00000000
+favorite mine	0,00000000
+favorite movie	0,00000000
+favorite part	0,00000000
+favorite scene	0,00000000
+favorite time	0,00000000
+favourite    	0,00000140
+fear         	0,00000272
+fear be      	0,00000000
+feast        	0,00000000
+feat         	0,00000162
+feature      	0,00000039
+feature be   	0,00000000
+feature include	0,00000000
+featurette   	0,00000000
+featurette be	0,00000000
+feed         	0,00000134
+feel         	0,00000892
+feel be      	0,00000068
+feel character	0,00000322
+feel good    	0,00000172
+feel have    	0,00000204
+feel real    	0,00000000
+feeling      	0,00001523
+feeling be   	0,00000249
+fellow       	0,00000234
+female       	0,00000396
+female character	0,00000196
+female lead  	0,00000000
+fetch        	0,00000000
+few          	0,00000000
+few film     	0,00000000
+few good     	0,00000000
+few minute   	0,00000000
+few moment   	0,00000000
+few month    	0,00000000
+few movie    	0,00000000
+few other    	0,00000000
+few people   	0,00000233
+few scene    	0,00000000
+few time     	0,00000000
+few year     	0,00000140
+fi           	0,00000024
+fi movie     	0,00000000
+fiction      	0,00000000
+fiction be   	0,00000000
+fiction film 	0,00000000
+fiction movie	0,00000000
+fictional    	0,00000213
+fiddler roof 	0,00000000
+field        	0,00000054
+fierce       	0,00000174
+fifty        	0,00000425
+fight        	0,00000051
+fight be     	0,00000000
+fight club   	0,00000000
+fight scene  	0,00000060
+fight sequence	0,00000000
+fighter      	0,00000179
+fighting     	0,00000061
+figure       	0,00000070
+figure be    	0,00000000
+fill         	0,00000155
+film         	0,00000000
+film act     	0,00000000
+film actor   	0,00000000
+film add     	0,00000000
+film age     	0,00000000
+film appeal  	0,00000000
+film base    	0,00000000
+film be      	0,00000000
+film become  	0,00000156
+film begin   	0,00000164
+film best    	0,00000055
+film better  	0,00000000
+film bring   	0,00000000
+film buff    	0,00000000
+film character	0,00000158
+film classic 	0,00000148
+film come    	0,00000081
+film create  	0,00000000
+film dark    	0,00000000
+film date    	0,00000000
+film day     	0,00000000
+film deal    	0,00000210
+film decade  	0,00000000
+film deliver 	0,00000000
+film deserve 	0,00000000
+film direct  	0,00000000
+film director	0,00000000
+film do      	0,00000050
+film end     	0,00000120
+film enjoy   	0,00000000
+film enjoyable	0,00000000
+film everyone	0,00000000
+film excellent	0,00000000
+film experience	0,00000000
+film explore 	0,00000000
+film feature 	0,00000000
+film few     	0,00000000
+film fill    	0,00000000
+film film    	0,00000000
+film find    	0,00000141
+film first   	0,00000214
+film full    	0,00000000
+film get     	0,00000052
+film give    	0,00000000
+film go      	0,00000000
+film good    	0,00000082
+film great   	0,00000000
+film have    	0,00000000
+film help    	0,00000000
+film history 	0,00000000
+film hold    	0,00000000
+film industry	0,00000000
+film keep    	0,00000000
+film know    	0,00000000
+film last    	0,00000000
+film least   	0,00000000
+film leave   	0,00000000
+film like    	0,00000000
+film look    	0,00000000
+film lot     	0,00000000
+film love    	0,00000000
+film lover   	0,00000000
+film make    	0,00000000
+film making  	0,00000000
+film many    	0,00000000
+film most    	0,00000000
+film move    	0,00000514
+film movie   	0,00000000
+film need    	0,00000000
+film noir    	0,00000000
+film offer   	0,00000221
+film open    	0,00000000
+film opinion 	0,00000000
+film other   	0,00000000
+film past    	0,00000000
+film play    	0,00000000
+film plot    	0,00000000
+film portray 	0,00000000
+film produce 	0,00000000
+film prove   	0,00000000
+film provide 	0,00000000
+film put     	0,00000000
+film real    	0,00000000
+film receive 	0,00000000
+film recommend	0,00000000
+film remain  	0,00000000
+film remind  	0,00000000
+film say     	0,00000000
+film scene   	0,00000000
+film score   	0,00000000
+film see     	0,00000000
+film seem    	0,00000000
+film set     	0,00000000
+film shine   	0,00000265
+film show    	0,00000000
+film special 	0,00000000
+film star    	0,00000000
+film start   	0,00000118
+film story   	0,00000000
+film succeed 	0,00000000
+film such    	0,00000155
+film take    	0,00000044
+film tell    	0,00000000
+film think   	0,00000153
+film time    	0,00000000
+film today   	0,00000221
+film touch   	0,00000269
+film use     	0,00000000
+film want    	0,00000000
+film watch   	0,00000000
+film way     	0,00000000
+film whole   	0,00000000
+film win     	0,00000000
+film work    	0,00000000
+film worth   	0,00000000
+film write   	0,00000000
+film year    	0,00000000
+filmmaker    	0,00000120
+filmmaker be 	0,00000000
+filmmaker have	0,00000000
+filmmaking   	0,00000054
+filmmaking be	0,00000000
+final        	0,00000158
+final battle 	0,00000212
+final scene  	0,00000077
+financial    	0,00000269
+find         	0,00000000
+find be      	0,00000145
+find film    	0,00000000
+find good    	0,00000000
+find great   	0,00000000
+find interesting	0,00000000
+find movie   	0,00000124
+find new     	0,00000000
+find something	0,00000110
+find true    	0,00001388
+find way     	0,00000000
+fine         	0,00000000
+fine be      	0,00000000
+fine film    	0,00000000
+fine job     	0,00000069
+fine movie   	0,00000000
+fine performance	0,00000000
+finest       	0,00000000
+finest actor 	0,00000000
+finest film  	0,00000000
+finest movie 	0,00000000
+finest performance	0,00000000
+finger       	0,00000000
+finish       	0,00000000
+finish watch 	0,00000233
+fire         	0,00000040
+fire be      	0,00000000
+first        	0,00000000
+first be     	0,00000000
+first class  	0,00000425
+first film   	0,00000035
+first half   	0,00000066
+first hour   	0,00000000
+first minute 	0,00000000
+first movie  	0,00000029
+first part   	0,00000000
+first place  	0,00000000
+first rate   	0,00000000
+first release	0,00000444
+first scene  	0,00000179
+first thing  	0,00000000
+first time   	0,00000000
+first viewing	0,00000179
+fish         	0,00000162
+fish be      	0,00000000
+fist         	0,00000218
+fit          	0,00000106
+fix          	0,00000000
+flair        	0,00000261
+flash        	0,00000163
+flashback    	0,00000000
+flashy       	0,00000152
+flat         	0,00000179
+flaw         	0,00000071
+flaw be      	0,00000000
+flawed       	0,00000249
+flawless     	0,00000000
+flesh        	0,00000162
+flick        	0,00000073
+flick be     	0,00000000
+flick have   	0,00000253
+flight       	0,00000117
+float        	0,00000176
+floor        	0,00000000
+flourish     	0,00000287
+flow         	0,00000170
+flower       	0,00000906
+fluid        	0,00000000
+fly          	0,00000087
+focus        	0,00000216
+focus be     	0,00000282
+folk         	0,00000110
+follow       	0,00000082
+follow be    	0,00000115
+fond         	0,00000000
+food         	0,00000102
+foot         	0,00000000
+footage      	0,00000024
+footage be   	0,00000000
+football     	0,00000053
+force        	0,00000112
+foreign      	0,00000063
+foreign film 	0,00000000
+foremost     	0,00000000
+forest       	0,00000080
+forget       	0,00000095
+forget be    	0,00000000
+forgive      	0,00000265
+form         	0,00000244
+form be      	0,00000282
+format       	0,00000032
+former       	0,00000145
+formidable   	0,00000000
+formula      	0,00000091
+foundation   	0,00000000
+fragile      	0,00000378
+frame        	0,00000114
+frame be     	0,00000000
+franchise    	0,00000038
+franchise be 	0,00000000
+frank        	0,00000000
+frankenstein 	0,00000000
+freak        	0,00000123
+free         	0,00000168
+freedom      	0,00000106
+french       	0,00000165
+frequent     	0,00000257
+fresh        	0,00000076
+fresh air    	0,00000000
+friend       	0,00000131
+friend be    	0,00000177
+friend family	0,00000000
+friend have  	0,00000118
+friend mine  	0,00000000
+friendly     	0,00000079
+friendship   	0,00000542
+friendship be	0,00000193
+frightening  	0,00000045
+front        	0,00000000
+frustration  	0,00000943
+fu           	0,00000000
+fuel         	0,00000387
+fulfil       	0,00000130
+full         	0,00000000
+full metal   	0,00000000
+full screen  	0,00000000
+fullest      	0,00000430
+fun          	0,00000022
+fun be       	0,00000000
+fun film     	0,00000000
+fun have     	0,00000000
+fun movie    	0,00000000
+fun ride     	0,00000000
+fun see      	0,00000000
+fun time     	0,00000000
+fun watch    	0,00000000
+function     	0,00000000
+fundamental  	0,00000522
+funniest     	0,00000024
+funny        	0,00000070
+funny be     	0,00000060
+funny entertaining	0,00000000
+funny film   	0,00000000
+funny have   	0,00000172
+funny line   	0,00000000
+funny moment 	0,00000000
+funny movie  	0,00000000
+funny part   	0,00000000
+funny sad    	0,00000000
+funny scene  	0,00000000
+funny time   	0,00000000
+funny touching	0,00000000
+further      	0,00000000
+future       	0,00000065
+future be    	0,00000000
+fuzzy        	0,00000485
+fx           	0,00000000
+gadget       	0,00000096
+gag          	0,00000000
+gain         	0,00000000
+game         	0,00000032
+game be      	0,00000207
+gang         	0,00000121
+gangster     	0,00000000
+gangster film	0,00000000
+gangster movie	0,00000117
+garden       	0,00000000
+gather       	0,00000181
+gay          	0,00000397
+gaze         	0,00000239
+gear         	0,00000000
+geek         	0,00000000
+gem          	0,00000091
+gem be       	0,00000000
+gender       	0,00001195
+gene         	0,00000000
+general      	0,00000000
+general be   	0,00000000
+generate     	0,00000441
+generation   	0,00000016
+generous     	0,00000167
+genius       	0,00000042
+genius be    	0,00000000
+genre        	0,00000036
+genre be     	0,00000101
+genre film   	0,00000246
+gentle       	0,00000532
+gentleman    	0,00000229
+genuine      	0,00002012
+german       	0,00000062
+gesture      	0,00000159
+get          	0,00000000
+get attention	0,00000000
+get be       	0,00000051
+get best     	0,00000000
+get better   	0,00000054
+get catch    	0,00000000
+get chance   	0,00000121
+get do       	0,00000159
+get film     	0,00000000
+get good     	0,00000224
+get great    	0,00000000
+get involve  	0,00000000
+get job      	0,00000000
+get know     	0,00000000
+get little   	0,00000000
+get lot      	0,00000000
+get more     	0,00000000
+get movie    	0,00000000
+get old      	0,00000000
+get say      	0,00000287
+get see      	0,00000000
+get sense    	0,00000257
+get something	0,00000000
+get star     	0,00000000
+get time     	0,00000000
+get watch    	0,00000000
+get way      	0,00000000
+get wrong    	0,00000000
+ghost        	0,00000084
+giant        	0,00000254
+gift         	0,00000141
+gift be      	0,00000000
+gifted       	0,00000062
+girl         	0,00000317
+girl be      	0,00000000
+girl have    	0,00000727
+girl love    	0,00000000
+girlfriend   	0,00000162
+give         	0,00000000
+give be      	0,00000320
+give best    	0,00000000
+give chance  	0,00000094
+give credit  	0,00000000
+give excellent	0,00000139
+give film    	0,00000072
+give gift    	0,00000191
+give good    	0,00000000
+give great   	0,00000083
+give lot     	0,00000253
+give more    	0,00000000
+give movie   	0,00000065
+give new     	0,00000229
+give outstanding	0,00000185
+give performance	0,00000101
+give real    	0,00000000
+give sense   	0,00000000
+give something	0,00000257
+give star    	0,00000092
+give viewer  	0,00000000
+give wonderful	0,00000202
+glad         	0,00000023
+glad be      	0,00000000
+glad buy     	0,00000000
+glad do      	0,00000000
+glad have    	0,00000257
+glad see     	0,00000215
+gladiator    	0,00000000
+glamorous    	0,00000269
+glamour      	0,00000257
+glance       	0,00000355
+glass        	0,00000115
+glimpse      	0,00000098
+glorious     	0,00000181
+glory        	0,00000048
+glue         	0,00000000
+glue screen  	0,00000146
+go           	0,00000000
+go be        	0,00000038
+go do        	0,00000145
+go film      	0,00000000
+go get       	0,00000000
+go go        	0,00000000
+go happen    	0,00000000
+go have      	0,00000000
+go home      	0,00000000
+go love      	0,00000229
+go make      	0,00000000
+go movie     	0,00000074
+go say       	0,00000174
+go see       	0,00000000
+go watch     	0,00000174
+go way       	0,00000425
+go wind      	0,00000202
+go wrong     	0,00000129
+goal         	0,00000068
+god          	0,00000000
+gold         	0,00000138
+golden       	0,00000000
+gon          	0,00000000
+good         	0,00000000
+good act     	0,00000000
+good acting  	0,00000000
+good action  	0,00000115
+good actor   	0,00000040
+good bad     	0,00000000
+good be      	0,00000016
+good book    	0,00000000
+good character	0,00000000
+good choice  	0,00000000
+good clean   	0,00000000
+good comedy  	0,00000000
+good do      	0,00000000
+good entertainment	0,00000000
+good evil    	0,00000091
+good example 	0,00000000
+good family  	0,00000000
+good film    	0,00000017
+good friend  	0,00000000
+good fun     	0,00000000
+good good    	0,00000000
+good great   	0,00000000
+good guy     	0,00000000
+good have    	0,00000000
+good hunting 	0,00000146
+good idea    	0,00000139
+good job     	0,00000000
+good laugh   	0,00000000
+good look    	0,00000159
+good love    	0,00009682
+good make    	0,00000000
+good message 	0,00000000
+good movie   	0,00000000
+good music   	0,00000000
+good old     	0,00000100
+good one     	0,00000000
+good part    	0,00000000
+good performance	0,00000000
+good plot    	0,00000000
+good point   	0,00000000
+good price   	0,00000115
+good reason  	0,00000000
+good review  	0,00000000
+good role    	0,00000000
+good script  	0,00000000
+good see     	0,00000000
+good special 	0,00000000
+good story   	0,00000094
+good storyline	0,00000000
+good stuff   	0,00000174
+good thing   	0,00000068
+good think   	0,00000000
+good time    	0,00000049
+good use     	0,00000000
+good watch   	0,00000218
+good way     	0,00000000
+goodness     	0,00000284
+goofy        	0,00000140
+gore         	0,00000103
+gorgeous     	0,00000085
+gory         	0,00000000
+gothic       	0,00000000
+government   	0,00000000
+grab         	0,00000099
+grace        	0,00000312
+graduate     	0,00000097
+grain        	0,00000000
+gram         	0,00000000
+grand        	0,00000136
+grandchild   	0,00000000
+grandeur     	0,00000000
+grant        	0,00000139
+graphic      	0,00000029
+graphic be   	0,00000000
+graphic novel	0,00000043
+graphic violence	0,00000000
+grasp        	0,00000133
+gratuitous   	0,00000698
+grave        	0,00000261
+great        	0,00000000
+great act    	0,00000052
+great acting 	0,00000064
+great action 	0,00000086
+great actor  	0,00000018
+great actress	0,00000000
+great addition	0,00000000
+great american	0,00000212
+great animation	0,00000000
+great be     	0,00000019
+great blu    	0,00000261
+great cast   	0,00000000
+great character	0,00000000
+great chemistry	0,00000176
+great choice 	0,00000000
+great cinematography	0,00000000
+great classic	0,00000112
+great comedy 	0,00000000
+great deal   	0,00000037
+great dialogue	0,00000000
+great direction	0,00000000
+great do     	0,00000000
+great end    	0,00000000
+great ending 	0,00000253
+great family 	0,00000093
+great film   	0,00000000
+great fun    	0,00000000
+great gift   	0,00000162
+great great  	0,00000000
+great have   	0,00000140
+great idea   	0,00000000
+great job    	0,00000000
+great kid    	0,00000000
+great line   	0,00000000
+great look   	0,00000000
+great love   	0,00000359
+great message	0,00000000
+great movie  	0,00000000
+great music  	0,00000052
+great old    	0,00000000
+great part   	0,00000000
+great performance	0,00000000
+great piece  	0,00000000
+great plot   	0,00000000
+great power  	0,00000000
+great price  	0,00000056
+great role   	0,00000000
+great scenery	0,00000000
+great script 	0,00000077
+great see    	0,00000000
+great service	0,00000000
+great set    	0,00000000
+great show   	0,00000000
+great song   	0,00000000
+great sound  	0,00000000
+great soundtrack	0,00000000
+great special	0,00000051
+great star   	0,00000000
+great story  	0,00000021
+great storyline	0,00000116
+great thing  	0,00000000
+great time   	0,00000000
+great watch  	0,00000000
+great way    	0,00000000
+great work   	0,00000000
+great writing	0,00000000
+greater      	0,00000000
+greatest     	0,00000000
+greatest film	0,00000000
+greatest movie	0,00000000
+greatness    	0,00000101
+greed        	0,00000000
+greek        	0,00000000
+green        	0,00000000
+grief        	0,00001170
+grim         	0,00000000
+grip         	0,00000160
+gripping     	0,00000127
+grit         	0,00000000
+gritty       	0,00000028
+gross        	0,00000000
+ground       	0,00000077
+group        	0,00000000
+grow         	0,00000226
+grow be      	0,00000167
+grow watch   	0,00000000
+growth       	0,00000334
+gruesome     	0,00000000
+guarantee    	0,00000055
+guard        	0,00000095
+guess        	0,00000017
+guess be     	0,00000099
+guess end    	0,00000000
+guest        	0,00000000
+guide        	0,00000000
+guilt        	0,00000688
+guilty       	0,00000183
+gun          	0,00000099
+gut          	0,00000255
+guy          	0,00000000
+guy be       	0,00000044
+guy have     	0,00000000
+guy movie    	0,00000000
+hair         	0,00000000
+half         	0,00000000
+half be      	0,00000152
+half film    	0,00000196
+half hour    	0,00000000
+half movie   	0,00000000
+hall         	0,00000174
+hallmark     	0,00000000
+hand         	0,00000000
+hand be      	0,00000000
+hand best    	0,00000000
+handful      	0,00000000
+handle       	0,00000120
+handsome     	0,00001429
+hang         	0,00000000
+happen       	0,00000000
+happen be    	0,00000214
+happen next  	0,00000000
+happiness    	0,00000615
+happy        	0,00000082
+happy be     	0,00000000
+happy end    	0,00000127
+happy ending 	0,00000000
+happy have   	0,00000000
+happy see    	0,00000000
+hard         	0,00000083
+hard be      	0,00000000
+hard believe 	0,00000154
+hard find    	0,00000000
+hard time    	0,00000000
+hardcore     	0,00000000
+hardship     	0,00000501
+harrowing    	0,00000128
+harsh        	0,00000430
+hat          	0,00000095
+hate         	0,00000168
+hate be      	0,00000000
+hatred       	0,00001339
+haunt        	0,00000101
+haunting     	0,00000033
+have         	0,00000000
+have ability 	0,00000000
+have action  	0,00000000
+have add     	0,00000150
+have amazing 	0,00000000
+have be      	0,00000000
+have become  	0,00000025
+have best    	0,00000042
+have better  	0,00000000
+have big     	0,00000000
+have bit     	0,00000249
+have buy     	0,00000000
+have capture 	0,00000465
+have chance  	0,00000127
+have change  	0,00000000
+have child   	0,00000000
+have collection	0,00000130
+have come    	0,00000066
+have cool    	0,00000000
+have create  	0,00000000
+have deep    	0,00000282
+have direct  	0,00000198
+have do      	0,00000039
+have edge    	0,00000000
+have element 	0,00000145
+have end     	0,00000000
+have enjoy   	0,00000063
+have everything	0,00000127
+have excellent	0,00000097
+have experience	0,00000137
+have feel    	0,00000119
+have feeling 	0,00000943
+have few     	0,00000102
+have film    	0,00000000
+have find    	0,00000095
+have forget  	0,00000000
+have friend  	0,00000000
+have fun     	0,00000000
+have funny   	0,00000167
+have get     	0,00000000
+have give    	0,00000000
+have go      	0,00000000
+have good    	0,00000017
+have great   	0,00000038
+have grow    	0,00000181
+have happen  	0,00000000
+have have    	0,00000139
+have hear    	0,00000066
+have heart   	0,00000344
+have huge    	0,00000000
+have idea    	0,00000000
+have incredible	0,00000000
+have interesting	0,00000000
+have keep    	0,00000000
+have kid     	0,00000000
+have know    	0,00000112
+have laugh   	0,00000000
+have learn   	0,00000000
+have leave   	0,00000000
+have life    	0,00000000
+have like    	0,00000000
+have little  	0,00000000
+have look    	0,00000085
+have lose    	0,00000161
+have lot     	0,00000000
+have love    	0,00006843
+have make    	0,00000038
+have manage  	0,00000000
+have many    	0,00000037
+have mention 	0,00000000
+have more    	0,00000107
+have move    	0,00000139
+have movie   	0,00000055
+have much    	0,00000063
+have new     	0,00000183
+have nice    	0,00000000
+have nothing 	0,00000183
+have original	0,00000000
+have other   	0,00000391
+have own     	0,00000000
+have pay     	0,00000000
+have perfect 	0,00000000
+have play    	0,00000000
+have plenty  	0,00000142
+have power   	0,00000154
+have problem 	0,00000410
+have prove   	0,00000000
+have put     	0,00000140
+have read    	0,00000063
+have real    	0,00000115
+have receive 	0,00000000
+have recommend	0,00000000
+have right   	0,00000000
+have same    	0,00000000
+have say     	0,00000040
+have scene   	0,00000273
+have see     	0,00000000
+have sense   	0,00000000
+have several 	0,00000000
+have show    	0,00000000
+have small   	0,00000000
+have something	0,00000000
+have special 	0,00000000
+have story   	0,00000000
+have strong  	0,00000092
+have such    	0,00000362
+have take    	0,00000000
+have tell    	0,00000200
+have think   	0,00000235
+have time    	0,00000000
+have try     	0,00000000
+have turn    	0,00000000
+have view    	0,00000000
+have want    	0,00000000
+have watch   	0,00000078
+have way     	0,00000000
+have win     	0,00000000
+have wonder  	0,00000282
+have wonderful	0,00000095
+have write   	0,00000000
+head         	0,00000078
+head be      	0,00000000
+headless     	0,00000000
+headless horseman	0,00000205
+healthy      	0,00000000
+hear         	0,00000069
+hear be      	0,00000096
+hear movie   	0,00000177
+hearing      	0,00000196
+heart        	0,00001263
+heart be     	0,00000274
+heart film   	0,00000791
+heart movie  	0,00000459
+heart soul   	0,00006069
+heart warming	0,00000546
+heart wrenching	0,00009026
+heartbreak   	0,00000546
+heartbreaking	0,00000066
+hearted      	0,00000000
+heartfelt    	0,00001155
+heartwarming 	0,00000123
+heat         	0,00000141
+heavy        	0,00000047
+heck         	0,00000079
+height       	0,00000111
+heighten     	0,00000148
+heist        	0,00000000
+helicopter   	0,00000000
+hell         	0,00000152
+helm         	0,00000000
+help         	0,00000000
+help be      	0,00000000
+help create  	0,00000000
+help get     	0,00000000
+help make    	0,00000104
+help other   	0,00000000
+help understand	0,00000226
+hero         	0,00000133
+hero be      	0,00000000
+hero movie   	0,00000108
+heroic       	0,00000119
+heroine      	0,00000348
+heroism      	0,00000000
+hidden       	0,00000198
+hide         	0,00000378
+high         	0,00000000
+high level   	0,00000000
+high school  	0,00000000
+higher       	0,00000000
+highest      	0,00000000
+highlight    	0,00000113
+hilarious    	0,00000096
+hilarious be 	0,00000229
+hilarious movie	0,00000000
+hill         	0,00000174
+hint         	0,00000056
+hip          	0,00000000
+hire         	0,00000138
+historian    	0,00000000
+historic     	0,00000242
+historical   	0,00000059
+historical event	0,00000322
+historical fact	0,00000000
+history      	0,00000058
+history be   	0,00000139
+history buff 	0,00000000
+history cinema	0,00000000
+history lesson	0,00000472
+history movie	0,00000000
+history x    	0,00000000
+hit          	0,00000059
+hit be       	0,00000000
+hitch        	0,00000600
+hitchcock    	0,00000101
+hold         	0,00000064
+hold attention	0,00000000
+hold be      	0,00000000
+hold interest	0,00000000
+hold year    	0,00000000
+hole         	0,00000151
+holiday      	0,00000000
+hollow       	0,00000172
+hollywood    	0,00000000
+homage       	0,00000059
+home         	0,00000205
+home be      	0,00000000
+homosexual   	0,00000257
+honest       	0,00000059
+honesty      	0,00000062
+honor        	0,00000072
+hook         	0,00000051
+hope         	0,00000115
+hope be      	0,00000067
+hope make    	0,00000000
+hope see     	0,00000151
+hopeful      	0,00000000
+horrible     	0,00000179
+horrific     	0,00000000
+horrifying   	0,00000120
+horror       	0,00000048
+horror be    	0,00000000
+horror fan   	0,00000000
+horror film  	0,00000030
+horror genre 	0,00000000
+horror movie 	0,00000057
+horror war   	0,00000000
+horse        	0,00000457
+horseman     	0,00000000
+host         	0,00000000
+hot          	0,00000053
+hotel        	0,00000053
+hour         	0,00000000
+hour be      	0,00000000
+hour film    	0,00000000
+hour minute  	0,00000000
+hour movie   	0,00000000
+house        	0,00000103
+household    	0,00000000
+huge         	0,00000024
+huge fan     	0,00000116
+hulk         	0,00000405
+human        	0,00000423
+human be     	0,00000344
+human being  	0,00000226
+human condition	0,00000000
+human emotion	0,00000637
+human nature 	0,00000102
+human spirit 	0,00000086
+humanity     	0,00000263
+humanity be  	0,00000236
+humble       	0,00000511
+humor        	0,00000085
+humor be     	0,00000126
+humorous     	0,00000167
+humour       	0,00000062
+hundred      	0,00000000
+hunt         	0,00000137
+hunting      	0,00000177
+hurt         	0,00000782
+husband      	0,00001589
+husband be   	0,00000000
+husband love 	0,00000000
+hysterical   	0,00000000
+i.           	0,00000000
+icon         	0,00000086
+iconic       	0,00000000
+idea         	0,00000109
+idea be      	0,00000125
+ideal        	0,00000274
+idealistic   	0,00000000
+identify     	0,00000262
+identity     	0,00000058
+ignore       	0,00000093
+ill          	0,00000179
+illness      	0,00000430
+illusion     	0,00000000
+illustrate   	0,00000283
+im           	0,00000293
+image        	0,00000012
+image be     	0,00000000
+imagery      	0,00000000
+imagery be   	0,00000000
+imagination  	0,00000046
+imagination be	0,00000000
+imaginative  	0,00000000
+imagine      	0,00000130
+imagine be   	0,00000000
+imbue        	0,00000242
+immediate    	0,00000172
+immense      	0,00000643
+immerse      	0,00000000
+immortal     	0,00000174
+impact       	0,00000136
+impact be    	0,00000253
+impeccable   	0,00000000
+imply        	0,00000506
+importance   	0,00000000
+important    	0,00000000
+important be 	0,00000000
+important film	0,00000118
+important movie	0,00000000
+impose       	0,00000287
+impossible   	0,00000301
+impress      	0,00000032
+impressed    	0,00000063
+impression   	0,00000179
+impression be	0,00000212
+impressive   	0,00000055
+improve      	0,00000038
+improvement  	0,00000000
+inaccuracy   	0,00000000
+inaccurate   	0,00000000
+incident     	0,00000284
+include      	0,00000000
+include be   	0,00000000
+include best 	0,00000000
+incorporate  	0,00000133
+increase     	0,00000000
+incredible   	0,00000082
+incredible job	0,00000000
+independent  	0,00000124
+independent film	0,00000000
+indian       	0,00000126
+indicate     	0,00000212
+indie        	0,00000282
+individual   	0,00000199
+industry     	0,00000116
+inevitable   	0,00000656
+infamous     	0,00000000
+influence    	0,00000075
+info         	0,00000000
+inform       	0,00000000
+information  	0,00000079
+informative  	0,00000048
+infuse       	0,00000000
+ingenious    	0,00000000
+ingredient   	0,00000152
+inhabit      	0,00000289
+initial      	0,00000138
+inject       	0,00000205
+injustice    	0,00000198
+inmate       	0,00000000
+inner        	0,00000246
+innocence    	0,00000329
+innocent     	0,00000178
+innovative   	0,00000000
+insane       	0,00000000
+insanity     	0,00000246
+insert       	0,00000000
+inside       	0,00000196
+insight      	0,00000052
+insightful   	0,00000114
+insist       	0,00000265
+inspiration  	0,00000173
+inspirational	0,00000000
+inspire      	0,00000113
+inspired     	0,00000253
+inspiring    	0,00000107
+installment  	0,00000000
+instance     	0,00000000
+instant      	0,00000119
+instant classic	0,00000104
+instinct     	0,00000374
+instrument   	0,00000287
+insurance    	0,00000846
+intact       	0,00000000
+integral     	0,00000000
+integrate    	0,00000000
+integrity    	0,00000087
+intellect    	0,00000185
+intellectual 	0,00000605
+intelligence 	0,00000079
+intelligent  	0,00000115
+intend       	0,00000000
+intense      	0,00000800
+intensity    	0,00000170
+intent       	0,00000378
+interact     	0,00000385
+interaction  	0,00000270
+interest     	0,00000000
+interest be  	0,00000322
+interested   	0,00000000
+interesting  	0,00000000
+interesting be	0,00000000
+interesting character	0,00000000
+interesting entertaining	0,00000000
+interesting look	0,00000000
+interesting movie	0,00000000
+interesting plot	0,00000000
+interesting see	0,00000000
+interesting story	0,00000000
+interesting twist	0,00000000
+interesting way	0,00000000
+interior     	0,00000000
+internal     	0,00000461
+international	0,00000000
+interplay    	0,00000328
+interpret    	0,00000181
+interpretation	0,00000112
+intertwine   	0,00000337
+interview    	0,00000090
+interview cast	0,00000000
+interweave   	0,00000000
+intimacy     	0,00004357
+intimate     	0,00001827
+intricate    	0,00000000
+intrigue     	0,00000097
+intriguing   	0,00000055
+introduce    	0,00000073
+introduction 	0,00000060
+introspective	0,00000000
+invade       	0,00000492
+invasion     	0,00000094
+invent       	0,00000000
+inventive    	0,00000065
+invest       	0,00000469
+investigate  	0,00000226
+investigation	0,00000000
+investigator 	0,00000287
+investment   	0,00000000
+invisible    	0,00000191
+invite       	0,00000233
+involve      	0,00000278
+involve be   	0,00000000
+involvement  	0,00000000
+irish        	0,00000108
+iron         	0,00000043
+iron man     	0,00000000
+ironic       	0,00000000
+irony        	0,00000239
+island       	0,00000000
+isnt         	0,00000000
+isolation    	0,00000829
+issue        	0,00000126
+issue be     	0,00000000
+italian      	0,00000141
+item be      	0,00000000
+ive          	0,00000176
+ive see      	0,00000000
+jack         	0,00000000
+jacket       	0,00000000
+jacket be    	0,00000000
+japanese     	0,00000052
+japanese culture	0,00000000
+jarring      	0,00000000
+jaw          	0,00000000
+jazz         	0,00000102
+jealousy     	0,00000282
+jewel        	0,00000167
+jewish       	0,00000000
+job          	0,00000000
+job act      	0,00000000
+job be       	0,00000000
+job do       	0,00000000
+job have     	0,00000000
+job make     	0,00000225
+job movie    	0,00000090
+job portray  	0,00000000
+job show     	0,00000000
+john         	0,00000000
+johnny       	0,00000000
+join         	0,00000064
+joke         	0,00000034
+joke be      	0,00000000
+journalist   	0,00000183
+journey      	0,00000089
+journey be   	0,00000000
+joy          	0,00000314
+joy watch    	0,00000095
+judge        	0,00000069
+judgment     	0,00000000
+jump         	0,00000100
+jungle       	0,00000282
+junkie       	0,00000000
+jurassic     	0,00000000
+jurassic park	0,00000000
+justice      	0,00000050
+justify      	0,00000000
+keen         	0,00000210
+keep         	0,00000000
+keep attention	0,00000000
+keep audience	0,00000000
+keep edge    	0,00000000
+keep entertain	0,00000000
+keep eye     	0,00000000
+keep get     	0,00000000
+keep glue    	0,00000000
+keep go      	0,00000174
+keep guess   	0,00000000
+keep interest	0,00000000
+keep interested	0,00000000
+keep laugh   	0,00000000
+keep mind    	0,00000119
+keep movie   	0,00000000
+keep toe     	0,00000000
+keep viewer  	0,00000000
+keep watch   	0,00000000
+key          	0,00000063
+kick         	0,00000146
+kid          	0,00000074
+kid adult    	0,00000164
+kid age      	0,00000000
+kid be       	0,00000236
+kid enjoy    	0,00000000
+kid have     	0,00000441
+kid love     	0,00000086
+kid movie    	0,00000000
+kid see      	0,00000236
+kid watch    	0,00000000
+kidnap       	0,00000000
+kill         	0,00000079
+kill be      	0,00000000
+killer       	0,00000051
+killing      	0,00000000
+kind         	0,00000000
+kind film    	0,00000000
+kind movie   	0,00000049
+kinda        	0,00000224
+kindness     	0,00000224
+kinetic      	0,00000000
+king         	0,00000106
+kiss         	0,00001339
+kiss kiss    	0,00000000
+knack        	0,00000000
+knife        	0,00000242
+knight       	0,00000145
+know         	0,00000000
+know be      	0,00000070
+know character	0,00000000
+know do      	0,00000224
+know end     	0,00000000
+know film    	0,00000000
+know happen  	0,00000224
+know have    	0,00000124
+know love    	0,00000109
+know make    	0,00000000
+know many    	0,00000278
+know more    	0,00000000
+know movie   	0,00000000
+know much    	0,00000000
+know story   	0,00000000
+know want    	0,00000233
+knowledge    	0,00000227
+known        	0,00000000
+kudos        	0,00000000
+kung         	0,00000000
+kung fu      	0,00000000
+lack         	0,00000315
+lady         	0,00001118
+lady be      	0,00000145
+lambs        	0,00000000
+lambs be     	0,00000000
+land         	0,00000183
+landing      	0,00000000
+landmark     	0,00000000
+landscape    	0,00000096
+language     	0,00000115
+language be  	0,00000000
+large        	0,00000000
+large part   	0,00000249
+larger       	0,00000000
+larger life  	0,00000000
+last         	0,00000000
+last be      	0,00000098
+last decade  	0,00000000
+last few     	0,00000319
+last film    	0,00000000
+last great   	0,00000000
+last minute  	0,00000112
+last night   	0,00000000
+last scene   	0,00000140
+last time    	0,00000176
+last year    	0,00000068
+lasting      	0,00000236
+late         	0,00000086
+later        	0,00000000
+latest       	0,00000000
+latter       	0,00000154
+laugh        	0,00000052
+laugh be     	0,00000000
+laugh cry    	0,00000146
+laugh hard   	0,00000000
+laugh loud   	0,00000000
+laugh time   	0,00000000
+laughter     	0,00000274
+launch       	0,00000000
+lavish       	0,00000334
+law          	0,00000066
+lawyer       	0,00000094
+lay          	0,00000274
+layer        	0,00000195
+layered      	0,00000237
+lead         	0,00000000
+lead actor   	0,00000101
+lead be      	0,00000094
+lead character	0,00000097
+lead lady    	0,00000000
+lead man     	0,00000000
+lead role    	0,00000000
+leader       	0,00000101
+league       	0,00000287
+lean         	0,00000132
+leap         	0,00000120
+learn        	0,00000116
+learn be     	0,00000000
+learn lot    	0,00000000
+learn something	0,00000000
+least        	0,00000000
+least have   	0,00000000
+least time   	0,00000125
+least year   	0,00000229
+leave        	0,00000000
+leave be     	0,00000337
+leave feel   	0,00000000
+leave viewer 	0,00000000
+leave want   	0,00000000
+left         	0,00000000
+leg          	0,00000154
+legacy       	0,00000000
+legend       	0,00000072
+legendary    	0,00000112
+lend         	0,00000075
+length       	0,00000075
+lengthy      	0,00000000
+lens         	0,00000233
+less         	0,00000000
+lesser       	0,00000000
+lesson       	0,00000056
+lesson be    	0,00000000
+let          	0,00000000
+let be       	0,00000198
+let face     	0,00000207
+let go       	0,00000000
+let know     	0,00000000
+let say      	0,00000129
+let see      	0,00000000
+let start    	0,00000287
+letter       	0,00000526
+level        	0,00000155
+level be     	0,00000000
+liberty      	0,00000388
+lie          	0,00000197
+life         	0,00000000
+life be      	0,00000103
+life character	0,00000000
+life death   	0,00000000
+life do      	0,00000370
+life experience	0,00000000
+life film    	0,00000000
+life have    	0,00000124
+life lesson  	0,00000000
+life love    	0,00000000
+life make    	0,00000170
+life man     	0,00000000
+life movie   	0,00000000
+life people  	0,00000000
+life story   	0,00000319
+life time    	0,00000150
+lifestyle    	0,00000079
+lifetime     	0,00000108
+lift         	0,00000000
+light        	0,00000105
+lighthearted 	0,00000000
+lighting     	0,00000000
+likable      	0,00000121
+like         	0,00000000
+like be      	0,00000143
+like character	0,00000000
+like do      	0,00000000
+like film    	0,00000060
+like first   	0,00000257
+like good    	0,00000496
+like have    	0,00000000
+like lot     	0,00000000
+like love    	0,00000000
+like movie   	0,00000000
+like see     	0,00000000
+like story   	0,00000000
+like think   	0,00000000
+like watch   	0,00000000
+like way     	0,00000000
+likeable     	0,00000000
+likely       	0,00000000
+limit        	0,00000146
+limited      	0,00000000
+line         	0,00000000
+line be      	0,00000053
+line great   	0,00000000
+line have    	0,00000000
+line movie   	0,00000000
+liner        	0,00000078
+linger       	0,00000555
+link         	0,00000333
+lip          	0,00001037
+list         	0,00000000
+list be      	0,00000000
+listen       	0,00000097
+literary     	0,00000000
+literate     	0,00000000
+literature   	0,00000000
+little       	0,00000000
+little be    	0,00000351
+little bit   	0,00000058
+little boy   	0,00000138
+little film  	0,00000000
+little girl  	0,00000355
+little kid   	0,00000382
+little mermaid	0,00000066
+little movie 	0,00000000
+little thing 	0,00000514
+live         	0,00000246
+live action  	0,00000000
+live life    	0,00000102
+lively       	0,00000000
+living       	0,00000133
+load         	0,00000103
+local        	0,00000240
+location     	0,00000027
+lock         	0,00000169
+logic        	0,00000000
+logical      	0,00000000
+loneliness   	0,00001383
+lonely       	0,00000621
+long         	0,00000000
+long movie   	0,00000000
+long time    	0,00000000
+long way     	0,00000000
+longer       	0,00000000
+longing      	0,00004191
+look         	0,00000000
+look be      	0,00000000
+look film    	0,00000000
+look good    	0,00000000
+look great   	0,00000038
+look have    	0,00000000
+look more    	0,00000000
+look movie   	0,00000000
+look real    	0,00000000
+look see     	0,00000098
+look something	0,00000257
+look sound   	0,00000000
+look watch   	0,00000253
+loose        	0,00000215
+lord         	0,00000000
+lose         	0,00000323
+lose translation	0,00000122
+loser        	0,00000229
+loss         	0,00000717
+lot          	0,00000070
+lot action   	0,00000095
+lot be       	0,00000114
+lot better   	0,00000200
+lot film     	0,00000000
+lot fun      	0,00000089
+lot good     	0,00000137
+lot great    	0,00000112
+lot humor    	0,00000239
+lot laugh    	0,00000000
+lot more     	0,00000000
+lot movie    	0,00000000
+lot people   	0,00000082
+lot thing    	0,00000000
+loud         	0,00000000
+lovable      	0,00000196
+love         	0,00000579
+love action  	0,00000165
+love be      	0,00000000
+love book    	0,00000000
+love character	0,00003646
+love child   	0,00000000
+love classic 	0,00000000
+love do      	0,00000070
+love end     	0,00000000
+love fact    	0,00000000
+love family  	0,00000167
+love film    	0,00000044
+love first   	0,00003869
+love get     	0,00000253
+love good    	0,00000359
+love great   	0,00000378
+love hate    	0,00000000
+love have    	0,00000335
+love interest	0,00000051
+love life    	0,00003544
+love love    	0,00000251
+love minute  	0,00000441
+love movie   	0,00001745
+love much    	0,00000000
+love music   	0,00000224
+love old     	0,00000156
+love one     	0,00000000
+love original	0,00000000
+love other   	0,00003253
+love people  	0,00000538
+love scene   	0,00000112
+love see     	0,00000060
+love show    	0,00000000
+love song    	0,00000000
+love story   	0,00004043
+love triangle	0,00000000
+love watch   	0,00000000
+love way     	0,00000106
+love work    	0,00000000
+loveable     	0,00000000
+lovely       	0,00001167
+lover        	0,00001422
+loving       	0,00000349
+low          	0,00000094
+loyal        	0,00000000
+loyalty      	0,00000207
+luck         	0,00000000
+lucky        	0,00000095
+lurk         	0,00000269
+lush         	0,00000270
+lyric        	0,00000229
+m            	0,00000000
+m.           	0,00000000
+machine      	0,00000085
+machinist    	0,00000000
+macho        	0,00000000
+mad          	0,00000263
+madness      	0,00000000
+magic        	0,00000177
+magic be     	0,00000000
+magical      	0,00000148
+magician     	0,00000000
+magnetic     	0,00000000
+magnificent  	0,00000072
+main         	0,00000000
+main actor   	0,00000000
+main character	0,00000000
+main reason  	0,00000000
+mainstream   	0,00000000
+maintain     	0,00000249
+majestic     	0,00000441
+major        	0,00000057
+majority     	0,00000167
+make         	0,00000000
+make appreciate	0,00000000
+make audience	0,00000000
+make be      	0,00000000
+make believe 	0,00000253
+make best    	0,00000000
+make better  	0,00000000
+make big     	0,00000177
+make character	0,00000000
+make cry     	0,00000137
+make do      	0,00000218
+make enjoyable	0,00000000
+make entertaining	0,00000000
+make excellent	0,00000000
+make feel    	0,00000759
+make film    	0,00000000
+make fun     	0,00000000
+make good    	0,00000033
+make great   	0,00000000
+make happy   	0,00000000
+make have    	0,00000141
+make interesting	0,00000000
+make laugh   	0,00000034
+make life    	0,00000000
+make look    	0,00000070
+make lot     	0,00000000
+make love    	0,00000711
+make many    	0,00000191
+make memorable	0,00000233
+make more    	0,00000000
+make movie   	0,00000000
+make own     	0,00000143
+make people  	0,00000000
+make perfect 	0,00000000
+make point   	0,00000000
+make real    	0,00000000
+make see     	0,00000000
+make seem    	0,00000000
+make sense   	0,00000000
+make smile   	0,00000239
+make something	0,00000000
+make star    	0,00000000
+make story   	0,00000000
+make such    	0,00000191
+make sure    	0,00000126
+make think   	0,00000028
+make time    	0,00000000
+make viewer  	0,00000202
+make want    	0,00000000
+make watch   	0,00000000
+make way     	0,00000000
+make whole   	0,00000000
+make wonder  	0,00000000
+make wonderful	0,00000000
+make work    	0,00000000
+make worth   	0,00000162
+make year    	0,00000000
+maker        	0,00000045
+makeup       	0,00000000
+making       	0,00000000
+making film  	0,00000000
+making movie 	0,00000000
+male         	0,00000283
+mama         	0,00000000
+man          	0,00000000
+man be       	0,00000070
+man become   	0,00000000
+man come     	0,00000000
+man do       	0,00000113
+man film     	0,00000265
+man fire     	0,00000000
+man have     	0,00000137
+man life     	0,00000183
+man love     	0,00000354
+man make     	0,00000000
+man movie    	0,00000124
+man play     	0,00000261
+man woman    	0,00000000
+manage       	0,00000164
+manage be    	0,00000000
+manage capture	0,00000000
+manage keep  	0,00000000
+manage make  	0,00000154
+manager      	0,00000000
+manipulate   	0,00000145
+manipulation 	0,00000000
+mankind      	0,00000158
+manner       	0,00000136
+manner be    	0,00000282
+mannerism    	0,00000225
+many         	0,00000000
+many award   	0,00000000
+many be      	0,00000122
+many character	0,00000000
+many classic 	0,00000000
+many good    	0,00000000
+many great   	0,00000075
+many have    	0,00000161
+many level   	0,00000000
+many many    	0,00000116
+many more    	0,00000000
+many movie   	0,00000075
+many other   	0,00000060
+many people  	0,00000096
+many reason  	0,00000212
+many scene   	0,00000000
+many thing   	0,00000675
+many time    	0,00000000
+many twist   	0,00000000
+many way     	0,00000105
+many wonderful	0,00000000
+many year    	0,00000228
+marine       	0,00000000
+mark         	0,00000063
+marriage     	0,00002268
+marry        	0,00003019
+martial      	0,00000038
+martial art  	0,00000000
+marvel       	0,00000000
+marvelous    	0,00000026
+mask         	0,00000275
+mass         	0,00000076
+massive      	0,00000132
+master       	0,00000015
+masterful    	0,00000079
+masterpiece  	0,00000000
+masterpiece be	0,00000000
+masterpiece have	0,00000269
+match        	0,00000226
+mate         	0,00001179
+material     	0,00000056
+material be  	0,00000000
+math         	0,00000000
+matrix       	0,00000000
+matter       	0,00000000
+matter be    	0,00000000
+matter many  	0,00000000
+mature       	0,00000070
+maturity     	0,00000162
+maximus      	0,00000200
+maya         	0,00000567
+mean         	0,00000171
+mean be      	0,00000046
+meaning      	0,00000138
+meaningful   	0,00000128
+means        	0,00000061
+measure      	0,00000075
+mechanical   	0,00000000
+media        	0,00000000
+meditation   	0,00000224
+medium       	0,00000000
+meet         	0,00000500
+meeting      	0,00000566
+melancholy   	0,00000337
+melodrama    	0,00000255
+melodramatic 	0,00000000
+member       	0,00000000
+member be    	0,00000000
+memorable    	0,00000039
+memorable be 	0,00000273
+memorable line	0,00000000
+memorable scene	0,00000000
+memory       	0,00000090
+memory be    	0,00000000
+men          	0,00000000
+menace       	0,00000164
+menacing     	0,00000000
+mental       	0,00000173
+mention      	0,00000078
+mention be   	0,00000000
+mentor       	0,00000154
+mere         	0,00000248
+merit        	0,00000135
+mermaid      	0,00000054
+mermaid be   	0,00000164
+mesh         	0,00000000
+mesmerizing  	0,00000104
+mess         	0,00000000
+message      	0,00000109
+message be   	0,00000193
+message film 	0,00000000
+message movie	0,00000000
+metal        	0,00000000
+metal jacket 	0,00000000
+metaphor     	0,00000000
+method       	0,00000000
+meticulous   	0,00000000
+mid          	0,00000080
+middle       	0,00000176
+midst        	0,00000000
+mighty       	0,00000000
+mild         	0,00000000
+mile         	0,00000000
+military     	0,00000000
+million      	0,00000099
+mind         	0,00000139
+mind be      	0,00000090
+mind blow    	0,00000278
+mine         	0,00000128
+minor        	0,00000000
+minority     	0,00000000
+minute       	0,00000060
+minute be    	0,00000206
+minute movie 	0,00000000
+miracle      	0,00000110
+miraculous   	0,00000000
+mirror       	0,00000075
+misery       	0,00000249
+misfit       	0,00000282
+miss         	0,00000147
+mission      	0,00000059
+mistake      	0,00000000
+misunderstand	0,00000189
+mix          	0,00000084
+mixed        	0,00000534
+mixture      	0,00000189
+mob          	0,00000069
+mob movie    	0,00000000
+mobster      	0,00000000
+mock         	0,00000226
+mode         	0,00000287
+model        	0,00000075
+modern       	0,00000065
+modern day   	0,00000000
+modern movie 	0,00000000
+mom          	0,00000095
+moment       	0,00000000
+moment be    	0,00000118
+moment film  	0,00000064
+moment have  	0,00000191
+moment make  	0,00000000
+moment movie 	0,00000000
+money        	0,00000154
+money be     	0,00000000
+monologue    	0,00000000
+monster      	0,00000111
+monster movie	0,00000000
+month        	0,00000041
+monumental   	0,00000151
+mood         	0,00000054
+moody        	0,00000000
+moral        	0,00000068
+morality     	0,00000158
+more         	0,00000000
+more be      	0,00000167
+more film    	0,00000000
+more movie   	0,00000000
+more year    	0,00000000
+morning      	0,00000000
+most         	0,00000000
+most be      	0,00000000
+most film    	0,00000000
+most movie   	0,00000060
+most other   	0,00000000
+most part    	0,00000000
+most people  	0,00000096
+most time    	0,00000000
+mother       	0,00000253
+mother be    	0,00000099
+motif        	0,00000000
+motion       	0,00000000
+motion picture	0,00000036
+motivate     	0,00000202
+motivation   	0,00000312
+motive       	0,00000164
+mountain     	0,00000173
+mouse        	0,00000081
+mouth        	0,00000000
+move         	0,00000000
+move be      	0,00000139
+move film    	0,00000101
+move have    	0,00000000
+move movie   	0,00000202
+move performance	0,00000000
+move story   	0,00000228
+move tear    	0,00000522
+movement     	0,00000206
+movie        	0,00000000
+movie act    	0,00000000
+movie action 	0,00000344
+movie actor  	0,00000645
+movie adaptation	0,00000000
+movie adult  	0,00000000
+movie age    	0,00000000
+movie amazing	0,00000226
+movie anyone 	0,00000033
+movie appeal 	0,00000000
+movie base   	0,00000071
+movie be     	0,00000000
+movie become 	0,00000191
+movie begin  	0,00000000
+movie believe	0,00000000
+movie best   	0,00000000
+movie better 	0,00000000
+movie big    	0,00000261
+movie book   	0,00000198
+movie bring  	0,00000000
+movie buff   	0,00000000
+movie capture	0,00000339
+movie character	0,00000244
+movie child  	0,00000133
+movie classic	0,00000000
+movie collection	0,00000000
+movie combine	0,00000000
+movie come   	0,00000000
+movie contain	0,00000000
+movie create 	0,00000000
+movie date   	0,00000187
+movie day    	0,00000394
+movie deliver	0,00000000
+movie deserve	0,00000068
+movie direct 	0,00000000
+movie director	0,00000174
+movie do     	0,00000000
+movie end    	0,00000067
+movie enjoy  	0,00000064
+movie enjoyable	0,00000000
+movie entertaining	0,00000000
+movie entire 	0,00000000
+movie everyone	0,00000045
+movie excellent	0,00000128
+movie experience	0,00000231
+movie family 	0,00000000
+movie fan    	0,00000000
+movie favorite	0,00000000
+movie feature	0,00000000
+movie feel   	0,00000000
+movie few    	0,00000159
+movie fill   	0,00000242
+movie film   	0,00000000
+movie find   	0,00000079
+movie first  	0,00001130
+movie follow 	0,00000000
+movie friend 	0,00000000
+movie full   	0,00000000
+movie fun    	0,00000000
+movie funny  	0,00000000
+movie general	0,00000000
+movie genre  	0,00000000
+movie get    	0,00000123
+movie give   	0,00000124
+movie go     	0,00000092
+movie good   	0,00000000
+movie great  	0,00000000
+movie grow   	0,00000200
+movie have   	0,00000000
+movie help   	0,00000145
+movie history	0,00000067
+movie hold   	0,00000081
+movie hope   	0,00000257
+movie include	0,00000000
+movie interesting	0,00000000
+movie keep   	0,00000062
+movie kid    	0,00000073
+movie kind   	0,00000000
+movie know   	0,00000000
+movie last   	0,00000194
+movie least  	0,00000000
+movie leave  	0,00000111
+movie let    	0,00000000
+movie life   	0,00000181
+movie like   	0,00000061
+movie list   	0,00000239
+movie little 	0,00000000
+movie live   	0,00000000
+movie long   	0,00002132
+movie look   	0,00000098
+movie lot    	0,00000167
+movie love   	0,00000407
+movie lover  	0,00000000
+movie make   	0,00000000
+movie making 	0,00000287
+movie man    	0,00000374
+movie manage 	0,00000000
+movie many   	0,00000050
+movie more   	0,00000000
+movie most   	0,00000415
+movie move   	0,00000120
+movie movie  	0,00000000
+movie much   	0,00000267
+movie music  	0,00000000
+movie musical	0,00000000
+movie need   	0,00000000
+movie new    	0,00000000
+movie night  	0,00000169
+movie offer  	0,00000000
+movie one    	0,00000000
+movie open   	0,00000370
+movie opinion	0,00000000
+movie original	0,00000261
+movie other  	0,00000414
+movie overall	0,00000000
+movie own    	0,00000095
+movie past   	0,00000226
+movie people 	0,00000000
+movie play   	0,00000087
+movie plot   	0,00000174
+movie portray	0,00000000
+movie produce	0,00000000
+movie prove  	0,00000189
+movie provide	0,00000169
+movie put    	0,00000145
+movie real   	0,00000200
+movie recommend	0,00000041
+movie remain 	0,00000226
+movie remember	0,00000000
+movie remind 	0,00000000
+movie same   	0,00000261
+movie say    	0,00000000
+movie scene  	0,00000246
+movie second 	0,00000000
+movie see    	0,00000000
+movie seem   	0,00000000
+movie series 	0,00000000
+movie set    	0,00000000
+movie several	0,00000000
+movie show   	0,00000139
+movie sound  	0,00000287
+movie speak  	0,00000269
+movie special	0,00000126
+movie stand  	0,00000000
+movie star   	0,00000000
+movie start  	0,00000000
+movie stay   	0,00000130
+movie story  	0,00000109
+movie such   	0,00000000
+movie take   	0,00000112
+movie tell   	0,00000093
+movie theater	0,00000078
+movie theatre	0,00000183
+movie think  	0,00000274
+movie time   	0,00000000
+movie today  	0,00000156
+movie touch  	0,00000328
+movie turn   	0,00000000
+movie understand	0,00000278
+movie use    	0,00000344
+movie version	0,00000302
+movie want   	0,00000368
+movie watch  	0,00000000
+movie way    	0,00000121
+movie whole  	0,00000000
+movie win    	0,00000089
+movie wonderful	0,00000000
+movie work   	0,00000195
+movie worth  	0,00000121
+movie year   	0,00000386
+movie young  	0,00000447
+moviegoer    	0,00000161
+moviemaking  	0,00000000
+moving       	0,00000110
+much         	0,00000000
+much be      	0,00000084
+much do      	0,00000000
+much film    	0,00000000
+much fun     	0,00000000
+much love    	0,00000121
+much movie   	0,00000000
+mulan        	0,00000000
+multiple     	0,00000000
+multiple time	0,00000000
+multiple viewing	0,00000000
+multus       	0,00000000
+murder       	0,00000125
+murder be    	0,00000193
+murder mystery	0,00000000
+murderer     	0,00000403
+muscle       	0,00000000
+music        	0,00000000
+music be     	0,00000084
+music film   	0,00000000
+music have   	0,00000200
+music make   	0,00000000
+music movie  	0,00000133
+music score  	0,00000000
+music video  	0,00000000
+musical      	0,00000073
+musical be   	0,00000000
+musical number	0,00000000
+musical score	0,00000000
+musical time 	0,00000000
+musician     	0,00000269
+must         	0,00000000
+mute         	0,00000748
+mutual       	0,00005075
+mysterious   	0,00000113
+mystery      	0,00000060
+mystery be   	0,00000000
+mystical     	0,00000261
+myth         	0,00000117
+n            	0,00000000
+nail         	0,00000093
+name         	0,00000000
+name be      	0,00000067
+nanny        	0,00000000
+narrate      	0,00000000
+narration    	0,00000248
+narrative    	0,00000100
+narrative be 	0,00000000
+narrator     	0,00000000
+nation       	0,00000000
+national     	0,00000000
+native       	0,00000071
+natural      	0,00000286
+nature       	0,00000289
+nature be    	0,00000179
+nazi         	0,00000307
+near         	0,00000170
+neat         	0,00000059
+necessary    	0,00000000
+neck         	0,00000000
+need         	0,00000000
+need be      	0,00000103
+need see     	0,00000000
+need watch   	0,00000202
+needless     	0,00000255
+needless say 	0,00000143
+negative     	0,00000120
+neighbor     	0,00000000
+neighborhood 	0,00000000
+neo          	0,00000000
+nerd         	0,00000233
+nerve        	0,00000151
+nervous      	0,00000430
+neurotic     	0,00000000
+new          	0,00000000
+new be       	0,00000000
+new film     	0,00000000
+new generation	0,00000000
+new level    	0,00000185
+new movie    	0,00000000
+new time     	0,00000000
+new version  	0,00000328
+newcomer     	0,00000000
+newer        	0,00000000
+newest       	0,00000000
+next         	0,00000000
+next be      	0,00000224
+next day     	0,00000000
+next movie   	0,00000000
+nice         	0,00000000
+nice be      	0,00000000
+nice have    	0,00000328
+nice job     	0,00000000
+nice movie   	0,00000000
+nice see     	0,00000063
+nice touch   	0,00000000
+nicholson    	0,00000000
+nicholson be 	0,00000000
+night        	0,00000159
+night be     	0,00000097
+nightmare    	0,00000151
+noble        	0,00000242
+nobody       	0,00000000
+nod          	0,00000199
+noir         	0,00000021
+noir be      	0,00000000
+nominate     	0,00000041
+nominate award	0,00000000
+nominate best	0,00000000
+nomination   	0,00000000
+nominee      	0,00000000
+non          	0,00000000
+none         	0,00000160
+nonstop      	0,00000000
+norm         	0,00000000
+normal       	0,00000231
+nose         	0,00000200
+nostalgia    	0,00000210
+nostalgic    	0,00000076
+notable      	0,00000073
+notch        	0,00000000
+note         	0,00000079
+note be      	0,00000000
+noteworthy   	0,00000000
+nothing      	0,00000000
+nothing be   	0,00000000
+nothing do   	0,00000000
+nothing more 	0,00000177
+nothing short	0,00000000
+notice       	0,00000059
+notice be    	0,00000000
+notion       	0,00000242
+novel        	0,00000063
+novel be     	0,00000108
+nuance       	0,00000000
+nuanced      	0,00000111
+nudity       	0,00000348
+number       	0,00000000
+number be    	0,00000000
+numerous     	0,00000154
+numerous time	0,00000000
+nut          	0,00000200
+object       	0,00000610
+objective    	0,00000492
+observation  	0,00000273
+observe      	0,00000131
+obsess       	0,00000000
+obsession    	0,00000000
+obsessive    	0,00000000
+obstacle     	0,00000246
+obvious      	0,00000278
+occasion     	0,00000000
+occasional   	0,00000000
+occupy       	0,00000506
+occur        	0,00000000
+ocean        	0,00000510
+odd          	0,00000099
+odds         	0,00000280
+offend       	0,00000249
+offer        	0,00000194
+office       	0,00000030
+officer      	0,00000000
+official     	0,00000207
+ogre         	0,00000391
+ok           	0,00000093
+okay         	0,00000000
+old          	0,00000000
+old be       	0,00000085
+old classic  	0,00000000
+old daughter 	0,00000237
+old fashion  	0,00000165
+old love     	0,00000000
+old man      	0,00000000
+old movie    	0,00000000
+old son      	0,00000000
+older        	0,00000000
+older movie  	0,00000000
+oldest       	0,00000000
+ominous      	0,00000000
+one          	0,00000000
+one be       	0,00000046
+one have     	0,00000103
+only         	0,00000000
+only reason  	0,00000000
+only thing   	0,00000413
+onscreen     	0,00000380
+open         	0,00000000
+open eye     	0,00000322
+open mind    	0,00000184
+opening      	0,00000000
+opening scene	0,00000000
+opening sequence	0,00000000
+opera        	0,00000000
+opinion      	0,00000000
+opinion be   	0,00000000
+opinion best 	0,00000000
+opponent     	0,00000000
+opportunity  	0,00000187
+oppose       	0,00000083
+opposite     	0,00000451
+optimistic   	0,00000000
+option       	0,00000108
+orchestrate  	0,00000224
+order        	0,00000000
+order be     	0,00000351
+ordinary     	0,00000132
+orient       	0,00000000
+origin       	0,00000052
+original     	0,00000000
+original be  	0,00000000
+original film	0,00000000
+original have	0,00000000
+original movie	0,00000000
+original release	0,00000459
+original story	0,00000000
+original version	0,00000000
+originality  	0,00000055
+oscar        	0,00000062
+other        	0,00000000
+other be     	0,00000277
+other cast   	0,00000000
+other character	0,00000127
+other film   	0,00000064
+other great  	0,00000000
+other hand   	0,00000000
+other have   	0,00000290
+other movie  	0,00000087
+other people 	0,00000084
+other review 	0,00000000
+other thing  	0,00000000
+other time   	0,00000000
+other way    	0,00000000
+other word   	0,00000000
+other work   	0,00000265
+out          	0,00000000
+outcome      	0,00000097
+outside      	0,00000098
+outsider     	0,00000278
+outstanding  	0,00000013
+outstanding cast	0,00000000
+outstanding film	0,00000000
+outstanding job	0,00000000
+outstanding movie	0,00000000
+outstanding performance	0,00000056
+overall      	0,00000105
+overall be   	0,00000000
+overcome     	0,00000228
+overlook     	0,00000156
+overtone     	0,00000000
+overwhelm    	0,00000501
+overwhelming 	0,00000619
+owe          	0,00000000
+own          	0,00000115
+own be       	0,00000000
+own copy     	0,00000000
+own life     	0,00000090
+own movie    	0,00000000
+own right    	0,00000000
+own way      	0,00000108
+owner        	0,00000000
+pace         	0,00000071
+pace be      	0,00000000
+pace film    	0,00000000
+paced        	0,00000185
+pacing       	0,00000000
+pacing be    	0,00000165
+pack         	0,00000000
+pack movie   	0,00000000
+package      	0,00000000
+package be   	0,00000000
+packaging    	0,00000000
+packed       	0,00000058
+page         	0,00000079
+pageant      	0,00000095
+pain         	0,00003358
+painful      	0,00000302
+paint        	0,00000224
+painting     	0,00000000
+pair         	0,00000143
+pale         	0,00000000
+palpable     	0,00000172
+pan          	0,00000127
+panic        	0,00000278
+paper        	0,00000124
+par          	0,00000000
+parallel     	0,00000000
+park         	0,00000040
+park be      	0,00000000
+parody       	0,00000081
+part         	0,00000000
+part be      	0,00000038
+part film    	0,00000042
+part have    	0,00000212
+part life    	0,00000000
+part make    	0,00000000
+part movie   	0,00000162
+part story   	0,00000000
+participate  	0,00000269
+particular   	0,00000065
+particular be	0,00000000
+partner      	0,00000688
+party        	0,00000087
+pass         	0,00000162
+passion      	0,00002607
+passionate   	0,00003220
+past         	0,00000119
+past be      	0,00000000
+past year    	0,00000000
+path         	0,00000551
+pathos       	0,00000210
+patience     	0,00000000
+patient      	0,00000000
+patriot      	0,00000060
+patriot be   	0,00000000
+pattern      	0,00000000
+pause        	0,00000000
+pay          	0,00000050
+pay attention	0,00000000
+payoff       	0,00000396
+peace        	0,00000094
+peaceful     	0,00000000
+peak         	0,00000000
+peer         	0,00000000
+pen          	0,00000229
+people       	0,00000000
+people be    	0,00000082
+people do    	0,00000066
+people enjoy 	0,00000000
+people get   	0,00000246
+people go    	0,00000000
+people have  	0,00000000
+people know  	0,00000000
+people like  	0,00000000
+people live  	0,00000233
+people love  	0,00000236
+people make  	0,00000000
+people movie 	0,00000273
+people say   	0,00000141
+people see   	0,00000151
+people think 	0,00000000
+people want  	0,00000265
+perceive     	0,00000000
+perfect      	0,00000000
+perfect be   	0,00000152
+perfect cast 	0,00000000
+perfect condition	0,00000000
+perfect example	0,00000000
+perfect film 	0,00000072
+perfect movie	0,00000000
+perfect role 	0,00000064
+perfection   	0,00000174
+perform      	0,00000076
+performance  	0,00000000
+performance actor	0,00000089
+performance be	0,00000041
+performance career	0,00000000
+performance cast	0,00000128
+performance date	0,00000000
+performance do	0,00000000
+performance entire	0,00000000
+performance film	0,00000000
+performance give	0,00000000
+performance have	0,00000177
+performance make	0,00000000
+performance man	0,00000282
+performance movie	0,00000000
+performance year	0,00000000
+performer    	0,00000000
+peril        	0,00000273
+period       	0,00000095
+period be    	0,00000000
+period piece 	0,00000000
+person       	0,00000000
+person be    	0,00000000
+person have  	0,00000555
+persona      	0,00000147
+personal     	0,00000111
+personal favorite	0,00000108
+personal life	0,00000000
+personality  	0,00000171
+personality be	0,00000282
+perspective  	0,00000029
+phenomenal   	0,00000000
+phenomenon   	0,00000000
+philosophical	0,00000119
+philosophy   	0,00000075
+photo        	0,00000262
+photograph   	0,00000000
+photography  	0,00000073
+photography be	0,00000000
+phrase       	0,00000161
+physical     	0,00002053
+pi           	0,00000000
+pianist      	0,00000064
+pianist be   	0,00000165
+piano        	0,00000368
+pic          	0,00000000
+pick         	0,00000036
+picture      	0,00000000
+picture be   	0,00000024
+picture have 	0,00000000
+picture year 	0,00000000
+piece        	0,00000086
+piece art    	0,00000000
+piece be     	0,00000000
+piece cinema 	0,00000000
+piece film   	0,00000000
+piece filmmaking	0,00000000
+pilot        	0,00000261
+pit          	0,00000257
+pitch        	0,00000000
+pivotal      	0,00000212
+place        	0,00000000
+place be     	0,00000095
+place heart  	0,00000000
+plain        	0,00000132
+plan         	0,00000072
+plane        	0,00000000
+plane crash  	0,00000000
+planet       	0,00000000
+planet be    	0,00000212
+plastic      	0,00000229
+platoon      	0,00000000
+platoon be   	0,00000261
+play         	0,00000133
+play be      	0,00000053
+play best    	0,00000000
+play do      	0,00000000
+play good    	0,00000221
+play great   	0,00000000
+play have    	0,00000189
+play movie   	0,00000159
+play other   	0,00000000
+play part    	0,00000000
+play role    	0,00000000
+player       	0,00000153
+playful      	0,00000810
+playing      	0,00000000
+pleasant     	0,00000164
+pleasant surprise	0,00000000
+please       	0,00000047
+pleased      	0,00000047
+pleasure     	0,00000163
+pleasure watch	0,00000000
+plenty       	0,00000052
+plenty action	0,00000000
+plight       	0,00000177
+plot         	0,00000000
+plot be      	0,00000000
+plot character	0,00000000
+plot great   	0,00000000
+plot have    	0,00000000
+plot keep    	0,00000000
+plot line    	0,00000000
+plot make    	0,00000000
+plot movie   	0,00000000
+plot story   	0,00000000
+plot twist   	0,00000042
+plotline     	0,00000000
+plus         	0,00000069
+poem         	0,00000215
+poet         	0,00000177
+poetic       	0,00000073
+poetry       	0,00000112
+poignant     	0,00000157
+point        	0,00000000
+point be     	0,00000046
+point movie  	0,00000000
+point view   	0,00000074
+poke         	0,00000000
+poke fun     	0,00000000
+police       	0,00000068
+polish       	0,00000299
+political    	0,00000060
+politics     	0,00000000
+ponder       	0,00000000
+poor         	0,00000252
+pop          	0,00000030
+pop culture  	0,00000000
+popcorn      	0,00000000
+popular      	0,00000022
+portion      	0,00000000
+portrait     	0,00000385
+portray      	0,00000165
+portray be   	0,00000000
+portray character	0,00000000
+portrayal    	0,00000123
+portrayal be 	0,00000000
+pose         	0,00000185
+position     	0,00000097
+positive     	0,00000000
+possess      	0,00000134
+possession   	0,00000193
+possibility  	0,00000225
+possible     	0,00000000
+potent       	0,00000501
+potential    	0,00000000
+pound        	0,00000112
+pour         	0,00000472
+poverty      	0,00000522
+power        	0,00000153
+power be     	0,00000120
+powerful     	0,00000141
+powerful be  	0,00000587
+powerful film	0,00000270
+powerful message	0,00000000
+powerful movie	0,00008498
+powerful performance	0,00000000
+powerful story	0,00000205
+practice     	0,00000000
+praise       	0,00000034
+pre          	0,00000000
+precious     	0,00000278
+precision    	0,00000000
+predecessor  	0,00000000
+predict      	0,00000000
+predictable  	0,00000081
+prefer       	0,00000076
+preformance  	0,00000202
+pregnant     	0,00000970
+prejudice    	0,00000154
+premise      	0,00000061
+premise be   	0,00000000
+prepare      	0,00000000
+presence     	0,00000085
+presence be  	0,00000000
+present      	0,00000000
+present be   	0,00000181
+present day  	0,00000000
+presentation 	0,00000037
+preserve     	0,00000152
+president    	0,00000000
+press        	0,00000000
+pressure     	0,00000397
+pretty       	0,00000000
+prevail      	0,00000000
+preview      	0,00000306
+previous     	0,00000069
+previous film	0,00000000
+price        	0,00000010
+price admission	0,00000000
+price be     	0,00000121
+priceless    	0,00000089
+pride        	0,00000391
+primal       	0,00000257
+primary      	0,00000248
+prime        	0,00000062
+prime example	0,00000000
+prince       	0,00000506
+princess     	0,00000112
+principle    	0,00000000
+print        	0,00000000
+prison       	0,00000030
+prisoner     	0,00000000
+pristine     	0,00000000
+private      	0,00000033
+private be   	0,00000000
+pro          	0,00000121
+problem      	0,00000000
+problem be   	0,00000164
+process      	0,00000189
+produce      	0,00000098
+producer     	0,00000000
+product      	0,00000023
+product be   	0,00000000
+production   	0,00000018
+production be	0,00000098
+production value	0,00000070
+profanity    	0,00000000
+professional 	0,00000108
+professor    	0,00000775
+profit       	0,00000000
+profound     	0,00001224
+program      	0,00000000
+progress     	0,00000084
+project      	0,00000035
+prominent    	0,00000000
+promise      	0,00000035
+promise be   	0,00000000
+promote      	0,00000212
+proof        	0,00000000
+prop         	0,00000000
+propel       	0,00000142
+proper       	0,00000095
+proportion   	0,00000000
+protagonist  	0,00000000
+protagonist be	0,00000000
+protect      	0,00000173
+proud        	0,00000197
+prove        	0,00000079
+prove be     	0,00000032
+provide      	0,00000107
+provide great	0,00000000
+provocative  	0,00000136
+provoke      	0,00000048
+psyche       	0,00000000
+psychiatrist 	0,00000229
+psychic      	0,00000000
+psycho       	0,00000000
+psychological	0,00000209
+psychological thriller	0,00000000
+psychologist 	0,00000253
+psychology   	0,00000164
+psychotic    	0,00000000
+public       	0,00000148
+pull         	0,00000055
+pulp         	0,00000000
+pulp fiction 	0,00000000
+pump         	0,00000000
+pun          	0,00000189
+punch        	0,00000000
+purchase     	0,00000162
+pure         	0,00000698
+pure entertainment	0,00000000
+pure genius  	0,00000242
+purpose      	0,00000000
+pursue       	0,00000506
+pursuit      	0,00000205
+push         	0,00000299
+put          	0,00000000
+put be       	0,00000237
+put film     	0,00000000
+put good     	0,00000000
+puzzle       	0,00000113
+quality      	0,00000000
+quarter      	0,00000236
+queen        	0,00000282
+queen be     	0,00000000
+quest        	0,00000362
+question     	0,00000111
+question be  	0,00000000
+quick        	0,00000000
+quiet        	0,00000264
+quintessential	0,00000000
+quirk        	0,00000287
+quirky       	0,00000103
+quotable     	0,00000000
+quote        	0,00000000
+r            	0,00000000
+r rating     	0,00000000
+rabbit       	0,00000000
+race         	0,00000089
+racial       	0,00000000
+racism       	0,00000216
+radio        	0,00000000
+rage         	0,00000156
+raging       	0,00000000
+raging bull  	0,00000000
+rain         	0,00000000
+rain man     	0,00000000
+rainy        	0,00000202
+raise        	0,00000151
+random       	0,00000200
+range        	0,00000330
+range emotion	0,00000198
+rank         	0,00000026
+rank best    	0,00000000
+rape         	0,00000514
+rapid        	0,00000000
+rare         	0,00000129
+rare film    	0,00000000
+rarity       	0,00000191
+rate         	0,00000036
+rate be      	0,00000000
+rate film    	0,00000000
+rate movie   	0,00000000
+rate star    	0,00000000
+rating       	0,00000039
+rating be    	0,00000000
+raw          	0,00000503
+ray          	0,00000000
+ray be       	0,00000041
+ray have     	0,00000000
+ray version  	0,00000000
+re           	0,00000000
+reach        	0,00000271
+react        	0,00000382
+reaction     	0,00000196
+read         	0,00000060
+read be      	0,00000000
+read book    	0,00000034
+read comic   	0,00000000
+read review  	0,00000000
+reader       	0,00000000
+reading      	0,00000125
+ready        	0,00000000
+real         	0,00000668
+real be      	0,00000000
+real character	0,00000000
+real good    	0,00000000
+real life    	0,00000136
+real movie   	0,00000000
+real people  	0,00000000
+real star    	0,00000000
+real story   	0,00000000
+real treat   	0,00000000
+real world   	0,00000000
+realise      	0,00000164
+realism      	0,00000169
+realistic    	0,00000128
+realistic be 	0,00000000
+realistic movie	0,00000000
+realistic portrayal	0,00000000
+reality      	0,00000147
+reality be   	0,00000000
+realization  	0,00000273
+realize      	0,00000244
+realize be   	0,00000047
+realize have 	0,00000000
+realm        	0,00000116
+reason       	0,00000106
+reason be    	0,00000151
+reason movie 	0,00000000
+reason see   	0,00000000
+rebel        	0,00000000
+recall       	0,00000080
+reccomend    	0,00000000
+receive      	0,00000022
+recent       	0,00000000
+recent memory	0,00000000
+recent year  	0,00000000
+recognition  	0,00000094
+recognizable 	0,00000000
+recognize    	0,00000000
+recomend     	0,00000000
+recommend    	0,00000000
+recommend anyone	0,00000118
+recommend everyone	0,00000000
+recommend film	0,00000034
+recommend movie	0,00000000
+recommend people	0,00000000
+recommend see	0,00000100
+recommendation	0,00000000
+record       	0,00000046
+recording    	0,00000000
+recreate     	0,00000070
+recreation   	0,00000000
+recruit      	0,00000000
+red          	0,00000050
+redeem       	0,00000282
+redeeming    	0,00000000
+redemption   	0,00000033
+redemption be	0,00000125
+reel         	0,00000000
+refer        	0,00000108
+reference    	0,00000047
+reflect      	0,00000177
+reflection   	0,00000161
+refresh      	0,00000255
+refresh see  	0,00000000
+refreshing   	0,00000035
+refuse       	0,00000263
+regard       	0,00000208
+regret       	0,00000275
+regular      	0,00000162
+reign        	0,00000170
+relatable    	0,00000229
+relate       	0,00000222
+relation     	0,00000143
+relationship 	0,00001758
+relationship be	0,00002151
+relax        	0,00000086
+release      	0,00000000
+release be   	0,00000000
+release film 	0,00000000
+release have 	0,00000257
+release year 	0,00000000
+relentless   	0,00000000
+relevant     	0,00000000
+relief       	0,00000061
+religion     	0,00000000
+religious    	0,00000084
+relish       	0,00000261
+relive       	0,00000000
+rely         	0,00000067
+remain       	0,00000080
+remain best  	0,00000000
+remain favorite	0,00000000
+remake       	0,00000000
+remake be    	0,00000000
+remark       	0,00000000
+remarkable   	0,00000031
+remarkable film	0,00000000
+remarkable job	0,00000000
+remarkable performance	0,00000000
+remember     	0,00000045
+remember be  	0,00000266
+remember movie	0,00000000
+remember see 	0,00000000
+remember watch	0,00000000
+remind       	0,00000068
+reminder     	0,00000104
+reminiscent  	0,00000114
+remove       	0,00000356
+render       	0,00000076
+rendering    	0,00000000
+rendition    	0,00000000
+renew        	0,00000546
+repeat       	0,00000045
+repeat viewing	0,00000000
+replace      	0,00000000
+replay       	0,00000000
+report       	0,00000000
+reporter     	0,00000410
+represent    	0,00000152
+representation	0,00000110
+reputation   	0,00000000
+require      	0,00000000
+rescue       	0,00000079
+research     	0,00000212
+resemble     	0,00000143
+reserve      	0,00000218
+resist       	0,00000487
+resolution   	0,00000437
+resolve      	0,00000000
+resonance    	0,00000000
+resonate     	0,00000231
+resort       	0,00000215
+respect      	0,00000124
+respective   	0,00000000
+respective role	0,00000000
+respond      	0,00000337
+response     	0,00000118
+responsibility	0,00000102
+responsible  	0,00000261
+rest         	0,00000061
+rest be      	0,00000000
+rest cast    	0,00000000
+rest life    	0,00001028
+rest movie   	0,00000000
+restaurant   	0,00000469
+restore      	0,00000000
+restraint    	0,00000242
+result       	0,00000091
+result be    	0,00000047
+retain       	0,00000207
+retelling    	0,00000000
+retro        	0,00000257
+return       	0,00000204
+return be    	0,00000212
+return home  	0,00000167
+reunion      	0,00001475
+reunite      	0,00000000
+reveal       	0,00000211
+reveal be    	0,00000000
+revelation   	0,00000188
+revenge      	0,00000209
+review       	0,00000000
+review be    	0,00000059
+review film  	0,00000000
+review have  	0,00000000
+review movie 	0,00000000
+reviewer     	0,00000060
+revisit      	0,00000000
+revive       	0,00000000
+revolution   	0,00000073
+revolutionary	0,00000306
+revolve      	0,00000116
+reward       	0,00000106
+rewarding    	0,00000000
+rex          	0,00000139
+rhythm       	0,00000187
+rich         	0,00000114
+richer       	0,00000000
+richness     	0,00000000
+rid          	0,00000287
+ride         	0,00000040
+ride be      	0,00000000
+ridiculous   	0,00000210
+rifle        	0,00000000
+right        	0,00000000
+right amount 	0,00000118
+right be     	0,00000000
+right time   	0,00000187
+rights       	0,00000138
+ring         	0,00000037
+ring be      	0,00000000
+riot         	0,00000000
+rip          	0,00000110
+rise         	0,00000108
+risk         	0,00000246
+rival        	0,00000068
+river        	0,00000067
+rivet        	0,00000106
+riveting     	0,00000000
+road         	0,00000163
+road trip    	0,00000229
+roar         	0,00000000
+rob          	0,00000138
+robber       	0,00000000
+robbery      	0,00000000
+robert       	0,00000000
+robot        	0,00000294
+rock         	0,00000136
+rock roll    	0,00000152
+role         	0,00000000
+role be      	0,00000035
+role have    	0,00000000
+role movie   	0,00000000
+role play    	0,00000090
+roll         	0,00000186
+roller       	0,00000000
+roller coaster	0,00000000
+rollercoaster	0,00000000
+roman        	0,00000000
+romance      	0,00001316
+romance be   	0,00007125
+romantic     	0,00001440
+romantic comedy	0,00000102
+romantic movie	0,00004480
+romp         	0,00000158
+room         	0,00000000
+root         	0,00000187
+rough        	0,00000000
+round        	0,00000044
+rousing      	0,00000000
+routine      	0,00000139
+row          	0,00000137
+ruin         	0,00000072
+rule         	0,00000182
+run          	0,00000078
+run time     	0,00000000
+rural        	0,00000176
+rush         	0,00000192
+russian      	0,00000407
+ruthless     	0,00000150
+s            	0,00000000
+sacrifice    	0,00000498
+sad          	0,00000138
+sadistic     	0,00000000
+sadness      	0,00000526
+safe         	0,00000272
+safety       	0,00000465
+saga         	0,00000000
+sake         	0,00000281
+salesman     	0,00000861
+same         	0,00000000
+same be      	0,00000236
+same thing   	0,00000000
+same time    	0,00000000
+same way     	0,00000128
+samurai      	0,00000000
+sappy        	0,00000378
+sarcastic    	0,00000000
+satire       	0,00000000
+satirical    	0,00000210
+satisfaction 	0,00000514
+satisfied    	0,00000123
+satisfy      	0,00000145
+satisfying   	0,00000087
+savage       	0,00000791
+save         	0,00000139
+save life    	0,00000374
+save private 	0,00000000
+savvy        	0,00000000
+saw          	0,00000000
+say          	0,00000000
+say be       	0,00000085
+say best     	0,00000000
+say do       	0,00000083
+say enjoy    	0,00000000
+say film     	0,00000084
+say great    	0,00000000
+say have     	0,00000070
+say least    	0,00000088
+say lot      	0,00000000
+say love     	0,00000211
+say movie    	0,00000046
+say something	0,00000000
+say think    	0,00000000
+scale        	0,00000044
+scare        	0,00000032
+scared       	0,00000000
+scariest     	0,00000000
+scariest movie	0,00000000
+scary        	0,00000086
+scary be     	0,00000261
+scary movie  	0,00000000
+scenario     	0,00000302
+scene        	0,00000000
+scene be     	0,00000000
+scene character	0,00000000
+scene do     	0,00000132
+scene end    	0,00000257
+scene feature	0,00000000
+scene film   	0,00000049
+scene give   	0,00000278
+scene have   	0,00000000
+scene involve	0,00000177
+scene make   	0,00000090
+scene movie  	0,00000076
+scene scene  	0,00000000
+scene see    	0,00000229
+scene show   	0,00000000
+scene take   	0,00000000
+scenery      	0,00000103
+scenery be   	0,00000188
+scheme       	0,00000000
+school       	0,00000093
+sci          	0,00000000
+science      	0,00000000
+science fiction	0,00000022
+scifi        	0,00000000
+scope        	0,00000000
+score        	0,00000000
+score be     	0,00000000
+score film   	0,00000226
+scratch      	0,00000162
+scream       	0,00000076
+screen       	0,00000000
+screen be    	0,00000000
+screen play  	0,00000000
+screen presence	0,00000000
+screen time  	0,00000112
+screenplay   	0,00000043
+screenplay be	0,00000056
+screenwriter 	0,00000107
+screw        	0,00000000
+script       	0,00000027
+script be    	0,00000023
+script direction	0,00000000
+script great 	0,00000000
+script have  	0,00000261
+scus         	0,00000000
+sea          	0,00000281
+seamless     	0,00000000
+search       	0,00000338
+season       	0,00000000
+seat         	0,00000000
+second       	0,00000000
+second be    	0,00000000
+second best  	0,00000000
+second chance	0,00000000
+second disc  	0,00000000
+second half  	0,00000121
+second time  	0,00000000
+secondary    	0,00000000
+seconds      	0,00000000
+secret       	0,00000148
+secret be    	0,00000000
+secure       	0,00000221
+security     	0,00000000
+seduce       	0,00000506
+seductive    	0,00001547
+see          	0,00000000
+see action   	0,00000000
+see actor    	0,00000202
+see anyone   	0,00000000
+see be       	0,00000107
+see best     	0,00000000
+see big      	0,00000000
+see character	0,00000000
+see classic  	0,00000000
+see come     	0,00000259
+see do       	0,00000062
+see enjoy    	0,00000121
+see eye      	0,00000000
+see fan      	0,00000000
+see film     	0,00000000
+see first    	0,00000062
+see friend   	0,00000000
+see get      	0,00000000
+see go       	0,00000000
+see good     	0,00000000
+see great    	0,00000000
+see happen   	0,00000000
+see have     	0,00000080
+see kid      	0,00000894
+see know     	0,00000000
+see last     	0,00000331
+see least    	0,00000104
+see long     	0,00000132
+see lot      	0,00000000
+see love     	0,00000199
+see make     	0,00000134
+see man      	0,00000253
+see many     	0,00000042
+see more     	0,00000051
+see movie    	0,00000000
+see much     	0,00000000
+see new      	0,00000000
+see original 	0,00000088
+see other    	0,00000089
+see people   	0,00000000
+see play     	0,00000205
+see real     	0,00000000
+see recommend	0,00000000
+see screen   	0,00000179
+see see      	0,00000000
+see series   	0,00000000
+see something	0,00000000
+see story    	0,00000000
+see theater  	0,00000345
+see theatre  	0,00000134
+see think    	0,00000000
+see time     	0,00000149
+see trailer  	0,00000000
+see tv       	0,00000000
+see watch    	0,00000000
+see while    	0,00000139
+see whole    	0,00000000
+see win      	0,00000000
+see work     	0,00000000
+see year     	0,00000034
+see young    	0,00000177
+seek         	0,00000133
+seem         	0,00000000
+seem be      	0,00000000
+seem have    	0,00000130
+seem real    	0,00000154
+segment      	0,00000000
+selection    	0,00000000
+self         	0,00000041
+sell         	0,00000134
+semi         	0,00000159
+send         	0,00000064
+sens         	0,00000000
+sensational  	0,00000118
+sense        	0,00000000
+sense be     	0,00000123
+sense humor  	0,00000070
+sense word   	0,00000000
+sensibility  	0,00000996
+sensitive    	0,00000331
+sensitivity  	0,00000142
+sensual      	0,00003954
+sentence     	0,00000492
+sentiment    	0,00000187
+sentimental  	0,00001343
+separate     	0,00000830
+sequel       	0,00000015
+sequel be    	0,00000000
+sequence     	0,00000000
+sequence be  	0,00000061
+sequence have	0,00000000
+serenity     	0,00000050
+serenity be  	0,00000000
+sergeant     	0,00000278
+serial       	0,00000000
+series       	0,00000000
+series be    	0,00000043
+series have  	0,00000000
+series movie 	0,00000000
+serious      	0,00000033
+seriousness  	0,00000000
+serve        	0,00000091
+service      	0,00000071
+set          	0,00000000
+set be       	0,00000033
+set design   	0,00000158
+set piece    	0,00000000
+set tone     	0,00000162
+setting      	0,00000166
+setting be   	0,00000089
+settle       	0,00000000
+setup        	0,00000000
+seventy      	0,00000282
+several      	0,00000000
+several time 	0,00000000
+several year 	0,00000000
+sex          	0,00001400
+sexual       	0,00002288
+sexuality    	0,00001956
+sexy         	0,00000988
+shades       	0,00000000
+shadow       	0,00000000
+shake        	0,00000000
+shallow      	0,00000000
+shape        	0,00000055
+share        	0,00001384
+shark        	0,00000000
+sharp        	0,00000043
+shatter      	0,00000362
+sheer        	0,00000070
+sheriff      	0,00000261
+shift        	0,00000000
+shine        	0,00000084
+ship         	0,00000116
+ship be      	0,00000000
+shock        	0,00000000
+shocking     	0,00000046
+shoe         	0,00000151
+shoot        	0,00000038
+shooting     	0,00000110
+shop         	0,00000416
+short        	0,00000077
+short be     	0,00000000
+short story  	0,00000447
+shot         	0,00000028
+shot be      	0,00000000
+shoulder     	0,00000000
+shout        	0,00000546
+show         	0,00000000
+show be      	0,00000050
+show do      	0,00000000
+show film    	0,00000000
+show good    	0,00000000
+show great   	0,00000000
+show have    	0,00000142
+show life    	0,00000000
+show love    	0,00000738
+show movie   	0,00000000
+show true    	0,00000594
+showcase     	0,00000056
+shrek        	0,00000000
+shy          	0,00000181
+sick         	0,00000125
+side         	0,00000000
+side be      	0,00000000
+sidekick     	0,00000000
+sight        	0,00000403
+sign         	0,00000041
+signature    	0,00000136
+significance 	0,00000170
+significant  	0,00000084
+silence      	0,00000143
+silence lambs	0,00000000
+silent       	0,00000082
+silly        	0,00000178
+silver       	0,00000148
+silver screen	0,00000000
+similar      	0,00000153
+similarity   	0,00000127
+simple       	0,00000238
+simple be    	0,00000000
+simple story 	0,00000000
+simpler      	0,00000000
+simplicity   	0,00000116
+simplistic   	0,00000265
+sin          	0,00000226
+sincere      	0,00000585
+sincerity    	0,00000000
+sing         	0,00000047
+singer       	0,00000210
+singing      	0,00000049
+singing be   	0,00000000
+singing dancing	0,00000000
+single       	0,00000105
+sinister     	0,00000000
+sink         	0,00000000
+sinking      	0,00000165
+sister       	0,00000309
+sister be    	0,00000000
+sit          	0,00000038
+sit enjoy    	0,00000000
+sit watch    	0,00000267
+site         	0,00000000
+situation    	0,00000263
+situation be 	0,00000000
+sixty        	0,00000000
+size         	0,00000090
+skill        	0,00000153
+skillful     	0,00000000
+skin         	0,00000000
+sky          	0,00000000
+slapstick    	0,00000120
+slave        	0,00000088
+sleek        	0,00000000
+sleep        	0,00000285
+sleepy       	0,00000000
+sleepy be    	0,00000000
+sleepy hollow	0,00000000
+slice        	0,00000125
+slick        	0,00000067
+slide        	0,00000000
+slight       	0,00000000
+slip         	0,00000310
+slow         	0,00000132
+small        	0,00000000
+small role   	0,00000179
+small town   	0,00000000
+smaller      	0,00000000
+smart        	0,00000105
+smash        	0,00000156
+smell        	0,00000191
+smile        	0,00000051
+smile face   	0,00000165
+smooth       	0,00000098
+snappy       	0,00000000
+sneak        	0,00000472
+sniper       	0,00000085
+snow         	0,00000000
+soap         	0,00000000
+soar         	0,00000151
+social       	0,00000107
+social commentary	0,00000000
+society      	0,00000281
+society be   	0,00000000
+soft         	0,00000439
+soldier      	0,00000170
+soldier be   	0,00000000
+solid        	0,00000000
+solution     	0,00000253
+solve        	0,00000000
+somebody     	0,00000000
+someone      	0,00000000
+someone be   	0,00000000
+someone have 	0,00000000
+something    	0,00000000
+something be 	0,00000048
+something everyone	0,00000127
+something good	0,00000000
+something have	0,00000000
+something new	0,00000051
+something special	0,00000000
+son          	0,00000290
+son be       	0,00000227
+son have     	0,00000331
+son love     	0,00000000
+song         	0,00000104
+song be      	0,00000109
+song dance   	0,00000000
+sophisticated	0,00000063
+sorrow       	0,00001012
+sorry        	0,00000175
+sort         	0,00000087
+soul         	0,00001862
+sound        	0,00000000
+sound be     	0,00000024
+sound effect 	0,00000000
+sound great  	0,00000000
+sound music  	0,00000106
+sound system 	0,00000000
+sound track  	0,00000086
+soundtrack   	0,00000000
+soundtrack be	0,00000056
+source       	0,00000042
+space        	0,00000076
+span         	0,00000228
+spare        	0,00000237
+spark        	0,00000263
+sparkle      	0,00000236
+sparkling    	0,00000249
+spawn        	0,00000158
+speak        	0,00000143
+speak be     	0,00000000
+speaker      	0,00000143
+speaking     	0,00000200
+special      	0,00000040
+special edition	0,00000030
+special effect	0,00000012
+special feature	0,00000000
+special place	0,00000000
+specific     	0,00000000
+spectacular  	0,00000063
+spectrum     	0,00000000
+speech       	0,00000253
+speed        	0,00000000
+spell        	0,00000000
+spellbinding 	0,00000000
+spend        	0,00000075
+spend time   	0,00000000
+spin         	0,00000000
+spinal       	0,00000123
+spinal tap   	0,00000000
+spirit       	0,00000161
+spirited     	0,00000210
+spiritual    	0,00000249
+spite        	0,00000225
+splendid     	0,00000125
+splendor     	0,00000000
+spoil        	0,00000071
+spoiler      	0,00000000
+spoof        	0,00000000
+spooky       	0,00000000
+sport        	0,00000000
+spot         	0,00000078
+spread       	0,00000000
+spring       	0,00000176
+spy          	0,00000000
+squad        	0,00000000
+stage        	0,00000117
+stake        	0,00000396
+stand        	0,00000096
+stand be     	0,00000093
+stand own    	0,00000150
+stand test   	0,00000086
+standard     	0,00000054
+standing     	0,00000514
+star         	0,00000040
+star be      	0,00000102
+star cast    	0,00000000
+star film    	0,00000000
+star have    	0,00000000
+star movie   	0,00000000
+star rating  	0,00000000
+stare        	0,00000155
+stark        	0,00000000
+start        	0,00000000
+start be     	0,00000000
+start end    	0,00000000
+start finish 	0,00000000
+start say    	0,00000287
+startling    	0,00000120
+state        	0,00000000
+state be     	0,00000000
+statement    	0,00000160
+station      	0,00000560
+status       	0,00000000
+stay         	0,00000126
+stay true    	0,00000000
+steady       	0,00000229
+steal        	0,00000090
+steal movie  	0,00000000
+steal scene  	0,00000000
+stellar      	0,00000032
+stellar cast 	0,00000000
+stellar performance	0,00000000
+step         	0,00000182
+stereotype   	0,00000165
+stick        	0,00000032
+stimulate    	0,00000000
+stir         	0,00000331
+stomach      	0,00000155
+stone        	0,00000000
+stop         	0,00000102
+store        	0,00000126
+storm        	0,00000225
+story        	0,00000000
+story act    	0,00000134
+story base   	0,00000215
+story be     	0,00000000
+story character	0,00000212
+story come   	0,00000198
+story do     	0,00000678
+story end    	0,00000998
+story film   	0,00000000
+story get    	0,00000000
+story give   	0,00000478
+story go     	0,00000594
+story good   	0,00000093
+story great  	0,00000082
+story have   	0,00000459
+story interesting	0,00000000
+story keep   	0,00000142
+story life   	0,00000120
+story line   	0,00000000
+story love   	0,00000641
+story make   	0,00000171
+story man    	0,00000685
+story move   	0,00000000
+story movie  	0,00000720
+story music  	0,00000229
+story people 	0,00001798
+story plot   	0,00000000
+story set    	0,00001452
+story show   	0,00000257
+story story  	0,00000829
+story take   	0,00000116
+story tell   	0,00000097
+story time   	0,00000236
+story unfold 	0,00000249
+story work   	0,00000239
+story young  	0,00000154
+storyline    	0,00000049
+storyline be 	0,00000075
+storyteller  	0,00000000
+storytelling 	0,00000113
+storytelling be	0,00000215
+straight     	0,00000371
+straightforward	0,00000292
+strange      	0,00000194
+stranger     	0,00000310
+stranger fiction	0,00000000
+street       	0,00000231
+strength     	0,00000270
+strength be  	0,00000233
+stress       	0,00000198
+strike       	0,00000112
+striking     	0,00000102
+string       	0,00000564
+strip        	0,00000000
+strive       	0,00000000
+stroke       	0,00000000
+strong       	0,00000173
+strong be    	0,00000000
+strong character	0,00000000
+strong performance	0,00000000
+stronger     	0,00000237
+strongest    	0,00000000
+structure    	0,00000058
+struggle     	0,00000203
+student      	0,00000039
+studio       	0,00000040
+study        	0,00000158
+stuff        	0,00000016
+stuff be     	0,00000000
+stumble      	0,00000000
+stun         	0,00000210
+stunning     	0,00000055
+stunning visual	0,00000000
+stunt        	0,00000000
+stupid       	0,00000000
+style        	0,00000000
+style be     	0,00000000
+style movie  	0,00000000
+stylish      	0,00000045
+stylistic    	0,00000000
+stylized     	0,00000000
+suave        	0,00000233
+sub          	0,00000124
+subject      	0,00000077
+subject matter	0,00000062
+sublime      	0,00000103
+subplot      	0,00000495
+subsequent   	0,00000150
+substance    	0,00000086
+subtext      	0,00000000
+subtitle     	0,00000000
+subtitle be  	0,00000000
+subtle       	0,00000146
+subtlety     	0,00000152
+succeed      	0,00000058
+success      	0,00000096
+success be   	0,00000265
+successful   	0,00000112
+such         	0,00000000
+such be      	0,00000094
+such classic 	0,00000688
+such film    	0,00000000
+such good    	0,00000000
+such great   	0,00000000
+such way     	0,00000000
+such wonderful	0,00000000
+suck         	0,00000102
+sudden       	0,00001076
+suffer       	0,00000363
+suffering    	0,00000675
+suffice      	0,00000212
+suffice say  	0,00000249
+suggest      	0,00000132
+suicide      	0,00000127
+suit         	0,00000057
+suitable     	0,00000000
+sum          	0,00000117
+summary      	0,00000000
+summer       	0,00000073
+summer blockbuster	0,00000000
+summer movie 	0,00000000
+sumptuous    	0,00000239
+sun          	0,00000185
+super        	0,00000084
+super hero   	0,00000114
+superb       	0,00000000
+superb act   	0,00000000
+superb acting	0,00000000
+superb cast  	0,00000185
+superb movie 	0,00000000
+superb performance	0,00000114
+superhero    	0,00000040
+superhero film	0,00000000
+superhero movie	0,00000000
+superior     	0,00000070
+superlative  	0,00000000
+supernatural 	0,00000162
+support      	0,00000080
+support actor	0,00000000
+support cast 	0,00000000
+support character	0,00000000
+support performance	0,00000000
+support player	0,00000000
+support role 	0,00000000
+supporting   	0,00000000
+suppose      	0,00000043
+suppose be   	0,00000288
+suprise      	0,00000000
+sure         	0,00000000
+sure be      	0,00000072
+sure have    	0,00000138
+sure see     	0,00000273
+surface      	0,00000243
+surpass      	0,00000069
+surprise     	0,00000037
+surprise be  	0,00000000
+surprise end 	0,00000093
+surprise movie	0,00000000
+surprising   	0,00000054
+surreal      	0,00000085
+surround     	0,00000109
+surround sound	0,00000143
+surroundings 	0,00000382
+survival     	0,00000168
+survive      	0,00000114
+survivor     	0,00000319
+suspect      	0,00000094
+suspence     	0,00000000
+suspend      	0,00000000
+suspend disbelief	0,00000000
+suspense     	0,00000046
+suspense action	0,00000000
+suspense be  	0,00000000
+suspense movie	0,00000000
+suspense thriller	0,00000000
+suspenseful  	0,00000023
+swear        	0,00000302
+sweep        	0,00000070
+sweeping     	0,00000153
+sweet        	0,00001453
+sweetness    	0,00000698
+swing        	0,00000155
+switch       	0,00000000
+sword        	0,00000000
+symbol       	0,00000000
+symbolic     	0,00000127
+symbolism    	0,00000090
+sympathetic  	0,00000125
+sympathize   	0,00000000
+sympathy     	0,00000181
+system       	0,00000000
+system be    	0,00000000
+t            	0,00000000
+table        	0,00000000
+tackle       	0,00000151
+tag          	0,00000282
+take         	0,00000000
+take advantage	0,00000000
+take be      	0,00000075
+take breath  	0,00000198
+take care    	0,00000000
+take film    	0,00000000
+take good    	0,00000282
+take great   	0,00000000
+take lot     	0,00000000
+take movie   	0,00000196
+take place   	0,00000126
+take time    	0,00000124
+tale         	0,00000109
+tale be      	0,00000082
+talent       	0,00000047
+talented     	0,00000049
+talented actor	0,00000096
+talented cast	0,00000000
+talk         	0,00000000
+talk be      	0,00000000
+talk talk    	0,00000000
+tall         	0,00000000
+tall tale    	0,00000253
+tap          	0,00000121
+tape         	0,00000000
+target       	0,00000092
+task         	0,00000101
+taste        	0,00000096
+taut         	0,00000158
+taxi         	0,00000000
+tea          	0,00000000
+teach        	0,00000197
+teacher      	0,00000096
+teaching     	0,00000000
+team         	0,00000118
+team be      	0,00000000
+tear         	0,00000099
+tear eye     	0,00000000
+tech         	0,00000146
+technical    	0,00000000
+technique    	0,00000039
+techno       	0,00000000
+technological	0,00000000
+technology   	0,00000030
+technology be	0,00000000
+teen         	0,00000128
+teenage      	0,00000163
+teenager     	0,00000049
+teens        	0,00000095
+television   	0,00000091
+tell         	0,00000000
+tell be      	0,00000154
+tell film    	0,00000000
+tell great   	0,00000000
+tell have    	0,00000189
+tell movie   	0,00000000
+tell story   	0,00000060
+tell tale    	0,00000172
+tell truth   	0,00000000
+temptation   	0,00000273
+tend         	0,00000091
+tender       	0,00002899
+tenderness   	0,00000956
+tennis       	0,00000396
+tense        	0,00000000
+tension      	0,00000298
+tension be   	0,00000000
+term         	0,00000092
+terrible     	0,00000124
+terrific     	0,00000036
+terrific be  	0,00000000
+terrific film	0,00000000
+terrific movie	0,00000000
+terrifying   	0,00000060
+terror       	0,00000000
+terrorist    	0,00000000
+test         	0,00000036
+test time    	0,00000072
+testament    	0,00000000
+thank        	0,00000021
+thanks       	0,00000050
+that         	0,00000000
+the          	0,00000000
+theater      	0,00000034
+theater be   	0,00000000
+theatre      	0,00000047
+theatre be   	0,00000000
+theatrical   	0,00000065
+theatrical release	0,00000000
+theatrical trailer	0,00000000
+theatrical version	0,00000000
+thematic     	0,00000205
+theme        	0,00000149
+theme be     	0,00000051
+theme movie  	0,00000244
+theory       	0,00000000
+thick        	0,00000226
+thief        	0,00000385
+thin         	0,00000328
+thing        	0,00000000
+thing be     	0,00000054
+thing come   	0,00000000
+thing do     	0,00000000
+thing film   	0,00000175
+thing get    	0,00000000
+thing go     	0,00000000
+thing happen 	0,00000000
+thing have   	0,00000061
+thing life   	0,00000242
+thing like   	0,00000198
+thing love   	0,00006014
+thing make   	0,00000000
+thing movie  	0,00000049
+thing say    	0,00000000
+think        	0,00000000
+think acting 	0,00000000
+think be     	0,00000000
+think best   	0,00000000
+think do     	0,00000000
+think everyone	0,00000441
+think film   	0,00000000
+think give   	0,00000000
+think have   	0,00000039
+think know   	0,00000278
+think make   	0,00000000
+think movie  	0,00000072
+think provoke	0,00000000
+think story  	0,00000000
+think watch  	0,00000000
+thinking     	0,00000242
+third        	0,00000198
+third man    	0,00000000
+third time   	0,00000257
+thought      	0,00000000
+thought be   	0,00000000
+thoughtful   	0,00000185
+thousand     	0,00000000
+thread       	0,00000159
+threat       	0,00000176
+threaten     	0,00000555
+thrill       	0,00000095
+thrill ride  	0,00000000
+thriller     	0,00000035
+thriller be  	0,00000000
+thriller have	0,00000000
+thrilling    	0,00000057
+throw        	0,00000127
+thrust       	0,00000249
+thug         	0,00000273
+thumb        	0,00000000
+tick         	0,00000265
+tie          	0,00000042
+tight        	0,00000000
+time         	0,00000000
+time be      	0,00000000
+time best    	0,00000000
+time come    	0,00000123
+time do      	0,00000000
+time enjoy   	0,00000075
+time favorite	0,00000021
+time feel    	0,00000239
+time film    	0,00000000
+time get     	0,00000162
+time give    	0,00000207
+time go      	0,00000161
+time good    	0,00000210
+time great   	0,00000000
+time have    	0,00000080
+time know    	0,00000282
+time life    	0,00000165
+time love    	0,00000288
+time make    	0,00000000
+time movie   	0,00000000
+time period  	0,00000058
+time place   	0,00000141
+time see     	0,00000348
+time take    	0,00000000
+time think   	0,00000000
+time time    	0,00000101
+time travel  	0,00000000
+time want    	0,00000218
+time watch   	0,00000056
+time year    	0,00000000
+timeless     	0,00000084
+timeless classic	0,00000135
+timely       	0,00000000
+timing       	0,00000078
+tiny         	0,00000093
+tip          	0,00000000
+tire         	0,00000000
+title        	0,00000032
+title be     	0,00000000
+title character	0,00000000
+title role   	0,00000000
+today        	0,00000000
+today be     	0,00000058
+today standard	0,00000000
+tom          	0,00000000
+tom cruise   	0,00000000
+ton          	0,00000052
+tone         	0,00000062
+tone be      	0,00000205
+tone film    	0,00000000
+tool         	0,00000000
+tooth        	0,00000177
+top          	0,00000000
+top be       	0,00000000
+top film     	0,00000000
+top game     	0,00000000
+top list     	0,00000000
+top movie    	0,00000133
+top notch    	0,00000000
+top time     	0,00000000
+topic        	0,00000079
+torment      	0,00001163
+tormented    	0,00000239
+tortured     	0,00000511
+total        	0,00000250
+touch        	0,00001205
+touch be     	0,00001205
+touch heart  	0,00004706
+touching     	0,00001059
+touching movie	0,00000000
+touching story	0,00000000
+tough        	0,00000180
+tough guy    	0,00000000
+tour         	0,00000079
+tower        	0,00000233
+town         	0,00000110
+town be      	0,00000000
+toy          	0,00000040
+toy story    	0,00000000
+track        	0,00000018
+track be     	0,00000000
+trade        	0,00000000
+trademark    	0,00000177
+tradition    	0,00000107
+traditional  	0,00000283
+tragedy      	0,00000310
+tragic       	0,00000161
+trailer      	0,00000000
+train        	0,00000221
+train be     	0,00000000
+training     	0,00000099
+trait        	0,00000198
+transcend    	0,00000496
+transfer     	0,00000016
+transform    	0,00000259
+transformation	0,00000000
+transition   	0,00000180
+translate    	0,00000183
+translation  	0,00000182
+translation be	0,00000158
+transport    	0,00000093
+trap         	0,00000307
+travel       	0,00000181
+treasure     	0,00000000
+treat        	0,00000094
+treat be     	0,00000000
+treatment    	0,00000112
+tree         	0,00000242
+tremendous   	0,00000033
+trial        	0,00000436
+triangle     	0,00000878
+tribe        	0,00000000
+tribute      	0,00000075
+trick        	0,00000098
+trilogy      	0,00000000
+trilogy be   	0,00000000
+trip         	0,00000086
+triumph      	0,00000082
+troops       	0,00000000
+trouble      	0,00000124
+troubled     	0,00000000
+true         	0,00000000
+true be      	0,00000115
+true classic 	0,00000104
+true comic   	0,00000257
+true fan     	0,00000000
+true film    	0,00000000
+true life    	0,00000000
+true love    	0,00003199
+true masterpiece	0,00000000
+true movie   	0,00000000
+true original	0,00000278
+true romance 	0,00009811
+true story   	0,00000063
+trust        	0,00000179
+truth        	0,00000109
+truth be     	0,00000000
+truthful     	0,00000459
+try          	0,00000100
+try be       	0,00000000
+try figure   	0,00000000
+try find     	0,00000000
+try get      	0,00000000
+try make     	0,00000161
+tug          	0,00001043
+tune         	0,00000061
+turmoil      	0,00000600
+turn         	0,00000000
+turn be      	0,00000079
+turn great   	0,00000000
+turn keep    	0,00000000
+turn movie   	0,00000420
+tv           	0,00000000
+tv be        	0,00000226
+tv series    	0,00000000
+tv show      	0,00000097
+twin         	0,00000000
+twist        	0,00000041
+twist be     	0,00000078
+twist end    	0,00000000
+twist turn   	0,00000029
+twisted      	0,00000064
+type         	0,00000000
+type film    	0,00000000
+type movie   	0,00000000
+typical      	0,00000311
+u            	0,00000000
+ugly         	0,00000447
+ultimate     	0,00000069
+un           	0,00000000
+unable       	0,00000499
+unbelievable 	0,00000079
+unbreakable  	0,00000000
+unbreakable be	0,00000000
+uncanny      	0,00000177
+unconventional	0,00000000
+uncover      	0,00000000
+undeniable   	0,00000538
+undercover   	0,00000198
+underground  	0,00000146
+underlie     	0,00000261
+underrated   	0,00000000
+understand   	0,00000178
+understand be	0,00000127
+understand movie	0,00000210
+understanding	0,00001674
+understate   	0,00000247
+understate performance	0,00000265
+undertone    	0,00000000
+underworld   	0,00000000
+underworld be	0,00000236
+unexpected   	0,00000203
+unexpected twist	0,00000000
+unfold       	0,00000276
+unforgettable	0,00000104
+unique       	0,00000065
+unique be    	0,00000249
+unique film  	0,00000000
+unit         	0,00000177
+universal    	0,00000674
+universe     	0,00000000
+unknown      	0,00000108
+unlikely     	0,00000196
+unparalleled 	0,00000210
+unpredictable	0,00000082
+unravel      	0,00000351
+unrealistic  	0,00000202
+unsettling   	0,00000000
+unusual      	0,00000110
+up           	0,00000000
+upbeat       	0,00000000
+update       	0,00000181
+uplift       	0,00000177
+uplifting    	0,00000242
+upper        	0,00000000
+upset        	0,00000000
+urban        	0,00000000
+urge         	0,00000212
+use          	0,00000000
+use be       	0,00000092
+use film     	0,00000000
+use movie    	0,00000000
+usual        	0,00000030
+usual be     	0,00000000
+usual suspect	0,00000000
+utilize      	0,00000197
+utter        	0,00000109
+v            	0,00000000
+v be         	0,00000112
+vacation     	0,00000970
+val          	0,00000000
+val be       	0,00000215
+valuable     	0,00000117
+value        	0,00000089
+value be     	0,00000000
+vampire      	0,00000058
+variation    	0,00000273
+variety      	0,00000331
+various      	0,00000096
+vary         	0,00000000
+vast         	0,00000000
+vehicle      	0,00000097
+vein         	0,00000000
+vengeance    	0,00000000
+venture      	0,00000164
+verbal       	0,00000425
+verse        	0,00000287
+version      	0,00000000
+version be   	0,00000000
+version have 	0,00000111
+version movie	0,00000136
+very         	0,00000000
+very end     	0,00000070
+veteran      	0,00000147
+vibe         	0,00000229
+vibrant      	0,00000000
+vice         	0,00000000
+vicious      	0,00000000
+victim       	0,00000307
+victory      	0,00000000
+video        	0,00000000
+video game   	0,00000000
+view         	0,00000062
+view be      	0,00000191
+view experience	0,00000000
+view film    	0,00000000
+view movie   	0,00000000
+viewer       	0,00000000
+viewer be    	0,00000000
+viewer have  	0,00000000
+viewing      	0,00000037
+viewing be   	0,00000000
+vignette     	0,00000239
+village      	0,00000064
+villain      	0,00000039
+villain be   	0,00000000
+villian      	0,00000127
+violence     	0,00000111
+violence be  	0,00000000
+violent      	0,00000089
+virgin       	0,00000000
+virtual      	0,00000265
+virtue       	0,00000000
+visceral     	0,00000107
+vision       	0,00000055
+vision be    	0,00000000
+visionary    	0,00000000
+visit        	0,00000335
+vista        	0,00000224
+visual       	0,00000046
+visual be    	0,00000063
+visual effect	0,00000000
+vital        	0,00000000
+vivid        	0,00000038
+vocal        	0,00000133
+voice        	0,00000141
+voice be     	0,00000000
+volume       	0,00000176
+vote         	0,00000000
+vulnerability	0,00000302
+vulnerable   	0,00000359
+w            	0,00000000
+wacky        	0,00000000
+wait         	0,00000045
+wait be      	0,00000246
+wait see     	0,00000000
+waitress     	0,00000249
+wake         	0,00000239
+walk         	0,00000098
+walk line    	0,00000148
+wall         	0,00000065
+wan          	0,00000000
+wander       	0,00000000
+want         	0,00000000
+want be      	0,00000032
+want do      	0,00000164
+want get     	0,00000000
+want give    	0,00000000
+want go      	0,00000198
+want good    	0,00000193
+want have    	0,00000000
+want know    	0,00000000
+want make    	0,00000000
+want movie   	0,00000000
+want say     	0,00000000
+want see     	0,00000070
+want watch   	0,00000036
+war          	0,00000048
+war be       	0,00000000
+war film     	0,00000000
+war movie    	0,00000000
+war scene    	0,00000000
+wardrobe     	0,00000499
+warfare      	0,00000000
+warm         	0,00001923
+warming      	0,00000499
+warmth       	0,00000624
+warn         	0,00000265
+warrior      	0,00000087
+wash         	0,00000124
+waste        	0,00000145
+watch        	0,00000000
+watch be     	0,00000151
+watch classic	0,00000000
+watch couple 	0,00000000
+watch day    	0,00000344
+watch do     	0,00000134
+watch enjoy  	0,00000000
+watch family 	0,00000000
+watch few    	0,00000000
+watch film   	0,00000053
+watch find   	0,00000221
+watch first  	0,00000087
+watch friend 	0,00000000
+watch get    	0,00000140
+watch good   	0,00000000
+watch great  	0,00000000
+watch have   	0,00000302
+watch kid    	0,00000000
+watch least  	0,00000187
+watch love   	0,00000101
+watch make   	0,00000000
+watch many   	0,00000061
+watch more   	0,00000000
+watch movie  	0,00000000
+watch multiple	0,00000000
+watch original	0,00000000
+watch other  	0,00000000
+watch second 	0,00000000
+watch see    	0,00000081
+watch series 	0,00000000
+watch several	0,00000000
+watch something	0,00000000
+watch think  	0,00000000
+watch time   	0,00000038
+watch want   	0,00000156
+watch watch  	0,00000000
+watch whole  	0,00000000
+watch year   	0,00000000
+watchable    	0,00000000
+watcher      	0,00000000
+water        	0,00000271
+wave         	0,00000351
+way          	0,00000000
+way be       	0,00000087
+way do       	0,00000000
+way end      	0,00000000
+way film     	0,00000096
+way get      	0,00000000
+way have     	0,00000116
+way life     	0,00000241
+way look     	0,00000000
+way make     	0,00000102
+way movie    	0,00000000
+way see      	0,00000000
+way story    	0,00000000
+weak         	0,00000125
+weakness     	0,00000307
+wealth       	0,00000095
+wealthy      	0,00000287
+weapon       	0,00000000
+wear         	0,00000111
+weave        	0,00000039
+web          	0,00000000
+wedding      	0,00000097
+week         	0,00000117
+weekend      	0,00000284
+weight       	0,00000175
+weird        	0,00000000
+welcome      	0,00000000
+well         	0,00000000
+wendy        	0,00000325
+werewolf     	0,00000075
+west         	0,00000000
+western      	0,00000000
+while        	0,00000000
+white        	0,00000169
+white be     	0,00000226
+white movie  	0,00000000
+whole        	0,00000000
+whole be     	0,00000294
+whole cast   	0,00000132
+whole family 	0,00000046
+whole film   	0,00000000
+whole life   	0,00000000
+whole lot    	0,00000112
+whole movie  	0,00000037
+whole new    	0,00000000
+whole story  	0,00000000
+whole thing  	0,00000094
+whole time   	0,00000000
+whole way    	0,00000000
+wholesome    	0,00000000
+wicked       	0,00000259
+wide         	0,00000031
+wide range   	0,00000229
+widescreen   	0,00000000
+widow        	0,00000269
+wife         	0,00001234
+wife be      	0,00000066
+wife child   	0,00000000
+wife have    	0,00000522
+wild         	0,00000000
+wild ride    	0,00000000
+will         	0,00000000
+willing      	0,00000084
+willingness  	0,00000246
+win          	0,00000039
+win academy  	0,00000000
+win award    	0,00000046
+win be       	0,00000116
+win best     	0,00000000
+win film     	0,00000215
+win heart    	0,00000278
+win many     	0,00000000
+win oscar    	0,00000000
+win performance	0,00000088
+win role     	0,00000207
+wind         	0,00000177
+window       	0,00000181
+wine         	0,00000202
+wing         	0,00000000
+winner       	0,00000040
+winner be    	0,00000000
+winner best  	0,00000000
+winter       	0,00000179
+wisdom       	0,00000391
+wise         	0,00000034
+wise be      	0,00000000
+wish         	0,00000117
+wish be      	0,00000156
+wish have    	0,00000000
+wit          	0,00000100
+witch        	0,00000000
+witness      	0,00000222
+witty        	0,00000147
+witty dialogue	0,00000000
+wolf         	0,00000000
+wolf be      	0,00000000
+woman        	0,00001762
+woman be     	0,00000202
+woman have   	0,00000348
+woman love   	0,00000000
+wonder       	0,00000036
+wonder be    	0,00000080
+wonder have  	0,00000287
+wonderful    	0,00000000
+wonderful be 	0,00000000
+wonderful cast	0,00000229
+wonderful film	0,00000000
+wonderful job	0,00000047
+wonderful life	0,00000000
+wonderful movie	0,00000027
+wonderful music	0,00000000
+wonderful performance	0,00000000
+wonderful story	0,00000000
+wondrous     	0,00000000
+wont         	0,00000000
+wood         	0,00000453
+word         	0,00000140
+word be      	0,00000000
+word describe	0,00000000
+work         	0,00000000
+work art     	0,00000035
+work be      	0,00000036
+work do      	0,00000125
+work film    	0,00000256
+work great   	0,00000120
+work have    	0,00000000
+work make    	0,00000196
+work many    	0,00000000
+work movie   	0,00000000
+work way     	0,00000000
+worker       	0,00000231
+world        	0,00000000
+world be     	0,00000052
+world have   	0,00000000
+worry        	0,00000000
+worst        	0,00000091
+worth        	0,00000000
+worth check  	0,00000257
+worth have   	0,00000000
+worth look   	0,00000000
+worth own    	0,00000000
+worth see    	0,00000026
+worth time   	0,00000000
+worth view   	0,00000000
+worth watch  	0,00000000
+worthwhile   	0,00000048
+worthy       	0,00000071
+wound        	0,00000703
+wow          	0,00000054
+wrap         	0,00000086
+wrath        	0,00000239
+wrenching    	0,00000853
+write        	0,00000000
+write act    	0,00000000
+write be     	0,00000000
+write direct 	0,00000110
+write film   	0,00000000
+write movie  	0,00000000
+write screenplay	0,00000000
+write script 	0,00000155
+write story  	0,00000000
+writer       	0,00000064
+writer be    	0,00000000
+writer director	0,00000000
+writing      	0,00000039
+writing act  	0,00000000
+writing be   	0,00000000
+wrong        	0,00000107
+wrong be     	0,00000000
+wry          	0,00000000
+ww2          	0,00000000
+x            	0,00000000
+x be         	0,00000000
+year         	0,00000000
+year be      	0,00000077
+year best    	0,00000000
+year come    	0,00000053
+year enjoy   	0,00000000
+year film    	0,00000000
+year have    	0,00000253
+year movie   	0,00000000
+year old     	0,00000000
+year see     	0,00000139
+year watch   	0,00000000
+year year    	0,00000000
+yellow       	0,00000000
+young        	0,00000000
+young actor  	0,00000000
+young age    	0,00000261
+young be     	0,00000130
+young boy    	0,00000249
+young child  	0,00000444
+young girl   	0,00000082
+young man    	0,00000127
+young old    	0,00000000
+young people 	0,00000000
+young woman  	0,00000000
+younger      	0,00000000
+youngest     	0,00000000
+youngster    	0,00000000
+youth        	0,00000114
+youthful     	0,00000351
+yr old       	0,00000425
+zombie       	0,00000000
+zombie movie 	0,00000000

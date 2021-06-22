@@ -1,0 +1,380 @@
+I:395;1;love, transfer, love transfer
+I:395;2;wise, work, age, wise work, work age
+I:395;3;give, fine, performance, accompany, give fine, fine performance, performance accompany
+I:395;4;movie, be, performance, orient, usual, special, effect, movie be, be performance, performance orient, orient usual, usual special, special effect
+I:395;5;love, movie, love movie
+I:395;6;be, wonderful, glad, be, like, be wonderful, wonderful glad, glad be, be like
+I:395;7;wonderful, preformance, wonderful preformance
+I:395;8;werewolf, movie, show, feeling, bitten, blood, lust, paint, good, man, have, enter, werewolf movie, movie show, show feeling, feeling bitten, bitten blood, blood lust, lust paint, paint good, good man, man have, have enter
+I:395;9;underrated, film, be, genuine, find, underrated film, film be, be genuine, genuine find
+I:395;10;be, terrific, be terrific
+I:395;11;do, excellent, job, play, smarmy, villain, do excellent, excellent job, job play, play smarmy, smarmy villain
+I:395;12;be, little, vignette, stay, mind, draw, attention, do, act, storyline, be, be little, little vignette, vignette stay, stay mind, mind draw, draw attention, attention do, do act, act storyline, storyline be
+I:395;13;jack, nicholson, have, enjoy, do, film, dramatic, metamorphosis, involve, jack nicholson, nicholson have, have enjoy, enjoy do, do film, film dramatic, dramatic metamorphosis, metamorphosis involve
+I:395;14;star, be, few, werewolf, movie, time, do, good, job, portray, be, become, werewolf, star be, be few, few werewolf, werewolf movie, movie time, time do, do good, good job, job portray, portray be, be become, become werewolf
+I:395;15;cool, stuff, start, happen, cool stuff, stuff start, start happen
+I:395;16;hear, better, see, glass, smell, better, hear better, better see, see glass, glass smell, smell better
+I:395;17;hear, thing, crazy, good, do, cool, sequence, listen, everything, happen, building, ear, hear thing, thing crazy, crazy good, good do, do cool, cool sequence, sequence listen, listen everything, everything happen, happen building, building ear
+I:395;18;twitch, everything, easy, accomplish, screen, course, wonderful, touch, twitch everything, everything easy, easy accomplish, accomplish screen, screen course, course wonderful, wonderful touch
+I:395;19;find, book, wolf, find book, book wolf
+I:395;20;spirit, take, human, body, lead, be, get, appointment, old, hindu, dude, write, book, way, day, spirit take, take human, human body, body lead, lead be, be get, get appointment, appointment old, old hindu, hindu dude, dude write, write book, book way, way day
+I:395;21;go, meet, guy, have, talk, get, necklace, go meet, meet guy, guy have, have talk, talk get, get necklace
+I:395;22;meet, dad, be, rich, jerk, meet dad, dad be, be rich, rich jerk
+I:395;23;bear, cursed, be, right, bear cursed, cursed be, be right
+I:395;24;have, get, perfect, wolf, have get, get perfect, perfect wolf
+I:395;25;boy, do, great, performance, guy, be, werewolf, face, be, concern, boy do, do great, great performance, performance guy, guy be, be werewolf, werewolf face, face be, be concern
+I:395;26;give, right, tooth, eye, have, get, give right, right tooth, tooth eye, eye have, have get
+I:395;27;good, man, become, wolf, be, good, wolf, good man, man become, become wolf, wolf be, be good, good wolf
+I:395;28;have, laugh, good, minute, have laugh, laugh good, good minute
+I:395;29;horror, decent, story, good, presentation, horror decent, decent story, story good, good presentation
+I:395;30;precise, neat, term, direction, fabulous, act, precise neat, neat term, term direction, direction fabulous, fabulous act
+I:395;31;be, rare, horror, film, keep, edge, seat, eye, glue, screen, hey, be rare, rare horror, horror film, film keep, keep edge, edge seat, seat eye, eye glue, glue screen, screen hey
+I:395;32;film, drag, longer, time, neat, direction, act, overcome, film drag, drag longer, longer time, time neat, neat direction, direction act, act overcome
+I:395;33;deliver, brilliant, performance, expression, be, enough, convince, viewer, deliver brilliant, brilliant performance, performance expression, expression be, be enough, enough convince, convince viewer
+I:395;34;unforgettable, tiny, gem, film, unforgettable tiny, tiny gem, gem film
+I:395;35;be, simple, story, hey, be, be simple, simple story, story hey, hey be
+I:395;36;movie, like, movie like
+I:395;37;best, thing, be, manage, great, werewolf, movie, little, gore, best thing, thing be, be manage, manage great, great werewolf, werewolf movie, movie little, little gore
+I:395;38;plot, be, pace, clever, plot be, be pace, pace clever
+I:395;39;play, role, werewolf, play role, role werewolf
+I:395;40;be, good, love, interest, be good, good love, love interest
+I:395;41;word, advice, want, enjoy, movie, do, view, critic, word advice, advice want, want enjoy, enjoy movie, movie do, do view, view critic
+I:395;42;music, work, part, have, be, improve, add, more, chill, music work, work part, part have, have be, be improve, improve add, add more, more chill
+I:395;43;movie, be, original, be, recommend, horror, nicholson, fan, movie be, be original, original be, be recommend, recommend horror, horror nicholson, nicholson fan
+I:395;44;like, have, view, several, time, like have, have view, view several, several time
+I:395;45;get, gorgeous, gal, nice, twist, tale, get gorgeous, gorgeous gal, gal nice, nice twist, twist tale
+I:395;46;make, perfect, gentle, mild, make perfect, perfect gentle, gentle mild
+I:395;47;great, star, power, atmosphere, lush, interior, film, blue, great star, star power, power atmosphere, atmosphere lush, lush interior, interior film, film blue
+I:395;48;be, cast, coworker, buddy, stand, role, have, be, expand, have, have, screen, time, take, get, be cast, cast coworker, coworker buddy, buddy stand, stand role, role have, have be, be expand, expand have, have have, have screen, screen time, time take, take get
+I:395;49;um, suspension, disbelief, be, important, be, unique, interesting, enough, keep, guess, action, end, survive, um suspension, suspension disbelief, disbelief be, be important, important be, be unique, unique interesting, interesting enough, enough keep, keep guess, guess action, action end, end survive
+I:395;50;sit, hot, cup, tea, stormy, night, enjoy, great, re, sit hot, hot cup, cup tea, tea stormy, stormy night, night enjoy, enjoy great, great re
+I:395;51;scenario, be, structure, jewel, scenario be, be structure, structure jewel
+I:395;52;sure, film, sure film
+I:395;53;be, realistic, expo, be, publishing, business, be realistic, realistic expo, expo be, be publishing, publishing business
+I:395;54;have, work, several, major, publisher, tell, thing, work, appear, film, have work, work several, several major, major publisher, publisher tell, tell thing, thing work, work appear, appear film
+I:395;55;be, many, be many
+I:395;56;be, true, day, become, possess, animal, spirit, be, easy, way, corporate, publishing, ladder, be true, true day, day become, become possess, possess animal, animal spirit, spirit be, be easy, easy way, way corporate, corporate publishing, publishing ladder
+I:395;57;have, get, few, rival, tell, have get, get few, few rival, rival tell
+I:395;58;give, shine, be, subtle, please, critic, be, strong, enough, satisfy, horror, fan, give shine, shine be, be subtle, subtle please, please critic, critic be, be strong, strong enough, enough satisfy, satisfy horror, horror fan
+I:395;59;be, science, fiction, best, have, see, be science, science fiction, fiction best, best have, have see
+I:395;60;product, come, timely, manner, condition, be, avertise, product come, come timely, timely manner, manner condition, condition be, be avertise
+I:395;61;be, husband, favorite, movie, be husband, husband favorite, favorite movie
+I:395;62;picture, movie, look, more, tape, picture movie, movie look, look more, more tape
+I:395;63;be, meek, editor, publishing, house, few, people, trust, be meek, meek editor, editor publishing, publishing house, house few, few people, people trust
+I:395;64;become, charming, self, become charming, charming self
+I:395;65;assure, win, affection, daughter, have, sens, power, go, human, ability, assure win, win affection, affection daughter, daughter have, have sens, sens power, power go, go human, human ability
+I:395;66;have, taste, flesh, be, be, free, have, run, gauntlet, police, connive, co., worker, have taste, taste flesh, flesh be, be be, be free, free have, have run, run gauntlet, gauntlet police, police connive, connive co., co. worker
+I:395;67;assure, wolf, usual, finesse, expertise, support, cast, provide, good, material, work, assure wolf, wolf usual, usual finesse, finesse expertise, expertise support, support cast, cast provide, provide good, good material, material work
+I:395;68;add, excellent, direction, veteran, have, rich, complex, story, fill, taut, suspense, hold, way, add excellent, excellent direction, direction veteran, veteran have, have rich, rich complex, complex story, story fill, fill taut, taut suspense, suspense hold, hold way
+I:395;69;be, sexy, scary, whole, cast, be, amazing, be sexy, sexy scary, scary whole, whole cast, cast be, be amazing
+I:395;70;course, be, terrific, movie, course be, be terrific, terrific movie
+I:395;71;be, cast, part, be cast, cast part
+I:395;72;be, great, part, be great, great part
+I:395;73;be, movie, forget, think, be, worth, go, write, review, be movie, movie forget, forget think, think be, be worth, worth go, go write, write review
+I:395;74;have, wild, streak, be, fight, be, alpha, male, be, aware, first, deadly, ambition, have, grow, have wild, wild streak, streak be, be fight, fight be, be alpha, alpha male, male be, be aware, aware first, first deadly, deadly ambition, ambition have, have grow
+I:395;75;be, cool, spin, werewolf, tale, like, interaction, play, rich, man, daughter, attitude, be cool, cool spin, spin werewolf, werewolf tale, tale like, like interaction, interaction play, play rich, rich man, man daughter, daughter attitude
+I:395;76;keep, mind, special, effect, be, date, be, worth, watch, keep mind, mind special, special effect, effect be, be date, date be, be worth, worth watch
+I:395;77;have, do, have do
+I:395;78;menacing, tender, ruthless, soft, be, great, screen, presence, menacing tender, tender ruthless, ruthless soft, soft be, be great, great screen, screen presence
+I:395;79;picture, move, modern, picture move, move modern
+I:395;80;day, picture, go, savor, detail, allow, plot, build, day picture, picture go, go savor, savor detail, detail allow, allow plot, plot build
+I:395;81;do, do, best, do do, do best
+I:395;82;play, ultimate, slime, manners, choir, boy, play ultimate, ultimate slime, slime manners, manners choir, choir boy
+I:395;83;newspaper, reviewer, note, radiate, predatory, self, newspaper reviewer, reviewer note, note radiate, radiate predatory, predatory self
+I:395;84;confidence, something, think, have, do, role, confidence something, something think, think have, have do, do role
+I:395;85;movie, have, romantic, core, come, try, battle, wolf, problem, movie have, have romantic, romantic core, core come, come try, try battle, battle wolf, wolf problem
+I:395;86;real, love, age, type, stuff, real love, love age, age type, type stuff
+I:395;87;be, werewolf, movie, do, style, class, be werewolf, werewolf movie, movie do, do style, style class
+I:395;88;feature, effective, villain, play, unpredictable, feature effective, effective villain, villain play, play unpredictable
+I:395;89;nicholson, have, lead, role, be, low, nicholson have, have lead, lead role, role be, be low
+I:395;90;day, horror, movie, be, such, intense, story, do, lose, interest, day horror, horror movie, movie be, be such, such intense, intense story, story do, do lose, lose interest
+I:395;91;be, good, visual, department, do, hurt, have, ogle, be good, good visual, visual department, department do, do hurt, hurt have, have ogle
+I:395;92;steal, show, steal show
+I:395;93;good, acting, good, story, line, fair, special, effect, good acting, acting good, good story, story line, line fair, fair special, special effect
+I:395;94;werewolf, movie, have, happy, end, werewolf movie, movie have, have happy, happy end
+I:395;95;be, awesome, thrilling, movie, guy, get, bite, wolf, do, relize, be, bite, werewolf, turn, be awesome, awesome thrilling, thrilling movie, movie guy, guy get, get bite, bite wolf, wolf do, do relize, relize be, be bite, bite werewolf, werewolf turn
+I:395;96;be, good, movie, everyone, age, be good, good movie, movie everyone, everyone age
+I:395;97;be, %, honest, movie, stunk, be %, % honest, honest movie, movie stunk
+I:395;98;be, look, fan, jack, nicholson, genre, movie, general, be look, look fan, fan jack, jack nicholson, nicholson genre, genre movie, movie general
+I:395;99;good, movie, scary, special, effect, be, good, good movie, movie scary, scary special, special effect, effect be, be good
+I:395;100;be, glad, get, be glad, glad get
+I:395;101;love, interest, look, good, disinterested, same, time, villain, be, suppose, comic, relief, love interest, interest look, look good, good disinterested, disinterested same, same time, time villain, villain be, be suppose, suppose comic, comic relief
+I:395;102;horror, genre, werewolf, movie, have, be, favorite, love, movie, horror genre, genre werewolf, werewolf movie, movie have, have be, be favorite, favorite love, love movie
+I:395;103;keep, guess, film, be, full, suspense, keep guess, guess film, film be, be full, full suspense
+I:395;104;course, do, great, job, play, wolfman, best, compelling, scene, be, be, normal, sit, think, have, do, course do, do great, great job, job play, play wolfman, wolfman best, best compelling, compelling scene, scene be, be be, be normal, normal sit, sit think, think have, have do
+I:395;105;be, excellent, like, see, think, play, cop, be, few, moment, be excellent, excellent like, like see, see think, think play, play cop, cop be, be few, few moment
+I:395;106;recommend, movie, nicholsen, fan, like, horror, movie, suspense, recommend movie, movie nicholsen, nicholsen fan, fan like, like horror, horror movie, movie suspense
+I:395;107;be, interesting, film, be, character, study, tired, middle, aged, publisher, horror, film, werewolf, be interesting, interesting film, film be, be character, character study, study tired, tired middle, middle aged, aged publisher, publisher horror, horror film, film werewolf
+I:395;108;movie, have, top, notch, act, intriuging, story, cool, ending, movie have, have top, top notch, notch act, act intriuging, intriuging story, story cool, cool ending
+I:395;109;play, werewolf, be, natural, werewolf, play werewolf, werewolf be, be natural, natural werewolf
+I:395;110;fan, werewolf, movie, be, surprise, timbre, particular, tale, fan werewolf, werewolf movie, movie be, be surprise, surprise timbre, timbre particular, particular tale
+I:395;111;whole, story, be, surreal, have, everpresent, dream, whole story, story be, be surreal, surreal have, have everpresent, everpresent dream
+I:395;112;special, effect, werewolf, transformation, be, scarce, special effect, effect werewolf, werewolf transformation, transformation be, be scarce
+I:395;113;be, do, film, be, look, cerebral, type, ww, film, normal, fare, be do, do film, film be, be look, look cerebral, cerebral type, type ww, ww film, film normal, normal fare
+I:395;114;mention, cast, be, higher, calibre, normal, mention cast, cast be, be higher, higher calibre, calibre normal
+I:395;115;many, many, flic, subject, werewolf, entry, have, cast, beautiful, actress, have, be, motion, picture, many many, many flic, flic subject, subject werewolf, werewolf entry, entry have, have cast, cast beautiful, beautiful actress, actress have, have be, be motion, motion picture
+I:395;116;love, presence, doll, picture, picture, hold, one, attention, be, story, line, good, cast, begin, end, love presence, presence doll, doll picture, picture picture, picture hold, hold one, one attention, attention be, be story, story line, line good, good cast, cast begin, begin end
+I:395;117;excellent, cast, be, young, excellent cast, cast be, be young
+I:395;118;good, story, keep, move, good story, story keep, keep move
+I:395;119;be, best, werewolf, movie, be best, best werewolf, werewolf movie
+I:395;120;star, be, direct, sure, hand, star be, be direct, direct sure, sure hand
+I:395;121;be, intelligent, riveting, time, scary, realistic, portrayal, human, concern, people, face, life, super, be intelligent, intelligent riveting, riveting time, time scary, scary realistic, realistic portrayal, portrayal human, human concern, concern people, people face, face life, life super
+I:395;122;love, movie, love movie
+I:395;123;course, anything, be, be, bind, be, incredible, course anything, anything be, be be, be bind, bind be, be incredible
+I:395;124;usual, regard, role, play, pour, everything, usual regard, regard role, role play, play pour, pour everything
+I:395;125;have, incredible, lay, way, act, have incredible, incredible lay, lay way, way act
+I:395;126;matter, role, play, make, character, believable, matter role, role play, play make, make character, character believable
+I:395;127;be, talented, actress, deed, be talented, talented actress, actress deed
+I:395;128;be, werewolf, romance, sense, be werewolf, werewolf romance, romance sense
+I:395;129;much, liking, seem, much liking, liking seem
+I:395;130;fun, movie, romantic, course, great, werewolf, fantasy, fun movie, movie romantic, romantic course, course great, great werewolf, werewolf fantasy
+I:395;131;be, great, condition, have, enjoy, watch, be great, great condition, condition have, have enjoy, enjoy watch
+I:395;132;be, favorite, movie, order, company, be favorite, favorite movie, movie order, order company
+I:395;133;star, horror, film, star horror, horror film
+I:395;134;jack, have, good, chemistry, make, jack have, have good, good chemistry, chemistry make
+I:395;135;effectsare, excellent, usual, effectsare excellent, excellent usual
+I:395;136;ray, have, good, picture, sound, ray have, have good, good picture, picture sound
+I:395;137;recommend, good, romantic, horror, flick, recommend good, good romantic, romantic horror, horror flick
+I:395;138;be, nice, movie, worth, see, be nice, nice movie, movie worth, worth see
+I:395;139;be, expect, horror, suspense, look, be, look, nice, story, be, nice, be expect, expect horror, horror suspense, suspense look, look be, be look, look nice, nice story, story be, be nice
+I:395;140;be, great, actor, be great, great actor
+I:395;141;tell, nice, story, tell nice, nice story
+I:395;142;find, movie, be, entertaining, find movie, movie be, be entertaining
+I:395;143;such, solve, murder, case, end, movie, such solve, solve murder, murder case, case end, end movie
+I:395;144;be, editor, be editor
+I:395;145;feel, rejuvenate, develop, heighten, sens, feel rejuvenate, rejuvenate develop, develop heighten, heighten sens
+I:395;146;gain, confidence, allow, take, charge, life, revenge, do, wrong, gain confidence, confidence allow, allow take, take charge, charge life, life revenge, revenge do, do wrong
+I:395;147;blue, full, moon, schlock, genre, spit, gem, blue full, full moon, moon schlock, schlock genre, genre spit, spit gem
+I:395;148;contemporary, film, wallow, marvelous, gothic, atmosphere, contemporary film, film wallow, wallow marvelous, marvelous gothic, gothic atmosphere
+I:395;149;be, wicked, unexpected, flourish, humor, smattering, social, satire, presume, gradual, descent, reserve, refinement, uninhibited, wolfishness, be, metaphor, predatory, be wicked, wicked unexpected, unexpected flourish, flourish humor, humor smattering, smattering social, social satire, satire presume, presume gradual, gradual descent, descent reserve, reserve refinement, refinement uninhibited, uninhibited wolfishness, wolfishness be, be metaphor, metaphor predatory
+I:395;150;trench, facet, publishing, world, trench facet, facet publishing, publishing world
+I:395;151;gain, huge, pair, construct, such, ruthless, elegant, get, gain huge, huge pair, pair construct, construct such, such ruthless, ruthless elegant, elegant get
+I:395;152;submit, layered, interpretation, deliver, fascinating, study, culture, man, grow, horror, succumb, baser, instinct, submit layered, layered interpretation, interpretation deliver, deliver fascinating, fascinating study, study culture, culture man, man grow, grow horror, horror succumb, succumb baser, baser instinct
+I:395;153;fascinating, bit, have, do, part, revel, turn, savagery, fascinating bit, bit have, have do, do part, part revel, revel turn, turn savagery
+I:395;154;brainer, be, be, something, feral, brainer be, be be, be something, something feral
+I:395;155;rely, suspense, sense, horror, be, evoke, effective, use, lighting, score, adroit, character, study, spot, rely suspense, suspense sense, sense horror, horror be, be evoke, evoke effective, effective use, use lighting, lighting score, score adroit, adroit character, character study, study spot
+I:395;156;final, tally, be, terrific, horror, movie, dark, subtle, literate, romantic, wicked, funny, final tally, tally be, be terrific, terrific horror, horror movie, movie dark, dark subtle, subtle literate, literate romantic, romantic wicked, wicked funny
+I:395;157;formidable, cast, nicholson, top, flank, secure, directorial, hand, formidable cast, cast nicholson, nicholson top, top flank, flank secure, secure directorial, directorial hand
+I:395;158;strike, watch, film, be, possibility, transformation, man, woman, wolf, be, view, blessing, gift, strike watch, watch film, film be, be possibility, possibility transformation, transformation man, man woman, woman wolf, wolf be, be view, view blessing, blessing gift
+I:395;159;be, character, be character
+I:395;160;get, be, escape, treacherous, brutality, betrayal, homosapien, freedom, make, life, want, become, get be, be escape, escape treacherous, treacherous brutality, brutality betrayal, betrayal homosapien, homosapien freedom, freedom make, make life, life want, want become
+I:395;161;get, clue, early, truthful, tasteless, funny, remark, party, decline, civilization, triumph, pop, therapeutic, culture, get clue, clue early, early truthful, truthful tasteless, tasteless funny, funny remark, remark party, party decline, decline civilization, civilization triumph, triumph pop, pop therapeutic, therapeutic culture
+I:395;162;add, be, likely, possibility, wind, new, love, add, bonus, add be, be likely, likely possibility, possibility wind, wind new, new love, love add, add bonus
+I:395;163;cast, movie, give, sense, credibility, portray, status, cast movie, movie give, give sense, sense credibility, credibility portray, portray status
+I:395;164;way, beast, be, introduce, way beast, beast be, be introduce
+I:395;165;love, story, love story
+I:395;166;get, gift, get gift
+I:395;167;come, own, gift, beast, come, new, confidence, strength, have, find, lack, long, time, come own, own gift, gift beast, beast come, come new, new confidence, confidence strength, strength have, have find, find lack, lack long, long time
+I:395;168;twist, plot, come, entrance, battle, lady, fair, twist plot, plot come, come entrance, entrance battle, battle lady, lady fair
+I:395;169;jack, triumph, rolw, play, part, be, man, energy, virility, wonder, watch, jack triumph, triumph rolw, rolw play, play part, part be, be man, man energy, energy virility, virility wonder, wonder watch
+I:395;170;have, like, wolfman, be, good, rendition, have like, like wolfman, wolfman be, be good, good rendition
+I:395;171;great, movie, remove, werewolf, classic, great movie, movie remove, remove werewolf, werewolf classic
+I:395;172;great, suspense, good, effect, great suspense, suspense good, good effect
+I:395;173;star, good, movie, editor, chief, book, publishing, company, star good, good movie, movie editor, editor chief, chief book, book publishing, publishing company
+I:395;174;car, strike, wolf, stop, investigate, car strike, strike wolf, wolf stop, stop investigate
+I:395;175;play, have, receive, old, position, play have, have receive, receive old, old position
+I:395;176;be, undergo, physical, change, such, heighten, sense, smell, hearing, cause, wolf, bite, be undergo, undergo physical, physical change, change such, such heighten, heighten sense, sense smell, smell hearing, hearing cause, cause wolf, wolf bite
+I:395;177;wolf, be, excellent, movie, wolf be, be excellent, excellent movie
+I:395;178;have, be, favorite, actor, be, perfect, choice, role, have be, be favorite, favorite actor, actor be, be perfect, perfect choice, choice role
+I:395;179;be, captivating, be captivating
+I:395;180;yellow, eye, heighten, sense, smell, end, movie, yellow eye, eye heighten, heighten sense, sense smell, smell end, end movie
+I:395;181;stop, special, effect, wolf, make, stop special, special effect, effect wolf, wolf make
+I:395;182;watch, movie, have, howling, good, time, way, watch movie, movie have, have howling, howling good, good time, time way
+I:395;183;take, opportunity, watch, own, movie, take opportunity, opportunity watch, watch own, own movie
+I:395;184;howling, series, be, better, howling series, series be, be better
+I:395;185;favorite, actor, favorite actor
+I:395;186;flik, werewolf, make, flik werewolf, werewolf make
+I:395;187;see, want, be, cowboy, see want, want be, be cowboy
+I:395;188;please, stay, horror, genre!oh, anyone, consider, movie, be, horror, film, please stay, stay horror, horror genre!oh, genre!oh anyone, anyone consider, consider movie, movie be, be horror, horror film
+I:395;189;love, actor, see, movie, love actor, actor see, see movie
+I:395;190;watch, more, enjoy, time, watch more, more enjoy, enjoy time
+I:395;191;be, awesome, movie, be awesome, awesome movie
+I:395;192;asset, collection, fan, asset collection, collection fan
+I:395;193;favorite, movie, favorite movie
+I:395;194;be, great, movie, be great, great movie
+I:395;195;bring, right, amount, ferocity, role, bring right, right amount, amount ferocity, ferocity role
+I:395;196;special, effect, be, good, special effect, effect be, be good
+I:395;197;anyone, like, supernatural, like, film, anyone like, like supernatural, supernatural like, like film
+I:395;198;friend, recommendation, convinced, watch, friend recommendation, recommendation convinced, convinced watch
+I:395;199;top, notch, actor, principal, role, top notch, notch actor, actor principal, principal role
+I:395;200;movie, be, bad, last, scene, transform, movie be, be bad, bad last, last scene, scene transform
+I:395;201;have, like, movie, come, have like, like movie, movie come
+I:395;202;movie, be, good, movie be, be good
+I:395;203;do, good, job, role, do good, good job, job role
+I:395;204;have, like, see, sequel, sort, have like, like see, see sequel, sequel sort
+I:395;205;better, many, modern, werewolf, movie, better many, many modern, modern werewolf, werewolf movie
+I:395;206;thumb, movie, thumb movie
+I:395;207;direct, feature, stellar, cast, give, excellent, performance, direct feature, feature stellar, stellar cast, cast give, give excellent, excellent performance
+I:395;208;contribute, successful, execution, sophisticated, subtle, horror, film, contribute successful, successful execution, execution sophisticated, sophisticated subtle, subtle horror, horror film
+I:395;209;add, bonus, be, devotee, tv, series, look, cameo, appearance, film, add bonus, bonus be, be devotee, devotee tv, tv series, series look, look cameo, cameo appearance, appearance film
+I:395;210;get, office, be, feel, effect, interaction, wolf, get office, office be, be feel, feel effect, effect interaction, interaction wolf
+I:395;211;betray, underling, have, be, give, job, find, undergo, subtle, physical, metamorphosis, betray underling, underling have, have be, be give, give job, job find, find undergo, undergo subtle, subtle physical, physical metamorphosis
+I:395;212;need, reading, glass, hearing, be, acute, have, keen, keen, sense, smell, need reading, reading glass, glass hearing, hearing be, be acute, acute have, have keen, keen keen, keen sense, sense smell
+I:395;213;be, enhance, sens, lead, discover, wife, play, have, betray, love, devotion, cause, leave, be enhance, enhance sens, sens lead, lead discover, discover wife, wife play, play have, have betray, betray love, love devotion, devotion cause, cause leave
+I:395;214;find, robust, aggressive, new, man, go, attack, aid, loyal, underling, play, perfection, get, job, find robust, robust aggressive, aggressive new, new man, man go, go attack, attack aid, aid loyal, loyal underling, underling play, play perfection, perfection get, get job
+I:395;215;be, memorable, scene, effect, be memorable, memorable scene, scene effect
+I:395;216;process, regain, life, fall, love, boss, beautiful, daughter, play, gritty, charm, process regain, regain life, life fall, fall love, love boss, boss beautiful, beautiful daughter, daughter play, play gritty, gritty charm
+I:395;217;find, battle, inner, demon, change, find battle, battle inner, inner demon, demon change
+I:395;218;transformation, be, subtle, be, lttle, use, special, effect, enhance, metamorphosis, transformation be, be subtle, subtle be, be lttle, lttle use, use special, special effect, effect enhance, enhance metamorphosis
+I:395;219;be, able, convey, viewer, be, undergo, flick, eyebrow, twitch, nose, curl, lip, be able, able convey, convey viewer, viewer be, be undergo, undergo flick, flick eyebrow, eyebrow twitch, twitch nose, nose curl, curl lip
+I:395;220;be, wonderful, piece, act, tribute, power, suggestion, be wonderful, wonderful piece, piece act, act tribute, tribute power, power suggestion
+I:395;221;discover, be, fact, have, great, deal, fear, initial, fear, be, misplace, discover be, be fact, fact have, have great, great deal, deal fear, fear initial, initial fear, fear be, be misplace
+I:395;222;look, great, finale, look great, great finale
+I:395;223;be, subtle, multus, be subtle, subtle multus
+I:395;224;layered, symbolic, type, horror, film, leave, viewer, analyze, see, layered symbolic, symbolic type, type horror, horror film, film leave, leave viewer, viewer analyze, analyze see
+I:395;225;be, great, werewolf, film, be great, great werewolf, werewolf film
+I:395;226;have, need, replace, be, great, play, great, villain, have need, need replace, replace be, be great, great play, play great, great villain
+I:395;227;find, romance, interesting, find romance, romance interesting
+I:395;228;have, chance, work, talented, cast, special, effect, slow, mo, final, fight, scene, have chance, chance work, work talented, talented cast, cast special, special effect, effect slow, slow mo, mo final, final fight, fight scene
+I:395;229;be, talented, believable, new, love, likeable, loyal, associate, be talented, talented believable, believable new, new love, love likeable, likeable loyal, loyal associate
+I:395;230;revenge, characterwe, love, hate, revenge characterwe, characterwe love, love hate
+I:395;231;be, be, good, be be, be good
+I:395;232;go, public, pan, most, critic, entertain, make, wonder, listen, critic, go public, public pan, pan most, most critic, critic entertain, entertain make, make wonder, wonder listen, listen critic
+I:395;233;deliver, movie, deliver movie
+I:395;234;have, incredible, spoiler, great, acting, origanal, plot, have incredible, incredible spoiler, spoiler great, great acting, acting origanal, origanal plot
+I:395;235;rubber, be, make, rubber be, be make
+I:395;236;have, recent, film, have, great, cast, great, director, great, movie, idea, have recent, recent film, film have, have great, great cast, cast great, great director, director great, great movie, movie idea
+I:395;237;script, be, mediocre, hold, actor, true, star, power, script be, be mediocre, mediocre hold, hold actor, actor true, true star, star power
+I:395;238;film, pledge, be, prime, example, this.yes, be, great, be, film pledge, pledge be, be prime, prime example, example this.yes, this.yes be, be great, great be
+I:395;239;be, great, see, be, be great, great see, see be
+I:395;240;join, franchise, expect, funny, movie, join franchise, franchise expect, expect funny, funny movie
+I:395;241;see, develop, kindred, affair, wife, character, cheat, get, interesting, see develop, develop kindred, kindred affair, affair wife, wife character, character cheat, cheat get, get interesting
+I:395;242;-rrb-, love, movie, buy, time, time, watch, performance, 
+I:395;243;love, begin, scene, movie, do, love, wolf, love begin, begin scene, scene movie, movie do, do love, love wolf
+I:395;244;watch, dark, sleep, watch dark, dark sleep
+I:395;245;actor, be, great, actor be, be great
+I:395;246;scenery, be, beautiful, house, cottage, scenery be, be beautiful, beautiful house, house cottage
+I:395;247;favorite, line, favorite line
+I:395;248;love, old, indian, guy, love old, old indian, indian guy
+I:395;249;be, excite, find, move, available, be excite, excite find, find move, move available
+I:395;250;team, witch, make, good, film, team witch, witch make, make good, good film
+I:395;251;character, end, be, few, surprise, character end, end be, be few, few surprise
+I:395;252;be, personal, favorite, movie, be, many, think, be, underrated, be personal, personal favorite, favorite movie, movie be, be many, many think, think be, be underrated
+I:395;253;be, conventional, horror, film, be, itelligent, symbolic, be conventional, conventional horror, horror film, film be, be itelligent, itelligent symbolic
+I:395;254;minor, grain, good, sound, minor grain, grain good, good sound
+I:395;255;commentary, disc, act, other, be, director, commentary, commentary disc, disc act, act other, other be, be director, director commentary
+I:395;256;documentary, disc, preproduction, scripting, film, act, other, disc, filmmaking, process, debut, documentary disc, disc preproduction, preproduction scripting, scripting film, film act, act other, other disc, disc filmmaking, filmmaking process, process debut
+I:395;257;have, look, high, low, movie, find, be, pleased, surprise, be, more, movie, see, watch, network, tv, have look, look high, high low, low movie, movie find, find be, be pleased, pleased surprise, surprise be, be more, more movie, movie see, see watch, watch network, network tv
+I:395;258;be, good, movie, recommend, anyone, be good, good movie, movie recommend, recommend anyone
+I:395;259;love, character, erudite, editor, publish, house, bit, weak, man, love, post, wolf, love character, character erudite, erudite editor, editor publish, publish house, house bit, bit weak, weak man, man love, love post, post wolf
+I:395;260;love, character, toughness, tenderness, man, become, wolf, way, eye, turn, yellow, end, love character, character toughness, toughness tenderness, tenderness man, man become, become wolf, wolf way, way eye, eye turn, turn yellow, yellow end
+I:395;261;be, howling, good, movie, fill, typical, werewolf, scare, penetrate, script, sharp, performance, be howling, howling good, good movie, movie fill, fill typical, typical werewolf, werewolf scare, scare penetrate, penetrate script, script sharp, sharp performance
+I:395;262;be, perfect, mealy, be perfect, perfect mealy
+I:395;263;mouth, senior, editor, be, boot, boss, favor, protege, smarmy, excellent, typical, style, mouth senior, senior editor, editor be, be boot, boot boss, boss favor, favor protege, protege smarmy, smarmy excellent, excellent typical, typical style
+I:395;264;wolf, be, classy, horror, film, overlook, be, good, wolf be, be classy, classy horror, horror film, film overlook, overlook be, be good
+I:395;265;good, werewolf, tale, give, have, performance, good werewolf, werewolf tale, tale give, give have, have performance
+I:395;266;give, good, give good
+I:395;267;enjoy, movie!ok, huge, horror, fan, like, setting, enjoy movie!ok, movie!ok huge, huge horror, horror fan, fan like, like setting
+I:395;268;unique, better, place, corporate, world, cut, unique better, better place, place corporate, corporate world, world cut
+I:395;269;movie, have, interesting, visual, be, blood, gore, movie have, have interesting, interesting visual, visual be, be blood, blood gore
+I:395;270;be, wonderful, portrayal, man, discover, wolf, be wonderful, wonderful portrayal, portrayal man, man discover, discover wolf
+I:395;271;have, be, play, intriguing, character, daughter, be, draw, man, father, despise, have be, be play, play intriguing, intriguing character, character daughter, daughter be, be draw, draw man, man father, father despise
+I:395;272;be, detail, make, movie, be detail, detail make, make movie
+I:395;273;viewer, be, position, character, learn, viewer be, be position, position character, character learn
+I:395;274;end, leave, viewer, wolfy, grin, end leave, leave viewer, viewer wolfy, wolfy grin
+I:395;275;enjoy, movie, begin, end, do, good, movie, do, enjoy movie, movie begin, begin end, end do, do good, good movie, movie do
+I:395;276;have, good, actor, have good, good actor
+I:395;277;interesting, spin, werewolf, genre, interesting spin, spin werewolf, werewolf genre
+I:395;278;be, top, werewolf, movie, be top, top werewolf, werewolf movie
+I:395;279;com, excellent, packaging, mailing, product, com excellent, excellent packaging, packaging mailing, mailing product
+I:395;280;classic, film, great, actor, unique, story, classic film, film great, great actor, actor unique, unique story
+I:395;281;choose, rating, love, kind, movie, choose rating, rating love, love kind, kind movie
+I:395;282;able, find, help, doctor, seek, help, alternative, healer, inform, be, turn, genuine, wolf, able find, find help, help doctor, doctor seek, seek help, help alternative, alternative healer, healer inform, inform be, be turn, turn genuine, genuine wolf
+I:395;283;role, be, course, big, one, be, easy, ascertain, read, back, cover, blurb, story, role be, be course, course big, big one, one be, be easy, easy ascertain, ascertain read, read back, back cover, cover blurb, blurb story
+I:395;284;little, romance, be, inevitable, relationship, prove, be, intriguing, little romance, romance be, be inevitable, inevitable relationship, relationship prove, prove be, be intriguing
+I:395;285;be, gorgeous, be gorgeous
+I:395;286;be, rich, misunderstand, beautiful, girl, make, sympathetic, ally, character, time, need, be rich, rich misunderstand, misunderstand beautiful, beautiful girl, girl make, make sympathetic, sympathetic ally, ally character, character time, time need
+I:395;287;play, villainous, role, fit, part, silk, glove, manicured, hand, play villainous, villainous role, role fit, fit part, part silk, silk glove, glove manicured, manicured hand
+I:395;288;act, be, fine, top, notch, be, top, cast, horror, film, course, add, overall, experience, act be, be fine, fine top, top notch, notch be, be top, top cast, cast horror, horror film, film course, course add, add overall, overall experience
+I:395;289;ennio, score, be, fitting, piece, ennio score, score be, be fitting, fitting piece
+I:395;290;direction, be, artful, skillful, please, direction be, be artful, artful skillful, skillful please
+I:395;291;be, careful, choose, film, suit, style, do, memorable, graduate, be, underrated, gem, be careful, careful choose, choose film, film suit, suit style, style do, do memorable, memorable graduate, graduate be, be underrated, underrated gem
+I:395;292;slow, zoom, be, use, cinematography, be, ideal, match, type, film, slow zoom, zoom be, be use, use cinematography, cinematography be, be ideal, ideal match, match type, type film
+I:395;293;werewolf, be, show, make, job, be, excellent, portray, realistic, type, werewolf, overcome, creature, werewolf be, be show, show make, make job, job be, be excellent, excellent portray, portray realistic, realistic type, type werewolf, werewolf overcome, overcome creature
+I:395;294;film, excel, be, more, adult, modern, approach, lycanthrope, legend, film excel, excel be, be more, more adult, adult modern, modern approach, approach lycanthrope, lycanthrope legend
+I:395;295;be, learn, change, be, inevitable, thing, be, blessing, give, chance, make, best, situation, be, survival, fittest, additional, needed, strength, be, bad, thing, be learn, learn change, change be, be inevitable, inevitable thing, thing be, be blessing, blessing give, give chance, chance make, make best, best situation, situation be, be survival, survival fittest, fittest additional, additional needed, needed strength, strength be, be bad, bad thing
+I:395;296;interaction, character, be, intriguing, rocky, romance, be, thing, be, reckon, interaction character, character be, be intriguing, intriguing rocky, rocky romance, romance be, be thing, thing be, be reckon
+I:395;297;heart, warm, stuff, work, werewolf, story, heart warm, warm stuff, stuff work, work werewolf, werewolf story
+I:395;298;be, intriguing, enough, film, be, fun, watch, performance, be intriguing, intriguing enough, enough film, film be, be fun, fun watch, watch performance
+I:395;299;be, favorite, werewolf, movie, be favorite, favorite werewolf, werewolf movie
+I:395;300;humanistic, chemistry, jn, mp, sizzle, humanistic chemistry, chemistry jn, jn mp, mp sizzle
+I:395;301;story, be, do, story be, be do
+I:395;302;enjoy, movie, max, enjoy movie, movie max
+I:395;303;be, great, act, pair, be great, great act, act pair
+I:395;304;personal, favorite, personal favorite
+I:395;305;be, best, team, be best, best team
+I:395;306;love, story, classic, folklore, love story, story classic, classic folklore
+I:395;307;film, be, do, concept, lecanthropy, seem, believable, film be, be do, do concept, concept lecanthropy, lecanthropy seem, seem believable
+I:395;308;acting, be, excellent, acting be, be excellent
+I:395;309;smart, sexy, time, funny, be, have, age, bring, remnant, old, become, parody, smart sexy, sexy time, time funny, funny be, be have, have age, age bring, bring remnant, remnant old, old become, become parody
+I:395;310;greatest, movie, greatest movie
+I:395;311;movie, arrive, love, watchen, movie, be, cool, enjoy, everytime, watch, movie arrive, arrive love, love watchen, watchen movie, movie be, be cool, cool enjoy, enjoy everytime, everytime watch
+I:395;312;go, transformation, make, feel, young, vivacious, go transformation, transformation make, make feel, feel young, young vivacious
+I:395;313;have, beautiful, wife, beautiful, mistress, have beautiful, beautiful wife, wife beautiful, beautiful mistress
+I:395;314;ultimate, fantasy, be, boss, daughter, ultimate fantasy, fantasy be, be boss, boss daughter
+I:395;315;continue, obsession, vampire, story, have, be, few, werewolf, film, be, worth, watch, continue obsession, obsession vampire, vampire story, story have, have be, be few, few werewolf, werewolf film, film be, be worth, worth watch
+I:395;316;depend, much, take, werewolf, mythology, find, be, great, watch, time, get, see, depend much, much take, take werewolf, werewolf mythology, mythology find, find be, be great, great watch, watch time, time get, get see
+I:395;317;star, cast, unique, storytelling, film, star cast, cast unique, unique storytelling, storytelling film
+I:395;318;make, remind, lot, classic, picture, make remind, remind lot, lot classic, classic picture
+I:395;319;performance, be, oil, do, good, job, subhuman, being, performance be, be oil, oil do, do good, good job, job subhuman, subhuman being
+I:395;320;co., star, rejoin, aloof, loveless, woman, have, manage, open, heart, character, see, chemistry, be, lose, co. star, star rejoin, rejoin aloof, aloof loveless, loveless woman, woman have, have manage, manage open, open heart, heart character, character see, see chemistry, chemistry be, be lose
+I:395;321;favorite, role, classy, werewolf, favorite role, role classy, classy werewolf
+I:395;322;be, beautiful, graceful, be beautiful, beautiful graceful
+I:395;323;good, story, direction, script, good story, story direction, direction script
+I:395;324;interesting, actor, make, fine, werewolf, interesting actor, actor make, make fine, fine werewolf
+I:395;325;be, good, first, time, see, everyone, own, be good, good first, first time, time see, see everyone, everyone own
+I:395;326;favorite, actor, prime, favorite actor, actor prime
+I:395;327;movie, make, today, movie, movie make, make today, today movie
+I:395;328;best, wolf, movie, make, have, see, best wolf, wolf movie, movie make, make have, have see
+I:395;329;love, movie, show, strength, rejuvination, come, werewolf, bite, love movie, movie show, show strength, strength rejuvination, rejuvination come, come werewolf, werewolf bite
+I:395;330;be, old, have, ok, job, have, cheating, wife, new, nose, smell, drop, tequilla, cup, coffee, breath, be old, old have, have ok, ok job, job have, have cheating, cheating wife, wife new, new nose, nose smell, smell drop, drop tequilla, tequilla cup, cup coffee, coffee breath
+I:395;331;like, look, new, wolfman, new, date, version, like look, look new, new wolfman, wolfman new, new date, date version
+I:395;332;movie, take, whole, werewolf, legend, new, level, movie take, take whole, whole werewolf, werewolf legend, legend new, new level
+I:395;333;give, good, reference, individual, have, deal, everyday, life, situation, deal, work, relationship, personal, life, people, be, diseveing, something, think, know, be, wrong, thing, be, go, unexcpected, change, life, change, everything, give good, good reference, reference individual, individual have, have deal, deal everyday, everyday life, life situation, situation deal, deal work, work relationship, relationship personal, personal life, life people, people be, be diseveing, diseveing something, something think, think know, know be, be wrong, wrong thing, thing be, be go, go unexcpected, unexcpected change, change life, life change, change everything
+I:395;334;have, good, head, shoulder, drive, home, night, business, trip, change, whole, life, have good, good head, head shoulder, shoulder drive, drive home, home night, night business, business trip, trip change, change whole, whole life
+I:395;335;be, good, thinking, movie, pychologic, thriller, be good, good thinking, thinking movie, movie pychologic, pychologic thriller
+I:395;336;be, good, werewolf, movie, much, blood, have, deserve, write, story, line, be good, good werewolf, werewolf movie, movie much, much blood, blood have, have deserve, deserve write, write story, story line
+I:395;337;be, get, twist, turn, be get, get twist, twist turn
+I:395;338;movie, be, worth, see, movie be, be worth, worth see
+I:395;339;direct, script, fall, fame, nicholson, be, brilliant, best, jaded, lead, editor, publishing, house, acquire, billionaire, asset, stripper, play, predatory, fashion, excellent, direct script, script fall, fall fame, fame nicholson, nicholson be, be brilliant, brilliant best, best jaded, jaded lead, lead editor, editor publishing, publishing house, house acquire, acquire billionaire, billionaire asset, asset stripper, stripper play, play predatory, predatory fashion, fashion excellent
+I:395;340;movie, have, wit, irony, elegance, superb, turn, romantic, jazzy, score, amusing, moment, make, enjoyable, experience, label, horror, turn, movie have, have wit, wit irony, irony elegance, elegance superb, superb turn, turn romantic, romantic jazzy, jazzy score, score amusing, amusing moment, moment make, make enjoyable, enjoyable experience, experience label, label horror, horror turn
+I:395;341;movie, be, star, actor, movie be, be star, star actor
+I:395;342;be, set, modern, time, normal, everyday, businessman, involve, office, politics, new, love, cheating, wife, ambitious, backstabber, little, comedy, horror, factor, be set, set modern, modern time, time normal, normal everyday, everyday businessman, businessman involve, involve office, office politics, politics new, new love, love cheating, cheating wife, wife ambitious, ambitious backstabber, backstabber little, little comedy, comedy horror, horror factor
+I:395;343;today, movie, say, lot, today movie, movie say, say lot
+I:395;344;acting, be, top, notch, give, a, performance, acting be, be top, top notch, notch give, give a, a performance
+I:395;345;give, much, performance, grow, think, dude, be, sleaze, give much, much performance, performance grow, grow think, think dude, dude be, be sleaze
+I:395;346;lol, love, american, story, american, true, story, be, male, person, relate, part, have, experience, be, character, lol love, love american, american story, story american, american true, true story, story be, be male, male person, person relate, relate part, part have, have experience, experience be, be character
+I:395;347;say, be, enjoyable, movie, way, little, werewolf, action, heart, say be, be enjoyable, enjoyable movie, movie way, way little, little werewolf, werewolf action, action heart
+I:395;348;jack, make, movie, work, be, convince, lycanthrope, jack make, make movie, movie work, work be, be convince, convince lycanthrope
+I:395;349;enjoy, be, give, star, enjoy be, be give, give star
+I:395;350;par, hear, brother, sister, par hear, hear brother, brother sister
+I:395;351;be, refreshing, protray, werewolf, force, good, earn, star, amazon, be refreshing, refreshing protray, protray werewolf, werewolf force, force good, good earn, earn star, star amazon
+I:395;352;keep, werewolf, genre, alive, do, more, class, most, day, keep werewolf, werewolf genre, genre alive, alive do, do more, more class, class most, most day
+I:395;353;do, best, carry, movie, do best, best carry, carry movie
+I:395;354;like, like, movie, like like, like movie
+I:395;355;bring, smart, steady, hand, bite, satire, office, politics, bring smart, smart steady, steady hand, hand bite, bite satire, satire office, office politics
+I:395;356;day, performance, be, modulate, passive, day performance, performance be, be modulate, modulate passive
+I:395;357;play, favorite, role, yuppie, backstab, play favorite, favorite role, role yuppie, yuppie backstab
+I:395;358;transform, lupine, aggressor, beautiful, woman, transform lupine, lupine aggressor, aggressor beautiful, beautiful woman
+I:395;359;get, fun, horror, begin, get fun, fun horror, horror begin
+I:395;360;be, enjoy, be, show, be, enjoy, minute, be enjoy, enjoy be, be show, show be, be enjoy, enjoy minute
+I:395;361;favorite, werewolf, movie, favorite werewolf, werewolf movie
+I:395;362;be, wonderful, love, anything, be, sexy, villain, :p, be wonderful, wonderful love, love anything, anything be, be sexy, sexy villain, villain :p
+I:395;363;story, be, great, story be, be great
+I:395;364;be, entertaining, comedic, horror, piece, be entertaining, entertaining comedic, comedic horror, horror piece
+I:395;365;top, special, effect, do, please, top special, special effect, effect do, do please
+I:395;366;good, director, regard, work, graduate, good director, director regard, regard work, work graduate
+I:395;367;have, be, good, have be, be good
+I:395;368;do, good, scary, staff, do good, good scary, scary staff
+I:395;369;gift, people, be, gift, gift people, people be, be gift
+I:395;370;nuclear, power, nuclear power
+I:395;371;read, other, few, review, good, reviewer, do, good, job, do, want, repead, read other, other few, few review, review good, good reviewer, reviewer do, do good, good job, job do, do want, want repead
+I:395;372;release, early, summer, be, interesting, werewolf, tale, aging, editor, release early, early summer, summer be, be interesting, interesting werewolf, werewolf tale, tale aging, aging editor
+I:395;373;see, take, werewolf, legend, place, modern, do, expect, gothic, ambiance, werewolf, film, like, curse, werewolf, see take, take werewolf, werewolf legend, legend place, place modern, modern do, do expect, expect gothic, gothic ambiance, ambiance werewolf, werewolf film, film like, like curse, curse werewolf
+I:395;374;be, werewolf, yarn, horror, element, associate, be werewolf, werewolf yarn, yarn horror, horror element, element associate
+I:395;375;such, change, be, positive, most, part, such change, change be, be positive, positive most, most part
+I:395;376;work, emphasis, character, work emphasis, emphasis character
+I:395;377;be, worthy, protagonist, common, man, relate, be worthy, worthy protagonist, protagonist common, common man, man relate
+I:395;378;michele, be, effective, role, have, striking, face, trip, trigger, allurement, go, michele be, be effective, effective role, role have, have striking, striking face, face trip, trip trigger, trigger allurement, allurement go
+I:395;379;be, good, role, be good, good role
+I:395;380;way, be, likable, seem, show, character, keep, contradict, way be, be likable, likable seem, seem show, show character, character keep, keep contradict

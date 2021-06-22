@@ -1,0 +1,845 @@
+I:8888;1;think, end, be, think end, end be
+I:8888;2;love, movie, version, look, excellent, television, love movie, movie version, version look, look excellent, excellent television
+I:8888;3;be, rare, give, movie, star, be, film, deserve, be, be rare, rare give, give movie, movie star, star be, be film, film deserve, deserve be
+I:8888;4;film, be, be, do, win, film be, be be, be do, do win
+I:8888;5;be, able, feel, music, understand, be, link, piano, be able, able feel, feel music, music understand, understand be, be link, link piano
+I:8888;6;think, be, masculine, sexy, movie, frontal, nudity, think be, be masculine, masculine sexy, sexy movie, movie frontal, frontal nudity
+I:8888;7;be, rough, tumble, rugged, male, sensuality, love, be rough, rough tumble, tumble rugged, rugged male, male sensuality, sensuality love
+I:8888;8;find, refreshing, movie, present, character, be, good, bad, find refreshing, refreshing movie, movie present, present character, character be, be good, good bad
+I:8888;9;movie, whole, be, craft, movie whole, whole be, be craft
+I:8888;10;create, mood, stay, mind, movie, be, create mood, mood stay, stay mind, mind movie, movie be
+I:8888;11;see, interested, get, lasting, experience, see interested, interested get, get lasting, lasting experience
+I:8888;12;recommend, movie, recommend movie
+I:8888;13;film, greet, suggestion, such, guess, be, thing, compare, proof, film greet, greet suggestion, suggestion such, such guess, guess be, be thing, thing compare, compare proof
+I:8888;14;be, right, way, enjoy, film, let, soak, be right, right way, way enjoy, enjoy film, film let, let soak
+I:8888;15;love, film, enjoy, way, song, melt, skin, love film, film enjoy, enjoy way, way song, song melt, melt skin
+I:8888;16;neighbor, offer, bring, return, leson, love, triangle, develop, neighbor offer, offer bring, bring return, return leson, leson love, love triangle, triangle develop
+I:8888;17;movie, have, original, story, line, good, character, good, act, bring, best, movie, movie have, have original, original story, story line, line good, good character, character good, good act, act bring, bring best, best movie
+I:8888;18;soundtrack, be, terrific, combine, movie, be, voice, only, way, express, be, miosunderstood, surrounding, society, soundtrack be, be terrific, terrific combine, combine movie, movie be, be voice, voice only, only way, way express, express be, be miosunderstood, miosunderstood surrounding, surrounding society
+I:8888;19;movie, be, worth, watch, music, lover, movie be, be worth, worth watch, watch music, music lover
+I:8888;20;do, get, wrong, love, be, %, do get, get wrong, wrong love, love be, be %
+I:8888;21;interesting, favorite, interesting favorite
+I:8888;22;acting, be, superb, acting be, be superb
+I:8888;23;be, amazing, piece, work, be amazing, amazing piece, piece work
+I:8888;24;provocative, powerful, story, be, fairytale, adult, provocative powerful, powerful story, story be, be fairytale, fairytale adult
+I:8888;25;character, despair, passion, extraordinary, beauty, capture, camera, contribute, haunting, intimacy, film, character despair, despair passion, passion extraordinary, extraordinary beauty, beauty capture, capture camera, camera contribute, contribute haunting, haunting intimacy, intimacy film
+I:8888;26;be, favorite, movie, be favorite, favorite movie
+I:8888;27;interesting, drama, best, part, be, naked, long, scene, rare, appearance, actress, interesting drama, drama best, best part, part be, be naked, naked long, long scene, scene rare, rare appearance, appearance actress
+I:8888;28;have, talent, accent, young, age, have talent, talent accent, accent young, young age
+I:8888;29;great, performance, actor, involve, dark, beautiful, tale, forbid, love, raw, passion, jealousy, want, contrast, culture, personality, great performance, performance actor, actor involve, involve dark, dark beautiful, beautiful tale, tale forbid, forbid love, love raw, raw passion, passion jealousy, jealousy want, want contrast, contrast culture, culture personality
+I:8888;30;story, be, tender, sweet, moment, psychological, thriller, next, sensual, humorous, curious, fabulous, film, spectacular, cinematography, story be, be tender, tender sweet, sweet moment, moment psychological, psychological thriller, thriller next, next sensual, sensual humorous, humorous curious, curious fabulous, fabulous film, film spectacular, spectacular cinematography
+I:8888;31;be, great, film, be great, great film
+I:8888;32;best, movie, have, see, best movie, movie have, have see
+I:8888;33;do, great, intense, character, do great, great intense, intense character
+I:8888;34;think, have, good, story, line, good, character, development, think have, have good, good story, story line, line good, good character, character development
+I:8888;35;be, movie, be, bit, artistic, passionate, be movie, movie be, be bit, bit artistic, artistic passionate
+I:8888;36;movie, be, amazing, recommend, anyone, enjoy, something, have, drama, bit, romance, sexual, sense, movie be, be amazing, amazing recommend, recommend anyone, anyone enjoy, enjoy something, something have, have drama, drama bit, bit romance, romance sexual, sexual sense
+I:8888;37;give, have, man, give have, have man
+I:8888;38;love, moody, period, piece, dislike, film, dislike, decide, give, second, try, love moody, moody period, period piece, piece dislike, dislike film, film dislike, dislike decide, decide give, give second, second try
+I:8888;39;sympathetic, character, be, sympathetic character, character be
+I:8888;40;tough, journey, arrive, strange, land, only, thing, matter, daughter, be, piano, allow, express, feeling, tough journey, journey arrive, arrive strange, strange land, land only, only thing, thing matter, matter daughter, daughter be, be piano, piano allow, allow express, express feeling
+I:8888;41;woodhead, husband, leave, beach, woodhead husband, husband leave, leave beach
+I:8888;42;actor, direction, music, be, outstanding, have, be, release, same, year, list, have, gain, actor direction, direction music, music be, be outstanding, outstanding have, have be, be release, release same, same year, year list, list have, have gain
+I:8888;43;end, have, discuss, age, end have, have discuss, discuss age
+I:8888;44;remember, read, extensive, review, laud, move, touch, film, 20th, century, remember read, read extensive, extensive review, review laud, laud move, move touch, touch film, film 20th, 20th century
+I:8888;45;take, year, get, see, say, slew, repeat, viewing, understand, review, hold, film, pedestal, take year, year get, get see, see say, say slew, slew repeat, repeat viewing, viewing understand, understand review, review hold, hold film, film pedestal
+I:8888;46;be, many, action, result, consequence, seem, place, character, be, frustration, startling, take, time, break, film, be, much, explanation, be, find, subtlety, frame, be, bring, whole, other, understanding, film, be many, many action, action result, result consequence, consequence seem, seem place, place character, character be, be frustration, frustration startling, startling take, take time, time break, break film, film be, be much, much explanation, explanation be, be find, find subtlety, subtlety frame, frame be, be bring, bring whole, whole other, other understanding, understanding film
+I:8888;47;mind, voice, tell, have, be, offer, marriage, farmer, travel, young, daughter, beloved, piano, boat, meet, mind voice, voice tell, tell have, have be, be offer, offer marriage, marriage farmer, farmer travel, travel young, young daughter, daughter beloved, beloved piano, piano boat, boat meet
+I:8888;48;find, be, lead, new, home, piano, be, leave, beach, find be, be lead, lead new, new home, home piano, piano be, be leave, leave beach
+I:8888;49;label, shortchange, writer/director, have, accomplish, cinematic, masterpiece, label shortchange, shortchange writer/director, writer/director have, have accomplish, accomplish cinematic, cinematic masterpiece
+I:8888;50;central, character, be, seek, form, redemption, gratification, life, central character, character be, be seek, seek form, form redemption, redemption gratification, gratification life
+I:8888;51;jealousy, give, way, foolishness, foolishness, place, mother, harm, way, jealousy give, give way, way foolishness, foolishness foolishness, foolishness place, place mother, mother harm, harm way
+I:8888;52;performance, entire, cast, be, flawless, elevate, beautiful, film, performance entire, entire cast, cast be, be flawless, flawless elevate, elevate beautiful, beautiful film
+I:8888;53;earn, give, riveting, performance, crawl, deep, psyche, character, earn give, give riveting, riveting performance, performance crawl, crawl deep, deep psyche, psyche character
+I:8888;54;say, few, word, be, able, speak, volume, voice, be, hear, frame, say few, few word, word be, be able, able speak, speak volume, volume voice, voice be, be hear, hear frame
+I:8888;55;be, amazing, restrain, temper, believable, lover, be, something, be, sure, pull, be amazing, amazing restrain, restrain temper, temper believable, believable lover, lover be, be something, something be, be sure, sure pull
+I:8888;56;be, real, male, standout, be real, real male, male standout
+I:8888;57;jan, receive, bulk, credit, construction, film, be, majestic, say, least, jan receive, receive bulk, bulk credit, credit construction, construction film, film be, be majestic, majestic say, say least
+I:8888;58;capture, heart, character, weave, audience, frame, leave, beg, more, capture heart, heart character, character weave, weave audience, audience frame, frame leave, leave beg, beg more
+I:8888;59;cinematography, be, grip, magnetic, frame, settle, image, symbolism, display, slightest, scene, echo, film, credit, begin, roll, cinematography be, be grip, grip magnetic, magnetic frame, frame settle, settle image, image symbolism, symbolism display, display slightest, slightest scene, scene echo, echo film, film credit, credit begin, begin roll
+I:8888;60;be, few, film, important, few, film, glorious, be few, few film, film important, important few, few film, film glorious
+I:8888;61;everything, be, top, notch, delicate, script, effortless, act, serene, camera, work, everything be, be top, top notch, notch delicate, delicate script, script effortless, effortless act, act serene, serene camera, camera work
+I:8888;62;piano, be, cinematic, wonder, be, unrivaled, film, define, word, film, piano be, be cinematic, cinematic wonder, wonder be, be unrivaled, unrivaled film, film define, define word, word film
+I:8888;63;story, be, mute, woman, man, be, interested, man, win, heart, beloved, piano, story be, be mute, mute woman, woman man, man be, be interested, interested man, man win, win heart, heart beloved, beloved piano
+I:8888;64;imagine, entertainment, film/movie, da, imagine entertainment, entertainment film/movie, film/movie da
+I:8888;65;amazing, overwhelming, film, manage, grab, attention, right, beginning, amazing overwhelming, overwhelming film, film manage, manage grab, grab attention, attention right, right beginning
+I:8888;66;manage, express, lot, eye, perform, extreme, vigor, passion, flamboyancy, take, eye, moment, manage, convey, something, other, viewer, be, excellent, manage express, express lot, lot eye, eye perform, perform extreme, extreme vigor, vigor passion, passion flamboyancy, flamboyancy take, take eye, eye moment, moment manage, manage convey, convey something, something other, other viewer, viewer be, be excellent
+I:8888;67;film, start, normal, slow, pace, get, dark, bold, film start, start normal, normal slow, slow pace, pace get, get dark, dark bold
+I:8888;68;score, be, beautiful, chemistry, co., star, be, excellent, film, film, do, emphasize, romance, passionate, tale, be, more, film, get, bold, term, human, sexuality, be, disturbing, viewer, time, score be, be beautiful, beautiful chemistry, chemistry co., co. star, star be, be excellent, excellent film, film film, film do, do emphasize, emphasize romance, romance passionate, passionate tale, tale be, be more, more film, film get, get bold, bold term, term human, human sexuality, sexuality be, be disturbing, disturbing viewer, viewer time
+I:8888;69;film, be, pure, example, neat, acting, direction, beautiful, location, priceless, piano, score, make, film, worthwhile, film be, be pure, pure example, example neat, neat acting, acting direction, direction beautiful, beautiful location, location priceless, priceless piano, piano score, score make, make film, film worthwhile
+I:8888;70;have, be, favorite, movie, have be, be favorite, favorite movie
+I:8888;71;be, look, see, movie, feature, favorite, actor, be look, look see, see movie, movie feature, feature favorite, favorite actor
+I:8888;72;movie, be, difficult, comprehend, guy, blackmail, mute, married, woman, have, sex, get, beloved, possession, piano, movie be, be difficult, difficult comprehend, comprehend guy, guy blackmail, blackmail mute, mute married, married woman, woman have, have sex, sex get, get beloved, beloved possession, possession piano
+I:8888;73;have, problem, feel, love, have problem, problem feel, feel love
+I:8888;74;be, no, chemistry, erotism, be no, no chemistry, chemistry erotism
+I:8888;75;music, music, piano, theme, be, beautiful, music music, music piano, piano theme, theme be, be beautiful
+I:8888;76;whole, situation, make, have, no, respect, culture, other, movie, involve, native, have, whole situation, situation make, make have, have no, no respect, respect culture, culture other, other movie, movie involve, involve native, native have
+I:8888;77;acting, be, superb, acting be, be superb
+I:8888;78;be, winner, use, sign, language, film, be winner, winner use, use sign, sign language, language film
+I:8888;79;remember, moment, write, love, note, piano, key, remember moment, moment write, write love, love note, note piano, piano key
+I:8888;80;do, superior, job, part, do superior, superior job, job part
+I:8888;81;have, like, work, fit, part, have like, like work, work fit, fit part
+I:8888;82;great, surprise, end, great surprise, surprise end
+I:8888;83;like, read, read, book, fiery, romance, erotic, excitement, good, story, like read, read read, read book, book fiery, fiery romance, romance erotic, erotic excitement, excitement good, good story
+I:8888;84;be, brilliant, movie, be brilliant, brilliant movie
+I:8888;85;chick, flick, do, look, thing, woman, point, view, be, make, intense, romantic, poetic, move, chick flick, flick do, do look, look thing, thing woman, woman point, point view, view be, be make, make intense, intense romantic, romantic poetic, poetic move
+I:8888;86;cinematography, score, make, coast, jungle, come, alive, cinematography score, score make, make coast, coast jungle, jungle come, come alive
+I:8888;87;beautiful, ensemble, act, lead, beautiful ensemble, ensemble act, act lead
+I:8888;88;be, great, husband, go, insane, surprise, un, be great, great husband, husband go, go insane, insane surprise, surprise un
+I:8888;89;typical, role, be, be, great, actor, be, proof, typical role, role be, be be, be great, great actor, actor be, be proof
+I:8888;90;film, poetic, scene, special, woman, touch, courtesy, film poetic, poetic scene, scene special, special woman, woman touch, touch courtesy
+I:8888;91;scale, give, movie, scale give, give movie
+I:8888;92;be, excellenct, movie, adult, be excellenct, excellenct movie, movie adult
+I:8888;93;be, love, story, ton, romance, beautiful, scenery, story, movie, be, great, be love, love story, story ton, ton romance, romance beautiful, beautiful scenery, scenery story, story movie, movie be, be great
+I:8888;94;star, film, be, grand, piano, bring, young, daughter, arrive, arrange, marriage, star film, film be, be grand, grand piano, piano bring, bring young, young daughter, daughter arrive, arrive arrange, arrange marriage
+I:8888;95;speak, musical, talent, make, piano, speak, classical, pianist, do, better, speak musical, musical talent, talent make, make piano, piano speak, speak classical, classical pianist, pianist do, do better
+I:8888;96;have, be, play, sea, be, beautiful, have be, be play, play sea, sea be, be beautiful
+I:8888;97;little, flora, love, make, story, absent, father, have, be, great, german, composer, die, be, strike, lightning, little flora, flora love, love make, make story, story absent, absent father, father have, have be, be great, great german, german composer, composer die, die be, be strike, strike lightning
+I:8888;98;get, piano, move, home, be, illiterate, buy, piano, price, change, life, get piano, piano move, move home, home be, be illiterate, illiterate buy, buy piano, piano price, price change, change life
+I:8888;99;be, price, be price
+I:8888;100;hear, be, leave, island, send, thank, piano, c, note, piano, hear be, be leave, leave island, island send, send thank, thank piano, piano c, c note, note piano
+I:8888;101;set, free, love, set free, free love
+I:8888;102;head, determine, woman, lose, reason, live, let, past, go, reconfigure, future, man, love, head determine, determine woman, woman lose, lose reason, reason live, live let, let past, past go, go reconfigure, reconfigure future, future man, man love
+I:8888;103;movie, win, academy, award, movie win, win academy, academy award
+I:8888;104;do, fantastic, act, job, have, do, nude, scene, do fantastic, fantastic act, act job, job have, have do, do nude, nude scene
+I:8888;105;enjoy, second, time, enjoy second, second time
+I:8888;106;be, emotional, riveting, story, choose, husband, father, man, enter, life, piano, be emotional, emotional riveting, riveting story, story choose, choose husband, husband father, father man, man enter, enter life, life piano
+I:8888;107;best, movie, time, best movie, movie time
+I:8888;108;love, story, strangest, sort, i, continue, watch, tire, love story, story strangest, strangest sort, sort i, i continue, continue watch, watch tire
+I:8888;109;be, excellent, film, be excellent, excellent film
+I:8888;110;cinematography, setting, be, beautiful, cinematography setting, setting be, be beautiful
+I:8888;111;theme, song, be, unforgettable, theme song, song be, be unforgettable
+I:8888;112;actor, do, wonderful, job, actor do, do wonderful, wonderful job
+I:8888;113;have, love, piano, see, theater, have love, love piano, piano see, see theater
+I:8888;114;ray, result, be, wonderful, ray result, result be, be wonderful
+I:8888;115;stereo, sound, mix, have, excellent, clarity, dialogue, sound, effect, stereo sound, sound mix, mix have, have excellent, excellent clarity, clarity dialogue, dialogue sound, sound effect
+I:8888;116;recommend, blu, recommend blu
+I:8888;117;solace, be, piano, play, solace be, be piano, piano play
+I:8888;118;want, something, return, want something, something return
+I:8888;119;heroine, be, freak, social, outcast, heroine be, be freak, freak social, social outcast
+I:8888;120;movie, be, poetic, sensual, expense, reason, movie be, be poetic, poetic sensual, sensual expense, expense reason
+I:8888;121;be, somber, movie, be, enjoy, be somber, somber movie, movie be, be enjoy
+I:8888;122;be, brilliant, performance, movie, be brilliant, brilliant performance, performance movie
+I:8888;123;character, play, small, part, move, story, screen, presence, be, extraordinary, character play, play small, small part, part move, move story, story screen, screen presence, presence be, be extraordinary
+I:8888;124;be, youngest, actor, win, award, be, much, deserve, be youngest, youngest actor, actor win, win award, award be, be much, much deserve
+I:8888;125;win, movie, be, deserve, consider, fact, do, utter, single, word, entire, movie, win movie, movie be, be deserve, deserve consider, consider fact, fact do, do utter, utter single, single word, word entire, entire movie
+I:8888;126;tantrum, throw, be, realistic, compelling, tantrum throw, throw be, be realistic, realistic compelling
+I:8888;127;worthy, mention, be, movie, incredible, art, direction, cinematography, worthy mention, mention be, be movie, movie incredible, incredible art, art direction, direction cinematography
+I:8888;128;draw, own, conclusion, draw own, own conclusion
+I:8888;129;be, excellent, movie, recommend, see, be excellent, excellent movie, movie recommend, recommend see
+I:8888;130;have, see, film, many, time, love, viewing, have see, see film, film many, many time, time love, love viewing
+I:8888;131;friend, suggest, try, movie, friend suggest, suggest try, try movie
+I:8888;132;find, course, find course
+I:8888;133;love, few, word, need, convey, ton, emotion, love few, few word, word need, need convey, convey ton, ton emotion
+I:8888;134;love, go, search, movie, star, love go, go search, search movie, movie star
+I:8888;135;have, dozen, man, work, leave, piano, beach, surf, be, bother, seem, have dozen, dozen man, man work, work leave, leave piano, piano beach, beach surf, surf be, be bother, bother seem
+I:8888;136;see, nude, topless, see nude, nude topless
+I:8888;137;add, endless, overcast, sky, film, see, character, choose, go, canoe, add endless, endless overcast, overcast sky, sky film, film see, see character, character choose, choose go, go canoe
+I:8888;138;interesting, expect, interesting expect
+I:8888;139;movie, be, create, imagine, ordinary, folk, escape, couple, hour, get, entertain, let, hair, movie be, be create, create imagine, imagine ordinary, ordinary folk, folk escape, escape couple, couple hour, hour get, get entertain, entertain let, let hair
+I:8888;140;believe, piano, provide, service, believe piano, piano provide, provide service
+I:8888;141;be, patient, end, break, anger, be patient, patient end, end break, break anger
+I:8888;142;share, enjoyment, other, body, share enjoyment, enjoyment other, other body
+I:8888;143;be, good, little, girl, do, great, movie, make, be good, good little, little girl, girl do, do great, great movie, movie make
+I:8888;144;be, artist, singer, dancer, painter, musician, adultery, rise, height, spiritual, poetry, be artist, artist singer, singer dancer, dancer painter, painter musician, musician adultery, adultery rise, rise height, height spiritual, spiritual poetry
+I:8888;145;have, begin, stress, be, have begin, begin stress, stress be
+I:8888;146;wait, magnificent, film, be, available, wait magnificent, magnificent film, film be, be available
+I:8888;147;delight, eye, play, mute, woman, move, flora, young, daughter, delight eye, eye play, play mute, mute woman, woman move, move flora, flora young, young daughter
+I:8888;148;break, heart, piano, be, value, material, possession, break heart, heart piano, piano be, be value, value material, material possession
+I:8888;149;enter, worker, plantation, go, beach, pick, piano, carry, guy, jungle, take, house, enter worker, worker plantation, plantation go, go beach, beach pick, pick piano, piano carry, carry guy, guy jungle, jungle take, take house
+I:8888;150;action, make, happy, take, advantage, situation, tell, have, piano, teach, play, action make, make happy, happy take, take advantage, advantage situation, situation tell, tell have, have piano, piano teach, teach play
+I:8888;151;be, beautiful, movie, watch, be beautiful, beautiful movie, movie watch
+I:8888;152;have, lush, cinematography, excellent, acting, result, best, actress, paquin, best, support, actress, great, directing, win, best, screenplay, write, screen, awesome, production, design, have lush, lush cinematography, cinematography excellent, excellent acting, acting result, result best, best actress, actress paquin, paquin best, best support, support actress, actress great, great directing, directing win, win best, best screenplay, screenplay write, write screen, screen awesome, awesome production, production design
+I:8888;153;charm, be, mesmerizing, charm be, be mesmerizing
+I:8888;154;color, min, color min
+I:8888;155;good, love, story, act, be, tightest, good love, love story, story act, act be, be tightest
+I:8888;156;piano, metaphor, repress, emotion, piano metaphor, metaphor repress, repress emotion
+I:8888;157;be, eerie, be, be eerie, eerie be
+I:8888;158;be, dark, sexy, be dark, dark sexy
+I:8888;159;win, d'or, make, first, woman, win, prestigious, award, win d'or, d'or make, make first, first woman, woman win, win prestigious, prestigious award
+I:8888;160;capture, academy, award, best, original, screenplay, be, nominate, best, director, capture academy, academy award, award best, best original, original screenplay, screenplay be, be nominate, nominate best, best director
+I:8888;161;win, be, nominate, best, cinematography, win be, be nominate, nominate best, best cinematography
+I:8888;162;good, luck, female, friend, competition, good luck, luck female, female friend, friend competition
+I:8888;163;extended, metaphor, extended metaphor
+I:8888;164;hand, finger, touch, sensual, caress, hand finger, finger touch, touch sensual, sensual caress
+I:8888;165;see, piano, be, key, heart, have, tune, sign, piano, lesson, thin, pretext, try, seduce, see piano, piano be, be key, key heart, heart have, have tune, tune sign, sign piano, piano lesson, lesson thin, thin pretext, pretext try, try seduce
+I:8888;166;do, want, spoil, end, see, be, head, showdown, do want, want spoil, spoil end, end see, see be, be head, head showdown
+I:8888;167;director, have, hide, agenda, be, bit, heavy, handed, symbolism, succeed, art, due, excellent, performance, win, director have, have hide, hide agenda, agenda be, be bit, bit heavy, heavy handed, handed symbolism, symbolism succeed, succeed art, art due, due excellent, excellent performance, performance win
+I:8888;168;be, second, youngest, person, win, deserve, be second, second youngest, youngest person, person win, win deserve
+I:8888;169;character, be, complex, nuanced, miss, beat, character be, be complex, complex nuanced, nuanced miss, miss beat
+I:8888;170;flora, day, mother, father, be, singing, forest, great, storm, blow, flora day, day mother, mother father, father be, be singing, singing forest, forest great, great storm, storm blow
+I:8888;171;be, have, little, trouble, act, child, uncommon, sophistication, be, rare, uncommon, be have, have little, little trouble, trouble act, act child, child uncommon, uncommon sophistication, sophistication be, be rare, rare uncommon
+I:8888;172;protagonist, be, wife, successful, businessman, l, protagonist be, be wife, wife successful, successful businessman, businessman l
+I:8888;173;meet, be, son, woman, manage, cottage, begin, fall, love, meet be, be son, son woman, woman manage, manage cottage, cottage begin, begin fall, fall love
+I:8888;174;find, interesting, be, novel, piano, be, meet, same, kind, criticism, find interesting, interesting be, be novel, novel piano, piano be, be meet, meet same, same kind, kind criticism
+I:8888;175;win, be, nominate, other, win be, be nominate, nominate other
+I:8888;176;ada, have, fashion, metal, finger, tip, be, town, freak, satisfy, ada have, have fashion, fashion metal, metal finger, finger tip, tip be, be town, town freak, freak satisfy
+I:8888;177;word, be, explain, piano, film, idea, be, interesting, other, word be, be explain, explain piano, piano film, film idea, idea be, be interesting, interesting other
+I:8888;178;word, note, outstanding, female, actor, performance, unusual, ambience, word note, note outstanding, outstanding female, female actor, actor performance, performance unusual, unusual ambience
+I:8888;179;nineteenth, century, give, good, impression, life, rugged, forest, native, live, time, nineteenth century, century give, give good, good impression, impression life, life rugged, rugged forest, forest native, native live, live time
+I:8888;180;deny, beloved, piano, deny beloved, beloved piano
+I:8888;181;set, chain, event, piano, be, key, unlock, heart, set chain, chain event, event piano, piano be, be key, key unlock, unlock heart
+I:8888;182;superb, act, add, superb act, act add
+I:8888;183;buff, unlock, soul, buff unlock, unlock soul
+I:8888;184;many, give, credit, fact, save, sea, many give, give credit, credit fact, fact save, save sea
+I:8888;185;fellow, pianist, find, piano, music, beautiful, piano, fellow pianist, pianist find, find piano, piano music, music beautiful, beautiful piano
+I:8888;186;be, happy, end, yippee, be happy, happy end, end yippee
+I:8888;187;be, shoot, grubby, violence, be, hair, place, period, modern, spiritual, be, warrior, level, be shoot, shoot grubby, grubby violence, violence be, be hair, hair place, place period, period modern, modern spiritual, spiritual be, be warrior, warrior level
+I:8888;188;be, stupendous, be stupendous
+I:8888;189;campion, present, expatriate, view, be, credit, uncover, many, dirty, secret, nz, psyche, campion present, present expatriate, expatriate view, view be, be credit, credit uncover, uncover many, many dirty, dirty secret, secret nz, nz psyche
+I:8888;190;fact, movie, white, be, star, piece, cinema, fact movie, movie white, white be, be star, star piece, piece cinema
+I:8888;191;spiritual, systematic, devaluing, woman, love, violence, thrive, standard, bloke, spiritual systematic, systematic devaluing, devaluing woman, woman love, love violence, violence thrive, thrive standard, standard bloke
+I:8888;192;set, understanding, past, present, find, pub, wine, bar, part, country, night, set understanding, understanding past, past present, present find, find pub, pub wine, wine bar, bar part, part country, country night
+I:8888;193;historical, elision, be, important, provide, way, white, people, be, sole, group, center, movie, ignore, fundamental, inter, historical elision, elision be, be important, important provide, provide way, way white, white people, people be, be sole, sole group, group center, center movie, movie ignore, ignore fundamental, fundamental inter
+I:8888;194;be, quintessential, be quintessential
+I:8888;195;movie, replicate, be, story, plucky, european, triumph, native, landscape, philistine, colonist, be, sure, movie replicate, replicate be, be story, story plucky, plucky european, european triumph, triumph native, native landscape, landscape philistine, philistine colonist, colonist be, be sure
+I:8888;196;character, find, true, love, restore, genteel, setting, think, cost, pay, native, people, character find, find true, true love, love restore, restore genteel, genteel setting, setting think, think cost, cost pay, pay native, native people
+I:8888;197;like, movie, show, love, occur, word, like movie, movie show, show love, love occur, occur word
+I:8888;198;have, beautiful, piano, music, have beautiful, beautiful piano, piano music
+I:8888;199;like, be, such, good, actress, like be, be such, such good, good actress
+I:8888;200;try, like, try like
+I:8888;201;think, director, excellent, be, important, director, finest, work, think director, director excellent, excellent be, be important, important director, director finest, finest work
+I:8888;202;be, first, movie, have, see, lord, know, have, see, thousand, think, great, work, art, be first, first movie, movie have, have see, see lord, lord know, know have, have see, see thousand, thousand think, think great, great work, work art
+I:8888;203;time, best, movie, have, see, have, think, hard, come, better, time best, best movie, movie have, have see, see have, have think, think hard, hard come, come better
+I:8888;204;score, be, consider, additional, character, be, haunting, memorable, score be, be consider, consider additional, additional character, character be, be haunting, haunting memorable
+I:8888;205;year, story, repress, emotion, year story, story repress, repress emotion
+I:8888;206;be, talented, be talented
+I:8888;207;use, lush, color, beautiful, natural, scenery, 19th, century, ambience, make, entertaining, film, use lush, lush color, color beautiful, beautiful natural, natural scenery, scenery 19th, 19th century, century ambience, ambience make, make entertaining, entertaining film
+I:8888;208;main, protagonist, be, depict, depth, main protagonist, protagonist be, be depict, depict depth
+I:8888;209;heroine, psyche, be, reveal, audience, heroine psyche, psyche be, be reveal, reveal audience
+I:8888;210;find, impressive, be, direct, movie, write, story, find impressive, impressive be, be direct, direct movie, movie write, write story
+I:8888;211;enjoy, period, film, writer/director, cast, such, know, be, disappoint, enjoy period, period film, film writer/director, writer/director cast, cast such, such know, know be, be disappoint
+I:8888;212;believe, half, film, staff, be, female, believe half, half film, film staff, staff be, be female
+I:8888;213;rest, staff, be, phenomenal, rest staff, staff be, be phenomenal
+I:8888;214;play, piano, diss, guy, be, arrange, marry, play piano, piano diss, diss guy, guy be, be arrange, arrange marry
+I:8888;215;old, film, be, old film, film be
+I:8888;216;know, let, say, favorite, movie, be, unique, production, maker, go, way, give, appearance, mid, know let, let say, say favorite, favorite movie, movie be, be unique, unique production, production maker, maker go, go way, way give, give appearance, appearance mid
+I:8888;217;stroll, anti, stroll anti
+I:8888;218;modern, slowness, order, accentuate, unspoiled, scenery, bring, certain, moment, prominence, pace, match, pre, modern slowness, slowness order, order accentuate, accentuate unspoiled, unspoiled scenery, scenery bring, bring certain, certain moment, moment prominence, prominence pace, pace match, match pre
+I:8888;219;plot, be, unusual, unique, plot be, be unusual, unusual unique
+I:8888;220;filmmaker, have, accomplish, release, tale, concern, woman, go, remote, british, colony, order, marry, stranger, woman, be, self, filmmaker have, have accomplish, accomplish release, release tale, tale concern, concern woman, woman go, go remote, remote british, british colony, colony order, order marry, marry stranger, stranger woman, woman be, be self
+I:8888;221;impose, muteness, be, compensate, lovely, playing, piano, impose muteness, muteness be, be compensate, compensate lovely, lovely playing, playing piano
+I:8888;222;be, daunt, courage, bring, piano, reality, be daunt, daunt courage, courage bring, bring piano, piano reality
+I:8888;223;wealth, feeling, story, setting, cast, sheer, brave, inimitability, be, fine, motion, picture, wealth feeling, feeling story, story setting, setting cast, cast sheer, sheer brave, brave inimitability, inimitability be, be fine, fine motion, motion picture
+I:8888;224;be, interesting, movie, be interesting, interesting movie
+I:8888;225;end, have, interesting, twist, end have, have interesting, interesting twist
+I:8888;226;own, movie, own movie
+I:8888;227;be, great, story, center, woman, be, mute, daughter, play, talented, x, men, heroine, be great, great story, story center, center woman, woman be, be mute, mute daughter, daughter play, play talented, talented x, x men, men heroine
+I:8888;228;win, role, give, performance, be, worthy, win role, role give, give performance, performance be, be worthy
+I:8888;229;music, scenery, act, blend, make, movie, be, appeal, sens, music scenery, scenery act, act blend, blend make, make movie, movie be, be appeal, appeal sens
+I:8888;230;good, film, worth, add, collection, good film, film worth, worth add, add collection
+I:8888;231;receive, several, nomination, include, best, receive several, several nomination, nomination include, include best
+I:8888;232;plot, mute, woman, only, form, expression, be, piano, be, write, plot mute, mute woman, woman only, only form, form expression, expression be, be piano, piano be, be write
+I:8888;233;win, effort, express, creative, outlook, film, win effort, effort express, express creative, creative outlook, outlook film
+I:8888;234;combine, drama, mystery, romance, combine drama, drama mystery, mystery romance
+I:8888;235;remind, audience, danger, certain, character, be, say, do, remind audience, audience danger, danger certain, certain character, character be, be say, say do
+I:8888;236;cinematography, editing, contribute, effect, cinematography editing, editing contribute, contribute effect
+I:8888;237;art, design, prove, artist, research, european, style, art design, design prove, prove artist, artist research, research european, european style
+I:8888;238;costume, be, craft, costume be, be craft
+I:8888;239;detail, set, contribute, movie, plot, add, necessary, theme, detail set, set contribute, contribute movie, movie plot, plot add, add necessary, necessary theme
+I:8888;240;actor, perform, role, actor perform, perform role
+I:8888;241;best, actress, win, role, be, emotional, best actress, actress win, win role, role be, be emotional
+I:8888;242;other, performer, have, win, lead, role, play, mute, person, other performer, performer have, have win, win lead, lead role, role play, play mute, mute person
+I:8888;243;hold, drop, heart, soul, character, hold drop, drop heart, heart soul, soul character
+I:8888;244;be, best, role, career, be best, best role, role career
+I:8888;245;best, support, actress, win, role, daughter, be, amazing, best support, support actress, actress win, win role, role daughter, daughter be, be amazing
+I:8888;246;make, second, youngest, winner, act, effort, age, make second, second youngest, youngest winner, winner act, act effort, effort age
+I:8888;247;word, describe, amazing, underrated, be, word describe, describe amazing, amazing underrated, underrated be
+I:8888;248;european, accent, be, flawless, acting, european accent, accent be, be flawless, flawless acting
+I:8888;249;offer, own, mystery, theme, nominate, role, gothic, non, offer own, own mystery, mystery theme, theme nominate, nominate role, role gothic, gothic non
+I:8888;250;role, wife, be, brilliant, role wife, wife be, be brilliant
+I:8888;251;character, rage, scene, be, perfect, character rage, rage scene, scene be, be perfect
+I:8888;252;other, actor, major, minor, perform, role, other actor, actor major, major minor, minor perform, perform role
+I:8888;253;offer, amazing, roller, coaster, ride, scene, become, depressing, offer amazing, amazing roller, roller coaster, coaster ride, ride scene, scene become, become depressing
+I:8888;254;offer, high, emotion, force, audience, feel, character, be, feel, offer high, high emotion, emotion force, force audience, audience feel, feel character, character be, be feel
+I:8888;255;many, viewer, be, entertain, many viewer, viewer be, be entertain
+I:8888;256;many, have, watch, time, continue, discover, new, interesting, detail, many have, have watch, watch time, time continue, continue discover, discover new, new interesting, interesting detail
+I:8888;257;be, classic, upcome, year, be classic, classic upcome, upcome year
+I:8888;258;be, best, movie, have, see, be best, best movie, movie have, have see
+I:8888;259;special, thanks, man, make, movie, astonishing, special thanks, thanks man, man make, make movie, movie astonishing
+I:8888;260;movie, contain, best, love, scene, single, scene, best, end, world, movie contain, contain best, best love, love scene, scene single, single scene, scene best, best end, end world
+I:8888;261;see, movie, do, like, subject, film, do, have, say, acting, be, excellent, give, credit, present, story, screen, unique, stylized, way, see movie, movie do, do like, like subject, subject film, film do, do have, have say, say acting, acting be, be excellent, excellent give, give credit, credit present, present story, story screen, screen unique, unique stylized, stylized way
+I:8888;262;be, nice, know, time, have, progress, be nice, nice know, know time, time have, have progress
+I:8888;263;excellent, performance, supportive, actor, excellent performance, performance supportive, supportive actor
+I:8888;264;deep, touching, drama, deep touching, touching drama
+I:8888;265;compelling, love, story, compelling love, love story
+I:8888;266;explore, world, music, deafness, time, past, explore world, world music, music deafness, deafness time, time past
+I:8888;267;compelling, watch, match, warm, ending, compelling watch, watch match, match warm, warm ending
+I:8888;268;performance, be, great, end, want, performance be, be great, great end, end want
+I:8888;269;watch, video, love, watch video, video love
+I:8888;270;joy, expression, come, person, touch, joy expression, expression come, come person, person touch
+I:8888;271;photography, surprising, enlighten, movie, woman, have, endure, order, survive, photography surprising, surprising enlighten, enlighten movie, movie woman, woman have, have endure, endure order, order survive
+I:8888;272;wonderful, story, survival, chance, life, love, life, be, find, wonderful story, story survival, survival chance, chance life, life love, love life, life be, be find
+I:8888;273;great, movie, watch, other, woman, discuss, great movie, movie watch, watch other, other woman, woman discuss
+I:8888;274;be, powerful, movie, superb, cast, be powerful, powerful movie, movie superb, superb cast
+I:8888;275;want, feel, good, watch, older, movie, want feel, feel good, good watch, watch older, older movie
+I:8888;276;have, unusual, story, have unusual, unusual story
+I:8888;277;receive, video, timely, manner, be, want, receive video, video timely, timely manner, manner be, be want
+I:8888;278;be, great, condition, asset, video, library, be great, great condition, condition asset, asset video, video library
+I:8888;279;thank, be, pleasure, do, business, thank be, be pleasure, pleasure do, do business
+I:8888;280;see, film, several, year, be, disturb, see film, film several, several year, year be, be disturb
+I:8888;281;have, choice, marry, have, make, best, have choice, choice marry, marry have, have make, make best
+I:8888;282;be, amazing, daughter, translate, be, spokesperson, mother, be amazing, amazing daughter, daughter translate, translate be, be spokesperson, spokesperson mother
+I:8888;283;be, adorable, precocious, be adorable, adorable precocious
+I:8888;284;beautiful, shot, be, next, scene, beautiful shot, shot be, be next, next scene
+I:8888;285;baine, be, illiterate, less, culture, man, be, realize, have, find, beatiful, gem, baine be, be illiterate, illiterate less, less culture, culture man, man be, be realize, realize have, have find, find beatiful, beatiful gem
+I:8888;286;time, realize, have, heart, time realize, realize have, have heart
+I:8888;287;play, piano, play piano
+I:8888;288;film, show, humanity, be, capable, sink, rise, film show, show humanity, humanity be, be capable, capable sink, sink rise
+I:8888;289;cares!some, review, say, be, beautiful, cares!some review, review say, say be, be beautiful
+I:8888;290;have, hear, film, be, excellent, have hear, hear film, film be, be excellent
+I:8888;291;plot, screenplay, act, be, deserving, be, award, plot screenplay, screenplay act, act be, be deserving, deserving be, be award
+I:8888;292;see, win, movie, see win, win movie
+I:8888;293;be, brillant, movie.you, have, see, be brillant, brillant movie.you, movie.you have, have see
+I:8888;294;be, impressed, beautiful, delightful, film, be impressed, impressed beautiful, beautiful delightful, delightful film
+I:8888;295;scenery, be, dazzling, be, act, scenery be, be dazzling, dazzling be, be act
+I:8888;296;film, be, many, angle, human, condition, determination, depths, human, passion, say, chapter, life, woman, young, mother, love, piano, recognize, boundary, film be, be many, many angle, angle human, human condition, condition determination, determination depths, depths human, human passion, passion say, say chapter, chapter life, life woman, woman young, young mother, mother love, love piano, piano recognize, recognize boundary
+I:8888;297;get, hotter, passing, year, get hotter, hotter passing, passing year
+I:8888;298;radiate, sex, appeal, radiate sex, sex appeal
+I:8888;299;be, best, american, film, list, be best, best american, american film, film list
+I:8888;300;stay, mute, stay mute
+I:8888;301;rapt, have, think, be, seductive, entire, film, be, enchanting, provocative, heroine, play, rapt have, have think, think be, be seductive, seductive entire, entire film, film be, be enchanting, enchanting provocative, provocative heroine, heroine play
+I:8888;302;be, interesting, beautiful, be interesting, interesting beautiful
+I:8888;303;few, year, pass, travel, visit, beach, many, scene, film, be, make, few year, year pass, pass travel, travel visit, visit beach, beach many, many scene, scene film, film be, be make
+I:8888;304;win, performance, be, sure, role, mute, woman, be, challenging, be, expressive, do, find, role, interesting, win performance, performance be, be sure, sure role, role mute, mute woman, woman be, be challenging, challenging be, be expressive, expressive do, do find, find role, role interesting
+I:8888;305;interesting, be, role, excellent, interesting be, be role, role excellent
+I:8888;306;native, fall, love, character, be, clever, heartbreaking, native fall, fall love, love character, character be, be clever, clever heartbreaking
+I:8888;307;go, outstanding, length, spend, time, get, want, go outstanding, outstanding length, length spend, spend time, time get, get want
+I:8888;308;encourage, music, silence, encourage music, music silence
+I:8888;309;give, piano, key, young, daughter, play, win, role, take, give piano, piano key, key young, young daughter, daughter play, play win, win role, role take
+I:8888;310;gorgeous, soundtrack, film, have, song, clip, wing, allude, scene, gorgeous soundtrack, soundtrack film, film have, have song, song clip, clip wing, wing allude, allude scene
+I:8888;311;story, be, tragic, human, be, hopeful, imbue, enlighten, performance, actor, story be, be tragic, tragic human, human be, be hopeful, hopeful imbue, imbue enlighten, enlighten performance, performance actor
+I:8888;312;see, movie, year, be, remember, see, have, rewatch, more, see movie, movie year, year be, be remember, remember see, see have, have rewatch, rewatch more
+I:8888;313;be, intense, sensual, violent, dark, memorable, be intense, intense sensual, sensual violent, violent dark, dark memorable
+I:8888;314;watch, last, night, realize, more, wonderful, movie, be, watch last, last night, night realize, realize more, more wonderful, wonderful movie, movie be
+I:8888;315;rich, symbolism, character, excellent, acting, story, deep, beautiful, leave, brain, rich symbolism, symbolism character, character excellent, excellent acting, acting story, story deep, deep beautiful, beautiful leave, leave brain
+I:8888;316;be, beautiful, instrument, start, movie, see, love, be beautiful, beautiful instrument, instrument start, start movie, movie see, see love
+I:8888;317;be, clear, be, leave, part, be clear, clear be, be leave, leave part
+I:8888;318;be, neighbor, friend, husband, grasp, significance, piano, be neighbor, neighbor friend, friend husband, husband grasp, grasp significance, significance piano
+I:8888;319;insistance, take, daughter, beach, play, beloved, piano, speak, first, time, day, insistance take, take daughter, daughter beach, beach play, play beloved, beloved piano, piano speak, speak first, first time, time day
+I:8888;320;smile, movment, lose, stiffness, become, flow, let, music, move, say, thing, impossible, express, word, smile movment, movment lose, lose stiffness, stiffness become, become flow, flow let, let music, music move, move say, say thing, thing impossible, impossible express, express word
+I:8888;321;stay, beach, listen, play, most, day, stay beach, beach listen, listen play, play most, most day
+I:8888;322;be, interesting, piece, symbolism, end, scene, walk, wet, sand, leave, footprint, be interesting, interesting piece, piece symbolism, symbolism end, end scene, scene walk, walk wet, wet sand, sand leave, leave footprint
+I:8888;323;forshadow, end, film, form, family, forshadow end, end film, film form, form family
+I:8888;324;hear, play, be, captivate, hear play, play be, be captivate
+I:8888;325;begin, see, light, begin see, see light
+I:8888;326;bring, elusive, aloof, woman, level, love, give, chance, love, bring elusive, elusive aloof, aloof woman, woman level, level love, love give, give chance, chance love
+I:8888;327;movie, be, clear, be, move, aspect, movie be, be clear, clear be, be move, move aspect
+I:8888;328;be, clear, understand, significance, piano, treat, extension, be clear, clear understand, understand significance, significance piano, piano treat, treat extension
+I:8888;329;evocative, scene, take, clothes, use, polish, carve, wood, instrument, have, go, evocative scene, scene take, take clothes, clothes use, use polish, polish carve, carve wood, wood instrument, instrument have, have go
+I:8888;330;touch, piano, reverence, love, use, same, gesture, use, caress, body, touch piano, piano reverence, reverence love, love use, use same, same gesture, gesture use, use caress, caress body
+I:8888;331;everything, soft, feminine, do, yield, bain, whole, heart, differnce, combine, make, sensual, scene, everything soft, soft feminine, feminine do, do yield, yield bain, bain whole, whole heart, heart differnce, differnce combine, combine make, make sensual, sensual scene
+I:8888;332;be, love, scene, see, beginning, end, piano, be love, love scene, scene see, see beginning, beginning end, end piano
+I:8888;333;have, unlock, voice, see, piano, be, go, become, obsolete, have unlock, unlock voice, voice see, see piano, piano be, be go, go become, become obsolete
+I:8888;334;fact, end, film, daughter, be, leave, canoe, bain, ada, order, be, push, fact end, end film, film daughter, daughter be, be leave, leave canoe, canoe bain, bain ada, ada order, order be, be push
+I:8888;335;struggle, free, last, moment, much, own, surprise, struggle free, free last, last moment, moment much, much own, own surprise
+I:8888;336;be, surprise, will, have, choose, live, die, piano, symbolise, stagnant, life, be, leave, be surprise, surprise will, will have, have choose, choose live, live die, die piano, piano symbolise, symbolise stagnant, stagnant life, life be, be leave
+I:8888;337;end, film, see, learn, speak, end film, film see, see learn, learn speak
+I:8888;338;have, grow, cold, silent, woman, warm, loving, change, foster, bain, love, understanding, have grow, grow cold, cold silent, silent woman, woman warm, warm loving, loving change, change foster, foster bain, bain love, love understanding
+I:8888;339;have, help, find, true, voice, let, go, past, dream, see, tie, piano, rest, bottom, ocean, have help, help find, find true, true voice, voice let, let go, go past, past dream, dream see, see tie, tie piano, piano rest, rest bottom, bottom ocean
+I:8888;340;be, move, beautiful, film, top, favorty, time, be move, move beautiful, beautiful film, film top, top favorty, favorty time
+I:8888;341;worth, nothing, momentary, shock, worth nothing, nothing momentary, momentary shock
+I:8888;342;forward, love, forward love
+I:8888;343;watch, recommend, watch recommend
+I:8888;344;be, outstanding, picture, be outstanding, outstanding picture
+I:8888;345;be, rare, thing, movie, be rare, rare thing, thing movie
+I:8888;346;be, good, be, great, performance, be, total, embodiment, be good, good be, be great, great performance, performance be, be total, total embodiment
+I:8888;347;actor, lead, support, be, flawless, actor lead, lead support, support be, be flawless
+I:8888;348;have, do, look, film, setting, music, everything, be, experience, have do, do look, look film, film setting, setting music, music everything, everything be, be experience
+I:8888;349;be, film, be, recommend, see, be film, film be, be recommend, recommend see
+I:8888;350;good, acting, storyline, bit, strange, story, line, care, watch, good acting, acting storyline, storyline bit, bit strange, strange story, story line, line care, care watch
+I:8888;351;love, beautiful, scenery, love beautiful, beautiful scenery
+I:8888;352;actor, be, fantastic, romantic, exotic, actor be, be fantastic, fantastic romantic, romantic exotic
+I:8888;353;have, see, movie, have, have, such, profound, effect, people, view, include, have see, see movie, movie have, have have, have such, such profound, profound effect, effect people, people view, view include
+I:8888;354;be, kind, make, gasp, keep, motionless, be kind, kind make, make gasp, gasp keep, keep motionless
+I:8888;355;be, more, be, story, love, piano, be more, more be, be story, story love, love piano
+I:8888;356;love, tool, speak, love tool, tool speak
+I:8888;357;casting, movie, be, perfect, casting movie, movie be, be perfect
+I:8888;358;feel, see, be, feel, show, feel see, see be, be feel, feel show
+I:8888;359;academy, award, be, deserve, academy award, award be, be deserve
+I:8888;360;anna, recieve, academy, award, performance, mischivous, angleic, daughter, be, brilliant, anna recieve, recieve academy, academy award, award performance, performance mischivous, mischivous angleic, angleic daughter, daughter be, be brilliant
+I:8888;361;play, character, warmth, know, bain, know, be, do, trust, play character, character warmth, warmth know, know bain, bain know, know be, be do, do trust
+I:8888;362;real, support, cast, have, be, cinematography, music, real support, support cast, cast have, have be, be cinematography, cinematography music
+I:8888;363;contribute, intensity, film, be, priceless, contribute intensity, intensity film, film be, be priceless
+I:8888;364;see, come, have, wear, love, see come, come have, have wear, wear love
+I:8888;365;flic, good, viewing, flic good, good viewing
+I:8888;366;movie, be, engrossing, right, very, start, end, movie be, be engrossing, engrossing right, right very, very start, start end
+I:8888;367;be, effective, give, life, mute, female, character, be effective, effective give, give life, life mute, mute female, female character
+I:8888;368;be, deserving, be deserving
+I:8888;369;movie, show, beauty, midst, love, triangle, make, rich, actor, young, movie show, show beauty, beauty midst, midst love, love triangle, triangle make, make rich, rich actor, actor young
+I:8888;370;release, magnum, opus, list, walk, director, year, become, second, woman, history, be, nominate, superior, achievement, direction, work, be, deserving, prestigious, honor, release magnum, magnum opus, opus list, list walk, walk director, director year, year become, become second, second woman, woman history, history be, be nominate, nominate superior, superior achievement, achievement direction, direction work, work be, be deserving, deserving prestigious, prestigious honor
+I:8888;371;numerous, way, direction, be, inventive, be, nominate, year, passionate, numerous way, way direction, direction be, be inventive, inventive be, be nominate, nominate year, year passionate
+I:8888;372;instrument, piano, song, come, serve, soul, heroine, instrument piano, piano song, song come, come serve, serve soul, soul heroine
+I:8888;373;present, film, emotion, drip, frame, film, present film, film emotion, emotion drip, drip frame, frame film
+I:8888;374;be, succeed, be succeed
+I:8888;375;love, do, flow, be, turbulent, force, explore, eroticism, show, film, woman, woman, late, 19th, century, love do, do flow, flow be, be turbulent, turbulent force, force explore, explore eroticism, eroticism show, show film, film woman, woman woman, woman late, late 19th, 19th century
+I:8888;376;film, be, compliment, superb, acting, winner, film be, be compliment, compliment superb, superb acting, acting winner
+I:8888;377;sweeping, score, be, familiar, composition, lull, viewer, world, mind, sweeping score, score be, be familiar, familiar composition, composition lull, lull viewer, viewer world, world mind
+I:8888;378;be, flawless, film, be, be flawless, flawless film, film be
+I:8888;379;be, profound, intelligent, stunning, film, be profound, profound intelligent, intelligent stunning, stunning film
+I:8888;380;see, devoted, musician, anyone, passion, life, see devoted, devoted musician, musician anyone, anyone passion, passion life
+I:8888;381;score, help, make, piano, sound, good, look, score help, help make, make piano, piano sound, sound good, good look
+I:8888;382;outstanding, performance, precocious, intriguing, outstanding performance, performance precocious, precocious intriguing
+I:8888;383;be, kind, movie, leave, pensive, emotional, inspire, be kind, kind movie, movie leave, leave pensive, pensive emotional, emotional inspire
+I:8888;384;do, have, few, redeeming, quality, such, beautiful, music, beautiful, scenery, setting, do have, have few, few redeeming, redeeming quality, quality such, such beautiful, beautiful music, music beautiful, beautiful scenery, scenery setting
+I:8888;385;piano, be, unusual, enigmatic, haunting, film, piano be, be unusual, unusual enigmatic, enigmatic haunting, haunting film
+I:8888;386;piano, have, bring, be, only, means, expression, piano have, have bring, bring be, be only, only means, means expression
+I:8888;387;look, be, riveting, disturbing, look be, be riveting, riveting disturbing
+I:8888;388;film, progress, see, primary, character, be, misunderstand, initial, impression, have, ascertain, be, film progress, progress see, see primary, primary character, character be, be misunderstand, misunderstand initial, initial impression, impression have, have ascertain, ascertain be
+I:8888;389;be, exceptional, film, have, watch, listen, subtle, nature, envelop, sens, be exceptional, exceptional film, film have, have watch, watch listen, listen subtle, subtle nature, nature envelop, envelop sens
+I:8888;390;character, actor, portray, be, present, character actor, actor portray, portray be, be present
+I:8888;391;cinematography, be, important, image, screen, take, life, spirit, own, haunting, film, cinematography be, be important, important image, image screen, screen take, take life, life spirit, spirit own, own haunting, haunting film
+I:8888;392;time, favorite, movie, time favorite, favorite movie
+I:8888;393;easy, see, win, performance, easy see, see win, win performance
+I:8888;394;be, good, man, marry, mail, be good, good man, man marry, marry mail
+I:8888;395;be, excellent, man, get, know, ada, understand, love, piano, instrument, give, voice, express, feeling, be excellent, excellent man, man get, get know, know ada, ada understand, understand love, love piano, piano instrument, instrument give, give voice, voice express, express feeling
+I:8888;396;location, be, excellent, cultural, influence, location be, be excellent, excellent cultural, cultural influence
+I:8888;397;raw, emotion, be, display, begin, end, raw emotion, emotion be, be display, display begin, begin end
+I:8888;398;most, artsy, film, be, visual, experience, most artsy, artsy film, film be, be visual, visual experience
+I:8888;399;be, artsy, film, be, hard, explain, like, be artsy, artsy film, film be, be hard, hard explain, explain like
+I:8888;400;state, visual, aspect, film, be, mesmerizing, amazing, be, great, experience, state visual, visual aspect, aspect film, film be, be mesmerizing, mesmerizing amazing, amazing be, be great, great experience
+I:8888;401;do, want, choice, make, be, choice, she, make, do want, want choice, choice make, make be, be choice, choice she, she make
+I:8888;402;continue, be, true, be, control, life, make, strong, character, continue be, be true, true be, be control, control life, life make, make strong, strong character
+I:8888;403;performance, be, strong, character, performance be, be strong, strong character
+I:8888;404;proud, passionate, desire, neightbor, pathetic, pitiable, husband, round, rest, powerful, cast, powerful, movie, proud passionate, passionate desire, desire neightbor, neightbor pathetic, pathetic pitiable, pitiable husband, husband round, round rest, rest powerful, powerful cast, cast powerful, powerful movie
+I:8888;405;content, film, have, be, accomplish, be, content film, film have, have be, be accomplish, accomplish be
+I:8888;406;offer, star, offer star
+I:8888;407;character, be, unique, least, character be, be unique, unique least
+I:8888;408;uniqueness, scene, stand, mind, day, uniqueness scene, scene stand, stand mind, mind day
+I:8888;409;wonderful, describe, leave, feeling, wonderful describe, describe leave, leave feeling
+I:8888;410;enjoy, savour, scene, enjoy savour, savour scene
+I:8888;411;other, criticism, think, print, be, good, other criticism, criticism think, think print, print be, be good
+I:8888;412;color, be, great, sound, be, great, color be, be great, great sound, sound be, be great
+I:8888;413;ray, be, perfect, take, bit, dedication, restore, original, glory, ray be, be perfect, perfect take, take bit, bit dedication, dedication restore, restore original, original glory
+I:8888;414;beautiful, movie, respects, beautiful movie, movie respects
+I:8888;415;time, favorite, time favorite
+I:8888;416;movie, archive, see, movie archive, archive see
+I:8888;417;piano, be, favorite, instrument, piano be, be favorite, favorite instrument
+I:8888;418;musical, literature, have, be, generous, musical literature, literature have, have be, be generous
+I:8888;419;piano, have, prove, deserve, respect, rest, instrument, unbeatable, king, piano have, have prove, prove deserve, deserve respect, respect rest, rest instrument, instrument unbeatable, unbeatable king
+I:8888;420;special, profile, incorporean, majesty, give, pianissimo, crescendo, make, perfect, caleidoscope, sensation, auditive, fragancy, accord, tonal, color, special profile, profile incorporean, incorporean majesty, majesty give, give pianissimo, pianissimo crescendo, crescendo make, make perfect, perfect caleidoscope, caleidoscope sensation, sensation auditive, auditive fragancy, fragancy accord, accord tonal, tonal color
+I:8888;421;piano, be, supreme, film, ninety, piano be, be supreme, supreme film, film ninety
+I:8888;422;conceive, tribute, female, soul, movie, explore, deep, laberynth, soul, married, unsatisfied, woman, music, be, friendly, inner, demon, hide, desire, conceive tribute, tribute female, female soul, soul movie, movie explore, explore deep, deep laberynth, laberynth soul, soul married, married unsatisfied, unsatisfied woman, woman music, music be, be friendly, friendly inner, inner demon, demon hide, hide desire
+I:8888;423;decisive, argument, develop, poetic, dazzling, script, play, superb, role, show, unexhaustive, actoral, power, decisive argument, argument develop, develop poetic, poetic dazzling, dazzling script, script play, play superb, superb role, role show, show unexhaustive, unexhaustive actoral, actoral power
+I:8888;424;location, be, sumptuous, precise, light, quantity, marvelous, landscape, work, additional, actor, location be, be sumptuous, sumptuous precise, precise light, light quantity, quantity marvelous, marvelous landscape, landscape work, work additional, additional actor
+I:8888;425;dark, forest, unbeatable, exquisite, close, up, superb, script, dark forest, forest unbeatable, unbeatable exquisite, exquisite close, close up, up superb, superb script
+I:8888;426;steal, show, excel, giant, actor, steal show, show excel, excel giant, giant actor
+I:8888;427;sublime, be, common, characteristic, masterpiece, sublime be, be common, common characteristic, characteristic masterpiece
+I:8888;428;be, substantial, film, delve, power, exploit, weakness, poor, marriage, ardent, potential, lover, be substantial, substantial film, film delve, delve power, power exploit, exploit weakness, weakness poor, poor marriage, marriage ardent, ardent potential, potential lover
+I:8888;429;be, eroticlove, story, develope, charactor, allow, care, feel, sympathy, husband, hisaction, be eroticlove, eroticlove story, story develope, develope charactor, charactor allow, allow care, care feel, feel sympathy, sympathy husband, husband hisaction
+I:8888;430;love, everything, movie, love everything, everything movie
+I:8888;431;cinematography, casting, act, cinematography casting, casting act
+I:8888;432;be, good, movie, be good, good movie
+I:8888;433;few, film, come, few film, film come
+I:8888;434;star, performance, earn, best, actress, prize, many, other, award, star performance, performance earn, earn best, best actress, actress prize, prize many, many other, other award
+I:8888;435;film, be, intelligent, exploitive, film be, be intelligent, intelligent exploitive
+I:8888;436;performance, be, top, notch, award, winner, give, best, performance, come, child, acting, performance be, be top, top notch, notch award, award winner, winner give, give best, best performance, performance come, come child, child acting
+I:8888;437;film, show, music, become, strongest, side, personality, woman, talk, express, key, piano, play, music, live, be, harmony, world, daughter, film show, show music, music become, become strongest, strongest side, side personality, personality woman, woman talk, talk express, express key, key piano, piano play, play music, music live, live be, be harmony, harmony world, world daughter
+I:8888;438;distance, family, unknown, man, find, be, negative, piano, piano, stay, beach, distance family, family unknown, unknown man, man find, find be, be negative, negative piano, piano piano, piano stay, stay beach
+I:8888;439;neighbor, get, piano, let, play, attraction, interest, be, sexual, neighbor get, get piano, piano let, let play, play attraction, attraction interest, interest be, be sexual
+I:8888;440;yield, desire, piano, music, be, bridge, yield desire, desire piano, piano music, music be, be bridge
+I:8888;441;have, meet, man, love, love, come, music, piano, have meet, meet man, man love, love love, love come, come music, music piano
+I:8888;442;make, great, film, be, be, situate, woman, family, be, make great, great film, film be, be be, be situate, situate woman, woman family, family be
+I:8888;443;other, word, be, bear, dominator, have, hear, ecocultural, dimension, life, be, true, live, beginning, colonization, attitude, be, colonial, settler, other word, word be, be bear, bear dominator, dominator have, have hear, hear ecocultural, ecocultural dimension, dimension life, life be, be true, true live, live beginning, beginning colonization, colonization attitude, attitude be, be colonial, colonial settler
+I:8888;444;be, slow, precise, description, main, character, film, relation, local, population, make, film, interesting, speak, act, be, excellent, have, be, refrain, dominate, feeling, be, stake, be slow, slow precise, precise description, description main, main character, character film, film relation, relation local, local population, population make, make film, film interesting, interesting speak, speak act, act be, be excellent, excellent have, have be, be refrain, refrain dominate, dominate feeling, feeling be, be stake
+I:8888;445;triumphant, piece, pure, art, triumphant piece, piece pure, pure art
+I:8888;446;have, love, art, movie, impress, young, age, have love, love art, art movie, movie impress, impress young, young age
+I:8888;447;gifted, actor, light, screen, perfect, mother, daughter, pair, gifted actor, actor light, light screen, screen perfect, perfect mother, mother daughter, daughter pair
+I:8888;448;wonderful, performance, wonderful performance
+I:8888;449;deserve, ounce, gold, deserve ounce, ounce gold
+I:8888;450;be, undoubted, winner, bind, be, cherish, dozen, generation, come, be undoubted, undoubted winner, winner bind, bind be, be cherish, cherish dozen, dozen generation, generation come
+I:8888;451;discover, movie, watch, say, beautiful, movie, discover movie, movie watch, watch say, say beautiful, beautiful movie
+I:8888;452;watch, sweetheart, watch sweetheart
+I:8888;453;movie, take, lot, emotion, movie take, take lot, lot emotion
+I:8888;454;give, anything, acting, be, outstanding, move, story, be, unpredictable, think, provoke, give anything, anything acting, acting be, be outstanding, outstanding move, move story, story be, be unpredictable, unpredictable think, think provoke
+I:8888;455;have, watch, film, blow, act, photography, location, music, have watch, watch film, film blow, blow act, act photography, photography location, location music
+I:8888;456;be, spectacular, deserve, award, best, support, actress, be spectacular, spectacular deserve, deserve award, award best, best support, support actress
+I:8888;457;recomm, film, anyone, be, individual, believe, nothing, cinema, watch, recomm film, film anyone, anyone be, be individual, individual believe, believe nothing, nothing cinema, cinema watch
+I:8888;458;watch, movie, great, review, watch movie, movie great, great review
+I:8888;459;feel, movie, be, good, movie, literary, type, picture, feel movie, movie be, be good, good movie, movie literary, literary type, type picture
+I:8888;460;warrior, modern, day, portrait, be, bst, film, have, have, pleasure, watch, warrior modern, modern day, day portrait, portrait be, be bst, bst film, film have, have have, have pleasure, pleasure watch
+I:8888;461;have, force, fed, number, friend, reaction, be, gut, have force, force fed, fed number, number friend, friend reaction, reaction be, be gut
+I:8888;462;be, allegorical, romantic, harsh, beautiful, lovely, listen, consider, best, work, be allegorical, allegorical romantic, romantic harsh, harsh beautiful, beautiful lovely, lovely listen, listen consider, consider best, best work
+I:8888;463;music, act, be, incredible, music act, act be, be incredible
+I:8888;464;course, win, course win
+I:8888;465;storyline, keep, interested, way, storyline keep, keep interested, interested way
+I:8888;466;least, realize, say, year, be, right, least realize, realize say, say year, year be, be right
+I:8888;467;have, be, favorite, film, have be, be favorite, favorite film
+I:8888;468;story, passion, creative, expression, desire, physical, emotional, imprisonment, love, powerful, transcend, life, death, story passion, passion creative, creative expression, expression desire, desire physical, physical emotional, emotional imprisonment, imprisonment love, love powerful, powerful transcend, transcend life, life death
+I:8888;469;be, loss, word, describe, move, find, film, be, be loss, loss word, word describe, describe move, move find, find film, film be
+I:8888;470;wonderful, powerful, film, wonderful powerful, powerful film
+I:8888;471;be, top, time, recommend, be top, top time, time recommend
+I:8888;472;story, be, good, keep, attention, story be, be good, good keep, keep attention
+I:8888;473;set, 19th, century, brilliant, period, tale, be, laud, eccentric, storyline, dreamlike, atmosphere, set 19th, 19th century, century brilliant, brilliant period, period tale, tale be, be laud, laud eccentric, eccentric storyline, storyline dreamlike, dreamlike atmosphere
+I:8888;474;utter, word, winner, exude, intelligence, determination, rebellious, ada, repress, combustible, sensuality, utter word, word winner, winner exude, exude intelligence, intelligence determination, determination rebellious, rebellious ada, ada repress, repress combustible, combustible sensuality
+I:8888;475;be, marvel, debut, exemplify, mix, spunk, knowingness, make, seek, be marvel, marvel debut, debut exemplify, exemplify mix, mix spunk, spunk knowingness, knowingness make, make seek
+I:8888;476;ravishing, exquisite, be, poetic, ode, unspoken, emotion, ravishing exquisite, exquisite be, be poetic, poetic ode, ode unspoken, unspoken emotion
+I:8888;477;appreciate, beautiful, intense, review, amazing, film, appreciate beautiful, beautiful intense, intense review, review amazing, amazing film
+I:8888;478;have, tragic, beautiful, story, act, worthy, potential, super, people, cast, great, cinematography, have tragic, tragic beautiful, beautiful story, story act, act worthy, worthy potential, potential super, super people, people cast, cast great, great cinematography
+I:8888;479;guy, size, issue, need, see, lady!otherwise, have, something, everyone, guy size, size issue, issue need, need see, see lady!otherwise, lady!otherwise have, have something, something everyone
+I:8888;480;know, film, be, embrace, see, wife, be, excite, see, base, review, word, mouth, buzz, come, walk, film, know film, film be, be embrace, embrace see, see wife, wife be, be excite, excite see, see base, base review, review word, word mouth, mouth buzz, buzz come, come walk, walk film
+I:8888;481;be, obvious, popular, success, be, hard, see, be, great, be obvious, obvious popular, popular success, success be, be hard, hard see, see be, be great
+I:8888;482;portrayal, be, be, painful, provide, powerful, performance, portrayal be, be be, be painful, painful provide, provide powerful, powerful performance
+I:8888;483;be, great, movie, be, steal, be great, great movie, movie be, be steal
+I:8888;484;stunning, enchant, musical, score, exemplary, cast, director, stunning enchant, enchant musical, musical score, score exemplary, exemplary cast, cast director
+I:8888;485;be, favorite, dramas, be favorite, favorite dramas
+I:8888;486;do, many, great, film, do, inspire, fascinating, discussion, provoke, mixed, reaction, do many, many great, great film, film do, do inspire, inspire fascinating, fascinating discussion, discussion provoke, provoke mixed, mixed reaction
+I:8888;487;story, center, story center
+I:8888;488;win, performance, daughter, flora, win performance, performance daughter, daughter flora
+I:8888;489;win, extraordinary, performance, win extraordinary, extraordinary performance
+I:8888;490;ada, piano, abandon, barren, beach, capture, sense, 19th, century, colonial, life, have, be, many, woman, ada piano, piano abandon, abandon barren, barren beach, beach capture, capture sense, sense 19th, 19th century, century colonial, colonial life, life have, have be, be many, many woman
+I:8888;491;ada, come, life, last, get, play, ada come, come life, life last, last get, get play
+I:8888;492;first, lesson, strike, own, bargain, baine, consider, boor, trade, sexual, favor, earn, piano, key, time, first lesson, lesson strike, strike own, own bargain, bargain baine, baine consider, consider boor, boor trade, trade sexual, sexual favor, favor earn, earn piano, piano key, key time
+I:8888;493;campion, have, fill, movie, haunt, piano, music, play, intriguing, imagery, campion have, have fill, fill movie, movie haunt, haunt piano, piano music, music play, play intriguing, intriguing imagery
+I:8888;494;see, perfect, lesson, sado, see perfect, perfect lesson, lesson sado
+I:8888;495;see, many, year, do, see many, many year, year do
+I:8888;496;go, get, something, case, piano, love, go get, get something, something case, case piano, piano love
+I:8888;497;outstanding, acting, intruige, beautiful, story, outstanding acting, acting intruige, intruige beautiful, beautiful story
+I:8888;498;happy, find, happy find
+I:8888;499;woman, few, word, send, powerful, message, woman few, few word, word send, send powerful, powerful message
+I:8888;500;actor, be, sincere, story, be, familiar, be, tell, show, unique, way, actor be, be sincere, sincere story, story be, be familiar, familiar be, be tell, tell show, show unique, unique way
+I:8888;501;hat, be, underrated, actor, business, today, be, best, hat be, be underrated, underrated actor, actor business, business today, today be, be best
+I:8888;502;good, play, bratty, daughter, good play, play bratty, bratty daughter
+I:8888;503;be, greatest, movie, see, be greatest, greatest movie, movie see
+I:8888;504;movie, be, fantastic, piece, work, movie be, be fantastic, fantastic piece, piece work
+I:8888;505;be, great, usual, be, speak, movie, turn, outstanding, performance, be great, great usual, usual be, be speak, speak movie, movie turn, turn outstanding, outstanding performance
+I:8888;506;young, girl, be, great, actress, have, find, weakness, grace, complex, villain, young girl, girl be, be great, great actress, actress have, have find, find weakness, weakness grace, grace complex, complex villain
+I:8888;507;movie, earn, bit, acclaim, have, receive, movie earn, earn bit, bit acclaim, acclaim have, have receive
+I:8888;508;be, wonderful, movie, be wonderful, wonderful movie
+I:8888;509;enjoy, watch, think, silence, add, character, make, film, interesting, emotional, enjoy watch, watch think, think silence, silence add, add character, character make, make film, film interesting, interesting emotional
+I:8888;510;scene, movie, be, put, think, organization, help, understand, film, scene movie, movie be, be put, put think, think organization, organization help, help understand, understand film
+I:8888;511;ending, movie, be, wonderful, ending movie, movie be, be wonderful
+I:8888;512;story, capture, sensuality, desire, love, adult, movie, story capture, capture sensuality, sensuality desire, desire love, love adult, adult movie
+I:8888;513;old, win, best, support, actress, play, spunky, daughter, old win, win best, best support, support actress, actress play, play spunky, spunky daughter
+I:8888;514;be, unusual, erotic, tale, unlikely, lover, find, other, inhospitable, place, be unusual, unusual erotic, erotic tale, tale unlikely, unlikely lover, lover find, find other, other inhospitable, inhospitable place
+I:8888;515;be, such, unique, story, make, love, be such, such unique, unique story, story make, make love
+I:8888;516;think, be, convincing, love, woman, cry, think be, be convincing, convincing love, love woman, woman cry
+I:8888;517;beautiful, music, add, be, favorite, movie, beautiful music, music add, add be, be favorite, favorite movie
+I:8888;518;be, unique, think, provoke, awe, be unique, unique think, think provoke, provoke awe
+I:8888;519;inspiring, movie, have, see, while, inspiring movie, movie have, have see, see while
+I:8888;520;be, enrapture, music, crash, wave, amazing, synergy, player, be enrapture, enrapture music, music crash, crash wave, wave amazing, amazing synergy, synergy player
+I:8888;521;gangster/tough, guy, role, do, touch, man, talent, gangster/tough guy, guy role, role do, do touch, touch man, man talent
+I:8888;522;be, intense, tender, passionate, total, jerk, be intense, intense tender, tender passionate, passionate total, total jerk
+I:8888;523;gruff, exterior, lie, heart, prince, gruff exterior, exterior lie, lie heart, heart prince
+I:8888;524;be, risky, role, work, be risky, risky role, role work
+I:8888;525;be, spectacular, usual, film, fast, be spectacular, spectacular usual, usual film, film fast
+I:8888;526;energy, woman, come, know, mom, dig, deep, energy woman, woman come, come know, know mom, mom dig, dig deep
+I:8888;527;see, one, be, surprise, emerge, emotion, unfold, event, see one, one be, be surprise, surprise emerge, emerge emotion, emotion unfold, unfold event
+I:8888;528;course, center, voice, music, movie, be, move, expressive, perfect, scene, course center, center voice, voice music, music movie, movie be, be move, move expressive, expressive perfect, perfect scene
+I:8888;529;beautiful, real, dream, beautiful real, real dream
+I:8888;530;movie, be, little, beat, bath, contain, strong, sexual, content, material, nudity, movie be, be little, little beat, beat bath, bath contain, contain strong, strong sexual, sexual content, content material, material nudity
+I:8888;531;be, move, excellent, acting, be move, move excellent, excellent acting
+I:8888;532;story, forbid, love, story forbid, forbid love
+I:8888;533;beautiful, romantic, story, hearing, mute, woman, arraigned, marriage, cold, friend, fall, love, beautiful romantic, romantic story, story hearing, hearing mute, mute woman, woman arraigned, arraigned marriage, marriage cold, cold friend, friend fall, fall love
+I:8888;534;great, view, great view
+I:8888;535;allow, be, marry, man, do, like, be, tell, allow be, be marry, marry man, man do, do like, like be, be tell
+I:8888;536;play, piano, be, essential, female, accomplishment, day, middle, play piano, piano be, be essential, essential female, female accomplishment, accomplishment day, day middle
+I:8888;537;class, household, have, piano, class household, household have, have piano
+I:8888;538;kind, woman, use, own, daughter, go, kind woman, woman use, use own, own daughter, daughter go
+I:8888;539;have, think, sexy, attractive, surprise, have think, think sexy, sexy attractive, attractive surprise
+I:8888;540;stop, talk, child, use, piano, communicate, mood, thought, stop talk, talk child, child use, use piano, piano communicate, communicate mood, mood thought
+I:8888;541;be, film, intelligent, erotic, fairy, tale, be film, film intelligent, intelligent erotic, erotic fairy, fairy tale
+I:8888;542;story, have, happy, ending, spoiler, alert, story have, have happy, happy ending, ending spoiler, spoiler alert
+I:8888;543;mute, love, interest, be, good, actress, most, scene, be, eye, dart, mute love, love interest, interest be, be good, good actress, actress most, most scene, scene be, be eye, eye dart
+I:8888;544;get, new, get new
+I:8888;545;have, see, several, time, be, touch, time, have see, see several, several time, time be, be touch, touch time
+I:8888;546;be, favorite, film, live, have, hard, time, find, widescreen, version, film, be favorite, favorite film, film live, live have, have hard, hard time, time find, find widescreen, widescreen version, version film
+I:8888;547;production, be, outrage, see, beautiful, film, dust, production be, be outrage, outrage see, see beautiful, beautiful film, film dust
+I:8888;548;consider, wide, be, image, letterbox, consider wide, wide be, be image, image letterbox
+I:8888;549;mean, have, lot, fewer, line, image, have, have, be, transfer, anamorphic, mean have, have lot, lot fewer, fewer line, line image, image have, have have, have be, be transfer, transfer anamorphic
+I:8888;550;prefer, pristine, image, great, sound, prefer pristine, pristine image, image great, great sound
+I:8888;551;performance, main, character, be, excellent, performance main, main character, character be, be excellent
+I:8888;552;talent, actress, pianist, talent actress, actress pianist
+I:8888;553;be, kind, movie, leave, viewer, haunting, feeling, day, be kind, kind movie, movie leave, leave viewer, viewer haunting, haunting feeling, feeling day
+I:8888;554;story, be, excellent, intriguing, actor, bring, character, story be, be excellent, excellent intriguing, intriguing actor, actor bring, bring character
+I:8888;555;win, role, do, role, require, line, win role, role do, do role, role require, require line
+I:8888;556;act, face, body, silence, transcend, normal, realm, communication, act face, face body, body silence, silence transcend, transcend normal, normal realm, realm communication
+I:8888;557;man, strike, perfect, balance, macho, masculinity, true, depths, man strike, strike perfect, perfect balance, balance macho, macho masculinity, masculinity true, true depths
+I:8888;558;directing, be, beautiful, whole, film, reflect, directing be, be beautiful, beautiful whole, whole film, film reflect
+I:8888;559;best, movie, doubt, best movie, movie doubt
+I:8888;560;child, talented, academy, award, child talented, talented academy, academy award
+I:8888;561;love, love, love, movie, love love, love love, love movie
+I:8888;562;be, favorite, movie, time, be favorite, favorite movie, movie time
+I:8888;563;be, kind, strange, melancholy, kind, set, unusual, twist, turn, be kind, kind strange, strange melancholy, melancholy kind, kind set, set unusual, unusual twist, twist turn
+I:8888;564;person, watch, movie, understanding, thought, emotion, musician, comprehend, numerous, layer, emotion, movie, present, person watch, watch movie, movie understanding, understanding thought, thought emotion, emotion musician, musician comprehend, comprehend numerous, numerous layer, layer emotion, emotion movie, movie present
+I:8888;565;playing, be, play, man, understand, feeling, do, have, clue, piano, mean, woman, playing be, be play, play man, man understand, understand feeling, feeling do, do have, have clue, clue piano, piano mean, mean woman
+I:8888;566;understand, word, describe, wonderful, movie, be, understand word, word describe, describe wonderful, wonderful movie, movie be
+I:8888;567;be, aspiring, interpreter, asl, movement, be, intriguing, presentation, be aspiring, aspiring interpreter, interpreter asl, asl movement, movement be, be intriguing, intriguing presentation
+I:8888;568;have, play, have play
+I:8888;569;astound, notable, dramatic, performance, be, thug, astound notable, notable dramatic, dramatic performance, performance be, be thug
+I:8888;570;deserving, award, receive, deserving award, award receive
+I:8888;571;be, enthral, handsome, appealing, man, be, cast, such, hard, like, character, be enthral, enthral handsome, handsome appealing, appealing man, man be, be cast, cast such, such hard, hard like, like character
+I:8888;572;great, tension, presence, great tension, tension presence
+I:8888;573;ambitious, undertaking, actor, script, interpretation, soar, eye, face, hand, musical, delivery, score, ambitious undertaking, undertaking actor, actor script, script interpretation, interpretation soar, soar eye, eye face, face hand, hand musical, musical delivery, delivery score
+I:8888;574;devour, role, devour role
+I:8888;575;story, line, be, interesting, good, acting, have, hard, time, stay, story line, line be, be interesting, interesting good, good acting, acting have, have hard, hard time, time stay
+I:8888;576;be, heavy, drama, be, fill, splendid, performance, awesome, score, be heavy, heavy drama, drama be, be fill, fill splendid, splendid performance, performance awesome, awesome score
+I:8888;577;receive, convincing, portrayal, receive convincing, convincing portrayal
+I:8888;578;ada, float, piano, bottom, dark, silent, sea, be, haunt, peaceful, see, ada float, float piano, piano bottom, bottom dark, dark silent, silent sea, sea be, be haunt, haunt peaceful, peaceful see
+I:8888;579;enjoy, effective, imagery, be, striking, performance, central, theme, film, enjoy effective, effective imagery, imagery be, be striking, striking performance, performance central, central theme, theme film
+I:8888;580;enjoy, imagery, take, message, grain, salt, enjoy imagery, imagery take, take message, message grain, grain salt
+I:8888;581;master, print, show, master print, print show
+I:8888;582;drama, be, win, book, drama be, be win, win book
+I:8888;583;have, see, movie, many, time, nothing, move, inspire, more, have see, see movie, movie many, many time, time nothing, nothing move, move inspire, inspire more
+I:8888;584;such, drama, love, lust, emotion, such drama, drama love, love lust, lust emotion
+I:8888;585;be, outstanding, be, move, film, be outstanding, outstanding be, be move, move film
+I:8888;586;be, best, film, be best, best film
+I:8888;587;performance, cast, be, spellbinding, performance cast, cast be, be spellbinding
+I:8888;588;deserve, best, actress, ocsar, earn, performance, deserve best, best actress, actress ocsar, ocsar earn, earn performance
+I:8888;589;do, speak, work, entire, movie, l, get, emotion, hand, face, playing, piano, do speak, speak work, work entire, entire movie, movie l, l get, get emotion, emotion hand, hand face, face playing, playing piano
+I:8888;590;lead, film, dramatic, score, be, haunting, dream, lead film, film dramatic, dramatic score, score be, be haunting, haunting dream
+I:8888;591;be, feat, ask, be feat, feat ask
+I:8888;592;go, win, best, support, actress, tender, age, go win, win best, best support, support actress, actress tender, tender age
+I:8888;593;recommend, tale, love, sex, betrayal, consequence, recommend tale, tale love, love sex, sex betrayal, betrayal consequence
+I:8888;594;best, movie, have, see, be, piano, best movie, movie have, have see, see be, be piano
+I:8888;595;first, detest, idea, have, everything, move, island, first detest, detest idea, idea have, have everything, everything move, move island
+I:8888;596;over, be, finest, performance, win, best, actress, over be, be finest, finest performance, performance win, win best, best actress
+I:8888;597;take, best, suport, actress, take best, best suport, suport actress
+I:8888;598;film, win, screen, play, be, nominate, best, year, several, other, film win, win screen, screen play, play be, be nominate, nominate best, best year, year several, several other
+I:8888;599;be, impressive, role, be impressive, impressive role
+I:8888;600;music, be, beautiful, lovely, saxophone, melody, piano, theme, song, play, music be, be beautiful, beautiful lovely, lovely saxophone, saxophone melody, melody piano, piano theme, theme song, song play
+I:8888;601;be, perfect, many, way, be, movie, be, everyone, be perfect, perfect many, many way, way be, be movie, movie be, be everyone
+I:8888;602;be, movie, want, watch, night, snug, bed, popcorn, be movie, movie want, want watch, watch night, night snug, snug bed, bed popcorn
+I:8888;603;be, good, be good
+I:8888;604;best, love, story, view, best love, love story, story view
+I:8888;605;have, make, best, decision, have make, make best, best decision
+I:8888;606;anyone, be, incurable, romantic, such, find, pleasure, colorful, exotic, human, story, anyone be, be incurable, incurable romantic, romantic such, such find, find pleasure, pleasure colorful, colorful exotic, exotic human, human story
+I:8888;607;character, be, ordinary, individual, time, culture, truth, reveal, be, universal, time, language, people, character be, be ordinary, ordinary individual, individual time, time culture, culture truth, truth reveal, reveal be, be universal, universal time, time language, language people
+I:8888;608;be, seek, entertainment, romance, exotic, beauty, escape, era, movie, delight, be, leave, want, satisfy, have, partake, experience, be seek, seek entertainment, entertainment romance, romance exotic, exotic beauty, beauty escape, escape era, era movie, movie delight, delight be, be leave, leave want, want satisfy, satisfy have, have partake, partake experience
+I:8888;609;wild, nature, period, portray, be, evocative, wild nature, nature period, period portray, portray be, be evocative
+I:8888;610;be, amazing, be amazing
+I:8888;611;anna, pacquin, child, give, win, portrayal, daughter, anna pacquin, pacquin child, child give, give win, win portrayal, portrayal daughter
+I:8888;612;repeat, nothing, positive, do, fantastic, imitation, need, be, horn, repeat nothing, nothing positive, positive do, do fantastic, fantastic imitation, imitation need, need be, be horn
+I:8888;613;story, be, human, keep, interest, story be, be human, human keep, keep interest
+I:8888;614;recommend, friend, be, open, mind, recommend friend, friend be, be open, open mind
+I:8888;615;be, be, be be
+I:8888;616;only, saving, grace, be, beutiful, cinematography, untame, wilderness, strong, performance, only saving, saving grace, grace be, be beutiful, beutiful cinematography, cinematography untame, untame wilderness, wilderness strong, strong performance
+I:8888;617;spare, yourselve, irritation, watch, special, put, mute, listen, have, better, movie, title, spare yourselve, yourselve irritation, irritation watch, watch special, special put, put mute, mute listen, listen have, have better, better movie, movie title
+I:8888;618;movie, have, touch, soul, movie have, have touch, touch soul
+I:8888;619;tell, have, see, time, want, see, tell have, have see, see time, time want, want see
+I:8888;620;have, such, strong, expression, melody, play, eye, movement, have such, such strong, strong expression, expression melody, melody play, play eye, eye movement
+I:8888;621;be, good, movie, be, remember, be good, good movie, movie be, be remember
+I:8888;622;have, be, special, kind, person, benefit, movie, have be, be special, special kind, kind person, person benefit, benefit movie
+I:8888;623;acting, be, marvous, story, be, best, act, movie, make, come, acting be, be marvous, marvous story, story be, be best, best act, act movie, movie make, make come
+I:8888;624;instrument, convey, emotion, passion, instrument convey, convey emotion, emotion passion
+I:8888;625;be, much, deeper, be much, much deeper
+I:8888;626;be, symbol, sexuality, be symbol, symbol sexuality
+I:8888;627;realize, love, be, pure, sincere, realize love, love be, be pure, pure sincere
+I:8888;628;flora, be, able, see, mother, guile, have, innocent, heart, comprehend, woman, power, man, flora be, be able, able see, see mother, mother guile, guile have, have innocent, innocent heart, heart comprehend, comprehend woman, woman power, power man
+I:8888;629;love, be, love, love be, be love
+I:8888;630;thank, be, fiction, thank be, be fiction
+I:8888;631;see, new, light, see new, new light
+I:8888;632;movie, be, beautiful, stir, many, way, movie be, be beautiful, beautiful stir, stir many, many way
+I:8888;633;dream, be, great, realness, beautiful, love, develop, non, dream be, be great, great realness, realness beautiful, beautiful love, love develop, develop non
+I:8888;634;have, own, movie, view, special, story, have own, own movie, movie view, view special, special story
+I:8888;635;be, kind, classic, movie, be kind, kind classic, classic movie
+I:8888;636;story, be, intense, delicate, same, time, story be, be intense, intense delicate, delicate same, same time
+I:8888;637;great, interpretation, know, actor, great interpretation, interpretation know, know actor
+I:8888;638;great, music, course, great music, music course
+I:8888;639;favorite, movie, time, favorite movie, movie time
+I:8888;640;muteness, seem, have, widen, wide, eye, raw, fill, wonder, muteness seem, seem have, have widen, widen wide, wide eye, eye raw, raw fill, fill wonder
+I:8888;641;movie, be, watch, movie, watch, movie be, be watch, watch movie, movie watch
+I:8888;642;love, movie, love movie
+I:8888;643;be, ugliest, movie, have, nothing, beauty, be ugliest, ugliest movie, movie have, have nothing, nothing beauty
+I:8888;644;find, enjoyment, watch, find enjoyment, enjoyment watch
+I:8888;645;movie, estimation, way, be, equal, pianist, be, exceptional, movie, movie estimation, estimation way, way be, be equal, equal pianist, pianist be, be exceptional, exceptional movie
+I:8888;646;agree, interesting, insightful, comment, people, have, offer, astonishing, film, agree interesting, interesting insightful, insightful comment, comment people, people have, have offer, offer astonishing, astonishing film
+I:8888;647;rare, masterpiece, american, piano, stand, memorable, movie, have, see, rare masterpiece, masterpiece american, american piano, piano stand, stand memorable, memorable movie, movie have, have see
+I:8888;648;fortunate, cast, paquin, fortunate cast, cast paquin
+I:8888;649;keitel, intriguing, original, screenplay, combine, brilliant, director, work, be, bring, movie, peak, artistic, cinematography, keitel intriguing, intriguing original, original screenplay, screenplay combine, combine brilliant, brilliant director, director work, work be, be bring, bring movie, movie peak, peak artistic, artistic cinematography
+I:8888;650;image, human, greatness, suggest, stay, mind, live, image human, human greatness, greatness suggest, suggest stay, stay mind, mind live
+I:8888;651;beautiful, brilliant, be, word, come, mind, movie, beautiful brilliant, brilliant be, be word, word come, come mind, mind movie
+I:8888;652;music, haunt, music haunt
+I:8888;653;ocean, music, rain, forest, do, feel, ocean music, music rain, rain forest, forest do, do feel
+I:8888;654;movie, be, amazing, emotional, rollercoaster, ride, movie be, be amazing, amazing emotional, emotional rollercoaster, rollercoaster ride
+I:8888;655;movie, woman, director, explore, woman, perspective, relationship, such, musical, passionate, beautiful, fassion, take, breath, movie woman, woman director, director explore, explore woman, woman perspective, perspective relationship, relationship such, such musical, musical passionate, passionate beautiful, beautiful fassion, fassion take, take breath
+I:8888;656;cold, woman, be, unlock, gentle, strong, primitive, man, dump, piano, symbollize, ability, talk, respond, cold woman, woman be, be unlock, unlock gentle, gentle strong, strong primitive, primitive man, man dump, dump piano, piano symbollize, symbollize ability, ability talk, talk respond
+I:8888;657;awaken, desire, love, passion, embrace, life, awaken desire, desire love, love passion, passion embrace, embrace life
+I:8888;658;impose, exile, be, interesting, psychological, twist, scene, full, impose exile, exile be, be interesting, interesting psychological, psychological twist, twist scene, scene full
+I:8888;659;controversial, aspect, story, piano, remain, original, film, work, be, bring, life, first, controversial aspect, aspect story, story piano, piano remain, remain original, original film, film work, work be, be bring, bring life, life first
+I:8888;660;rate, cast, musical, score, be, haunt, sense, word, rate cast, cast musical, musical score, score be, be haunt, haunt sense, sense word
+I:8888;661;nudity/sexual, reference, scene, include, full, nudity/sexual reference, reference scene, scene include, include full
+I:8888;662;content, rating, great, film, humanistic/psychological, viewpoint, fact, remain, piano, have, shocking, scene, nudity, raw, simulated, sex, content rating, rating great, great film, film humanistic/psychological, humanistic/psychological viewpoint, viewpoint fact, fact remain, remain piano, piano have, have shocking, shocking scene, scene nudity, nudity raw, raw simulated, simulated sex
+I:8888;663;grind, slurp, be, safe, say, most, spirit, grind slurp, slurp be, be safe, safe say, say most, most spirit
+I:8888;664;best, actress, best, support, actress, best, original, screenplay, best, best, director, best, cinematography, best, editing, best, costume, design, best, actress, best, best, director, best, support, actress, best, original, score, best, screenplay, best actress, actress best, best support, support actress, actress best, best original, original screenplay, screenplay best, best best, best director, director best, best cinematography, cinematography best, best editing, editing best, best costume, costume design, design best, best actress, actress best, best best, best director, director best, best support, support actress, actress best, best original, original score, score best, best screenplay
+I:8888;665;film, circumstance, hold, passion, film circumstance, circumstance hold, hold passion
+I:8888;666;passion, music, piano, be, keep, mute, woman, sane, music, be, express, passion music, music piano, piano be, be keep, keep mute, mute woman, woman sane, sane music, music be, be express
+I:8888;667;write, award, best, screenplay, direct, nominate, best, director, fine, film, be, nominate, best, write award, award best, best screenplay, screenplay direct, direct nominate, nominate best, best director, director fine, fine film, film be, be nominate, nominate best
+I:8888;668;give, move, award, win, best, actress, performance, mute, pianist, father, have, arrange, marry, man, remote, wilderness, have, meet, give move, move award, award win, win best, best actress, actress performance, performance mute, mute pianist, pianist father, father have, have arrange, arrange marry, marry man, man remote, remote wilderness, wilderness have, have meet
+I:8888;669;outstanding, performance, be, make, movie, outstanding performance, performance be, be make, make movie
+I:8888;670;do, spot, scottish, accent, strong, passionate, performance, do spot, spot scottish, scottish accent, accent strong, strong passionate, passionate performance
+I:8888;671;give, strong, performance, suffering, husband, give strong, strong performance, performance suffering, suffering husband
+I:8888;672;stunning, cinematography, complete, package, amazing, film, stunning cinematography, cinematography complete, complete package, package amazing, amazing film
+I:8888;673;more, comment, movie, be, rate, moment, graphic, sexuality, more comment, comment movie, movie be, be rate, rate moment, moment graphic, graphic sexuality
+I:8888;674;love, many, thing, movie, love many, many thing, thing movie
+I:8888;675;story, scenery, cinematography, story scenery, scenery cinematography
+I:8888;676;favorite, part, be, see, shine, something, other, gangster, movie, favorite part, part be, be see, see shine, shine something, something other, other gangster, gangster movie
+I:8888;677;be, great, underappreciated, actor, generation, be great, great underappreciated, underappreciated actor, actor generation
+I:8888;678;way, be, tough, movie, watch, hold, interest, way be, be tough, tough movie, movie watch, watch hold, hold interest
+I:8888;679;acting, be, good, main, character, create, character, acting be, be good, good main, main character, character create, create character
+I:8888;680;leave, year, old, daughter, prize, possession, piano, leave year, year old, old daughter, daughter prize, prize possession, possession piano
+I:8888;681;get, new, home, leave, while, take, care, business, get new, new home, home leave, leave while, while take, take care, care business
+I:8888;682;little, while, house, live, get, take, back, beach, spend, day, play, piano, little while, while house, house live, live get, get take, take back, back beach, beach spend, spend day, day play, play piano
+I:8888;683;best, part, movie, be, see, beautiful, body, best part, part movie, movie be, be see, see beautiful, beautiful body
+I:8888;684;be, few, scene, be, tough, watch, least, movie, end, be few, few scene, scene be, be tough, tough watch, watch least, least movie, movie end
+I:8888;685;like, unusual, love, story, find, story, movie, odd, like unusual, unusual love, love story, story find, find story, story movie, movie odd
+I:8888;686;complete, masterpiece, film, art, complete masterpiece, masterpiece film, film art
+I:8888;687;see, first, time, film, class, be, take, see first, first time, time film, film class, class be, be take
+I:8888;688;wish, see, high, wish see, see high
+I:8888;689;end, projection, system, present, end projection, projection system, system present
+I:8888;690;cinematography, be, wonderful, cinematography be, be wonderful
+I:8888;691;costume, casting, be, exquisite, costume casting, casting be, be exquisite
+I:8888;692;love, scene, look, live, recreation, actual, painting, love scene, scene look, look live, live recreation, recreation actual, actual painting
+I:8888;693;everything, be, lovely, everything be, be lovely
+I:8888;694;movie, be, lovely, illustration, power, music, be, use, communicate, feed, soul, movie be, be lovely, lovely illustration, illustration power, power music, music be, be use, use communicate, communicate feed, feed soul
+I:8888;695;view, film, few, time, ask, enjoy, film, view film, film few, few time, time ask, ask enjoy, enjoy film
+I:8888;696;pacquin, chemistry, act, be, impecable, film, deserve, positive, review, reason, pacquin chemistry, chemistry act, act be, be impecable, impecable film, film deserve, deserve positive, positive review, review reason
+I:8888;697;ironic, line, deliver, be, try, locate, wife, ask, mother, have, go, frustrated, little, girl, have, learn, much, adult, relationship, yell, hell, ironic line, line deliver, deliver be, be try, try locate, locate wife, wife ask, ask mother, mother have, have go, go frustrated, frustrated little, little girl, girl have, have learn, learn much, much adult, adult relationship, relationship yell, yell hell
+I:8888;698;emerge, cultural, heritage, become, world, premiere, female, director, emerge cultural, cultural heritage, heritage become, become world, world premiere, premiere female, female director
+I:8888;699;campion, film, have, treacherous, terrain, sear, emotional, intensity, campion film, film have, have treacherous, treacherous terrain, terrain sear, sear emotional, emotional intensity
+I:8888;700;work, signify, break, tragic, gothic, sentimental, work signify, signify break, break tragic, tragic gothic, gothic sentimental
+I:8888;701;exquisite, film, win, award, include, screenplay, be, sex, passion, exquisite film, film win, win award, award include, include screenplay, screenplay be, be sex, sex passion
+I:8888;702;jane, challenge, viewer, many, level, jane challenge, challenge viewer, viewer many, many level
+I:8888;703;film, literary, inspire, explore, new, territory, delicious, handling, female, sexuality, pleasure, ecstasy, loving, relationship, film literary, literary inspire, inspire explore, explore new, new territory, territory delicious, delicious handling, handling female, female sexuality, sexuality pleasure, pleasure ecstasy, ecstasy loving, loving relationship
+I:8888;704;scene, tear, anger, hit, hard, face, have, speak, word, love, scene tear, tear anger, anger hit, hit hard, hard face, face have, have speak, speak word, word love
+I:8888;705;new, breath, moment, eye, remain, lock, promise, intimacy, be, confirm, reconfirm, detail, new breath, breath moment, moment eye, eye remain, remain lock, lock promise, promise intimacy, intimacy be, be confirm, confirm reconfirm, reconfirm detail
+I:8888;706;scene, show, face, crumple, exquisite, pain, pleasure, scene show, show face, face crumple, crumple exquisite, exquisite pain, pain pleasure
+I:8888;707;move, head, chest, struggle, dress, anxious, touch, skin, move head, head chest, chest struggle, struggle dress, dress anxious, anxious touch, touch skin
+I:8888;708;nominate, award, film, tell, story, strong, willful, 19th, nominate award, award film, film tell, tell story, story strong, strong willful, willful 19th
+I:8888;709;campion, manage, choose, cast, suit, purpose, style, campion manage, manage choose, choose cast, cast suit, suit purpose, purpose style
+I:8888;710;language, translate, young, daughter, beloved, piano, happen, be, prime, source, expression, language translate, translate young, young daughter, daughter beloved, beloved piano, piano happen, happen be, be prime, prime source, source expression
+I:8888;711;take, great, delight, feel, finger, piano, key, take great, great delight, delight feel, feel finger, finger piano, piano key
+I:8888;712;seem, satisfied, watch, seem satisfied, satisfied watch
+I:8888;713;find, edge, draw, spectacle, find edge, edge draw, draw spectacle
+I:8888;714;baine, enjoy, finger, move, key, small, detail, motion, face, baine enjoy, enjoy finger, finger move, move key, key small, small detail, detail motion, motion face
+I:8888;715;close, eye, breathe, close eye, eye breathe
+I:8888;716;be, experience, strange, sense, appreciation, lust, be experience, experience strange, strange sense, sense appreciation, appreciation lust
+I:8888;717;be, jealous, be jealous
+I:8888;718;attention, focus, neck, bend, further, closer, piano, attention focus, focus neck, neck bend, bend further, further closer, closer piano
+I:8888;719;long, white, neck, prove, irresistible, long white, white neck, neck prove, prove irresistible
+I:8888;720;be, way, have, piano, be way, way have, have piano
+I:8888;721;have, be, proclaim, best, child, act, role, have be, be proclaim, proclaim best, best child, child act, act role
+I:8888;722;give, subtle, complex, performance, cute, little, girl, tear, mother, stepfather, give subtle, subtle complex, complex performance, performance cute, cute little, little girl, girl tear, tear mother, mother stepfather
+I:8888;723;complex, portrayal, win, best, support, actress, complex portrayal, portrayal win, win best, best support, support actress
+I:8888;724;play, intense, moralistic, play intense, intense moralistic
+I:8888;725;be, sound, be, worry, be sound, sound be, be worry
+I:8888;726;jane, create, unusual, film, poetic, lyrical, compliment, beautiful, cinematography, haunt, wood, many, critic, have, be, name, masterpiece, jane create, create unusual, unusual film, film poetic, poetic lyrical, lyrical compliment, compliment beautiful, beautiful cinematography, cinematography haunt, haunt wood, wood many, many critic, critic have, have be, be name, name masterpiece
+I:8888;727;be, first, female, director, win, d'or, be first, first female, female director, director win, win d'or
+I:8888;728;be, great, movie, be great, great movie
+I:8888;729;provoke, be, great, pick, provoke be, be great, great pick
+I:8888;730;be, first, film, have, see, be first, first film, film have, have see
+I:8888;731;give, good, performance, movie, be, strange, likeable, give good, good performance, performance movie, movie be, be strange, strange likeable
+I:8888;732;give, great, performance, give great, great performance
+I:8888;733;cinematography, be, good, setting, be, cool, dark, beautiful, place, cinematography be, be good, good setting, setting be, be cool, cool dark, dark beautiful, beautiful place
+I:8888;734;recommend, romantic, buff, people, love, watch, great, performance, recommend romantic, romantic buff, buff people, people love, love watch, watch great, great performance
+I:8888;735;listen, voice, be, move, be, key, entire, film, listen voice, voice be, be move, move be, be key, key entire, entire film
+I:8888;736;several, engaging, theme, be, be, center, stage, give, time, several engaging, engaging theme, theme be, be be, be center, center stage, stage give, give time
+I:8888;737;endanger, sense, self, use, liberating, other, deny, self, endanger sense, sense self, self use, use liberating, liberating other, other deny, deny self
+I:8888;738;be, fine, movie, mind, listen, be fine, fine movie, movie mind, mind listen
+I:8888;739;outstanding, movie, academy, award, little, girl, win, be, deserve, outstanding movie, movie academy, academy award, award little, little girl, girl win, win be, be deserve
+I:8888;740;watch, first, time, few, week, be, huge, fan, watch first, first time, time few, few week, week be, be huge, huge fan
+I:8888;741;excellent, film, complexity, widow, be, mute, become, new, bride, relate, new, husband, excellent film, film complexity, complexity widow, widow be, be mute, mute become, become new, new bride, bride relate, relate new, new husband
+I:8888;742;learn, time, relate, male, neighbor, request, piano, lesson, learn time, time relate, relate male, male neighbor, neighbor request, request piano, piano lesson
+I:8888;743;developed, period, film, set, striking, photography, plot, developed period, period film, film set, set striking, striking photography, photography plot
+I:8888;744;usual, fare, be, interaction, urbanite, huge, polished, smile, stick, face, usual fare, fare be, be interaction, interaction urbanite, urbanite huge, huge polished, polished smile, smile stick, stick face
+I:8888;745;enter, relationship, be, loud, giddy, giggly, enter relationship, relationship be, be loud, loud giddy, giddy giggly
+I:8888;746;quiet, patient, tender, man, emerge, lady, quiet patient, patient tender, tender man, man emerge, emerge lady
+I:8888;747;find, be, beautiful, story, be, good, enjoy, cinematography, music, find be, be beautiful, beautiful story, story be, be good, good enjoy, enjoy cinematography, cinematography music
+I:8888;748;be, film, find, guilty, be, good, count, be film, film find, find guilty, guilty be, be good, good count
+I:8888;749;final, note, male, nudity, be, film, final note, note male, male nudity, nudity be, be film
+I:8888;750;be, interesting, see, many, place, piano, have, be, be, play, piano, be interesting, interesting see, see many, many place, place piano, piano have, have be, be be, be play, play piano
+I:8888;751;anyone, be, fan, be, great, see, talented, adorable, young, girl, anyone be, be fan, fan be, be great, great see, see talented, talented adorable, adorable young, young girl
+I:8888;752;costuming, be, lovely, style, tone, message, imagery, be, striking, costuming be, be lovely, lovely style, style tone, tone message, message imagery, imagery be, be striking
+I:8888;753;thing, cause, give, acclaimed, movie, star, thing cause, cause give, give acclaimed, acclaimed movie, movie star
+I:8888;754;young, daughter, be, authentic, young daughter, daughter be, be authentic
+I:8888;755;act, character, act character
+I:8888;756;respect, creator, story, be, attempt, convey, respect creator, creator story, story be, be attempt, attempt convey
+I:8888;757;acting, be, good, be, story, acting be, be good, good be, be story
+I:8888;758;great, mix, emotion, be, protray, music, be, haunt, great mix, mix emotion, emotion be, be protray, protray music, music be, be haunt
+I:8888;759;film, get, star, be, wonderful, movie, lot, people, film get, get star, star be, be wonderful, wonderful movie, movie lot, lot people
+I:8888;760;include, lot, reviewer, include lot, lot reviewer
+I:8888;761;acting, be, fine, movie, beautiful, story, leave, taste, bile, mouth, acting be, be fine, fine movie, movie beautiful, beautiful story, story leave, leave taste, taste bile, bile mouth
+I:8888;762;be, great, movie, be great, great movie
+I:8888;763;be, loyalty, love, right, reason, movie, be, complete, disappointment, be loyalty, loyalty love, love right, right reason, reason movie, movie be, be complete, complete disappointment
+I:8888;764;own, movie, have, watch, many, time, have, cry, many, time, own movie, movie have, have watch, watch many, many time, time have, have cry, cry many, many time
+I:8888;765;passion, rage, storm, passion, rage, actor, passion rage, rage storm, storm passion, passion rage, rage actor
+I:8888;766;believe, be, portray, cast, believe be, be portray, portray cast
+I:8888;767;be, sure, have, guess, be, passionate, person, have, love, music, be sure, sure have, have guess, guess be, be passionate, passionate person, person have, have love, love music
+I:8888;768;movied, touch, movied touch
+I:8888;769;portray, passion, extreme, portray passion, passion extreme
+I:8888;770;be, lovely, beautiful, way, be, portray, be lovely, lovely beautiful, beautiful way, way be, be portray
+I:8888;771;want, understand, true, measure, person, love, want understand, understand true, true measure, measure person, person love
+I:8888;772;recommend, own, movie, recommend own, own movie
+I:8888;773;be, best, film, be best, best film
+I:8888;774;music, be, nice, music be, be nice
+I:8888;775;play, piano, self, be, see, play piano, piano self, self be, be see
+I:8888;776;beautiful, move, film, have, see, beautiful move, move film, film have, have see
+I:8888;777;screenplay, act, cinematography, make, be, screenplay act, act cinematography, cinematography make, make be
+I:8888;778;be, thing, incredible, movie, teach, be thing, thing incredible, incredible movie, movie teach
+I:8888;779;be, favorite, movie, time, be favorite, favorite movie, movie time
+I:8888;780;be, brilliant, mute, choice, victim, arrange, marriage, be brilliant, brilliant mute, mute choice, choice victim, victim arrange, arrange marriage
+I:8888;781;facial, expression, physical, movement, express, more, word, say, facial expression, expression physical, physical movement, movement express, express more, more word, word say
+I:8888;782;fact, find, become, aware, watch, gesture, begin, watch, expression, other, character, movie, fact find, find become, become aware, aware watch, watch gesture, gesture begin, begin watch, watch expression, expression other, other character, character movie
+I:8888;783;music, film, be, beautiful, be, true, voice, music film, film be, be beautiful, beautiful be, be true, true voice
+I:8888;784;be, wonderous, combination, music, scenery, symbolism, be wonderous, wonderous combination, combination music, music scenery, scenery symbolism
+I:8888;785;be, dream, sequence, be dream, dream sequence
+I:8888;786;film, major, scene, violence, be, exquisite, film major, major scene, scene violence, violence be, be exquisite
+I:8888;787;recommend, film, recommend film
+I:8888;788;act, be, excellent, movie, act be, be excellent, excellent movie
+I:8888;789;paquin, show, promise, great, thing, come, daughter, paquin show, show promise, promise great, great thing, thing come, come daughter
+I:8888;790;end, be, tale, redemption, human, spirit, ada, learn, love, trust, man, own, husband, husband, learn, difference, family, property, find, longing, fulfil, ability, sacrifice, satisfaction, own, need, safety, happiness, woman, love, end be, be tale, tale redemption, redemption human, human spirit, spirit ada, ada learn, learn love, love trust, trust man, man own, own husband, husband husband, husband learn, learn difference, difference family, family property, property find, find longing, longing fulfil, fulfil ability, ability sacrifice, sacrifice satisfaction, satisfaction own, own need, need safety, safety happiness, happiness woman, woman love
+I:8888;791;fine, performance, involve, include, support, cast, transplant, eccentric, give, right, comic, touch, weighty, story, fine performance, performance involve, involve include, include support, support cast, cast transplant, transplant eccentric, eccentric give, give right, right comic, comic touch, touch weighty, weighty story
+I:8888;792;triumph, film, ending, be, chaucrian, learn, best, way, have, way, woman, be, let, have, way, triumph film, film ending, ending be, be chaucrian, chaucrian learn, learn best, best way, way have, have way, way woman, woman be, be let, let have, have way
+I:8888;793;voluntary, mute, childhood, have, express, beloved, piano, voluntary mute, mute childhood, childhood have, have express, express beloved, beloved piano
+I:8888;794;great, cinematography, music, act, great cinematography, cinematography music, music act
+I:8888;795;be, wonderful, story, love, sex, power, be wonderful, wonderful story, story love, love sex, sex power
+I:8888;796;be, headstrong, know, want, be headstrong, headstrong know, know want
+I:8888;797;be, hypnotic, film, be hypnotic, hypnotic film
+I:8888;798;use, old, family, piano, way, express, feeling, need, remain, calm, stable, use old, old family, family piano, piano way, way express, express feeling, feeling need, need remain, remain calm, calm stable
+I:8888;799;neighbor, bring, house, much, plead, let, play, exchange, sexual, favor, neighbor bring, bring house, house much, much plead, plead let, let play, play exchange, exchange sexual, sexual favor
+I:8888;800;be, intriguing, beautiful, unique, romantic, drama, interested, film, check, be intriguing, intriguing beautiful, beautiful unique, unique romantic, romantic drama, drama interested, interested film, film check
+I:8888;801;be, time, favorite, movie, be time, time favorite, favorite movie
+I:8888;802;r, moment, graphic, sexuality, r moment, moment graphic, graphic sexuality
+I:8888;803;writter, director, mute, talented, beholden, controlled, outraged, woman, produce, interesting, emotional, portrayal, human, contension, have, experience, print, film, writter director, director mute, mute talented, talented beholden, beholden controlled, controlled outraged, outraged woman, woman produce, produce interesting, interesting emotional, emotional portrayal, portrayal human, human contension, contension have, have experience, experience print, print film
+I:8888;804;have, see, dynamics, life, most, have, be, honest, have see, see dynamics, dynamics life, life most, most have, have be, be honest
+I:8888;805;film, climax, be, intense, life, promise, film climax, climax be, be intense, intense life, life promise
+I:8888;806;be, time, be time
+I:8888;807;2002a, skillful, passionate, film, 2002a skillful, skillful passionate, passionate film
+I:8888;808;film, be, toadolescent, male, machismo, piano, be, toadolescent, female, angst, film be, be toadolescent, toadolescent male, male machismo, machismo piano, piano be, be toadolescent, toadolescent female, female angst
+I:8888;809;be, oppressed, voice, be oppressed, oppressed voice
+I:8888;810;rest, theatre, hear, good, rest theatre, theatre hear, hear good
+I:8888;811;minute, thewoman, front, clap, minute thewoman, thewoman front, front clap
+I:8888;812;people, will, movie, stone, fan, indie, people will, will movie, movie stone, stone fan, fan indie
+I:8888;813;anyone, love, movie, be, be, first, roll, actor, anyone love, love movie, movie be, be be, be first, first roll, roll actor
+I:8888;814;recommend, thismovie, adult, supervision, be, be, take, considerationbecause, adult, love, scene, bloody, violance, scene, recommend thismovie, thismovie adult, adult supervision, supervision be, be be, be take, take considerationbecause, considerationbecause adult, adult love, love scene, scene bloody, bloody violance, violance scene
+I:8888;815;cry, game, get, special, edition, cry game, game get, get special, special edition
+I:8888;816;give, lush, beautiful, score, new, multus, give lush, lush beautiful, beautiful score, score new, new multus
+I:8888;817;director, cast, commentary, be, director cast, cast commentary, commentary be
+I:8888;818;great, sumptuous, erotic, drama, great sumptuous, sumptuous erotic, erotic drama
+I:8888;819;come, think, be, terrific, come think, think be, be terrific
+I:8888;820;be, clear, be, classic, be clear, clear be, be classic
+I:8888;821;cinematography, be, brilliant, cinematography be, be brilliant
+I:8888;822;director, direction, have, create, lasting, image, director direction, direction have, have create, create lasting, lasting image
+I:8888;823;up, eye, expression, image, be, capture, beauty, power, grace, up eye, eye expression, expression image, image be, be capture, capture beauty, beauty power, power grace
+I:8888;824;act, be, powerful, move, chemistry, be, transcendent, act be, be powerful, powerful move, move chemistry, chemistry be, be transcendent
+I:8888;825;appreciate, actor, film, be, appreciate actor, actor film, film be
+I:8888;826;film, be, masterpiece, film be, be masterpiece
+I:8888;827;be, superb, be superb
+I:8888;828;bring, content, bodily, pleasure, bring content, content bodily, bodily pleasure
+I:8888;829;bring, more, movie, portray, have, use, sex, appeal, entertain, audience, bring more, more movie, movie portray, portray have, have use, use sex, sex appeal, appeal entertain, entertain audience
+I:8888;830;like, main, piano, theme, like main, main piano, piano theme
+I:8888;831;make, want, throw, make want, want throw
+I:8888;832;go, listen, real, piano, music, go listen, listen real, real piano, piano music
+I:8888;833;reveal, recommend, movie, reveal recommend, recommend movie
+I:8888;834;everything, film, be, exceptional, level, everything film, film be, be exceptional, exceptional level
+I:8888;835;beautiful, dense, forest, cinematography, realism, colony, beautiful, piano, score, great, acting, plot, mute, scottish, woman, ada, daughter, go, plantation, meet, husband, arrange, marriage, beautiful dense, dense forest, forest cinematography, cinematography realism, realism colony, colony beautiful, beautiful piano, piano score, score great, great acting, acting plot, plot mute, mute scottish, scottish woman, woman ada, ada daughter, daughter go, go plantation, plantation meet, meet husband, husband arrange, arrange marriage
+I:8888;836;be, adult, historical, drama, inoffensive, overt, nudity, adult, theme, control, sexual, repression, sexual, growth, search, true, love, be adult, adult historical, historical drama, drama inoffensive, inoffensive overt, overt nudity, nudity adult, adult theme, theme control, control sexual, sexual repression, repression sexual, sexual growth, growth search, search true, true love
+I:8888;837;film, make, other, department, film make, make other, other department
+I:8888;838;realistic, awesome, beautiful, harsh, ambiance, realistic awesome, awesome beautiful, beautiful harsh, harsh ambiance
+I:8888;839;movie, shine, movie shine
+I:8888;840;be, nice, moove, watch, be nice, nice moove, moove watch
+I:8888;841;act, unusual, setting, act unusual, unusual setting
+I:8888;842;be, music, enthusiast, be, perfect, movie, be music, music enthusiast, enthusiast be, be perfect, perfect movie
+I:8888;843;fact, movie, be, grammy, make, laugh, fact movie, movie be, be grammy, grammy make, make laugh
+I:8888;844;be, type, kid, love, action, comedy, sport, course, gorey, movie, be type, type kid, kid love, love action, action comedy, comedy sport, sport course, course gorey, gorey movie
+I:8888;845;film, become, favorite, film become, become favorite

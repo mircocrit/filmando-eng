@@ -1,0 +1,655 @@
+I:11953;1;film, lover, have, despair, see, give, fine, performance, report, handling, role, film, be, fine, film lover, lover have, have despair, despair see, see give, give fine, fine performance, performance report, report handling, handling role, role film, film be, be fine
+I:11953;2;writer, director, have, craft, excellent, film, be, part, thriller, part, psychological, drama, writer director, director have, have craft, craft excellent, excellent film, film be, be part, part thriller, thriller part, part psychological, psychological drama
+I:11953;3;sean, have, do, superb, job, involve, audience, poignant, tragic, film, have, be, reward, wonderful, performance, several, other, famous, actor, small, critical, role, cameo, involvement, be, crucial, plot, sean have, have do, do superb, superb job, job involve, involve audience, audience poignant, poignant tragic, tragic film, film have, have be, be reward, reward wonderful, wonderful performance, performance several, several other, other famous, famous actor, actor small, small critical, critical role, role cameo, cameo involvement, involvement be, be crucial, crucial plot
+I:11953;4;use, camera, be, imaginative, editing, be, compelling, use camera, camera be, be imaginative, imaginative editing, editing be, be compelling
+I:11953;5;sound, be, excellent, sound be, be excellent
+I:11953;6;out, film, soundtrack, have, support, excellent, dialogue, eclectic, music, score, succeed, level, out film, film soundtrack, soundtrack have, have support, support excellent, excellent dialogue, dialogue eclectic, eclectic music, music score, score succeed, succeed level
+I:11953;7;suspense, be, build, serial, kidnapper, prey, little, girl, small, town, suspense be, be build, build serial, serial kidnapper, kidnapper prey, prey little, little girl, girl small, small town
+I:11953;8;want, watch, film, be, decent, way, end, be, good, choice, want watch, watch film, film be, be decent, decent way, way end, end be, be good, good choice
+I:11953;9;movie, polarize, viewer, movie polarize, polarize viewer
+I:11953;10;people, like, happy, ending, plot, be, sew, detest, pledge, people like, like happy, happy ending, ending plot, plot be, be sew, sew detest, detest pledge
+I:11953;11;be, comfortable, real, be comfortable, comfortable real
+I:11953;12;like, movie, genre, course, seem, be, hit, like movie, movie genre, genre course, course seem, seem be, be hit
+I:11953;13;be, beautiful, movie, life, be, glory, be beautiful, beautiful movie, movie life, life be, be glory
+I:11953;14;be, bit, long, do, contain, fly, window, scream, loung, do, contain, be, great, story, great, character, chance, viewer, think, face, life, more, darker, side, be bit, bit long, long do, do contain, contain fly, fly window, window scream, scream loung, loung do, do contain, contain be, be great, great story, story great, great character, character chance, chance viewer, viewer think, think face, face life, life more, more darker, darker side
+I:11953;15;portrait, inspector, be, haunt, portrait inspector, inspector be, be haunt
+I:11953;16;be, brilliant, own, colleague, estimation, be brilliant, brilliant own, own colleague, colleague estimation
+I:11953;17;hone, detective, skill, build, grow, body, circumstantial, evidence, triangulate, suspect, whereabouts, place, middle, ensure, capture, hone detective, detective skill, skill build, build grow, grow body, body circumstantial, circumstantial evidence, evidence triangulate, triangulate suspect, suspect whereabouts, whereabouts place, place middle, middle ensure, ensure capture
+I:11953;18;jerry, be, wise, cynical, man, end, career, have, witness, man, various, depravity, scam, failure, jerry be, be wise, wise cynical, cynical man, man end, end career, career have, have witness, witness man, man various, various depravity, depravity scam, scam failure
+I:11953;19;year, develop, deep, compassion, distinguish, insensitive, colleague, reflexive, flock, year develop, develop deep, deep compassion, compassion distinguish, distinguish insensitive, insensitive colleague, colleague reflexive, reflexive flock
+I:11953;20;mountainous, landscape, backdrop, film, serve, punctuate, man, impotence, face, basic, structure, timeless, order, nature, mountainous landscape, landscape backdrop, backdrop film, film serve, serve punctuate, punctuate man, man impotence, impotence face, face basic, basic structure, structure timeless, timeless order, order nature
+I:11953;21;plot, be, timeless, build, acting, be, superb, direct, clean, modest, few, creative, flourish, poignant, soundtrack, cinematography, plot be, be timeless, timeless build, build acting, acting be, be superb, superb direct, direct clean, clean modest, modest few, few creative, creative flourish, flourish poignant, poignant soundtrack, soundtrack cinematography
+I:11953;22;controlled, performance, be, usual, first, controlled performance, performance be, be usual, usual first
+I:11953;23;inner, conflict, seek, justice, place, family, risk, be, play, nicholson, director, inner conflict, conflict seek, seek justice, justice place, place family, family risk, risk be, be play, play nicholson, nicholson director
+I:11953;24;be, grip, be grip
+I:11953;25;work, own, way2, work own, own way2
+I:11953;26;set, film, everything, lead, end, lead, audience, believe, expectation, be, go, be, meet, set film, film everything, everything lead, lead end, end lead, lead audience, audience believe, believe expectation, expectation be, be go, go be, be meet
+I:11953;27;aspect, pledge, be, worth, view, aspect pledge, pledge be, be worth, worth view
+I:11953;28;be, late, be late
+I:11953;29;be, much, recommend, complex, layered, psychological, thriller, feature, seem, have, evolve, continue, exploration, dark, side, human, nature, role, last, decade, be much, much recommend, recommend complex, complex layered, layered psychological, psychological thriller, thriller feature, feature seem, seem have, have evolve, evolve continue, continue exploration, exploration dark, dark side, side human, human nature, nature role, role last, last decade
+I:11953;30;be, photographed, penetrate, drama, level, involve, dogged, troubled, obsess, retire, detective, convince, actual, killer, last, gruesome, juvenile, homocide, case, be, large, level, be, stunning, be photographed, photographed penetrate, penetrate drama, drama level, level involve, involve dogged, dogged troubled, troubled obsess, obsess retire, retire detective, detective convince, convince actual, actual killer, killer last, last gruesome, gruesome juvenile, juvenile homocide, homocide case, case be, be large, large level, level be, be stunning
+I:11953;31;mind, concentration, do, fragile, vulnerable, personality, mind concentration, concentration do, do fragile, fragile vulnerable, vulnerable personality
+I:11953;32;be, movie, recommend, faint, heart, be, absorb, exploration, character, heart, darkness, peril, associate, such, risky, adventure, be movie, movie recommend, recommend faint, faint heart, heart be, be absorb, absorb exploration, exploration character, character heart, heart darkness, darkness peril, peril associate, associate such, such risky, risky adventure
+I:11953;33;movie, be, set, surround, natural, scenery, provide, stage, drama, be, breath, take, be, worth, view, experience, experience, movie be, be set, set surround, surround natural, natural scenery, scenery provide, provide stage, stage drama, drama be, be breath, breath take, take be, be worth, worth view, view experience, experience experience
+I:11953;34;number, notable, other, slip, remarkable, quality, character, memorable, turn, woman, battered, background, beautiful, little, girl, light, screen, happen, fit, bogeyman, serial, killer, profile, number notable, notable other, other slip, slip remarkable, remarkable quality, quality character, character memorable, memorable turn, turn woman, woman battered, battered background, background beautiful, beautiful little, little girl, girl light, light screen, screen happen, happen fit, fit bogeyman, bogeyman serial, serial killer, killer profile
+I:11953;35;motive, subsequent, involvement, be, confuse, seem, care, new, family, adopt, way, motive subsequent, subsequent involvement, involvement be, be confuse, confuse seem, seem care, care new, new family, family adopt, adopt way
+I:11953;36;recommend, caution, let, impressionable, child, watch, recommend caution, caution let, let impressionable, impressionable child, child watch
+I:11953;37;love, see, film, undiscovered, gem, love see, see film, film undiscovered, undiscovered gem
+I:11953;38;create, good, measure, suspense, mention, excessive, time, trail, punch, create good, good measure, measure suspense, suspense mention, mention excessive, excessive time, time trail, trail punch
+I:11953;39;be, honest, real, movie, worth, watch, be honest, honest real, real movie, movie worth, worth watch
+I:11953;40;reason, post, review, movie, be, be, finest, movie, have, see, while, reason post, post review, review movie, movie be, be be, be finest, finest movie, movie have, have see, see while
+I:11953;41;best, movie, have, power, hold, grip, do, need, cater, tidy, best movie, movie have, have power, power hold, hold grip, grip do, do need, need cater, cater tidy
+I:11953;42;movie, be, standout, movie be, be standout
+I:11953;43;performance, perfect, direction, performance perfect, perfect direction
+I:11953;44;see, real, movie, fan, see real, real movie, movie fan
+I:11953;45;acting, be, good, story, be, awesome, nicholson, play, cop, retire, hour, murder, occur, mother, slay, child, freak, put, scarring, memory, head, solve, murder, dead, daughter, acting be, be good, good story, story be, be awesome, awesome nicholson, nicholson play, play cop, cop retire, retire hour, hour murder, murder occur, occur mother, mother slay, slay child, child freak, freak put, put scarring, scarring memory, memory head, head solve, solve murder, murder dead, dead daughter
+I:11953;46;be, great, cast, film, film, have, fatness, storyline, add, few, be great, great cast, cast film, film film, film have, have fatness, fatness storyline, storyline add, add few
+I:11953;47;give, solid, performance, crime, mystery, produce, direct, direct, film, cross, guard, give solid, solid performance, performance crime, crime mystery, mystery produce, produce direct, direct direct, direct film, film cross, cross guard
+I:11953;48;relocate, area, other, murder, young, girl, have, occur, start, new, life, relocate area, area other, other murder, murder young, young girl, girl have, have occur, occur start, start new, new life
+I:11953;49;ultimate, question, movie, be, end, be, stronger, feeling, daughter, deep, seed, promise, make, murder, girl, mother, ultimate question, question movie, movie be, be end, end be, be stronger, stronger feeling, feeling daughter, daughter deep, deep seed, seed promise, promise make, make murder, murder girl, girl mother
+I:11953;50;first, keep, ground, secure, second, drain, soul, sanity, first keep, keep ground, ground secure, secure second, second drain, drain soul, soul sanity
+I:11953;51;psychological, crime, drama, have, best, group, support, actor, film, today, psychological crime, crime drama, drama have, have best, best group, group support, support actor, actor film, film today
+I:11953;52;have, see, great, ensemble, actor, put, smaller, budget, film, act, bolster, credibility, story, have see, see great, great ensemble, ensemble actor, actor put, put smaller, smaller budget, budget film, film act, act bolster, bolster credibility, credibility story
+I:11953;53;cinematography, be, gorgeous, scene, winter, western, cinematography be, be gorgeous, gorgeous scene, scene winter, winter western
+I:11953;54;great, directing, wonderful, acting, topnotch, cast, good, great, psychological, thriller, great directing, directing wonderful, wonderful acting, acting topnotch, topnotch cast, cast good, good great, great psychological, psychological thriller
+I:11953;55;movie, end, be, far, side, sanity, convinced, be, movie end, end be, be far, far side, side sanity, sanity convinced, convinced be
+I:11953;56;photograph, winter, scene, be, striking, photograph winter, winter scene, scene be, be striking
+I:11953;57;turn, superb, performance, cop, retire, come, solve, last, puzzling, case, turn superb, superb performance, performance cop, cop retire, retire come, come solve, solve last, last puzzling, puzzling case
+I:11953;58;do, superb, job, direct, set, mood, movie, do superb, superb job, job direct, direct set, set mood, mood movie
+I:11953;59;be, ultimate, mystery, thriller, keep, involve, end, be ultimate, ultimate mystery, mystery thriller, thriller keep, keep involve, involve end
+I:11953;60;movie, star, feature, appearence, be, amazing, work, genius, have, see, movie star, star feature, feature appearence, appearence be, be amazing, amazing work, work genius, genius have, have see
+I:11953;61;garde, shades, depression, grow, insanity, hold, viewer, tight, entire, film, garde shades, shades depression, depression grow, grow insanity, insanity hold, hold viewer, viewer tight, tight entire, entire film
+I:11953;62;several, part, film, include, title, go, scene, have, imagery, be, beatiful, free, bring, tear, eye, several part, part film, film include, include title, title go, go scene, scene have, have imagery, imagery be, be beatiful, beatiful free, free bring, bring tear, tear eye
+I:11953;63;go, amazing, work, art, come, sountrack, go amazing, amazing work, work art, art come, come sountrack
+I:11953;64;music, god, compose, film, greatest, song, music god, god compose, compose film, film greatest, greatest song
+I:11953;65;verdict, absolute, greatest, movie, make, man, show, contrast, happiness, grow, insecurity, onesself, deal, promise, find, missing, daughter, verdict absolute, absolute greatest, greatest movie, movie make, make man, man show, show contrast, contrast happiness, happiness grow, grow insecurity, insecurity onesself, onesself deal, deal promise, promise find, find missing, missing daughter
+I:11953;66;nicholson, play, retire, police, detective, do, great, job, nicholson play, play retire, retire police, police detective, detective do, do great, great job
+I:11953;67;have, heck, support, cast, direct, have heck, heck support, support cast, cast direct
+I:11953;68;wife, like, like, better, second, time, watch, wife like, like like, like better, better second, second time, time watch
+I:11953;69;movie, be, good, other, reviewer, have, say, have, exceptional, direction, good, act, character, film, movie be, be good, good other, other reviewer, reviewer have, have say, say have, have exceptional, exceptional direction, direction good, good act, act character, character film
+I:11953;70;read, many, people, be, happy, end, tell, be, idea, encourage, thriller, fan, watch, stablish, own, criterion, read many, many people, people be, be happy, happy end, end tell, tell be, be idea, idea encourage, encourage thriller, thriller fan, fan watch, watch stablish, stablish own, own criterion
+I:11953;71;movie, excellent, movie excellent
+I:11953;72;writing, be, complex, nuanced, take, predictible, plot, character, turn, writing be, be complex, complex nuanced, nuanced take, take predictible, predictible plot, plot character, character turn
+I:11953;73;film, be, artistic, film be, be artistic
+I:11953;74;actor, love, work, obtain, single, scene, role, actor love, love work, work obtain, obtain single, single scene, scene role
+I:11953;75;have, incredible, amount, patience, set, lure, favorite, avocation, fishing, require, follower, have incredible, incredible amount, amount patience, patience set, set lure, lure favorite, favorite avocation, avocation fishing, fishing require, require follower
+I:11953;76;outdo, traffic, performance, outdo traffic, traffic performance
+I:11953;77;read, film, be, sensation, screen, see, experience, audience, be, impressed, read film, film be, be sensation, sensation screen, screen see, see experience, experience audience, audience be, be impressed
+I:11953;78;closing, moment, act, film, be, finest, long, act, career, closing moment, moment act, act film, film be, be finest, finest long, long act, act career
+I:11953;79;pledge, be, clever, disturbing, pyschological, thriller, stick, final, ending, pledge be, be clever, clever disturbing, disturbing pyschological, pyschological thriller, thriller stick, stick final, final ending
+I:11953;80;conventional, whodunnitthat, be, concern, solve, mystery, character, study, interested, examine, impact, hunt, character, conventional whodunnitthat, whodunnitthat be, be concern, concern solve, solve mystery, mystery character, character study, study interested, interested examine, examine impact, impact hunt, hunt character
+I:11953;81;think, viewer, be, small, price, pay, think viewer, viewer be, be small, small price, price pay
+I:11953;82;be, fascinating, watch, discuss, group, people, be fascinating, fascinating watch, watch discuss, discuss group, group people
+I:11953;83;guy, be, know, best, actor, business, most, role, last, year, have, consist, do, impersonation, somebody, impression, guy be, be know, know best, best actor, actor business, business most, most role, role last, last year, year have, have consist, consist do, do impersonation, impersonation somebody, somebody impression
+I:11953;84;be, credit, director, have, create, affect, film, everybody, be credit, credit director, director have, have create, create affect, affect film, film everybody
+I:11953;85;pledge, be, interesting, story, murder, pledge be, be interesting, interesting story, story murder
+I:11953;86;be, great, usual, be great, great usual
+I:11953;87;honest, police, detective, honest police, police detective
+I:11953;88;winner, have, promise, woman, daughter, be, rape, kill, fine, murderer, winner have, have promise, promise woman, woman daughter, daughter be, be rape, rape kill, kill fine, fine murderer
+I:11953;89;same, day, have, retire, force, same day, day have, have retire, retire force
+I:11953;90;winner, have, kill, little, girl, know, murderer, winner have, have kill, kill little, little girl, girl know, know murderer
+I:11953;91;be, s, best, film, be s, s best, best film
+I:11953;92;best, underrated, crime, thriller, best underrated, underrated crime, crime thriller
+I:11953;93;skin, tone, be, realistic, clarity, detail, be, astounding, black, level, be, deep, skin tone, tone be, be realistic, realistic clarity, clarity detail, detail be, be astounding, astounding black, black level, level be, be deep
+I:11953;94;recommend, artistic, technical, merit, recommend artistic, artistic technical, technical merit
+I:11953;95;plot, be, simple, lead, classic, confrontation, plot be, be simple, simple lead, lead classic, classic confrontation
+I:11953;96;bake, background, scene, have, high, bake background, background scene, scene have, have high
+I:11953;97;be, sure, actor, movie, have, talent, be sure, sure actor, actor movie, movie have, have talent
+I:11953;98;stand, interesting, story, be, butcher, nobody, remember, year, stand interesting, interesting story, story be, be butcher, butcher nobody, nobody remember, remember year
+I:11953;99;most, movie, think, be, good, stay, few, day, most movie, movie think, think be, be good, good stay, stay few, few day
+I:11953;100;many, good, one, stay, longer, be, brood, gram, many good, good one, one stay, stay longer, longer be, be brood, brood gram
+I:11953;101;centered, violence, violation, lure, get, better, centered violence, violence violation, violation lure, lure get, get better
+I:11953;102;movie, be, good, movie be, be good
+I:11953;103;feel, good, end, film, like, movie, strange, kind, way, feel good, good end, end film, film like, like movie, movie strange, strange kind, kind way
+I:11953;104;second, viewing, know, expect, do, haunt, be, worth, second, look, second viewing, viewing know, know expect, expect do, do haunt, haunt be, be worth, worth second, second look
+I:11953;105;shocking, twist, end, make, intriguing, movie, shocking twist, twist end, end make, make intriguing, intriguing movie
+I:11953;106;wise, be, great, movie, wise be, be great, great movie
+I:11953;107;pop, little, number, have, high, hope, film, such, talent, pop little, little number, number have, have high, high hope, hope film, film such, such talent
+I:11953;108;accomplish, goal, congratulation, accomplish goal, goal congratulation
+I:11953;109;make, bold, powerful, movie, make bold, bold powerful, powerful movie
+I:11953;110;story, keep, rivet, terrify, story keep, keep rivet, rivet terrify
+I:11953;111;ending, be, audience, have, anticipate, ending be, be audience, audience have, have anticipate
+I:11953;112;sorrow, let, feel, alive, think, tragedy, be, sorrow let, let feel, feel alive, alive think, think tragedy, tragedy be
+I:11953;113;be, interesting, sequence, such, interrogation, sexual, abuse, be, be, accuse, be interesting, interesting sequence, sequence such, such interrogation, interrogation sexual, sexual abuse, abuse be, be be, be accuse
+I:11953;114;hand, performance, amazing, cast, be, atrocious, exception, hand performance, performance amazing, amazing cast, cast be, be atrocious, atrocious exception
+I:11953;115;reason, pledge, remain, watchable, keep, mystery, motivation, feeling, intriguing, reason pledge, pledge remain, remain watchable, watchable keep, keep mystery, mystery motivation, motivation feeling, feeling intriguing
+I:11953;116;lead, believe, nature, movie, making, be, make, film, longer, think, need, be, trim, extra, bit, leave, important, aspect, lead believe, believe nature, nature movie, movie making, making be, be make, make film, film longer, longer think, think need, need be, be trim, trim extra, extra bit, bit leave, leave important, important aspect
+I:11953;117;draw, mystery, film, mesmerize, enchant, draw mystery, mystery film, film mesmerize, mesmerize enchant
+I:11953;118;be, typecast, abrasive, maverick, film, be, able, show, side, act, skill, be typecast, typecast abrasive, abrasive maverick, maverick film, film be, be able, able show, show side, side act, act skill
+I:11953;119;movie, be, delight, way, good, acting, good, slow, movie be, be delight, delight way, way good, good acting, acting good, good slow
+I:11953;120;end, be, incredible, acting, point, view, view, fit, rest, movie, be, unexpected, film, end be, be incredible, incredible acting, acting point, point view, view view, view fit, fit rest, rest movie, movie be, be unexpected, unexpected film
+I:11953;121;describe, kind, film, see, star, describe kind, kind film, film see, see star
+I:11953;122;murder, be, best, remember, great, cast, star, have, few, line, murder be, be best, best remember, remember great, great cast, cast star, star have, have few, few line
+I:11953;123;be, treat, throw, thing, be treat, treat throw, throw thing
+I:11953;124;cast, be, pure, stock, trade, stuff, fact, see, cast be, be pure, pure stock, stock trade, trade stuff, stuff fact, fact see
+I:11953;125;be, work, prize, make, worthy, craft, be work, work prize, prize make, make worthy, worthy craft
+I:11953;126;talent, be, service, talent be, be service
+I:11953;127;original, movie, light, day, be, better, interpretation, original movie, movie light, light day, day be, be better, better interpretation
+I:11953;128;penn, real, life, wife, be, convincing, mother, accept, generosity, much, older, retired, officer, penn real, real life, life wife, wife be, be convincing, convincing mother, mother accept, accept generosity, generosity much, much older, older retired, retired officer
+I:11953;129;true, fan, find, worth, view, true fan, fan find, find worth, worth view
+I:11953;130;mention, light, day, be, recommend, star, something, hidden, gem, mention light, light day, day be, be recommend, recommend star, star something, something hidden, hidden gem
+I:11953;131;audience, get, understand, sick, motivation, child, killer, audience get, get understand, understand sick, sick motivation, motivation child, child killer
+I:11953;132;direction, be, pretentious, accomplish, lot, smaller, budget, direction be, be pretentious, pretentious accomplish, accomplish lot, lot smaller, smaller budget
+I:11953;133;study, depths, madness, study depths, depths madness
+I:11953;134;deliver, performance, lifetime, obsess, cop, do, anything, catch, killer, deliver performance, performance lifetime, lifetime obsess, obsess cop, cop do, do anything, anything catch, catch killer
+I:11953;135;be, think, provoke, end, leave, stunned, mesmorize, be think, think provoke, provoke end, end leave, leave stunned, stunned mesmorize
+I:11953;136;team, stuff, finger, eye, tremendous, result, team stuff, stuff finger, finger eye, eye tremendous, tremendous result
+I:11953;137;subseqent, investigation, yield, string, similar, murder, convince, be, deal, serial, killer, have, go, undetected, subseqent investigation, investigation yield, yield string, string similar, similar murder, murder convince, convince be, be deal, deal serial, serial killer, killer have, have go, go undetected
+I:11953;138;faith, much, younger, direction, be, remarkable, behold, faith much, much younger, younger direction, direction be, be remarkable, remarkable behold
+I:11953;139;do, marvelous, job, construct, develop, film, utilize, patented, sneer, onscreen, orneryness, perfection, do marvelous, marvelous job, job construct, construct develop, develop film, film utilize, utilize patented, patented sneer, sneer onscreen, onscreen orneryness, orneryness perfection
+I:11953;140;movie, greatest, attribute, be, keep, guess, movie greatest, greatest attribute, attribute be, be keep, keep guess
+I:11953;141;go, personal, feeling, movie, have, agree, performance, retire, police, officer, be, good, go personal, personal feeling, feeling movie, movie have, have agree, agree performance, performance retire, retire police, police officer, officer be, be good
+I:11953;142;many, people, wonder, man, continue, do, stellar, performance, be, evident, matter, old, nicholson, be, be, talented, actor, many people, people wonder, wonder man, man continue, continue do, do stellar, stellar performance, performance be, be evident, evident matter, matter old, old nicholson, nicholson be, be be, be talented, talented actor
+I:11953;143;people, find, brilliant, people find, find brilliant
+I:11953;144;ending, movie, see, glimpse, beginning, be, example, sort, cosmic, irony, world, ending movie, movie see, see glimpse, glimpse beginning, beginning be, be example, example sort, sort cosmic, cosmic irony, irony world
+I:11953;145;renown, writer, apply, human, affair, renown writer, writer apply, apply human, human affair
+I:11953;146;disturbed, native, american, play, be, genuine, disturbed native, native american, american play, play be, be genuine
+I:11953;147;usual, become, character, be, play, give, outstanding, performance, usual become, become character, character be, be play, play give, give outstanding, outstanding performance
+I:11953;148;direction, be, uncluttered, focus, astute, direction be, be uncluttered, uncluttered focus, focus astute
+I:11953;149;example, note, way, little, girl, playing, swing, highway, gas, station, affect, expectation, be, come, example note, note way, way little, little girl, girl playing, playing swing, swing highway, highway gas, gas station, station affect, affect expectation, expectation be, be come
+I:11953;150;capture, high, country, atmosphere, attendant, lifestyle, most, part, keep, auteur, ambition, secondary, tell, story, capture high, high country, country atmosphere, atmosphere attendant, attendant lifestyle, lifestyle most, most part, part keep, keep auteur, auteur ambition, ambition secondary, secondary tell, tell story
+I:11953;151;kromolowski, be, true, crisp, direct, dialogue, fine, dramatic, structure, kromolowski be, be true, true crisp, crisp direct, direct dialogue, dialogue fine, fine dramatic, dramatic structure
+I:11953;152;film, be, cut, everything, be, clear, belaboring, obvious, film be, be cut, cut everything, everything be, be clear, clear belaboring, belaboring obvious
+I:11953;153;be, perfect, experienced, skepticism, be, do, be perfect, perfect experienced, experienced skepticism, skepticism be, be do
+I:11953;154;receive, mass, audience, receive mass, mass audience
+I:11953;155;be, wonder, do, kill, little, girl, give, hint, get, desert, appropriate, manner, be wonder, wonder do, do kill, kill little, little girl, girl give, give hint, hint get, get desert, desert appropriate, appropriate manner
+I:11953;156;bottom, line, fine, artistic, achievement, excellent, diversion, treat, be, feed, film, play, tiresome, predictable, manner, bottom line, line fine, fine artistic, artistic achievement, achievement excellent, excellent diversion, diversion treat, treat be, be feed, feed film, film play, play tiresome, tiresome predictable, predictable manner
+I:11953;157;take, battered, wife, child, take battered, battered wife, wife child
+I:11953;158;use, daughter, bait, murderer, flip, use daughter, daughter bait, bait murderer, murderer flip
+I:11953;159;ending, be, realistic, film, reality, be, cruel, ending be, be realistic, realistic film, film reality, reality be, be cruel
+I:11953;160;accord, interesting, direction, accord interesting, interesting direction
+I:11953;161;be, best, actor, generation, act, movie, be, typical, be best, best actor, actor generation, generation act, act movie, movie be, be typical
+I:11953;162;be, cuss, word, whole, movie, use, appropriate, time, be, suspenseful, story, set, beautiful, location, be cuss, cuss word, word whole, whole movie, movie use, use appropriate, appropriate time, time be, be suspenseful, suspenseful story, story set, set beautiful, beautiful location
+I:11953;163;movie, start, movie start
+I:11953;164;say, movie, do, leave, constant, anticipation, something, happen, say movie, movie do, do leave, leave constant, constant anticipation, anticipation something, something happen
+I:11953;165;part, movie, like, part movie, movie like
+I:11953;166;film, be, easy, keep, have, wonder, plot, exl, end, be, see, film be, be easy, easy keep, keep have, have wonder, wonder plot, plot exl, exl end, end be, be see
+I:11953;167;camera, work, inside, coup, chicken, walk, his/her, own, world, unexpected, sound, vibration, grab, attention, notice, be, poetry, highest, order, camera work, work inside, inside coup, coup chicken, chicken walk, walk his/her, his/her own, own world, world unexpected, unexpected sound, sound vibration, vibration grab, grab attention, attention notice, notice be, be poetry, poetry highest, highest order
+I:11953;168;make, fine, roast, hear, person, pick, say, make fine, fine roast, roast hear, hear person, person pick, pick say
+I:11953;169;scene, be, sublime, poetry, brief, moment, chicken, be, focus, seem, take, human, characteristic, scene be, be sublime, sublime poetry, poetry brief, brief moment, moment chicken, chicken be, be focus, focus seem, seem take, take human, human characteristic
+I:11953;170;sean, directing, film, be, triumph, many, level, sean directing, directing film, film be, be triumph, triumph many, many level
+I:11953;171;many, other, have, say, character, work, other, be, compelling, make, masterful, ensemble, film, profound, experience, ill, native, american, mind, be, weak, broken, heart, full, regret, fear, be, acute, grieving, father, have, scene, entire, movie, be, worthy, make, forget, be, actor, movie, many other, other have, have say, say character, character work, work other, other be, be compelling, compelling make, make masterful, masterful ensemble, ensemble film, film profound, profound experience, experience ill, ill native, native american, american mind, mind be, be weak, weak broken, broken heart, heart full, full regret, regret fear, fear be, be acute, acute grieving, grieving father, father have, have scene, scene entire, entire movie, movie be, be worthy, worthy make, make forget, forget be, be actor, actor movie
+I:11953;172;screenplay, stand, toe, toe, become, part, masterful, ensemble, screenplay stand, stand toe, toe toe, toe become, become part, part masterful, masterful ensemble
+I:11953;173;entire, movie, stand, testament, complicated, nature, human, existence, make, obvious, promise, be, make, be, break, entire movie, movie stand, stand testament, testament complicated, complicated nature, nature human, human existence, existence make, make obvious, obvious promise, promise be, be make, make be, be break
+I:11953;174;profound, movie, be, great, work, art, profound movie, movie be, be great, great work, work art
+I:11953;175;movie, be, depress, downer, love, movie be, be depress, depress downer, downer love
+I:11953;176;film, be, act, suspenseful, film be, be act, act suspenseful
+I:11953;177;great, small, guest, part, nicholson, be, great, great small, small guest, guest part, part nicholson, nicholson be, be great
+I:11953;178;nicholson, play, stark, earnestness, nicholson play, play stark, stark earnestness
+I:11953;179;have, everything, want, simple, happy, existience, have everything, everything want, want simple, simple happy, happy existience
+I:11953;180;film, end, be, startling, film end, end be, be startling
+I:11953;181;gloomy, effective, cinematogrophy, combine, fine, performance, make, film, worth, see, gloomy effective, effective cinematogrophy, cinematogrophy combine, combine fine, fine performance, performance make, make film, film worth, worth see
+I:11953;182;be, real, dissapointment, wife, be real, real dissapointment, dissapointment wife
+I:11953;183;be, lover, buy, film, see, be lover, lover buy, buy film, film see
+I:11953;184;film, be, good, get, end, film be, be good, good get, get end
+I:11953;185;third, directorial, project, portend, promising, future, camera, third directorial, directorial project, project portend, portend promising, promising future, future camera
+I:11953;186;film, draw, criticism, deliberate, pace, scene, add, brushstroke, human, canvas, develop, character, film draw, draw criticism, criticism deliberate, deliberate pace, pace scene, scene add, add brushstroke, brushstroke human, human canvas, canvas develop, develop character
+I:11953;187;penn, keep, film, intriguing, give, subtle, clue, cast, suspicion, numerous, character, possible, murder, suspect, penn keep, keep film, film intriguing, intriguing give, give subtle, subtle clue, clue cast, cast suspicion, suspicion numerous, numerous character, character possible, possible murder, murder suspect
+I:11953;188;nicholson, be, moody, sardonic, best, film, nicholson be, be moody, moody sardonic, sardonic best, best film
+I:11953;189;have, innate, ability, play, complex, offbeat, character, perfection, believable, be, fringe, mental, instability, have innate, innate ability, ability play, play complex, complex offbeat, offbeat character, character perfection, perfection believable, believable be, be fringe, fringe mental, mental instability
+I:11953;190;take, unglamorous, role, portray, hard, work, lower, class, mother, give, tremendous, performance, take unglamorous, unglamorous role, role portray, portray hard, hard work, work lower, lower class, class mother, mother give, give tremendous, tremendous performance
+I:11953;191;be, good, film, mediocre, story, promising, out, be good, good film, film mediocre, mediocre story, story promising, promising out
+I:11953;192;junkie, be, bore, enjoy, good, character, study, be, look, junkie be, be bore, bore enjoy, enjoy good, good character, character study, study be, be look
+I:11953;193;way, do, take, most, motion, picture, way do, do take, take most, most motion, motion picture
+I:11953;194;be, psychological, drama, deal, obsession, be psychological, psychological drama, drama deal, deal obsession
+I:11953;195;obsession, destroy, friendship, obsession destroy, destroy friendship
+I:11953;196;story, take, major, twist, end, feel, have, be, leave, hang, story take, take major, major twist, twist end, end feel, feel have, have be, be leave, leave hang
+I:11953;197;be, type, story, appeal, everyone, be, solid, performance, carry, most, story, be type, type story, story appeal, appeal everyone, everyone be, be solid, solid performance, performance carry, carry most, most story
+I:11953;198;movie, have, ingredient, great, film, great, cast, score, director, movie have, have ingredient, ingredient great, great film, film great, great cast, cast score, score director
+I:11953;199;great, performance, great performance
+I:11953;200;opportunity, lose, great, cast, opportunity lose, lose great, great cast
+I:11953;201;great, performance, cocky, police, detective, determine, close, case, great performance, performance cocky, cocky police, police detective, detective determine, determine close, close case
+I:11953;202;keep, movie, entertaining, keep movie, movie entertaining
+I:11953;203;do, good, job, act, problem, be, story, be, finale, do good, good job, job act, act problem, problem be, be story, story be, be finale
+I:11953;204;relationship, female, bartender, daughter, develop, deteriorate, set, relationship female, female bartender, bartender daughter, daughter develop, develop deteriorate, deteriorate set
+I:11953;205;relationship, admire, be, shatter, mistrust, killer, be, expose, relationship admire, admire be, be shatter, shatter mistrust, mistrust killer, killer be, be expose
+I:11953;206;recommend, see, skip, pledge, third, film, recommend see, see skip, skip pledge, pledge third, third film
+I:11953;207;director, lament, gun, culture, contemporary, cinema, director lament, lament gun, gun culture, culture contemporary, contemporary cinema
+I:11953;208;be, happy, end, movie, be happy, happy end, end movie
+I:11953;209;have, disapointing, direct, style, have disapointing, disapointing direct, direct style
+I:11953;210;enjoy, film, recommend, viewer, appreciate, fine, acting, storytelling, enjoy film, film recommend, recommend viewer, viewer appreciate, appreciate fine, fine acting, acting storytelling
+I:11953;211;do, expect, easy, answer, end, warm, heart, do expect, expect easy, easy answer, answer end, end warm, warm heart
+I:11953;212;be, talented, dude, be talented, talented dude
+I:11953;213;direct, be, film, act, direct be, be film, film act
+I:11953;214;lot, lot, time, lot lot, lot time
+I:11953;215;love, do, do, love do, do do
+I:11953;216;use, daughter, bait, catch, killer, use daughter, daughter bait, bait catch, catch killer
+I:11953;217;acting, be, good, be, interested, half, acting be, be good, good be, be interested, interested half
+I:11953;218;prove, be, worthwhile, director, set, thing, interesting, way, performance, prove be, be worthwhile, worthwhile director, director set, set thing, thing interesting, interesting way, way performance
+I:11953;219;be, other, camera, be other, other camera
+I:11953;220;want, watch, great, director, watch, flick, want watch, watch great, great director, director watch, watch flick
+I:11953;221;trailer, mislead, viewer, major, way, trailer mislead, mislead viewer, viewer major, major way
+I:11953;222;look, dramatic, core, play, find, heartfelt, homage, glorious, masterpiece, look dramatic, dramatic core, core play, play find, find heartfelt, heartfelt homage, homage glorious, glorious masterpiece
+I:11953;223;see, concept, truth, appear, nakedness, be, elusive, idea, make, feel, safe, see concept, concept truth, truth appear, appear nakedness, nakedness be, be elusive, elusive idea, idea make, make feel, feel safe
+I:11953;224;be, able, see, part, be, be able, able see, see part, part be
+I:11953;225;word, have, such, hypnotic, power, fascinating, charm, seduce, mass, dawn, mankind, word have, have such, such hypnotic, hypnotic power, power fascinating, fascinating charm, charm seduce, seduce mass, mass dawn, dawn mankind
+I:11953;226;intelligent, film, year, great, audience, intelligent film, film year, year great, great audience
+I:11953;227;mesmerizing, performance, excellent, work, camera, mesmerizing performance, performance excellent, excellent work, work camera
+I:11953;228;didnt, enjoy, first, time, watch, didnt enjoy, enjoy first, first time, time watch
+I:11953;229;guess, real, good, movie, be, lot, bettter, 2nd, time, guess real, real good, good movie, movie be, be lot, lot bettter, bettter 2nd, 2nd time
+I:11953;230;get, see, lot, star, brief, role, picture, get see, see lot, lot star, star brief, brief role, role picture
+I:11953;231;think, film, have, certain, unique, feature, think film, film have, have certain, certain unique, unique feature
+I:11953;232;certain, twist, end, film, put, grin, face, mek, think, jack, nicholson, go, crazy, certain twist, twist end, end film, film put, put grin, grin face, face mek, mek think, think jack, jack nicholson, nicholson go, go crazy
+I:11953;233;recomend, movie, recomend movie
+I:11953;234;enjoy, more, police, movie, enjoy more, more police, police movie
+I:11953;235;do, incredible, job, act, be, worthy, want, movie, be, do incredible, incredible job, job act, act be, be worthy, worthy want, want movie, movie be
+I:11953;236;only, reason, give, movie, star, be, superb, acting, entire, cast, only reason, reason give, give movie, movie star, star be, be superb, superb acting, acting entire, entire cast
+I:11953;237;be, something, similar, find, review, agree, performance, be, outstanding, be something, something similar, similar find, find review, review agree, agree performance, performance be, be outstanding
+I:11953;238;performance, be, outstanding, be, something, have, use, performance be, be outstanding, outstanding be, be something, something have, have use
+I:11953;239;believe, be, good, movie, wont, be, enjoyable, one, be, wait, police/action/drama, movie, believe be, be good, good movie, movie wont, wont be, be enjoyable, enjoyable one, one be, be wait, wait police/action/drama, police/action/drama movie
+I:11953;240;recommend, movie, one, like, psychological, dramas, recommend movie, movie one, one like, like psychological, psychological dramas
+I:11953;241;think, be, best, thing, movie, be, something, do, expect, be, new, think be, be best, best thing, thing movie, movie be, be something, something do, do expect, expect be, be new
+I:11953;242;keyword, be, new, doubt, unusual, end, unusual, movie, keyword be, be new, new doubt, doubt unusual, unusual end, end unusual, unusual movie
+I:11953;243;be, good, consider, last, year, have, be, watch, movie, seem, more, remake, old, one, be good, good consider, consider last, last year, year have, have be, be watch, watch movie, movie seem, seem more, more remake, remake old, old one
+I:11953;244;pledge, be, new, unusual, movie, watch, pledge be, be new, new unusual, unusual movie, movie watch
+I:11953;245;play, cop, such, way, make, believe, be, be, suppose, be, play cop, cop such, such way, way make, make believe, believe be, be be, be suppose, suppose be
+I:11953;246;have, wonder, immerse, do, have wonder, wonder immerse, immerse do
+I:11953;247;be, first, movie, style, do, take, get, use, be, worth, be first, first movie, movie style, style do, do take, take get, get use, use be, be worth
+I:11953;248;build, suspense, much, same, way, hitchcock, do, build suspense, suspense much, much same, same way, way hitchcock, hitchcock do
+I:11953;249;be, few, scene, have, do, show, master, touch, be few, few scene, scene have, have do, do show, show master, master touch
+I:11953;250;be, first, excellent, film, year, be first, first excellent, excellent film, film year
+I:11953;251;be, stunning, bolt, filmaking, indian, director, be, act, be stunning, stunning bolt, bolt filmaking, filmaking indian, indian director, director be, be act
+I:11953;252;penn, bring, intricate, sprwaling, thriller, story, retire, detective, play, calm, fierceness, make, promise, mother, child, be, kill, find, killer, penn bring, bring intricate, intricate sprwaling, sprwaling thriller, thriller story, story retire, retire detective, detective play, play calm, calm fierceness, fierceness make, make promise, promise mother, mother child, child be, be kill, kill find, find killer
+I:11953;253;lead, journey, woman, life, lead journey, journey woman, woman life
+I:11953;254;be, exceptional, best, recent, role, be exceptional, exceptional best, best recent, recent role
+I:11953;255;like, plot, movie, be, slowest, move, one, have, see, while, like plot, plot movie, movie be, be slowest, slowest move, move one, one have, have see, see while
+I:11953;256;movie, be, good, movie be, be good
+I:11953;257;other, story, be, interesting, other story, story be, be interesting
+I:11953;258;character, be, such, good, cop, audience, notice, character be, be such, such good, good cop, cop audience, audience notice
+I:11953;259;be, chase, serial, killer, be chase, chase serial, serial killer
+I:11953;260;have, daughter, fit, distinct, taste, young, girl, killer, have, have daughter, daughter fit, fit distinct, distinct taste, taste young, young girl, girl killer, killer have
+I:11953;261;moral, story, be, respect, elder, opinion, belief, moral story, story be, be respect, respect elder, elder opinion, opinion belief
+I:11953;262;couldnt, take, eye, fof, screen, couldnt take, take eye, eye fof, fof screen
+I:11953;263;everything, be, set, everything be, be set
+I:11953;264;be, reallya, smart, flick, people, know, thinm, watch, be reallya, reallya smart, smart flick, flick people, people know, know thinm, thinm watch
+I:11953;265;storyline, be, good, be, something, happen, first, hour, half, storyline be, be good, good be, be something, something happen, happen first, first hour, hour half
+I:11953;266;acting, be, fine, story, generate, plenty, dramatic, tension, movie, fizzle, acting be, be fine, fine story, story generate, generate plenty, plenty dramatic, dramatic tension, tension movie, movie fizzle
+I:11953;267;see, preview, movie, be, excite, see preview, preview movie, movie be, be excite
+I:11953;268;film, cause, debate, year, old, son, find, pointless, film cause, cause debate, debate year, year old, old son, son find, find pointless
+I:11953;269;make, last, promise, use, skill, develop, many, year, be, convince, point, obsession, be, make last, last promise, promise use, use skill, skill develop, develop many, many year, year be, be convince, convince point, point obsession, obsession be
+I:11953;270;everything, be, set, ultimate, triumph, front, peer, woman, love, family, make, promise, everything be, be set, set ultimate, ultimate triumph, triumph front, front peer, peer woman, woman love, love family, family make, make promise
+I:11953;271;be, perfect, end, existential, point, view, be perfect, perfect end, end existential, existential point, point view
+I:11953;272;agree, most, other, reviewer, performance, direction, agree most, most other, other reviewer, reviewer performance, performance direction
+I:11953;273;be, become, best, be become, become best
+I:11953;274;pledge, open, mumble, begin, unfold, flashback, pledge open, open mumble, mumble begin, begin unfold, unfold flashback
+I:11953;275;eve, retirement, young, girl, be, find, murder, small, neighboring, town, eve retirement, retirement young, young girl, girl be, be find, find murder, murder small, small neighboring, neighboring town
+I:11953;276;be, greatest, actor, show, be, confident, talented, director, be greatest, greatest actor, actor show, show be, be confident, confident talented, talented director
+I:11953;277;set, scenario, allow, draw, own, conclusion, represent, set scenario, scenario allow, allow draw, draw own, own conclusion, conclusion represent
+I:11953;278;be, nothing, flashy, film, cinematographer, create, subtle, miasma, complement, intelligent, subtlety, script, be nothing, nothing flashy, flashy film, film cinematographer, cinematographer create, create subtle, subtle miasma, miasma complement, complement intelligent, intelligent subtlety, subtlety script
+I:11953;279;film, be, assure, director, lead, film, place, mainstream, film, dare, venture, film be, be assure, assure director, director lead, lead film, film place, place mainstream, mainstream film, film dare, dare venture
+I:11953;280;make, small, budget, pledge, be, pepper, familiar, face, fill, support, role, make small, small budget, budget pledge, pledge be, be pepper, pepper familiar, familiar face, face fill, fill support, support role
+I:11953;281;pledge, be, master, class, act, involve, pledge be, be master, master class, class act, act involve
+I:11953;282;old, homily, big, thing, come, small, package, be, perfect, description, small, part, father, miss, girl, old homily, homily big, big thing, thing come, come small, small package, package be, be perfect, perfect description, description small, small part, part father, father miss, miss girl
+I:11953;283;minute, screen, time, deliver, emotional, monologue, be, heartbreaking, unforgettable, minute screen, screen time, time deliver, deliver emotional, emotional monologue, monologue be, be heartbreaking, heartbreaking unforgettable
+I:11953;284;course, be, greatest, living, actor, course be, be greatest, greatest living, living actor
+I:11953;285;eclectic, mesmerizing, body, work, have, have, persona, inject, role, eclectic mesmerizing, mesmerizing body, body work, work have, have have, have persona, persona inject, inject role
+I:11953;286;see, film, year, recall, frustrated, be, see film, film year, year recall, recall frustrated, frustrated be
+I:11953;287;film, enjoy, wide, release, commercial, success, film enjoy, enjoy wide, wide release, release commercial, commercial success
+I:11953;288;be, surprising, shocking, unsatisfying, be surprising, surprising shocking, shocking unsatisfying
+I:11953;289;be, film, demand, attention, be film, film demand, demand attention
+I:11953;290;mystery, end, do, justice, intent, mystery end, end do, do justice, justice intent
+I:11953;291;hollywood, ending, have, see, year, hollywood ending, ending have, have see, see year
+I:11953;292;defy, audience, expectation, frustrate, many, see, few, argue, be, unforgettable, defy audience, audience expectation, expectation frustrate, frustrate many, many see, see few, few argue, argue be, be unforgettable
+I:11953;293;be, unforgettable, hopeless, haunting, film, boast, finest, performance, be unforgettable, unforgettable hopeless, hopeless haunting, haunting film, film boast, boast finest, finest performance
+I:11953;294;assure, pledge, be, masterpiece, forget, assure pledge, pledge be, be masterpiece, masterpiece forget
+I:11953;295;underrated, powerful, film, attention, be, rivet, face, let, see, troubled, mind, obsession, keep, pledge, mourning, mother, underrated powerful, powerful film, film attention, attention be, be rivet, rivet face, face let, let see, see troubled, troubled mind, mind obsession, obsession keep, keep pledge, pledge mourning, mourning mother
+I:11953;296;great, investment, stand, many, viewing, great investment, investment stand, stand many, many viewing
+I:11953;297;be, avid, collector, work, be avid, avid collector, collector work
+I:11953;298;have, date, film, have, do, have date, date film, film have, have do
+I:11953;299;be, superior, collaboration, be superior, superior collaboration
+I:11953;300;performance, be, solid, off, kilter, performance be, be solid, solid off, off kilter
+I:11953;301;like, come, movie, warm, glowing, fuzzy, feeling, give, wide, berth, like come, come movie, movie warm, warm glowing, glowing fuzzy, fuzzy feeling, feeling give, give wide, wide berth
+I:11953;302;happy, end, have, betray, interested, novel, have, bleaker, ending, happy end, end have, have betray, betray interested, interested novel, novel have, have bleaker, bleaker ending
+I:11953;303;pledge, be, more, character, study, be, cop/crime, drama, be, good, thing, pledge be, be more, more character, character study, study be, be cop/crime, cop/crime drama, drama be, be good, good thing
+I:11953;304;be, action, film, be, more, good, man, do, anything, live, promise, have, make, be action, action film, film be, be more, more good, good man, man do, do anything, anything live, live promise, promise have, have make
+I:11953;305;make, pledge, mother, victim, find, murderer, tell, black, make, promise, keep, make pledge, pledge mother, mother victim, victim find, find murderer, murderer tell, tell black, black make, make promise, promise keep
+I:11953;306;watch, film, keep, open, mind, watch film, film keep, keep open, open mind
+I:11953;307;many, star, make, cameo, appearance, be, nice, see, cameo, be, show, contribute, film, success, many star, star make, make cameo, cameo appearance, appearance be, be nice, nice see, see cameo, cameo be, be show, show contribute, contribute film, film success
+I:11953;308;everyone, be, believable, find, star, hunting, lose, brilliant, act, performance, everyone be, be believable, believable find, find star, star hunting, hunting lose, lose brilliant, brilliant act, act performance
+I:11953;309;movie, make, upset, movie make, make upset
+I:11953;310;have, digest, have, watch, realize, have, see, something, special, have, make, think, have digest, digest have, have watch, watch realize, realize have, have see, see something, something special, special have, have make, make think
+I:11953;311;nicholson, avoid, top, stuff, be, nicholson avoid, avoid top, top stuff, stuff be
+I:11953;312;juxtaposition, splendorous, pristine, background, seedy, violent, civilization, move, make, sincere, accurate, depiction, much, modern, american, juxtaposition splendorous, splendorous pristine, pristine background, background seedy, seedy violent, violent civilization, civilization move, move make, make sincere, sincere accurate, accurate depiction, depiction much, much modern, modern american
+I:11953;313;performance, be, excellent, young, boy, discover, murder, girl, opening, scene, performance be, be excellent, excellent young, young boy, boy discover, discover murder, murder girl, girl opening, opening scene
+I:11953;314;be, good, work, excellent, actor, be good, good work, work excellent, excellent actor
+I:11953;315;spite, moment, impressive, acting, cinematography, spite moment, moment impressive, impressive acting, acting cinematography
+I:11953;316;intelligent, unintelligent, friend, intelligent unintelligent, unintelligent friend
+I:11953;317;start, interesting, premise, be, set, surmise, be, go, thing, seem, promising, sit, story, develop, start interesting, interesting premise, premise be, be set, set surmise, surmise be, be go, go thing, thing seem, seem promising, promising sit, sit story, story develop
+I:11953;318;performance, be, good, performance be, be good
+I:11953;319;give, keel, performance, restrain, natural, essence, give, schizod, personality, character, give keel, keel performance, performance restrain, restrain natural, natural essence, essence give, give schizod, schizod personality, personality character
+I:11953;320;let, story, unfold, give, be, surprise, happen, next, let story, story unfold, unfold give, give be, be surprise, surprise happen, happen next
+I:11953;321;virtuoso, performance, virtuoso performance
+I:11953;322;real, creepy, confession, artful, turn, director, take, beaten, path, real creepy, creepy confession, confession artful, artful turn, turn director, director take, take beaten, beaten path
+I:11953;323;like, film, recommend, like film, film recommend
+I:11953;324;story, be, base, earlier, film, light, day, come, year, story be, be base, base earlier, earlier film, film light, light day, day come, come year
+I:11953;325;production, value, be, update, version, production value, value be, be update, update version
+I:11953;326;win, movie, leave, anything, many, remember, win movie, movie leave, leave anything, anything many, many remember
+I:11953;327;know, nothing, pledge, see, best, way, see, movie, know nothing, nothing pledge, pledge see, see best, best way, way see, see movie
+I:11953;328;deserve, cudo, take, existential, story, develop, beautiful, believable, film, deserve cudo, cudo take, take existential, existential story, story develop, develop beautiful, beautiful believable, believable film
+I:11953;329;portrayal, sympathetic, character, go, deeper, deeper, quest, honor, promise, keep, film, go, portrayal sympathetic, sympathetic character, character go, go deeper, deeper deeper, deeper quest, quest honor, honor promise, promise keep, keep film, film go
+I:11953;330;many, movie, pander, audience, need, neat, pat, conclusion, reality, life, be, like, many movie, movie pander, pander audience, audience need, need neat, neat pat, pat conclusion, conclusion reality, reality life, life be, be like
+I:11953;331;elegant, movie, do, cop, end, elegant movie, movie do, do cop, cop end
+I:11953;332;story, be, intriguing, character, be, realistic, mundane, story be, be intriguing, intriguing character, character be, be realistic, realistic mundane
+I:11953;333;twist, call, work, twist call, call work
+I:11953;334;be, shoot, kind, angle, be shoot, shoot kind, kind angle
+I:11953;335;up, shot, symbolic, image, music, be, up shot, shot symbolic, symbolic image, image music, music be
+I:11953;336;be, good, smart, film, do, slide, zany, face, be good, good smart, smart film, film do, do slide, slide zany, zany face
+I:11953;337;cast, character, set, storyline, indicate, fair, amount, promise, movie, cast character, character set, set storyline, storyline indicate, indicate fair, fair amount, amount promise, promise movie
+I:11953;338;install, end, movie, play, install end, end movie, movie play
+I:11953;339;first, time, get, look, be, year, outrageous, hit, comedy, fast, first time, time get, get look, look be, be year, year outrageous, outrageous hit, hit comedy, comedy fast
+I:11953;340;be, great, breakthrough, performance, be great, great breakthrough, breakthrough performance
+I:11953;341;pledge, be, latest, directorial, tour, force, previous, effort, be, heavy, stuff, pledge be, be latest, latest directorial, directorial tour, tour force, force previous, previous effort, effort be, be heavy, heavy stuff
+I:11953;342;last, day, body, murder, little, girl, be, discover, last day, day body, body murder, murder little, little girl, girl be, be discover
+I:11953;343;be, best, role, time, be, support, remarkable, cast, be best, best role, role time, time be, be support, support remarkable, remarkable cast
+I:11953;344;player, have, scene, bring, power, movie, have, have, player have, have scene, scene bring, bring power, power movie, movie have, have have
+I:11953;345;movie, know, life, be, few, pat, answer, movie know, know life, life be, be few, few pat, pat answer
+I:11953;346;see, muse, import, movie, have, determine, be, consummate, actor, see muse, muse import, import movie, movie have, have determine, determine be, be consummate, consummate actor
+I:11953;347;sure, be, ideal, sure be, be ideal
+I:11953;348;character, embark, personal, mission, find, killer, promise, make, character embark, embark personal, personal mission, mission find, find killer, killer promise, promise make
+I:11953;349;form, win, most, time, form win, win most, most time
+I:11953;350;term, accomplishment, be, best, work, director, term accomplishment, accomplishment be, be best, best work, work director
+I:11953;351;story, be, flesh, amazing, number, brilliant, performance, smaller, role, story be, be flesh, flesh amazing, amazing number, number brilliant, brilliant performance, performance smaller, smaller role
+I:11953;352;movie, be, brilliant, movie be, be brilliant
+I:11953;353;be, opinion, best, mystery, movie, time, be opinion, opinion best, best mystery, mystery movie, movie time
+I:11953;354;clue, be, subtle, film, manage, discover, be, keen, be, satisfy, end, know, have, crack, case, clue be, be subtle, subtle film, film manage, manage discover, discover be, be keen, keen be, be satisfy, satisfy end, end know, know have, have crack, crack case
+I:11953;355;say, pay, attention, detail, director, have, show, be, leave, unforgettable, fascinating, film, say pay, pay attention, attention detail, detail director, director have, have show, show be, be leave, leave unforgettable, unforgettable fascinating, fascinating film
+I:11953;356;be, get, movie, fellow, be get, get movie, movie fellow
+I:11953;357;be, flop, earth, get, mile, be, best, movie, come, be flop, flop earth, earth get, get mile, mile be, be best, best movie, movie come
+I:11953;358;give, oscar, caliber, performance, give oscar, oscar caliber, caliber performance
+I:11953;359;ending, be, unusual, think, be, interesting, ending be, be unusual, unusual think, think be, be interesting
+I:11953;360;picture, be, excellent, sound, be, ok, most, movie, be, dialogue, picture be, be excellent, excellent sound, sound be, be ok, ok most, most movie, movie be, be dialogue
+I:11953;361;enjoy, second, time, enjoy second, second time
+I:11953;362;stop, thrill, ride, silence, lambs, bone, stop thrill, thrill ride, ride silence, silence lambs, lambs bone
+I:11953;363;movie, be, thriller, be, more, film, noir, movie be, be thriller, thriller be, be more, more film, film noir
+I:11953;364;know, film, noir, consist, be, able, appreciate, movie, be, know film, film noir, noir consist, consist be, be able, able appreciate, appreciate movie, movie be
+I:11953;365;do, get, wrong, way, be, film, flawless, do get, get wrong, wrong way, way be, be film, film flawless
+I:11953;366;know, be, go, see, appreciate, end, know be, be go, go see, see appreciate, appreciate end
+I:11953;367;sean, do, great, job, make, film, sean do, do great, great job, job make, make film
+I:11953;368;want, make, film, be, proud, great, artistic, value, want make, make film, film be, be proud, proud great, great artistic, artistic value
+I:11953;369;be, more, watch, be more, more watch
+I:11953;370;pledge, be, great, film, noir, few, thrill, enrich, movie, pledge be, be great, great film, film noir, noir few, few thrill, thrill enrich, enrich movie
+I:11953;371;movie, point, be, solid, half, star, film, be, happy, character, have, feeling, everything, be, go, work, end, be, content, movie point, point be, be solid, solid half, half star, star film, film be, be happy, happy character, character have, have feeling, feeling everything, everything be, be go, go work, work end, end be, be content
+I:11953;372;coax, incredible, performance, actor, be, be, commend, coax incredible, incredible performance, performance actor, actor be, be be, be commend
+I:11953;373;be, great, movie, be great, great movie
+I:11953;374;have, watch, several, time, watch, have watch, watch several, several time, time watch
+I:11953;375;be, favorite, actor, be favorite, favorite actor
+I:11953;376;connect, viewer, personal, way, share, emotion, experience, character, audience, connect viewer, viewer personal, personal way, way share, share emotion, emotion experience, experience character, character audience
+I:11953;377;be, familiar, bait, be familiar, familiar bait
+I:11953;378;be, time, be time
+I:11953;379;say, have, nice, twist, do, follow, typical, parameter, genre, be, refreshing, say have, have nice, nice twist, twist do, do follow, follow typical, typical parameter, parameter genre, genre be, be refreshing
+I:11953;380;be, engrossing, film, take, dark, journey, soul, soul, retire, detective, seek, justice, believe, be, serve, same, time, battle, inner, demon, loneliness, obsession, be engrossing, engrossing film, film take, take dark, dark journey, journey soul, soul soul, soul retire, retire detective, detective seek, seek justice, justice believe, believe be, be serve, serve same, same time, time battle, battle inner, inner demon, demon loneliness, loneliness obsession
+I:11953;381;be, ability, be, character, visible, effort, act, same, time, pull, viewer, world, have, create, be ability, ability be, be character, character visible, visible effort, effort act, act same, same time, time pull, pull viewer, viewer world, world have, have create
+I:11953;382;manage, offer, powerful, performance, worthy, award, manage offer, offer powerful, powerful performance, performance worthy, worthy award
+I:11953;383;prove, be, excellent, director, do, wonderful, job, camera, be, actor, director, visual, cinematography, be, top, class, scenery, breathtaking, allow, time, linger, inan, meditative, eye, prove be, be excellent, excellent director, director do, do wonderful, wonderful job, job camera, camera be, be actor, actor director, director visual, visual cinematography, cinematography be, be top, top class, class scenery, scenery breathtaking, breathtaking allow, allow time, time linger, linger inan, inan meditative, meditative eye
+I:11953;384;score, be, haunt, complement, scene, score be, be haunt, haunt complement, complement scene
+I:11953;385;amount, top, actor, small, support, role, be, interesting, add, lot, weight, film, short, act, scene, character, psychologist, offer, viewer, first, hint, tortured, existence, memorable, scene, amount top, top actor, actor small, small support, support role, role be, be interesting, interesting add, add lot, lot weight, weight film, film short, short act, act scene, scene character, character psychologist, psychologist offer, offer viewer, viewer first, first hint, hint tortured, tortured existence, existence memorable, memorable scene
+I:11953;386;be, excellent, underrated, film, be, feast, eye, soul, be, add, collection, cinema, lover, be excellent, excellent underrated, underrated film, film be, be feast, feast eye, eye soul, soul be, be add, add collection, collection cinema, cinema lover
+I:11953;387;thriller, restrained, performance, obsessive, detective, be, noble, melancholy, loner, fascinating, flaw, thriller restrained, restrained performance, performance obsessive, obsessive detective, detective be, be noble, noble melancholy, melancholy loner, loner fascinating, fascinating flaw
+I:11953;388;casting, be, canny, make, judge, use, saturnine, feral, feature, put, pivotal, role, casting be, be canny, canny make, make judge, judge use, use saturnine, saturnine feral, feral feature, feature put, put pivotal, pivotal role
+I:11953;389;killer, masterful, version, killer masterful, masterful version
+I:11953;390;leave, haunt, impression, leave haunt, haunt impression
+I:11953;391;easy, get, wrap, film, easy get, get wrap, wrap film
+I:11953;392;classic, film, noir, unorthodox, grim, satisfy, classic film, film noir, noir unorthodox, unorthodox grim, grim satisfy
+I:11953;393;do, excellent, job, nicholson, givesa, understate, performance, do excellent, excellent job, job nicholson, nicholson givesa, givesa understate, understate performance
+I:11953;394;previous, work, be, study, human, being, strength, weakness, flaw, previous work, work be, be study, study human, human being, being strength, strength weakness, weakness flaw
+I:11953;395;photograph, be, ambiguous, downbeat, portrayal, good, man, obsess, fulfil, promise, unable, let, go, past, attempt, give, life, meaning, photograph be, be ambiguous, ambiguous downbeat, downbeat portrayal, portrayal good, good man, man obsess, obsess fulfil, fulfil promise, promise unable, unable let, let go, go past, past attempt, attempt give, give life, life meaning
+I:11953;396;jack, nicholson, collaborate, excellent, deliver, finest, performance, subtle, portrayal, good, man, try, keep, promise, personal, cost, jack nicholson, nicholson collaborate, collaborate excellent, excellent deliver, deliver finest, finest performance, performance subtle, subtle portrayal, portrayal good, good man, man try, try keep, keep promise, promise personal, personal cost
+I:11953;397;be, type, feel, good, movie, such, good, get, win, last, best, actor, be, opinion, superior, movie, superior, performance, haunting, movie, send, bed, faith, human, spirit, restore, make, think, stay, longer, typical, fare, be type, type feel, feel good, good movie, movie such, such good, good get, get win, win last, last best, best actor, actor be, be opinion, opinion superior, superior movie, movie superior, superior performance, performance haunting, haunting movie, movie send, send bed, bed faith, faith human, human spirit, spirit restore, restore make, make think, think stay, stay longer, longer typical, typical fare
+I:11953;398;excellent, be, support, cast, include, cast, type, dowdy, single, mother, excellent be, be support, support cast, cast include, include cast, cast type, type dowdy, dowdy single, single mother
+I:11953;399;be, disturbing, film, be, film, praise, be, direct, local, hero, beautiful, cinematography, be disturbing, disturbing film, film be, be film, film praise, praise be, be direct, direct local, local hero, hero beautiful, beautiful cinematography
+I:11953;400;indian, allow, actor, shine, indian allow, allow actor, actor shine
+I:11953;401;be, be, concerned, finest, character, actor, add, resume, title, great, young, film, director, recommend, intelligent, movie, fly, many, people, head, be be, be concerned, concerned finest, finest character, character actor, actor add, add resume, resume title, title great, great young, young film, film director, director recommend, recommend intelligent, intelligent movie, movie fly, fly many, many people, people head
+I:11953;402;3rddirect, job, be, outstanding, similiar, crossingguard, 3rddirect job, job be, be outstanding, outstanding similiar, similiar crossingguard
+I:11953;403;do, perfect, job, role, do perfect, perfect job, job role
+I:11953;404;beautiful, cinematography, thoughtful, editing, stunning, acting, beautiful cinematography, cinematography thoughtful, thoughtful editing, editing stunning, stunning acting
+I:11953;405;review, mention, way, story, end, review mention, mention way, way story, story end
+I:11953;406;ending, be, lift, movie, *, good, bracket, *, damn, powerful, category, ending be, be lift, lift movie, movie *, * good, good bracket, bracket *, * damn, damn powerful, powerful category
+I:11953;407;tell, do, resort, formula, grip, end, linger, mind, tell do, do resort, resort formula, formula grip, grip end, end linger, linger mind
+I:11953;408;mean, preview, such, think, pledge, be, go, be, good, movie, mean preview, preview such, such think, think pledge, pledge be, be go, go be, be good, good movie
+I:11953;409;go, see, pledge, good, director, excellent, cast, go see, see pledge, pledge good, good director, director excellent, excellent cast
+I:11953;410;be, best, do, be best, best do
+I:11953;411;acting, be, superb, story, be, move, acting be, be superb, superb story, story be, be move
+I:11953;412;do, great, job, film, do great, great job, job film
+I:11953;413;be, happy, tale, be, great, be happy, happy tale, tale be, be great
+I:11953;414;be, look, serial, killer, film, move, realistic, fashion, non, be look, look serial, serial killer, killer film, film move, move realistic, realistic fashion, fashion non
+I:11953;415;mainstream, plot, element, pledge, deliver, mainstream plot, plot element, element pledge, pledge deliver
+I:11953;416;crime, evidence, be, hard, obtain, investigation, lead, be, miniscule, most, real, crime evidence, evidence be, be hard, hard obtain, obtain investigation, investigation lead, lead be, be miniscule, miniscule most, most real
+I:11953;417;film, realism, be, make, good, film realism, realism be, be make, make good
+I:11953;418;film, be, closer, real, film be, be closer, closer real
+I:11953;419;end, annoy, love, end annoy, annoy love
+I:11953;420;film, do, play, realism, film do, do play, play realism
+I:11953;421;be, good, character, device, do, see, do, be good, good character, character device, device do, do see, see do
+I:11953;422;be, original, movie, stay, rational, ground, be original, original movie, movie stay, stay rational, rational ground
+I:11953;423;be, touching, film, be touching, touching film
+I:11953;424;touching, journey, darker, crossing, life, do, go, touching journey, journey darker, darker crossing, crossing life, life do, do go
+I:11953;425;be, good, movie, reservation, hate, anything, less, mainstream, murder, mystery, be good, good movie, movie reservation, reservation hate, hate anything, anything less, less mainstream, mainstream murder, murder mystery
+I:11953;426;local, critic, coin, trilogy, anguish, brilliant, review, local critic, critic coin, coin trilogy, trilogy anguish, anguish brilliant, brilliant review
+I:11953;427;be, ravage, story, honest, man, slow, descent, madness, be ravage, ravage story, story honest, honest man, man slow, slow descent, descent madness
+I:11953;428;flow, life, continue, undisturbed, flow life, life continue, continue undisturbed
+I:11953;429;own, visual, sensibility, be, astounding, have, be, indian, own visual, visual sensibility, sensibility be, be astounding, astounding have, have be, be indian
+I:11953;430;special, bravo, cinematographer, entire, support, cast, special bravo, bravo cinematographer, cinematographer entire, entire support, support cast
+I:11953;431;be, beautiful, soul, be beautiful, beautiful soul
+I:11953;432;be, great, message, movie, stranger, kidnapping, be great, great message, message movie, movie stranger, stranger kidnapping
+I:11953;433;make, promise, girl, mother, get, bottom, quit, find, person, kill, little, girl, make promise, promise girl, girl mother, mother get, get bottom, bottom quit, quit find, find person, person kill, kill little, little girl
+I:11953;434;keep, least, try, promise, be, retire, continue, search, person, kill, little, girl, keep least, least try, try promise, promise be, be retire, retire continue, continue search, search person, person kill, kill little, little girl
+I:11953;435;do, recommend, movie, predict, do recommend, recommend movie, movie predict
+I:11953;436;great, film, man, great film, film man
+I:11953;437;be, real, life, turn, leave, scream, be real, real life, life turn, turn leave, leave scream
+I:11953;438;have, recommend, movie, several, people, do, get, nuetral, reaction, have recommend, recommend movie, movie several, several people, people do, do get, get nuetral, nuetral reaction
+I:11953;439;powerful, performance, play, man, lose, everything, close, try, hang, thing, give, life, meaning, powerful performance, performance play, play man, man lose, lose everything, everything close, close try, try hang, hang thing, thing give, give life, life meaning
+I:11953;440;act, be, affect, good, get, act be, be affect, affect good, good get
+I:11953;441;truley, empathise, be, time, resemble, mute, way, doesnt, say, anything, heat, moment, main, twist, end, life, seem, be, go, retirement, start, come, crash, twist, fate, truley empathise, empathise be, be time, time resemble, resemble mute, mute way, way doesnt, doesnt say, say anything, anything heat, heat moment, moment main, main twist, twist end, end life, life seem, seem be, be go, go retirement, retirement start, start come, come crash, crash twist, twist fate
+I:11953;442;movie, be, good, movie be, be good
+I:11953;443;be, look, suspenseful, thriller, keep, entertain, do, see, movie, be look, look suspenseful, suspenseful thriller, thriller keep, keep entertain, entertain do, do see, see movie
+I:11953;444;film, have, grocery, list, finest, actor, film have, have grocery, grocery list, list finest, finest actor
+I:11953;445;scene, be, gem, last, third, film, have, edge, seat, scene be, be gem, gem last, last third, third film, film have, have edge, edge seat
+I:11953;446;be, good, policeman, eve, retirement, be, bring, grisly, crime, young, girl, be, murder, be good, good policeman, policeman eve, eve retirement, retirement be, be bring, bring grisly, grisly crime, crime young, young girl, girl be, be murder
+I:11953;447;have, find, killer, have, pattern, think, town, be, area, killer, strike, have find, find killer, killer have, have pattern, pattern think, think town, town be, be area, area killer, killer strike
+I:11953;448;happen, be, psychiatrist, be, able, draw, first, sign, appear, something, be, right, happen be, be psychiatrist, psychiatrist be, be able, able draw, draw first, first sign, sign appear, appear something, something be, be right
+I:11953;449;film, be, grip, character, be, intricate, nvolved, be, draw, more, viewer, film be, be grip, grip character, character be, be intricate, intricate nvolved, nvolved be, be draw, draw more, more viewer
+I:11953;450;photography, be, beautiful, back, area, be, show, glory, photography be, be beautiful, beautiful back, back area, area be, be show, show glory
+I:11953;451;deliver, role, life, show, type, ability, give, film, deliver role, role life, life show, show type, type ability, ability give, give film
+I:11953;452;be, riveting, emotional, be riveting, riveting emotional
+I:11953;453;ridicule, former, police, mate, have, audience, edge, seat, root, proof, redemption, gratitude, mother, make, initial, promise, mother, be, little, girl, be, process, saving, lo, behold, whole, thing, sort, fall, ridicule former, former police, police mate, mate have, have audience, audience edge, edge seat, seat root, root proof, proof redemption, redemption gratitude, gratitude mother, mother make, make initial, initial promise, promise mother, mother be, be little, little girl, girl be, be process, process saving, saving lo, lo behold, behold whole, whole thing, thing sort, sort fall
+I:11953;454;give, good, performance, be, only, cement, hold, film, give good, good performance, performance be, be only, only cement, cement hold, hold film
+I:11953;455;later, be, good, film, former, be, flop, later be, be good, good film, film former, former be, be flop
+I:11953;456;direct, be, incisive, probe, drama, drive, man, be, incapable, let, go, event, direct be, be incisive, incisive probe, probe drama, drama drive, drive man, man be, be incapable, incapable let, let go, go event
+I:11953;457;explore, aspect, human, nature, certain, individual, rate, refuse, allow, disregard, perceive, infraction, justice, be, matter, be, imbue, kind, innate, moral, code, be, oblige, follow, explore aspect, aspect human, human nature, nature certain, certain individual, individual rate, rate refuse, refuse allow, allow disregard, disregard perceive, perceive infraction, infraction justice, justice be, be matter, matter be, be imbue, imbue kind, kind innate, innate moral, moral code, code be, be oblige, oblige follow
+I:11953;458;detective, have, come, end, illustrious, career, be, time, pull, pin, go, fishing, detective have, have come, come end, end illustrious, illustrious career, career be, be time, time pull, pull pin, pin go, go fishing
+I:11953;459;be, go, solve, case, be, go, do, way, satisfaction, be go, go solve, solve case, case be, be go, go do, do way, way satisfaction
+I:11953;460;mind, case, be, open, remain, deem, force, compelling, last, subside, mind case, case be, be open, open remain, remain deem, deem force, force compelling, compelling last, last subside
+I:11953;461;leave, peace, leave peace
+I:11953;462;actor, have, demonstrate, range, depth, emotion, time, implode, portrayal, dead, man, walk, such, strength, outward, reverberation, have, decide, impact, film, actor have, have demonstrate, demonstrate range, range depth, depth emotion, emotion time, time implode, implode portrayal, portrayal dead, dead man, man walk, walk such, such strength, strength outward, outward reverberation, reverberation have, have decide, decide impact, impact film
+I:11953;463;subtle, approach, director, have, same, effect, subtle approach, approach director, director have, have same, same effect
+I:11953;464;study, presentation, deliberate, pace, create, underlying, tension, run, film, wire, be, draw, tighter, tighter, be, taut, point, breaking, hand, be, wire, control, study presentation, presentation deliberate, deliberate pace, pace create, create underlying, underlying tension, tension run, run film, film wire, wire be, be draw, draw tighter, tighter tighter, tighter be, be taut, taut point, point breaking, breaking hand, hand be, be wire, wire control
+I:11953;465;make, drama, story, riveting, way, keep, attention, audience, make drama, drama story, story riveting, riveting way, way keep, keep attention, attention audience
+I:11953;466;attach, lead, field, emotional, land, mine, keep, involve, viewer, have, choice, have, respite, situation, enable, relate, personal, level, attach lead, lead field, field emotional, emotional land, land mine, mine keep, keep involve, involve viewer, viewer have, have choice, choice have, have respite, respite situation, situation enable, enable relate, relate personal, personal level
+I:11953;467;be, commendable, work, have, take, good, story, screenplay, be, be commendable, commendable work, work have, have take, take good, good story, story screenplay, screenplay be
+I:11953;468;kromolowski, base, book, higher, level, turn, penetrate, insightful, drama, kromolowski base, base book, book higher, higher level, level turn, turn penetrate, penetrate insightful, insightful drama
+I:11953;469;combination, make, effective, collaboration, nicholson, approach, character, same, sense, reflective, introspection, bring, film, director, combination make, make effective, effective collaboration, collaboration nicholson, nicholson approach, approach character, character same, same sense, sense reflective, reflective introspection, introspection bring, bring film, film director
+I:11953;470;work, create, character, be, edge, feel, present, tension, sense, discontent, define, be, be, work create, create character, character be, be edge, edge feel, feel present, present tension, tension sense, sense discontent, discontent define, define be, be be
+I:11953;471;fact, convey, guard, moment, be, make, performance, powerful, convincing, fact convey, convey guard, guard moment, moment be, be make, make performance, performance powerful, powerful convincing
+I:11953;472;play, inside, result, be, absorbing, unforgettable, character, play inside, inside result, result be, be absorbing, absorbing unforgettable, unforgettable character
+I:11953;473;have, way, tell, story, be, own, be, distinction, set, pledge, make, engaging, have way, way tell, tell story, story be, be own, own be, be distinction, distinction set, set pledge, pledge make, make engaging
+I:11953;474;want, tyou, know, thank, want tyou, tyou know, know thank
+I:11953;475;end, remind, directorial, effort, end remind, remind directorial, directorial effort
+I:11953;476;editor, choose, keep, girl, alive, have, ride, sunset, editor choose, choose keep, keep girl, girl alive, alive have, have ride, ride sunset
+I:11953;477;toy, picnic, rendezvous, little, girl, toy picnic, picnic rendezvous, rendezvous little, little girl
+I:11953;478;be, way, life, be, be way, way life, life be
+I:11953;479;focus, main, character, downfall, make, film, same, brilliant, character, study, book, be, film, focus, subplot, be, catalyst, main, character, downfall, focus main, main character, character downfall, downfall make, make film, film same, same brilliant, brilliant character, character study, study book, book be, be film, film focus, focus subplot, subplot be, be catalyst, catalyst main, main character, character downfall
+I:11953;480;promise, child, mother, catch, murderer, promise child, child mother, mother catch, catch murderer
+I:11953;481;next, day, police, have, suspect, custody, thanks, witness, place, scene, next day, day police, police have, have suspect, suspect custody, custody thanks, thanks witness, witness place, place scene
+I:11953;482;be, try, true, mystery, formula, have, be, make, work, be try, try true, true mystery, mystery formula, formula have, have be, be make, make work
+I:11953;483;mediocre, mind, become, famous, powerful, film, attest, fact, mediocre mind, mind become, become famous, famous powerful, powerful film, film attest, attest fact
+I:11953;484;boy, be, impressed, boy be, be impressed
+I:11953;485;be, shadow, former, endearing, self, be shadow, shadow former, former endearing, endearing self
+I:11953;486;pace, film, great, moral, weight, complexity, try, want, engrossing, crime, movie, confidential, want, see, beautiful, scenery, go, pace film, film great, great moral, moral weight, weight complexity, complexity try, try want, want engrossing, engrossing crime, crime movie, movie confidential, confidential want, want see, see beautiful, beautiful scenery, scenery go
+I:11953;487;good, guy, win, good guy, guy win
+I:11953;488;take, world, movie, theater, home, part, engage, take world, world movie, movie theater, theater home, home part, part engage
+I:11953;489;be, cop, world, be, right, resolve, crime, enjoy, beauty, place, be, choose, be cop, cop world, world be, be right, right resolve, resolve crime, crime enjoy, enjoy beauty, beauty place, place be, be choose
+I:11953;490;do, everything, know, be, world, have, own, way, resolve, problem, regard, need, do everything, everything know, know be, be world, world have, have own, own way, way resolve, resolve problem, problem regard, regard need
+I:11953;491;tell, expect, wrong, resolution, expect, slick, tell expect, expect wrong, wrong resolution, resolution expect, expect slick
+I:11953;492;have, beautiful, retired, life, chance, use, skill, heal, shatter, family, own, misgiving, turn, job, lesser, man, have beautiful, beautiful retired, retired life, life chance, chance use, use skill, skill heal, heal shatter, shatter family, family own, own misgiving, misgiving turn, turn job, job lesser, lesser man
+I:11953;493;have, think, everything, plan, have think, think everything, everything plan
+I:11953;494;have, be, great, movie, tragedy, much, come, first, minute, have, hope, directorial, career, have be, be great, great movie, movie tragedy, tragedy much, much come, come first, first minute, minute have, have hope, hope directorial, directorial career
+I:11953;495;say, turn, great, performance, say turn, turn great, great performance
+I:11953;496;best, have, see, witch, best have, have see, see witch
+I:11953;497;people, film, be, perfect, role, ask, people film, film be, be perfect, perfect role, role ask
+I:11953;498;novel, provide, solid, core, filmmaker, build, case, novel provide, provide solid, solid core, core filmmaker, filmmaker build, build case
+I:11953;499;nicholson, do, superb, job, play, many, aspect, mind, personality, provide, strong, support, waitress, come, love, course, film, nicholson do, do superb, superb job, job play, play many, many aspect, aspect mind, mind personality, personality provide, provide strong, strong support, support waitress, waitress come, come love, love course, course film
+I:11953;500;do, fine, job, exploit, small, town, rural, atmosphere, film, be, start, conventional, thriller, end, much, satisfaction, audience, something, unique, compelling, do fine, fine job, job exploit, exploit small, small town, town rural, rural atmosphere, atmosphere film, film be, be start, start conventional, conventional thriller, thriller end, end much, much satisfaction, satisfaction audience, audience something, something unique, unique compelling
+I:11953;501;be, good, be, only, reason, stick, horrendous, end, be good, good be, be only, only reason, reason stick, stick horrendous, horrendous end
+I:11953;502;story, have, great, resonance, story have, have great, great resonance
+I:11953;503;possibility, symbolic, archetypal, possibility symbolic, symbolic archetypal
+I:11953;504;day, retirement, detective, play, have, more, opportunity, perform, act, worthy, knight, be, seek, perform, significant, redeeming, action, face, death, be, plague, homeland, have, return, day retirement, retirement detective, detective play, play have, have more, more opportunity, opportunity perform, perform act, act worthy, worthy knight, knight be, be seek, seek perform, perform significant, significant redeeming, redeeming action, action face, face death, death be, be plague, plague homeland, homeland have, have return
+I:11953;505;receive, more, chance, set, thing, take, pledge, do, be, opportunity, good, be, true, possibility, stir, thought, life, receive more, more chance, chance set, set thing, thing take, take pledge, pledge do, do be, be opportunity, opportunity good, good be, be true, true possibility, possibility stir, stir thought, thought life
+I:11953;506;live, journey, complete, live journey, journey complete
+I:11953;507;end, throw, audience, bus, do, anonymous, unapprehended, killer, have, pledge, bring, justice, soul, end throw, throw audience, audience bus, bus do, do anonymous, anonymous unapprehended, unapprehended killer, killer have, have pledge, pledge bring, bring justice, justice soul
+I:11953;508;poet, novelist, musician, scriptwriter, study, closure, be, form, unto, poet novelist, novelist musician, musician scriptwriter, scriptwriter study, study closure, closure be, be form, form unto
+I:11953;509;make, break, have, precede, end, make break, break have, have precede, precede end
+I:11953;510;selective, choose, reveal, spectator, selective choose, choose reveal, reveal spectator
+I:11953;511;mouse, game, climactic, moment, mouse game, game climactic, climactic moment
+I:11953;512;defend, end, grounds, wacky, sense, pledge, be, complete, rapist, motivate, valiant, self, defend end, end grounds, grounds wacky, wacky sense, sense pledge, pledge be, be complete, complete rapist, rapist motivate, motivate valiant, valiant self
+I:11953;513;sacrifice, quest, be, bring, swift, sure, end, fiery, inferno, sacrifice quest, quest be, be bring, bring swift, swift sure, sure end, end fiery, fiery inferno
+I:11953;514;scene, lift, unattended, rise, ballon, be, allusion, film, scene lift, lift unattended, unattended rise, rise ballon, ballon be, be allusion, allusion film
+I:11953;515;be, powerful, movie, m, daring, film, come, mind, be powerful, powerful movie, movie m, m daring, daring film, film come, come mind
+I:11953;516;spare, offender, usual, justice, spare offender, offender usual, usual justice
+I:11953;517;see, emotional, side, capture, see emotional, emotional side, side capture
+I:11953;518;end, year, have, lot, mind, least, best, actor, nomination, end year, year have, have lot, lot mind, mind least, least best, best actor, actor nomination
+I:11953;519;be, be, finest, performance, date, be be, be finest, finest performance, performance date
+I:11953;520;know, play, win, award, know play, play win, win award
+I:11953;521;tell, go, act, skill, get, skin, bone, character, tell go, go act, act skill, skill get, get skin, skin bone, bone character
+I:11953;522;see, single, well, form, character, relate, see single, single well, well form, form character, character relate
+I:11953;523;be, way, music, be, haunt, be way, way music, music be, be haunt
+I:11953;524;find, end, big, let, find end, end big, big let
+I:11953;525;have, be, great, movie, have be, be great, great movie
+I:11953;526;be, none, less, craft, film, great, performance, course, be none, none less, less craft, craft film, film great, great performance, performance course
+I:11953;527;kudos, deliver, psychological, thriller, such, clearity, suspense, kudos deliver, deliver psychological, psychological thriller, thriller such, such clearity, clearity suspense
+I:11953;528;pledge, be, opinion, last, great, dramatic, performance, have, do, pledge be, be opinion, opinion last, last great, great dramatic, dramatic performance, performance have, have do
+I:11953;529;be, write, hope, find, several, role, challange, formitable, skill, deliver, rivoting, compelling, dramatic, performance, be write, write hope, hope find, find several, several role, role challange, challange formitable, formitable skill, skill deliver, deliver rivoting, rivoting compelling, compelling dramatic, dramatic performance
+I:11953;530;pledge, remain, latter, day, masterpiece, single, greatest, actor, generation, pledge remain, remain latter, latter day, day masterpiece, masterpiece single, single greatest, greatest actor, actor generation
+I:11953;531;know, be, good, get, be, movie, convince, be, greatest, actor, time, know be, be good, good get, get be, be movie, movie convince, convince be, be greatest, greatest actor, actor time
+I:11953;532;be, draw, film, actor, be draw, draw film, film actor
+I:11953;533;want, good, guy, win, end, kind, flick, forget, pledge, want good, good guy, guy win, win end, end kind, kind flick, flick forget, forget pledge
+I:11953;534;want, fantastic, thoughtful, film, be, winner, want fantastic, fantastic thoughtful, thoughtful film, film be, be winner
+I:11953;535;movie, be, heavy, deep, other, appeal, be, fun, picturesque, exciting, nostalgic, movie be, be heavy, heavy deep, deep other, other appeal, appeal be, be fun, fun picturesque, picturesque exciting, exciting nostalgic
+I:11953;536;other, be, movie, watch, other be, be movie, movie watch
+I:11953;537;love, genre, type, love genre, genre type
+I:11953;538;slow, movie, movie, classic, courtroom, dramas, action, suspense, independent, thriller, foreign, nonfiction, slow movie, movie movie, movie classic, classic courtroom, courtroom dramas, dramas action, action suspense, suspense independent, independent thriller, thriller foreign, foreign nonfiction
+I:11953;539;pledge, feature, slew, actor, know, be, talented, pledge feature, feature slew, slew actor, actor know, know be, be talented
+I:11953;540;feel, compel, watch, feel compel, compel watch
+I:11953;541;centerpiece, be, great, guy, give, boring, performance, be, interesting, real, life, centerpiece be, be great, great guy, guy give, give boring, boring performance, performance be, be interesting, interesting real, real life
+I:11953;542;whole, thing, have, potential, grind, halt, whole thing, thing have, have potential, potential grind, grind halt
+I:11953;543;pledge, be, compelling, story, everyone, work, hard, get, way, pledge be, be compelling, compelling story, story everyone, everyone work, work hard, hard get, get way
+I:11953;544;pledge, work, pledge work
+I:11953;545;be, heinous, bloody, murder, blonde, be heinous, heinous bloody, bloody murder, murder blonde
+I:11953;546;discover, be, few, other, certain, area, discover be, be few, few other, other certain, certain area
+I:11953;547;be, close, traditional, detective, movie, much, suspense, be close, close traditional, traditional detective, detective movie, movie much, much suspense
+I:11953;548;be, thing, be, melancholy, be, point, be, make, human, aspect, worth, explore, be thing, thing be, be melancholy, melancholy be, be point, point be, be make, make human, human aspect, aspect worth, worth explore
+I:11953;549;brutal, murder, child, be, chill, horrendous, subject, matter, direct, film, great, restraint, intelligence, brutal murder, murder child, child be, be chill, chill horrendous, horrendous subject, subject matter, matter direct, direct film, film great, great restraint, restraint intelligence
+I:11953;550;love, stay, stay, film, have, finish, love stay, stay stay, stay film, film have, have finish
+I:11953;551;more, conventional, audience, friendly, end, have, lend, film, great, disservice, screenplay, be, write, main, character, establish, moral, dilemna, complex, compelling, character, have, play, more conventional, conventional audience, audience friendly, friendly end, end have, have lend, lend film, film great, great disservice, disservice screenplay, screenplay be, be write, write main, main character, character establish, establish moral, moral dilemna, dilemna complex, complex compelling, compelling character, character have, have play
+I:11953;552;performance, compliment, direction, least, showy, least, hammy, best, act, performance, performance compliment, compliment direction, direction least, least showy, showy least, least hammy, hammy best, best act, act performance
+I:11953;553;benefit, haunt, soundtrack, establish, mood, beauty, danger, setting, benefit haunt, haunt soundtrack, soundtrack establish, establish mood, mood beauty, beauty danger, danger setting
+I:11953;554;pledge, be, brave, film, deserve, better, audience, have, receive, proof, good, film, need, have, cut, paste, character, predictable, plot, neat, tidy, end, pledge be, be brave, brave film, film deserve, deserve better, better audience, audience have, have receive, receive proof, proof good, good film, film need, need have, have cut, cut paste, paste character, character predictable, predictable plot, plot neat, neat tidy, tidy end
+I:11953;555;sacrifice, retirement, respect, peer, keep, pledge, follow, quest, story, become, less, solve, mystery, more, degenerative, effect, obsession, sacrifice retirement, retirement respect, respect peer, peer keep, keep pledge, pledge follow, follow quest, quest story, story become, become less, less solve, solve mystery, mystery more, more degenerative, degenerative effect, effect obsession
+I:11953;556;have, assemble, impressive, cast, film, be, best, be, direct, have assemble, assemble impressive, impressive cast, cast film, film be, be best, best be, be direct
+I:11953;557;be, develop, great, director, be develop, develop great, great director
+I:11953;558;preference, foreground, performance, threaten, undo, early, film, be, control, be, aid, economical, screenplay, preference foreground, foreground performance, performance threaten, threaten undo, undo early, early film, film be, be control, control be, be aid, aid economical, economical screenplay
+I:11953;559;act, career, continue, go, strength, strength, act career, career continue, continue go, go strength, strength strength
+I:11953;560;let, say, consider, be, most, underrated, actor, generation, let say, say consider, consider be, be most, most underrated, underrated actor, actor generation
+I:11953;561;support, cast, be, excellent, best, performance, film, brief, support cast, cast be, be excellent, excellent best, best performance, performance film, film brief
+I:11953;562;direction, be, superb, intercutting, nature, scene, main, plot, watch, symbolic, flock, bird, film, direction be, be superb, superb intercutting, intercutting nature, nature scene, scene main, main plot, plot watch, watch symbolic, symbolic flock, flock bird, bird film
+I:11953;563;haunting, poignant, story, excellent, character, study, haunting poignant, poignant story, story excellent, excellent character, character study
+I:11953;564;enjoy, watch, character, enjoy watch, watch character
+I:11953;565;have, small, memorable, role, enjoy, have small, small memorable, memorable role, role enjoy
+I:11953;566;order, fast, delivery, order fast, fast delivery
+I:11953;567;opinion, matter, anyone, movie, have, rivet, entire, time, watch, packed, house, matinee, showing, opinion matter, matter anyone, anyone movie, movie have, have rivet, rivet entire, entire time, time watch, watch packed, packed house, house matinee, matinee showing
+I:11953;568;suspensful, thriller, serial, killer, keep, rivet, seat, same, way, silence, lambs, do, suspensful thriller, thriller serial, serial killer, killer keep, keep rivet, rivet seat, seat same, same way, way silence, silence lambs, lambs do
+I:11953;569;be, deep, psychologocial, character, study, man, use, own, unrelenting, hunt, absolution, justic, means, get, morning, be deep, deep psychologocial, psychologocial character, character study, study man, man use, use own, own unrelenting, unrelenting hunt, hunt absolution, absolution justic, justic means, means get, get morning
+I:11953;570;plot, be, personal, descent, be, focus, movie, plot be, be personal, personal descent, descent be, be focus, focus movie
+I:11953;571;be, fan, intense, mystery/thrillers, deep, character, study, have, profound, look, typical, cop, role, be, fresh, be fan, fan intense, intense mystery/thrillers, mystery/thrillers deep, deep character, character study, study have, have profound, profound look, look typical, typical cop, cop role, role be, be fresh
+I:11953;572;film, have, stand, be, own, pre, film have, have stand, stand be, be own, own pre
+I:11953;573;pledge, be, emotional, investment, depend, like, movie, pay, pledge be, be emotional, emotional investment, investment depend, depend like, like movie, movie pay
+I:11953;574;do, nothing, watch, be, define, moment, phase, career, do nothing, nothing watch, watch be, be define, define moment, moment phase, phase career
+I:11953;575;story, be, simple, straightforward, story be, be simple, simple straightforward
+I:11953;576;thing, lead, rob, bank, use, toy, gun, thing lead, lead rob, rob bank, bank use, use toy, toy gun
+I:11953;577;needless, say, end, pledge, be, lot, needless say, say end, end pledge, pledge be, be lot
+I:11953;578;like, direction, cinematography, like direction, direction cinematography
+I:11953;579;put, way, put way
+I:11953;580;character, be, potray, jack, nicholson, penn., brilliant, work, character be, be potray, potray jack, jack nicholson, nicholson penn., penn. brilliant, brilliant work
+I:11953;581;be, surprise, time, give, success, dark, film, pedigree, make, sense, retrospect, be surprise, surprise time, time give, give success, success dark, dark film, film pedigree, pedigree make, make sense, sense retrospect
+I:11953;582;nicholson, consummate, pro, good, use, setting, stark, beauty, night, nicholson consummate, consummate pro, pro good, good use, use setting, setting stark, stark beauty, beauty night
+I:11953;583;do, get, wrong, be, act, do get, get wrong, wrong be, be act
+I:11953;584;give, fantastic, performance, do, other, actor, give fantastic, fantastic performance, performance do, do other, other actor
+I:11953;585;pledge, be, newest, film, direct, star, best, performance, pledge be, be newest, newest film, film direct, direct star, star best, best performance
+I:11953;586;jerry, black, be, detective, police, department, retire, jerry black, black be, be detective, detective police, police department, department retire
+I:11953;587;be, set, leave, retirement, trip, deep, sea, fishing, trip, pay, people, department, have, second, thought, return, case, be set, set leave, leave retirement, retirement trip, trip deep, deep sea, sea fishing, fishing trip, trip pay, pay people, people department, department have, have second, second thought, thought return, return case
+I:11953;588;people, be, play, impressive, array, character, actor, role, be, small, people be, be play, play impressive, impressive array, array character, character actor, actor role, role be, be small
+I:11953;589;provide, nicholson, showcase, provide nicholson, nicholson showcase
+I:11953;590;nicholson, play, black, make, make, human, nicholson play, play black, black make, make make, make human
+I:11953;591;be, real, detective, police, force, be real, real detective, detective police, police force
+I:11953;592;believe, be, welcome, sight, watch, become, real, human, be, character, become, believe be, be welcome, welcome sight, sight watch, watch become, become real, real human, human be, be character, character become
+I:11953;593;pledge, work, character, study, time, slow, pace, film, help, seem, authentic, pledge work, work character, character study, study time, time slow, slow pace, pace film, film help, help seem, seem authentic
+I:11953;594;investigation, scene, snowy, drift, be, believable, investigation scene, scene snowy, snowy drift, drift be, be believable
+I:11953;595;be, way, life, be, town, area, do, help, story, long, run, be way, way life, life be, be town, town area, area do, do help, help story, story long, long run
+I:11953;596;enjoy, end, enjoy end
+I:11953;597;seem, authentic, most, conventional, thriller, seem authentic, authentic most, most conventional, conventional thriller
+I:11953;598;impressive, list, character, actor, be, welcome, role, be, distracting, anything, impressive list, list character, character actor, actor be, be welcome, welcome role, role be, be distracting, distracting anything
+I:11953;599;be, great, want, more, be great, great want, want more
+I:11953;600;reiterate, victim, be, sweet, innocent, reiterate victim, victim be, be sweet, sweet innocent
+I:11953;601;create, vivid, character, have, large, part, overall, mystery, create vivid, vivid character, character have, have large, large part, part overall, overall mystery
+I:11953;602;last, month, have, see, film, have, prove, be, good, actor, last month, month have, have see, see film, film have, have prove, prove be, be good, good actor
+I:11953;603;think, find, performance, pledge, price, admission, think find, find performance, performance pledge, pledge price, price admission
+I:11953;604;attack, be, something, do, attack be, be something, something do
+I:11953;605;go, see, go see
+I:11953;606;be, leave, job, work, person, think, have, outstanding, work, ethic, see, individual, ultimate, self, be leave, leave job, job work, work person, person think, think have, have outstanding, outstanding work, work ethic, ethic see, see individual, individual ultimate, ultimate self
+I:11953;607;film, be, portrayal, real, life, situation!thanks, film be, be portrayal, portrayal real, real life, life situation!thanks
+I:11953;608;think, film, be, brilliant, think film, film be, be brilliant
+I:11953;609;go, population, be, intelligent, be, go population, population be, be intelligent, intelligent be
+I:11953;610;play, everything, simple, twist, fate, end, be, bad, guy, play everything, everything simple, simple twist, twist fate, fate end, end be, be bad, bad guy
+I:11953;611;perfect, underrated, perfect underrated
+I:11953;612;look, next, look next
+I:11953;613;go, home, bait, little, girl, go home, home bait, bait little, little girl
+I:11953;614;be, beautiful, look, move, near, haunting, soundtrack, find, anyplace, keep, viewer, suck, be beautiful, beautiful look, look move, move near, near haunting, haunting soundtrack, soundtrack find, find anyplace, anyplace keep, keep viewer, viewer suck
+I:11953;615;like, movie, point, realize, be, use, girlfriend, daughter, bait, serial, child, murderer, like movie, movie point, point realize, realize be, be use, use girlfriend, girlfriend daughter, daughter bait, bait serial, serial child, child murderer
+I:11953;616;be, good, movie, be, interesting, story, flow, beginning, be good, good movie, movie be, be interesting, interesting story, story flow, flow beginning
+I:11953;617;be, enjoy, movie, get, end, be enjoy, enjoy movie, movie get, get end
+I:11953;618;critic, think, be, best, pic, think, bite, big, one, critic think, think be, be best, best pic, pic think, think bite, bite big, big one
+I:11953;619;have, more, talent, have more, more talent
+I:11953;620;packed, movie, typical, happy, ending, packed movie, movie typical, typical happy, happy ending
+I:11953;621;be, exercise, great, acting, psychology, be exercise, exercise great, great acting, acting psychology
+I:11953;622;be, incredible, scene, beginning, movie, look, picture, be, young, catch, glimpse, elderly, man, use, walker, get, outside, window, be incredible, incredible scene, scene beginning, beginning movie, movie look, look picture, picture be, be young, young catch, catch glimpse, glimpse elderly, elderly man, man use, use walker, walker get, get outside, outside window
+I:11953;623;pledge, be, intelligent, work, art, incredible, performance, pledge be, be intelligent, intelligent work, work art, art incredible, incredible performance
+I:11953;624;nicholson, make, great, team, have, make, great, great, movie, nicholson make, make great, great team, team have, have make, make great, great great, great movie
+I:11953;625;have, give, promise, find, killer, .3, have give, give promise, promise find, find killer, killer .3
+I:11953;626;film, be, human, mind, investigation, case, film be, be human, human mind, mind investigation, investigation case
+I:11953;627;pledge, be, best, performance, create, great, screen, character, pledge be, be best, best performance, performance create, create great, great screen, screen character
+I:11953;628;be, respect, fellow, cop, young, old, retirement, present, send, fishing, trip, be respect, respect fellow, fellow cop, cop young, young old, old retirement, retirement present, present send, send fishing, fishing trip
+I:11953;629;be, great, movie, be, everyone, people, like, happy, ending, be great, great movie, movie be, be everyone, everyone people, people like, like happy, happy ending
+I:11953;630;recommend, movie, great, acting, cast, include, true, royalty, movie, be, direct, husband, recommend movie, movie great, great acting, acting cast, cast include, include true, true royalty, royalty movie, movie be, be direct, direct husband
+I:11953;631;include, solid, chameo, include solid, solid chameo
+I:11953;632;movie, be, good, need, time, pass, movie be, be good, good need, need time, time pass
+I:11953;633;tell, story, full, pathos, tell story, story full, full pathos
+I:11953;634;great, movie, jack, nicholson, style, great movie, movie jack, jack nicholson, nicholson style
+I:11953;635;few, movie, provoke, way, film, leave, theater, have, forget, have, see, few movie, movie provoke, provoke way, way film, film leave, leave theater, theater have, have forget, forget have, have see
+I:11953;636;pledge, be, reviewer, state, breath, fresh, air, day, popcorn, movie, rule, box, office, pledge be, be reviewer, reviewer state, state breath, breath fresh, fresh air, air day, day popcorn, popcorn movie, movie rule, rule box, box office
+I:11953;637;hate, film, be, expect, big, chase, killer, movie, get, be, best, performance, best, film, year, hate film, film be, be expect, expect big, big chase, chase killer, killer movie, movie get, get be, be best, best performance, performance best, best film, film year
+I:11953;638;crucial, scene, event, film, take, title, vow, murder, girl, mother, find, child, killer, bring, justice, swearing, own, soul, salvation, do, crucial scene, scene event, event film, film take, take title, title vow, vow murder, murder girl, girl mother, mother find, find child, child killer, killer bring, bring justice, justice swearing, swearing own, own soul, soul salvation, salvation do
+I:11953;639;ambiguity, characterize, turn, plot, be, suggest, opening, title, be, reintroduce, make, pledge, ambiguity characterize, characterize turn, turn plot, plot be, be suggest, suggest opening, opening title, title be, be reintroduce, reintroduce make, make pledge
+I:11953;640;nicholson, turn, great, performance, usual, nicholson turn, turn great, great performance, performance usual
+I:11953;641;location, film, be, beautiful, say, element, bias, course, film, be, compelling, location film, film be, be beautiful, beautiful say, say element, element bias, bias course, course film, film be, be compelling
+I:11953;642;haunting, score, avoid, cliche, hand, veteran, composer, complement, film, visual, beauty, haunting score, score avoid, avoid cliche, cliche hand, hand veteran, veteran composer, composer complement, complement film, film visual, visual beauty
+I:11953;643;be, big, fan, show, ambiguous, treatment, character, be big, big fan, fan show, show ambiguous, ambiguous treatment, treatment character
+I:11953;644;focus, show, snapshot, life, pull, camera, give, barebone, exposition, trust, audience, reach, own, conclusion, focus show, show snapshot, snapshot life, life pull, pull camera, camera give, give barebone, barebone exposition, exposition trust, trust audience, audience reach, reach own, own conclusion
+I:11953;645;question, leave, unanswered, end, be, similar, make, movie, good, question leave, leave unanswered, unanswered end, end be, be similar, similar make, make movie, movie good
+I:11953;646;trust, audience, be, smart, trust audience, audience be, be smart
+I:11953;647;performance, be, fantastic, performance be, be fantastic
+I:11953;648;be, best, film, late, do, rely, do, thing, be best, best film, film late, late do, do rely, rely do, do thing
+I:11953;649;like, movie, remain, couple, day, watch, like movie, movie remain, remain couple, couple day, day watch
+I:11953;650;regard, pledge, be, right, target, regard pledge, pledge be, be right, right target
+I:11953;651;director, lead, rest, cast, do, fabulous, job, film, director lead, lead rest, rest cast, cast do, do fabulous, fabulous job, job film
+I:11953;652;credit, relationship, credit relationship
+I:11953;653;okay, end, okay end
+I:11953;654;think, creative, end, have, be, work, such, marvelous, build, think creative, creative end, end have, have be, be work, work such, such marvelous, marvelous build
+I:11953;655;be, good, movie, be, miss, be good, good movie, movie be, be miss

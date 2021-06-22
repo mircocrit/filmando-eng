@@ -1,0 +1,606 @@
+I:100;1;watch, movie, today, be, year, old, watch movie, movie today, today be, be year, year old
+I:100;2;be, funny, enjoyable, way, spend, couple, hour, rainy, afternoon, be funny, funny enjoyable, enjoyable way, way spend, spend couple, couple hour, hour rainy, rainy afternoon
+I:100;3;be, standout, do, be standout, standout do
+I:100;4;be, execute, movie, be execute, execute movie
+I:100;5;be, fun, movie, good, character, enough, plot, keep, movie, entertaining, kid, adult, be fun, fun movie, movie good, good character, character enough, enough plot, plot keep, keep movie, movie entertaining, entertaining kid, kid adult
+I:100;6;way, be, be, kid, movie, fact, kid, enjoy, way be, be be, be kid, kid movie, movie fact, fact kid, kid enjoy
+I:100;7;plot, be, simple, hero, come, plot be, be simple, simple hero, hero come
+I:100;8;make, interesting, be, protagonist, be, third, generation, hero, be, son, celebrated, hero, make interesting, interesting be, be protagonist, protagonist be, be third, third generation, generation hero, hero be, be son, son celebrated, celebrated hero
+I:100;9;add, mix, fact, have, show, hero, power, get, nice, combination, action, add mix, mix fact, fact have, have show, show hero, hero power, power get, get nice, nice combination, combination action
+I:100;10;recommend, film, kid, be, comic, book, like, recommend film, film kid, kid be, be comic, comic book, book like
+I:100;11;be, look, nice, movie, family, enjoy, something, husband, like, daughter, be look, look nice, nice movie, movie family, family enjoy, enjoy something, something husband, husband like, like daughter
+I:100;12;read, review, movie, sound, great, read review, review movie, movie sound, sound great
+I:100;13;good, movie, anyone, good movie, movie anyone
+I:100;14;be, best, family, be best, best family
+I:100;15;friendly, action/comedies, have, see, long, time, best, live, friendly action/comedies, action/comedies have, have see, see long, long time, time best, best live
+I:100;16;have, clever, script, excellent, cast, grow, have clever, clever script, script excellent, excellent cast, cast grow
+I:100;17;charismatic, ensemble, young, actor, actress, charismatic ensemble, ensemble young, young actor, actor actress
+I:100;18;recommend, appropriate, age, recommend appropriate, appropriate age
+I:100;19;thank, provide, great, video, thank provide, provide great, great video
+I:100;20;be, good, movie, watch, kid, be, enjoyable, adult, make, good, choice, family, movie, night, be good, good movie, movie watch, watch kid, kid be, be enjoyable, enjoyable adult, adult make, make good, good choice, choice family, family movie, movie night
+I:100;21;be, great, be, cocky, dad, want, expect, son, be, great, super, hero, be great, great be, be cocky, cocky dad, dad want, want expect, expect son, son be, be great, great super, super hero
+I:100;22;most, adult, enjoy, super, hero, joke, most adult, adult enjoy, enjoy super, super hero, hero joke
+I:100;23;sure, be, future, star, cameo, sure be, be future, future star, star cameo
+I:100;24;cling, mother, father, be, strongest, superhero, time, cling mother, mother father, father be, be strongest, strongest superhero, superhero time
+I:100;25;willingness, stick, true, friend, be, test, other, force, higher, classman, shmooze, attentionand, be, superhero, super, willingness stick, stick true, true friend, friend be, be test, test other, other force, force higher, higher classman, classman shmooze, shmooze attentionand, attentionand be, be superhero, superhero super
+I:100;26;sky, high, be, fun, cheeky, clean, family, film, viewing, sky high, high be, be fun, fun cheeky, cheeky clean, clean family, family film, film viewing
+I:100;27;be, great, cameo, appearance, super, actress, former, superhero, be great, great cameo, cameo appearance, appearance super, super actress, actress former, former superhero
+I:100;28;be, fun, film, doubt, be fun, fun film, film doubt
+I:100;29;relationship, be, father/son, girlfriend/boyfriend, be, execute, get, viewer, superkid, life, intimate, way, relationship be, be father/son, father/son girlfriend/boyfriend, girlfriend/boyfriend be, be execute, execute get, get viewer, viewer superkid, superkid life, life intimate, intimate way
+I:100;30;be, decent, great, good, be decent, decent great, great good
+I:100;31;muscle, costume, be, funny, muscle costume, costume be, be funny
+I:100;32;be, wife, be, enjoy, fine, family, entertainment, be wife, wife be, be enjoy, enjoy fine, fine family, family entertainment
+I:100;33;excellent, job, cast, kid, adult, excellent job, job cast, cast kid, kid adult
+I:100;34;good, fast, pace, right, length, minute, good fast, fast pace, pace right, right length, length minute
+I:100;35;simple, value, be, lesson, be, best, sort, fare, simple value, value be, be lesson, lesson be, be best, best sort, sort fare
+I:100;36;plenty, wit, other, funny, kid, line, competition, be, mean, joke, harmless, cute, charming, amusing, flick, plenty wit, wit other, other funny, funny kid, kid line, line competition, competition be, be mean, mean joke, joke harmless, harmless cute, cute charming, charming amusing, amusing flick
+I:100;37;perfect, entertainment, age, group, perfect entertainment, entertainment age, age group
+I:100;38;be, lot, music, cover, fit, typical, high, school, plot, nerd, super, clique, be lot, lot music, music cover, cover fit, fit typical, typical high, high school, school plot, plot nerd, nerd super, super clique
+I:100;39;execution, wit, carry, execution wit, wit carry
+I:100;40;acting, be, fine, direction, be, sharp, acting be, be fine, fine direction, direction be, be sharp
+I:100;41;predictablity, do, hurt, enjoyment, be, fun, ride, predictablity do, do hurt, hurt enjoyment, enjoyment be, be fun, fun ride
+I:100;42;let, see, keep, let see, see keep
+I:100;43;run, movie, teenage, cast, movie, be, plain, wonderful, run movie, movie teenage, teenage cast, cast movie, movie be, be plain, plain wonderful
+I:100;44;cast, be, great, story, be, great, character, adorable, cast be, be great, great story, story be, be great, great character, character adorable
+I:100;45;year, class, feature, best, brightest, gifted, super, year class, class feature, feature best, best brightest, brightest gifted, gifted super
+I:100;46;evil, villain, threaten, family, friend, sanctity, use, newfound, superpower, save, day, prove, hero, worthy, family, tradition, evil villain, villain threaten, threaten family, family friend, friend sanctity, sanctity use, use newfound, newfound superpower, superpower save, save day, day prove, prove hero, hero worthy, worthy family, family tradition
+I:100;47;sky, high, mr, be, release, same, day, enjoy, sky high, high mr, mr be, be release, release same, same day, day enjoy
+I:100;48;movie, be, great, whole, family, movie be, be great, great whole, whole family
+I:100;49;have, action, comedy, romance, ask, have action, action comedy, comedy romance, romance ask
+I:100;50;be, great, family, entertainment, be, enjoy, be great, great family, family entertainment, entertainment be, be enjoy
+I:100;51;release, superhero, let, fun, begin, release superhero, superhero let, let fun, fun begin
+I:100;52;feature, great, ensemble, cast, consist, known, lesser, known, feature great, great ensemble, ensemble cast, cast consist, consist known, known lesser, lesser known
+I:100;53;give, wonderful, tongue, give wonderful, wonderful tongue
+I:100;54;follow, support, role, strong, performance, lead, role, follow support, support role, role strong, strong performance, performance lead, lead role
+I:100;55;be, favorite, super, hero, movie, be favorite, favorite super, super hero, hero movie
+I:100;56;plot, be, simple, feature, couple, interesting, twist, plot be, be simple, simple feature, feature couple, couple interesting, interesting twist
+I:100;57;cast, be, diverse, character, cast be, be diverse, diverse character
+I:100;58;be, humorous, serious, same, time, relationship, character, be, portray, sundry, power, need, save, world, least, world, high, school, be humorous, humorous serious, serious same, same time, time relationship, relationship character, character be, be portray, portray sundry, sundry power, power need, need save, save world, world least, least world, world high, high school
+I:100;59;grab, popcorn, hit, play, grab popcorn, popcorn hit, hit play
+I:100;60;be, kind, movie, be, plain, fun, be kind, kind movie, movie be, be plain, plain fun
+I:100;61;want, good, family, movie, watch, spend, time, be, want good, good family, family movie, movie watch, watch spend, spend time, time be
+I:100;62;be, sorry, tear, family, film, nobody, age, have, good, time, be sorry, sorry tear, tear family, family film, film nobody, nobody age, age have, have good, good time
+I:100;63;be, such, fun, movie, be such, such fun, fun movie
+I:100;64;be, good, clean, movie, enjoy, be good, good clean, clean movie, movie enjoy
+I:100;65;like, movie, be, glad, get, like movie, movie be, be glad, glad get
+I:100;66;be, fun, watch, be, be fun, fun watch, watch be
+I:100;67;favorite, movie, kid, seem, like, favorite movie, movie kid, kid seem, seem like
+I:100;68;okay, movie, watch, okay movie, movie watch
+I:100;69;be, campy, much, fun, be campy, campy much, much fun
+I:100;70;be, top, fun, message, tuck, be top, top fun, fun message, message tuck
+I:100;71;have, good, time, watch, tween, daughter, have good, good time, time watch, watch tween, tween daughter
+I:100;72;do, quirky, do quirky
+I:100;73;be, premise, live, action, family, comedy, wonderful, world, be premise, premise live, live action, action family, family comedy, comedy wonderful, wonderful world
+I:100;74;be, son, greatest, super, hero, couple, planet, anticipated, new, student, secret, super, hero, academy, be son, son greatest, greatest super, super hero, hero couple, couple planet, planet anticipated, anticipated new, new student, student secret, secret super, super hero, hero academy
+I:100;75;be, have, contend, live, father, reputation, fall, love, meet, own, arch, enemy, be have, have contend, contend live, live father, father reputation, reputation fall, fall love, love meet, meet own, own arch, arch enemy
+I:100;76;follow, be, ordinary, mix, standard, high, school, angst, comic, book, fantasy, follow be, be ordinary, ordinary mix, mix standard, standard high, high school, school angst, angst comic, comic book, book fantasy
+I:100;77;steal, see, be, long, suffering, side, kick, er, support, american, boy, steal see, see be, be long, long suffering, suffering side, side kick, kick er, er support, support american, american boy
+I:100;78;kid, love, movie, year, old, do, kid, older, find, little, nice, cheerful, kid love, love movie, movie year, year old, old do, do kid, kid older, older find, find little, little nice, nice cheerful
+I:100;79;good, clean, family, fun, beat, good clean, clean family, family fun, fun beat
+I:100;80;generation, raise, kid, become, third, generation raise, raise kid, kid become, become third
+I:100;81;strong, father, be, hero, have, gift, flight, strong father, father be, be hero, hero have, have gift, gift flight
+I:100;82;make, fun, funny, adventure, story, speak, youngster, make fun, fun funny, funny adventure, adventure story, story speak, speak youngster
+I:100;83;usual, teen, angst, usual teen, teen angst
+I:100;84;lifetime, be, punch, bag, school, put, few, convenient, opportunity, make, run, top, school, popularity, chart, lifetime be, be punch, punch bag, bag school, school put, put few, few convenient, convenient opportunity, opportunity make, make run, run top, top school, school popularity, popularity chart
+I:100;85;amazement, everybody, be, successful, year, amazement everybody, everybody be, be successful, successful year
+I:100;86;be, fact, today, advanced, age, know, price, coolness, be, originality, freedom, soul, be fact, fact today, today advanced, advanced age, age know, know price, price coolness, coolness be, be originality, originality freedom, freedom soul
+I:100;87;hate, person, be, love, be, hate person, person be, be love, love be
+I:100;88;time, life, be, intoxicating, get, time life, life be, be intoxicating, intoxicating get
+I:100;89;be, movie, know, recognize, error, way, return, root, way, director, deliver, clever, relevant, look, modern, high, school, be movie, movie know, know recognize, recognize error, error way, way return, return root, root way, way director, director deliver, deliver clever, clever relevant, relevant look, look modern, modern high, high school
+I:100;90;like, way, film, attack, self, like way, way film, film attack, attack self
+I:100;91;best, scene, involve, dad, compliment, hang, sidekick, while, condescend, have, lower, bar, school, day, best scene, scene involve, involve dad, dad compliment, compliment hang, hang sidekick, sidekick while, while condescend, condescend have, have lower, lower bar, bar school, school day
+I:100;92;family, enjoy, theme, movie, family enjoy, enjoy theme, theme movie
+I:100;93;recommend, enjoy, be, family, recommend enjoy, enjoy be, be family
+I:100;94;movie, be, good, movie be, be good
+I:100;95;expect, be, silly, fluffy, fun, be, surprised, much, like, expect be, be silly, silly fluffy, fluffy fun, fun be, be surprised, surprised much, much like
+I:100;96;be, story, son, legendary, superhero, be story, story son, son legendary, legendary superhero
+I:100;97;daily, in, out, world, superhero, exist, be, take, grant, add, great, deal, fun, humor, movie, love, traffic, update, strike, morning, commute, form, giant, robot, downtown, daily in, in out, out world, world superhero, superhero exist, exist be, be take, take grant, grant add, add great, great deal, deal fun, fun humor, humor movie, movie love, love traffic, traffic update, update strike, strike morning, morning commute, commute form, form giant, giant robot, robot downtown
+I:100;98;be, life, lesson, be, proud, be, ability, be, be, able, turn, guinea, pig, puddle, goo, everyone, have, something, contribute, be life, life lesson, lesson be, be proud, proud be, be ability, ability be, be be, be able, able turn, turn guinea, guinea pig, pig puddle, puddle goo, goo everyone, everyone have, have something, something contribute
+I:100;99;typical, kid, movie, fare, do, more, imaginative, fun, way, typical kid, kid movie, movie fare, fare do, do more, more imaginative, imaginative fun, fun way
+I:100;100;be, plenty, laugh, loud, funny, moment, storyline, include, fun, poke, superhero, genre, be, priceless, former, kid, sidekick, turn, teacher, yearn, get, game, be plenty, plenty laugh, laugh loud, loud funny, funny moment, moment storyline, storyline include, include fun, fun poke, poke superhero, superhero genre, genre be, be priceless, priceless former, former kid, kid sidekick, sidekick turn, turn teacher, teacher yearn, yearn get, get game
+I:100;101;kid, actor, do, decent, job, movie, real, pleasure, older, viewer, be, smaller, adult, role, fun, familiar, face, kid actor, actor do, do decent, decent job, job movie, movie real, real pleasure, pleasure older, older viewer, viewer be, be smaller, smaller adult, adult role, role fun, fun familiar, familiar face
+I:100;102;recommend, kid, say, age, be, family, friendly, movie, have, adult, claw, eye, cry, insulin, recommend kid, kid say, say age, age be, be family, family friendly, friendly movie, movie have, have adult, adult claw, claw eye, eye cry, cry insulin
+I:100;103;scene, villian, be, struggle, infant, car, seat, be, classic, scene villian, villian be, be struggle, struggle infant, infant car, car seat, seat be, be classic
+I:100;104;be, satisfied, product, be satisfied, satisfied product
+I:100;105;odds, be, love, odds be, be love
+I:100;106;wife, love, movie, wife love, love movie
+I:100;107;love, value, movie, show, family, friend, honor, trust, love value, value movie, movie show, show family, family friend, friend honor, honor trust
+I:100;108;year, freshman, class, include, future, defender, world, year freshman, freshman class, class include, include future, future defender, defender world
+I:100;109;be, cultural, divide, hero, sidekick, greatest, power, use, special, skill, bully, other, be cultural, cultural divide, divide hero, hero sidekick, sidekick greatest, greatest power, power use, use special, special skill, skill bully, bully other
+I:100;110;power, manifest, move, hero, class, power manifest, manifest move, move hero, hero class
+I:100;111;say, be, entertaining, say be, be entertaining
+I:100;112;be, film, kid, love, teens, be, able, identify, most, adult, find, entertaining, be film, film kid, kid love, love teens, teens be, be able, able identify, identify most, most adult, adult find, find entertaining
+I:100;113;laugh, be, plentiful, special, effect, be, right, money, emotional, aspect, come, age, story, play, laugh be, be plentiful, plentiful special, special effect, effect be, be right, right money, money emotional, emotional aspect, aspect come, come age, age story, story play
+I:100;114;enjoy, movie, start, finish, enjoy movie, movie start, start finish
+I:100;115;be, word, super, be word, word super
+I:100;116;entertaining, movie, teens, adult, appreciate, tongue, entertaining movie, movie teens, teens adult, adult appreciate, appreciate tongue
+I:100;117;comedy, have, everyone, family, laugh, most, way, comedy have, have everyone, everyone family, family laugh, laugh most, most way
+I:100;118;kid, love, star, movie, have, super, power, kid love, love star, star movie, movie have, have super, super power
+I:100;119;make, dazzling, cheezy, extra, effect, make dazzling, dazzling cheezy, cheezy extra, extra effect
+I:100;120;year, old, love, movie, year old, old love, love movie
+I:100;121;adult, be, good, predict, plot, adult be, be good, good predict, predict plot
+I:100;122;family, flick, be, good, family flick, flick be, be good
+I:100;123;be, good, movie, be, full, great, action, great, actor, kurt, russle, be good, good movie, movie be, be full, full great, great action, action great, great actor, actor kurt, kurt russle
+I:100;124;be, good, movie, be good, good movie
+I:100;125;be, superhero, love, movie, be superhero, superhero love, love movie
+I:100;126;recommend, everyone, recommend everyone
+I:100;127;action, intrugue, humor, action intrugue, intrugue humor
+I:100;128;good, acting, good, storyline, keep, involve, end, good acting, acting good, good storyline, storyline keep, keep involve, involve end
+I:100;129;recommend, anyone, recommend anyone
+I:100;130;good, family, moviegood, storygood, lesson, kid, take, fromfunny, effect, be, good, good family, family moviegood, moviegood storygood, storygood lesson, lesson kid, kid take, take fromfunny, fromfunny effect, effect be, be good
+I:100;131;great, worth, great worth
+I:100;132;everyone, family, enjoy, movie, be, genre, everyone family, family enjoy, enjoy movie, movie be, be genre
+I:100;133;be, fan, profound, film, know, meaty, one, jarring, plot, humanistic, story, be fan, fan profound, profound film, film know, know meaty, meaty one, one jarring, jarring plot, plot humanistic, humanistic story
+I:100;134;be, great, story, be, engage, remind, challenge, hs, be great, great story, story be, be engage, engage remind, remind challenge, challenge hs
+I:100;135;love, enjoy, superhero, genre, love enjoy, enjoy superhero, superhero genre
+I:100;136;be, fun, spin, cool, character, course, many, interlaced, message, recommend, fun, night, blu, be fun, fun spin, spin cool, cool character, character course, course many, many interlaced, interlaced message, message recommend, recommend fun, fun night, night blu
+I:100;137;great, movie, whole, family, enjoy, great movie, movie whole, whole family, family enjoy
+I:100;138;have, watch, know, watch, have watch, watch know, know watch
+I:100;139;movie, be, simple, good, movie be, be simple, simple good
+I:100;140;course, do, knock, spiderman, kick, batman, butt, be, great, movie, course do, do knock, knock spiderman, spiderman kick, kick batman, batman butt, butt be, be great, great movie
+I:100;141;urge, give, try, think, be, excellent, urge give, give try, try think, think be, be excellent
+I:100;142;be, lot, story, super, be lot, lot story, story super
+I:100;143;hero, genre, teen, come, power, classic, example, be, hero genre, genre teen, teen come, come power, power classic, classic example, example be
+I:100;144;be, handle, be, potent, idea, huge, potential, angst, humor, be handle, handle be, be potent, potent idea, idea huge, huge potential, potential angst, angst humor
+I:100;145;be, son, world, greatest, super, be son, son world, world greatest, greatest super
+I:100;146;father, be, strongest, man, mother, fly, supersonic, speed, great, thing, be, expect, live, super, father be, be strongest, strongest man, man mother, mother fly, fly supersonic, supersonic speed, speed great, great thing, thing be, be expect, expect live, live super
+I:100;147;manage, hide, fact, first, day, super, manage hide, hide fact, fact first, first day, day super
+I:100;148;kid, be, sort, group, be, haves, have, not, impressive, super, kid be, be sort, sort group, group be, be haves, haves have, have not, not impressive, impressive super
+I:100;149;find, out, friend, boy, super, find out, out friend, friend boy, boy super
+I:100;150;power, be, glow, power be, be glow
+I:100;151;girl, shapeshifter, alternate, shape, be, guinea, pig, boy, power, be, melt, puddle, oil, best, friend, first, grade, have, cool, super, girl shapeshifter, shapeshifter alternate, alternate shape, shape be, be guinea, guinea pig, pig boy, boy power, power be, be melt, melt puddle, puddle oil, oil best, best friend, friend first, first grade, grade have, have cool, cool super
+I:100;152;be, comedy, be, laugh, be comedy, comedy be, be laugh
+I:100;153;have, have, such, success, dramatic, actor, lot, people, forget, make, mark, comedy, be, fine, comedian, flair, have have, have such, such success, success dramatic, dramatic actor, actor lot, lot people, people forget, forget make, make mark, mark comedy, comedy be, be fine, fine comedian, comedian flair
+I:100;154;scene, be, funny, touching, scene be, be funny, funny touching
+I:100;155;be, world, powerful, man, be, world, best, dad, be world, world powerful, powerful man, man be, be world, world best, best dad
+I:100;156;come, bit, end, come bit, bit end
+I:100;157;be, worth, watch, be worth, worth watch
+I:100;158;be, freshest, comedy, year, be freshest, freshest comedy, comedy year
+I:100;159;be, struggle, find, movie, video, store, family, movie, night, elementary, school, daughter, enjoy, enjoy, be, able, tolerate, be struggle, struggle find, find movie, movie video, video store, store family, family movie, movie night, night elementary, elementary school, school daughter, daughter enjoy, enjoy enjoy, enjoy be, be able, able tolerate
+I:100;160;younger, daughter, choose, be, optimistic, do, good, job, make, sort, fun, genxer, younger daughter, daughter choose, choose be, be optimistic, optimistic do, do good, good job, job make, make sort, sort fun, fun genxer
+I:100;161;disney, use, lot, great, trick, transcend, generational, gap, disney use, use lot, lot great, great trick, trick transcend, transcend generational, generational gap
+I:100;162;geny, costume, act, special, effect, be, much, reminiscent, popular, live, geny costume, costume act, act special, special effect, effect be, be much, much reminiscent, reminiscent popular, popular live
+I:100;163;gen, x, wonderful, little, trick, have, see, have, imagine, have, be, employ, be, use, classic, come, gen x, x wonderful, wonderful little, little trick, trick have, have see, see have, have imagine, imagine have, have be, be employ, employ be, be use, use classic, classic come
+I:100;164;early, genxer, casting, be, sort, interesting, bookend, career, early genxer, genxer casting, casting be, be sort, sort interesting, interesting bookend, bookend career
+I:100;165;be, kind, movie, make, be, be kind, kind movie, movie make, make be
+I:100;166;see, more, become, entertainment, powerhouse, use, be, see more, more become, become entertainment, entertainment powerhouse, powerhouse use, use be
+I:100;167;family, enjoy, movie, family enjoy, enjoy movie
+I:100;168;clever, entertaining, story, line, suspense, humor, underdog, come, top, group, unlikely, friend, bond, enemy, find, acceptance, clever entertaining, entertaining story, story line, line suspense, suspense humor, humor underdog, underdog come, come top, top group, group unlikely, unlikely friend, friend bond, bond enemy, enemy find, find acceptance
+I:100;169;be, glad, find, movie, be glad, glad find, find movie
+I:100;170;be, honest, plain, good, fun, type, movie, be honest, honest plain, plain good, good fun, fun type, type movie
+I:100;171;be, feel, good, movie, be feel, feel good, good movie
+I:100;172;fun, go, business, fun go, go business
+I:100;173;love, movie, sky, high, love movie, movie sky, sky high
+I:100;174;be, great, movie, kid, be great, great movie, movie kid
+I:100;175;be, great, movie, be great, great movie
+I:100;176;good, family, flick, kid, flick, good family, family flick, flick kid, kid flick
+I:100;177;be, great, movie, be great, great movie
+I:100;178;do, expect, much, be, impressed, do expect, expect much, much be, be impressed
+I:100;179;age, theme, movie, be, perfect, age theme, theme movie, movie be, be perfect
+I:100;180;love, comic, book, be, live, action, love comic, comic book, book be, be live, live action
+I:100;181;great, cast, humorous, story, great cast, cast humorous, humorous story
+I:100;182;hate, pg, movie, be, funny, movie, adult, want, miss, hate pg, pg movie, movie be, be funny, funny movie, movie adult, adult want, want miss
+I:100;183;occasional, natural, high, school, boy/girl, kiss, occasional natural, natural high, high school, school boy/girl, boy/girl kiss
+I:100;184;love, everything, love everything
+I:100;185;kind, kid, movie, im, wayyyy, older, love, kind kid, kid movie, movie im, im wayyyy, wayyyy older, older love
+I:100;186;special, effect, be, excellent, script, be, smart, action, be, boring, special effect, effect be, be excellent, excellent script, script be, be smart, smart action, action be, be boring
+I:100;187;everything, movie, be, fun, best, degree, be, anything, wrong, movie, everything movie, movie be, be fun, fun best, best degree, degree be, be anything, anything wrong, wrong movie
+I:100;188;be, serious, movie, make, special, great, be serious, serious movie, movie make, make special, special great
+I:100;189;want, fun, movie, age, get, want fun, fun movie, movie age, age get
+I:100;190;adult, kid, love, adult kid, kid love
+I:100;191;do, favor, grab, magazine/book/kindle, something, do favor, favor grab, grab magazine/book/kindle, magazine/book/kindle something
+I:100;192;nice, twist, story, nice twist, twist story
+I:100;193;see, humor, see humor
+I:100;194;be, attractive, young, man, play, complex, character, be attractive, attractive young, young man, man play, play complex, complex character
+I:100;195;check, genuine, smile, extra, feature, disc, check genuine, genuine smile, smile extra, extra feature, feature disc
+I:100;196;be, top, model, material, be top, top model, model material
+I:100;197;story, have, good, pace, interesting, character, make, story have, have good, good pace, pace interesting, interesting character, character make
+I:100;198;give, entertainment, clear, line, good, give entertainment, entertainment clear, clear line, line good
+I:100;199;show, virtue, admire, show virtue, virtue admire
+I:100;200;be, better, movie, have, see, be better, better movie, movie have, have see
+I:100;201;be, family, orient, good, fun, time, be family, family orient, orient good, good fun, fun time
+I:100;202;satisfy, inner, hero, satisfy inner, inner hero
+I:100;203;be, sufficient, say, be, enjoy, be sufficient, sufficient say, say be, be enjoy
+I:100;204;acting, be, good, care, character, end, film, acting be, be good, good care, care character, character end, end film
+I:100;205;movie, be, creative, movie be, be creative
+I:100;206;anybody, have, read, comic, book, root, underdog, enjoy, movie, anybody have, have read, read comic, comic book, book root, root underdog, underdog enjoy, enjoy movie
+I:100;207;be, child, friendly, movie, movie, have, adult, be child, child friendly, friendly movie, movie movie, movie have, have adult
+I:100;208;be, witty, write, be witty, witty write
+I:100;209;recommend, movie, viewer, recommend movie, movie viewer
+I:100;210;do, think, anyone, care, read, keep, silent, detail, do think, think anyone, anyone care, care read, read keep, keep silent, silent detail
+I:100;211;watch, cameo, best, watch cameo, cameo best
+I:100;212;lovely, rest, cast, include, voice, flick, smash, hit, bug, turn, impressive, performance, lovely rest, rest cast, cast include, include voice, voice flick, flick smash, smash hit, hit bug, bug turn, turn impressive, impressive performance
+I:100;213;love, superhero, movie, be, funny, tasteful, love superhero, superhero movie, movie be, be funny, funny tasteful
+I:100;214;be, great, movie, child, young, adult, be great, great movie, movie child, child young, young adult
+I:100;215;be, movie, see, good, earth, comedy, be, good, whole, family, be movie, movie see, see good, good earth, earth comedy, comedy be, be good, good whole, whole family
+I:100;216;have, get, love, film, showcase, sky, high, be, generous, showcase, childhood, anthem, true, have get, get love, love film, film showcase, showcase sky, sky high, high be, be generous, generous showcase, showcase childhood, childhood anthem, anthem true
+I:100;217;be, worth, many, repeat, viewing, be worth, worth many, many repeat, repeat viewing
+I:100;218;recall, offering, demonstrate, strong, leg, box, office, recall offering, offering demonstrate, demonstrate strong, strong leg, leg box, box office
+I:100;219;be, third, generation, child, family, superhero, be third, third generation, generation child, child family, family superhero
+I:100;220;happen, be, world, greatest, caped, crusader, invincible, mistress, super, happen be, be world, world greatest, greatest caped, caped crusader, crusader invincible, invincible mistress, mistress super
+I:100;221;tech, learning, establishment, ideal, molding, tomorrow, super, tech learning, learning establishment, establishment ideal, ideal molding, molding tomorrow, tomorrow super
+I:100;222;swing, arrive, moment, have, be, dread, exhibit, lack, power, swing arrive, arrive moment, moment have, have be, be dread, dread exhibit, exhibit lack, lack power
+I:100;223;be, play, be play
+I:100;224;model, lend, immediate, appeal, realness, role, model lend, lend immediate, immediate appeal, appeal realness, realness role
+I:100;225;be, guy, glow, hilarious, be guy, guy glow, glow hilarious
+I:100;226;only, serious, power, be, best, friend, manipulate, plant, life, only serious, serious power, power be, be best, best friend, friend manipulate, manipulate plant, plant life
+I:100;227;deem, hero, deem hero
+I:100;228;love, scene, support, class, love scene, scene support, support class
+I:100;229;character, development, solid, script, story, allow, get, know, lovable, underdog, character development, development solid, solid script, script story, story allow, allow get, get know, know lovable, lovable underdog
+I:100;230;strength, film, be, cast, strength film, film be, be cast
+I:100;231;consist, teens, establish, actor, consist teens, teens establish, establish actor
+I:100;232;be, gorgeous, be gorgeous
+I:100;233;make, realize, grow, front, eye, make realize, realize grow, grow front, front eye
+I:100;234;featurette, take, scene, cast, crew, featurette take, take scene, scene cast, cast crew
+I:100;235;want, add, movie, collection, want add, add movie, movie collection
+I:100;236;think, movie, be, do, think movie, movie be, be do
+I:100;237;be, surprised, entertain, kid, movie, be surprised, surprised entertain, entertain kid, kid movie
+I:100;238;kid, love, older, one, kid love, love older, older one
+I:100;239;kid, enjoy, movie, kid enjoy, enjoy movie
+I:100;240;family, like, movie, family like, like movie
+I:100;241;be, movie, be, deep, be, fun, watch, be, nice, clean, be movie, movie be, be deep, deep be, be fun, fun watch, watch be, be nice, nice clean
+I:100;242;fun, family, film, whole, family, enjoy, fun family, family film, film whole, whole family, family enjoy
+I:100;243;like, family, film, be, good, adult, kid, be, like family, family film, film be, be good, good adult, adult kid, kid be
+I:100;244;story, be, good, combination, story be, be good, good combination
+I:100;245;story, be, fun, time, drag, have, corney, moment, be, disney, family, film, care, story be, be fun, fun time, time drag, drag have, have corney, corney moment, moment be, be disney, disney family, family film, film care
+I:100;246;visual, be, good, direction, be, good, visual be, be good, good direction, direction be, be good
+I:100;247;film, be, fun, whole, family, like, see, sequal, becouse, be, fun, see, more, adventure, film be, be fun, fun whole, whole family, family like, like see, see sequal, sequal becouse, becouse be, be fun, fun see, see more, more adventure
+I:100;248;stumble, channel, laugh, stumble channel, channel laugh
+I:100;249;be, surprise, actor, get, be surprise, surprise actor, actor get
+I:100;250;enjoy, scene, do, get, see, enjoy scene, scene do, do get, get see
+I:100;251;ensemble, cast, work, great, ensemble cast, cast work, work great
+I:100;252;great, special, effect, great special, special effect
+I:100;253;kid, be, brave, try, kid be, be brave, brave try
+I:100;254;have, go, few, adult, juicy, role, show, have, have, plenty, act, chop, have go, go few, few adult, adult juicy, juicy role, role show, show have, have have, have plenty, plenty act, act chop
+I:100;255;be, movie, recommend, plain, good, fun, be movie, movie recommend, recommend plain, plain good, good fun
+I:100;256;be, refresh, see, hit, homerun, time, be refresh, refresh see, see hit, hit homerun, homerun time
+I:100;257;last, few, year, have, see, large, amount, super, hero, movie, man, use, time, honor, tradition, super, power, new, one, tap, element, call, humaness, super, last few, few year, year have, have see, see large, large amount, amount super, super hero, hero movie, movie man, man use, use time, time honor, honor tradition, tradition super, super power, power new, new one, one tap, tap element, element call, call humaness, humaness super
+I:100;258;please, pick, movie, please pick, pick movie
+I:100;259;kid, love, love, wife, tolerate, kid love, love love, love wife, wife tolerate
+I:100;260;get, watch, enjoy, get watch, watch enjoy
+I:100;261;comic, book, fan, be, critical, movie, base, topic, super, comic book, book fan, fan be, be critical, critical movie, movie base, base topic, topic super
+I:100;262;one, be, fun, watch, poke, fun, super, clich, think, one be, be fun, fun watch, watch poke, poke fun, fun super, super clich, clich think
+I:100;263;be, comic, book, fan, dc, get, lot, subtle, jibe, be comic, comic book, book fan, fan dc, dc get, get lot, lot subtle, subtle jibe
+I:100;264;keep, mind, be, film, age, classic, style, keep mind, mind be, be film, film age, age classic, classic style
+I:100;265;be, crude, humor, scathing, satire, be, funny, great, whole, family, be crude, crude humor, humor scathing, scathing satire, satire be, be funny, funny great, great whole, whole family
+I:100;266;family, movie, teaching, value, friendship, trust, family movie, movie teaching, teaching value, value friendship, friendship trust
+I:100;267;be, witty, smart, entertaining, picture, be witty, witty smart, smart entertaining, entertaining picture
+I:100;268;great, movie, kid, fun, whole, family, great movie, movie kid, kid fun, fun whole, whole family
+I:100;269;grow, silver, age, 60, hero, high, ideal, team, grow silver, silver age, age 60, 60 hero, hero high, high ideal, ideal team
+I:100;270;be, great, clean, movie, mom, dad, sit, watch, kid, embarrassment, be great, great clean, clean movie, movie mom, mom dad, dad sit, sit watch, watch kid, kid embarrassment
+I:100;271;good, start, finish, love, everybody, movie, fire, boy, be, hot, good start, start finish, finish love, love everybody, everybody movie, movie fire, fire boy, boy be, be hot
+I:100;272;love, movie, be, hard, find, good, copy, love movie, movie be, be hard, hard find, find good, good copy
+I:100;273;movie, be, silly, fun, movie, make, feel, good, need, pick, movie be, be silly, silly fun, fun movie, movie make, make feel, feel good, good need, need pick
+I:100;274;love, comic, book, kid, watch, movie, love comic, comic book, book kid, kid watch, watch movie
+I:100;275;minute, cameo, minute cameo
+I:100;276;p., p., s., good, be, bold, statement, p. p., p. s., s. good, good be, be bold, bold statement
+I:100;277;kid, enjoy, film, kid enjoy, enjoy film
+I:100;278;read, other, review, story, be, clever, read other, other review, review story, story be, be clever
+I:100;279;see, movie, theater, high, hope, be, dissapoint, see movie, movie theater, theater high, high hope, hope be, be dissapoint
+I:100;280;love, storyline, character, love storyline, storyline character
+I:100;281;be, greatest, creation, be greatest, greatest creation
+I:100;282;do, expect, be, be, entertain, surprise, interesting, twist, do expect, expect be, be be, be entertain, entertain surprise, surprise interesting, interesting twist
+I:100;283;wholesome, fun, enjoyability, factor, score, better, wholesome fun, fun enjoyability, enjoyability factor, factor score, score better
+I:100;284;be, perfect, movie, intended, audience, be perfect, perfect movie, movie intended, intended audience
+I:100;285;be, good, movie, be good, good movie
+I:100;286;be, superhero, movie, late, be, kind, modern, version, be superhero, superhero movie, movie late, late be, be kind, kind modern, modern version
+I:100;287;story, be, overall, good, be, predictable, be, draw, character, life, story be, be overall, overall good, good be, be predictable, predictable be, be draw, draw character, character life
+I:100;288;feel, struggle.yet, same, time, movie, do, try, be, serious, be, fun, it!very, funny, engaging, wholesome, family, fun, feel struggle.yet, struggle.yet same, same time, time movie, movie do, do try, try be, be serious, serious be, be fun, fun it!very, it!very funny, funny engaging, engaging wholesome, wholesome family, family fun
+I:100;289;good, kid, movie, be, extra, look, great, blue, good kid, kid movie, movie be, be extra, extra look, look great, great blue
+I:100;290;ray, be, good, see, do, comedy, ray be, be good, good see, see do, do comedy
+I:100;291;love, movie, blue, ray, love movie, movie blue, blue ray
+I:100;292;be, good, fantasy, movie, have, timeless, appeal, be good, good fantasy, fantasy movie, movie have, have timeless, timeless appeal
+I:100;293;be, good, super, hero, dad, be good, good super, super hero, hero dad
+I:100;294;be, fan, make, perfect, sense, be fan, fan make, make perfect, perfect sense
+I:100;295;anyone, like, fantasy, super, hero, w/a, dash, villiany, love, movie, anyone like, like fantasy, fantasy super, super hero, hero w/a, w/a dash, dash villiany, villiany love, love movie
+I:100;296;end, make, end make
+I:100;297;year, old, give, star, year, old, give, year old, old give, give star, star year, year old, old give
+I:100;298;like, music, remake, lot, music, be, popular, be, teenager, be, funny, like music, music remake, remake lot, lot music, music be, be popular, popular be, be teenager, teenager be, be funny
+I:100;299;be, first, day, high, school, freshman, son, superhero, power, couple, be first, first day, day high, high school, school freshman, freshman son, son superhero, superhero power, power couple
+I:100;300;be, able, save, family, world, be able, able save, save family, family world
+I:100;301;sky, high, be, cute, sweet, perfect, family, sky high, high be, be cute, cute sweet, sweet perfect, perfect family
+I:100;302;good, clean, fun, good clean, clean fun
+I:100;303;find, grin, most, film, enjoy, sheer, cuteness, find grin, grin most, most film, film enjoy, enjoy sheer, sheer cuteness
+I:100;304;entire, cast, do, nice, campy, top, job, be, superhero, super, villain, enjoy, appearance, entire cast, cast do, do nice, nice campy, campy top, top job, job be, be superhero, superhero super, super villain, villain enjoy, enjoy appearance
+I:100;305;story, be, typical, happy, ending, good, message, story be, be typical, typical happy, happy ending, ending good, good message
+I:100;306;sky, high, teach, kid, be, true, true, friend, true, believe, wrap, live, action, comic, book, sky high, high teach, teach kid, kid be, be true, true true, true friend, friend true, true believe, believe wrap, wrap live, live action, action comic, comic book
+I:100;307;sky, high, be, easy, breezy, light, sky high, high be, be easy, easy breezy, breezy light
+I:100;308;heart, summer, flick, perfect, entire, family, heart summer, summer flick, flick perfect, perfect entire, entire family
+I:100;309;love, movie, do, kid, love movie, movie do, do kid
+I:100;310;recommend, movie, kid, age, recommend movie, movie kid, kid age
+I:100;311;have, great, casting, adult, have great, great casting, casting adult
+I:100;312;be, great, movie, kid, adult, be great, great movie, movie kid, kid adult
+I:100;313;love, movie, think, admit, love movie, movie think, think admit
+I:100;314;order, come, few, day, problem, be, packaging, be, damage, be, case, order come, come few, few day, day problem, problem be, be packaging, packaging be, be damage, damage be, be case
+I:100;315;interesting, concept, have, be, reduce, silly, kid, film, interesting concept, concept have, have be, be reduce, reduce silly, silly kid, kid film
+I:100;316;cape, franchise, enter, high, school, year, mention, success, school, mutant, cape franchise, franchise enter, enter high, high school, school year, year mention, mention success, success school, school mutant
+I:100;317;time, be, right, film, be, part, part, fantastic, time be, be right, right film, film be, be part, part part, part fantastic
+I:100;318;protagonist, teen, son, greatest, hero, play, have, lot, live, protagonist teen, teen son, son greatest, greatest hero, hero play, play have, have lot, lot live
+I:100;319;add, natural, teen, anxiety, be, surround, gifted, teens, intense, teacher, include, add natural, natural teen, teen anxiety, anxiety be, be surround, surround gifted, gifted teens, teens intense, intense teacher, teacher include
+I:100;320;effect, be, important, superhero, genre, super, effect be, be important, important superhero, superhero genre, genre super
+I:100;321;visual, be, right, balance, comic, book, realism, key, moment, be, transformation, mild, visual be, be right, right balance, balance comic, comic book, book realism, realism key, key moment, moment be, be transformation, transformation mild
+I:100;322;mannered, school, bus, supersonic, save, homage, man, be, great, fun, mannered school, school bus, bus supersonic, supersonic save, save homage, homage man, man be, be great, great fun
+I:100;323;soundtrack, be, perfect, clue, high, school, spoof, tune, misremember, hearing, candle, add, right, flavor, soundtrack be, be perfect, perfect clue, clue high, high school, school spoof, spoof tune, tune misremember, misremember hearing, hearing candle, candle add, add right, right flavor
+I:100;324;family, fun, whole, family, disappoint, hardcore, comic, fan, pedestrian, handling, material, heel, theme, project, like, family fun, fun whole, whole family, family disappoint, disappoint hardcore, hardcore comic, comic fan, fan pedestrian, pedestrian handling, handling material, material heel, heel theme, theme project, project like
+I:100;325;continue, save, world, continue, hero, support, class, continue save, save world, world continue, continue hero, hero support, support class
+I:100;326;movie, be, funny, entertaining, full, adventuresome, moment, movie be, be funny, funny entertaining, entertaining full, full adventuresome, adventuresome moment
+I:100;327;like, be, sure, like, like be, be sure, sure like
+I:100;328;movie, be, great, entertainment, kid, long, car, trip, plane, ride, movie be, be great, great entertainment, entertainment kid, kid long, long car, car trip, trip plane, plane ride
+I:100;329;kid, imagination, kid imagination
+I:100;330;prettiest, popular, girl, school, take, shine, prettiest popular, popular girl, girl school, school take, take shine
+I:100;331;crowd, confidence, soar, begin, develop, strength, ability, fly, crowd confidence, confidence soar, soar begin, begin develop, develop strength, strength ability, ability fly
+I:100;332;become, revenge, fest, back, side, major, pain, engage, titanic, battle, good, become revenge, revenge fest, fest back, back side, side major, major pain, pain engage, engage titanic, titanic battle, battle good
+I:100;333;angst, element, movie, include, obligatory, housewreck, party, angst element, element movie, movie include, include obligatory, obligatory housewreck, housewreck party
+I:100;334;result, be, light, entertaining, miss, beat, result be, be light, light entertaining, entertaining miss, miss beat
+I:100;335;kurt, be, goofy, battle, evil, sneak, secret, game, pinball, kurt be, be goofy, goofy battle, battle evil, evil sneak, sneak secret, secret game, game pinball
+I:100;336;danielle, pannabaker, be, great, surprise, danielle pannabaker, pannabaker be, be great, great surprise
+I:100;337;use, power, be, character, unusual, true, expression, female, power, best, use power, power be, be character, character unusual, unusual true, true expression, expression female, female power, power best
+I:100;338;star, effort, sky, high, be, good, family, fun, fare, star effort, effort sky, sky high, high be, be good, good family, family fun, fun fare
+I:100;339;whole, family, enjoy, year, old, year, old, whole family, family enjoy, enjoy year, year old, old year, year old
+I:100;340;real, hit, movie, night, real hit, hit movie, movie night
+I:100;341;be, new, look, great, packaging, be new, new look, look great, great packaging
+I:100;342;play, show, scratch, skip, play show, show scratch, scratch skip
+I:100;343;way, kid, get, keep, thing, real, way kid, kid get, get keep, keep thing, thing real
+I:100;344;be, scene, have, see, be, play, kid, superpower, control, flora, play, fire, be, play, refreshing, honesty, make, clear, be, real, kid, cartoon, superhero, be scene, scene have, have see, see be, be play, play kid, kid superpower, superpower control, control flora, flora play, play fire, fire be, be play, play refreshing, refreshing honesty, honesty make, make clear, clear be, be real, real kid, kid cartoon, cartoon superhero
+I:100;345;line, be, draw, power, kick, switch, side, line be, be draw, draw power, power kick, kick switch, switch side
+I:100;346;minor, superpower, enjoy, sidekick, friend, be, go, be, power, need, right, time, right, place, minor superpower, superpower enjoy, enjoy sidekick, sidekick friend, friend be, be go, go be, be power, power need, need right, right time, time right, right place
+I:100;347;screenplay, be, write, write, last, line, film, go, final, punch, line, right, screenplay be, be write, write write, write last, last line, line film, film go, go final, final punch, punch line, line right
+I:100;348;be, cute, movie, be, bad, thing, case, be cute, cute movie, movie be, be bad, bad thing, thing case
+I:100;349;be, good, clean, humor, kissing, gross, older, kid, be good, good clean, clean humor, humor kissing, kissing gross, gross older, older kid
+I:100;350;movie, have, interesting, premise, school, super, hero, sidekick, movie have, have interesting, interesting premise, premise school, school super, super hero, hero sidekick
+I:100;351;story, keep, interest, way, story keep, keep interest, interest way
+I:100;352;feature, show, stunt, be, do, actor, be, great, peak, scene, feature show, show stunt, stunt be, be do, do actor, actor be, be great, great peak, peak scene
+I:100;353;find, movie, tacky, expectable, kid, find, fun, fascinating, find movie, movie tacky, tacky expectable, expectable kid, kid find, find fun, fun fascinating
+I:100;354;like, like, like like
+I:100;355;be, favorite, super, hero, movie, be favorite, favorite super, super hero, hero movie
+I:100;356;be, fun, be, appealing, be fun, fun be, be appealing
+I:100;357;think, story, be, write, consider, be, movie, gear, younger, crowd, think story, story be, be write, write consider, consider be, be movie, movie gear, gear younger, younger crowd
+I:100;358;acting, be, good, acting be, be good
+I:100;359;be, great, film, be great, great film
+I:100;360;oscar, great, fun, film, age, oscar great, great fun, fun film, film age
+I:100;361;film, casting, be, excellent, character, be, do, act, story, be, cute, film casting, casting be, be excellent, excellent character, character be, be do, do act, act story, story be, be cute
+I:100;362;laugh, smile, enjoy, film, first, frame, last, laugh smile, smile enjoy, enjoy film, film first, first frame, frame last
+I:100;363;fact, feel, good, think, fact feel, feel good, good think
+I:100;364;be, be, kid, be, love, be be, be kid, kid be, be love
+I:100;365;love, computer, wear, tennis, shoe, be, great, movie, love computer, computer wear, wear tennis, tennis shoe, shoe be, be great, great movie
+I:100;366;little, flick, kid, enjoy, little flick, flick kid, kid enjoy
+I:100;367;be, perfect, role, be, fun, fill, movie, right, amount, silliness, be perfect, perfect role, role be, be fun, fun fill, fill movie, movie right, right amount, amount silliness
+I:100;368;kid, be, be, sure, like, be, perfect, weekend, night, movie, family, kid be, be be, be sure, sure like, like be, be perfect, perfect weekend, weekend night, night movie, movie family
+I:100;369;year, old, daughter, i, year, old, mother, love, movie, year old, old daughter, daughter i, i year, year old, old mother, mother love, love movie
+I:100;370;be, huge, fan, be huge, huge fan
+I:100;371;have, read, comic, book, enjoy, xmen, movie, have read, read comic, comic book, book enjoy, enjoy xmen, xmen movie
+I:100;372;sf, fan, true, sf fan, fan true
+I:100;373;movie, have, right, balance, angst, lightheartedness, appeal, wide, age, range, movie have, have right, right balance, balance angst, angst lightheartedness, lightheartedness appeal, appeal wide, wide age, age range
+I:100;374;actor, movie, do, fine, job, hope, see, *, sequel, *, actor movie, movie do, do fine, fine job, job hope, hope see, see *, * sequel, sequel *
+I:100;375;favorite, movie, favorite movie
+I:100;376;have, power, end, course, do, best, friend, girl, amzing, power, refuse, demonstrate, despise, superhero/sidekick, division, have power, power end, end course, course do, do best, best friend, friend girl, girl amzing, amzing power, power refuse, refuse demonstrate, demonstrate despise, despise superhero/sidekick, superhero/sidekick division
+I:100;377;be, film, everyone, enjoy, be film, film everyone, everyone enjoy
+I:100;378;kid, love, exciting, story, spectacular, special, effect, be, plenty, humour, appeal, adult, kid love, love exciting, exciting story, story spectacular, spectacular special, special effect, effect be, be plenty, plenty humour, humour appeal, appeal adult
+I:100;379;start, show, tv, month, find, be, decide, watch, turn, be, good, movie, start show, show tv, tv month, month find, find be, be decide, decide watch, watch turn, turn be, be good, good movie
+I:100;380;be, cheesy, part, overall, be, funny, have, good, action, be cheesy, cheesy part, part overall, overall be, be funny, funny have, have good, good action
+I:100;381;grandson, watch, least, month, grandson watch, watch least, least month
+I:100;382;be, sure, share, many, friend, be sure, sure share, share many, many friend
+I:100;383;be, best, movie, see, year, be best, best movie, movie see, see year
+I:100;384;develop, power, help, cope, problems?this, movie, be, suppose, be, mindless, fun, young, young, heart, succeed, develop power, power help, help cope, cope problems?this, problems?this movie, movie be, be suppose, suppose be, be mindless, mindless fun, fun young, young young, young heart, heart succeed
+I:100;385;actor, do, great, job, unknown, teen, cast, actor do, do great, great job, job unknown, unknown teen, teen cast
+I:100;386;adult, film, have, fun, roll, adult film, film have, have fun, fun roll
+I:100;387;everyone, try, do, good, job, have, fun, same, time, spirit, draw, film, everyone try, try do, do good, good job, job have, have fun, fun same, same time, time spirit, spirit draw, draw film
+I:100;388;enjoy, brief, appearance, school, principal, get, best, line, entire, movie, enjoy brief, brief appearance, appearance school, school principal, principal get, get best, best line, line entire, entire movie
+I:100;389;special, effect, be, decent, help, draw, film, special effect, effect be, be decent, decent help, help draw, draw film
+I:100;390;wide, screen, picture, full, surround, sound, be, great, wide screen, screen picture, picture full, full surround, surround sound, sound be, be great
+I:100;391;extra, include, music, video, melt, blooper, scene, stunt, alternate, opening, extra include, include music, music video, video melt, melt blooper, blooper scene, scene stunt, stunt alternate, alternate opening
+I:100;392;worth, watch, be, alternate, opening, worth watch, watch be, be alternate, alternate opening
+I:100;393;be, fun, help, fill, couple, plot, point, movie, be fun, fun help, help fill, fill couple, couple plot, plot point, point movie
+I:100;394;be, perfect, movie, watch, family, long, week, want, relax, be perfect, perfect movie, movie watch, watch family, family long, long week, week want, want relax
+I:100;395;best, fun, best fun
+I:100;396;buy, movie, whime, have, amazon, giftcard, be, feel, nostalgic, buy movie, movie whime, whime have, have amazon, amazon giftcard, giftcard be, be feel, feel nostalgic
+I:100;397;movie, be, better, remember, watch, kid, movie be, be better, better remember, remember watch, watch kid
+I:100;398;be, year, old, daughter, favorite, movie, watch, be year, year old, old daughter, daughter favorite, favorite movie, movie watch
+I:100;399;be, girl, be, grow, show, meet, mother, nice, like, movie, be girl, girl be, be grow, grow show, show meet, meet mother, mother nice, nice like, like movie
+I:100;400;idea, high, idea high
+I:100;401;school, superhero, be, cool, school superhero, superhero be, be cool
+I:100;402;sidekick, dichotomy, be, interesting, make, interesting, conflict, sidekick dichotomy, dichotomy be, be interesting, interesting make, make interesting, interesting conflict
+I:100;403;movie, be, comic, movie be, be comic
+I:100;404;book, serious, realistic, note, man, movie, take, be, like, movie, book serious, serious realistic, realistic note, note man, man movie, movie take, take be, be like, like movie
+I:100;405;ending, be, bit, surprise, be, fun, watch, few, revelation, way, ending be, be bit, bit surprise, surprise be, be fun, fun watch, watch few, few revelation, revelation way
+I:100;406;fun, light, super, fun light, light super
+I:100;407;be, teacher, be, fun, family, movie, show, kid, field, trip, bus, travel, be teacher, teacher be, be fun, fun family, family movie, movie show, show kid, kid field, field trip, trip bus, bus travel
+I:100;408;say, be, new, favorite, movie, say be, be new, new favorite, favorite movie
+I:100;409;great, price, fast, shipping, work, great, great price, price fast, fast shipping, shipping work, work great
+I:100;410;movie, be, cool, family, flick, movie be, be cool, cool family, family flick
+I:100;411;be, cool, movie, be cool, cool movie
+I:100;412;be, fan, superhero, movie, be fan, fan superhero, superhero movie
+I:100;413;be, good, be good
+I:100;414;seem, bit, wooden, other, adult, do, great, job, seem, be, enjoy, seem bit, bit wooden, wooden other, other adult, adult do, do great, great job, job seem, seem be, be enjoy
+I:100;415;wife, daughter, love, movie, wife daughter, daughter love, love movie
+I:100;416;daughter, be, be, scare, intense, moment, daughter be, be be, be scare, scare intense, intense moment
+I:100;417;enjoyable, movie, enjoyable movie
+I:100;418;hope, see, sequel, hope see, see sequel
+I:100;419;have, super, have super
+I:100;420;strength, fly, strength fly
+I:100;421;hero, have, real, superpower, sidekick, have, power, something, powerful, hero have, have real, real superpower, superpower sidekick, sidekick have, have power, power something, something powerful
+I:100;422;good, special, effect, good, acting, interesting, story, good, direction, family, good special, special effect, effect good, good acting, acting interesting, interesting story, story good, good direction, direction family
+I:100;423;friendly, be, entertaining, film, young, old, friendly be, be entertaining, entertaining film, film young, young old
+I:100;424;deserve, star, recommend, deserve star, star recommend
+I:100;425;little, guy, love, movie, little guy, guy love, love movie
+I:100;426;be, great, movie, be great, great movie
+I:100;427;right, people, know, be, funny, right people, people know, know be, be funny
+I:100;428;special, power, be, be, speedy, zoom, house, outside, special power, power be, be be, be speedy, speedy zoom, zoom house, house outside
+I:100;429;course, young, play, meet, typical, high, school, bully, seductive, temptress, play, course young, young play, play meet, meet typical, typical high, high school, school bully, bully seductive, seductive temptress, temptress play
+I:100;430;be, innocuous, fun, own, way, entertaining, nice, song, boot, be innocuous, innocuous fun, fun own, own way, way entertaining, entertaining nice, nice song, song boot
+I:100;431;be, cute, stupid, think, be, be cute, cute stupid, stupid think, think be
+I:100;432;have, fun, watch, movie, have fun, fun watch, watch movie
+I:100;433;be, favorite, movie, be favorite, favorite movie
+I:100;434;like, movie, obvious, spoofing, other, superhero, movie, be, music, like movie, movie obvious, obvious spoofing, spoofing other, other superhero, superhero movie, movie be, be music
+I:100;435;do, have, great, music, movie, use, way, help, tell, story, do have, have great, great music, music movie, movie use, use way, way help, help tell, tell story
+I:100;436;play, voice, carry, background, be, perfect, touch, play voice, voice carry, carry background, background be, be perfect, perfect touch
+I:100;437;be, fetch, be, clean, funny, do, dream, become, super, hero, be fetch, fetch be, be clean, clean funny, funny do, do dream, dream become, become super, super hero
+I:100;438;kid, like, watch, kid like, like watch
+I:100;439;adult, enjoy, movie, adult enjoy, enjoy movie
+I:100;440;super, hero, side, be, interesting, twist, super hero, hero side, side be, be interesting, interesting twist
+I:100;441;have, make, same, movie, young, star, try, live, legacy, football, take, approach, have, young, man, be, father, be, great, super, hero, have make, make same, same movie, movie young, young star, star try, try live, live legacy, legacy football, football take, take approach, approach have, have young, young man, man be, be father, father be, be great, great super, super hero
+I:100;442;add, fun, plot, have, movie, whole, family, enjoy, add fun, fun plot, plot have, have movie, movie whole, whole family, family enjoy
+I:100;443;young, actors/actresses, do, fine, shine, role, young actors/actresses, actors/actresses do, do fine, fine shine, shine role
+I:100;444;be, cast, be, superhero, be cast, cast be, be superhero
+I:100;445;movie, theme, be, be, important, respect, peer, movie theme, theme be, be be, be important, important respect, respect peer
+I:100;446;be, fun, movie, nice, message, be fun, fun movie, movie nice, nice message
+I:100;447;film, succeed, film succeed
+I:100;448;equal, part, teen, film, superhero, movie, be, surprising, genre, mesh, equal part, part teen, teen film, film superhero, superhero movie, movie be, be surprising, surprising genre, genre mesh
+I:100;449;be, creativity, work, build, seamless, combination, have, story, element, work, create, terrific, fun, film, be creativity, creativity work, work build, build seamless, seamless combination, combination have, have story, story element, element work, work create, create terrific, terrific fun, fun film
+I:100;450;writing, act, special, effect, be, top, notch, writing act, act special, special effect, effect be, be top, top notch
+I:100;451;be, nice, superhero, action, throw, be nice, nice superhero, superhero action, action throw
+I:100;452;entertaining, movie, entertaining movie
+I:100;453;be, good, family, movie, be good, good family, family movie
+I:100;454;like, good, kid, like good, good kid
+I:100;455;look, movie, want, watch, look movie, movie want, want watch
+I:100;456;be, good, see, movie, be good, good see, see movie
+I:100;457;usual, high, school, high, jinks, occur, family, friendly, comedy, new, interesting, twist, usual high, high school, school high, high jinks, jinks occur, occur family, family friendly, friendly comedy, comedy new, new interesting, interesting twist
+I:100;458;have, small, amusing, role, have small, small amusing, amusing role
+I:100;459;give, star, be, sheer, fun, give star, star be, be sheer, sheer fun
+I:100;460;see, visit, turn, be, perfect, film, adult, year, old, see visit, visit turn, turn be, be perfect, perfect film, film adult, adult year, year old
+I:100;461;lot, laughter, silliness, lot laughter, laughter silliness
+I:100;462;feel, fresh, have, nice, feel, super, hero, antic, feel fresh, fresh have, have nice, nice feel, feel super, super hero, hero antic
+I:100;463;storyline, be, decent, storyline be, be decent
+I:100;464;bit, imagination, special, power, have, be, use, bit imagination, imagination special, special power, power have, have be, be use
+I:100;465;like, character, like character
+I:100;466;be, best, be best
+I:100;467;be, good, be good
+I:100;468;movie, be, predictable, young, son, like, movie be, be predictable, predictable young, young son, son like
+I:100;469;story, be, super, hero, kid, special, power, story be, be super, super hero, hero kid, kid special, special power
+I:100;470;have, fun, special, effect, positive, message, young, child, have fun, fun special, special effect, effect positive, positive message, message young, young child
+I:100;471;be, safe, movie, child, have, cute, moment, be safe, safe movie, movie child, child have, have cute, cute moment
+I:100;472;be, fun, family, movie, be fun, fun family, family movie
+I:100;473;be, great, rainy, day, car, road, be great, great rainy, rainy day, day car, car road
+I:100;474;be, enjoyable, clean, movie, whole, family, watch, be enjoyable, enjoyable clean, clean movie, movie whole, whole family, family watch
+I:100;475;love, be, favorite, movie, love be, be favorite, favorite movie
+I:100;476;give, thumb, give thumb
+I:100;477;have, see, several, time, good, family, movie, fun, action, have see, see several, several time, time good, good family, family movie, movie fun, fun action
+I:100;478;be, cute, movie, watch, be cute, cute movie, movie watch
+I:100;479;be, fun, kid, flick, be, top, pile, overacted, fair, be fun, fun kid, kid flick, flick be, be top, top pile, pile overacted, overacted fair
+I:100;480;theme, be, present, character, engage, theme be, be present, present character, character engage
+I:100;481;sibling, have, quote, line, year, sibling have, have quote, quote line, line year
+I:100;482;be, kid, overlook, cheesiness, movie, be, blast, be kid, kid overlook, overlook cheesiness, cheesiness movie, movie be, be blast
+I:100;483;dizzy, movie, like, sort, combine, high, school, cliquestype, movie, comic, book, superhero, dizzy movie, movie like, like sort, sort combine, combine high, high school, school cliquestype, cliquestype movie, movie comic, comic book, book superhero
+I:100;484;be, great, funny, movie, be great, great funny, funny movie
+I:100;485;be, fine, be, be fine, fine be
+I:100;486;acting, be, little, cheesy, have, whole, family, laughing, hoot, action, acting be, be little, little cheesy, cheesy have, have whole, whole family, family laughing, laughing hoot, hoot action
+I:100;487;be, favorite, mine, be favorite, favorite mine
+I:100;488;old, appreciate, good, clean, movie, old appreciate, appreciate good, good clean, clean movie
+I:100;489;movie, have, great, character, fun, story, nothing, feel, bad, show, kid, exception, super, movie have, have great, great character, character fun, fun story, story nothing, nothing feel, feel bad, bad show, show kid, kid exception, exception super
+I:100;490;be, do, overall, leave, feeling, pleased, satisfaction, be do, do overall, overall leave, leave feeling, feeling pleased, pleased satisfaction
+I:100;491;friendly, way, pass, time, friendly way, way pass, pass time
+I:100;492;be, good, movie, family, be good, good movie, movie family
+I:100;493;have, prefer, be, more, battle, sequence, city, work, have prefer, prefer be, be more, more battle, battle sequence, sequence city, city work
+I:100;494;love, hero, star, movie, love hero, hero star, star movie
+I:100;495;kid, movie, kid movie
+I:100;496;be, year, old, boy, favorite, movie, do, find, annoy, be year, year old, old boy, boy favorite, favorite movie, movie do, do find, find annoy
+I:100;497;be, fun, be, nothing, scary, adult, be fun, fun be, be nothing, nothing scary, scary adult
+I:100;498;family, movie, be, hard, find, family movie, movie be, be hard, hard find
+I:100;499;have, rare, combination, humor, action, plot, have rare, rare combination, combination humor, humor action, action plot
+I:100;500;address, issue, family, struggle, teen, face, high, school, address issue, issue family, family struggle, struggle teen, teen face, face high, high school
+I:100;501;look, great, family, film, be, look great, great family, family film, film be
+I:100;502;be, light, fun, depict, moral, value, something, many, film, be, lack, be light, light fun, fun depict, depict moral, moral value, value something, something many, many film, film be, be lack
+I:100;503;be, fun, age, prefer, film, family, entertainment, be fun, fun age, age prefer, prefer film, film family, family entertainment
+I:100;504;recommend, movie, recommend movie
+I:100;505;be, pleasant, surprise, recent, year, comedy/adventure, be, funny, solid, action, scene, charming, be pleasant, pleasant surprise, surprise recent, recent year, year comedy/adventure, comedy/adventure be, be funny, funny solid, solid action, action scene, scene charming
+I:100;506;superhero, movie, fit, comedy, genre, most, thank, do, sink, stupid, parody, be, nice, change, pace, serious, superhero, film, man, trilogy, course, superhero movie, movie fit, fit comedy, comedy genre, genre most, most thank, thank do, do sink, sink stupid, stupid parody, parody be, be nice, nice change, change pace, pace serious, serious superhero, superhero film, film man, man trilogy, trilogy course
+I:100;507;view, character, be, son, world, greatest, superhero, view character, character be, be son, son world, world greatest, greatest superhero
+I:100;508;be, part, clique, form, early, going, student, body, dread, upcome, tryout, determine, get, assign, camp, be part, part clique, clique form, form early, early going, going student, student body, body dread, dread upcome, upcome tryout, tryout determine, determine get, get assign, assign camp
+I:100;509;add, grow, plot, thread, kind, secret, threat, menace, school, be, set, great, ride, movie, add grow, grow plot, plot thread, thread kind, kind secret, secret threat, threat menace, menace school, school be, be set, set great, great ride, ride movie
+I:100;510;agree, reviewer, say, real, agree reviewer, reviewer say, say real
+I:100;511;life, high, school, be, much, fun, life high, high school, school be, be much, much fun
+I:100;512;movie, have, fun, lot, classic, superhero, theme, mock, be, goofy, action, sequence, become, pointless, movie have, have fun, fun lot, lot classic, classic superhero, superhero theme, theme mock, mock be, be goofy, goofy action, action sequence, sequence become, become pointless
+I:100;513;great, fun, recommend, great fun, fun recommend
+I:100;514;age, love, move, age love, love move
+I:100;515;be, fun, adventurous, funny, family, friendly, be fun, fun adventurous, adventurous funny, funny family, family friendly
+I:100;516;old, son, find, be, entertaining, grip, old son, son find, find be, be entertaining, entertaining grip
+I:100;517;do, worry, enjoy, storyline, include, predictable, unpredictable, twist, do worry, worry enjoy, enjoy storyline, storyline include, include predictable, predictable unpredictable, unpredictable twist
+I:100;518;film, be, terrific, be, spoof, comic, book, comic, book, film, goofier, one, tv, series, 1970, film be, be terrific, terrific be, be spoof, spoof comic, comic book, book comic, comic book, book film, film goofier, goofier one, one tv, tv series, series 1970
+I:100;519;film, poke, fun, genre, film poke, poke fun, fun genre
+I:100;520;performance, be, most, part, great, performance be, be most, most part, part great
+I:100;521;film, big, film big
+I:100;522;budget, star, seem, be, have, terrific, time, ham, budget star, star seem, seem be, be have, have terrific, terrific time, time ham
+I:100;523;kid, do, fine, job, kid do, do fine, fine job
+I:100;524;have, say, film, be, meet, be, fair, find, be, much, wittier, entertaining, film, have say, say film, film be, be meet, meet be, be fair, fair find, find be, be much, much wittier, wittier entertaining, entertaining film
+I:100;525;product, be, brand, new, ship, work, great, product be, be brand, brand new, new ship, ship work, work great
+I:100;526;be, give, gift, daughter, love, movie, be give, give gift, gift daughter, daughter love, love movie
+I:100;527;great, dialog, feel, way, small, great dialog, dialog feel, feel way, way small
+I:100;528;be, go, do, hero, show, have, super, hero, setting, people, do, heroic, stuff, realistic, shot, be go, go do, do hero, hero show, show have, have super, super hero, hero setting, setting people, people do, do heroic, heroic stuff, stuff realistic, realistic shot
+I:100;529;buy, story, dialog, buy story, story dialog
+I:100;530;daughter, love, movie, daughter love, love movie
+I:100;531;son, world, greatest, superhero, marry, couple, son world, world greatest, greatest superhero, superhero marry, marry couple
+I:100;532;entertaining, superhero, pastiche, be, best, superhero, film, decade, entertaining superhero, superhero pastiche, pastiche be, be best, best superhero, superhero film, film decade
+I:100;533;imaginative, firm, understanding, be, make, superhero, fun, inspiring, picture, be, fill, great, performance, thrilling, action, sequence, imaginative firm, firm understanding, understanding be, be make, make superhero, superhero fun, fun inspiring, inspiring picture, picture be, be fill, fill great, great performance, performance thrilling, thrilling action, action sequence
+I:100;534;be, good, be good
+I:100;535;happen, like, enjoy, movie, happen like, like enjoy, enjoy movie
+I:100;536;good, take, genre, make, farcical, serious, enough, care, character, good take, take genre, genre make, make farcical, farcical serious, serious enough, enough care, care character
+I:100;537;be, family, friendly, movie, kid, watch, be family, family friendly, friendly movie, movie kid, kid watch
+I:100;538;be, fun, film, explore, world, superhero, superpower, be, part, everyday, life, child, superhero, attend, special, high, school, suspend, high, be fun, fun film, film explore, explore world, world superhero, superhero superpower, superpower be, be part, part everyday, everyday life, life child, child superhero, superhero attend, attend special, special high, high school, school suspend, suspend high
+I:100;539;father, be, be, super, strength, father be, be be, be super, super strength
+I:100;540;solid, entertainment, whole, family, explore, life, unusual, high, school, develop, evolve, relationship, solid entertainment, entertainment whole, whole family, family explore, explore life, life unusual, unusual high, high school, school develop, develop evolve, evolve relationship
+I:100;541;appearance, power, bring, many, change, dorky, be, positive, appearance power, power bring, bring many, many change, change dorky, dorky be, be positive
+I:100;542;set, stage, tremendous, battle, homecoming, take, combined, superpower, young, teens, defeat, unexpected, deadly, threat, set stage, stage tremendous, tremendous battle, battle homecoming, homecoming take, take combined, combined superpower, superpower young, young teens, teens defeat, defeat unexpected, unexpected deadly, deadly threat
+I:100;543;special, effect, be, solid, rocket, new, height, finale, special effect, effect be, be solid, solid rocket, rocket new, new height, height finale
+I:100;544;be, goofball, make, lot, mistake, be, ideal, hero, material, do, right, thing, step, count, be goofball, goofball make, make lot, lot mistake, mistake be, be ideal, ideal hero, hero material, material do, do right, right thing, thing step, step count
+I:100;545;seem, mature, play, high, school, student, beautiful, athletic, actress, be, such, joy, watch, seem mature, mature play, play high, high school, school student, student beautiful, beautiful athletic, athletic actress, actress be, be such, such joy, joy watch
+I:100;546;dress, rubber, suit, be, entertaining, seem, revel, overplay, role, dress rubber, rubber suit, suit be, be entertaining, entertaining seem, seem revel, revel overplay, overplay role
+I:100;547;film, soundtrack, make, pop, tune, be, interesting, oddity, film soundtrack, soundtrack make, make pop, pop tune, tune be, be interesting, interesting oddity
+I:100;548;son, love, movie, son love, love movie
+I:100;549;have, good, family, feel, have good, good family, family feel
+I:100;550;love, action, love action
+I:100;551;good, family, movie, night, good family, family movie, movie night
+I:100;552;beauty, blonde, sudden, change, life, come, beauty blonde, blonde sudden, sudden change, change life, life come
+I:100;553;subvert, rule, add, formula, super, hero, super, heroine, do, get, subvert rule, rule add, add formula, formula super, super hero, hero super, super heroine, heroine do, do get
+I:100;554;true, provide, amusing, moment, story, underdog, become, super, true provide, provide amusing, amusing moment, moment story, story underdog, underdog become, become super
+I:100;555;spirited, coach, go, sidekick, class, spirited coach, coach go, go sidekick, sidekick class
+I:100;556;comic, fan, enjoy, watch, film, spot, reference, genre, comic fan, fan enjoy, enjoy watch, watch film, film spot, spot reference, reference genre
+I:100;557;be, fun, stellar, come, be fun, fun stellar, stellar come
+I:100;558;age, movie, appeal, whole, family, age movie, movie appeal, appeal whole, whole family
+I:100;559;premise, be, clever, kid, super, hero, go, special, high, school, learn, use, power, deal, social, stress, awkwardness, adolescence, premise be, be clever, clever kid, kid super, super hero, hero go, go special, special high, high school, school learn, learn use, use power, power deal, deal social, social stress, stress awkwardness, awkwardness adolescence
+I:100;560;theme, such, first, girl, friend, hang, cool, crowd, please, dad, be, handle, theme such, such first, first girl, girl friend, friend hang, hang cool, cool crowd, crowd please, please dad, dad be, be handle
+I:100;561;be, neat, see, sort, movie, focus, male, character, problem, encounter, be neat, neat see, see sort, sort movie, movie focus, focus male, male character, character problem, problem encounter
+I:100;562;violence, be, comic, bookish, help, keep, laugh, character, move, violence be, be comic, comic bookish, bookish help, help keep, keep laugh, laugh character, character move
+I:100;563;kurt, do, exceptional, job, play, oblivious, father, kurt do, do exceptional, exceptional job, job play, play oblivious, oblivious father
+I:100;564;be, drop, be drop
+I:100;565;rest, cast, character, be, fun, bit, stereotypical, rest cast, cast character, character be, be fun, fun bit, bit stereotypical
+I:100;566;be, true, play, alternate, love, interest, be, plant, be true, true play, play alternate, alternate love, love interest, interest be, be plant
+I:100;567;loving, vegan, fight, assault, loving vegan, vegan fight, fight assault
+I:100;568;recommend, movie, benign, laugh, good, time, recommend movie, movie benign, benign laugh, laugh good, good time
+I:100;569;new, angle, have, become, prominent, superhero, film, superfamily, new angle, angle have, have become, become prominent, prominent superhero, superhero film, film superfamily
+I:100;570;success, incredible, be, sure, movie, superfamily, be, latest, fad, success incredible, incredible be, be sure, sure movie, movie superfamily, superfamily be, be latest, latest fad
+I:100;571;know, good, thing, see, cash, fad, sky, high, know good, good thing, thing see, see cash, cash fad, fad sky, sky high
+I:100;572;sky, high, be, story, boy, grow, go, high, school, learn, come, grip, man, be, become, sky high, high be, be story, story boy, boy grow, grow go, go high, high school, school learn, learn come, come grip, grip man, man be, be become
+I:100;573;get, attend, special, high, school, get attend, attend special, special high, high school
+I:100;574;be, place, superhero, kid, go, train, develop, skill, power, be place, place superhero, superhero kid, kid go, go train, train develop, develop skill, skill power
+I:100;575;dad, hope, have, super, dad hope, hope have, have super
+I:100;576;strength, mom, like, see, fly, be, happy, matter, strength mom, mom like, like see, see fly, fly be, be happy, happy matter
+I:100;577;be, good, thing, do, have, power, end, get, track, side, kick, regiment, school, be good, good thing, thing do, do have, have power, power end, end get, get track, track side, side kick, kick regiment, regiment school
+I:100;578;film, have, impressive, cast, support, actor, include, play, wonder, principal, coach, film have, have impressive, impressive cast, cast support, support actor, actor include, include play, play wonder, wonder principal, principal coach
+I:100;579;be, something, rare, major, motion, picture, do, better, job, other, studio, business, be something, something rare, rare major, major motion, motion picture, picture do, do better, better job, job other, other studio, studio business
+I:100;580;main, actor, youth, add, realism, ground, film, be, farfetched, imaginative, story, main actor, actor youth, youth add, add realism, realism ground, ground film, film be, be farfetched, farfetched imaginative, imaginative story
+I:100;581;know, be, film, be, expect, be, cheap, knock, know be, be film, film be, be expect, expect be, be cheap, cheap knock
+I:100;582;laugh, bit, find, enjoy, film, laugh bit, bit find, find enjoy, enjoy film
+I:100;583;son, like, movie, get, great, price, son like, like movie, movie get, get great, great price
+I:100;584;receive, mail, receive mail
+I:100;585;kid, love, movie, kid love, love movie
+I:100;586;family, be, fill, virtue, fun, family be, be fill, fill virtue, virtue fun
+I:100;587;do, great, job, kid, be, good, be, sarcastic, sassy, do great, great job, job kid, kid be, be good, good be, be sarcastic, sarcastic sassy
+I:100;588;be, refreshing, see, movie, movie, be, pure, fun, watch, whole, family, be refreshing, refreshing see, see movie, movie movie, movie be, be pure, pure fun, fun watch, watch whole, whole family
+I:100;589;finish, watch, movie, think, be, fantastic, finish watch, watch movie, movie think, think be, be fantastic
+I:100;590;storyline, cliche, be, do, fine, acting, make, enjoyable, watch, storyline cliche, cliche be, be do, do fine, fine acting, acting make, make enjoyable, enjoyable watch
+I:100;591;be, hysterical, father, be hysterical, hysterical father
+I:100;592;reason, give, movie, high, mark, be, have, mass, appeal, reason give, give movie, movie high, high mark, mark be, be have, have mass, mass appeal
+I:100;593;watch, adult, be, entertain, start, finish, watch adult, adult be, be entertain, entertain start, start finish
+I:100;594;be, movie, watch, be movie, movie watch
+I:100;595;great, movie, kid, like, watch, great movie, movie kid, kid like, like watch
+I:100;596;be, fun, movie, watch, be fun, fun movie, movie watch
+I:100;597;movie, combine, good, evil, light, darkness, young, old, action, movie combine, combine good, good evil, evil light, light darkness, darkness young, young old, old action
+I:100;598;result, be, enjoyable, flick, watch, least, year, result be, be enjoyable, enjoyable flick, flick watch, watch least, least year
+I:100;599;kid, adult, enjoy, movie, kid adult, adult enjoy, enjoy movie
+I:100;600;sure, come, glorified, tv, movie, elevate, film, be, performance, cast, sure come, come glorified, glorified tv, tv movie, movie elevate, elevate film, film be, be performance, performance cast
+I:100;601;be, son, greatest, superhero, world, have, know, be son, son greatest, greatest superhero, superhero world, world have, have know
+I:100;602;usual, provide, exceptional, crisp, transfer, usual provide, provide exceptional, exceptional crisp, crisp transfer
+I:100;603;sound, be, super, crisp, clear, dialogue, sound be, be super, super crisp, crisp clear, clear dialogue
+I:100;604;surround, speaker, be, use, put, middle, action, surround speaker, speaker be, be use, use put, put middle, middle action
+I:100;605;appear, film, have, mild, mannered, extra, most, be, good, overall, appear film, film have, have mild, mild mannered, mannered extra, extra most, most be, be good, good overall
+I:100;606;scene, satisfy, kid, scene satisfy, satisfy kid

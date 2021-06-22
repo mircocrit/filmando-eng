@@ -1,0 +1,288 @@
+1;Pulp Fiction
+2;Lawrence of Arabia
+3;Modern Times
+4;Goodfellas
+5;Apocalypse Now
+6;Casablanca
+7;The Shawshank Redemption
+8;Rashomon
+9;The Third Man
+10;The Dark Knight
+11;Chinatown
+12;Double Indemnity
+13;Ikiru
+14;Raging Bull
+15;North by Northwest
+16;Tokyo Story
+17;All About Eve
+18;The Silence of the Lambs
+19;Toy Story
+20;Saving Private Ryan
+21;Back to the Future
+22;Annie Hall
+23;It Happened One Night
+24;Aliens
+25;Amadeus
+26;La Dolce Vita
+27;The Shining
+28;The Best Years of Our Lives
+29;Fargo
+30;Reservoir Dogs
+31;My Neighbor Totoro
+32;Memento
+33;The Pianist
+34;Cool Hand Luke
+35;Jaws
+36;To Kill a Mockingbird
+37;Once Upon a Time in America
+38;Barry Lyndon
+39;The Grapes of Wrath
+40;Before Sunset
+41;The Usual Suspects
+42;Strangers on a Train
+43;The Departed
+44;Fight Club
+45;Full Metal Jacket
+46;Dog Day Afternoon
+47;This Is Spinal Tap
+48;Die Hard
+49;Duck Soup
+50;Trainspotting
+51;Young Frankenstein
+52;Forrest Gump
+53;The Graduate
+54;Incendies
+55;The Terminator
+56;The Matrix
+57;Talk to Her
+58;Good Will Hunting
+59;Frankenstein
+60;Infernal Affairs
+61;Toy Story 2
+62;Jurassic Park
+63;American History X
+64;The Iron Giant
+65;Stand by Me
+66;Rope
+67;Brief Encounter
+68;In the Heat of the Night
+69;Midnight Cowboy
+70;Sling Blade
+71;The Exorcist
+72;Shaun of the Dead
+73;Scarface
+74;The Return
+75;Platoon
+76;Being John Malkovich
+77;Underground
+78;The African Queen
+79;Almost Famous
+80;Magnolia
+81;Gandhi
+82;Goldfinger
+83;Batman Begins
+84;Lost in Translation
+85;Hotel Rwanda
+86;A Night at the Opera
+87;Spartacus
+88;The Prestige
+89;The Shop Around the Corner
+90;Who Framed Roger Rabbit
+91;The Incredibles
+92;Dazed and Confused
+93;Blazing Saddles
+94;Day for Night
+95;The Green Mile
+96;Dial M for Murder
+97;Dirty Harry
+98;Iron Man
+99;Casino
+100;A Christmas Story
+101;Serpico
+102;Barton Fink
+103;Mary Poppins
+104;The Sixth Sense
+105;My Fair Lady
+106;Ed Wood
+107;The Sound of Music
+108;Enter the Dragon
+109;Rain Man
+110;The Birds
+111;Edward Scissorhands
+112;Peeping Tom
+113;Eraserhead
+114;Gladiator
+115;Little Miss Sunshine
+116;True Romance
+117;Brokeback Mountain
+118;Shrek
+119;The Piano
+120;Doctor Zhivago
+121;Malcolm X
+122;Donnie Darko
+123;Paper Moon
+124;Nine Queens
+125;Run Lola Run
+126;Quiz Show
+127;West Side Story
+128;American Graffiti
+129;Kung Fu Hustle
+130;Porco Rosso
+131;Midnight Express
+132;Midnight Run
+133;The Umbrellas of Cherbourg
+134;Serenity
+135;Mystic River
+136;After Hours
+137;Apollo 13
+138;Dances with Wolves
+139;From Here to Eternity
+140;American Splendor
+141;Easy Rider
+142;Animal House
+143;East of Eden
+144;Dead Man Walking
+145;Kagemusha
+146;The Motorcycle Diaries
+147;Leaving Las Vegas
+148;Sideways
+149;The Thin Red Line
+150;Tootsie
+151;From Russia with Love
+152;Capote
+153;Kiss Kiss Bang Bang
+154;The Color Purple
+155;Misery
+156;Bullitt
+157;Walk the Line
+158;Empire of the Sun
+159;V for Vendetta
+160;In America
+161;Forbidden Planet
+162;The Hours
+163;Donnie Brasco
+164;The City of Lost Children
+165;Minority Report
+166;Big Fish
+167;Spider-Man 2
+168;The Squid and the Whale
+169;Five Easy Pieces
+170;Forbidden Games
+171;Cinderella Man
+172;To Catch a Thief
+173;Bad Education
+174;Half Nelson
+175;Pierrot le Fou
+176;A Man for All Seasons
+177;Marty
+178;Walkabout
+179;Brick
+180;Billy Elliot
+181;Jackie Brown
+182;25th Hour
+183;Road to Perdition
+184;High Plains Drifter
+185;Fiddler on the Roof
+186;Ray
+187;The Day of the Jackal
+188;Cast Away
+189;The Crow
+190;As Good as It Gets
+191;The Tenant
+192;Pi
+193;Titanic
+194;The Aviator
+195;Collateral
+196;Chicago
+197;Hoosiers
+198;Mulan
+199;Sin City
+200;Tombstone
+201;Videodrome
+202;Mildred Pierce
+203;Inside Man
+204;Bloody Sunday
+205;Predator
+206;Garden State
+207;In the Bedroom
+208;21 Grams
+209;Drugstore Cowboy
+210;Far from Heaven
+211;Angels with Dirty Faces
+212;Elizabeth
+213;Dark City
+214;Dumbo
+215;Gilda
+216;Batman
+217;King Kong
+218;Metropolis
+219;Independence Day
+220;Wall Street
+221;Armageddon
+222;The Manchurian Candidate
+223;The Ring
+224;Dead Birds
+225;The Producers
+226;Sky High
+227;Heaven Can Wait
+228;Spider-Man
+229;The Patriot
+230;Private Benjamin
+231;The Little Mermaid
+232;Gentlemen Prefer Blondes
+233;Escape to Witch Mountain
+234;The Mummy
+235;Tomcats
+236;Underworld
+237;Cheaper by the Dozen
+238;Impromptu
+239;Thirteen
+240;Hardcore
+241;Home on the Range
+242;Big Daddy
+243;Sylvia
+244;Rush Hour
+245;Man on Fire
+246;War of the Worlds
+247;Cabin Fever
+248;The One
+249;Dirty Work
+250;Jersey Girl
+251;Walking Tall
+252;Moulin Rouge
+253;Fantasia 2000
+254;Tuck Everlasting
+255;Oliver Twist
+256;The Shaggy Dog
+257;Wolf
+258;Alone in the Dark
+259;Behind Enemy Lines
+260;The Apartment
+261;The Village
+262;Peter Pan
+263;The In-Laws
+264;The Libertine
+265;Babel
+266;300
+267;Blood Diamond
+268;Alpha Dog
+269;We Are Marshall
+270;Apocalypto
+271;Stranger than Fiction
+272;Saw
+273;Match Point
+274;The Machinist
+275;The Last Samurai
+276;Once Upon a Time in Mexico
+277;8 Mile
+278;Enemy at the Gates
+279;Kingdom of Heaven
+280;Hitch
+281;Harry Potter and the Chamber of Secrets
+282;The Pledge
+283;American Psycho
+284;Unbreakable
+285;Any Given Sunday
+286;Sleepy Hollow
+287;Vanilla Sky
+288;Miss Congeniality

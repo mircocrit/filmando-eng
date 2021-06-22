@@ -1,0 +1,465 @@
+I:350;1;want, see, cuase, look, good, want see, see cuase, cuase look, look good
+I:350;2;be, good, movie, be, bad, be good, good movie, movie be, be bad
+I:350;3;do, fact, movie, be, base, true, story, true, event, do fact, fact movie, movie be, be base, base true, true story, story true, true event
+I:350;4;film, be, inspire, true, story, film be, be inspire, inspire true, true story
+I:350;5;man, walk, street, man walk, walk street
+I:350;6;be, gambling, casino, town, be gambling, gambling casino, casino town
+I:350;7;recover, return, home, recover return, return home
+I:350;8;casino, operator, own, town, casino operator, operator own, own town
+I:350;9;take, big, stick, return, casino, recover, special, force, medallion, be, steal, take big, big stick, stick return, return casino, casino recover, recover special, special force, force medallion, medallion be, be steal
+I:350;10;be, arrest, represent, trial, be arrest, arrest represent, represent trial
+I:350;11;plague, country, be, mention, film, plague country, country be, be mention, mention film
+I:350;12;guess, wins?the, original, film, have, raw, gritty, story, be, guess wins?the, wins?the original, original film, film have, have raw, raw gritty, gritty story, story be
+I:350;13;go, see, movie, be, pleased, go see, see movie, movie be, be pleased
+I:350;14;think, rock, do, excellent, job, think rock, rock do, do excellent, excellent job
+I:350;15;love, rundown, have, check, love rundown, rundown have, have check
+I:350;16;find, entertaining, find entertaining
+I:350;17;be, be, say, be be, be say
+I:350;18;be, earlier, film, great, film, star, be earlier, earlier film, film great, great film, film star
+I:350;19;have, habit, take, do, re, have habit, habit take, take do, do re
+I:350;20;movie, rely, star, power, day, do, movie rely, rely star, star power, power day, day do
+I:350;21;be, impress, be impress
+I:350;22;like, flex, muscle, film, much, charisma, like flex, flex muscle, muscle film, film much, much charisma
+I:350;23;be, good, enough, raw, violence, satisfy, be, become, bore, same, old, martial, art, formula, be good, good enough, enough raw, raw violence, violence satisfy, satisfy be, be become, become bore, bore same, same old, old martial, martial art, art formula
+I:350;24;be, person, live, life, more, adventure, blood, gut, be, potray, fictional, character, film, be person, person live, live life, life more, more adventure, adventure blood, blood gut, gut be, be potray, potray fictional, fictional character, character film
+I:350;25;support, cast, utter, filler, dialogue, entire, movie, main, character, do, best, ignore, have, red, support cast, cast utter, utter filler, filler dialogue, dialogue entire, entire movie, movie main, main character, character do, do best, best ignore, ignore have, have red
+I:350;26;see, movie, come, see movie, movie come
+I:350;27;love, movie, be, great, actor, love movie, movie be, be great, great actor
+I:350;28;recommend, anyone, be, exciting, action, movie, complete, w, comedy, drama, dash, irony, recommend anyone, anyone be, be exciting, exciting action, action movie, movie complete, complete w, w comedy, comedy drama, drama dash, dash irony
+I:350;29;day, be, best, movie, have, see, star, day be, be best, best movie, movie have, have see, see star
+I:350;30;share, opinion, have, leave, wrestling, see, remake, old, classic, title, walk, tall, help, see, be, decent, movie, star, share opinion, opinion have, have leave, leave wrestling, wrestling see, see remake, remake old, old classic, classic title, title walk, walk tall, tall help, help see, see be, be decent, decent movie, movie star
+I:350;31;be, movie, be, above, average, good, memorable, action, segment, be movie, movie be, be above, above average, average good, good memorable, memorable action, action segment
+I:350;32;be, enjoyable, story, be, base, true, story, make, scratch, head, be enjoyable, enjoyable story, story be, be base, base true, true story, story make, make scratch, scratch head
+I:350;33;make, remake, worth, see, enjoy, sleeper, make remake, remake worth, worth see, see enjoy, enjoy sleeper
+I:350;34;lot, action, speak, proper, lot action, action speak, speak proper
+I:350;35;gridiron, gang, full, screen, be, gridiron gang, gang full, full screen, screen be
+I:350;36;go, join, military, go join, join military
+I:350;37;come, home, heal, mind, everything, have, change, come home, home heal, heal mind, mind everything, everything have, have change
+I:350;38;hometown, have, turn, place, drug, gamble, have, clean, hometown have, have turn, turn place, place drug, drug gamble, gamble have, have clean
+I:350;39;walk, tall, be, great, remake, walk tall, tall be, be great, great remake
+I:350;40;be, great, movie, watch, get, boring, be great, great movie, movie watch, watch get, get boring
+I:350;41;enjoy, full, lively, character, good, people, villian, root, good, guy, enjoy full, full lively, lively character, character good, good people, people villian, villian root, root good, good guy
+I:350;42;be, violent, do, have, mild, strong, sexual, content, involve, girl, lap, dance, pole, thank, goodness, be, nudity, be violent, violent do, do have, have mild, mild strong, strong sexual, sexual content, content involve, involve girl, girl lap, lap dance, dance pole, pole thank, thank goodness, goodness be, be nudity
+I:350;43;be, great, film, look, wood, same, way, get, joke, see, film, be great, great film, film look, look wood, wood same, same way, way get, get joke, joke see, see film
+I:350;44;love, movie, star, love movie, movie star
+I:350;45;have, action, entertain, action, junky, have action, action entertain, entertain action, action junky
+I:350;46;stand, jury, claim, be, go, run, sheriff, clean, town, be, be, innocent, smash, private, property, assault, people, stand jury, jury claim, claim be, be go, go run, run sheriff, sheriff clean, clean town, town be, be be, be innocent, innocent smash, smash private, private property, property assault, assault people
+I:350;47;fire, entire, police, force, hire, friend, be, deputy, fire entire, entire police, police force, force hire, hire friend, friend be, be deputy
+I:350;48;be, ass, kick, place, be ass, ass kick, kick place
+I:350;49;give, thumb, give thumb
+I:350;50;love, second, be, great, movie, love second, second be, be great, great movie
+I:350;51;be, fan, movie, be, great, be fan, fan movie, movie be, be great
+I:350;52;good, action, film, plot, be, ok, good action, action film, film plot, plot be, be ok
+I:350;53;keep, interest, most, part, keep interest, interest most, most part
+I:350;54;walk, have, basis, become, classic, movie, walk have, have basis, basis become, become classic, classic movie
+I:350;55;show, have, potential, become, great, leading, actor, show have, have potential, potential become, become great, great leading, leading actor
+I:350;56;walk, walk, tall, be, class, act, walk walk, walk tall, tall be, be class, class act
+I:350;57;be, note, do, great, job, play, character, be note, note do, do great, great job, job play, play character
+I:350;58;movie, be, best, film, movie be, be best, best film
+I:350;59;be, wonderful, remake/tribute, be wonderful, wonderful remake/tribute
+I:350;60;do, outstanding, job, role, do outstanding, outstanding job, job role
+I:350;61;be, surprised, close, original, story, movie, follow, be surprised, surprised close, close original, original story, story movie, movie follow
+I:350;62;god, bless, rock, great, job, god bless, bless rock, rock great, great job
+I:350;63;be, good, pair, longtime, friend, small, rural, town, overun, corruption, be good, good pair, pair longtime, longtime friend, friend small, small rural, rural town, town overun, overun corruption
+I:350;64;check, film, do, film, good, thrill, check film, film do, do film, film good, good thrill
+I:350;65;love, it!funny, move, pointsi, love, action, movieany, thing, rock, be, love it!funny, it!funny move, move pointsi, pointsi love, love action, action movieany, movieany thing, thing rock, rock be
+I:350;66;say, new, story, say new, new story
+I:350;67;movie, be, great, watch, movie be, be great, great watch
+I:350;68;enjoy, new, release, enjoy new, new release
+I:350;69;be, movie, be movie
+I:350;70;do, believe, have, screen, presence, carry, project, do believe, believe have, have screen, screen presence, presence carry, carry project
+I:350;71;do, see, act, win, lot, award, do, see, action, fan, back, guy, next, year, do see, see act, act win, win lot, lot award, award do, do see, see action, action fan, fan back, back guy, guy next, next year
+I:350;72;be, hilarious, be hilarious
+I:350;73;have, great, sense, humor, have great, great sense, sense humor
+I:350;74;have, great, screen, presence, have, be, use, have great, great screen, screen presence, presence have, have be, be use
+I:350;75;respect, opinion, respect opinion
+I:350;76;remake, change, name, move, town, remake change, change name, name move, move town
+I:350;77;be, decent, action, flick, hero, comedy, sidekick, go, head, head, bad, guy, be decent, decent action, action flick, flick hero, hero comedy, comedy sidekick, sidekick go, go head, head head, head bad, bad guy
+I:350;78;good, action, film, good action, action film
+I:350;79;drug, gambling, pornography, have, seep, way, proud, town, drug gambling, gambling pornography, pornography have, have seep, seep way, way proud, proud town
+I:350;80;visit, casion, decide, have, see, thing, start, happen, visit casion, casion decide, decide have, have see, see thing, thing start, start happen
+I:350;81;bring, charisma, role, bring charisma, charisma role
+I:350;82;pull, role, likeable, respectable, return, soldier, pull role, role likeable, likeable respectable, respectable return, return soldier
+I:350;83;role, do, stretch, talent, actor, be, perfect, part, role do, do stretch, stretch talent, talent actor, actor be, be perfect, perfect part
+I:350;84;shine, movie, shine movie
+I:350;85;become, deputy, help, clean, town, become deputy, deputy help, help clean, clean town
+I:350;86;be, fan, manage, give, right, performance, movie, be fan, fan manage, manage give, give right, right performance, performance movie
+I:350;87;be, making, documentary, actor, talk, approach, character, wonderful, everyone, be, work, have, watch, begin, fill, dialogue, be making, making documentary, documentary actor, actor talk, talk approach, approach character, character wonderful, wonderful everyone, everyone be, be work, work have, have watch, watch begin, begin fill, fill dialogue
+I:350;88;be, be, lot, fun, good, movie, pick, need, something, do, do, take, lot, thinking, be be, be lot, lot fun, fun good, good movie, movie pick, pick need, need something, something do, do do, do take, take lot, lot thinking
+I:350;89;good, be, look, movie, do, have, bunch, tired, special, effect, good be, be look, look movie, movie do, do have, have bunch, bunch tired, tired special, special effect
+I:350;90;recommend, fan, rock, fan, old, western, fan, fun, action, movie, recommend fan, fan rock, rock fan, fan old, old western, western fan, fan fun, fun action, action movie
+I:350;91;be, fill, action, begin, end, chemistry, be, incredible, be fill, fill action, action begin, begin end, end chemistry, chemistry be, be incredible
+I:350;92;be, many, good, line, scatter, movie, be, funny, be many, many good, good line, line scatter, scatter movie, movie be, be funny
+I:350;93;give, feel, original, more, humor, give feel, feel original, original more, more humor
+I:350;94;be, surprise, see, movie, dedicate, be surprise, surprise see, see movie, movie dedicate
+I:350;95;say, movie, be, watch, say movie, movie be, be watch
+I:350;96;be, academy, award, winner, be, entertaining, be academy, academy award, award winner, winner be, be entertaining
+I:350;97;be, good, movie, feel, become, newest, action, star, be good, good movie, movie feel, feel become, become newest, newest action, action star
+I:350;98;actor, make, many, action, movie, hit, number, make, ton, money, actor make, make many, many action, action movie, movie hit, hit number, number make, make ton, ton money
+I:350;99;be, good, movie, be, good, be, be good, good movie, movie be, be good, good be
+I:350;100;see, friend, go, check, casino, see friend, friend go, go check, check casino
+I:350;101;become, arrest, trial, vow, be, innocent, run, sheriff, bring, good, become arrest, arrest trial, trial vow, vow be, be innocent, innocent run, run sheriff, sheriff bring, bring good
+I:350;102;enjoy, be, enjoy be
+I:350;103;love, movie, rock, rock, rule, movie, everyone, have, lol, love, lol, love movie, movie rock, rock rock, rock rule, rule movie, movie everyone, everyone have, have lol, lol love, love lol
+I:350;104;rock, dwayne, johnson, love, movie, get, more, movie, rock, love, take, word, like, rock dwayne, dwayne johnson, johnson love, love movie, movie get, get more, more movie, movie rock, rock love, love take, take word, word like
+I:350;105;be, good, movie, be good, good movie
+I:350;106;be, man, stand, town, be man, man stand, stand town
+I:350;107;hope, rock, get, good, sci, hope rock, rock get, get good, good sci
+I:350;108;be, fun, watch, want, late, night, be fun, fun watch, watch want, want late, late night
+I:350;109;brainer, work, brainer work
+I:350;110;be, great, movie, have, alot, action, suspense, alot, humor, be, see, enjoy, be great, great movie, movie have, have alot, alot action, action suspense, suspense alot, alot humor, humor be, be see, see enjoy
+I:350;111;walk, tall, do, meet, expectation, be, good, movie, son, watch, walk tall, tall do, do meet, meet expectation, expectation be, be good, good movie, movie son, son watch
+I:350;112;entertaining, action, movie, go, entertaining action, action movie, movie go
+I:350;113;be, underrated, actor, hope, get, attention, deserve, be underrated, underrated actor, actor hope, hope get, get attention, attention deserve
+I:350;114;do, expect, anything, movie, be, fine, do expect, expect anything, anything movie, movie be, be fine
+I:350;115;see, theater, do, know, be, fine, see theater, theater do, do know, know be, be fine
+I:350;116;like, previous, review, movie, like previous, previous review, review movie
+I:350;117;consider, original, be, base, true, story, be, fiction, be, discrepency, previous, reviewer, point, consider original, original be, be base, base true, true story, story be, be fiction, fiction be, be discrepency, discrepency previous, previous reviewer, reviewer point
+I:350;118;be, adaption, original, modern, time, be adaption, adaption original, original modern, modern time
+I:350;119;let, obvious, problem, reality, connection, original, pass, enjoy, movie, let obvious, obvious problem, problem reality, reality connection, connection original, original pass, pass enjoy, enjoy movie
+I:350;120;be, fan, like, be fan, fan like
+I:350;121;character, be, likable, character be, be likable
+I:350;122;comparison, be, spot, comparison be, be spot
+I:350;123;star, movie, star movie
+I:350;124;walk, be, better, film, have, hope, be, walk be, be better, better film, film have, have hope, hope be
+I:350;125;be, good, thing, do, drag, keep, action, be good, good thing, thing do, do drag, drag keep, keep action
+I:350;126;show, be, incredible, actor, want, be, have, say, be, impress, show be, be incredible, incredible actor, actor want, want be, be have, have say, say be, be impress
+I:350;127;basic, theme, movie, be, stand, be, walk, tall, attempt, do, movie, serve, entertainment, purpose, basic theme, theme movie, movie be, be stand, stand be, be walk, walk tall, tall attempt, attempt do, do movie, movie serve, serve entertainment, entertainment purpose
+I:350;128;like, have, beat, people, 4x4, like have, have beat, beat people, people 4x4
+I:350;129;fan, do, watch, film, superior, act, ability, love, moment, fan do, do watch, watch film, film superior, superior act, act ability, ability love, love moment
+I:350;130;compare, other, film, star, be, better, film, compare other, other film, film star, star be, be better, better film
+I:350;131;original, movie, spawn, sequel, tv, series, original movie, movie spawn, spawn sequel, sequel tv, tv series
+I:350;132;be, good, movie, money, be good, good movie, movie money
+I:350;133;walk, movie, base, true, story, excellent, walk movie, movie base, base true, true story, story excellent
+I:350;134;recommend, movie, anyone, recommend movie, movie anyone
+I:350;135;be, stunning, man, be stunning, stunning man
+I:350;136;star, return, home, army, be, go, year, star return, return home, home army, army be, be go, go year
+I:350;137;main, attraction, town, be, casino, security, guard, be, sell, drug, kid, main attraction, attraction town, town be, be casino, casino security, security guard, guard be, be sell, sell drug, drug kid
+I:350;138;be, lot, great, action, little, bit, humor, throw, be lot, lot great, great action, action little, little bit, bit humor, humor throw
+I:350;139;if, love, want, watch, great, action, film, go, watch, walk, tall, if love, love want, want watch, watch great, great action, action film, film go, go watch, watch walk, walk tall
+I:350;140;have, future, film, have future, future film
+I:350;141;have, style, have, future, motion, picture, slam, bam, action, thriller, have style, style have, have future, future motion, motion picture, picture slam, slam bam, bam action, action thriller
+I:350;142;love, movie, have, watch, several, time, disc, cable, love movie, movie have, have watch, watch several, several time, time disc, disc cable
+I:350;143;like, fact, action, movie, like fact, fact action, action movie
+I:350;144;revenge, cleanup, be, theme, lot, good, guy/bad, guy, encounter, destruction, property, set, imagine, revenge cleanup, cleanup be, be theme, theme lot, lot good, good guy/bad, guy/bad guy, guy encounter, encounter destruction, destruction property, property set, set imagine
+I:350;145;rehabbed, sidekick, make, film, watchable, rehabbed sidekick, sidekick make, make film, film watchable
+I:350;146;good, film, be, work, personal, frustration, need, identify, superhero, good film, film be, be work, work personal, personal frustration, frustration need, need identify, identify superhero
+I:350;147;be, great, movie, usual, hollywood, bs, fight, scene, be great, great movie, movie usual, usual hollywood, hollywood bs, bs fight, fight scene
+I:350;148;like, have, like, movie, like have, have like, like movie
+I:350;149;do, fine, action, movie, hope, see, more, do fine, fine action, action movie, movie hope, hope see, see more
+I:350;150;movie, have, funny, moment, complete, sidekick, have, good, villian, movie have, have funny, funny moment, moment complete, complete sidekick, sidekick have, have good, good villian
+I:350;151;make, stand, be, fact, rest, fight, scene, be, realistic, make stand, stand be, be fact, fact rest, rest fight, fight scene, scene be, be realistic
+I:350;152;great, movie, great movie
+I:350;153;remake, great, action, classic, carve, niche, role, make, famous, create, enjoyable, good, time, movie, own, sense, style, charisma, remake great, great action, action classic, classic carve, carve niche, niche role, role make, make famous, famous create, create enjoyable, enjoyable good, good time, time movie, movie own, own sense, sense style, style charisma
+I:350;154;definalty, hold, own, action, sequence, sense, humor, be, hard, match, definalty hold, hold own, own action, action sequence, sequence sense, sense humor, humor be, be hard, hard match
+I:350;155;beleive, be, force, reckon, action, genre, year, come, beleive be, be force, force reckon, reckon action, action genre, genre year, year come
+I:350;156;rock, come, hometown, serve, military, see, turn, rock come, come hometown, hometown serve, serve military, military see, see turn
+I:350;157;drug, be, run, street, nephew, be, be, most, town, drug be, be run, run street, street nephew, nephew be, be be, be most, most town
+I:350;158;make, best, friend, deputy, start, take, bad, guy, make best, best friend, friend deputy, deputy start, start take, take bad, bad guy
+I:350;159;movie, be, base, true, story, have, lot, action, joke, hour, minute, movie be, be base, base true, true story, story have, have lot, lot action, action joke, joke hour, hour minute
+I:350;160;good, movie, watch, recommend, good movie, movie watch, watch recommend
+I:350;161;mention, do, give, good, performance, mention do, do give, give good, good performance
+I:350;162;recomend, friend, anyone, like, good, movie, recomend friend, friend anyone, anyone like, like good, good movie
+I:350;163;special, da, rock, return, hometown, year, soldier, business, special da, da rock, rock return, return hometown, hometown year, year soldier, soldier business
+I:350;164;intend, fulfill, dream, work, town, sawmill, find, have, go, business, intend fulfill, fulfill dream, dream work, work town, town sawmill, sawmill find, find have, have go, go business
+I:350;165;wit, get, elect, wit get, get elect
+I:350;166;movie, version, have, filmdom, newest, big, action, star, be, invest, movie version, version have, have filmdom, filmdom newest, newest big, big action, action star, star be, be invest
+I:350;167;orient, action, scene, slick, kinetic, orient action, action scene, scene slick, slick kinetic
+I:350;168;gritty, deliver, fan, crave, gritty deliver, deliver fan, fan crave
+I:350;169;physicality, charisma.yes, be, action, star, physicality charisma.yes, charisma.yes be, be action, action star
+I:350;170;specific, genre, shine, specific genre, genre shine
+I:350;171;be, star, such, be, be, imbue, self, be star, star such, such be, be be, be imbue, imbue self
+I:350;172;good, formidable, villain, good formidable, formidable villain
+I:350;173;be, be, short, enjoyable, movie, be, sure, give, audience, good, time, be be, be short, short enjoyable, enjoyable movie, movie be, be sure, sure give, give audience, audience good, good time
+I:350;174;beat, fork, eye, beat fork, fork eye
+I:350;175;yarn, be, funny, movie, work, deserve, homage, yarn be, be funny, funny movie, movie work, work deserve, deserve homage
+I:350;176;know, charisma, make, best, achieve, entertain, film, know charisma, charisma make, make best, best achieve, achieve entertain, entertain film
+I:350;177;tell, walk, tall, propel, polar, opposite, response, tell walk, walk tall, tall propel, propel polar, polar opposite, opposite response
+I:350;178;explosive, tumult, splash, silver, screen, explosive tumult, tumult splash, splash silver, silver screen
+I:350;179;be, be, do, be be, be do
+I:350;180;recent, film, serve, prime, example, recent film, film serve, serve prime, prime example
+I:350;181;be, entertain, applaud, spend, be entertain, entertain applaud, applaud spend
+I:350;182;rest, assure, second, viewing, kill, rest assure, assure second, second viewing, viewing kill
+I:350;183;act, salvation, act salvation
+I:350;184;good, golly, be, marvel, good golly, golly be, be marvel
+I:350;185;find, mill, have, be, shut, casino, have, spring, neighborhood, kid, be, crack, addict, find mill, mill have, have be, be shut, shut casino, casino have, have spring, spring neighborhood, neighborhood kid, kid be, be crack, crack addict
+I:350;186;have, up, downs, worth, watch, least, have up, up downs, downs worth, worth watch, watch least
+I:350;187;soldier, fight, owner, thug, friend, succeed, soldier fight, fight owner, owner thug, thug friend, friend succeed
+I:350;188;film, raise, interesting, question, viewer, pay, close, attention, soldier, do, film raise, raise interesting, interesting question, question viewer, viewer pay, pay close, close attention, attention soldier, soldier do
+I:350;189;refer, other, refer other
+I:350;190;suspenseful, good, acting, good, suspenseful good, good acting, acting good
+I:350;191;be, best, thing, movie, be, trouble, be best, best thing, thing movie, movie be, be trouble
+I:350;192;boyfriend, love, movie, watch, weekly, boyfriend love, love movie, movie watch, watch weekly
+I:350;193;be, action, packed, story, line, be, motivational, be action, action packed, packed story, story line, line be, be motivational
+I:350;194;fact, be, base, true, story, be, nice, fact be, be base, base true, true story, story be, be nice
+I:350;195;be, movie, clean, house, beat, tar, people, manly, shenanigan, be, guarantee, good, movie, horizon, be movie, movie clean, clean house, house beat, beat tar, tar people, people manly, manly shenanigan, shenanigan be, be guarantee, guarantee good, good movie, movie horizon
+I:350;196;turn, be, town, turn be, be town
+I:350;197;way, hook, former, classmate, be, movie, be, gorgeous, look, great, red, bra, fulfil, minimum, hot, way hook, hook former, former classmate, classmate be, be movie, movie be, be gorgeous, gorgeous look, look great, great red, red bra, bra fulfil, fulfil minimum, minimum hot
+I:350;198;have, problem, have, be, blast, everything, be, do, see, be, improve, role, have problem, problem have, have be, be blast, blast everything, everything be, be do, do see, see be, be improve, improve role
+I:350;199;be, fine, best, friend, be, amusing, team, blended, be fine, fine best, best friend, friend be, be amusing, amusing team, team blended
+I:350;200;be, look, sexy, world, strongest, actress, be look, look sexy, sexy world, world strongest, strongest actress
+I:350;201;come, military, duty, find, town, have, become, dump, nephew, hook, drug, come military, military duty, duty find, find town, town have, have become, become dump, dump nephew, nephew hook, hook drug
+I:350;202;do, own, original, be, superior, movie, do, have, charm, version, contain, be, be, much, fun, watch, do, agree, most, reviewer, say, be, next, big, action, star, do own, own original, original be, be superior, superior movie, movie do, do have, have charm, charm version, version contain, contain be, be be, be much, much fun, fun watch, watch do, do agree, agree most, most reviewer, reviewer say, say be, be next, next big, big action, action star
+I:350;203;have, be, star, movie, be, solid, have be, be star, star movie, movie be, be solid
+I:350;204;enjoyact, .3, star, be, great, notdirecting, .2, star, drop, ball, love, story, movie, lengthspecial, effect, .3, star, explosion, gunplay, galore, enjoyact .3, .3 star, star be, be great, great notdirecting, notdirecting .2, .2 star, star drop, drop ball, ball love, love story, story movie, movie lengthspecial, lengthspecial effect, effect .3, .3 star, star explosion, explosion gunplay, gunplay galore
+I:350;205;movie, be, base, actual, event, have, say, be, good, movie be, be base, base actual, actual event, event have, have say, say be, be good
+I:350;206;movie, be, full, action, have, comedy, appeal, movie be, be full, full action, action have, have comedy, comedy appeal
+I:350;207;be, good, actor, great, wrestler, like, be good, good actor, actor great, great wrestler, wrestler like
+I:350;208;great, movie, be, worth, great movie, movie be, be worth
+I:350;209;original, be, better, original be, be better
+I:350;210;give, star, action, give star, star action
+I:350;211;role, something, be, natural, role something, something be, be natural
+I:350;212;good, action, movie, plenty, villian, boo, hero, cheer, good action, action movie, movie plenty, plenty villian, villian boo, boo hero, hero cheer
+I:350;213;think, movie, have, be, advertise, think movie, movie have, have be, be advertise
+I:350;214;take, fun, be, realistic, movie, take fun, fun be, be realistic, realistic movie
+I:350;215;shine, serious, role, kick, ass, have, fun, role, shine serious, serious role, role kick, kick ass, ass have, have fun, fun role
+I:350;216;character, be, new, sheriff, walk, big, club, try, take, control, town, grow, character be, be new, new sheriff, sheriff walk, walk big, big club, club try, try take, take control, control town, town grow
+I:350;217;help, bring, order, town, bring, criminal, be, friend, help bring, bring order, order town, town bring, bring criminal, criminal be, be friend
+I:350;218;be, play, make, fun, partner, be play, play make, make fun, fun partner
+I:350;219;have, promising, act, career, fellow, wrestler, hulk, have promising, promising act, act career, career fellow, fellow wrestler, wrestler hulk
+I:350;220;flick, have, big, good, guy, be, home, knock, bad, guy, flick have, have big, big good, good guy, guy be, be home, home knock, knock bad, bad guy
+I:350;221;story, line, be, familiar, give, new, life, story line, line be, be familiar, familiar give, give new, new life
+I:350;222;bring, screen, fresh, mixture, brawn, humor, talent, find, enjoyable, watch, bring screen, screen fresh, fresh mixture, mixture brawn, brawn humor, humor talent, talent find, find enjoyable, enjoyable watch
+I:350;223;have, see, several, movie, have, like, have see, see several, several movie, movie have, have like
+I:350;224;look, see, good, guy, win, change, likely, be, satisfy, version, walk, look see, see good, good guy, guy win, win change, change likely, likely be, be satisfy, satisfy version, version walk
+I:350;225;way, pay, hefty, price, way pay, pay hefty, hefty price
+I:350;226;kick, butt, have, own, kick, few, time, kick butt, butt have, have own, own kick, kick few, few time
+I:350;227;nice, see, good, guy, win, nice see, see good, good guy, guy win
+I:350;228;take, time, enjoy, moive, take time, time enjoy, enjoy moive
+I:350;229;end, stop, restore, town, decentcyi, like, film, performance, be, suit, action, film, have, build, stanima, do, stunt, end stop, stop restore, restore town, town decentcyi, decentcyi like, like film, film performance, performance be, be suit, suit action, action film, film have, have build, build stanima, stanima do, do stunt
+I:350;230;usual, keep, laugh, deputy, usual keep, keep laugh, laugh deputy
+I:350;231;omg, love, movie, be, awesome, omg love, love movie, movie be, be awesome
+I:350;232;tell, movie, action, overload, decent, plot, line, recommend, movie, tell movie, movie action, action overload, overload decent, decent plot, plot line, line recommend, recommend movie
+I:350;233;fan, enjoy, action, fill, movie, great, script, excellent, acting, fun, time, enjoy, day, great, movie, fan enjoy, enjoy action, action fill, fill movie, movie great, great script, script excellent, excellent acting, acting fun, fun time, time enjoy, enjoy day, day great, great movie
+I:350;234;movie, watch, movie watch
+I:350;235;best, movie, imo, best movie, movie imo
+I:350;236;tell, be, lucky, be, alive, cause, tear, casino, tell be, be lucky, lucky be, be alive, alive cause, cause tear, tear casino
+I:350;237;mess, crony, place, good, throw, bat, window, smash, have, brief, face, face, hamiltion, say, guess, change, be, relationship, mess crony, crony place, place good, good throw, throw bat, bat window, window smash, smash have, have brief, brief face, face face, face hamiltion, hamiltion say, say guess, guess change, change be, be relationship
+I:350;238;show, scar, beating, take, show scar, scar beating, beating take
+I:350;239;be, find, guilty, beat, election, fire, entire, department, be find, find guilty, guilty beat, beat election, election fire, fire entire, entire department
+I:350;240;scene, be, fun, have, decent, back, scene be, be fun, fun have, have decent, decent back
+I:350;241;do, good, job, do good, good job
+I:350;242;do, good, job, do good, good job
+I:350;243;im, glad, do, film, be, excellent, im glad, glad do, do film, film be, be excellent
+I:350;244;be, great, remake, classic, show, be great, great remake, remake classic, classic show
+I:350;245;love, kind, movie, be, love kind, kind movie, movie be
+I:350;246;disappoint, town, have, turn, corrupt, haven, criminal, thug, ordinary, people, have, fear, life, see, child, be, lead, drug, life, crime, disappoint town, town have, have turn, turn corrupt, corrupt haven, haven criminal, criminal thug, thug ordinary, ordinary people, people have, have fear, fear life, life see, see child, child be, be lead, lead drug, drug life, life crime
+I:350;247;put, entertaining, movie, full, action, emotion, put entertaining, entertaining movie, movie full, full action, action emotion
+I:350;248;play, return, home, special, force, play return, return home, home special, special force
+I:350;249;chris, go, friend, casino, have, good, time, chris go, go friend, friend casino, casino have, have good, good time
+I:350;250;recruit, best, friend, be, only, officer, recruit best, best friend, friend be, be only, only officer
+I:350;251;be, play, do, great, job, bring, comical, sense, movie, be play, play do, do great, great job, job bring, bring comical, comical sense, sense movie
+I:350;252;create, good, balance, create good, good balance
+I:350;253;chris, weapon, choice, be, large, piece, chris weapon, weapon choice, choice be, be large, large piece
+I:350;254;be, use, huge, piece, wood, put, hurt, people, be use, use huge, huge piece, piece wood, wood put, put hurt, hurt people
+I:350;255;lead, great, action, scene, lead great, great action, action scene
+I:350;256;use, gun, movie, scene, cedar, be, better, use gun, gun movie, movie scene, scene cedar, cedar be, be better
+I:350;257;be, extra, commentary, worth, listen, be extra, extra commentary, commentary worth, worth listen
+I:350;258;be, other, be, director, be other, other be, be director
+I:350;259;be, worth, listen, be worth, worth listen
+I:350;260;think, be, good, point, think be, be good, good point
+I:350;261;favorite, man, be, die, movie, rock, favorite man, man be, be die, die movie, movie rock
+I:350;262;lot, fighting, grunting, lot fighting, fighting grunting
+I:350;263;be, big, fan, be, funny, be big, big fan, fan be, be funny
+I:350;264;continue, prove, be, worthy, movie, stardom, take, put, degree, fun, role, continue prove, prove be, be worthy, worthy movie, movie stardom, stardom take, take put, put degree, degree fun, fun role
+I:350;265;cast, addition, cast, right, hand, man, cast addition, addition cast, cast right, right hand, hand man
+I:350;266;be, anything, new, offer, be, fun, take, same, ride, new, friend, be anything, anything new, new offer, offer be, be fun, fun take, take same, same ride, ride new, new friend
+I:350;267;anyone, suggest, be, good, worthy, filmmaking, hero, be, more, antihero, be, anyone suggest, suggest be, be good, good worthy, worthy filmmaking, filmmaking hero, hero be, be more, more antihero, antihero be
+I:350;268;be, trial, police, do, anything, happen, hero, decide, take, matter, own, hand, be trial, trial police, police do, do anything, anything happen, happen hero, hero decide, decide take, take matter, matter own, own hand
+I:350;269;be, engaging, action, star, likeability, do, find, genre, be engaging, engaging action, action star, star likeability, likeability do, do find, find genre
+I:350;270;have, nice, sense, humor, work, several, scene, walk, tall, idea, have, comic, scene, recooperate, have, chest, cut, ribbon, strike, least, odd, outright, wrong, have nice, nice sense, sense humor, humor work, work several, several scene, scene walk, walk tall, tall idea, idea have, have comic, comic scene, scene recooperate, recooperate have, have chest, chest cut, cut ribbon, ribbon strike, strike least, least odd, odd outright, outright wrong
+I:350;271;thing, film, have, co., star, turn, good, performance, thing film, film have, have co., co. star, star turn, turn good, good performance
+I:350;272;end, movie, be, impressed, end movie, movie be, be impressed
+I:350;273;act, movie, make, movie, enjoyable, act movie, movie make, make movie, movie enjoyable
+I:350;274;performance, movie, match, make, great, fight, scene, end, movie, performance movie, movie match, match make, make great, great fight, fight scene, scene end, end movie
+I:350;275;climax, whole, movie, be, huge, fight, scene, mention, happen, character, character, climax whole, whole movie, movie be, be huge, huge fight, fight scene, scene mention, mention happen, happen character, character character
+I:350;276;come, witty, play, character, come witty, witty play, play character
+I:350;277;have, be, year, tell, first, time, see, other, have, feeling, have be, be year, year tell, tell first, first time, time see, see other, other have, have feeling
+I:350;278;like, dad, do, want, use, gun, like dad, dad do, do want, want use, use gun
+I:350;279;be, learn, act, be learn, learn act
+I:350;280;be, impress, jungle, action, be, thick, add, drama, character, be impress, impress jungle, jungle action, action be, be thick, thick add, add drama, drama character
+I:350;281;story, be, base, real, story be, be base, base real
+I:350;282;new, film, be, solid, run, time, be, hour, new film, film be, be solid, solid run, run time, time be, be hour
+I:350;283;be, good, actor, be, gorgeous, movie, be, inspiring, be good, good actor, actor be, be gorgeous, gorgeous movie, movie be, be inspiring
+I:350;284;be, honest, actor, humble, willing, do, best, be honest, honest actor, actor humble, humble willing, willing do, do best
+I:350;285;like, movie, do, use, high, tech, gimmick, stuff, generate, computer, specialist, like movie, movie do, do use, use high, high tech, tech gimmick, gimmick stuff, stuff generate, generate computer, computer specialist
+I:350;286;be, fine, action, movie, whent, stand, bit, shadow, version, high, honor, be fine, fine action, action movie, movie whent, whent stand, stand bit, bit shadow, shadow version, version high, high honor
+I:350;287;be, hot, receive, mail, be, great, condition, make, happy, be hot, hot receive, receive mail, mail be, be great, great condition, condition make, make happy
+I:350;288;movie, be, awesome, like, character, movie be, be awesome, awesome like, like character
+I:350;289;action, be, great, be, cool, see, character, lot, heart, stand, curruption, big, way, action be, be great, great be, be cool, cool see, see character, character lot, lot heart, heart stand, stand curruption, curruption big, big way
+I:350;290;be, good, part, be good, good part
+I:350;291;be, great, movie, someone, take, control, get, rid, evil, join, be great, great movie, movie someone, someone take, take control, control get, get rid, rid evil, evil join
+I:350;292;be, perfect, film, be perfect, perfect film
+I:350;293;muscle, tattoo, perfect, film, muscle tattoo, tattoo perfect, perfect film
+I:350;294;plot, be, good, be, remake, earlier, movie, same, name, be, likeable, role, plot be, be good, good be, be remake, remake earlier, earlier movie, movie same, same name, name be, be likeable, likeable role
+I:350;295;love, lot, be, great, be, funny, nice, be, wonderful, ilove, love lot, lot be, be great, great be, be funny, funny nice, nice be, be wonderful, wonderful ilove
+I:350;296;legal, basis, everything, happen, be, movie, be, childish, view, justice, legal basis, basis everything, everything happen, happen be, be movie, movie be, be childish, childish view, view justice
+I:350;297;believable, human, emotion, plot, vague, connection, reality, believable human, human emotion, emotion plot, plot vague, vague connection, connection reality
+I:350;298;have, see, original, do, new, have see, see original, original do, do new
+I:350;299;be, former, special, service, soldier, army, be, return, home, settle, be former, former special, special service, service soldier, soldier army, army be, be return, return home, home settle
+I:350;300;become, sheriff, apoint, friend, help, restore, justice, town, become sheriff, sheriff apoint, apoint friend, friend help, help restore, restore justice, justice town
+I:350;301;like, movie, like movie
+I:350;302;guy, be, kill, seem, be, real, cool, guy, guy be, be kill, kill seem, seem be, be real, real cool, cool guy
+I:350;303;do, great, job, play, side, kick, rock, do great, great job, job play, play side, side kick, kick rock
+I:350;304;have, future, act, want, have future, future act, act want
+I:350;305;fan, like, lot, fan like, like lot
+I:350;306;be, funny, be, fight, scene, be funny, funny be, be fight, fight scene
+I:350;307;be, fun, story, be fun, fun story
+I:350;308;like, play, movie, be, love, interest, like play, play movie, movie be, be love, love interest
+I:350;309;be, great, see, screen, be great, great see, see screen
+I:350;310;be, hot, movie, be hot, hot movie
+I:350;311;like, movie, lot, like movie, movie lot
+I:350;312;lot, great, action, be, likely, possible, happen, lot great, great action, action be, be likely, likely possible, possible happen
+I:350;313;be, piece, cedar, like, see, get, use, be piece, piece cedar, cedar like, like see, see get, get use
+I:350;314;be, fun, film, look, whole, town, thing, be, fun, movie, be fun, fun film, film look, look whole, whole town, town thing, thing be, be fun, fun movie
+I:350;315;give, movie, star, give movie, movie star
+I:350;316;be, good, movie, watch, have, nothing, better, do, be good, good movie, movie watch, watch have, have nothing, nothing better, better do
+I:350;317;be, great, fun, watch, kick, butt, be great, great fun, fun watch, watch kick, kick butt
+I:350;318;keep, attention, guy, keep attention, attention guy
+I:350;319;play, great, comedic, side, kick, timing, be, perfect, play great, great comedic, comedic side, side kick, kick timing, timing be, be perfect
+I:350;320;great, have, fun, moment, great have, have fun, fun moment
+I:350;321;be, happy, see, new, version, stick, original, movie, be happy, happy see, see new, new version, version stick, stick original, original movie
+I:350;322;friend, go, casino, hero, catch, cheating, pit, friend go, go casino, casino hero, hero catch, catch cheating, cheating pit
+I:350;323;get, cedar4x4, beat, security, personnel, get cedar4x4, cedar4x4 beat, beat security, security personnel
+I:350;324;be, arrest, place, trial, be arrest, arrest place, place trial
+I:350;325;show, wound, previous, fight, casino, people, be, find, guilty, show wound, wound previous, previous fight, fight casino, casino people, people be, be find, find guilty
+I:350;326;good, movie, enjoy, good movie, movie enjoy
+I:350;327;fact, movie, be, good, fact movie, movie be, be good
+I:350;328;check, recommend, check recommend
+I:350;329;win, case, appeal, squeamishness, jury, wince, show, scar, box, cutter, win case, case appeal, appeal squeamishness, squeamishness jury, jury wince, wince show, show scar, scar box, box cutter
+I:350;330;happen, next, be, good, old, happen next, next be, be good, good old
+I:350;331;whup, big, man, big, stick, whup big, big man, man big, big stick
+I:350;332;be, lot, thud, grunt, crunch, be lot, lot thud, thud grunt, grunt crunch
+I:350;333;be, handsome, sleek, way, other, muscle, be handsome, handsome sleek, sleek way, way other, other muscle
+I:350;334;good, tale, tough, guy, stand, hometown, era, nobody, seem, be, stand, anything, good tale, tale tough, tough guy, guy stand, stand hometown, hometown era, era nobody, nobody seem, seem be, be stand, stand anything
+I:350;335;victory, old, sheriff, ensure, showdown, victory old, old sheriff, sheriff ensure, ensure showdown
+I:350;336;inspire, true, story, walk, be, remake, movie, same, name, fictionalize, true, story, original, do, inspire true, true story, story walk, walk be, be remake, remake movie, movie same, same name, name fictionalize, fictionalize true, true story, story original, original do
+I:350;337;be, movie, do, need, be, make, step, salvage, enjoyment, be movie, movie do, do need, need be, be make, make step, step salvage, salvage enjoyment
+I:350;338;have, charisma, presence, be, next, big, action, star, have charisma, charisma presence, presence be, be next, next big, big action, action star
+I:350;339;movie, be, perfect, example, pro, movie be, be perfect, perfect example, example pro
+I:350;340;appoint, leader, rise, law, do, be, appoint leader, leader rise, rise law, law do, do be
+I:350;341;idea, rock, character, think, more, movie, make, decent, people, character, movie, idea rock, rock character, character think, think more, more movie, movie make, make decent, decent people, people character, character movie
+I:350;342;simplify, good, guy/bad, guy, thing, most, action, movie, simplify good, good guy/bad, guy/bad guy, guy thing, thing most, most action, action movie
+I:350;343;have, meet, rock, seem, real, sharp, guy, nice, have meet, meet rock, rock seem, seem real, real sharp, sharp guy, guy nice
+I:350;344;movie, be, great, full, action, movie be, be great, great full, full action
+I:350;345;flick, figure, be, best, choice, flick figure, figure be, be best, best choice
+I:350;346;great, movie, choice, lady, want, please, boyfriend, non, great movie, movie choice, choice lady, lady want, want please, please boyfriend, boyfriend non
+I:350;347;come, plenty, time, say, be, excite, open, yesterday, come plenty, plenty time, time say, say be, be excite, excite open, open yesterday
+I:350;348;thank, professionalism, thank professionalism
+I:350;349;movie, be, decent, have, issue, hinder, bit, movie be, be decent, decent have, have issue, issue hinder, hinder bit
+I:350;350;movie, kick, ass, be, worth, check, movie kick, kick ass, ass be, be worth, worth check
+I:350;351;have, originality, make, good, family, movie, have originality, originality make, make good, good family, family movie
+I:350;352;enjoy, non, enjoy non
+I:350;353;good, night, movie, watch, home, chill, good night, night movie, movie watch, watch home, home chill
+I:350;354;think, be, nice, think be, be nice
+I:350;355;nice, modern, version, earlier, picture, nice modern, modern version, version earlier, earlier picture
+I:350;356;funny, humor, thanks, dirty, solid, action, great, storyline, make, walk, great, movie, funny humor, humor thanks, thanks dirty, dirty solid, solid action, action great, great storyline, storyline make, make walk, walk great, great movie
+I:350;357;be, charismatic, be, amazing, action, star, someone, give, decent, script, be charismatic, charismatic be, be amazing, amazing action, action star, star someone, someone give, give decent, decent script
+I:350;358;think, be, best, movie, have, do, think be, be best, best movie, movie have, have do
+I:350;359;beautiful, scenery, great, action, scene, beautiful scenery, scenery great, great action, action scene
+I:350;360;be, fun, watch, diversion, daily, grind, be fun, fun watch, watch diversion, diversion daily, daily grind
+I:350;361;have, make, adult, film, have make, make adult, adult film
+I:350;362;good, update, orginal, action, be, good, be, watchable, good update, update orginal, orginal action, action be, be good, good be, be watchable
+I:350;363;basic, premise, take, large, strong, man, be, know, inflict, pain, other, large, strong, man, bare, hand, wrestling, ring, send, beautiful, hometown, see, family, basic premise, premise take, take large, large strong, strong man, man be, be know, know inflict, inflict pain, pain other, other large, large strong, strong man, man bare, bare hand, hand wrestling, wrestling ring, ring send, send beautiful, beautiful hometown, hometown see, see family
+I:350;364;short, sweet, point, short sweet, sweet point
+I:350;365;great, movie, great, action, interesting, performance, great movie, movie great, great action, action interesting, interesting performance
+I:350;366;casino, be, keep, town, go, casino be, be keep, keep town, town go
+I:350;367;long, 2x4, give, best, effort, keep, audience, want, long 2x4, 2x4 give, give best, best effort, effort keep, keep audience, audience want
+I:350;368;be, look, see, brand, new, emotion, fill, action, packed, masterpiece, be look, look see, see brand, brand new, new emotion, emotion fill, fill action, action packed, packed masterpiece
+I:350;369;get, emotion, fill, movie, get, brand, new, action, pack, get emotion, emotion fill, fill movie, movie get, get brand, brand new, new action, action pack
+I:350;370;movie, have, humor, movie have, have humor
+I:350;371;be, question, good, actor, be, see, movie, be question, question good, good actor, actor be, be see, see movie
+I:350;372;suprise, be, good, suprise be, be good
+I:350;373;love, movie, do, order, love movie, movie do, do order
+I:350;374;film, be, entertaining, be, better, movie, film be, be entertaining, entertaining be, be better, better movie
+I:350;375;first, go, see, walk, love, first go, go see, see walk, walk love
+I:350;376;credit, feel, movie, shortness, movie, be, good, thing, credit feel, feel movie, movie shortness, shortness movie, movie be, be good, good thing
+I:350;377;character, be, awsome, acting, be, realisitic, story, be, real, character be, be awsome, awsome acting, acting be, be realisitic, realisitic story, story be, be real
+I:350;378;great, movie, base, remake, great movie, movie base, base remake
+I:350;379;do, great, job, price, be, excellent, do great, great job, job price, price be, be excellent
+I:350;380;be, great, remake, pay, tribute, be great, great remake, remake pay, pay tribute
+I:350;381;seem, version, have, more, action, suspense, comedy, seem version, version have, have more, more action, action suspense, suspense comedy
+I:350;382;childhood, friend, own, corrupted, casino, childhood friend, friend own, own corrupted, corrupted casino
+I:350;383;discover, nephew, get, security, casino, get, revenge, take, huge, piece, cedar, beat, guard, trash, casino, discover nephew, nephew get, get security, security casino, casino get, get revenge, revenge take, take huge, huge piece, piece cedar, cedar beat, beat guard, guard trash, trash casino
+I:350;384;want, run, sheriff, take, stand, fight, corrupted, people, town, help, best, friend, want run, run sheriff, sheriff take, take stand, stand fight, fight corrupted, corrupted people, people town, town help, help best, best friend
+I:350;385;movie, be, real, good, have, best, actor, duane, johnson, rock, movie be, be real, real good, good have, have best, best actor, actor duane, duane johnson, johnson rock
+I:350;386;recomend, movie, anyone, like, movie, action, movie, funny, guy, recomend movie, movie anyone, anyone like, like movie, movie action, action movie, movie funny, funny guy
+I:350;387;film, bad, be, be, make, end, good, movie, be, think, film bad, bad be, be be, be make, make end, end good, good movie, movie be, be think
+I:350;388;be, doubt, mind, put, effort, make, successful, hit, accord, fan, be doubt, doubt mind, mind put, put effort, effort make, make successful, successful hit, hit accord, accord fan
+I:350;389;be, movie, be, great, be movie, movie be, be great
+I:350;390;find, favor, mass, audience, critic, tend, dismiss, best, reactionary, worst, neo, find favor, favor mass, mass audience, audience critic, critic tend, tend dismiss, dismiss best, best reactionary, reactionary worst, worst neo
+I:350;391;eliminate, most, grittier, element, story, turn, rock, eliminate most, most grittier, grittier element, element story, story turn, turn rock
+I:350;392;have, have, bellyful, malfeasance, sleaze, decide, run, sheriff, vow, bring, criminal, knee, allow, good, folk, town, reclaim, community, have have, have bellyful, bellyful malfeasance, malfeasance sleaze, sleaze decide, decide run, run sheriff, sheriff vow, vow bring, bring criminal, criminal knee, knee allow, allow good, good folk, folk town, town reclaim, reclaim community
+I:350;393;film, base, true, life, event, name, be, change, be, protect, innocent, film base, base true, true life, life event, event name, name be, be change, change be, be protect, protect innocent
+I:350;394;be, disturbing, scene, brilliant, wrestling, documentary, haunt, see, film, be disturbing, disturbing scene, scene brilliant, brilliant wrestling, wrestling documentary, documentary haunt, haunt see, see film
+I:350;395;score, star, role, live, solid, cult, classic, standard, formula, work?enter, score star, star role, role live, live solid, solid cult, cult classic, classic standard, standard formula, formula work?enter
+I:350;396;electrifying, man, sport, entertainment, electrifying man, man sport, sport entertainment
+I:350;397;wrestler, have, look, charisma, carry, feature, film, be, great, wrestler have, have look, look charisma, charisma carry, carry feature, feature film, film be, be great
+I:350;398;brilliant, script, film, manage, impossible, task, make, unfunny, pathetic, speech, !?, brilliant script, script film, film manage, manage impossible, impossible task, task make, make unfunny, unfunny pathetic, pathetic speech, speech !?
+I:350;399;course, stop, endless, plug, many, wrestler, have, be, walk, tall, way, square, circle, lately?i, want, rock, succeed, want, film, be, good, be, favorite, wrestler, course stop, stop endless, endless plug, plug many, many wrestler, wrestler have, have be, be walk, walk tall, tall way, way square, square circle, circle lately?i, lately?i want, want rock, rock succeed, succeed want, want film, film be, be good, good be, be favorite, favorite wrestler
+I:350;400;mike, be, brilliant, fact, better, brilliant, be, electrify, mike be, be brilliant, brilliant fact, fact better, better brilliant, brilliant be, be electrify
+I:350;401;talk, show, be, charming, funny, entertaining, talk show, show be, be charming, charming funny, funny entertaining
+I:350;402;see, movie, love, see movie, movie love
+I:350;403;have, great, action, rock, be, bad, mudder, have great, great action, action rock, rock be, be bad, bad mudder
+I:350;404;be, word, have, describe, movie, be, spectacular, be word, word have, have describe, describe movie, movie be, be spectacular
+I:350;405;beginning, be, edge, seat, remain, thier, whole, movie, beginning be, be edge, edge seat, seat remain, remain thier, thier whole, whole movie
+I:350;406;dwayne, be, time, favorite, actor, think, be, good, mat, be, screen, dwayne be, be time, time favorite, favorite actor, actor think, think be, be good, good mat, mat be, be screen
+I:350;407;have, go, see, movie, couple, time, c.ya, have go, go see, see movie, movie couple, couple time, time c.ya
+I:350;408;good, family, movie, fan, good family, family movie, movie fan
+I:350;409;deliver, great, condition, deliver great, great condition
+I:350;410;pack, way, pack way
+I:350;411;love, love, movie, love love, love movie
+I:350;412;base, be, sure, true, story, remake, fit, time, period, blow, stuff, be, good, base be, be sure, sure true, true story, story remake, remake fit, fit time, time period, period blow, blow stuff, stuff be, be good
+I:350;413;get, good, grade, report, get good, good grade, grade report
+I:350;414;be, base, true, story, husband, enjoy, rock, portray, character, be base, base true, true story, story husband, husband enjoy, enjoy rock, rock portray, portray character
+I:350;415;come, place, clean, crime, like, come place, place clean, clean crime, crime like
+I:350;416;love, walk, be, best, love walk, walk be, be best
+I:350;417;be, great, early, movie, be great, great early, early movie
+I:350;418;kick, start, career, stand, test, time, great, re, kick start, start career, career stand, stand test, test time, time great, great re
+I:350;419;prefer, later, work, prefer later, later work
+I:350;420;be, type, movie, shine, be type, type movie, movie shine
+I:350;421;great, movie, be, great, actor, be, great, movie, great movie, movie be, be great, great actor, actor be, be great, great movie
+I:350;422;ray, movie, classic, story, ray movie, movie classic, classic story
+I:350;423;be, great, actor, be, childhood, favorite, mine, be great, great actor, actor be, be childhood, childhood favorite, favorite mine
+I:350;424;look, movie, watch, get, tire, movie, belong, collection, look movie, movie watch, watch get, get tire, tire movie, movie belong, belong collection
+I:350;425;walk, tall, be, easy, enough, timepasser, overall, decent, film, encourage, fan, be, curious, enough, check, original, walk, tall, walk tall, tall be, be easy, easy enough, enough timepasser, timepasser overall, overall decent, decent film, film encourage, encourage fan, fan be, be curious, curious enough, enough check, check original, original walk, walk tall
+I:350;426;star, retired, member, special, force, return, home, be, family, settle, star retired, retired member, member special, special force, force return, return home, home be, be family, family settle
+I:350;427;side, be, character, be, likable, enough, enjoy, side be, be character, character be, be likable, likable enough, enough enjoy
+I:350;428;give, best, performance, date, give, film, great, funny, moment, truck, chop, sequence, give best, best performance, performance date, date give, give film, film great, great funny, funny moment, moment truck, truck chop, chop sequence
+I:350;429;be, cool, be cool
+I:350;430;come, likable, average, try, make, way, life, come likable, likable average, average try, try make, make way, way life
+I:350;431;begin, walk, tall, be, homage, first, film, northern, begin walk, walk tall, tall be, be homage, homage first, first film, film northern
+I:350;432;west, town, film, take, place, walk, road, town, west town, town film, film take, take place, place walk, walk road, road town
+I:350;433;walk, be, decent, film, watch, be, easy, enough, timepasser, walk be, be decent, decent film, film watch, watch be, be easy, easy enough, enough timepasser
+I:350;434;be, small, town, be, riddled, corruption, crooked, politics, understand, true, meaning, storyline, be small, small town, town be, be riddled, riddled corruption, corruption crooked, crooked politics, politics understand, understand true, true meaning, meaning storyline
+I:350;435;understand, great, man, be, understand great, great man, man be
+I:350;436;movie, be, movie be
+I:350;437;movie, be, full, action, prove, hometown, hero, exist, movie be, be full, full action, action prove, prove hometown, hometown hero, hero exist
+I:350;438;catch, movie, catch movie
+I:350;439;acting, storyline, everything, do, be, awesome, movie, acting storyline, storyline everything, everything do, do be, be awesome, awesome movie
+I:350;440;story, be, gripping, action, be, fresh, entertaining, story be, be gripping, gripping action, action be, be fresh, fresh entertaining
+I:350;441;prove, be, action, star, next, generation, walk, tall, be, good, predecessor, be, enjoyable, action, film, bone, prove be, be action, action star, star next, next generation, generation walk, walk tall, tall be, be good, good predecessor, predecessor be, be enjoyable, enjoyable action, action film, film bone
+I:350;442;charisma, be, present, intact, be, obligatory, love, scene, charisma be, be present, present intact, intact be, be obligatory, obligatory love, love scene
+I:350;443;film, script, be, make, piece, old, traditional, western, film, western, someone, wrong, film script, script be, be make, make piece, piece old, old traditional, traditional western, western film, film western, western someone, someone wrong
+I:350;444;be, do, piece, cider, oak, bat, be do, do piece, piece cider, cider oak, oak bat
+I:350;445;be, do, action, be, watchable, brief, conversation, troublemaking, nephew, comical, dialogue, be do, do action, action be, be watchable, watchable brief, brief conversation, conversation troublemaking, troublemaking nephew, nephew comical, comical dialogue
+I:350;446;make, avoid, make avoid
+I:350;447;manage, pull, decent, role, film, man, return, home, town, find, corrupt, drug, dealer, buy, police, force, manage pull, pull decent, decent role, role film, film man, man return, return home, home town, town find, find corrupt, corrupt drug, drug dealer, dealer buy, buy police, police force
+I:350;448;typical, macho, bravado, movie, contain, more, fight, scene, dialogue, least, fight, scene, be, worth, wait, typical macho, macho bravado, bravado movie, movie contain, contain more, more fight, fight scene, scene dialogue, dialogue least, least fight, fight scene, scene be, be worth, worth wait
+I:350;449;story, be, basic, interesting, enough, sustain, film, last, minute, story be, be basic, basic interesting, interesting enough, enough sustain, sustain film, film last, last minute
+I:350;450;action, movie, be, decent, bit, entertainment, action movie, movie be, be decent, decent bit, bit entertainment
+I:350;451;inspire, bit, whoop, inspire bit, bit whoop
+I:350;452;see, movie, preview, tn, say, be, best, work, date, see movie, movie preview, preview tn, tn say, say be, be best, best work, work date
+I:350;453;movie, base, orginal, setting, story, capture, essence, stand, movie base, base orginal, orginal setting, setting story, story capture, capture essence, essence stand
+I:350;454;be, way, become, next, big, action, star, generation, be way, way become, become next, next big, big action, action star, star generation
+I:350;455;movie, have, feel, seriousness, role, capture, have, funny, lite, hearted, moment, movie have, have feel, feel seriousness, seriousness role, role capture, capture have, have funny, funny lite, lite hearted, hearted moment
+I:350;456;tell, anyone, have, chance, see, movie, be, price, pay, tell anyone, anyone have, have chance, chance see, see movie, movie be, be price, price pay
+I:350;457;rate, movie, excellent, rate movie, movie excellent
+I:350;458;be, gorgeous, role, play, movie, fit, pair, comfortable, slipper, slip, be gorgeous, gorgeous role, role play, play movie, movie fit, fit pair, pair comfortable, comfortable slipper, slipper slip
+I:350;459;great, movie, be, watch, great movie, movie be, be watch
+I:350;460;movie, provide, entertainment, excitement, desire, watch, complete, movie, uninterrupted, degree, anticipation, start, final, movie provide, provide entertainment, entertainment excitement, excitement desire, desire watch, watch complete, complete movie, movie uninterrupted, uninterrupted degree, degree anticipation, anticipation start, start final
+I:350;461;be, such, feel, good, movie, bad, guy, get, way, be such, such feel, feel good, good movie, movie bad, bad guy, guy get, get way
+I:350;462;remake, do, awesome, remake do, do awesome
+I:350;463;friend, take, casino, celebrate, return, catch, dirty, dealer, call, friend take, take casino, casino celebrate, celebrate return, return catch, catch dirty, dirty dealer, dealer call
+I:350;464;good, action, decent, story, humor, time, good action, action decent, decent story, story humor, humor time
+I:350;465;decent, minute, check, decent minute, minute check

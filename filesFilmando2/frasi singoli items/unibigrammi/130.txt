@@ -1,0 +1,573 @@
+I:9095;1;be, be, exceptional, be be, be exceptional
+I:9095;2;be, lot, adult, reference, remark, be lot, lot adult, adult reference, reference remark
+I:9095;3;stuff, see, adventure, anime, stuff see, see adventure, adventure anime
+I:9095;4;film, kind, remind, cross, story, beauty, beast, film kind, kind remind, remind cross, cross story, story beauty, beauty beast
+I:9095;5;be, something, anti, be something, something anti
+I:9095;6;hero, film, treat, respect, end, hero film, film treat, treat respect, respect end
+I:9095;7;answer, be, film, be, fine, answer be, be film, film be, be fine
+I:9095;8;be, greatest, classic, film, time, fact, be, compare, be, sign, something, good, be greatest, greatest classic, classic film, film time, time fact, fact be, be compare, compare be, be sign, sign something, something good
+I:9095;9;know, love, movie, hope, know love, love movie, movie hope
+I:9095;10;be, movie, make, feel, nice, wan, see, character, seem, be, alive, act, natural, way, overact, other, animated, cartoon, background, be, beautiful, refreshing, perfect, stageing, perfect, story, funny, emotional, right, word, be, be movie, movie make, make feel, feel nice, nice wan, wan see, see character, character seem, seem be, be alive, alive act, act natural, natural way, way overact, overact other, other animated, animated cartoon, cartoon background, background be, be beautiful, beautiful refreshing, refreshing perfect, perfect stageing, stageing perfect, perfect story, story funny, funny emotional, emotional right, right word, word be
+I:9095;11;be, awesome, film, be awesome, awesome film
+I:9095;12;be, racy, adventurous, entertaining, young, old, be racy, racy adventurous, adventurous entertaining, entertaining young, young old
+I:9095;13;ending, be, fun, spoil, do, work, lot, ending, ending be, be fun, fun spoil, spoil do, do work, work lot, lot ending
+I:9095;14;film, stand, rest, with, be, whimsical, use, henchman, bumble, touching, love, story, be, care, use, plane, knowledge, film stand, stand rest, rest with, with be, be whimsical, whimsical use, use henchman, henchman bumble, bumble touching, touching love, love story, story be, be care, care use, use plane, plane knowledge
+I:9095;15;be, great, story, tell, master, storyteller, be great, great story, story tell, tell master, master storyteller
+I:9095;16;animation, be, fantastic, visual, be, superb, movie, have, evicative, music, have, hear, long, time, animation be, be fantastic, fantastic visual, visual be, be superb, superb movie, movie have, have evicative, evicative music, music have, have hear, hear long, long time
+I:9095;17;lot, other, people, have, comment, want, add, think, end, be, ambiguous, watch, lot other, other people, people have, have comment, comment want, want add, add think, think end, end be, be ambiguous, ambiguous watch
+I:9095;18;be, best, filmmaker, time, film, be, special, be best, best filmmaker, filmmaker time, time film, film be, be special
+I:9095;19;lighthearted, signature, bad, guy, roster, interesting, character, include, strong, young, female, staple, fun, film, anyone, age, lighthearted signature, signature bad, bad guy, guy roster, roster interesting, interesting character, character include, include strong, strong young, young female, female staple, staple fun, fun film, film anyone, anyone age
+I:9095;20;story, be, first, have, see, be, hooked, story be, be first, first have, have see, see be, be hooked
+I:9095;21;be, time, one, feel, little, confused, beauty, be, be, story, story, be time, time one, one feel, feel little, little confused, confused beauty, beauty be, be be, be story, story story
+I:9095;22;innovative, airplane, design, be, fantastic, art, be, wonderful, innovative airplane, airplane design, design be, be fantastic, fantastic art, art be, be wonderful
+I:9095;23;feel, classic, movie, imaginitive, story, character, feel classic, classic movie, movie imaginitive, imaginitive story, story character
+I:9095;24;music, be, fantastic, listen, soundtrack, music be, be fantastic, fantastic listen, listen soundtrack
+I:9095;25;story, be, bittersweet, subtle, poignant, fill, nostalgia, longing, story be, be bittersweet, bittersweet subtle, subtle poignant, poignant fill, fill nostalgia, nostalgia longing
+I:9095;26;hit, head, kind, explanation, message, hit head, head kind, kind explanation, explanation message
+I:9095;27;be, beauty, film, be beauty, beauty film
+I:9095;28;be, turn, cinephille, friend, rave, best, animated, work, time, be turn, turn cinephille, cinephille friend, friend rave, rave best, best animated, animated work, work time
+I:9095;29;last, night, decide, give, go, say, be, surprised, reward, effort, last night, night decide, decide give, give go, go say, say be, be surprised, surprised reward, reward effort
+I:9095;30;expect, something, darker, straightforward, impactful, get, pack, serious, punch, thanks, restraint, subtle, use, influence, expect something, something darker, darker straightforward, straightforward impactful, impactful get, get pack, pack serious, serious punch, punch thanks, thanks restraint, restraint subtle, subtle use, use influence
+I:9095;31;fantasy, adventure, be, beautiful, watch, film, move, touch, heart, feed, need, action, action, scene, be, marvelous, adventure, fantasy adventure, adventure be, be beautiful, beautiful watch, watch film, film move, move touch, touch heart, heart feed, feed need, need action, action action, action scene, scene be, be marvelous, marvelous adventure
+I:9095;32;go, fan, boy, rant, say, thumb, go fan, fan boy, boy rant, rant say, say thumb
+I:9095;33;many, way, be, romance, sort, fill, intense, action, scene, involve, sky, high, gun, fight, many way, way be, be romance, romance sort, sort fill, fill intense, intense action, action scene, scene involve, involve sky, sky high, high gun, gun fight
+I:9095;34;be, go, love, interest, begin, take, thing, personal, battle, intensify, be go, go love, love interest, interest begin, begin take, take thing, thing personal, personal battle, battle intensify
+I:9095;35;be, surprising, twist, fight, be, hilarious, be surprising, surprising twist, twist fight, fight be, be hilarious
+I:9095;36;be, movie, be, judge, be, see, be movie, movie be, be judge, judge be, be see
+I:9095;37;new, format, be, film, be, refreshing, new format, format be, be film, film be, be refreshing
+I:9095;38;best, film, rank, other, anime, film, constant, stream, masterpiece, be, legendary, anime, best film, film rank, rank other, other anime, anime film, film constant, constant stream, stream masterpiece, masterpiece be, be legendary, legendary anime
+I:9095;39;plus, apply, considerable, weight, get, top, voice, movie, include, plus apply, apply considerable, considerable weight, weight get, get top, top voice, voice movie, movie include
+I:9095;40;start, spirited, get, hooked, type, movie, start spirited, spirited get, get hooked, hooked type, type movie
+I:9095;41;love, studio, ghibli, film, love studio, studio ghibli, ghibli film
+I:9095;42;be, great, pilot, turn, pig, be great, great pilot, pilot turn, turn pig
+I:9095;43;love, michael, keaton, voice, porco, love michael, michael keaton, keaton voice, voice porco
+I:9095;44;brand, vocal, star, get, theater, brand vocal, vocal star, star get, get theater
+I:9095;45;theme, be, adult, be, situation, threat, suspense, lot, gunfire, slapstick, violence, theme be, be adult, adult be, be situation, situation threat, threat suspense, suspense lot, lot gunfire, gunfire slapstick, slapstick violence
+I:9095;46;be, sweet, story, work, be, do, be sweet, sweet story, story work, work be, be do
+I:9095;47;be, nice, likable, main, character, be nice, nice likable, likable main, main character
+I:9095;48;film, charm, come, be, earth, straightforward, linear, tale, air, fighting, love, film charm, charm come, come be, be earth, earth straightforward, straightforward linear, linear tale, tale air, air fighting, fighting love
+I:9095;49;flashback, scene, be, gorgeous, be, pure, flashback scene, scene be, be gorgeous, gorgeous be, be pure
+I:9095;50;be, treat, nice, fantasy/slice, life, tale, dabble, fantastic, be treat, treat nice, nice fantasy/slice, fantasy/slice life, life tale, tale dabble, dabble fantastic
+I:9095;51;have, read, other, complain, end, find, refreshing, have read, read other, other complain, complain end, end find, find refreshing
+I:9095;52;enjoy, film, imagine, young, viewer, like, action, comedy, adult, enjoy, serious, theme, life, love, enjoy film, film imagine, imagine young, young viewer, viewer like, like action, action comedy, comedy adult, adult enjoy, enjoy serious, serious theme, theme life, life love
+I:9095;53;have, many, hobby, show, long, list, theme, movie, have many, many hobby, hobby show, show long, long list, list theme, theme movie
+I:9095;54;movie, have, strong, female, lead, movie have, have strong, strong female, female lead
+I:9095;55;love, machine, airplane, entire, field, aviation, love machine, machine airplane, airplane entire, entire field, field aviation
+I:9095;56;love, bizarre, cute, creature, like, include, tough, old, man, mentor, teacher, love bizarre, bizarre cute, cute creature, creature like, like include, include tough, tough old, old man, man mentor, mentor teacher
+I:9095;57;make, movie, want, see, make movie, movie want, want see
+I:9095;58;be, such, good, story, feeling, involve, be, good, one, age, love, movie, be such, such good, good story, story feeling, feeling involve, involve be, be good, good one, one age, age love, love movie
+I:9095;59;master, cat, return, be, great, addition, family, fan, anyone, like, animation, great, story, master cat, cat return, return be, be great, great addition, addition family, family fan, fan anyone, anyone like, like animation, animation great, great story
+I:9095;60;be, do, want, visit, ocean, be do, do want, want visit, visit ocean
+I:9095;61;meet, old, man, gorgeous, granddaughter, meet old, old man, man gorgeous, gorgeous granddaughter
+I:9095;62;have, such, detail, middle, ocean, everything, be, crisp, color, have such, such detail, detail middle, middle ocean, ocean everything, everything be, be crisp, crisp color
+I:9095;63;show, version, do, good, transfer, show version, version do, do good, good transfer
+I:9095;64;sound, be, great, grand, score, sound be, be great, great grand, grand score
+I:9095;65;have, surround, sound, be, best, effect, orchestral, score, pop, make, flight, scene, move, romantic, one, have surround, surround sound, sound be, be best, best effect, effect orchestral, orchestral score, score pop, pop make, make flight, flight scene, scene move, move romantic, romantic one
+I:9095;66;be, informative, funny, be, fan, be, sure, please, be informative, informative funny, funny be, be fan, fan be, be sure, sure please
+I:9095;67;be, favorite, movie, be favorite, favorite movie
+I:9095;68;great, character, set, seaplane, fight, great character, character set, set seaplane, seaplane fight
+I:9095;69;appreciate, clarity, authenticity, political, atmosphere, masculinity, relationship, girl, appreciate clarity, clarity authenticity, authenticity political, political atmosphere, atmosphere masculinity, masculinity relationship, relationship girl
+I:9095;70;movie, have, solid, production, find, wonder, be, go, movie have, have solid, solid production, production find, find wonder, wonder be, be go
+I:9095;71;hero, movie, need, grow, hero movie, movie need, need grow
+I:9095;72;be, be, be, be, surprise, bit, young, girl, talent, be, little, be be, be be, be be, be surprise, surprise bit, bit young, young girl, girl talent, talent be, be little
+I:9095;73;be, definite, journey, trial, lead, wiser, richer, character, be definite, definite journey, journey trial, trial lead, lead wiser, wiser richer, richer character
+I:9095;74;be, fabulous, animated, film, be fabulous, fabulous animated, animated film
+I:9095;75;master, work, master work
+I:9095;76;esteem, young, girl, role, model, character, esteem young, young girl, girl role, role model, model character
+I:9095;77;have, be, tireless, champion, ability, strength, courage, woman, have be, be tireless, tireless champion, champion ability, ability strength, strength courage, courage woman
+I:9095;78;turn, work, be, brilliant, turn work, work be, be brilliant
+I:9095;79;great, movie, worth, add, collection, collector, be, japanese, style, artwork, detail, great movie, movie worth, worth add, add collection, collection collector, collector be, be japanese, japanese style, style artwork, artwork detail
+I:9095;80;like, detail, do, collect, like detail, detail do, do collect
+I:9095;81;adventure, be, great, adventure be, be great
+I:9095;82;buy, yearold, enjoy, alot, buy yearold, yearold enjoy, enjoy alot
+I:9095;83;fine, story, good, characterization, fine story, story good, good characterization
+I:9095;84;extraordinary, detail, precision, drawing, aircraft, detail, battle, scene, extraordinary detail, detail precision, precision drawing, drawing aircraft, aircraft detail, detail battle, battle scene
+I:9095;85;course, beauty, art, course beauty, beauty art
+I:9095;86;do, lot, historical, technical, research, do lot, lot historical, historical technical, technical research
+I:9095;87;see, be, see be
+I:9095;88;great, film, great film
+I:9095;89;disc, be, great, shape, advertise, case, have, see, better, day, be, original, have, plenty, extra, double, case, be, perfect, disc be, be great, great shape, shape advertise, advertise case, case have, have see, see better, better day, day be, be original, original have, have plenty, plenty extra, extra double, double case, case be, be perfect
+I:9095;90;have, admit, be, good, dub, see, realize, miss, few, subtle, detail, have admit, admit be, be good, good dub, dub see, see realize, realize miss, miss few, few subtle, subtle detail
+I:9095;91;give, right, kind, understate, man, few, word, talk, be, expect, character, give right, right kind, kind understate, understate man, man few, few word, word talk, talk be, be expect, expect character
+I:9095;92;animation, be, first, rate, way, art, be, extraordinary, have, come, expect, recent, film, animation be, be first, first rate, rate way, way art, art be, be extraordinary, extraordinary have, have come, come expect, expect recent, recent film
+I:9095;93;effect, give, character, dimension, effect give, give character, character dimension
+I:9095;94;fading, background, bit, make, realistic, bring, more, life, character, movement, object, fading background, background bit, bit make, make realistic, realistic bring, bring more, more life, life character, character movement, movement object
+I:9095;95;movie, have, good, story, surface, excite, younger, audience, bit, deeper, level, give, adult, something, enjoy, movie have, have good, good story, story surface, surface excite, excite younger, younger audience, audience bit, bit deeper, deeper level, level give, give adult, adult something, something enjoy
+I:9095;96;most, commentary, go, younger, child, love, adventure, most commentary, commentary go, go younger, younger child, child love, love adventure
+I:9095;97;seem, have, love, child, seem have, have love, love child
+I:9095;98;spend, little, promotion, kind, film, play, american, audience, spend little, little promotion, promotion kind, kind film, film play, play american, american audience
+I:9095;99;be, set, have, many, universal, adventure, concept, pirate, spy, airplane, hide, be set, set have, have many, many universal, universal adventure, adventure concept, concept pirate, pirate spy, spy airplane, airplane hide
+I:9095;100;transfer, look, great, do, have, thx, system, try, certify, include, thx, optimizer, transfer look, look great, great do, do have, have thx, thx system, system try, try certify, certify include, include thx, thx optimizer
+I:9095;101;be, enhance, 16x9, television, be enhance, enhance 16x9, 16x9 television
+I:9095;102;bit, cerebral, kid, like, delivery, service, be, sweet, introspective, story, bit cerebral, cerebral kid, kid like, like delivery, delivery service, service be, be sweet, sweet introspective, introspective story
+I:9095;103;usual, design, be, wonderful, watch, be, choreography, flight, scene, usual design, design be, be wonderful, wonderful watch, watch be, be choreography, choreography flight, flight scene
+I:9095;104;think, film, give, viewer, little, nudge, direction, fate, character, leave, imagination, flesh, be, good, film, think film, film give, give viewer, viewer little, little nudge, nudge direction, direction fate, fate character, character leave, leave imagination, imagination flesh, flesh be, be good, good film
+I:9095;105;true, slight, departure, normal, situation, story, same, basic, thread, shine, true slight, slight departure, departure normal, normal situation, situation story, story same, same basic, basic thread, thread shine
+I:9095;106;excellent, animation, beautiful, watercolour, background, appeal, character, plot, doesnt, get, predictable, feel, be, work, template, excellent animation, animation beautiful, beautiful watercolour, watercolour background, background appeal, appeal character, character plot, plot doesnt, doesnt get, get predictable, predictable feel, feel be, be work, work template
+I:9095;107;do, crack, music, score, usual, do crack, crack music, music score, score usual
+I:9095;108;have, watch, couple, time, wit, movie, stand, have watch, watch couple, couple time, time wit, wit movie, movie stand
+I:9095;109;be, comedy, adventure, yarn, bit, romance, throw, mix, be comedy, comedy adventure, adventure yarn, yarn bit, bit romance, romance throw, throw mix
+I:9095;110;pig, do, fly, pig do, do fly
+I:9095;111;artwork, be, vivid, color, score, be, fun, do, mind, choice, dub, artwork be, be vivid, vivid color, color score, score be, be fun, fun do, do mind, mind choice, choice dub
+I:9095;112;be, star, indicate, excellent, movie, be, be star, star indicate, indicate excellent, excellent movie, movie be
+I:9095;113;someone, be, be, great, movie, someone be, be be, be great, great movie
+I:9095;114;see, strange, reason, find, more, charming, movie, see strange, strange reason, reason find, find more, more charming, charming movie
+I:9095;115;be, former, girlfriend, look, act, starlet, movie, love, watch, be former, former girlfriend, girlfriend look, look act, act starlet, starlet movie, movie love, love watch
+I:9095;116;be, weak, attempt, levity, be weak, weak attempt, attempt levity
+I:9095;117;meet, young, girl, be, talented, engineer, secret, be, reveal, meet young, young girl, girl be, be talented, talented engineer, engineer secret, secret be, be reveal
+I:9095;118;movie, show, love, mechanical, thing, fly, love, creative, fantasy, movie show, show love, love mechanical, mechanical thing, thing fly, fly love, love creative, creative fantasy
+I:9095;119;movie, be, consider, good, movie, be, enjoy, whole, family, agree, movie be, be consider, consider good, good movie, movie be, be enjoy, enjoy whole, whole family, family agree
+I:9095;120;big, one, big one
+I:9095;121;be, something, personal, project, be something, something personal, personal project
+I:9095;122;have, love, airplane, film, be, way, include, work, have love, love airplane, airplane film, film be, be way, way include, include work
+I:9095;123;like, love, san, film, get, like love, love san, san film, film get
+I:9095;124;do, recommend, movie, do recommend, recommend movie
+I:9095;125;suggest, fan, work, see, least, be, suggest fan, fan work, work see, see least, least be
+I:9095;126;be, skeptical, buy, be, huge, fan, think, give, chance, be skeptical, skeptical buy, buy be, be huge, huge fan, fan think, think give, give chance
+I:9095;127;great, animation, sequence, funny, line, great animation, animation sequence, sequence funny, funny line
+I:9095;128;idea, animated, feature, pig, fly, aeroplane, sound, little, silly, find, enjoyable, idea animated, animated feature, feature pig, pig fly, fly aeroplane, aeroplane sound, sound little, little silly, silly find, find enjoyable
+I:9095;129;be, little, tetchy, need, tune, red, aircraft, be, beautiful, suit, be little, little tetchy, tetchy need, need tune, tune red, red aircraft, aircraft be, be beautiful, beautiful suit
+I:9095;130;be, colourful, strange, say, spirited, be, beautiful, look, film, have, signature, style, be colourful, colourful strange, strange say, say spirited, spirited be, be beautiful, beautiful look, look film, film have, have signature, signature style
+I:9095;131;pilot, make, likeable, friendly, pilot make, make likeable, likeable friendly
+I:9095;132;be, good, be, light, entertainment, look, anime, fan, be, get, recommend, see, film, spirited, be good, good be, be light, light entertainment, entertainment look, look anime, anime fan, fan be, be get, get recommend, recommend see, see film, film spirited
+I:9095;133;film, love, say, be, be, favorite, mine, year, film love, love say, say be, be be, be favorite, favorite mine, mine year
+I:9095;134;quirky, action/adventure, story, be, blast, fan, genre, be, aviation, angle, grab, quirky action/adventure, action/adventure story, story be, be blast, blast fan, fan genre, genre be, be aviation, aviation angle, angle grab
+I:9095;135;perfect, explain, be, personal, high, scorer, own, top, list, perfect explain, explain be, be personal, personal high, high scorer, scorer own, own top, top list
+I:9095;136;think, do, fine, job, have, read, be, expect, more, think do, do fine, fine job, job have, have read, read be, be expect, expect more
+I:9095;137;top, vocalization, do, top vocalization, vocalization do
+I:9095;138;film, more, emotional, moment, find, warm, intimate, be, film more, more emotional, emotional moment, moment find, find warm, warm intimate, intimate be
+I:9095;139;mileage, be, hoot, goofy, accent, give, great, performance, sound, cute, spunky, do, original, japanese, actress, mileage be, be hoot, hoot goofy, goofy accent, accent give, give great, great performance, performance sound, sound cute, cute spunky, spunky do, do original, original japanese, japanese actress
+I:9095;140;top, mark, take, release, top mark, mark take, take release
+I:9095;141;get, better, time, project, inflection, tone, nuance, voice, be, terrific, old, codger, cackle, be, perfection, get better, better time, time project, project inflection, inflection tone, tone nuance, nuance voice, voice be, be terrific, terrific old, old codger, codger cackle, cackle be, be perfection
+I:9095;142;impress, be, characterization, spirited, blow, hilarious, voice, act, here!to, sum, have, take, favorite, film, time, make, enjoyable, version, impress be, be characterization, characterization spirited, spirited blow, blow hilarious, hilarious voice, voice act, act here!to, here!to sum, sum have, have take, take favorite, favorite film, film time, time make, make enjoyable, enjoyable version
+I:9095;143;c'mon, do, c'mon do
+I:9095;144;anime, film, be, make, anime film, film be, be make
+I:9095;145;be, enjoyable, be, go, watch, be enjoyable, enjoyable be, be go, go watch
+I:9095;146;other, do, other do
+I:9095;147;general, film, be, fantastical, environmental, message, film, be, realistic, general film, film be, be fantastical, fantastical environmental, environmental message, message film, film be, be realistic
+I:9095;148;have, watch, other, film, know, love, sky, have, set, entire, civilization, sky, have watch, watch other, other film, film know, know love, love sky, sky have, have set, set entire, entire civilization, civilization sky
+I:9095;149;story, be, straight, tell, truth, be, tell, film, be, light, story, dwell, beautiful, aerial, shot, story be, be straight, straight tell, tell truth, truth be, be tell, tell film, film be, be light, light story, story dwell, dwell beautiful, beautiful aerial, aerial shot
+I:9095;150;be, favorite, ghibli, film, second, favorite, miyazaki, film, next, be favorite, favorite ghibli, ghibli film, film second, second favorite, favorite miyazaki, miyazaki film, film next
+I:9095;151;be, rare, gem, movie, be rare, rare gem, gem movie
+I:9095;152;favorite, myazaki, movie, be, great, film, wonderful, piece, art, favorite myazaki, myazaki movie, movie be, be great, great film, film wonderful, wonderful piece, piece art
+I:9095;153;problem, be, film, be, jarring, combination, animated, flight, scene, slapstick, comedy, romance, underdeveloped, fascism, allegory, reminiscent, problem be, be film, film be, be jarring, jarring combination, combination animated, animated flight, flight scene, scene slapstick, slapstick comedy, comedy romance, romance underdeveloped, underdeveloped fascism, fascism allegory, allegory reminiscent
+I:9095;154;many, way, be, great, heroine, such, many way, way be, be great, great heroine, heroine such
+I:9095;155;be, smart, skilled, adventurous, good, be smart, smart skilled, skilled adventurous, adventurous good
+I:9095;156;be, recommend, movie, be recommend, recommend movie
+I:9095;157;enjoyment, hinge, watch, fly, scene, aerial, battle, enjoyment hinge, hinge watch, watch fly, fly scene, scene aerial, aerial battle
+I:9095;158;flight, have, be, important, theme, film, be, purest, unabashed, love, letter, airplane, fly, flight have, have be, be important, important theme, theme film, film be, be purest, purest unabashed, unabashed love, love letter, letter airplane, airplane fly
+I:9095;159;accompany, majestic, score, fly, scene, character, be, glide, air, be, wonderful, recall, exhilarating, moment, other, film, delivery, service, sky, accompany majestic, majestic score, score fly, fly scene, scene character, character be, be glide, glide air, air be, be wonderful, wonderful recall, recall exhilarating, exhilarating moment, moment other, other film, film delivery, delivery service, service sky
+I:9095;160;tone, imagery, scene, be, move, profound, feel, place, sandwich, lightweight, inconsequential, story, be, watch, tone imagery, imagery scene, scene be, be move, move profound, profound feel, feel place, place sandwich, sandwich lightweight, lightweight inconsequential, inconsequential story, story be, be watch
+I:9095;161;be, great, movie, house, be great, great movie, movie house
+I:9095;162;best, animated, aviation, scene, have, watch, love, movie, music, favorite, cartoon, movie, best animated, animated aviation, aviation scene, scene have, have watch, watch love, love movie, movie music, music favorite, favorite cartoon, cartoon movie
+I:9095;163;movie, have, great, plot, great, classic, animation, taht, work, movie, movie have, have great, great plot, plot great, great classic, classic animation, animation taht, taht work, work movie
+I:9095;164;have, gift, create, alternate, world, be, consistent, own, rule, have gift, gift create, create alternate, alternate world, world be, be consistent, consistent own, own rule
+I:9095;165;have, experience, several, work, think, be, successful, extol, good, honest, behavior, have experience, experience several, several work, work think, think be, be successful, successful extol, extol good, good honest, honest behavior
+I:9095;166;spirited, have, seek, film, spirited have, have seek, seek film
+I:9095;167;be, fun, be, predictable, speak, age, do, leave, embarrassed, have, spend, money, entertainment, be fun, fun be, be predictable, predictable speak, speak age, age do, do leave, leave embarrassed, embarrassed have, have spend, spend money, money entertainment
+I:9095;168;father, several, daughter, call, corny, enjoy, appreciate, character, young, engineer, granddaughter, be, anxious, prove, father several, several daughter, daughter call, call corny, corny enjoy, enjoy appreciate, appreciate character, character young, young engineer, engineer granddaughter, granddaughter be, be anxious, anxious prove
+I:9095;169;work, hard, validate, everyone, confidence, talent, work hard, hard validate, validate everyone, everyone confidence, confidence talent
+I:9095;170;hardwork, achievement, great, message, be, lose, clumsy, offering, hardwork achievement, achievement great, great message, message be, be lose, lose clumsy, clumsy offering
+I:9095;171;movie, be, enjoyable, honor, good, character, movie be, be enjoyable, enjoyable honor, honor good, good character
+I:9095;172;such, movie, be, predicable, end, root, bad, guy, movie, theme, love, honor, honesty, be, give, excellent, treatment, recommend, such movie, movie be, be predicable, predicable end, end root, root bad, bad guy, guy movie, movie theme, theme love, love honor, honor honesty, honesty be, be give, give excellent, excellent treatment, treatment recommend
+I:9095;173;movie, work, level, movie work, work level
+I:9095;174;enjoy, standard, family, friendly, adventure, fair, ponder, subtler, theme, humanoid, pig, thing, be, enjoy standard, standard family, family friendly, friendly adventure, adventure fair, fair ponder, ponder subtler, subtler theme, theme humanoid, humanoid pig, pig thing, thing be
+I:9095;175;movie, think, be, great, fly, scene, movie think, think be, be great, great fly, fly scene
+I:9095;176;other, dub, voice, act, other dub, dub voice, voice act
+I:9095;177;everything, come, everything come
+I:9095;178;case, look, good, come, timely, fashion, case look, look good, good come, come timely, timely fashion
+I:9095;179;be, great, voice, act, work, be great, great voice, voice act, act work
+I:9095;180;humor, heart, action, movie, keep, make, number, fan, humor heart, heart action, action movie, movie keep, keep make, make number, number fan
+I:9095;181;spirited, move, be, top, favorite, spirited move, move be, be top, top favorite
+I:9095;182;anime, fan, watch, title, anime fan, fan watch, watch title
+I:9095;183;great, film, great film
+I:9095;184;lot, attention, detail, great, voice, actor, lot attention, attention detail, detail great, great voice, voice actor
+I:9095;185;director, spirited, earlier, work, be, film, call, director spirited, spirited earlier, earlier work, work be, be film, film call
+I:9095;186;work, money, protect, other, pay, generosity, spirit, claim, have, none, work money, money protect, protect other, other pay, pay generosity, generosity spirit, spirit claim, claim have, have none
+I:9095;187;be, surprise, much, humor, be, movie, be surprise, surprise much, much humor, humor be, be movie
+I:9095;188;be, good, movie, be good, good movie
+I:9095;189;join, delivery, service, favorite, movie, be, recommend, join delivery, delivery service, service favorite, favorite movie, movie be, be recommend
+I:9095;190;have, say, be, be, shock, have say, say be, be be, be shock
+I:9095;191;like, movie, like movie
+I:9095;192;okay, kind, like, wow, be, amazing, okay kind, kind like, like wow, wow be, be amazing
+I:9095;193;animation, be, amazing, voice, acting, be, better, other, dub, exception, spirited, animation be, be amazing, amazing voice, voice acting, acting be, be better, better other, other dub, dub exception, exception spirited
+I:9095;194;make, movie, great, be, fact, be, really, funny, make movie, movie great, great be, be fact, fact be, be really, really funny
+I:9095;195;part, consider, corny, be, talk, air, pirate, great, be, be, save, fact, be, take, be, make, fun, part consider, consider corny, corny be, be talk, talk air, air pirate, pirate great, great be, be be, be save, save fact, fact be, be take, take be, be make, make fun
+I:9095;196;funniest, thing, see, funniest thing, thing see
+I:9095;197;enjoy, movie, animated, feature, wonderful, story, be, retell, enjoy movie, movie animated, animated feature, feature wonderful, wonderful story, story be, be retell
+I:9095;198;worthy, live, action, feature, film, worthy live, live action, action feature, feature film
+I:9095;199;recommend, fan, classic, romance, action, suspense, recommend fan, fan classic, classic romance, romance action, action suspense
+I:9095;200;know, crimson, pig, animated, theme, tale, tormented, pilot, transform, pig, be, highest, gross, movie, year, know crimson, crimson pig, pig animated, animated theme, theme tale, tale tormented, tormented pilot, pilot transform, transform pig, pig be, be highest, highest gross, gross movie, movie year
+I:9095;201;overall, movie, be, root, reality, overall movie, movie be, be root, root reality
+I:9095;202;concentrate, character, development, breathtaking, flight, sequence, sky, be, best, concentrate character, character development, development breathtaking, breathtaking flight, flight sequence, sequence sky, sky be, be best
+I:9095;203;time, credit, roll, be, mind, time credit, credit roll, roll be, be mind
+I:9095;204;be, strange, movie, good, be strange, strange movie, movie good
+I:9095;205;give, movie, highest, recommendation, give movie, movie highest, highest recommendation
+I:9095;206;say, have, huge, amount, respect, say have, have huge, huge amount, amount respect
+I:9095;207;visual, transfer, be, crisp, clean, vibrant, showcase, beautiful, sky, ocean, hero, be, flight, visual transfer, transfer be, be crisp, crisp clean, clean vibrant, vibrant showcase, showcase beautiful, beautiful sky, sky ocean, ocean hero, hero be, be flight
+I:9095;208;purist, be, happy, know, japanese, language, track, be, include, french, language, dub, feature, title, character, purist be, be happy, happy know, know japanese, japanese language, language track, track be, be include, include french, french language, language dub, dub feature, feature title, title character
+I:9095;209;be, excellent, be excellent
+I:9095;210;rest, cast, be, match, rest cast, cast be, be match
+I:9095;211;have, great, singing, voice, have great, great singing, singing voice
+I:9095;212;continuity, sake, have, redub, siren, song, boy, be, beautiful, continuity sake, sake have, have redub, redub siren, siren song, song boy, boy be, be beautiful
+I:9095;213;speak, convincing, accent, speak convincing, convincing accent
+I:9095;214;banter, pirate, gang, be, memorable, say, guy, play, gang, sky, chemistry, bunch, thug, be, funny, banter pirate, pirate gang, gang be, be memorable, memorable say, say guy, guy play, play gang, gang sky, sky chemistry, chemistry bunch, bunch thug, thug be, be funny
+I:9095;215;ham, employ, thick, italian, accent, make, character, amusing, ham employ, employ thick, thick italian, italian accent, accent make, make character, character amusing
+I:9095;216;do, bang, do bang
+I:9095;217;end, enjoy, dub, think, make, movie, lot, better, end enjoy, enjoy dub, dub think, think make, make movie, movie lot, lot better
+I:9095;218;additional, feature, include, additional feature, feature include
+I:9095;219;microphone, featurette, like, watch, be, thrill, see, actor, work, microphone featurette, featurette like, like watch, watch be, be thrill, thrill see, see actor, actor work
+I:9095;220;noteworthy, extra, be, noteworthy extra, extra be
+I:9095;221;longtime, colleague, share, wisdom, gifted, imaginative, animator, be, pleasure, hear, talk, film, asset, longtime colleague, colleague share, share wisdom, wisdom gifted, gifted imaginative, imaginative animator, animator be, be pleasure, pleasure hear, hear talk, talk film, film asset
+I:9095;222;rate, treatment, title, put, package, be, oddest, movie, rate treatment, treatment title, title put, put package, package be, be oddest, oddest movie
+I:9095;223;movie, be, popular, understand, movie be, be popular, popular understand
+I:9095;224;animation, be, movie, strongest, aspect, animation be, be movie, movie strongest, strongest aspect
+I:9095;225;movie, be, fill, lot, aerial, action, plot, be, typical, subtle, engaging, movie be, be fill, fill lot, lot aerial, aerial action, action plot, plot be, be typical, typical subtle, subtle engaging
+I:9095;226;evolution, character, be, bittersweet, delight, watch, evolution character, character be, be bittersweet, bittersweet delight, delight watch
+I:9095;227;other, movie, like, other movie, movie like
+I:9095;228;be, same, level, most, other, film, be same, same level, level most, most other, other film
+I:9095;229;be, ashamed, judge, anime, cover, film, have, beautiful, animation, have, see, be ashamed, ashamed judge, judge anime, anime cover, cover film, film have, have beautiful, beautiful animation, animation have, have see
+I:9095;230;biggest, influence, create, film, be, love, obsession, plane, biggest influence, influence create, create film, film be, be love, love obsession, obsession plane
+I:9095;231;find, young, girl, be, amazing, designer, make, plane, better, have, find young, young girl, girl be, be amazing, amazing designer, designer make, make plane, plane better, better have
+I:9095;232;become, partener, rest, be, history, become partener, partener rest, rest be, be history
+I:9095;233;porco, try, play, hard, bounty, hunter, get, love, respect, let, be, group, schoolgirl, save, young, woman, worry, safety, porco try, try play, play hard, hard bounty, bounty hunter, hunter get, get love, love respect, respect let, let be, be group, group schoolgirl, schoolgirl save, save young, young woman, woman worry, worry safety
+I:9095;234;use, big, pig, head, lot, have, bigger, heart, put, use, use big, big pig, pig head, head lot, lot have, have bigger, bigger heart, heart put, put use
+I:9095;235;be, huge, fan, studio, work, be huge, huge fan, fan studio, studio work
+I:9095;236;animation, be, awesome, feature, animation be, be awesome, awesome feature
+I:9095;237;original, version, be, masterful, original version, version be, be masterful
+I:9095;238;story, be, romantic, adult, be, safe, entertaining, child, story be, be romantic, romantic adult, adult be, be safe, safe entertaining, entertaining child
+I:9095;239;be, story, complex, adult, friendship, love, be story, story complex, complex adult, adult friendship, friendship love
+I:9095;240;have, air, have air
+I:9095;241;animation, be, beautiful, be, treat, aviation, buff, dream, barnstorming, day, animation be, be beautiful, beautiful be, be treat, treat aviation, aviation buff, buff dream, dream barnstorming, barnstorming day
+I:9095;242;original, music, score, be, good, set, right, atmosphere, film, original music, music score, score be, be good, good set, set right, right atmosphere, atmosphere film
+I:9095;243;opening, scene, show, year, be, decade, opening scene, scene show, show year, year be, be decade
+I:9095;244;be, gain, strength, plan, conquest, possibility, world, be gain, gain strength, strength plan, plan conquest, conquest possibility, possibility world
+I:9095;245;war, film, turn, political, allegory, time, war film, film turn, turn political, political allegory, allegory time
+I:9095;246;miyazaki, do, marvelous, job, creation, character, portray, disposition, such, selfishness, cynicism, gloom, pig, hope, be, something, miyazaki do, do marvelous, marvelous job, job creation, creation character, character portray, portray disposition, disposition such, such selfishness, selfishness cynicism, cynicism gloom, gloom pig, pig hope, hope be, be something
+I:9095;247;film, noir, offer, augment, cinematic, value, story, depict, time, period, film noir, noir offer, offer augment, augment cinematic, cinematic value, value story, story depict, depict time, time period
+I:9095;248;middle, american, pilot, arrive, claim, fame, secure, spot, middle american, american pilot, pilot arrive, arrive claim, claim fame, fame secure, secure spot
+I:9095;249;be, fantastic, animated, journey, make, strong, political, statement, be fantastic, fantastic animated, animated journey, journey make, make strong, strong political, political statement
+I:9095;250;film, entertain, young, old, leave, lot, audience, ponder, magnificent, animation, transcend, mind, vibrant, color, detailed, line, film entertain, entertain young, young old, old leave, leave lot, lot audience, audience ponder, ponder magnificent, magnificent animation, animation transcend, transcend mind, mind vibrant, vibrant color, color detailed, detailed line
+I:9095;251;story, keep, viewer, edge, seat, nail, story keep, keep viewer, viewer edge, edge seat, seat nail
+I:9095;252;bite, suspense, leave, audience, guess, happen, next, bite suspense, suspense leave, leave audience, audience guess, guess happen, happen next
+I:9095;253;cinematic, masterpiece, leave, audience, fulfil, experience, offer, something, everyone, cinematic masterpiece, masterpiece leave, leave audience, audience fulfil, fulfil experience, experience offer, offer something, something everyone
+I:9095;254;be, favorite, studio, ghibli, film, be favorite, favorite studio, studio ghibli, ghibli film
+I:9095;255;enjoy, watch, row, boyfriend, enjoy watch, watch row, row boyfriend
+I:9095;256;do, warm, heart, make, laugh, do warm, warm heart, heart make, make laugh
+I:9095;257;have, say, be, piece, great, work, be, interesting, see, story, main, charector, be, pig, make, spirited, look, pig, have say, say be, be piece, piece great, great work, work be, be interesting, interesting see, see story, story main, main charector, charector be, be pig, pig make, make spirited, spirited look, look pig
+I:9095;258;be, sure, like, movie, know, let, come, great, movie, be sure, sure like, like movie, movie know, know let, let come, come great, great movie
+I:9095;259;be, joy, view, film, daughter, be joy, joy view, view film, film daughter
+I:9095;260;enjoy, fun, loving, story, enjoy fun, fun loving, loving story
+I:9095;261;animation, storytelling, be, strong, point, animation storytelling, storytelling be, be strong, strong point
+I:9095;262;first, disc, contain, film, most, special, feature, first disc, disc contain, contain film, film most, most special, special feature
+I:9095;263;be, decent, documentary, be, be decent, decent documentary, documentary be
+I:9095;264;feature, run, minute, have, japanese, audio, english, subtitle, feature run, run minute, minute have, have japanese, japanese audio, audio english, english subtitle
+I:9095;265;be, intrigue, source, say, name, italian, plane, appear, movie, buy, be intrigue, intrigue source, source say, say name, name italian, italian plane, plane appear, appear movie, movie buy
+I:9095;266;movie, prove, be, classic, enter, story, middle, be, level, humor, danger, fantasy, mystery, true, loss, movie prove, prove be, be classic, classic enter, enter story, story middle, middle be, be level, level humor, humor danger, danger fantasy, fantasy mystery, mystery true, true loss
+I:9095;267;animation, be, rich, usual, attention, detail, color, remain, vivid, animation be, be rich, rich usual, usual attention, attention detail, detail color, color remain, remain vivid
+I:9095;268;movie, be, lively, funny, flashback, be, powerful, movie be, be lively, lively funny, funny flashback, flashback be, be powerful
+I:9095;269;know, howl, move, spirited, be, worthy, be, include, movie, know howl, howl move, move spirited, spirited be, be worthy, worthy be, be include, include movie
+I:9095;270;fan, work, enjoy, movie, fan work, work enjoy, enjoy movie
+I:9095;271;get, son, request, get son, son request
+I:9095;272;watch, be, good, watch be, be good
+I:9095;273;be, great, movie, young, adult, kid, be great, great movie, movie young, young adult, adult kid
+I:9095;274;little, brother, love, expect, little brother, brother love, love expect
+I:9095;275;movie, porco, rosso, be, great, story, fly, ace, war, become, bountyhunter, movie porco, porco rosso, rosso be, be great, great story, story fly, fly ace, ace war, war become, become bountyhunter
+I:9095;276;story, be, more, fill, romance, actcion, comedy, story be, be more, more fill, fill romance, romance actcion, actcion comedy
+I:9095;277;be, base, whimsical, world, be, imagine, great, director, hayao, miyazaki, greatest, film, maker, time, be base, base whimsical, whimsical world, world be, be imagine, imagine great, great director, director hayao, hayao miyazaki, miyazaki greatest, greatest film, film maker, maker time
+I:9095;278;be, great, movie, see, young, young, heart, be great, great movie, movie see, see young, young young, young heart
+I:9095;279;good, movie, interesting, fun, good movie, movie interesting, interesting fun
+I:9095;280;like, recommend, family, viewing, like recommend, recommend family, family viewing
+I:9095;281;pay, tone, be, adult, anything, have, do, pay tone, tone be, be adult, adult anything, anything have, have do
+I:9095;282;slapstick, air, pirate, sequence, slapstick air, air pirate, pirate sequence
+I:9095;283;death, experience, war, be, best, scene, animated, death experience, experience war, war be, be best, best scene, scene animated
+I:9095;284;be, worth, see, be worth, worth see
+I:9095;285;top, outrageousness, japanese, version, top outrageousness, outrageousness japanese, japanese version
+I:9095;286;say, be, favorite, miyazaki, film, catch, interest, imagination, great, director, do, say be, be favorite, favorite miyazaki, miyazaki film, film catch, catch interest, interest imagination, imagination great, great director, director do
+I:9095;287;say, be, first, experience, be, be, proud, have, collection, say be, be first, first experience, experience be, be be, be proud, proud have, have collection
+I:9095;288;anyone, love, anime, movie, like, anyone love, love anime, anime movie, movie like
+I:9095;289;be, get, good, story, comical, time, be get, get good, good story, story comical, comical time
+I:9095;290;have, watch, other, movie, love, have watch, watch other, other movie, movie love
+I:9095;291;be, favorite, movie, be favorite, favorite movie
+I:9095;292;disc, box, come, great, condition, disc box, box come, come great, great condition
+I:9095;293;be, wonderful, film, be wonderful, wonderful film
+I:9095;294;be, stunning, masterpiece, be stunning, stunning masterpiece
+I:9095;295;visual, point, view, be, full, beautiful, scenery, due, story, take, place, visual point, point view, view be, be full, full beautiful, beautiful scenery, scenery due, due story, story take, take place
+I:9095;296;be, story, pilot, be, transform, be story, story pilot, pilot be, be transform
+I:9095;297;think, love, think love
+I:9095;298;be, marvel, be marvel
+I:9095;299;be, funny, movie, thrilling, adventure, be, beautiful, be, painful, be funny, funny movie, movie thrilling, thrilling adventure, adventure be, be beautiful, beautiful be, be painful
+I:9095;300;setting, late, be, interesting, live, setting late, late be, be interesting, interesting live
+I:9095;301;female, film, be, great, start, opening, sequence, group, irrepressible, little, girl, class, outing, be, kidnap, ransom, unfortunate, pirate, female film, film be, be great, great start, start opening, opening sequence, sequence group, group irrepressible, irrepressible little, little girl, girl class, class outing, outing be, be kidnap, kidnap ransom, ransom unfortunate, unfortunate pirate
+I:9095;302;come, film, feel, better, be, woman, hopeful, future, daughter, come film, film feel, feel better, better be, be woman, woman hopeful, hopeful future, future daughter
+I:9095;303;film, get, highest, recommendation, film get, get highest, highest recommendation
+I:9095;304;favorite, ghibli, film, be, unique, other, work, studio, achieve, same, sense, magic, wonderment, be, set, real, world, favorite ghibli, ghibli film, film be, be unique, unique other, other work, work studio, studio achieve, achieve same, same sense, sense magic, magic wonderment, wonderment be, be set, set real, real world
+I:9095;305;one, say, something, be, hero, triumph, anything, one say, say something, something be, be hero, hero triumph, triumph anything
+I:9095;306;past, be, reveal, entire, film, past be, be reveal, reveal entire, entire film
+I:9095;307;be, love, story, do, deal, love, be love, love story, story do, do deal, deal love
+I:9095;308;let, love, happen, character, live, life, let love, love happen, happen character, character live, live life
+I:9095;309;think, funnier, action, great, fight, scene, beautiful, cloud, sunlit, sky, think funnier, funnier action, action great, great fight, fight scene, scene beautiful, beautiful cloud, cloud sunlit, sunlit sky
+I:9095;310;spite, love, respect, be, convince, be, be, finest, work, surpass, have, see, film, see, spite love, love respect, respect be, be convince, convince be, be be, be finest, finest work, work surpass, surpass have, have see, see film, film see
+I:9095;311;be, astounding, many, way, make, want, see, more, amazing, creation, be astounding, astounding many, many way, way make, make want, want see, see more, more amazing, amazing creation
+I:9095;312;movie, be, beautiful, watch, movie be, be beautiful, beautiful watch
+I:9095;313;excellent, artistry, great, story, excellent artistry, artistry great, great story
+I:9095;314;watch, movie, soundtrack, watch movie, movie soundtrack
+I:9095;315;prefere, japanese, english, subtitle, comment, other, prefere japanese, japanese english, english subtitle, subtitle comment, comment other
+I:9095;316;be, much, look, watch, movie, be much, much look, look watch, watch movie
+I:9095;317;lot, cool, plane, character, lot cool, cool plane, plane character
+I:9095;318;great, movie, fan, great movie, movie fan
+I:9095;319;be, easy, carefree, watch, be easy, easy carefree, carefree watch
+I:9095;320;nice, story, happy, ending, nice story, story happy, happy ending
+I:9095;321;be, fanatic, work, be, favorite, work, be fanatic, fanatic work, work be, be favorite, favorite work
+I:9095;322;hearted, fight, scene, strong, female, figure, comic, villain, romance, great, achievement, touch, magic, fanatical, attention, detail, hearted fight, fight scene, scene strong, strong female, female figure, figure comic, comic villain, villain romance, romance great, great achievement, achievement touch, touch magic, magic fanatical, fanatical attention, attention detail
+I:9095;323;be, atypical, light, adventure, film, be, suitable, child, be atypical, atypical light, light adventure, adventure film, film be, be suitable, suitable child
+I:9095;324;be, charming, fun, wonderful, be charming, charming fun, fun wonderful
+I:9095;325;movie, cartoon, form, be, favorite, movie cartoon, cartoon form, form be, be favorite
+I:9095;326;be, entertaining, humorous, love, story, provide, little, history, lesson, aviation, condition, lead, be entertaining, entertaining humorous, humorous love, love story, story provide, provide little, little history, history lesson, lesson aviation, aviation condition, condition lead
+I:9095;327;be, delightful, animated, film, be, spectacular, film, genre, fit, same, shelf, other, wonderful, film, lonely, be, be, wander, hero, be delightful, delightful animated, animated film, film be, be spectacular, spectacular film, film genre, genre fit, fit same, same shelf, shelf other, other wonderful, wonderful film, film lonely, lonely be, be be, be wander, wander hero
+I:9095;328;be, something, special, film, be something, something special, special film
+I:9095;329;be, exciting, thrilling, same, time, peaceful, kind, oasis, be exciting, exciting thrilling, thrilling same, same time, time peaceful, peaceful kind, kind oasis
+I:9095;330;capture, feeling, transplant, unique, setting, resonance, own, life, experience, tie, grander, global, scale, show, be, remarkable, interesting, versatile, filmmaker, have, period, capture feeling, feeling transplant, transplant unique, unique setting, setting resonance, resonance own, own life, life experience, experience tie, tie grander, grander global, global scale, scale show, show be, be remarkable, remarkable interesting, interesting versatile, versatile filmmaker, filmmaker have, have period
+I:9095;331;film, be, great, do, like, american, voice, actor, film be, be great, great do, do like, like american, american voice, voice actor
+I:9095;332;great, little, show, humor, drama, mystery, great little, little show, show humor, humor drama, drama mystery
+I:9095;333;cartoon, movie, right, cartoon movie, movie right
+I:9095;334;fable, deep, psychological, implication, something, kid, get, level, fable deep, deep psychological, psychological implication, implication something, something kid, kid get, get level
+I:9095;335;art, work, be, gorgeous, art work, work be, be gorgeous
+I:9095;336;character, be, move, hilarious, character be, be move, move hilarious
+I:9095;337;deserve, be, know, deserve be, be know
+I:9095;338;be, best, animated, film, time, be best, best animated, animated film, film time
+I:9095;339;be, most, polish, flawless, work, be most, most polish, polish flawless, flawless work
+I:9095;340;be, unique, watch, interact, everyone, be, remarkable, be unique, unique watch, watch interact, interact everyone, everyone be, be remarkable
+I:9095;341;support, cast, be, archetypical, forgive, support cast, cast be, be archetypical, archetypical forgive
+I:9095;342;story, be, simple, flawless, story be, be simple, simple flawless
+I:9095;343;tension, arc, film, be, think, tension arc, arc film, film be, be think
+I:9095;344;start, high, note, silly, settle, stylish, melancholy, surreal, vibe, last, good, half, film, start high, high note, note silly, silly settle, settle stylish, stylish melancholy, melancholy surreal, surreal vibe, vibe last, last good, good half, half film
+I:9095;345;end, be, melancholy, resolve, plot, leave, tension, hanging, air, end be, be melancholy, melancholy resolve, resolve plot, plot leave, leave tension, tension hanging, hanging air
+I:9095;346;only, other, feature, have, flawless, story, only other, other feature, feature have, have flawless, flawless story
+I:9095;347;historical, setting, provide, necessary, realistic, contrast, romaticised, character, event, movie, add, degree, unsettling, tension, atmosphere, historical setting, setting provide, provide necessary, necessary realistic, realistic contrast, contrast romaticised, romaticised character, character event, event movie, movie add, add degree, degree unsettling, unsettling tension, tension atmosphere
+I:9095;348;detail, frame, be, stunning, emotion, nuance, character, expression, be, second, none, detail frame, frame be, be stunning, stunning emotion, emotion nuance, nuance character, character expression, expression be, be second, second none
+I:9095;349;movie, be, be, time, look, fresh, today, competition, movie be, be be, be time, time look, look fresh, fresh today, today competition
+I:9095;350;soundtrack, be, wonderful, beautiful, ballad, be, melodic, centerpiece, film, soundtrack be, be wonderful, wonderful beautiful, beautiful ballad, ballad be, be melodic, melodic centerpiece, centerpiece film
+I:9095;351;be, dynamic, engaging, be, subtle, nuanced, be dynamic, dynamic engaging, engaging be, be subtle, subtle nuanced
+I:9095;352;be, simple, simplify, be simple, simple simplify
+I:9095;353;be, charming, hell, be charming, charming hell
+I:9095;354;story, have, see, film, know, be, talk, be, stunning, surreal, typical, moment, be, powerful, scene, cinema, be, kid, story have, have see, see film, film know, know be, be talk, talk be, be stunning, stunning surreal, surreal typical, typical moment, moment be, be powerful, powerful scene, scene cinema, cinema be, be kid
+I:9095;355;be, go, enjoy, movie, be go, go enjoy, enjoy movie
+I:9095;356;animation, allow, express, conventional, live, animation allow, allow express, express conventional, conventional live
+I:9095;357;be, best, animated, film, time, be best, best animated, animated film, film time
+I:9095;358;p., s., move, castle, be, wait, p. s., s. move, move castle, castle be, be wait
+I:9095;359;more, surreal, direction, be, go, spirited, go, direction, more surreal, surreal direction, direction be, be go, go spirited, spirited go, go direction
+I:9095;360;general, be, good, idea, watch, foreign, movie, be, original, language, general be, be good, good idea, idea watch, watch foreign, foreign movie, movie be, be original, original language
+I:9095;361;movie, be, set, nobody, speak, italian, accent, movie be, be set, set nobody, nobody speak, speak italian, italian accent
+I:9095;362;animation, be, brilliant, film, have, trouble, main, character, animation be, be brilliant, brilliant film, film have, have trouble, trouble main, main character
+I:9095;363;other, film, feel, draw, main, character, want, see, succeed, other film, film feel, feel draw, draw main, main character, character want, want see, see succeed
+I:9095;364;show, little, emotion, show little, little emotion
+I:9095;365;wrap, voice, tell, happen, next, wrap voice, voice tell, tell happen, happen next
+I:9095;366;be, hold, favorite, film, animated, be, film, know, subtitle, form, be hold, hold favorite, favorite film, film animated, animated be, be film, film know, know subtitle, subtitle form
+I:9095;367;have, do, great, job, capture, essence, japanese, performance, help, make, dub, watchable, have do, do great, great job, job capture, capture essence, essence japanese, japanese performance, performance help, help make, make dub, dub watchable
+I:9095;368;be, surprise, dub, be surprise, surprise dub
+I:9095;369;breathtaking, animation, memorable, character, fun, exciting, breathtaking animation, animation memorable, memorable character, character fun, fun exciting
+I:9095;370;have, unique, twist, make, watch, movie, joy, have unique, unique twist, twist make, make watch, watch movie, movie joy
+I:9095;371;be, favorite, enjoyable, be favorite, favorite enjoyable
+I:9095;372;san, be, master, autobiographical, work, be, try, impart, moral, environmental, lesson, child, young, girl, japanese, society, most, other, work, do, san be, be master, master autobiographical, autobiographical work, work be, be try, try impart, impart moral, moral environmental, environmental lesson, lesson child, child young, young girl, girl japanese, japanese society, society most, most other, other work, work do
+I:9095;373;heartfelt, fantasy, projection, be, independent, agent, belong, typical, japanese, industry, juggernaut, symbolize, brash, american, pilot, heartfelt fantasy, fantasy projection, projection be, be independent, independent agent, agent belong, belong typical, typical japanese, japanese industry, industry juggernaut, juggernaut symbolize, symbolize brash, brash american, american pilot
+I:9095;374;set, be, rise, world, capture, be, last, breath, fantastic, natural, freedom, long, darkness, set, set be, be rise, rise world, world capture, capture be, be last, last breath, breath fantastic, fantastic natural, natural freedom, freedom long, long darkness, darkness set
+I:9095;375;genius, stroke, be, turn, protagonist, pig, whimsical, literal, mockery, old, genius stroke, stroke be, be turn, turn protagonist, protagonist pig, pig whimsical, whimsical literal, literal mockery, mockery old
+I:9095;376;male/brotherhood, chauvinist, melodramatic, adventure, genre, appropriate, gentle, dig, mankind, general, good, surreal, fun, male/brotherhood chauvinist, chauvinist melodramatic, melodramatic adventure, adventure genre, genre appropriate, appropriate gentle, gentle dig, dig mankind, mankind general, general good, good surreal, surreal fun
+I:9095;377;story, make, fun, preach, society, prominent, role, cartoony, surface, lie, touching, elegiac, sadness, lose, past, yearning, hope, place, esp, story make, make fun, fun preach, preach society, society prominent, prominent role, role cartoony, cartoony surface, surface lie, lie touching, touching elegiac, elegiac sadness, sadness lose, lose past, past yearning, yearning hope, hope place, place esp
+I:9095;378;heart, lark, make, immersing, nostalgia, lyricism, more, enchantingand, affect, heart lark, lark make, make immersing, immersing nostalgia, nostalgia lyricism, lyricism more, more enchantingand, enchantingand affect
+I:9095;379;magical, paradox, great, art, magical paradox, paradox great, great art
+I:9095;380;be, cartoon, touch, be cartoon, cartoon touch
+I:9095;381;rate, overlook, fabulous, work, rate overlook, overlook fabulous, fabulous work
+I:9095;382;be, gorgeous, movie, offering, be gorgeous, gorgeous movie, movie offering
+I:9095;383;have, read, review, commentary, be, aim, businessman, buy, have read, read review, review commentary, commentary be, be aim, aim businessman, businessman buy
+I:9095;384;year, old, daughter, love, movie, love, delivery, service, year old, old daughter, daughter love, love movie, movie love, love delivery, delivery service
+I:9095;385;be, nothing, scary, be, joke, great, fly, scene, keep, daughter, attention, demand, see, be nothing, nothing scary, scary be, be joke, joke great, great fly, fly scene, scene keep, keep daughter, daughter attention, attention demand, demand see
+I:9095;386;collector, animation, classic, love, japanese, animation, film, collector animation, animation classic, classic love, love japanese, japanese animation, animation film
+I:9095;387;happy, product, happy product
+I:9095;388;fill, brilliant, animation, memorable, character, do, fail, bring, anothe, masterpiece, fill brilliant, brilliant animation, animation memorable, memorable character, character do, do fail, fail bring, bring anothe, anothe masterpiece
+I:9095;389;be, great, piece, work, everyone, adult, kid, enjoy, be great, great piece, piece work, work everyone, everyone adult, adult kid, kid enjoy
+I:9095;390;be, many, lighthearted, joke, plenty, thing, quote, be many, many lighthearted, lighthearted joke, joke plenty, plenty thing, thing quote
+I:9095;391;humor, be, real, original, funny, forced, nature, most, film, day, humor be, be real, real original, original funny, funny forced, forced nature, nature most, most film, film day
+I:9095;392;eleven, year, old, brother, i, be, be, stich, enjoy, eleven year, year old, old brother, brother i, i be, be be, be stich, stich enjoy
+I:9095;393;best, part, film, be, plane, love, best part, part film, film be, be plane, plane love
+I:9095;394;look, feel, authentic, pull, film, look feel, feel authentic, authentic pull, pull film
+I:9095;395;be, give, great, cast, new, character, excellent, english, cast, be give, give great, great cast, cast new, new character, character excellent, excellent english, english cast
+I:9095;396;do, hesistate, enjoy, do hesistate, hesistate enjoy
+I:9095;397;be, favorite, movie, time, be favorite, favorite movie, movie time
+I:9095;398;have, courage, talent, take, time, tell, story, try, wow, second, film, have courage, courage talent, talent take, take time, time tell, tell story, story try, try wow, wow second, second film
+I:9095;399;movie, have, subtle, grace, beauty, charm, be, move, movie have, have subtle, subtle grace, grace beauty, beauty charm, charm be, be move
+I:9095;400;be, rare, find, medium, be rare, rare find, find medium
+I:9095;401;be, go, happen, be go, go happen
+I:9095;402;subtitle, be, bit, hasty, post, read, repeat, viewing, have, help, make, enjoyable, film, subtitle be, be bit, bit hasty, hasty post, post read, read repeat, repeat viewing, viewing have, have help, help make, make enjoyable, enjoyable film
+I:9095;403;have, become, sort, cult, favorite, have become, become sort, sort cult, cult favorite
+I:9095;404;ending, be, poignant, ending be, be poignant
+I:9095;405;guy, soft, spot, genuine, romance, passion, adventure, involve, older, aircraft, film, leave, be, mark, guy soft, soft spot, spot genuine, genuine romance, romance passion, passion adventure, adventure involve, involve older, older aircraft, aircraft film, film leave, leave be, be mark
+I:9095;406;entire, family, look, see, new, release, american, audience, entire family, family look, look see, see new, new release, release american, american audience
+I:9095;407;be, versitile, creator, capable, involve, many, type, storytelling, animation, technique, story, pacing, tell, wide, variety, story, film, be versitile, versitile creator, creator capable, capable involve, involve many, many type, type storytelling, storytelling animation, animation technique, technique story, story pacing, pacing tell, tell wide, wide variety, variety story, story film
+I:9095;408;watch, enjoy, be, delivery, service, watch enjoy, enjoy be, be delivery, delivery service
+I:9095;409;be, gorgeousmovie, punctuate, breathtaking, view, be gorgeousmovie, gorgeousmovie punctuate, punctuate breathtaking, breathtaking view
+I:9095;410;best, feature, first, rate, animation, story, dialogue, best feature, feature first, first rate, rate animation, animation story, story dialogue
+I:9095;411;crowd, real, audience, masterpiece, be, adult, appreciate, beautiful, animation, crowd real, real audience, audience masterpiece, masterpiece be, be adult, adult appreciate, appreciate beautiful, beautiful animation
+I:9095;412;style, hero, sound, radial, aircraft, engine, style hero, hero sound, sound radial, radial aircraft, aircraft engine
+I:9095;413;deserve, top, ranking, movie, collection, deserve top, top ranking, ranking movie, movie collection
+I:9095;414;like, film, lot, like film, film lot
+I:9095;415;first, view, first view
+I:9095;416;initial, negotiation, engineer, be, brilliant, english, japanese, portrayal, motion, old, mechanical, airplane, make, movie, interesting, initial negotiation, negotiation engineer, engineer be, be brilliant, brilliant english, english japanese, japanese portrayal, portrayal motion, motion old, old mechanical, mechanical airplane, airplane make, make movie, movie interesting
+I:9095;417;give, japanese, version, give japanese, japanese version
+I:9095;418;split, difference, call, split difference, difference call
+I:9095;419;monolithic, environmentalist, effort, enjoy, greatest, artistic, success, filmmaker, opinion, monolithic environmentalist, environmentalist effort, effort enjoy, enjoy greatest, greatest artistic, artistic success, success filmmaker, filmmaker opinion
+I:9095;420;best, picture, delivery, service, be, produce, time, best picture, picture delivery, delivery service, service be, be produce, produce time
+I:9095;421;be, trifecta, director, be, proud, be trifecta, trifecta director, director be, be proud
+I:9095;422;be, simple, straightforward, film, be, something, surprise, be simple, simple straightforward, straightforward film, film be, be something, something surprise
+I:9095;423;good, old, swashbuckling, adventure, flick, daredevil, flyer, honor, friendship, good old, old swashbuckling, swashbuckling adventure, adventure flick, flick daredevil, daredevil flyer, flyer honor, honor friendship
+I:9095;424;long, autoplay, commercial, intrude, viewer, put, disc, admit, continue, do, excellent, job, release, provide, original, japanese, version, excellent, dubbing, long autoplay, autoplay commercial, commercial intrude, intrude viewer, viewer put, put disc, disc admit, admit continue, continue do, do excellent, excellent job, job release, release provide, provide original, original japanese, japanese version, version excellent, excellent dubbing
+I:9095;425;be, accomplish, bounty, hunter, famous, red, airplane, have, be, transform, pig, be accomplish, accomplish bounty, bounty hunter, hunter famous, famous red, red airplane, airplane have, have be, be transform, transform pig
+I:9095;426;be, honest, plot, be, adequate, real, joy, film, lie, watch, interaction, character, onscreen, marvel, superb, animation, be honest, honest plot, plot be, be adequate, adequate real, real joy, joy film, film lie, lie watch, watch interaction, interaction character, character onscreen, onscreen marvel, marvel superb, superb animation
+I:9095;427;detail, be, perfect, study, stylishness, outfits, seem, have, be, copy, page, catalog, specifics, airplane, design, detail be, be perfect, perfect study, study stylishness, stylishness outfits, outfits seem, seem have, have be, be copy, copy page, page catalog, catalog specifics, specifics airplane, airplane design
+I:9095;428;be, elegance, way, character, move, way, frame, scene, use, rhythm, pacing, associate, live, action, film, animation, be elegance, elegance way, way character, character move, move way, way frame, frame scene, scene use, use rhythm, rhythm pacing, pacing associate, associate live, live action, action film, film animation
+I:9095;429;suppose, few, experience, first, venture, magic, suppose few, few experience, experience first, first venture, venture magic
+I:9095;430;wonderful, film, be, best, be, come, wonderful film, film be, be best, best be, be come
+I:9095;431;feel, make, great, work, research, place, thing, people, be, incredible, feel make, make great, great work, work research, research place, place thing, thing people, people be, be incredible
+I:9095;432;be, reason, work, be, pleasure, relax, amz, tale, fantastic, draw, be reason, reason work, work be, be pleasure, pleasure relax, relax amz, amz tale, tale fantastic, fantastic draw
+I:9095;433;be, something, french, version, same, think, be, better, original, version, french, track, be something, something french, french version, version same, same think, think be, be better, better original, original version, version french, french track
+I:9095;434;say, french, actor, perform, better, japanese, one, voice, be, great, say french, french actor, actor perform, perform better, better japanese, japanese one, one voice, voice be, be great
+I:9095;435;spend, day, fight, sea, pirate, evade, capture, italian, secret, police, visit, lovely, owner, swanky, hotel, spend day, day fight, fight sea, sea pirate, pirate evade, evade capture, capture italian, italian secret, secret police, police visit, visit lovely, lovely owner, owner swanky, swanky hotel
+I:9095;436;old, talented, beautiful, engineer, old talented, talented beautiful, beautiful engineer
+I:9095;437;work, rebuild, plane, sleek, sophisticated, fight, machine, work rebuild, rebuild plane, plane sleek, sleek sophisticated, sophisticated fight, fight machine
+I:9095;438;be, first, fable, aim, adult, child, be first, first fable, fable aim, aim adult, adult child
+I:9095;439;be, lot, smoking, alcohol, be lot, lot smoking, smoking alcohol
+I:9095;440;have, chance, spend, entire, film, dedicate, love, fly, attention, detail, many, plane, movie, be, amazing, have chance, chance spend, spend entire, entire film, film dedicate, dedicate love, love fly, fly attention, attention detail, detail many, many plane, plane movie, movie be, be amazing
+I:9095;441;do, like, other, classic, be, enjoyable, romp, do like, like other, other classic, classic be, be enjoyable, enjoyable romp
+I:9095;442;avid, fan, anime, historical, fiction, film, add, collection, avid fan, fan anime, anime historical, historical fiction, fiction film, film add, add collection
+I:9095;443;have, great, sea, plane/pirate, action, sequence, classic, touch, have great, great sea, sea plane/pirate, plane/pirate action, action sequence, sequence classic, classic touch
+I:9095;444;have, buy, sooner!we, love, middle, have buy, buy sooner!we, sooner!we love, love middle
+I:9095;445;several, week, watch, film, be, entrance, several week, week watch, watch film, film be, be entrance
+I:9095;446;love, pig, character, love pig, pig character
+I:9095;447;recommend, film, lover, film, new, fan, recommend film, film lover, lover film, film new, new fan
+I:9095;448;wish, describe, beauty, film, wish describe, describe beauty, beauty film
+I:9095;449;hold, all, film, heart, have, move, be, active, life, relationship, environment, community, hold all, all film, film heart, heart have, have move, move be, be active, active life, life relationship, relationship environment, environment community
+I:9095;450;hope, guy, enjoy, hope guy, guy enjoy
+I:9095;451;thank, read, review, have, lovely, day, thank read, read review, review have, have lovely, lovely day
+I:9095;452;be, new, wonderful, be new, new wonderful
+I:9095;453;change, imaginative, animation, be, exquisite, story, be, funny, un, change imaginative, imaginative animation, animation be, be exquisite, exquisite story, story be, be funny, funny un
+I:9095;454;film, adult, child, film adult, adult child
+I:9095;455;give, whole, new, way, see, animation, give whole, whole new, new way, way see, see animation
+I:9095;456;share, grandchild, share grandchild
+I:9095;457;animation, be, beautiful, dub, be, perfect, setting, be, story, be, oriental, formula, animation be, be beautiful, beautiful dub, dub be, be perfect, perfect setting, setting be, be story, story be, be oriental, oriental formula
+I:9095;458;be, fun, watch, be fun, fun watch
+I:9095;459;do, live, spirited, be, understate, way, quaint, nice, do live, live spirited, spirited be, be understate, understate way, way quaint, quaint nice
+I:9095;460;be, fun, movie, fly, romance, romance, fly, be fun, fun movie, movie fly, fly romance, romance romance, romance fly
+I:9095;461;guy, pic, be, magical, be, guy pic, pic be, be magical, magical be
+I:9095;462;think, film, be, better, most, american, movie, think film, film be, be better, better most, most american, american movie
+I:9095;463;be, brilliant, animation, stable, be brilliant, brilliant animation, animation stable
+I:9095;464;be, be, enjoy, kid, adult, talk, pig, make, amusing, scene, be be, be enjoy, enjoy kid, kid adult, adult talk, talk pig, pig make, make amusing, amusing scene
+I:9095;465;try, be, fan, animation, try be, be fan, fan animation
+I:9095;466;movie, be, great, example, fantastic, kid, film, be, clever, funny, enough, appeal, adult, audience, movie be, be great, great example, example fantastic, fantastic kid, kid film, film be, be clever, clever funny, funny enough, enough appeal, appeal adult, adult audience
+I:9095;467;voice, actor, bring, great, quality, role, be, distract, voice actor, actor bring, bring great, great quality, quality role, role be, be distract
+I:9095;468;be, suitable, view, kiddie, be, general, enjoy, older, audience, be suitable, suitable view, view kiddie, kiddie be, be general, general enjoy, enjoy older, older audience
+I:9095;469;packed, climax, be, plenty, romance, dry, humor, subtle, political, commentary, packed climax, climax be, be plenty, plenty romance, romance dry, dry humor, humor subtle, subtle political, political commentary
+I:9095;470;have, charm, be, likely, have, something, everyone, have charm, charm be, be likely, likely have, have something, something everyone
+I:9095;471;jewel, glorious, ghibli, crown, jewel glorious, glorious ghibli, ghibli crown
+I:9095;472;be, much, masterpiece, spirited, be much, much masterpiece, masterpiece spirited
+I:9095;473;be, full, humor, hide, joke, sport, write, story, line, be full, full humor, humor hide, hide joke, joke sport, sport write, write story, story line
+I:9095;474;be, pleasure, watch, movie, recommend, anyone, have, see, film, be pleasure, pleasure watch, watch movie, movie recommend, recommend anyone, anyone have, have see, see film
+I:9095;475;number, favorite, movie, time, believe, movie, be, worth, cent, be, few, movie, watch, loop, hour, number favorite, favorite movie, movie time, time believe, believe movie, movie be, be worth, worth cent, cent be, be few, few movie, movie watch, watch loop, loop hour
+I:9095;476;be, look, great, movie, add, collection, have, find, be look, look great, great movie, movie add, add collection, collection have, have find
+I:9095;477;be, compose, everything, love, be, keen, be compose, compose everything, everything love, love be, be keen
+I:9095;478;sing, movie, be, rare, mature, adult, woman, character, set, rest, work, sing movie, movie be, be rare, rare mature, mature adult, adult woman, woman character, character set, set rest, rest work
+I:9095;479;be, doubt, presence, give, movie, adult, romance, flavor, something, movie, be, star, be doubt, doubt presence, presence give, give movie, movie adult, adult romance, romance flavor, flavor something, something movie, movie be, be star
+I:9095;480;be, huge, fan, chanson, singing, sure, be huge, huge fan, fan chanson, chanson singing, singing sure
+I:9095;481;be, huge, fan, work, be huge, huge fan, fan work
+I:9095;482;recommend, fan, love, something, mechanic, classic, movie, lover, recommend fan, fan love, love something, something mechanic, mechanic classic, classic movie, movie lover
+I:9095;483;love, movie, deserve, star, love movie, movie deserve, deserve star
+I:9095;484;story, line, be, original, have, great, value, enjoy, animation, story line, line be, be original, original have, have great, great value, value enjoy, enjoy animation
+I:9095;485;be, fan, be, add, collection, be fan, fan be, be add, add collection
+I:9095;486;dub, be, good, original, dub be, be good, good original
+I:9095;487;do, believe, english, be, such, exception, do believe, believe english, english be, be such, such exception
+I:9095;488;japanese, subtitle, like, japanese subtitle, subtitle like
+I:9095;489;wonderful, job, wonderful job
+I:9095;490;have, be, fan, late, enjoy, first, time, have be, be fan, fan late, late enjoy, enjoy first, first time
+I:9095;491;year, many, review, have, tout, film, best, best, year many, many review, review have, have tout, tout film, film best, best best
+I:9095;492;be, say, lot, be say, say lot
+I:9095;493;animation, be, magical, mesmerizing, exciting, animation be, be magical, magical mesmerizing, mesmerizing exciting
+I:9095;494;magical, realisn, be, right, think, best, magical realisn, realisn be, be right, right think, think best
+I:9095;495;plot, character, be, compelling, plot character, character be, be compelling
+I:9095;496;film, deliver, everything, misuse, animation, medium, promise, creation, reality, real, fantastic, film deliver, deliver everything, everything misuse, misuse animation, animation medium, medium promise, promise creation, creation reality, reality real, real fantastic
+I:9095;497;be, great, movie, be great, great movie
+I:9095;498;be, visual, tour, force, entertaining, story, line, be visual, visual tour, tour force, force entertaining, entertaining story, story line
+I:9095;499;image, seaplane, be, render, image seaplane, seaplane be, be render
+I:9095;500;film, have, see, be, favorite, film have, have see, see be, be favorite
+I:9095;501;be, regard, best, creator, animated, film, be regard, regard best, best creator, creator animated, animated film
+I:9095;502;be, favorite, be favorite
+I:9095;503;film, be, wife, favorite, top, film be, be wife, wife favorite, favorite top
+I:9095;504;couple, character, beat, other, couple character, character beat, beat other
+I:9095;505;miyazaki, revisit, several, theme, film, miyazaki revisit, revisit several, several theme, theme film
+I:9095;506;highlight, film, be, strong, female, character, create, highlight film, film be, be strong, strong female, female character, character create
+I:9095;507;young, girl, elderly, woman, age, be, strength, mind, spirit, character, young girl, girl elderly, elderly woman, woman age, age be, be strength, strength mind, mind spirit, spirit character
+I:9095;508;character, environment, be, craft, lush, care, character environment, environment be, be craft, craft lush, lush care
+I:9095;509;detail, be, gorgeous, landscape, rich, person, animal, be, easy, connect, detail be, be gorgeous, gorgeous landscape, landscape rich, rich person, person animal, animal be, be easy, easy connect
+I:9095;510;broad, concept, be, positive, easy, grasp, subtle, detail, keep, mature, viewer, engage, story, broad concept, concept be, be positive, positive easy, easy grasp, grasp subtle, subtle detail, detail keep, keep mature, mature viewer, viewer engage, engage story
+I:9095;511;disney, secure, contract, bring, film, have, do, splendid, job, dubbing, have, rest, disney secure, secure contract, contract bring, bring film, film have, have do, do splendid, splendid job, job dubbing, dubbing have, have rest
+I:9095;512;great, care, be, take, ensure, character, mouth, synch, dialog, great care, care be, be take, take ensure, ensure character, character mouth, mouth synch, synch dialog
+I:9095;513;be, european, film, do, japanese, animation, love, be european, european film, film do, do japanese, japanese animation, animation love
+I:9095;514;be, witty, have, adult, level, humor, sexual, thing, kid, get, allow, indulge, more, facinating, aircraft, be witty, witty have, have adult, adult level, level humor, humor sexual, sexual thing, thing kid, kid get, get allow, allow indulge, indulge more, more facinating, facinating aircraft
+I:9095;515;first, class, voice, talent, include, favorite, other, ghibli/disney, release, first class, class voice, voice talent, talent include, include favorite, favorite other, other ghibli/disney, ghibli/disney release
+I:9095;516;give, add, depth, outstanding, animation, give add, add depth, depth outstanding, outstanding animation
+I:9095;517;be, target, adult, have, european, flavor, japanese, production, film, have, character, smoking, drinking, be target, target adult, adult have, have european, european flavor, flavor japanese, japanese production, production film, film have, have character, character smoking, smoking drinking
+I:9095;518;animation, be, wonderful, backdrop, amazing, plane, cool, character, fascinating, animation be, be wonderful, wonderful backdrop, backdrop amazing, amazing plane, plane cool, cool character, character fascinating
+I:9095;519;dogfight, be, fun, fist, fight, end, film, be, amusing, dogfight be, be fun, fun fist, fist fight, fight end, end film, film be, be amusing
+I:9095;520;say, be, best, chain, say be, be best, best chain
+I:9095;521;be, stunning, film, be stunning, stunning film
+I:9095;522;be, entertaining, little, strange, most, undercooked, be entertaining, entertaining little, little strange, strange most, most undercooked
+I:9095;523;be, favorite, miyazaki, film, due, witty, humor, anti, be favorite, favorite miyazaki, miyazaki film, film due, due witty, witty humor, humor anti
+I:9095;524;music, score, be, fambulous, usual, combine, expertise, music score, score be, be fambulous, fambulous usual, usual combine, combine expertise
+I:9095;525;be, enjoyable, believable, oppose, dub, other, movie, be enjoyable, enjoyable believable, believable oppose, oppose dub, dub other, other movie
+I:9095;526;stand, best, director, time, intense, perfectionism, make, movie, intracitley, detailed, fresh, same, time, retain, air, nostalgia, stand best, best director, director time, time intense, intense perfectionism, perfectionism make, make movie, movie intracitley, intracitley detailed, detailed fresh, fresh same, same time, time retain, retain air, air nostalgia
+I:9095;527;be, such, film, be such, such film
+I:9095;528;take, sleek, take sleek
+I:9095;529;result, be, bizzare, wonderful, story, humanoid, pig, run, secret, police, search, bounty, woman, love, result be, be bizzare, bizzare wonderful, wonderful story, story humanoid, humanoid pig, pig run, run secret, secret police, police search, search bounty, bounty woman, woman love
+I:9095;530;get, best, world, get best, best world
+I:9095;531;notch, character, be, great, get, excellent, performance, animated, character, notch character, character be, be great, great get, get excellent, excellent performance, performance animated, animated character
+I:9095;532;film, feature, best, character, animation, cartoon, shorts, film feature, feature best, best character, character animation, animation cartoon, cartoon shorts
+I:9095;533;animation, be, remarkable, heart, animation be, be remarkable, remarkable heart
+I:9095;534;be, rare, film, everything, seem, add, start, finish, be, rare, film, director, matter, great, be rare, rare film, film everything, everything seem, seem add, add start, start finish, finish be, be rare, rare film, film director, director matter, matter great
+I:9095;535;charming, story, romance, air, sea, charming story, story romance, romance air, air sea
+I:9095;536;mesmerize, character, everything, present, mesmerize character, character everything, everything present
+I:9095;537;airplane, be, cool, airplane be, be cool
+I:9095;538;technical, tidbit, keep, airplane, lover, happy, technical tidbit, tidbit keep, keep airplane, airplane lover, lover happy
+I:9095;539;be, imagine, film, kind, gorgeous, color, drench, scene, imagine, face, pig, be imagine, imagine film, film kind, kind gorgeous, gorgeous color, color drench, drench scene, scene imagine, imagine face, face pig
+I:9095;540;wistful, beautiful, funny, thoughtful, nostalgic, warm, be, wistful beautiful, beautiful funny, funny thoughtful, thoughtful nostalgic, nostalgic warm, warm be
+I:9095;541;known, fact, be, love, classic, plane, known fact, fact be, be love, love classic, classic plane
+I:9095;542;bring, love, plane, life, high, fly, adventure, bring love, love plane, plane life, life high, high fly, fly adventure
+I:9095;543;proud, italian, air, force, pilot, proud, own, good, bring, curse, proud italian, italian air, air force, force pilot, pilot proud, proud own, own good, good bring, bring curse
+I:9095;544;have, be, tell, be, beloved, film, do, work, have be, be tell, tell be, be beloved, beloved film, film do, do work
+I:9095;545;begining, end, sequence, be, much, fun, fill, amazing, plane, bright, color, hysterical, moment, be, meat, begining end, end sequence, sequence be, be much, much fun, fun fill, fill amazing, amazing plane, plane bright, bright color, color hysterical, hysterical moment, moment be, be meat
+I:9095;546;be, glad, get, see, say, be, movie, see, have, better, time, watch, be glad, glad get, get see, see say, say be, be movie, movie see, see have, have better, better time, time watch
+I:9095;547;enter, strong, willed, heroine, know, former, human, self, enter strong, strong willed, willed heroine, heroine know, know former, former human, human self
+I:9095;548;animation, be, top, animation be, be top
+I:9095;549;notch, be, character, story, pull, notch be, be character, character story, story pull
+I:9095;550;story, be, simple, sweet, have, unexpected, level, turn, more, adult, tale, child, story be, be simple, simple sweet, sweet have, have unexpected, unexpected level, level turn, turn more, more adult, adult tale, tale child
+I:9095;551;remind, watch, remind watch
+I:9095;552;have, much, go, remain, family, favorite, astonishing, delightful, many, year, many, viewing, have much, much go, go remain, remain family, family favorite, favorite astonishing, astonishing delightful, delightful many, many year, year many, many viewing
+I:9095;553;talent, work, ethic, strong, make, anything, look, possible, something, do, talent work, work ethic, ethic strong, strong make, make anything, anything look, look possible, possible something, something do
+I:9095;554;animation, be, beautiful, look, implicit, story, story, be, happen, life, remarkable, undaunted, character, animation be, be beautiful, beautiful look, look implicit, implicit story, story story, story be, be happen, happen life, life remarkable, remarkable undaunted, undaunted character
+I:9095;555;new, powerful, engine, help, new powerful, powerful engine, engine help
+I:9095;556;elaborate, black, eye, exhaustion, mark, live, elaborate black, black eye, eye exhaustion, exhaustion mark, mark live
+I:9095;557;be, good, family, kind, movie, be good, good family, family kind, kind movie
+I:9095;558;be, heart, worm, movie, whole, family, enjoy, be heart, heart worm, worm movie, movie whole, whole family, family enjoy
+I:9095;559;first, movie, be, move, castle, first movie, movie be, be move, move castle
+I:9095;560;like, look, more, work, like look, look more, more work
+I:9095;561;artwork, be, top, notch, artwork be, be top, top notch
+I:9095;562;recommend, enjoyable, recommend enjoyable
+I:9095;563;animation, fan, rejoice!apart, wind, be, entertaining, fascinating, beautiful, film, animation fan, fan rejoice!apart, rejoice!apart wind, wind be, be entertaining, entertaining fascinating, fascinating beautiful, beautiful film
+I:9095;564;be, make, great, be make, make great
+I:9095;565;action, humor, fly, ace, happen, be, pig, touching, romantic, subplot, action humor, humor fly, fly ace, ace happen, happen be, be pig, pig touching, touching romantic, romantic subplot
+I:9095;566;be, story, build, romantic, passion, fly, strong, young, female, character, be story, story build, build romantic, romantic passion, passion fly, fly strong, strong young, young female, female character
+I:9095;567;chaste, sort, romance, point, chaste sort, sort romance, romance point
+I:9095;568;trust, know, be, go, be, good, trust know, know be, be go, go be, be good
+I:9095;569;love, classic, movie, move, like, love classic, classic movie, movie move, move like
+I:9095;570;be, bit, goofy, time, be, fun, be bit, bit goofy, goofy time, time be, be fun
+I:9095;571;be, favorite, animated, movie, time, favorite, movie, general, be favorite, favorite animated, animated movie, movie time, time favorite, favorite movie, movie general
+I:9095;572;do, matter, old, be, movie, speak, age, do matter, matter old, old be, be movie, movie speak, speak age
+I:9095;573;great, movie, enjoy, action, humour, english, dub, be, do, great movie, movie enjoy, enjoy action, action humour, humour english, english dub, dub be, be do

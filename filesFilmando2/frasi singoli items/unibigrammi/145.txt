@@ -1,0 +1,491 @@
+I:11570;1;classic, film, have, collector, chanbara, japanese, sword, fighting, film, classic film, film have, have collector, collector chanbara, chanbara japanese, japanese sword, sword fighting, fighting film
+I:11570;2;image, be, crisp, clear, plasma, prefer, original, aspect, panoramic, view, be, particular, genius, image be, be crisp, crisp clear, clear plasma, plasma prefer, prefer original, original aspect, aspect panoramic, panoramic view, view be, be particular, particular genius
+I:11570;3;be, personal, choice, be personal, personal choice
+I:11570;4;be, battle, war, film, enjoy, epic, drama, be battle, battle war, war film, film enjoy, enjoy epic, epic drama
+I:11570;5;deserve, second, viewing, become, confusing, double, flashback, deserve second, second viewing, viewing become, become confusing, confusing double, double flashback
+I:11570;6;impressive, costume, lend, reality, period, impressive costume, costume lend, lend reality, reality period
+I:11570;7;know, epic, drama, film, take, place, know epic, epic drama, drama film, film take, take place
+I:11570;8;thief, become, comfortable, leader, clan, defend, clan, thief become, become comfortable, comfortable leader, leader clan, clan defend, defend clan
+I:11570;9;see, lengthy, battle, scene, see lengthy, lengthy battle, battle scene
+I:11570;10;interview, pair, be, insightful, interview pair, pair be, be insightful
+I:11570;11;excellent, interview, provide, extensive, detail, master, making, film, excellent interview, interview provide, provide extensive, extensive detail, detail master, master making, making film
+I:11570;12;best, best, film, time, best best, best film, film time
+I:11570;13;deal, same, time, period, use, same, technique, actor, better, sophisticated, way, deal same, same time, time period, period use, use same, same technique, technique actor, actor better, better sophisticated, sophisticated way
+I:11570;14;focus, double, attempt, act, year, original, lord, double, be, play, ran, masterful, performance, focus double, double attempt, attempt act, act year, year original, original lord, lord double, double be, be play, play ran, ran masterful, masterful performance
+I:11570;15;double, experience, be, heart, film, battle, clan, rivalry, double experience, experience be, be heart, heart film, film battle, battle clan, clan rivalry
+I:11570;16;many, film, class, play, subtle, important, role, double, be, thief, impersonate, irony, abound, film, end, way, double, be, many, way, noble, original, lord, many film, film class, class play, play subtle, subtle important, important role, role double, double be, be thief, thief impersonate, impersonate irony, irony abound, abound film, film end, end way, way double, double be, be many, many way, way noble, noble original, original lord
+I:11570;17;embody, double, doubt, own, identity, embody double, double doubt, doubt own, own identity
+I:11570;18;cinematography, be, spectacular, cinematography be, be spectacular
+I:11570;19;battle, scene, course, many, construct, scene, sea, battle scene, scene course, course many, many construct, construct scene, scene sea
+I:11570;20;use, traditional, japanese, instrument, drum, final, battle, scene, be, awesome, costume, art, direction, be, outstanding, use traditional, traditional japanese, japanese instrument, instrument drum, drum final, final battle, battle scene, scene be, be awesome, awesome costume, costume art, art direction, direction be, be outstanding
+I:11570;21;rest, be, great, rest be, be great
+I:11570;22;be, good, remember, name, remember, movie, be good, good remember, remember name, name remember, remember movie
+I:11570;23;people, drama, battle, scene, be, top, people drama, drama battle, battle scene, scene be, be top
+I:11570;24;last, act, end, make, charge, troops, tragic, feel, real, last act, act end, end make, make charge, charge troops, troops tragic, tragic feel, feel real
+I:11570;25;film, great, beauty, rhythm, film great, great beauty, beauty rhythm
+I:11570;26;turmoil, era, japanese, history, come, force, mastery, turmoil era, era japanese, japanese history, history come, come force, force mastery
+I:11570;27;other, movie, other, word, brilliant, other movie, movie other, other word, word brilliant
+I:11570;28;be, film, fill, emotion, pull, string, delight, child, man, sacrifice, man, know, be film, film fill, fill emotion, emotion pull, pull string, string delight, delight child, child man, man sacrifice, sacrifice man, man know
+I:11570;29;story, be, intriguing, unusual, movie, ask, several, big, question, life, do, mean, be, leader, story be, be intriguing, intriguing unusual, unusual movie, movie ask, ask several, several big, big question, question life, life do, do mean, mean be, be leader
+I:11570;30;be, favorite, film, time, be, long, american, standard, be, absorb, beautiful, be favorite, favorite film, film time, time be, be long, long american, american standard, standard be, be absorb, absorb beautiful
+I:11570;31;consider, greater, subtle, achievement, ran, consider greater, greater subtle, subtle achievement, achievement ran
+I:11570;32;be, engaging, film, be engaging, engaging film
+I:11570;33;d, battle, movie, find, character, story, engaging, human, ran, d battle, battle movie, movie find, find character, character story, story engaging, engaging human, human ran
+I:11570;34;cinematography, be, astounding, act, supurb, cinematography be, be astounding, astounding act, act supurb
+I:11570;35;much, soundtrack, detract, film, much soundtrack, soundtrack detract, detract film
+I:11570;36;music, bring, review, star, music bring, bring review, review star
+I:11570;37;be, favorite, movie, be, best, movie, time, be favorite, favorite movie, movie be, be best, best movie, movie time
+I:11570;38;photography, actor, exceed, photography actor, actor exceed
+I:11570;39;feast, eye, sufficient, be, transport, world, feast eye, eye sufficient, sufficient be, be transport, transport world
+I:11570;40;direct, movie, be, interesting, exploration, expectation, leadership, direct movie, movie be, be interesting, interesting exploration, exploration expectation, expectation leadership
+I:11570;41;color, photography, be, exquisite, battle, scene, color photography, photography be, be exquisite, exquisite battle, battle scene
+I:11570;42;be, awesome, be, huge, scope, cast, be, enormous, thrilling, execution, wear, watch, be awesome, awesome be, be huge, huge scope, scope cast, cast be, be enormous, enormous thrilling, thrilling execution, execution wear, wear watch
+I:11570;43;be, famous, be famous
+I:11570;44;final, battle, scene, be, heart, wrenching, final battle, battle scene, scene be, be heart, heart wrenching
+I:11570;45;conflict, feeling, relationship, do, touch, conflict feeling, feeling relationship, relationship do, do touch
+I:11570;46;art, direction, be, stunning, art direction, direction be, be stunning
+I:11570;47;film, be, stunning, be, difference, story, be, present, film be, be stunning, stunning be, be difference, difference story, story be, be present
+I:11570;48;story, seem, more, natural, portrayal, comparison, story seem, seem more, more natural, natural portrayal, portrayal comparison
+I:11570;49;loyalty, thief, warlord, be, japanese, story, be, evoke, many, small, scene, film, loyalty thief, thief warlord, warlord be, be japanese, japanese story, story be, be evoke, evoke many, many small, small scene, scene film
+I:11570;50;be, part, amazing, beauty, film, image, be part, part amazing, amazing beauty, beauty film, film image
+I:11570;51;favorite, image, film, have, see, be, warlord, unhappy, son, plot, traditional, room, background, see, blue, lake, be, whip, storm, favorite image, image film, film have, have see, see be, be warlord, warlord unhappy, unhappy son, son plot, plot traditional, traditional room, room background, background see, see blue, blue lake, lake be, be whip, whip storm
+I:11570;52;people, prefer, ran, other, like, best, kurosawa, earlier, earthy, film, such, people prefer, prefer ran, ran other, other like, like best, best kurosawa, kurosawa earlier, earlier earthy, earthy film, film such
+I:11570;53;be, wonderful, be, crowning, achievement, be wonderful, wonderful be, be crowning, crowning achievement
+I:11570;54;second, issue, push, movie, second issue, issue push, push movie
+I:11570;55;rate, additional, material, be, interesting, do, rate additional, additional material, material be, be interesting, interesting do
+I:11570;56;star, movie, star movie
+I:11570;57;be, excellent, film, notch, throne, blood, be excellent, excellent film, film notch, notch throne, throne blood
+I:11570;58;character, feel, real, character feel, feel real
+I:11570;59;film, belong, serious, collector, library, film belong, belong serious, serious collector, collector library
+I:11570;60;overall, film, be, bit, slow, pace, be, consider, great, be, doubt, be, intricate, work, abound, astonishing, color, imagery, be, suffuse, detail, screenplay, slip, overall film, film be, be bit, bit slow, slow pace, pace be, be consider, consider great, great be, be doubt, doubt be, be intricate, intricate work, work abound, abound astonishing, astonishing color, color imagery, imagery be, be suffuse, suffuse detail, detail screenplay, screenplay slip
+I:11570;61;best, example, be, average, viewer, know, next, nothing, japanese, feudal, history, know, come, old, japanese, film, specific, detail, be, need, theme, characterization, be, universal, best example, example be, be average, average viewer, viewer know, know next, next nothing, nothing japanese, japanese feudal, feudal history, history know, know come, come old, old japanese, japanese film, film specific, specific detail, detail be, be need, need theme, theme characterization, characterization be, be universal
+I:11570;62;win, be, see, comeback, film, forgettable, decade, 1970, sporadic, film, work, win be, be see, see comeback, comeback film, film forgettable, forgettable decade, decade 1970, 1970 sporadic, sporadic film, film work
+I:11570;63;be, splendid, role, be splendid, splendid role
+I:11570;64;be, good, film, great, scene, moment, be good, good film, film great, great scene, scene moment
+I:11570;65;be, complicated, film, difficult, like, be complicated, complicated film, film difficult, difficult like
+I:11570;66;be, be, effort, be be, be effort
+I:11570;67;film, contain, be, single, beautiful, image, have, see, film, film contain, contain be, be single, single beautiful, beautiful image, image have, have see, see film
+I:11570;68;edition, film, be, original, full, edition film, film be, be original, original full
+I:11570;69;criminal, do, fine, job, shadow, warrior, win, heart, family, hubris, lead, be, find, cast, world, peasantry, criminal do, do fine, fine job, job shadow, shadow warrior, warrior win, win heart, heart family, family hubris, hubris lead, lead be, be find, find cast, cast world, world peasantry
+I:11570;70;kagemusha, be, film, beautiful, part, unsuccessful, whole, kagemusha be, be film, film beautiful, beautiful part, part unsuccessful, unsuccessful whole
+I:11570;71;set, filmography, be, stunning, rich, set filmography, filmography be, be stunning, stunning rich
+I:11570;72;long, film, be, watch, scene, be, enchant, own, merit, long film, film be, be watch, watch scene, scene be, be enchant, enchant own, own merit
+I:11570;73;theme, character, reflect, several, time, be, challenge, impersonate, person, theme character, character reflect, reflect several, several time, time be, be challenge, challenge impersonate, impersonate person
+I:11570;74;impression, be, have, several, piece, visual, imagery, want, put, film, dream, sequence, battlefield, impression be, be have, have several, several piece, piece visual, visual imagery, imagery want, want put, put film, film dream, dream sequence, sequence battlefield
+I:11570;75;be, master, visual, use, light, color, motion, evoke, magic, screen, be master, master visual, visual use, use light, light color, color motion, motion evoke, evoke magic, magic screen
+I:11570;76;elegant, formal, language, ritualistic, manners, be, suffuse, essence, traditional, elegant formal, formal language, language ritualistic, ritualistic manners, manners be, be suffuse, suffuse essence, essence traditional
+I:11570;77;battle, scene, large, group, mount, soldier, be, epic, scope, clash, samurai, little, band, outlaw, contrapuntal, rhythm, be, similar, battle scene, scene large, large group, group mount, mount soldier, soldier be, be epic, epic scope, scope clash, clash samurai, samurai little, little band, band outlaw, outlaw contrapuntal, contrapuntal rhythm, rhythm be, be similar
+I:11570;78;incubate, film, find, enthusiastic, audience, american, admirer, work, incubate film, film find, find enthusiastic, enthusiastic audience, audience american, american admirer, admirer work
+I:11570;79;knowledge, japanese, history, have, advantage, knowledge japanese, japanese history, history have, have advantage
+I:11570;80;take, position, castle, rampart, listen, flute, be, shoot, sniper, take position, position castle, castle rampart, rampart listen, listen flute, flute be, be shoot, shoot sniper
+I:11570;81;be, precedent, shingen, brother, have, act, double, past, be precedent, precedent shingen, shingen brother, brother have, have act, act double, double past
+I:11570;82;take, jest, react, laughter, take jest, jest react, react laughter
+I:11570;83;double, sit, battle, inspiring, man, victory, double sit, sit battle, battle inspiring, inspiring man, man victory
+I:11570;84;lord, acknowledged, master, clan, order, attack, lord acknowledged, acknowledged master, master clan, clan order, order attack
+I:11570;85;double, wander, scene, last, time, see, carnage, double wander, wander scene, scene last, last time, time see, see carnage
+I:11570;86;rank, greatest, film, rashomon, throne, blood, samurai, be, showcase, director, genius, rank greatest, greatest film, film rashomon, rashomon throne, throne blood, blood samurai, samurai be, be showcase, showcase director, director genius
+I:11570;87;be, monumental, star, own, right, be monumental, monumental star, star own, own right
+I:11570;88;actor, be, choose, be, actor be, be choose, choose be
+I:11570;89;see, lover, japanese, cinema, see lover, lover japanese, japanese cinema
+I:11570;90;be, difficult, follow, time, american, viewer, unfamiliar, historical, reference, be, worth, effort, be difficult, difficult follow, follow time, time american, american viewer, viewer unfamiliar, unfamiliar historical, historical reference, reference be, be worth, worth effort
+I:11570;91;unanswered, question, such, rise, subtle, form, interlace, film, surreal, beautiful, cinematography, unanswered question, question such, such rise, rise subtle, subtle form, form interlace, interlace film, film surreal, surreal beautiful, beautiful cinematography
+I:11570;92;lowly, thief, startling, resemblance, lord, lowly thief, thief startling, startling resemblance, resemblance lord
+I:11570;93;striking, film, explore, extent, person, identity, be, construct, other, striking film, film explore, explore extent, extent person, person identity, identity be, be construct, construct other
+I:11570;94;be, great, leap, world, colour, be great, great leap, leap world, world colour
+I:11570;95;start, life, painter, judge, many, magnificent, example, feature, talented, painter, start life, life painter, painter judge, judge many, many magnificent, magnificent example, example feature, feature talented, talented painter
+I:11570;96;year, churn, painting, scene, have, mind, gestation, period, be, closer, full, decade, year churn, churn painting, painting scene, scene have, have mind, mind gestation, gestation period, period be, be closer, closer full, full decade
+I:11570;97;paint, film, paper, go, paint, camera, paint film, film paper, paper go, go paint, paint camera
+I:11570;98;do, create, greatest, true, time, do create, create greatest, greatest true, true time
+I:11570;99;film, know, contain, greater, profusion, beautiful, shot, image, composition, colour, same, be, say, film know, know contain, contain greater, greater profusion, profusion beautiful, beautiful shot, shot image, image composition, composition colour, colour same, same be, be say
+I:11570;100;be, tour, display, retrospective, exhibition, great, artist, be tour, tour display, display retrospective, retrospective exhibition, exhibition great, great artist
+I:11570;101;character, do, speak, do, follow, action, painting, frozen, moment, time, capture, viewer, work, other, film, character do, do speak, speak do, do follow, follow action, action painting, painting frozen, frozen moment, moment time, time capture, capture viewer, viewer work, work other, other film
+I:11570;102;great, leap, compare, ascent, highest, level, point, advance, be, plateau, great leap, leap compare, compare ascent, ascent highest, highest level, level point, point advance, advance be, be plateau
+I:11570;103;line, more, familiar, western, audience, line more, more familiar, familiar western, western audience
+I:11570;104;commentary, be, great, help, counsel, first, commentary be, be great, great help, help counsel, counsel first
+I:11570;105;contrary, comment, draw, attention, technical, stylistic, element, way, film, be, compose, provide, fascinating, historical, background, highlight, subtle, interplay, character, escape, unobservant, eye, contrary comment, comment draw, draw attention, attention technical, technical stylistic, stylistic element, element way, way film, film be, be compose, compose provide, provide fascinating, fascinating historical, historical background, background highlight, highlight subtle, subtle interplay, interplay character, character escape, escape unobservant, unobservant eye
+I:11570;106;show, painting, produce, fit, correct, place, narrative, provide, quick, summary, plot, show painting, painting produce, produce fit, fit correct, correct place, place narrative, narrative provide, provide quick, quick summary, summary plot
+I:11570;107;control, silence, long, take, add, subtlety, psychological, power, film, be, happy, do, hysteric, section, control silence, silence long, long take, take add, add subtlety, subtlety psychological, psychological power, power film, film be, be happy, happy do, do hysteric, hysteric section
+I:11570;108;be, superb, product, way, be superb, superb product, product way
+I:11570;109;clarity, be, sharp, burial, dream, sequence, soften, image, clarity be, be sharp, sharp burial, burial dream, dream sequence, sequence soften, soften image
+I:11570;110;subtitle, be, detailed, precise, subtitle be, be detailed, detailed precise
+I:11570;111;shoot, color, tell, story, clan, civil, war, period, feudal, era, shoot color, color tell, tell story, story clan, clan civil, civil war, war period, period feudal, feudal era
+I:11570;112;head, clan, be, consider, greatest, general, time, head clan, clan be, be consider, consider greatest, greatest general, general time
+I:11570;113;character, arc, move, common, criminal, eventual, warlord, tragic, fall, be, magnificent, character arc, arc move, move common, common criminal, criminal eventual, eventual warlord, warlord tragic, tragic fall, fall be, be magnificent
+I:11570;114;blow, few, other, film, be, awesome, vision, scope, blow few, few other, other film, film be, be awesome, awesome vision, vision scope
+I:11570;115;few, director, have, have, creativity, man, few director, director have, have have, have creativity, creativity man
+I:11570;116;opening, sequence, be, best, part, movie, opening sequence, sequence be, be best, best part, part movie
+I:11570;117;watch, be, do, shot, watch be, be do, do shot
+I:11570;118;be, example, film, power, lie, visual, aesthetic, department, be example, example film, film power, power lie, lie visual, visual aesthetic, aesthetic department
+I:11570;119;be, beautiful, belief, fill, cinematic, wonder, confident, sheer, force, imagery, be beautiful, beautiful belief, belief fill, fill cinematic, cinematic wonder, wonder confident, confident sheer, sheer force, force imagery
+I:11570;120;benefit, fact, do, give, much, incentive, overplay, benefit fact, fact do, do give, give much, much incentive, incentive overplay
+I:11570;121;dwell, exquisite, art, design, take, year, draw, storyboard, have, be, unable, get, film, produce, long, time, perfect, composition, inexhaustible, wealth, colour, sublime, lighting, dwell exquisite, exquisite art, art design, design take, take year, year draw, draw storyboard, storyboard have, have be, be unable, unable get, get film, film produce, produce long, long time, time perfect, perfect composition, composition inexhaustible, inexhaustible wealth, wealth colour, colour sublime, sublime lighting
+I:11570;122;gross, japanese, film, time, argue, masterpiece, gross japanese, japanese film, film time, time argue, argue masterpiece
+I:11570;123;best, kurosawa, best kurosawa
+I:11570;124;ray, look, fantastic, contrary, review, have, read, audio, be, good, ray look, look fantastic, fantastic contrary, contrary review, review have, have read, read audio, audio be, be good
+I:11570;125;be, incredible, film, be incredible, incredible film
+I:11570;126;be, real, thing, be real, real thing
+I:11570;127;have, minute, additional, scene, have minute, minute additional, additional scene
+I:11570;128;movie, experience, movie experience
+I:11570;129;kagemusha, be, favorite, film, direct, be, say, heck, lot, consider, ran, kagemusha be, be favorite, favorite film, film direct, direct be, be say, say heck, heck lot, lot consider, consider ran
+I:11570;130;sit, rivet, television, screen, entire, presentation, sit rivet, rivet television, television screen, screen entire, entire presentation
+I:11570;131;heart, film, be, inner, change, new, find, strength, progress, thief, learn, become, heart film, film be, be inner, inner change, change new, new find, find strength, strength progress, progress thief, thief learn, learn become
+I:11570;132;awesome, imagery, mesmerize, move, awesome imagery, imagery mesmerize, mesmerize move
+I:11570;133;powerful, classic, get, powerful classic, classic get
+I:11570;134;fact, number, excellent, actor, work, produce, splendid, performance, samurai, have, nothing, do, be, more, happy, accident, fact number, number excellent, excellent actor, actor work, work produce, produce splendid, splendid performance, performance samurai, samurai have, have nothing, nothing do, do be, be more, more happy, happy accident
+I:11570;135;be, great, movie, money, be, entertaining, ran, be great, great movie, movie money, money be, be entertaining, entertaining ran
+I:11570;136;tell, story, straightforward, fashion, acting, be, exaggerated, think, be, fun, tell story, story straightforward, straightforward fashion, fashion acting, acting be, be exaggerated, exaggerated think, think be, be fun
+I:11570;137;be, small, point, be small, small point
+I:11570;138;creative, inspiration, have, result, such, classic, creative inspiration, inspiration have, have result, result such, such classic
+I:11570;139;career, include, film, become, legend, career include, include film, film become, become legend
+I:11570;140;be, testament, be testament
+I:11570;141;flood, samurai, martial, art, epic, film, movie, company, be, burn, samurai, concept, flood samurai, samurai martial, martial art, art epic, epic film, film movie, movie company, company be, be burn, burn samurai, samurai concept
+I:11570;142;sign, assitant, producer, bring, spotlight, be, accredit, have, lay, foundational, hand, help, director, regain, prestige, create, sign assitant, assitant producer, producer bring, bring spotlight, spotlight be, be accredit, accredit have, have lay, lay foundational, foundational hand, hand help, help director, director regain, regain prestige, prestige create
+I:11570;143;make, brilliant, film, make brilliant, brilliant film
+I:11570;144;begin, story, be, phenomenal, begin story, story be, be phenomenal
+I:11570;145;be, philosophical, approach, follow, basic, model, good, film, be, interesting, enjoyable, be philosophical, philosophical approach, approach follow, follow basic, basic model, model good, good film, film be, be interesting, interesting enjoyable
+I:11570;146;enjoyable, be, artistic, eye, come, beautiful, display, enjoyable be, be artistic, artistic eye, eye come, come beautiful, beautiful display
+I:11570;147;many, scene, film, appear, be, mirror, creation, idea, paint, come, life, many scene, scene film, film appear, appear be, be mirror, mirror creation, creation idea, idea paint, paint come, come life
+I:11570;148;setting, dream, sequence, be, gigantic, model, canvas, painting, red, setting dream, dream sequence, sequence be, be gigantic, gigantic model, model canvas, canvas painting, painting red
+I:11570;149;technique, be, use, ran, original, style, film, technique be, be use, use ran, ran original, original style, style film
+I:11570;150;be, aspect, film, make, enjoyable, be aspect, aspect film, film make, make enjoyable
+I:11570;151;character, be, develop, story, original, character be, be develop, develop story, story original
+I:11570;152;crime, thriller, poignant, scene, manage, keep, streak, originality, work, crime thriller, thriller poignant, poignant scene, scene manage, manage keep, keep streak, streak originality, originality work
+I:11570;153;compare, reflection, power, throne, blood, compare reflection, reflection power, power throne, throne blood
+I:11570;154;respects, be, purpose, everything, do, respects be, be purpose, purpose everything, everything do
+I:11570;155;director, meticulous, master, later, year, view, element, director meticulous, meticulous master, master later, later year, year view, view element
+I:11570;156;same, be, true, throne, blood, be, same be, be true, true throne, throne blood, blood be
+I:11570;157;standard, be, superb, film, standard be, be superb, superb film
+I:11570;158;think, remember, be, major, fan, think remember, remember be, be major, major fan
+I:11570;159;have, like, film, watch, big, screen, have like, like film, film watch, watch big, big screen
+I:11570;160;be, favorite, kurosawa, film, be favorite, favorite kurosawa, kurosawa film
+I:11570;161;be, film, admire, have, collection, be film, film admire, admire have, have collection
+I:11570;162;film, incredible, watch, do, mind, length, view, theatre, film incredible, incredible watch, watch do, do mind, mind length, length view, view theatre
+I:11570;163;many, have, criticize, film, be, be, terrific, minute, film, be, treat, watch, many have, have criticize, criticize film, film be, be be, be terrific, terrific minute, minute film, film be, be treat, treat watch
+I:11570;164;lord, shingen, portray, credit, include, ran, name, film, do, wonderful, portrayal, double, film, lord shingen, shingen portray, portray credit, credit include, include ran, ran name, name film, film do, do wonderful, wonderful portrayal, portrayal double, double film
+I:11570;165;be, be, execute, be, give, stay, execution, do, be, tell, give, performance, everyone, accept, be be, be execute, execute be, be give, give stay, stay execution, execution do, do be, be tell, tell give, give performance, performance everyone, everyone accept
+I:11570;166;film, be, terrific, cinematography, set, design, be, incredible, film be, be terrific, terrific cinematography, cinematography set, set design, design be, be incredible
+I:11570;167;nuance, film, be, great, write, be, favorite, kurosawa, film, nuance film, film be, be great, great write, write be, be favorite, favorite kurosawa, kurosawa film
+I:11570;168;recommend, magnificent, masterpiece, cinema, be, great, film, see, recommend magnificent, magnificent masterpiece, masterpiece cinema, cinema be, be great, great film, film see
+I:11570;169;prefer, ran, prefer ran
+I:11570;170;japanese, language, teacher, use, gripe, represent, western, style, cinema, oppose, instance, japanese language, language teacher, teacher use, use gripe, gripe represent, represent western, western style, style cinema, cinema oppose, oppose instance
+I:11570;171;film, stock, retain, fair, amount, grain, be, render, harmless, rage, color, film stock, stock retain, retain fair, fair amount, amount grain, grain be, be render, render harmless, harmless rage, rage color
+I:11570;172;stereo, sound, be, good, get, foreign, film, age, stereo sound, sound be, be good, good get, get foreign, foreign film, film age
+I:11570;173;work, surface, level, take, illusion, reality, wise, enough, dig, deeper, need, help, work surface, surface level, level take, take illusion, illusion reality, reality wise, wise enough, enough dig, dig deeper, deeper need, need help
+I:11570;174;japanese, director, have, great, story, tell, add, japanese director, director have, have great, great story, story tell, tell add
+I:11570;175;movie, have, excellent, action, shot, tthroughout, movie have, have excellent, excellent action, action shot, shot tthroughout
+I:11570;176;copy, receive, show, lack, resolution, have, vibrant, color, copy receive, receive show, show lack, lack resolution, resolution have, have vibrant, vibrant color
+I:11570;177;last, scene, final, shot, be, breathtaking, last scene, scene final, final shot, shot be, be breathtaking
+I:11570;178;unbeatable, winner, film, be, notable, artistic, triumph, real, feast, eye, mind, soul, unbeatable winner, winner film, film be, be notable, notable artistic, artistic triumph, triumph real, real feast, feast eye, eye mind, mind soul
+I:11570;179;emotional, tribulation, huge, pressure, exert, double, carry, superb, poetic, story, teller, powerful, gaze, superb, japanese, filmmaker, dazzling, genius, emotional tribulation, tribulation huge, huge pressure, pressure exert, exert double, double carry, carry superb, superb poetic, poetic story, story teller, teller powerful, powerful gaze, gaze superb, superb japanese, japanese filmmaker, filmmaker dazzling, dazzling genius
+I:11570;180;arrest, image, final, battle, be, outstanding, arrest image, image final, final battle, battle be, be outstanding
+I:11570;181;timeless, monumental, masterpiece, giant, film, age, timeless monumental, monumental masterpiece, masterpiece giant, giant film, film age
+I:11570;182;opening, sequence, challenge, doubt, skepticism, subtle, powerful, capability, theatre, convention, filmmaking, opening sequence, sequence challenge, challenge doubt, doubt skepticism, skepticism subtle, subtle powerful, powerful capability, capability theatre, theatre convention, convention filmmaking
+I:11570;183;be, fascinating, long, take/meeting, mind, gigantic, theme, be fascinating, fascinating long, long take/meeting, take/meeting mind, mind gigantic, gigantic theme
+I:11570;184;epic, tradition, realism, likes, epic tradition, tradition realism, realism likes
+I:11570;185;opt, awe, opt awe
+I:11570;186;inspiring, indulgence, form, contrast, chilling, mauve, theme, reality, inspiring indulgence, indulgence form, form contrast, contrast chilling, chilling mauve, mauve theme, theme reality
+I:11570;187;leave, lasting, memory, want, see, more, great, director, work, leave lasting, lasting memory, memory want, want see, see more, more great, great director, director work
+I:11570;188;be, keep, watch, time, time, be keep, keep watch, watch time, time time
+I:11570;189;be, fascinating, scene, early, sniper, demonstrate, ingenious, technique, set, fatal, shot, plot, turn, be fascinating, fascinating scene, scene early, early sniper, sniper demonstrate, demonstrate ingenious, ingenious technique, technique set, set fatal, fatal shot, shot plot, plot turn
+I:11570;190;time, effect, be, bit, archaic, bit, reminiscent, early, russian, historic, epic, film, defeat, teutonic, knight, time effect, effect be, be bit, bit archaic, archaic bit, bit reminiscent, reminiscent early, early russian, russian historic, historic epic, epic film, film defeat, defeat teutonic, teutonic knight
+I:11570;191;film, hold, interest, reference, history, cinema, film hold, hold interest, interest reference, reference history, history cinema
+I:11570;192;final, battle, scene, brave, army, be, destroy, final battle, battle scene, scene brave, brave army, army be, be destroy
+I:11570;193;sad, rich, history, color, drma, sad rich, rich history, history color, color drma
+I:11570;194;watch, enjoy, forget, movie, watch enjoy, enjoy forget, forget movie
+I:11570;195;be, fan, classic, japanese, film, be, collection, be fan, fan classic, classic japanese, japanese film, film be, be collection
+I:11570;196;ray, rendention, be, gorgeous, project, ray rendention, rendention be, be gorgeous, gorgeous project
+I:11570;197;have, see, film, love, be, classic, japanese, theme, beautiful, costume, epic, scene, thousand, extra, course, fantastic, japanese, cinematography, expect, have see, see film, film love, love be, be classic, classic japanese, japanese theme, theme beautiful, beautiful costume, costume epic, epic scene, scene thousand, thousand extra, extra course, course fantastic, fantastic japanese, japanese cinematography, cinematography expect
+I:11570;198;be, good, be, fabulous, picture, play, feudal, lord, be good, good be, be fabulous, fabulous picture, picture play, play feudal, feudal lord
+I:11570;199;enjoy, movie, other, feature, high, wind, heavy, rain, panoramic, shot, great, close, enjoy movie, movie other, other feature, feature high, high wind, wind heavy, heavy rain, rain panoramic, panoramic shot, shot great, great close
+I:11570;200;be, wonderful, sword, doom, ran, kill, be wonderful, wonderful sword, sword doom, doom ran, ran kill
+I:11570;201;look, version, available, look version, version available
+I:11570;202;check, ran, throne, blood, good, check ran, ran throne, throne blood, blood good
+I:11570;203;stagger, scope, power, feature, soulful, acting, breathtaking, visual, sequence, heart, mortal, tragedy, worthy, stagger scope, scope power, power feature, feature soulful, soulful acting, acting breathtaking, breathtaking visual, visual sequence, sequence heart, heart mortal, mortal tragedy, tragedy worthy
+I:11570;204;tell, whopping, good, yarn, root, historic, reality, use, vulgar, sympathetic, figure, thief, explore, question, identity, theatrical, nature, political, power, tell whopping, whopping good, good yarn, yarn root, root historic, historic reality, reality use, use vulgar, vulgar sympathetic, sympathetic figure, figure thief, thief explore, explore question, question identity, identity theatrical, theatrical nature, nature political, political power
+I:11570;205;addition, painterly, use, color, several, large, addition painterly, painterly use, use color, color several, several large
+I:11570;206;motion, dream, sequence, be, unparalleled, motion dream, dream sequence, sequence be, be unparalleled
+I:11570;207;make, help, be, somber, late, masterpiece, world, greatest, filmmaker, make help, help be, be somber, somber late, late masterpiece, masterpiece world, world greatest, greatest filmmaker
+I:11570;208;american, screenwriter, admonish, aspire, screenwriter, begin, scene, close, end, possible, american screenwriter, screenwriter admonish, admonish aspire, aspire screenwriter, screenwriter begin, begin scene, scene close, close end, end possible
+I:11570;209;be, magnificent, movie, be magnificent, magnificent movie
+I:11570;210;photography, set, design, be, breathtaking, photography set, set design, design be, be breathtaking
+I:11570;211;be, historical, piece, character, study, be historical, historical piece, piece character, character study
+I:11570;212;dramatic, scene, see, line, cavalry, come, gallop, incline, great, distance, dramatic scene, scene see, see line, line cavalry, cavalry come, come gallop, gallop incline, incline great, great distance
+I:11570;213;thunder, racing, horse, build, line, converge, thunder racing, racing horse, horse build, build line, line converge
+I:11570;214;single, shot, much, else, happen, composition, sound, create, powerful, effect, single shot, shot much, much else, else happen, happen composition, composition sound, sound create, create powerful, powerful effect
+I:11570;215;movie, be, fill, subtle, magnificent, moment, movie be, be fill, fill subtle, subtle magnificent, magnificent moment
+I:11570;216;see, movie, buff, see movie, movie buff
+I:11570;217;criterion, have, do, criterion have, have do
+I:11570;218;be, perfect, do, understand, japanese, be perfect, perfect do, do understand, understand japanese
+I:11570;219;order, enjoy, order enjoy
+I:11570;220;amazing, movie, crazy, color, huge, number, battle, scene, amazing movie, movie crazy, crazy color, color huge, huge number, number battle, battle scene
+I:11570;221;see, other, take, see other, other take
+I:11570;222;movie, be, fine, like, movie be, be fine, fine like
+I:11570;223;film, be, be, other, reviewer, have, do, excellent, job, review, story, be, worth, tell, film be, be be, be other, other reviewer, reviewer have, have do, do excellent, excellent job, job review, review story, story be, be worth, worth tell
+I:11570;224;graininess, be, play, blu, graininess be, be play, play blu
+I:11570;225;be, big, fan, asian, cinema, japanese, history, have, long, view, be big, big fan, fan asian, asian cinema, cinema japanese, japanese history, history have, have long, long view
+I:11570;226;double, have, convince, close, relation, be, real, thing, word, spread, other, clan, take, advantage, situation, double have, have convince, convince close, close relation, relation be, be real, real thing, thing word, word spread, spread other, other clan, clan take, take advantage, advantage situation
+I:11570;227;movie, be, japanese, famous, director, biggest, piece, movie be, be japanese, japanese famous, famous director, director biggest, biggest piece
+I:11570;228;see, western, influence, magnificent, movie, see western, western influence, influence magnificent, magnificent movie
+I:11570;229;movie, shoot, scenery, provide, intelligent, dialogue, have, be, weaken, thing, pace, movie shoot, shoot scenery, scenery provide, provide intelligent, intelligent dialogue, dialogue have, have be, be weaken, weaken thing, thing pace
+I:11570;230;acting, be, superb, character, be, develop, focus, be, person, double, scenery, be, spectacular, dialogue, be, write, end, be, acting be, be superb, superb character, character be, be develop, develop focus, focus be, be person, person double, double scenery, scenery be, be spectacular, spectacular dialogue, dialogue be, be write, write end, end be
+I:11570;231;view, be, par, view be, be par
+I:11570;232;ray, version, be, worth, upgrade, ray version, version be, be worth, worth upgrade
+I:11570;233;film, be, star, transfer, be, film be, be star, star transfer, transfer be
+I:11570;234;beautiful, film, excellent, acting, brilliant, directing, beautiful film, film excellent, excellent acting, acting brilliant, brilliant directing
+I:11570;235;story, be, classic, interesting, kurosawa, show, be, story be, be classic, classic interesting, interesting kurosawa, kurosawa show, show be
+I:11570;236;historian, be, sure, have, die, sniper, shot, illness, film, take, former, theory, move, tell, story, distinctive, style, historian be, be sure, sure have, have die, die sniper, sniper shot, shot illness, illness film, film take, take former, former theory, theory move, move tell, tell story, story distinctive, distinctive style
+I:11570;237;director, huge, budget, make, big, battle, scene, have, unique, gift, make, violence, look, grand, gruesome, dramatic, poetic, same, time, director huge, huge budget, budget make, make big, big battle, battle scene, scene have, have unique, unique gift, gift make, make violence, violence look, look grand, grand gruesome, gruesome dramatic, dramatic poetic, poetic same, same time
+I:11570;238;love, scene, show, great, warm, thing, western, red, wine, missionary, european, armour, feathered, red, hat, love scene, scene show, show great, great warm, warm thing, thing western, western red, red wine, wine missionary, missionary european, european armour, armour feathered, feathered red, red hat
+I:11570;239;be, great, drama, involve, clan, 16th, be great, great drama, drama involve, involve clan, clan 16th
+I:11570;240;provoke, film, reality, illusion, invite, work, fill, many, striking, scene, composition, film, be, know, provoke film, film reality, reality illusion, illusion invite, invite work, work fill, fill many, many striking, striking scene, scene composition, composition film, film be, be know
+I:11570;241;look, man, elaborate, dream, sequence, harrowing, montage, aftermath, final, battle, be, finest, moment, long, film, career, look man, man elaborate, elaborate dream, dream sequence, sequence harrowing, harrowing montage, montage aftermath, aftermath final, final battle, battle be, be finest, finest moment, moment long, long film, film career
+I:11570;242;play, lead, role, next, film, year, play, much, older, man, play lead, lead role, role next, next film, film year, year play, play much, much older, older man
+I:11570;243;best, supplement, disc, be, full, best supplement, supplement disc, disc be, be full
+I:11570;244;length, audio, commentary, due, film, length, be, able, elaborate, many, topic, great, detail, length audio, audio commentary, commentary due, due film, film length, length be, be able, able elaborate, elaborate many, many topic, topic great, great detail
+I:11570;245;much, narration, say, half, be, historical, background, film, period, filmmaking, art, film, much narration, narration say, say half, half be, be historical, historical background, background film, film period, period filmmaking, filmmaking art, art film
+I:11570;246;provide, great, analysis, most, elaborate, dream, sequence, provide great, great analysis, analysis most, most elaborate, elaborate dream, dream sequence
+I:11570;247;prince, do, good, job, point, difference, shorten, prince do, do good, good job, job point, point difference, difference shorten
+I:11570;248;min, international, version, min international, international version
+I:11570;249;gallery, section, call, realize, be, painting, place, side, side, photo, film, gallery section, section call, call realize, realize be, be painting, painting place, place side, side side, side photo, photo film
+I:11570;250;booklet, include, wonderful, essay, booklet include, include wonderful, wonderful essay
+I:11570;251;essay, deal, film, art, history, essay deal, deal film, film art, art history
+I:11570;252;be, sight, be sight
+I:11570;253;third, cover, third cover
+I:11570;254;disc, come, disc come
+I:11570;255;commercial, film, great, director, commercial film, film great, great director
+I:11570;256;camera, reveal, character, have, same, appearance, camera reveal, reveal character, character have, have same, same appearance
+I:11570;257;similarity, be, striking, appearance, lifestyle, make, difference, be, hold, power, province, live, intend, use, thief, body, similarity be, be striking, striking appearance, appearance lifestyle, lifestyle make, make difference, difference be, be hold, hold power, power province, province live, live intend, intend use, use thief, thief body
+I:11570;258;offer, wealth, artistic, image, draw, painting, go, color, line, compel, further, introspective, contemplate, work, self, society, offer wealth, wealth artistic, artistic image, image draw, draw painting, painting go, go color, color line, line compel, compel further, further introspective, introspective contemplate, contemplate work, work self, self society
+I:11570;259;occur, bring, aspect, occur bring, bring aspect
+I:11570;260;be, treat, eye, be treat, treat eye
+I:11570;261;film, differ, ran, director, wonderful, version, be, drama, build, historical, record, tradition, film differ, differ ran, ran director, director wonderful, wonderful version, version be, be drama, drama build, build historical, historical record, record tradition
+I:11570;262;recommend, film, anyone, enjoy, film, work, recommend film, film anyone, anyone enjoy, enjoy film, film work
+I:11570;263;make, film, be, year, old, stand, question, best, film, make film, film be, be year, year old, old stand, stand question, question best, best film
+I:11570;264;make, powerful, be, portrayal, perfect, fusion, warrior, emotional, intensity, intellectual, acuity, make powerful, powerful be, be portrayal, portrayal perfect, perfect fusion, fusion warrior, warrior emotional, emotional intensity, intensity intellectual, intellectual acuity
+I:11570;265;emotion, intellect, be, focus, film, enemy, warlord, outwit, other, focus, be, strong, more, carry, film, hour, length, emotion intellect, intellect be, be focus, focus film, film enemy, enemy warlord, warlord outwit, outwit other, other focus, focus be, be strong, strong more, more carry, carry film, film hour, hour length
+I:11570;266;see, workings, mind, side, power, come, depiction, samurai, use, intelligence, fight, outwit, insubstantial, enemy, see workings, workings mind, mind side, side power, power come, come depiction, depiction samurai, samurai use, use intelligence, intelligence fight, fight outwit, outwit insubstantial, insubstantial enemy
+I:11570;267;kagemusha, be, equal, portrayal, intensity, warrior, spirit, kagemusha be, be equal, equal portrayal, portrayal intensity, intensity warrior, warrior spirit
+I:11570;268;add, astounding, vision, filmmaker, know, more, other, battle, scene, power, be, derive, add astounding, astounding vision, vision filmmaker, filmmaker know, know more, more other, other battle, battle scene, scene power, power be, be derive
+I:11570;269;be, perfect, production, design, costuming, set, piece, be perfect, perfect production, production design, design costuming, costuming set, set piece
+I:11570;270;make, film, riveting, do, be, impossible, say, anything, bad, film, make film, film riveting, riveting do, do be, be impossible, impossible say, say anything, anything bad, bad film
+I:11570;271;be, see, serious, student, film, love, great, adventure, flat, love, movie, be see, see serious, serious student, student film, film love, love great, great adventure, adventure flat, flat love, love movie
+I:11570;272;symbolic, plot, validate, honor, courage, duty, warrior, fellow, appeal, time, life, symbolic plot, plot validate, validate honor, honor courage, courage duty, duty warrior, warrior fellow, fellow appeal, appeal time, time life
+I:11570;273;keep, think, wonderful, be, listen, japanese, language, keep think, think wonderful, wonderful be, be listen, listen japanese, japanese language
+I:11570;274;be, year, older, new, reader, try, best, be year, year older, older new, new reader, reader try, try best
+I:11570;275;remember, other, language, interwoven, own, story, face, image, sound, ear, remember other, other language, language interwoven, interwoven own, own story, story face, face image, image sound, sound ear
+I:11570;276;comfort, familiar, resonance, poetry, sadness, suffer, be, such, integral, part, russian, language, comfort familiar, familiar resonance, resonance poetry, poetry sadness, sadness suffer, suffer be, be such, such integral, integral part, part russian, russian language
+I:11570;277;dreamy, lyricism, italian, seem, carry, warmth, native, landscape, melody, dreamy lyricism, lyricism italian, italian seem, seem carry, carry warmth, warmth native, native landscape, landscape melody
+I:11570;278;elegant, playfulness, break, entrenched, tired, bourgeois, rule, unexpected, enchanting, way, elegant playfulness, playfulness break, break entrenched, entrenched tired, tired bourgeois, bourgeois rule, rule unexpected, unexpected enchanting, enchanting way
+I:11570;279;japanese, language, be, subject, be, take, japanese language, language be, be subject, subject be, be take
+I:11570;280;have, watch, appreciate, have watch, watch appreciate
+I:11570;281;first, time, be, obsess, computer, miss, key, part, second, time, enjoy, first time, time be, be obsess, obsess computer, computer miss, miss key, key part, part second, second time, time enjoy
+I:11570;282;use, color, photography, be, amazing, consider, low, budget, be, do, nice, job, use color, color photography, photography be, be amazing, amazing consider, consider low, low budget, budget be, be do, do nice, nice job
+I:11570;283;be, extraordinary, film, combine, great, scenario, incredible, visual, effect, make, great, master, japanese, cinema, be extraordinary, extraordinary film, film combine, combine great, great scenario, scenario incredible, incredible visual, visual effect, effect make, make great, great master, master japanese, japanese cinema
+I:11570;284;year, old, son, avenge, defeat, destroy, stregthen, position, clan, year old, old son, son avenge, avenge defeat, defeat destroy, destroy stregthen, stregthen position, position clan
+I:11570;285;impress, beauty, take, concubine, give, favorite, son, be, important, character, film, impress beauty, beauty take, take concubine, concubine give, give favorite, favorite son, son be, be important, important character, character film
+I:11570;286;have, complete, conquest, province, have, sign, alliance, powerful, imagawa, daimyo, young, beacame, famous, powerful, warlord, have complete, complete conquest, conquest province, province have, have sign, sign alliance, alliance powerful, powerful imagawa, imagawa daimyo, daimyo young, young beacame, beacame famous, famous powerful, powerful warlord
+I:11570;287;famous, strategist, loyal, younger, brother, famous strategist, strategist loyal, loyal younger, younger brother
+I:11570;288;recognize, impressive, monastic, clothes, buddhist, rosary, hold, hand, recognize impressive, impressive monastic, monastic clothes, clothes buddhist, buddhist rosary, rosary hold, hold hand
+I:11570;289;warlord, need, peace, new, power, be, rise, warlord need, need peace, peace new, new power, power be, be rise
+I:11570;290;weaken, powerful, clan, win, battle, okehazama, weaken powerful, powerful clan, clan win, win battle, battle okehazama
+I:11570;291;clan, be, major, power, top, pretender, control, clan be, be major, major power, power top, top pretender, pretender control
+I:11570;292;shingen, double, be, play, great, japanese, actor, shingen double, double be, be play, play great, great japanese, japanese actor
+I:11570;293;do, great, job, do great, great job
+I:11570;294;be, general, moment, cross, lance, powerful, scene, end, film, be general, general moment, moment cross, cross lance, lance powerful, powerful scene, scene end, end film
+I:11570;295;other, scenario, be, excellent, film, great, treasure, film, be, image, other scenario, scenario be, be excellent, excellent film, film great, great treasure, treasure film, film be, be image
+I:11570;296;samurai, army, be, impressive, battle, be, better, sequence, dream, nightmare, be, powerful, samurai army, army be, be impressive, impressive battle, battle be, be better, better sequence, sequence dream, dream nightmare, nightmare be, be powerful
+I:11570;297;hand, character, be, good, hand character, character be, be good
+I:11570;298;believe, be, good, advice, believe be, be good, good advice
+I:11570;299;film, be, visual, masterpiece, have, good, eye, epic, ordinary, moment, film be, be visual, visual masterpiece, masterpiece have, have good, good eye, eye epic, epic ordinary, ordinary moment
+I:11570;300;create, number, creative, constraint, take, liberty, historical, record, create number, number creative, creative constraint, constraint take, take liberty, liberty historical, historical record
+I:11570;301;be, great, movie, number, way, anticipate, final, triumph, sublime, ran, be great, great movie, movie number, number way, way anticipate, anticipate final, final triumph, triumph sublime, sublime ran
+I:11570;302;fantastic, brilliant, movie, handle, subtitle, fantastic brilliant, brilliant movie, movie handle, handle subtitle
+I:11570;303;remake, version, be, beautiful, remake version, version be, be beautiful
+I:11570;304;japanese, culture, civilization, come, true, form, wardrobe, antic, be, intact, japanese culture, culture civilization, civilization come, come true, true form, form wardrobe, wardrobe antic, antic be, be intact
+I:11570;305;dedication, honor, aspect, story, be, vital, direction, sad, conclusion, epic, drama, dedication honor, honor aspect, aspect story, story be, be vital, vital direction, direction sad, sad conclusion, conclusion epic, epic drama
+I:11570;306;have, be, note, warm, disposition, impressive, talent, warfare, administration, have be, be note, note warm, warm disposition, disposition impressive, impressive talent, talent warfare, warfare administration
+I:11570;307;be, fantastic, historical, piece, great, costume, set, be fantastic, fantastic historical, historical piece, piece great, great costume, costume set
+I:11570;308;performance, be, top, performance be, be top
+I:11570;309;course, great, feature, flick, be, masterful, cinematography, be, display, course great, great feature, feature flick, flick be, be masterful, masterful cinematography, cinematography be, be display
+I:11570;310;film, be, treat, brain, eye, film be, be treat, treat brain, brain eye
+I:11570;311;kagemusha, be, convincing, great, lord, kagemusha be, be convincing, convincing great, great lord
+I:11570;312;great, story, be, great story, story be
+I:11570;313;story, tell, style, be, expect, social, custom, appear, odd, story tell, tell style, style be, be expect, expect social, social custom, custom appear, appear odd
+I:11570;314;be, aspect, great, theatricality, movie, be aspect, aspect great, great theatricality, theatricality movie
+I:11570;315;main, character, be, real, people, part, bloody, 16th, century, japanese, history, main character, character be, be real, real people, people part, part bloody, bloody 16th, 16th century, century japanese, japanese history
+I:11570;316;storyline, follow, actual, historical, event, storyline follow, follow actual, actual historical, historical event
+I:11570;317;booklet, accompany, disk, have, detailed, account, historical, period, number, original, drawing, costume, set, art, etc, draw, use, film, booklet accompany, accompany disk, disk have, have detailed, detailed account, account historical, historical period, period number, number original, original drawing, drawing costume, costume set, set art, art etc, etc draw, draw use, use film
+I:11570;318;extra, be, worthwhile, part, disk, extra be, be worthwhile, worthwhile part, part disk
+I:11570;319;story, film, be, make, be, interesting, story, film, be, make, story film, film be, be make, make be, be interesting, interesting story, story film, film be, be make
+I:11570;320;say, be, wow, say be, be wow
+I:11570;321;say, wow, say wow
+I:11570;322;be, decent, plan, double, start, feel, confliction, new, self, former, chance, diminish, be decent, decent plan, plan double, double start, start feel, feel confliction, confliction new, new self, self former, former chance, chance diminish
+I:11570;323;plus, enemy, be, threatening, question, truth, family, connection, plus enemy, enemy be, be threatening, threatening question, question truth, truth family, family connection
+I:11570;324;sound, exciting, hour, do, have, many, fine, moment, purport, be, film, sound exciting, exciting hour, hour do, do have, have many, many fine, fine moment, moment purport, purport be, be film
+I:11570;325;recent, enduring, be, reach, film, be, mean, recent enduring, enduring be, be reach, reach film, film be, be mean
+I:11570;326;have, power, move, have power, power move
+I:11570;327;imprint, mind, viewer, unflinching, view, destiny, human, greed, imprint mind, mind viewer, viewer unflinching, unflinching view, view destiny, destiny human, human greed
+I:11570;328;print, film, be, little, sharper, be, worse, print, ran, bold, coulour, schema, shine, print film, film be, be little, little sharper, sharper be, be worse, worse print, print ran, ran bold, bold coulour, coulour schema, schema shine
+I:11570;329;wise, excellent, book, insightful, commentary, second, disc, japanese, documentary, master, director, extensive, interview, project, funder, make, set, get, age, blu, wise excellent, excellent book, book insightful, insightful commentary, commentary second, second disc, disc japanese, japanese documentary, documentary master, master director, director extensive, extensive interview, interview project, project funder, funder make, make set, set get, get age, age blu
+I:11570;330;last, full, version, film, last full, full version, version film
+I:11570;331;great, preformence, great, effect, great preformence, preformence great, great effect
+I:11570;332;dream, sequence, be, fantastic, dream sequence, sequence be, be fantastic
+I:11570;333;alot, great, acting, perfect, story, alot great, great acting, acting perfect, perfect story
+I:11570;334;assure, criterion, version, be, best, assure criterion, criterion version, version be, be best
+I:11570;335;hour, movie, 45minit, documentary, be, bundle, dual, hour movie, movie 45minit, 45minit documentary, documentary be, be bundle, bundle dual
+I:11570;336;disc, set, be, great, disc set, set be, be great
+I:11570;337;be, keen, businessman, reputation, be, entrench, ran, know, american, audience, think, heroic, mystical, historical, art, take, great, deal, impetus, american, imagine, be keen, keen businessman, businessman reputation, reputation be, be entrench, entrench ran, ran know, know american, american audience, audience think, think heroic, heroic mystical, mystical historical, historical art, art take, take great, great deal, deal impetus, impetus american, american imagine
+I:11570;338;perfect, addition, legacy, classic, film, perfect addition, addition legacy, legacy classic, classic film
+I:11570;339;movie, be, present, uncut, full, splendor, movie be, be present, present uncut, uncut full, full splendor
+I:11570;340;know, western, hemisphere, be, epic, picture, beautiful, touching, storyline, know western, western hemisphere, hemisphere be, be epic, epic picture, picture beautiful, beautiful touching, touching storyline
+I:11570;341;throne, blood, adaptation, ran, adaptation, masterpiece, be, original, japanese, story, give, thorough, insight, 17th, throne blood, blood adaptation, adaptation ran, ran adaptation, adaptation masterpiece, masterpiece be, be original, original japanese, japanese story, story give, give thorough, thorough insight, insight 17th
+I:11570;342;recommend, worth, price, recommend worth, worth price
+I:11570;343;be, such, depressing, movie, be, good, be such, such depressing, depressing movie, movie be, be good
+I:11570;344;have, enjoy, everything, be, better, film, have enjoy, enjoy everything, everything be, be better, better film
+I:11570;345;later, colour, samurai, film, have, choose, ran, ran, be, superior, film, later colour, colour samurai, samurai film, film have, have choose, choose ran, ran ran, ran be, be superior, superior film
+I:11570;346;extra, make, package, extra, nice, extra make, make package, package extra, extra nice
+I:11570;347;deliver, exceptional, package, deliver exceptional, exceptional package
+I:11570;348;nice, pic, same, director, nice pic, pic same, same director
+I:11570;349;have, several, film, be, hope, be, least, word, have several, several film, film be, be hope, hope be, be least, least word
+I:11570;350;scene, be, frame, frame, be, expansive, performer, do, mean, do, scene be, be frame, frame frame, frame be, be expansive, expansive performer, performer do, do mean, mean do
+I:11570;351;fighting, scene, be, best, patchy, be, awe, fighting scene, scene be, be best, best patchy, patchy be, be awe
+I:11570;352;inspiring, site, most, have, day, be, cgi, effect, inspiring site, site most, most have, have day, day be, be cgi, cgi effect
+I:11570;353;war, rage, scene, soldier, come, standstill, listen, haunting, sound, solo, flute, performance, be, poignant, beautiful, same, time, war rage, rage scene, scene soldier, soldier come, come standstill, standstill listen, listen haunting, haunting sound, sound solo, solo flute, flute performance, performance be, be poignant, poignant beautiful, beautiful same, same time
+I:11570;354;be, moment, be moment
+I:11570;355;mind, movie, be, supersede, ran, feel, be, work, maturity, form, epic, war, genre, mind movie, movie be, be supersede, supersede ran, ran feel, feel be, be work, work maturity, maturity form, form epic, epic war, war genre
+I:11570;356;amazing, cinematic, experience, amazing cinematic, cinematic experience
+I:11570;357;become, immerse, time, period, 16th, become immerse, immerse time, time period, period 16th
+I:11570;358;japanese, trailer, teaser, be, crisp, japanese trailer, trailer teaser, teaser be, be crisp
+I:11570;359;greatest, memory, have, see, version, be, final, battle, scene, futility, greatest memory, memory have, have see, see version, version be, be final, final battle, battle scene, scene futility
+I:11570;360;be, movie, manner, great, epic, be movie, movie manner, manner great, great epic
+I:11570;361;visual, be, sweeping, real, people, horse, visual be, be sweeping, sweeping real, real people, people horse
+I:11570;362;think, warrior, be, send, battle, large, flag, attach, pole, back, be, amazing, visual, feast, think warrior, warrior be, be send, send battle, battle large, large flag, flag attach, attach pole, pole back, back be, be amazing, amazing visual, visual feast
+I:11570;363;add, have, chance, be, add have, have chance, chance be
+I:11570;364;watch, film, commentary, make, enjoyable, contrast, be, make, full, length, japanese, version, truncate, american, version, watch film, film commentary, commentary make, make enjoyable, enjoyable contrast, contrast be, be make, make full, full length, length japanese, japanese version, version truncate, truncate american, american version
+I:11570;365;edition, have, full, version, edition have, have full, full version
+I:11570;366;tell, brother, have, imperonate, long, time, be, incredible, tell brother, brother have, have imperonate, imperonate long, long time, time be, be incredible
+I:11570;367;be, primary, focus, film, be primary, primary focus, focus film
+I:11570;368;create, war, epic, epic, feel, history, lesson, have, create, study, identity, intertwine, religious, philosophical, overtone, create war, war epic, epic epic, epic feel, feel history, history lesson, lesson have, have create, create study, study identity, identity intertwine, intertwine religious, religious philosophical, philosophical overtone
+I:11570;369;think, be, solid, think be, be solid
+I:11570;370;starter, knowledge, time, period, be, necessary, want, compelling, fulfil, experience, starter knowledge, knowledge time, time period, period be, be necessary, necessary want, want compelling, compelling fulfil, fulfil experience
+I:11570;371;be, good, film, fact, good, film, level, next, film, ran, be good, good film, film fact, fact good, good film, film level, level next, next film, film ran
+I:11570;372;be, strong, visual, similarity, be strong, strong visual, visual similarity
+I:11570;373;change, lord, be, compelling, watch, notice, phase, double, go, become, change lord, lord be, be compelling, compelling watch, watch notice, notice phase, phase double, double go, go become
+I:11570;374;raise, interesting, profound, question, identity, delve, issue, raise interesting, interesting profound, profound question, question identity, identity delve, delve issue
+I:11570;375;battle, scene, be, powerful, outdo, ran, battle scene, scene be, be powerful, powerful outdo, outdo ran
+I:11570;376;be, true, great, be, miss, do, fine, job, carry, role, film, be true, true great, great be, be miss, miss do, do fine, fine job, job carry, carry role, role film
+I:11570;377;visual, be, highlight, film, visual be, be highlight, highlight film
+I:11570;378;stage, lot, scene, painting, beautifuly, frightening, dream, double, have, come, mind, stage lot, lot scene, scene painting, painting beautifuly, beautifuly frightening, frightening dream, dream double, double have, have come, come mind
+I:11570;379;film, be, do, film be, be do
+I:11570;380;give, film, star, last, half, hour, contain, powerful, footage, have, scene, give film, film star, star last, last half, half hour, hour contain, contain powerful, powerful footage, footage have, have scene
+I:11570;381;scene, double, be, force, rain, be, heartbreaking, watch, scene double, double be, be force, force rain, rain be, be heartbreaking, heartbreaking watch
+I:11570;382;final, battle, scene, be, breathtaking, horrific, beautiful, same, time, final battle, battle scene, scene be, be breathtaking, breathtaking horrific, horrific beautiful, beautiful same, same time
+I:11570;383;manage, paint, world, hell, do, glamorize, war, manage paint, paint world, world hell, hell do, do glamorize, glamorize war
+I:11570;384;brother, let, look, manage, convey, personal, intimate, feeling, brother let, let look, look manage, manage convey, convey personal, personal intimate, intimate feeling
+I:11570;385;final, image, dead, kagemusha, float, banner, lake, be, hypnotic, final image, image dead, dead kagemusha, kagemusha float, float banner, banner lake, lake be, be hypnotic
+I:11570;386;end, film, right, moment, end film, film right, right moment
+I:11570;387;have, fine, performance, involve, story, decent, music, time, little, western, have fine, fine performance, performance involve, involve story, story decent, decent music, music time, time little, little western
+I:11570;388;sound, great, photography, interesting, character, script, do, fall, certain, area, profound, meaning, film, do, hell, finale, sound great, great photography, photography interesting, interesting character, character script, script do, do fall, fall certain, certain area, area profound, profound meaning, meaning film, film do, do hell, hell finale
+I:11570;389;last, half, hour, boost, good, great, film, last half, half hour, hour boost, boost good, good great, great film
+I:11570;390;have, see, dozen, movie, be, favorite, have see, see dozen, dozen movie, movie be, be favorite
+I:11570;391;wonderful, cinematography, score, be, deserving, better, format, wonderful cinematography, cinematography score, score be, be deserving, deserving better, better format
+I:11570;392;love, japanese, film, be, favorite, japanese, director, newbie, film, be, hooked, love japanese, japanese film, film be, be favorite, favorite japanese, japanese director, director newbie, newbie film, film be, be hooked
+I:11570;393;love, aspect, film, love aspect, aspect film
+I:11570;394;script, cinematography, act, score, choreography, sound, course, script cinematography, cinematography act, act score, score choreography, choreography sound, sound course
+I:11570;395;clear, picture, sound, great, packaging, graphic, awesome, booklet, clear picture, picture sound, sound great, great packaging, packaging graphic, graphic awesome, awesome booklet
+I:11570;396;include, special, feature, be, terrific, commentary, track, best, have, hear, cover, aspect, film, japanese, history, japanese, film, history, include special, special feature, feature be, be terrific, terrific commentary, commentary track, track best, best have, have hear, hear cover, cover aspect, aspect film, film japanese, japanese history, history japanese, japanese film, film history
+I:11570;397;great, story, double, filling, shoe, great story, story double, double filling, filling shoe
+I:11570;398;shingen, be, brilliant, warrior, politican, be, popular, today, shingen be, be brilliant, brilliant warrior, warrior politican, politican be, be popular, popular today
+I:11570;399;film, have, pageantry, epic, battle, action, drama, hate, history, lesson, movie, hold, captive, film have, have pageantry, pageantry epic, epic battle, battle action, action drama, drama hate, hate history, history lesson, lesson movie, movie hold, hold captive
+I:11570;400;make, commentary, outstanding, be, make commentary, commentary outstanding, outstanding be
+I:11570;401;historical, event, chronicle, film, be, historical event, event chronicle, chronicle film, film be
+I:11570;402;example, accord, wounding, gunfire, shingen, listen, enemy, flute, mark, monumental, event, japanese, history, example accord, accord wounding, wounding gunfire, gunfire shingen, shingen listen, listen enemy, enemy flute, flute mark, mark monumental, monumental event, event japanese, japanese history
+I:11570;403;screen, historical, event, be, go, same, time, incident, film, give, listener, much, broader, understanding, history, accomplishment, screen historical, historical event, event be, be go, go same, same time, time incident, incident film, film give, give listener, listener much, much broader, broader understanding, understanding history, history accomplishment
+I:11570;404;listen, commentary, come, much, deeper, appreciation, listen commentary, commentary come, come much, much deeper, deeper appreciation
+I:11570;405;be, best, period, film, be best, best period, period film
+I:11570;406;costume, be, awesome, number, extra, be, american, film, late, early, costume be, be awesome, awesome number, number extra, extra be, be american, american film, film late, late early
+I:11570;407;movie, be, third, film, be, classic, director, movie be, be third, third film, film be, be classic, classic director
+I:11570;408;view, timemesmerize, view timemesmerize
+I:11570;409;look, see, look see
+I:11570;410;subtitleswere, clarify, hone, perfect, subtitleswere clarify, clarify hone, hone perfect
+I:11570;411;rashomon, be, favorite, film, samurai, be, think, be, complete, film, rashomon be, be favorite, favorite film, film samurai, samurai be, be think, think be, be complete, complete film
+I:11570;412;beautiful, film, be, meditation, subject, have, haunt, director, career, cinema, doppelgager, bring, question, identity, identity, be, form, identity, be, located, be, appearance, world, view, action, attitude, love, beautiful film, film be, be meditation, meditation subject, subject have, have haunt, haunt director, director career, career cinema, cinema doppelgager, doppelgager bring, bring question, question identity, identity identity, identity be, be form, form identity, identity be, be located, located be, be appearance, appearance world, world view, view action, action attitude, attitude love
+I:11570;413;ran, many, film, meditate, human, heart, hope, ran many, many film, film meditate, meditate human, human heart, heart hope
+I:11570;414;identity, involve, creation, film, make, meditation, dream, communicate, medium, film, life, grow, creation, identity involve, involve creation, creation film, film make, make meditation, meditation dream, dream communicate, communicate medium, medium film, film life, life grow, grow creation
+I:11570;415;friendship, experience, world, make, make, world, friendship experience, experience world, world make, make make, make world
+I:11570;416;be, impertinent, insult, life, dedicate, highest, good, artist, achieve, honest, look, human, experience, intent, understand, mystery, human, heart, be impertinent, impertinent insult, insult life, life dedicate, dedicate highest, highest good, good artist, artist achieve, achieve honest, honest look, look human, human experience, experience intent, intent understand, understand mystery, mystery human, human heart
+I:11570;417;do, know, hesitate, approach, foreign, language, cinema, know, be, other, do know, know hesitate, hesitate approach, approach foreign, foreign language, language cinema, cinema know, know be, be other
+I:11570;418;film, be, unique, combination, epic, storytelling, heartbreaking, empathy, be, grandest, spectacles, bewitching, color, film be, be unique, unique combination, combination epic, epic storytelling, storytelling heartbreaking, heartbreaking empathy, empathy be, be grandest, grandest spectacles, spectacles bewitching, bewitching color
+I:11570;419;worth, last, penny, worth last, last penny
+I:11570;420;reviewer, say, be, due, cut, important, war, scene, reviewer say, say be, be due, due cut, cut important, important war, war scene
+I:11570;421;be, write, high, be write, write high
+I:11570;422;high, rating, come, film, class, school, be, obsess, work, high rating, rating come, come film, film class, class school, school be, be obsess, obsess work
+I:11570;423;be, someone, have, interest, japanese, culture, view, storyline, character, development, important, element, movie, be someone, someone have, have interest, interest japanese, japanese culture, culture view, view storyline, storyline character, character development, development important, important element, element movie
+I:11570;424;love, expect, be, cool, flick, action, subtle, humor, love expect, expect be, be cool, cool flick, flick action, action subtle, subtle humor
+I:11570;425;make, have, look, find, whole, line, exceptional, film, make have, have look, look find, find whole, whole line, line exceptional, exceptional film
+I:11570;426;experience, want, see, other, great, film, make, best, movie, maker, experience want, want see, see other, other great, great film, film make, make best, best movie, movie maker
+I:11570;427;prevent, fall, house, command, loyal, man, keep, dead, secret, year, prevent fall, fall house, house command, command loyal, loyal man, man keep, keep dead, dead secret, secret year
+I:11570;428;make, plan, work, perfect, look, double, commoner, thief, be, take, representative, role, public, make plan, plan work, work perfect, perfect look, look double, double commoner, commoner thief, thief be, be take, take representative, representative role, role public
+I:11570;429;more, learn, loyality, respect, more learn, learn loyality, loyality respect
+I:11570;430;find, joy, existence, become, body, be, shadow, find joy, joy existence, existence become, become body, body be, be shadow
+I:11570;431;be, great, story, great, visual, joy, momentum, japanese, society, military, melancholic, view, man, nature, be great, great story, story great, great visual, visual joy, joy momentum, momentum japanese, japanese society, society military, military melancholic, melancholic view, view man, man nature
+I:11570;432;stand, hour, good, movie, be, stand hour, hour good, good movie, movie be
+I:11570;433;see, early, film, classic, have, high, expectation, later, color, film, see early, early film, film classic, classic have, have high, high expectation, expectation later, later color, color film
+I:11570;434;surprise, film, turn, be, best, surprise film, film turn, turn be, be best
+I:11570;435;gorgeous, cinematography, striking, approach, detail, composition, place, list, greatest, film, gorgeous cinematography, cinematography striking, striking approach, approach detail, detail composition, composition place, place list, list greatest, greatest film
+I:11570;436;criterion, have, do, great, job, criterion have, have do, do great, great job
+I:11570;437;price, admission, price admission
+I:11570;438;film, spark, interest, history, life, shignen, film spark, spark interest, interest history, history life, life shignen
+I:11570;439;impostor, be, third, color, film, more, impressive, later, release, impostor be, be third, third color, color film, film more, more impressive, impressive later, later release
+I:11570;440;film, be, impressive, have, excellent, set, film be, be impressive, impressive have, have excellent, excellent set
+I:11570;441;costume, be, authentic, costume be, be authentic
+I:11570;442;release, be, double, disc, box, set, nice, special, feature, release be, be double, double disc, disc box, box set, set nice, nice special, special feature
+I:11570;443;disc, contain, interview, discuss, role, help, produce, film, disc contain, contain interview, interview discuss, discuss role, role help, help produce, produce film
+I:11570;444;end, battle, scene, have, be, accurate, have, award, viewer, nice, hand, hand, combat, end battle, battle scene, scene have, have be, be accurate, accurate have, have award, award viewer, viewer nice, nice hand, hand hand, hand combat
+I:11570;445;need, action, go, it!on, positive, note, be, excellent, best, have, see, movie, need action, action go, go it!on, it!on positive, positive note, note be, be excellent, excellent best, best have, have see, see movie
+I:11570;446;best, movie, period, best movie, movie period
+I:11570;447;be, rich, color, history, be rich, rich color, color history
+I:11570;448;acting, be, do, be, costume, design, acting be, be do, do be, be costume, costume design
+I:11570;449;amazing, resemblence, turn, thief, kagemusha, shadow, warrior, training, take, place, case, death, less, year, amazing resemblence, resemblence turn, turn thief, thief kagemusha, kagemusha shadow, shadow warrior, warrior training, training take, take place, place case, case death, death less, less year
+I:11570;450;story, progress, see, double, grow, mature, gain, corage, accomplish, role, best, story progress, progress see, see double, double grow, grow mature, mature gain, gain corage, corage accomplish, accomplish role, role best
+I:11570;451;soundtrack, give, movie, epic, heroic, feel, be, see, final, scene, soundtrack give, give movie, movie epic, epic heroic, heroic feel, feel be, be see, see final, final scene
+I:11570;452;show, film, slow, ritm, lack, great, battle, talent, master, art, show film, film slow, slow ritm, ritm lack, lack great, great battle, battle talent, talent master, master art
+I:11570;453;remember, best, movie, opinion, second, throne, blood, remember best, best movie, movie opinion, opinion second, second throne, throne blood
+I:11570;454;be, await, delivery, ofthe, edition, movie, great, excitement, be await, await delivery, delivery ofthe, ofthe edition, edition movie, movie great, great excitement
+I:11570;455;hope, day, be, issue, complete, version, watch, movie, be, splendour, way, kurosawa, want, be, hope day, day be, be issue, issue complete, complete version, version watch, watch movie, movie be, be splendour, splendour way, way kurosawa, kurosawa want, want be
+I:11570;456;help, unforgetable, performance, dazzling, use, color, camera, float, deceit, mayhem, angry, be, film, age, blueprint, action, film, be, help unforgetable, unforgetable performance, performance dazzling, dazzling use, use color, color camera, camera float, float deceit, deceit mayhem, mayhem angry, angry be, be film, film age, age blueprint, blueprint action, action film, film be
+I:11570;457;good, condition, good condition
+I:11570;458;wish, be, fulfil, unforeseeable, result, wish be, be fulfil, fulfil unforeseeable, unforeseeable result
+I:11570;459;fantastic, exploration, ephemeral, nature, power, fantastic exploration, exploration ephemeral, ephemeral nature, nature power
+I:11570;460;version, be, share, credit, executive, producer, international, version, version be, be share, share credit, credit executive, executive producer, producer international, international version
+I:11570;461;amazon, please, make, more, kurosawa, movie, available, amazon please, please make, make more, more kurosawa, kurosawa movie, movie available
+I:11570;462;make, something, other, director, make something, something other, other director
+I:11570;463;deserve, remaster, be, happy, see, deserve remaster, remaster be, be happy, happy see
+I:11570;464;recommend, valuable, have, point, view, way, see, recommend valuable, valuable have, have point, point view, view way, way see
+I:11570;465;land, be, prosperous, do, land be, be prosperous, prosperous do
+I:11570;466;staggering, stunnning, epic, film, benefit, fact, paint, sketch, many, major, scene, film, year, period, wait, financing, major, project, staggering stunnning, stunnning epic, epic film, film benefit, benefit fact, fact paint, paint sketch, sketch many, many major, major scene, scene film, film year, year period, period wait, wait financing, financing major, major project
+I:11570;467;be, fine, audio, commentary, author, be fine, fine audio, audio commentary, commentary author
+I:11570;468;have, interesting, insight, world, japanese, cinema, have interesting, interesting insight, insight world, world japanese, japanese cinema
+I:11570;469;subtitle, be, much, improve, easier, read, subtitle be, be much, much improve, improve easier, easier read
+I:11570;470;be, page, book, feature, painting, sketch, interview, time, film, release, magazine, be page, page book, book feature, feature painting, painting sketch, sketch interview, interview time, time film, film release, release magazine
+I:11570;471;second, disc, feature, number, great, extra, second disc, disc feature, feature number, number great, great extra
+I:11570;472;be, brand, new, interview, discuss, get, involve, financing, epic, film, be brand, brand new, new interview, interview discuss, discuss get, get involve, involve financing, financing epic, epic film
+I:11570;473;be, wonderful, supplement, run, minute, use, original, painting, sketch, drawing, reconstruct, film, show, final, film, match, original, painting, be wonderful, wonderful supplement, supplement run, run minute, minute use, use original, original painting, painting sketch, sketch drawing, drawing reconstruct, reconstruct film, film show, show final, final film, film match, match original, original painting
+I:11570;474;first, rate, presentation, investment, first rate, rate presentation, presentation investment
+I:11570;475;nobody, interpret, nobody interpret
+I:11570;476;film, be, beautiful, feature, fantastic, actor, be, interesting, film be, be beautiful, beautiful feature, feature fantastic, fantastic actor, actor be, be interesting
+I:11570;477;be, best, idiosyncratic, oddball, character, tragedy, story, be, substantial, be best, best idiosyncratic, idiosyncratic oddball, oddball character, character tragedy, tragedy story, story be, be substantial
+I:11570;478;like, more, ran, like more, more ran
+I:11570;479;receive, item, be, sure, appreciate, receive item, item be, be sure, sure appreciate
+I:11570;480;trust, have, read, good, thing, film, trust have, have read, read good, good thing, thing film
+I:11570;481;excellent, transfer, crisp, spare, sound, draw, melancholy, world, excellent transfer, transfer crisp, crisp spare, spare sound, sound draw, draw melancholy, melancholy world
+I:11570;482;use, color, sound, character, be, heart, use color, color sound, sound character, character be, be heart
+I:11570;483;background, material, put, darkened, mind, create, film, background material, material put, put darkened, darkened mind, mind create, create film
+I:11570;484;extra, content, help, understand, appreciate, be, difficult, film, time, extra content, content help, help understand, understand appreciate, appreciate be, be difficult, difficult film, film time
+I:11570;485;own, several, other, edition, be, good, better, anything, date, own several, several other, other edition, edition be, be good, good better, better anything, anything date
+I:11570;486;be, discover, work, be, interesting, kurisawa, picture, be discover, discover work, work be, be interesting, interesting kurisawa, kurisawa picture
+I:11570;487;performance, be, amazing, be, great, change, role, time, go, performance be, be amazing, amazing be, be great, great change, change role, role time, time go
+I:11570;488;battle, scene, be, great, battle scene, scene be, be great
+I:11570;489;image, be, powerful, powerhouse, ran, image be, be powerful, powerful powerhouse, powerhouse ran
+I:11570;490;definite, own, be, fan, want, ride, imagination, definite own, own be, be fan, fan want, want ride, ride imagination
+I:11570;491;aspect, film, be, flawless, aspect film, film be, be flawless

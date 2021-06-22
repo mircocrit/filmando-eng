@@ -1,0 +1,431 @@
+I:8628;1;beginning, hook, friend, work, oil, field, beginning hook, hook friend, friend work, work oil, oil field
+I:8628;2;do, one, do, leave, driver, seat, climb, truck, move, piano, do one, one do, do leave, leave driver, driver seat, seat climb, climb truck, truck move, move piano
+I:8628;3;find, song, want, traffic, start, move, take, new, destination, find song, song want, want traffic, traffic start, start move, move take, take new, new destination
+I:8628;4;famous, restaurant, scene, have, decide, pick, woman, distress, way, have, interesting, way, get, want, ask, whole, wheat, toast, go, omelette, famous restaurant, restaurant scene, scene have, have decide, decide pick, pick woman, woman distress, distress way, way have, have interesting, interesting way, way get, get want, want ask, ask whole, whole wheat, wheat toast, toast go, go omelette
+I:8628;5;real, affair, have, do, sister, be, recording, pianist, artist, real affair, affair have, have do, do sister, sister be, be recording, recording pianist, pianist artist
+I:8628;6;be, classic, be classic
+I:8628;7;be, best, work, good, job, director, writer, have, do, be best, best work, work good, good job, job director, director writer, writer have, have do
+I:8628;8;do, represent, culture, day, do represent, represent culture, culture day
+I:8628;9;soundtrack, be, amazing, appreciate, information, get, soundtrack be, be amazing, amazing appreciate, appreciate information, information get
+I:8628;10;love, character, study, be, few, hit, nail, head, love character, character study, study be, be few, few hit, hit nail, nail head
+I:8628;11;have, right, balance, script, actor, director, story, kind, tell, be, case, impressive, exercise, human, poignancy, have right, right balance, balance script, script actor, actor director, director story, story kind, kind tell, tell be, be case, case impressive, impressive exercise, exercise human, human poignancy
+I:8628;12;be, few, character, live, mind, extraordinary, cinematic, creation, be few, few character, character live, live mind, mind extraordinary, extraordinary cinematic, cinematic creation
+I:8628;13;screen, god, do, character, be, remarkable, screen god, god do, do character, character be, be remarkable
+I:8628;14;see, subtle, unnerving, unraveling, overtake, be, see subtle, subtle unnerving, unnerving unraveling, unraveling overtake, overtake be
+I:8628;15;character, be, complex, full, range, take, delicate, balance, earnest, restraint, make, work, understand, balance, character be, be complex, complex full, full range, range take, take delicate, delicate balance, balance earnest, earnest restraint, restraint make, make work, work understand, understand balance
+I:8628;16;craft, sequence, scenery, elongate, emotional, core, film, understand, importance, coupling, facet, film, other, perfect, synchronize, order, craft sequence, sequence scenery, scenery elongate, elongate emotional, emotional core, core film, film understand, understand importance, importance coupling, coupling facet, facet film, film other, other perfect, perfect synchronize, synchronize order
+I:8628;17;facet, film, be, compliment, other, facet film, film be, be compliment, compliment other
+I:8628;18;underside, man, make, tick, hide, be, something, have, fascinate, underside man, man make, make tick, tick hide, hide be, be something, something have, have fascinate
+I:8628;19;be, spectacular, film, make, understand, something, deeper, viewing, be spectacular, spectacular film, film make, make understand, understand something, something deeper, deeper viewing
+I:8628;20;be, good, movie, same, area, come, mind, scenery, rhythm, content, color, agree, be, be good, good movie, movie same, same area, area come, come mind, mind scenery, scenery rhythm, rhythm content, content color, color agree, agree be
+I:8628;21;tell, be, be, brilliant, tell be, be be, be brilliant
+I:8628;22;do, deliberate, gritty, dramatic, way, san, effervescence, do deliberate, deliberate gritty, gritty dramatic, dramatic way, way san, san effervescence
+I:8628;23;movie, present, movie present
+I:8628;24;finish, watch, today, have, see, know, plot, sit, awe, finish watch, watch today, today have, have see, see know, know plot, plot sit, sit awe
+I:8628;25;hit, way, read, great, piece, literature, hit, hit way, way read, read great, great piece, piece literature, literature hit
+I:8628;26;be, best, movie, have, see, be best, best movie, movie have, have see
+I:8628;27;film, provide, first, demonstration, sheer, emotional, power, force, nature, power, unlikely, veer, course, base, action, other, human, being, film provide, provide first, first demonstration, demonstration sheer, sheer emotional, emotional power, power force, force nature, nature power, power unlikely, unlikely veer, veer course, course base, base action, action other, other human, human being
+I:8628;28;fill, attempt, live, life, meaning, time, frame, turbulent, 1960, be, fill attempt, attempt live, live life, life meaning, meaning time, time frame, frame turbulent, turbulent 1960, 1960 be
+I:8628;29;brow, family, culture, brow family, family culture
+I:8628;30;memorable, scene, movie, revealing, number, level, be, attempt, explain, nomadic, existence, wheel, chair, ridden, father, memorable scene, scene movie, movie revealing, revealing number, number level, level be, be attempt, attempt explain, explain nomadic, nomadic existence, existence wheel, wheel chair, chair ridden, ridden father
+I:8628;31;be, extraordinary, film, think, come, appreciate, breath, take, work, cinematic, art, be, be extraordinary, extraordinary film, film think, think come, come appreciate, appreciate breath, breath take, take work, work cinematic, cinematic art, art be
+I:8628;32;be, raw, emotional, experience, be raw, raw emotional, emotional experience
+I:8628;33;be, great, be great
+I:8628;34;fill, many, memorable, dialogue, such, chicken, sandwich, scene, fill many, many memorable, memorable dialogue, dialogue such, such chicken, chicken sandwich, sandwich scene
+I:8628;35;scene, speak, father, be, powerful, be, few, moment, show, range, actor, scene speak, speak father, father be, be powerful, powerful be, be few, few moment, moment show, show range, range actor
+I:8628;36;landmark, movie, landmark movie
+I:8628;37;superb, performance, fascinating, character, great, story, funny, moment, superb performance, performance fascinating, fascinating character, character great, great story, story funny, funny moment
+I:8628;38;scale, give, film, scale give, give film
+I:8628;39;take, responsibility, commitment, be, good, something, more, be, great, take responsibility, responsibility commitment, commitment be, be good, good something, something more, more be, be great
+I:8628;40;movie, hold, year, movie hold, hold year
+I:8628;41;tell, great, story, subdue, manner, tell great, great story, story subdue, subdue manner
+I:8628;42;jack, nicholson, best, jack nicholson, nicholson best
+I:8628;43;theme, be, timeless, be, wonder, wood, man, be, wonder, state, state, woman, woman, identity, identity, life, life, theme be, be timeless, timeless be, be wonder, wonder wood, wood man, man be, be wonder, wonder state, state state, state woman, woman woman, woman identity, identity identity, identity life, life life
+I:8628;44;problem, be, be, smart, problem be, be be, be smart
+I:8628;45;be, aware, own, aimlessness, be aware, aware own, own aimlessness
+I:8628;46;demand, honesty, everyone, be, offer, anyone, demand honesty, honesty everyone, everyone be, be offer, offer anyone
+I:8628;47;do, want, say, want, take, want, have, sex, want, point, hypocrocy, everyone, do want, want say, say want, want take, take want, want have, have sex, sex want, want point, point hypocrocy, hypocrocy everyone
+I:8628;48;be, funny, rage, do, say, thing, want, stop, be funny, funny rage, rage do, do say, say thing, thing want, want stop
+I:8628;49;be, easy, fall, love, bull, china, shop, style, most, time, be, right, merit, be easy, easy fall, fall love, love bull, bull china, china shop, shop style, style most, most time, time be, be right, right merit
+I:8628;50;play, promising, pianist, have, chuck, be, work, oil, field, living, real, floozy, name, play promising, promising pianist, pianist have, have chuck, chuck be, be work, work oil, oil field, field living, living real, real floozy, floozy name
+I:8628;51;go, home, learn, father, be, die, see, claustrophobia, have, escape, go home, home learn, learn father, father be, be die, die see, see claustrophobia, claustrophobia have, have escape
+I:8628;52;deliver, powerful, performance, malcontent, seem, fit, deliver powerful, powerful performance, performance malcontent, malcontent seem, seem fit
+I:8628;53;remain, best, screen, performance, remain best, best screen, screen performance
+I:8628;54;be, excellent, airhead, bimbo, be, attach, be excellent, excellent airhead, airhead bimbo, bimbo be, be attach
+I:8628;55;best, picture, 1970, best picture, picture 1970
+I:8628;56;have, senn, nicholson, more, likeable, role, have senn, senn nicholson, nicholson more, more likeable, likeable role
+I:8628;57;be, alltime, favorite, actor, deliversin, film, be alltime, alltime favorite, favorite actor, actor deliversin, deliversin film
+I:8628;58;rayette, be, accomplished, bowler, irk, love, put, want, be, country, singer, rayette be, be accomplished, accomplished bowler, bowler irk, irk love, love put, put want, want be, be country, country singer
+I:8628;59;trailer, park, truck, stop, oil, field, bowling, alley, first, part, movie, be, pure, trailer park, park truck, truck stop, stop oil, oil field, field bowling, bowling alley, alley first, first part, part movie, movie be, be pure
+I:8628;60;be, patriarch, musical, family, be, prodigal, son, be patriarch, patriarch musical, musical family, family be, be prodigal, prodigal son
+I:8628;61;want, go, think, be, clean, want go, go think, think be, be clean
+I:8628;62;have, see, picture, snow, have see, see picture, picture snow
+I:8628;63;ask, play, something, play, beautiful, piece, ask play, play something, something play, play beautiful, beautiful piece
+I:8628;64;respond, laugh, say, pick, be, easiest, piece, know, play, be, year, old, play, better, respond laugh, laugh say, say pick, pick be, be easiest, easiest piece, piece know, know play, play be, be year, year old, old play, play better
+I:8628;65;be, absolute, masterpiece, be absolute, absolute masterpiece
+I:8628;66;love, wait, see, similar, film, begin, career, love wait, wait see, see similar, similar film, film begin, begin career
+I:8628;67;performance, film, exceed, performance, do, film, performance film, film exceed, exceed performance, performance do, do film
+I:8628;68;character, give, life, concert, pianist, work, oil, field, character give, give life, life concert, concert pianist, pianist work, work oil, oil field
+I:8628;69;wife, be, instable, listen, country, music, sad, wife be, be instable, instable listen, listen country, country music, music sad
+I:8628;70;be, prostitute, be prostitute
+I:8628;71;best, bit, be, best bit, bit be
+I:8628;72;succeed, have, describe, someone, be, mean, mood, piece, direct, film, succeed have, have describe, describe someone, someone be, be mean, mean mood, mood piece, piece direct, direct film
+I:8628;73;scene, bowling, alley, capture, beautiful, grit.you, know, story, bother, obligatory, reference, diner, scene, hitchhiker, heartbreaking, scene, spill, gut, sick, father, scene bowling, bowling alley, alley capture, capture beautiful, beautiful grit.you, grit.you know, know story, story bother, bother obligatory, obligatory reference, reference diner, diner scene, scene hitchhiker, hitchhiker heartbreaking, heartbreaking scene, scene spill, spill gut, gut sick, sick father
+I:8628;74;admit, take, several, viewing, appreciate, film, admit take, take several, several viewing, viewing appreciate, appreciate film
+I:8628;75;rank, favorite, rank favorite
+I:8628;76;be, rare, find, film, take, time, place, be, introduce, people, have, know, feel, have, be rare, rare find, find film, film take, take time, time place, place be, be introduce, introduce people, people have, have know, know feel, feel have
+I:8628;77;give, few, try, have, give few, few try, try have
+I:8628;78;be, bit, odd, see, sweet, behave, naughty, play, be bit, bit odd, odd see, see sweet, sweet behave, behave naughty, naughty play
+I:8628;79;love, ranting, hitchhiker, love ranting, ranting hitchhiker
+I:8628;80;story, world, happen, collide, give, performance, have, win, academy, award, story world, world happen, happen collide, collide give, give performance, performance have, have win, win academy, academy award
+I:8628;81;something, apologize, something apologize
+I:8628;82;perfomance, be, excellent, be, keep, spellbound, perfomance be, be excellent, excellent be, be keep, keep spellbound
+I:8628;83;candidate, successful, remake, candidate successful, successful remake
+I:8628;84;have, like, have like
+I:8628;85;forget, good, be, forget good, good be
+I:8628;86;be, obvious, do, want, live, life, life, hit, rock, be obvious, obvious do, do want, want live, live life, life life, life hit, hit rock
+I:8628;87;learn, lot, visit, realize, be, complex, educate, individual, first, half, movie, reveal, learn lot, lot visit, visit realize, realize be, be complex, complex educate, educate individual, individual first, first half, half movie, movie reveal
+I:8628;88;screen, presence, be, mesmerizing, many, scene, leave, indelible, imprint, viewer, memory, screen presence, presence be, be mesmerizing, mesmerizing many, many scene, scene leave, leave indelible, indelible imprint, imprint viewer, viewer memory
+I:8628;89;portray, complex, enigmatic, character, do, portray complex, complex enigmatic, enigmatic character, character do
+I:8628;90;have, meaningless, relationship, dimwitted, bimbo, meet, woman, be, beautiful, outside, inside, have meaningless, meaningless relationship, relationship dimwitted, dimwitted bimbo, bimbo meet, meet woman, woman be, be beautiful, beautiful outside, outside inside
+I:8628;91;woo, play, move, piece, classical, music, piano, woo play, play move, move piece, piece classical, classical music, music piano
+I:8628;92;sound, be, good, great, be, instance, voice, character, be, hard, understand, sound be, be good, good great, great be, be instance, instance voice, voice character, character be, be hard, hard understand
+I:8628;93;be, sure, live, hype, move, have, good, character, development, interesting, part, be sure, sure live, live hype, hype move, move have, have good, good character, character development, development interesting, interesting part
+I:8628;94;easy, piece, be, magnificent, film, be, move, easy piece, piece be, be magnificent, magnificent film, film be, be move
+I:8628;95;tell, comment, deliver, casual, joke, cut, heart, emotion, tell comment, comment deliver, deliver casual, casual joke, joke cut, cut heart, heart emotion
+I:8628;96;memorable, scene, traffic, jam, jump, back, truck, pull, cover, piano, begin, play, classical, music, memorable scene, scene traffic, traffic jam, jam jump, jump back, back truck, truck pull, pull cover, cover piano, piano begin, begin play, play classical, classical music
+I:8628;97;be, few, heart, be few, few heart
+I:8628;98;scene, make, easy, piece, worth, watch, scene make, make easy, easy piece, piece worth, worth watch
+I:8628;99;jack, performance, be, amazing, film, jack performance, performance be, be amazing, amazing film
+I:8628;100;be, height, game, game, be, good, be height, height game, game game, game be, be good
+I:8628;101;manage, breathe, life, complexity, character, do, come, full, approval, total, disapproval, manage breathe, breathe life, life complexity, complexity character, character do, do come, come full, full approval, approval total, total disapproval
+I:8628;102;get, perfect, portrait, man, be, run, past, get perfect, perfect portrait, portrait man, man be, be run, run past
+I:8628;103;recommend, easy, piece, anyone, enjoy, film, do, recommend easy, easy piece, piece anyone, anyone enjoy, enjoy film, film do
+I:8628;104;performance, be, memorable, character, bring, film, have, meet, performance be, be memorable, memorable character, character bring, bring film, film have, have meet
+I:8628;105;get, chance, watch, enjoy, get chance, chance watch, watch enjoy
+I:8628;106;character, play, be, pitch, perfect, character play, play be, be pitch, pitch perfect
+I:8628;107;film, central, character, be, likable, person, write, assay, become, sympathetic, film central, central character, character be, be likable, likable person, person write, write assay, assay become, become sympathetic
+I:8628;108;nicholson, give, modulate, performance, departure, more, flamboyant, work, suggest, anger, apathy, sadness, seethe, nicholson give, give modulate, modulate performance, performance departure, departure more, more flamboyant, flamboyant work, work suggest, suggest anger, anger apathy, apathy sadness, sadness seethe
+I:8628;109;real, revelation, be, black, real revelation, revelation be, be black
+I:8628;110;rayette, be, unlearned, black, bring, sweetness, sadness, rayette be, be unlearned, unlearned black, black bring, bring sweetness, sweetness sadness
+I:8628;111;final, note, film, put, equal, footing, have, be, great, final note, note film, film put, put equal, equal footing, footing have, have be, be great
+I:8628;112;try, find, something, good, flick, be, great, actor, try find, find something, something good, good flick, flick be, be great, great actor
+I:8628;113;be, good, be good
+I:8628;114;subtle, image, sound, make, impression, pained, silent, father, face, embrace, beloved, sister, sound, subtle image, image sound, sound make, make impression, impression pained, pained silent, silent father, father face, face embrace, embrace beloved, beloved sister, sister sound
+I:8628;115;lie, film, strength, lie film, film strength
+I:8628;116;represent, alienate, generation, honest, represent alienate, alienate generation, generation honest
+I:8628;117;nicholson, be, perfect, actor, part, be, best, performance, nicholson be, be perfect, perfect actor, actor part, part be, be best, best performance
+I:8628;118;be, appealing, lack, classic, cocky, performance, be, bit, unsure, be appealing, appealing lack, lack classic, classic cocky, cocky performance, performance be, be bit, bit unsure
+I:8628;119;quieter, moment, work, quieter moment, moment work
+I:8628;120;work, kind, scene, greater, high, last, detail, work kind, kind scene, scene greater, greater high, high last, last detail
+I:8628;121;way, have, anyone, notice, be, good, greatest, strength, be, make, other, actor, way have, have anyone, anyone notice, notice be, be good, good greatest, greatest strength, strength be, be make, make other, other actor
+I:8628;122;last, detail, be, better, be, deserving, last detail, detail be, be better, better be, be deserving
+I:8628;123;intriguing, character, replace, amusing, predictable, one, intriguing character, character replace, replace amusing, amusing predictable, predictable one
+I:8628;124;entire, tone, grow, quieter, open, entire tone, tone grow, grow quieter, quieter open
+I:8628;125;younger, day, see, act, talent, younger day, day see, see act, act talent
+I:8628;126;love, music, aspect, movie, love music, music aspect, aspect movie
+I:8628;127;best, line, movie, best line, line movie
+I:8628;128;diner, scene, be, classic, diner scene, scene be, be classic
+I:8628;129;first, best, first best
+I:8628;130;be, classic, be, prepare, great, movie, be classic, classic be, be prepare, prepare great, great movie
+I:8628;131;love, sandwich, episode, love sandwich, sandwich episode
+I:8628;132;be, little, slow, hard, follow, have, best, early, work, be little, little slow, slow hard, hard follow, follow have, have best, best early, early work
+I:8628;133;time, great, movie, time great, great movie
+I:8628;134;actor, be, wonderful, late, actor be, be wonderful, wonderful late
+I:8628;135;sort, interesting, question, raise, silence, father, human, attraction, art, sort interesting, interesting question, question raise, raise silence, silence father, father human, human attraction, attraction art
+I:8628;136;see, film, enthusiast, see film, film enthusiast
+I:8628;137;anyone, nostalgia, swim, eyeball, spite, song, serve, ad, nausem, anyone nostalgia, nostalgia swim, swim eyeball, eyeball spite, spite song, song serve, serve ad, ad nausem
+I:8628;138;narrative, character, performance, setting, direction, be, marvelous, narrative character, character performance, performance setting, setting direction, direction be, be marvelous
+I:8628;139;think, role, be, intend, someone, little, younger, performance, be, feel, human, think role, role be, be intend, intend someone, someone little, little younger, younger performance, performance be, be feel, feel human
+I:8628;140;be, interesting, story, family, musician, son, have, be, piano, prodigy, be interesting, interesting story, story family, family musician, musician son, son have, have be, be piano, piano prodigy
+I:8628;141;film, be, everything, modern, character, study, be, film be, be everything, everything modern, modern character, character study, study be
+I:8628;142;be, reveal, wayward, culture, strike, audience, emotional, interaction, let, peer, heart, mind, intriguing, personality, be reveal, reveal wayward, wayward culture, culture strike, strike audience, audience emotional, emotional interaction, interaction let, let peer, peer heart, heart mind, mind intriguing, intriguing personality
+I:8628;143;do, intellectual, family, proletarian, lifestyle, manual, labor, promiscuity, do intellectual, intellectual family, family proletarian, proletarian lifestyle, lifestyle manual, manual labor, labor promiscuity
+I:8628;144;find, believe, be, salvation, form, sophisticated, woman, be, romantic, optimistic, do, believe, be, be, bore, find believe, believe be, be salvation, salvation form, form sophisticated, sophisticated woman, woman be, be romantic, romantic optimistic, optimistic do, do believe, believe be, be be, be bore
+I:8628;145;enjoy, picture, craftsmanship, mold, internal, conflict, art, be, admire, day, achieve, enjoy picture, picture craftsmanship, craftsmanship mold, mold internal, internal conflict, conflict art, art be, be admire, admire day, day achieve
+I:8628;146;everyone, be, great, movie, everyone be, be great, great movie
+I:8628;147;have, be, fan, fit, role, have be, be fan, fan fit, fit role
+I:8628;148;play, promising, pianist, full, name, be, play promising, promising pianist, pianist full, full name, name be
+I:8628;149;be, performance, love, admire, be performance, performance love, love admire
+I:8628;150;girlfriend, rayette, admire, waitress, be, outstanding, girlfriend rayette, rayette admire, admire waitress, waitress be, be outstanding
+I:8628;151;cinematography, be, gorgeous, cinematography be, be gorgeous
+I:8628;152;salad, scene, diner, be, classic, pure, delight, watch, salad scene, scene diner, diner be, be classic, classic pure, pure delight, delight watch
+I:8628;153;film, star, support, role, film star, star support, support role
+I:8628;154;summary, classical, pianist, come, family, musician, work, oil, field, summary classical, classical pianist, pianist come, come family, family musician, musician work, work oil, oil field
+I:8628;155;tell, go, see, father, agree, take, tell go, go see, see father, father agree, agree take
+I:8628;156;reach, destination, reach destination
+I:8628;157;play, role, wife, be, insult, put, play role, role wife, wife be, be insult, insult put
+I:8628;158;give, star, have, give, weasel, star, be, be, nice, give star, star have, have give, give weasel, weasel star, star be, be be, be nice
+I:8628;159;have, hear, get, watch, have hear, hear get, get watch
+I:8628;160;be, amazing, actor, be amazing, amazing actor
+I:8628;161;movie, be, interesting, study, young, man, try, find, movie be, be interesting, interesting study, study young, young man, man try, try find
+I:8628;162;get, film, get film
+I:8628;163;chance, see, have, sentimental, moment, chance see, see have, have sentimental, sentimental moment
+I:8628;164;filmography, be, beautiful, colorful, occasional, understate, symbolic, shot, windshield, wiper, wipe, rain, incredible, view, range, oil, field, beautiful, northern, pine, country, filmography be, be beautiful, beautiful colorful, colorful occasional, occasional understate, understate symbolic, symbolic shot, shot windshield, windshield wiper, wiper wipe, wipe rain, rain incredible, incredible view, view range, range oil, oil field, field beautiful, beautiful northern, northern pine, pine country
+I:8628;165;silence, speak, word, silence speak, speak word
+I:8628;166;be, presence, art, movie, art, leave, bitter, taste, write, bs, final, analysis, do, get, hand, film, be presence, presence art, art movie, movie art, art leave, leave bitter, bitter taste, taste write, write bs, bs final, final analysis, analysis do, do get, get hand, hand film
+I:8628;167;movie, have, classic, scene, include, famous, scene, diner, waitress, movie have, have classic, classic scene, scene include, include famous, famous scene, scene diner, diner waitress
+I:8628;168;poignant, be, exchange, end, observe, reality, want, poignant be, be exchange, exchange end, end observe, observe reality, reality want
+I:8628;169;excellent, drama, lose, soul, excellent drama, drama lose, lose soul
+I:8628;170;play, talor, make, role, actor, magnuitude, play talor, talor make, make role, role actor, actor magnuitude
+I:8628;171;powerful, move, film, draw, be, strength, detailed, point, view, display, frailty, human, soul, powerful move, move film, film draw, draw be, be strength, strength detailed, detailed point, point view, view display, display frailty, frailty human, human soul
+I:8628;172;end, film, be, memorable, leave, beautiful, annoying, girlfriend, strand, gas, hitch, ride, trucker, end film, film be, be memorable, memorable leave, leave beautiful, beautiful annoying, annoying girlfriend, girlfriend strand, strand gas, gas hitch, hitch ride, ride trucker
+I:8628;173;best, film, many, people, cite, fly, cuckoo, best, performance, money, performance, top, be, say, lot, best film, film many, many people, people cite, cite fly, fly cuckoo, cuckoo best, best performance, performance money, money performance, performance top, top be, be say, say lot
+I:8628;174;be, quiet, understate, film, man, do, know, be, look, keep, look, be quiet, quiet understate, understate film, film man, man do, do know, know be, be look, look keep, keep look
+I:8628;175;do, family, include, talented, have, abandon, work, oil, field, live, unskilled, worker, do family, family include, include talented, talented have, have abandon, abandon work, work oil, oil field, field live, live unskilled, unskilled worker
+I:8628;176;scene, father, speak, be, act, finest, rank, scene, dead, wife, last, scene father, father speak, speak be, be act, act finest, finest rank, rank scene, scene dead, dead wife, wife last
+I:8628;177;support, player, be, cast, support player, player be, be cast
+I:8628;178;see, film, serious, movie, see film, film serious, serious movie
+I:8628;179;violent, change, humour, bitterness, be, hard, fan, cinema, lover, young, actor, violent change, change humour, humour bitterness, bitterness be, be hard, hard fan, fan cinema, cinema lover, lover young, young actor
+I:8628;180;bob, make, brilliant, masterpiece, bob make, make brilliant, brilliant masterpiece
+I:8628;181;movie, have, strong, influence, best, european, s, explain, great, audience, do, remember, major, intensity, movie have, have strong, strong influence, influence best, best european, european s, s explain, explain great, great audience, audience do, do remember, remember major, major intensity
+I:8628;182;final, sequence, seem, reveal, triumph, will, middle, quotidian, loneliness, become, usual, way, life, petrified, forest, middle, gas, station, crude, metaphor, signify, wrong, initial, decision, final sequence, sequence seem, seem reveal, reveal triumph, triumph will, will middle, middle quotidian, quotidian loneliness, loneliness become, become usual, usual way, way life, life petrified, petrified forest, forest middle, middle gas, gas station, station crude, crude metaphor, metaphor signify, signify wrong, wrong initial, initial decision
+I:8628;183;be, superb, role, man, spend, most, life, try, be, musician, father, want, be, decide, go, search, be superb, superb role, role man, man spend, spend most, most life, life try, try be, be musician, musician father, father want, want be, be decide, decide go, go search
+I:8628;184;service, vendor, be, excellent, do, enjoy, movie, service vendor, vendor be, be excellent, excellent do, do enjoy, enjoy movie
+I:8628;185;be, excellent, play, character, such, antihero, protagonist, be, charming, be, self, be excellent, excellent play, play character, character such, such antihero, antihero protagonist, protagonist be, be charming, charming be, be self
+I:8628;186;movie, be, good, get, view, whole, movie, movie be, be good, good get, get view, view whole, whole movie
+I:8628;187;be, happy, watch, be happy, happy watch
+I:8628;188;be, first, time, watch, movie, start, finish, be first, first time, time watch, watch movie, movie start, start finish
+I:8628;189;love, do, miss, love do, do miss
+I:8628;190;film, stand, landmark, film, post, film stand, stand landmark, landmark film, film post
+I:8628;191;respond, vitality, freedom, working, respond vitality, vitality freedom, freedom working
+I:8628;192;best, thing, script, be, much, intelligence, cede, audience, be, present, much, obvious, dealings, sibling, wounded, partita, classic, performance, impotent, few, key, scene, best thing, thing script, script be, be much, much intelligence, intelligence cede, cede audience, audience be, be present, present much, much obvious, obvious dealings, dealings sibling, sibling wounded, wounded partita, partita classic, classic performance, performance impotent, impotent few, few key, key scene
+I:8628;193;recording, studio, ping, table, front, home, recording studio, studio ping, ping table, table front, front home
+I:8628;194;wise, move, rafelson, allow, hear, length, beautiful, voice, singing, song, idol, allow, see, country, music, affect, expand, emotion, classical, music, do, culture, wise move, move rafelson, rafelson allow, allow hear, hear length, length beautiful, beautiful voice, voice singing, singing song, song idol, idol allow, allow see, see country, country music, music affect, affect expand, expand emotion, emotion classical, classical music, music do, do culture
+I:8628;195;be, mystify, many, people, think, film, be, great, be mystify, mystify many, many people, people think, think film, film be, be great
+I:8628;196;early, movie, career, early movie, movie career
+I:8628;197;become, worker, oil, rig, complete, alcoholic, brutal, misogynist, reprehensible, human, be, divorce, origin, disdainful, considerable, talent, become worker, worker oil, oil rig, rig complete, complete alcoholic, alcoholic brutal, brutal misogynist, misogynist reprehensible, reprehensible human, human be, be divorce, divorce origin, origin disdainful, disdainful considerable, considerable talent
+I:8628;198;gorgeous, hilbilly, girlfriend, form, paradox, character, ferocious, embrace, man, lower, instinct, favor, greater, authenticity, actual, repugnance, face, extended, period, time, gorgeous hilbilly, hilbilly girlfriend, girlfriend form, form paradox, paradox character, character ferocious, ferocious embrace, embrace man, man lower, lower instinct, instinct favor, favor greater, greater authenticity, authenticity actual, actual repugnance, repugnance face, face extended, extended period, period time
+I:8628;199;good, reason, impotence, son, good reason, reason impotence, impotence son
+I:8628;200;be, masterpiece, win, similar, modern, fare, american, beauty, good, hunting, be masterpiece, masterpiece win, win similar, similar modern, modern fare, fare american, american beauty, beauty good, good hunting
+I:8628;201;be, warm, sweet, rollwith, axle, grease, coffee, be warm, warm sweet, sweet rollwith, rollwith axle, axle grease, grease coffee
+I:8628;202;be, great, old, film, deep, intriguing, be great, great old, old film, film deep, deep intriguing
+I:8628;203;be, award, worthy, be award, award worthy
+I:8628;204;love, movie, find, something, redeemable, bad, film, love movie, movie find, find something, something redeemable, redeemable bad, bad film
+I:8628;205;have, like, have like
+I:8628;206;other, nominee, year, be, mash, other nominee, nominee year, year be, be mash
+I:8628;207;definitive, acclaimed, film, early, .70, new, american, edgy, deep, character, study, feature, complex, courageous, performance, nicholson, black, definitive acclaimed, acclaimed film, film early, early .70, .70 new, new american, american edgy, edgy deep, deep character, character study, study feature, feature complex, complex courageous, courageous performance, performance nicholson, nicholson black
+I:8628;208;nominate, stick, nominate stick
+I:8628;209;hold, prime, many, subtle, reflection, art, class, lifestyle, romance, relationship, wrap, great, ride, hold prime, prime many, many subtle, subtle reflection, reflection art, art class, class lifestyle, lifestyle romance, romance relationship, relationship wrap, wrap great, great ride
+I:8628;210;be, best, film, emerge, late, be best, best film, film emerge, emerge late
+I:8628;211;travel, cohort, be, excellent, travel cohort, cohort be, be excellent
+I:8628;212;be, film, enthusiast, call, landmark, performance, be film, film enthusiast, enthusiast call, call landmark, landmark performance
+I:8628;213;restaurant, scene, be, memorable, cinematic, history, restaurant scene, scene be, be memorable, memorable cinematic, cinematic history
+I:8628;214;recommend, film, buff, recommend film, film buff
+I:8628;215;wait, movie, something, interesting, happen, do, turn, watch, something, wait movie, movie something, something interesting, interesting happen, happen do, do turn, turn watch, watch something
+I:8628;216;dress, frump, little, girl, red, cardigan, pigtail, dress frump, frump little, little girl, girl red, red cardigan, cardigan pigtail
+I:8628;217;joy, see, brother, passage, year, be, palpable, joy see, see brother, brother passage, passage year, year be, be palpable
+I:8628;218;everything, east, eden, fox, director, have, try, tweaking, overbearing, gruesome, hamminess, ill, effect, director, better, manage, tone, give, be, performance, everything east, east eden, eden fox, fox director, director have, have try, try tweaking, tweaking overbearing, overbearing gruesome, gruesome hamminess, hamminess ill, ill effect, effect director, director better, better manage, manage tone, tone give, give be, be performance
+I:8628;219;rest, movie, be, good, scene, give, good, performance, rest movie, movie be, be good, good scene, scene give, give good, good performance
+I:8628;220;be, see, nicolson, fan, fan, good, write, movie, be see, see nicolson, nicolson fan, fan fan, fan good, good write, write movie
+I:8628;221;be, bring, hometown, go, visit, father, have, take, be bring, bring hometown, hometown go, go visit, visit father, father have, have take
+I:8628;222;be, classic, movie, hold, present, day, be classic, classic movie, movie hold, hold present, present day
+I:8628;223;nicholson, be, finest, support, cast, be, excellent, nicholson be, be finest, finest support, support cast, cast be, be excellent
+I:8628;224;best, movie, shin, pure, genius, best movie, movie shin, shin pure, pure genius
+I:8628;225;see, fan, :-rrb-, see fan, fan :-rrb-
+I:8628;226;karen, black, be, wonderful, course, sexy, jack, karen black, black be, be wonderful, wonderful course, course sexy, sexy jack
+I:8628;227;love, see, be, nominate, academy, award, figure, be, good, love see, see be, be nominate, nominate academy, academy award, award figure, figure be, be good
+I:8628;228;feature, powerful, convincing, acting, be, look, uplifting, movie, happy, satisfy, end, be, feature powerful, powerful convincing, convincing acting, acting be, be look, look uplifting, uplifting movie, movie happy, happy satisfy, satisfy end, end be
+I:8628;229;nominate, award, film, star, creative, alienate, drifter, hold, promise, be, serious, classical, concert, pianist, nominate award, award film, film star, star creative, creative alienate, alienate drifter, drifter hold, hold promise, promise be, be serious, serious classical, classical concert, concert pianist
+I:8628;230;enter, impossible, relationship, brother, sophisticated, girlfriend, play, enter impossible, impossible relationship, relationship brother, brother sophisticated, sophisticated girlfriend, girlfriend play
+I:8628;231;film, move, hold, interest, wide, variety, episode, further, deepen, intensity, character, film move, move hold, hold interest, interest wide, wide variety, variety episode, episode further, further deepen, deepen intensity, intensity character
+I:8628;232;be, film, work, today, do, 1970, be film, film work, work today, today do, do 1970
+I:8628;233;have, timely, view, cry, independence, freedom, alienate, keep, move, have timely, timely view, view cry, cry independence, independence freedom, freedom alienate, alienate keep, keep move
+I:8628;234;screenplay, direction, be, excellent, screenplay direction, direction be, be excellent
+I:8628;235;be, something, story, make, realize, be, little, bit, character, be something, something story, story make, make realize, realize be, be little, little bit, bit character
+I:8628;236;memorable, scene, memorable, scene, memorable scene, scene memorable, memorable scene
+I:8628;237;character, make, point, clear, see, life, be, intimate, view, character make, make point, point clear, clear see, see life, life be, be intimate, intimate view
+I:8628;238;western, song, grate, nicholson, western song, song grate, grate nicholson
+I:8628;239;leave, girlfriend, decide, return, home, pursue, new, leave girlfriend, girlfriend decide, decide return, return home, home pursue, pursue new
+I:8628;240;surprise, movie, be, acclaimed, surprise movie, movie be, be acclaimed
+I:8628;241;love, see, beginning, love see, see beginning
+I:8628;242;be, fun, see, facial, expression, end, be, part, later, role, be fun, fun see, see facial, facial expression, expression end, end be, be part, part later, later role
+I:8628;243;fun, see, other, guy, recognize, fun see, see other, other guy, guy recognize
+I:8628;244;play, concert, pianist, work, oil, rig, have, singing, girlfriend, be, employ, waitress, play concert, concert pianist, pianist work, work oil, oil rig, rig have, have singing, singing girlfriend, girlfriend be, be employ, employ waitress
+I:8628;245;girlfriend, put, mistreatment, infidelity, mistreat, long, someone, girlfriend put, put mistreatment, mistreatment infidelity, infidelity mistreat, mistreat long, long someone
+I:8628;246;good, story, man, talent, seem, get, take, direction, make, life, meaningful, good story, story man, man talent, talent seem, seem get, get take, take direction, direction make, make life, life meaningful
+I:8628;247;good, character, study, obvious, answer, good character, character study, study obvious, obvious answer
+I:8628;248;film, be, date, be, worth, view, performance, film be, be date, date be, be worth, worth view, view performance
+I:8628;249;great, movie, great, actor, great movie, movie great, great actor
+I:8628;250;entertaining, timeless, show, potential, actor, entertaining timeless, timeless show, show potential, potential actor
+I:8628;251;be, stellar, show, act, root, be stellar, stellar show, show act, act root
+I:8628;252;movie, be, date, story, be, interesting, acting, be, great, movie be, be date, date story, story be, be interesting, interesting acting, acting be, be great
+I:8628;253;star, complex, challenging, role, star complex, complex challenging, challenging role
+I:8628;254;promising, pianist, leave, lifestyle, family, move, work, oil, rig, promising pianist, pianist leave, leave lifestyle, lifestyle family, family move, move work, work oil, oil rig
+I:8628;255;middle, act, turn, slapstick, road, movie, hilarious, hitchhiker, pick, way, middle act, act turn, turn slapstick, slapstick road, road movie, movie hilarious, hilarious hitchhiker, hitchhiker pick, pick way
+I:8628;256;particular, vivid, scene, stand, end, film, be, try, have, coversation, estrange, father, be, disable, stroke, wheel, chair, bind, particular vivid, vivid scene, scene stand, stand end, end film, film be, be try, try have, have coversation, coversation estrange, estrange father, father be, be disable, disable stroke, stroke wheel, wheel chair, chair bind
+I:8628;257;decide, escape, everything, last, time, start, clean, slate, existential, journey, begin, end, film, decide escape, escape everything, everything last, last time, time start, start clean, clean slate, slate existential, existential journey, journey begin, begin end, end film
+I:8628;258;want, like, piece, classic, cinema, early, anthropological, study, want like, like piece, piece classic, classic cinema, cinema early, early anthropological, anthropological study
+I:8628;259;level, consider, good, movie, level consider, consider good, good movie
+I:8628;260;performance, be, top, performance be, be top
+I:8628;261;character, be, complex, plot, be, thick, young, be, outstanding, character be, be complex, complex plot, plot be, be thick, thick young, young be, be outstanding
+I:8628;262;be, excellent, film, be excellent, excellent film
+I:8628;263;release, be, spellbinding, character, study, landmark, film, remain, powerful, excellent, accomplishment, history, cinema, release be, be spellbinding, spellbinding character, character study, study landmark, landmark film, film remain, remain powerful, powerful excellent, excellent accomplishment, accomplishment history, history cinema
+I:8628;264;key, intensity, lot, surprise, keep, glue, screen, key intensity, intensity lot, lot surprise, surprise keep, keep glue, glue screen
+I:8628;265;course, huge, part, remain, glue, screen, be, phenomenal, awe, course huge, huge part, part remain, remain glue, glue screen, screen be, be phenomenal, phenomenal awe
+I:8628;266;inspiring, lead, performance, inspiring lead, lead performance
+I:8628;267;have, nuance, complex, character, nail, screen, presence, be, word, have nuance, nuance complex, complex character, character nail, nail screen, screen presence, presence be, be word
+I:8628;268;bind, speak, follow, stroke, bind speak, speak follow, follow stroke
+I:8628;269;scene, perform, be, emotional, climax, film, scene perform, perform be, be emotional, emotional climax, climax film
+I:8628;270;end, find, do, sympathize, thanks, superb, acting, end find, find do, do sympathize, sympathize thanks, thanks superb, superb acting
+I:8628;271;movie, end, be, happy, be, line, character, be, haunting, brilliant, way, bring, closure, film, movie end, end be, be happy, happy be, be line, line character, character be, be haunting, haunting brilliant, brilliant way, way bring, bring closure, closure film
+I:8628;272;somber, movie, be, be, funny, bit, somber movie, movie be, be be, be funny, funny bit
+I:8628;273;hand, performance, carry, movie, hand performance, performance carry, carry movie
+I:8628;274;black, portray, kind, black portray, portray kind
+I:8628;275;mean, ditzy, type, be, willing, forgive, boyfriend, anything, mean ditzy, ditzy type, type be, be willing, willing forgive, forgive boyfriend, boyfriend anything
+I:8628;276;unforgettable, be, unforgettable be
+I:8628;277;be, hilarious, airheadedly, deep, be, wonderful, sister, be, good, co., worker, friend, sort, be hilarious, hilarious airheadedly, airheadedly deep, deep be, be wonderful, wonderful sister, sister be, be good, good co., co. worker, worker friend, friend sort
+I:8628;278;bit, part, prove, be, perfect, foil, waitress, aforementioned, restaurant, scene, bit part, part prove, prove be, be perfect, perfect foil, foil waitress, waitress aforementioned, aforementioned restaurant, restaurant scene
+I:8628;279;means, film, screenplay, be, marvelous, means film, film screenplay, screenplay be, be marvelous
+I:8628;280;dialogue, be, right, money, contain, great, black, humor, dialogue be, be right, right money, money contain, contain great, great black, black humor
+I:8628;281;admit, be, decade, original, theatrical, release, film, strike, relevant, realize, piece, work, admit be, be decade, decade original, original theatrical, theatrical release, release film, film strike, strike relevant, relevant realize, realize piece, piece work
+I:8628;282;be, profound, masterpiece, serious, viewer, remain, timeless, be profound, profound masterpiece, masterpiece serious, serious viewer, viewer remain, remain timeless
+I:8628;283;pathetic, story, make, pathetic story, story make
+I:8628;284;sophisticated, man, musician, live, own, expectation, sophisticated man, man musician, musician live, live own, own expectation
+I:8628;285;grow, era, ring, lot, bell, grow era, era ring, ring lot, lot bell
+I:8628;286;be, favorite, film, be favorite, favorite film
+I:8628;287;girlfriend, rayette, loving, simple, girlfriend rayette, rayette loving, loving simple
+I:8628;288;be, sophisticated, intelligent, train, musician, be sophisticated, sophisticated intelligent, intelligent train, train musician
+I:8628;289;be, partial, reflection, life, have, be, end, film, be, catch, return, ho, be partial, partial reflection, reflection life, life have, have be, be end, end film, film be, be catch, catch return, return ho
+I:8628;290;be, classic, moment, film, do, need, go, know, film, become, intriguing, arrive, island, visit, ill, father, encounter, be classic, classic moment, moment film, film do, do need, need go, go know, know film, film become, become intriguing, intriguing arrive, arrive island, island visit, visit ill, ill father, father encounter
+I:8628;291;film, be, complex, dynamic, humanistic, detail, that, show, character, film, relate, film be, be complex, complex dynamic, dynamic humanistic, humanistic detail, detail that, that show, show character, character film, film relate
+I:8628;292;best, work, be, unforgettable, rayette, best work, work be, be unforgettable, unforgettable rayette
+I:8628;293;be, happy, existence, everything, be, fine, be happy, happy existence, existence everything, everything be, be fine
+I:8628;294;start, memorable, road, trip, famous, diner, scene, have, fight, snotty, waitress, start memorable, memorable road, road trip, trip famous, famous diner, diner scene, scene have, have fight, fight snotty, snotty waitress
+I:8628;295;find, grow, upper, middle, class, be, accomplished, pianist, find grow, grow upper, upper middle, middle class, class be, be accomplished, accomplished pianist
+I:8628;296;enter, new, woman, turn, head, remind, leave, enter new, new woman, woman turn, turn head, head remind, remind leave
+I:8628;297;time, be, cut, edge, film, look, be, uneven, great, performance, time be, be cut, cut edge, edge film, film look, look be, be uneven, uneven great, great performance
+I:8628;298;narcissist, work, oilrig, friend, sort, narcissist work, work oilrig, oilrig friend, friend sort
+I:8628;299;road, be, film, come, alive, road be, be film, film come, come alive
+I:8628;300;be, head, look, white, clean, picture, be head, head look, look white, white clean, clean picture
+I:8628;301;scene, family, house, touch, greatness, scene family, family house, house touch, touch greatness
+I:8628;302;realism, be, affect, film, realism be, be affect, affect film
+I:8628;303;important, be, have, great, movie, performance, important be, be have, have great, great movie, movie performance
+I:8628;304;reflective, performance, film, impress, reflective performance, performance film, film impress
+I:8628;305;be, actor, genre, be actor, actor genre
+I:8628;306;feel, bad, say, be, best, film, make, last, year, feel bad, bad say, say be, be best, best film, film make, make last, last year
+I:8628;307;be, favorite, movie, like, point, people, include, official, amazon, be favorite, favorite movie, movie like, like point, point people, people include, include official, official amazon
+I:8628;308;movie, be, incredible, opinion, nicholson, best, raw, acting, goofy, cliche, crazy, nicholson, schtick, characterize, later, work, movie be, be incredible, incredible opinion, opinion nicholson, nicholson best, best raw, raw acting, acting goofy, goofy cliche, cliche crazy, crazy nicholson, nicholson schtick, schtick characterize, characterize later, later work
+I:8628;309;best, performance, best performance
+I:8628;310;have, see, movie, first, time, be, floor, greatness, aspect, production, have see, see movie, movie first, first time, time be, be floor, floor greatness, greatness aspect, aspect production
+I:8628;311;classic, film, excellent, acting, classic film, film excellent, excellent acting
+I:8628;312;be, wonderful, actor, early, performance, have, be, variation, play, be wonderful, wonderful actor, actor early, early performance, performance have, have be, be variation, variation play
+I:8628;313;be, talented, classical, musician, come, family, talented, classical, musician, be talented, talented classical, classical musician, musician come, come family, family talented, talented classical, classical musician
+I:8628;314;be, moment, stand, anything, have, do, be moment, moment stand, stand anything, anything have, have do
+I:8628;315;be, huge, fan, means, watch, come, own, conclusion, be huge, huge fan, fan means, means watch, watch come, come own, own conclusion
+I:8628;316;be, great, movie, be great, great movie
+I:8628;317;be, fun, see, actor, younger, day, be fun, fun see, see actor, actor younger, younger day
+I:8628;318;character, be, hoot, character be, be hoot
+I:8628;319;be, important, character, american, film, be important, important character, character american, american film
+I:8628;320;do, think, performance, be, best, american, film, do think, think performance, performance be, be best, best american, american film
+I:8628;321;most, character, film, be, eccentric, find, interaction, force, most character, character film, film be, be eccentric, eccentric find, find interaction, interaction force
+I:8628;322;main, character, be, trippy, be, entertaining, main character, character be, be trippy, trippy be, be entertaining
+I:8628;323;sort, charming, motivated, bukowski, sort charming, charming motivated, motivated bukowski
+I:8628;324;movie, be, fine, movie be, be fine
+I:8628;325;team, old, pal, fame, create, interesting, character, study, team old, old pal, pal fame, fame create, create interesting, interesting character, character study
+I:8628;326;girlfriend, play, want, be, country, western, singer, be, sing, stand, man, girlfriend play, play want, want be, be country, country western, western singer, singer be, be sing, sing stand, stand man
+I:8628;327;do, incredible, job, peel, layer, scene, order, chicken, salad, sandwich, be, memorable, do incredible, incredible job, job peel, peel layer, layer scene, scene order, order chicken, chicken salad, salad sandwich, sandwich be, be memorable
+I:8628;328;be, annoying, role, do, tremendous, job, be annoying, annoying role, role do, do tremendous, tremendous job
+I:8628;329;film, contain, more, fill, powerful, do, moment, film contain, contain more, more fill, fill powerful, powerful do, do moment
+I:8628;330;movie, capable, engage, viewer, exact, everything, be, worthy, praise, movie capable, capable engage, engage viewer, viewer exact, exact everything, everything be, be worthy, worthy praise
+I:8628;331;handheld, camera, compliment, crane, shot, be, use, be, incite, perfect, response, symbolism, handheld camera, camera compliment, compliment crane, crane shot, shot be, be use, use be, be incite, incite perfect, perfect response, response symbolism
+I:8628;332;do, have, something, say, sharpest, act, have, see, do have, have something, something say, say sharpest, sharpest act, act have, have see
+I:8628;333;throw, magnificent, portrayal, sexy, eat, heart, have, couple, year, throw magnificent, magnificent portrayal, portrayal sexy, sexy eat, eat heart, heart have, have couple, couple year
+I:8628;334;sibling, be, brilliant, eccentric, sibling be, be brilliant, brilliant eccentric
+I:8628;335;culture, drug, hair, hippie, sexual, openness, shiftless, lifestyle, culture drug, drug hair, hair hippie, hippie sexual, sexual openness, openness shiftless, shiftless lifestyle
+I:8628;336;film, give, film give
+I:8628;337;pessimist, dream, movie, pessimist dream, dream movie
+I:8628;338;performance, be, doubt, superior, material, be, second, performance be, be doubt, doubt superior, superior material, material be, be second
+I:8628;339;performance, be, layer, angst, passion, soft, performance be, be layer, layer angst, angst passion, passion soft
+I:8628;340;support, bad, be, have, good, role, wonderful, entire, ensemble, provide, thought, support bad, bad be, be have, have good, good role, role wonderful, wonderful entire, entire ensemble, ensemble provide, provide thought
+I:8628;341;provoke, study, rewarding, life, work, bad, choice, provoke study, study rewarding, rewarding life, life work, work bad, bad choice
+I:8628;342;be, much, character, be much, much character
+I:8628;343;drive, film, give, actor, free, reign, wise, decision, drive film, film give, give actor, actor free, free reign, reign wise, wise decision
+I:8628;344;standpoint, historical, value, film, be, instructive, standpoint historical, historical value, value film, film be, be instructive
+I:8628;345;be, contemparary, american, adaptation, best, be contemparary, contemparary american, american adaptation, adaptation best
+I:8628;346;be, modern, day, morality, play, dramatize, war, rage, human, spirit, flesh, stake, be, salvation, damnation, man, eternal, soul, be modern, modern day, day morality, morality play, play dramatize, dramatize war, war rage, rage human, human spirit, spirit flesh, flesh stake, stake be, be salvation, salvation damnation, damnation man, man eternal, eternal soul
+I:8628;347;film, appear, bit, dated, ominous, message, deliver, personal, self, film appear, appear bit, bit dated, dated ominous, ominous message, message deliver, deliver personal, personal self
+I:8628;348;music, play, important, role, story, represent, music play, play important, important role, role story, story represent
+I:8628;349;song, have, be, vilify, feminist, be, humiliating, woman, convey, love, spiritual, level, be, paradoxical, carnal, man, song have, have be, be vilify, vilify feminist, feminist be, be humiliating, humiliating woman, woman convey, convey love, love spiritual, spiritual level, level be, be paradoxical, paradoxical carnal, carnal man
+I:8628;350;paraphrase, message, want, love, give, love, paraphrase message, message want, want love, love give, give love
+I:8628;351;journey, home, conclude, ferry, boat, ride, island, journey home, home conclude, conclude ferry, ferry boat, boat ride, ride island
+I:8628;352;house, have, aura, quiet, solemnity, be, fill, furniture, appliance, have, change, be, initial, habitation, house have, have aura, aura quiet, quiet solemnity, solemnity be, be fill, fill furniture, furniture appliance, appliance have, have change, change be, be initial, initial habitation
+I:8628;353;have, get, jacket, have get, get jacket
+I:8628;354;be, extraordinary, treat, see, film, find, funny, year, find, remember, be extraordinary, extraordinary treat, treat see, see film, film find, find funny, funny year, year find, find remember
+I:8628;355;be, fun, be, unhollywood, be, theme, be fun, fun be, be unhollywood, unhollywood be, be theme
+I:8628;356;deliver, character, multi, deliver character, character multi
+I:8628;357;facate, complex, ugliness, charm, see, potential, great, artist, spite, facate complex, complex ugliness, ugliness charm, charm see, see potential, potential great, great artist, artist spite
+I:8628;358;remember, wonderful, actress, beauty, remember wonderful, wonderful actress, actress beauty
+I:8628;359;be, little, be little
+I:8628;360;find, work, oil, field, live, girl, friend, be, grow, restless, surroundings, find work, work oil, oil field, field live, live girl, girl friend, friend be, be grow, grow restless, restless surroundings
+I:8628;361;film, follow, receive, news, father, be, die, return, home, film follow, follow receive, receive news, news father, father be, be die, die return, return home
+I:8628;362;be, great, many, descriptive, scene, film, great, acting, be great, great many, many descriptive, descriptive scene, scene film, film great, great acting
+I:8628;363;scene, resturant, have, become, classic, scene resturant, resturant have, have become, become classic
+I:8628;364;film, be, best, film be, be best
+I:8628;365;be, way, suggest, be, stunning, performance, create, certain, expectation, be, courageous, exception, be way, way suggest, suggest be, be stunning, stunning performance, performance create, create certain, certain expectation, expectation be, be courageous, courageous exception
+I:8628;366;share, common, other, bloodline, be, love, classical, music, share common, common other, other bloodline, bloodline be, be love, love classical, classical music
+I:8628;367;direct, cast, provide, number, excellent, performance, be, sync, other, be, era, live, direct cast, cast provide, provide number, number excellent, excellent performance, performance be, be sync, sync other, other be, be era, era live
+I:8628;368;portray, performance, deserving, more, praise, have, receive, rayette, be, pregnant, girlfriend, portray performance, performance deserving, deserving more, more praise, praise have, have receive, receive rayette, rayette be, be pregnant, pregnant girlfriend
+I:8628;369;yearn, stand, man, yearn stand, stand man
+I:8628;370;poignant, moment, film, occur, return, home, be, reunite, father, sister, brother, wife, poignant moment, moment film, film occur, occur return, return home, home be, be reunite, reunite father, father sister, sister brother, brother wife
+I:8628;371;combine, angst, apathy, combine angst, angst apathy
+I:8628;372;emotional, range, versatility, be, stunning, emotional range, range versatility, versatility be, be stunning
+I:8628;373;be, breakthrough, performance, know, best, work, lie, be breakthrough, breakthrough performance, performance know, know best, best work, work lie
+I:8628;374;earlier, film, tragi, earlier film, film tragi
+I:8628;375;be, gritty, heartbreaking, give, good, picture, american, culture, early, 1970, be gritty, gritty heartbreaking, heartbreaking give, give good, good picture, picture american, american culture, culture early, early 1970
+I:8628;376;favorite, nicholson, movie, favorite nicholson, nicholson movie
+I:8628;377;be, understate, movie, be understate, understate movie
+I:8628;378;hard, find, plot, manage, keep, interested, be, go, hard find, find plot, plot manage, manage keep, keep interested, interested be, be go
+I:8628;379;give, terrific, performance, give terrific, terrific performance
+I:8628;380;movie, be, do, plan, movie be, be do, do plan
+I:8628;381;see, be, study, film, school, example, good, acting, directing, see be, be study, study film, film school, school example, example good, good acting, acting directing
+I:8628;382;believe, movie, be, brilliant, entertaining, do, find, be, believe movie, movie be, be brilliant, brilliant entertaining, entertaining do, do find, find be
+I:8628;383;favorite, scene, fep, be, get, testy, waitress, diner, favorite scene, scene fep, fep be, be get, get testy, testy waitress, waitress diner
+I:8628;384;be, best, be best
+I:8628;385;be, admire, sympathize, hero, be, way, creep, charming, creep, be admire, admire sympathize, sympathize hero, hero be, be way, way creep, creep charming, charming creep
+I:8628;386;now?nicholson, play, do, now?nicholson play, play do
+I:8628;387;admit, find, babyish, self, admit find, find babyish, babyish self
+I:8628;388;say, enjoy, see, many, actor, past, prime, story, be, blue, collar, jerk, be, pompous, jerk, money, end, be, drifter, jerk, say enjoy, enjoy see, see many, many actor, actor past, past prime, prime story, story be, be blue, blue collar, collar jerk, jerk be, be pompous, pompous jerk, jerk money, money end, end be, be drifter, drifter jerk
+I:8628;389;particular, scene, movie, have, become, legendary, be, typical, entire, film, particular scene, scene movie, movie have, have become, become legendary, legendary be, be typical, typical entire, entire film
+I:8628;390;action, reveal, intelligence, requisite, anti, action reveal, reveal intelligence, intelligence requisite, requisite anti
+I:8628;391;philander, way, reveal, moral, awareness, complexity, demonstrate, decision, see, father, take, trip, philander way, way reveal, reveal moral, moral awareness, awareness complexity, complexity demonstrate, demonstrate decision, decision see, see father, father take, take trip
+I:8628;392;aspect, create, expectation, psychological, understanding, compelling, viewer, attach, motivation, mean, action, aspect create, create expectation, expectation psychological, psychological understanding, understanding compelling, compelling viewer, viewer attach, attach motivation, motivation mean, mean action
+I:8628;393;bobby, romantic, relationship, be, manifestation, internal, conflict, bobby romantic, romantic relationship, relationship be, be manifestation, manifestation internal, internal conflict
+I:8628;394;know, be, uneducated, intelligence, level, be, questionable, know be, be uneducated, uneducated intelligence, intelligence level, level be, be questionable
+I:8628;395;treat, respect, quality, least, juxtapose, value, upbringing, treat respect, respect quality, quality least, least juxtapose, juxtapose value, value upbringing
+I:8628;396;regard, be, reveal, defense, character, humanity, parlor, scene, regard be, be reveal, reveal defense, defense character, character humanity, humanity parlor, parlor scene
+I:8628;397;be, opposite, mirror, necessary, manifestation, internal, conflict, be, honest, romantic, interest, be opposite, opposite mirror, mirror necessary, necessary manifestation, manifestation internal, internal conflict, conflict be, be honest, honest romantic, romantic interest
+I:8628;398;wrap, make, believe, be, one, wrap make, make believe, believe be, be one
+I:8628;399;help, identify, solve, problem, get, revisit, make, challenging, storyline, movie, help identify, identify solve, solve problem, problem get, get revisit, revisit make, make challenging, challenging storyline, storyline movie
+I:8628;400;soundtrack, opening, scene, feature, singing, stand, your, man, be, involve, absorb, character, study, soundtrack opening, opening scene, scene feature, feature singing, singing stand, stand your, your man, man be, be involve, involve absorb, absorb character, character study
+I:8628;401;film, be, relationship, character, development, be, act, be, vital, such, film, film be, be relationship, relationship character, character development, development be, be act, act be, be vital, vital such, such film
+I:8628;402;ending, film, be, surprising, fit, pattern, choose, easy, piece, ending film, film be, be surprising, surprising fit, fit pattern, pattern choose, choose easy, easy piece
+I:8628;403;think, be, go, be, good, movie, think be, be go, go be, be good, good movie
+I:8628;404;enjoy, watch, movie, year, complete, enjoy watch, watch movie, movie year, year complete
+I:8628;405;shine, extraordinary, film, writer/director, shine extraordinary, extraordinary film, film writer/director
+I:8628;406;be, womanizer, live, waitress, hate, love, be womanizer, womanizer live, live waitress, waitress hate, hate love
+I:8628;407;ask, do, chicken, tell, hold, knee, ask do, do chicken, chicken tell, tell hold, hold knee
+I:8628;408;be, funny, forget, great, older, film, be, be funny, funny forget, forget great, great older, older film, film be
+I:8628;409;movie, get, good, review, be, try, figure, movie get, get good, good review, review be, be try, try figure
+I:8628;410;waste, time, be, concerned, waste time, time be, be concerned
+I:8628;411;easy, piece, great, movie, great, performance, good, reminder, find, own, right, place, society, easy piece, piece great, great movie, movie great, great performance, performance good, good reminder, reminder find, find own, own right, right place, place society
+I:8628;412;be, look, harmony, harmony, be, ultimate, peace, mind, be look, look harmony, harmony harmony, harmony be, be ultimate, ultimate peace, peace mind
+I:8628;413;do, finest, work, quiet, thoughtful, character, study, man, be, satisfy, work, family, friend, lover, music, anything, do finest, finest work, work quiet, quiet thoughtful, thoughtful character, character study, study man, man be, be satisfy, satisfy work, work family, family friend, friend lover, lover music, music anything
+I:8628;414;shine, ditsy, sweet, girlfriend, abandon, good, leave, jacket, cold, weather, mirror, coldness, best, effective, film, ending, shine ditsy, ditsy sweet, sweet girlfriend, girlfriend abandon, abandon good, good leave, leave jacket, jacket cold, cold weather, weather mirror, mirror coldness, coldness best, best effective, effective film, film ending
+I:8628;415;be, movie, plenty, zeitgeist, confrontation, waitress, female, hitch, be movie, movie plenty, plenty zeitgeist, zeitgeist confrontation, confrontation waitress, waitress female, female hitch
+I:8628;416;have, see, come, video, be, rage, be, surprise, remember, have see, see come, come video, video be, be rage, rage be, be surprise, surprise remember
+I:8628;417;reviewer, seem, have, miss, be, other, funny, bit, ping, reviewer seem, seem have, have miss, miss be, be other, other funny, funny bit, bit ping
+I:8628;418;scene, be, hilarious, mannered, goofy, performance, fact, brother, middle, name, be, scene be, be hilarious, hilarious mannered, mannered goofy, goofy performance, performance fact, fact brother, brother middle, middle name, name be
+I:8628;419;be, name, classical, music, buff, be name, name classical, classical music, music buff
+I:8628;420;good, humor, be, wonderful, performance, good humor, humor be, be wonderful, wonderful performance
+I:8628;421;best, be, beautiful, ferry, scene, best be, be beautiful, beautiful ferry, ferry scene
+I:8628;422;film, be, worth, see, film be, be worth, worth see
+I:8628;423;be, era, great, understandable, movie, be era, era great, great understandable, understandable movie
+I:8628;424;one, have, make, mind, one have, have make, make mind
+I:8628;425;movie, keep, prime, membership, trial, period, movie keep, keep prime, prime membership, membership trial, trial period
+I:8628;426;surprise, be, consider, best, picture, entertaining, surprise be, be consider, consider best, best picture, picture entertaining
+I:8628;427;do, good, job, role, do good, good job, job role
+I:8628;428;iq, conflict, be, portray, iq conflict, conflict be, be portray
+I:8628;429;character, be, play, show, sympathetic, character, trait, character be, be play, play show, show sympathetic, sympathetic character, character trait
+I:8628;430;first, scene, sing, car, come, family, make, big, effort, be, nice, be, example, first scene, scene sing, sing car, car come, come family, family make, make big, big effort, effort be, be nice, nice be, be example
+I:8628;431;be, true, blue, humour, lie, accuracy, render, contrast, be true, true blue, blue humour, humour lie, lie accuracy, accuracy render, render contrast

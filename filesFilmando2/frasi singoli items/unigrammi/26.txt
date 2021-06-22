@@ -1,0 +1,595 @@
+I:10113;1;be, shape, experience, idea, film, art
+I:10113;2;answer, want, feel, good, make
+I:10113;3;popular, influential, movie, time, masterpiece, be, present, remaster, entire, rich, moody, black, white, splendor
+I:10113;4;score, remain, crisp, expressive, smooth, evocative, camera, work, have, be, equal
+I:10113;5;image, glow, light, angst, pain, shallowness, '60, be, mirror, radiant, face
+I:10113;6;remind, year, film, initial, release, tale, celebrity, gossip, monger, float, life, search, meaning, have, aged, scene, luminous, ekberg, bask, roman, fountain, be, awe, inspiring, be, master, movie, maker, twentieth, century
+I:10113;7;be, old, movie, demonstrate, freedom, speech, didnt, start, century, manage, watch, opus
+I:10113;8;good, be, king
+I:10113;9;rate, newspaper, man, write, gossip, column
+I:10113;10;want, be, respected, reporter
+I:10113;11;movie, other, movie, contain, thing, story
+I:10113;12;movie, charm, be, style, wonderful, music
+I:10113;13;line, mind, drift, past
+I:10113;14;offer, great, location, shot
+I:10113;15;be, many, priceless, visual, shot, movie, do, want, spoil, have, see, movie
+I:10113;16;be, feel, tell
+I:10113;17;scene, be, shoot
+I:10113;18;act, movie, be, enjoyable
+I:10113;19;usual, steal, show
+I:10113;20;movie, be, nominate, oscar, win, best, costume, design
+I:10113;21;park, car, beautiful, people, jam, night
+I:10113;22;payoff, start, emerge, many, iconic, scene, movie
+I:10113;23;opening, sequence, show, enormous, concrete, figure, haul, helicopter
+I:10113;24;balinese, dance, nightclub
+I:10113;25;admire, host, civilized, living, room, full, book, music, pretty, wife, adorable, child
+I:10113;26;relate, personal, bleakness, camera, hold, tight, shot
+I:10113;27;class, party, full, rich, people, high
+I:10113;28;be, film, full, irony, title, nothing, life, be, sweet
+I:10113;29;be, pilgrim, stampede, think, be, sight, miracle, destroy, evidence, process
+I:10113;30;be, film, single, tragic, irony, career, advance, suicide
+I:10113;31;be, indebted, film, critic, remark, film, good, commentary, track, get, other, way, top
+I:10113;32;be, existential, search, meaning
+I:10113;33;handsome, feckless, lead, man, distinct, anti
+I:10113;34;heroish, streak, be, rare, american, cinema
+I:10113;35;bell, helicopter, hammer, home, theme, alienation, such, tonic, wit, visual, audacity, amuse
+I:10113;36;celebrity, have, life
+I:10113;37;be, movie, play, become, international, star, symbol, modern, european, disillusionment, anomie
+I:10113;38;act, structure, movie, more, picaresque, form, count, keep, concern, wonder, be, come
+I:10113;39;few, word, witty, musical, score, blend, innovative, new, ultramodern, music, word, perform, pre
+I:10113;40;disc, version, make, ensemble, satisfying, extra, money
+I:10113;41;do, realize, most, people, film, fan, be, passionate, other, recommend, see, film, odds, be, good, want, splurge, deluxe, edition, hand
+I:10113;42;maximalist, script, beautiful, vision, myth, celebrity, modernity
+I:10113;43;film, be, most, friend, consider, greatest
+I:10113;44;adore, admire, consider, masterpiece
+I:10113;45;feel, be, more, accomplished, work, one, flock, longing, say, translate, be, outstanding, representation, advanced, foreign, cinema, be, experience, state
+I:10113;46;italian, gem, possess, gusto, more, acute, sense, realism, more, profound, intellect, %, have, release, stateside
+I:10113;47;be, knock, american, cinema, love, be, move, realism, passion, be, find, foreign, release, release, change, way, american, cinema, be, construct
+I:10113;48;deliver, charm, wit, rage, depression, sensuality, hysteria, apathy
+I:10113;49;be, marvelous, top, bottom
+I:10113;50;film, be, brilliant, look, way, life, encompass, conform, be, fight, say, conformation
+I:10113;51;sobering, human, symbolic, end, have, see
+I:10113;52;last, shot, give, end, happy, note, depend, view, show, be, be, passionate, unclouded, life
+I:10113;53;say, be, utter, garbage, be, testimony, power, film, captivate, stimulate, mind
+I:10113;54;hate, bash, do, love, film
+I:10113;55;be, unsure, think, peek, life, rich, beautiful
+I:10113;56;buy, effort, put, decent, collection, italian, film, watch, examination, life
+I:10113;57;watch, manner, go, record, explain, motivate, produce, film, help
+I:10113;58;more, film, rich, beautiful, be, film, thing, want, fill, life
+I:10113;59;be, remind, way, other, half, life, deem, important
+I:10113;60;digital, transfer, be, gorgeous
+I:10113;61;presence, speak, volume, entire, career, have, nothing
+I:10113;62;performance, be, bit, good, be, be, better, film
+I:10113;63;regard, strongest
+I:10113;64;real, life, intrude, glossy, soma
+I:10113;65;presence, change, event, be, record
+I:10113;66;life, be, sweet, surface, level
+I:10113;67;message, be, profound, hope, future, viewer, continue, internalize
+I:10113;68;great, classic, film, show, glory
+I:10113;69;be, list
+I:10113;70;picture, cover, indeterminate, number, day, life, italian, gossip, columnist, believe
+I:10113;71;be, see, many, location, movie, be, shoot, great, construction, effort, be, real
+I:10113;72;hour, movie, whole, point, movie, be, life, experience, observer
+I:10113;73;commentator, movie, have, develop, lot, theory, image, allusion, statement, make, business, dialogue, movie
+I:10113;74;clerical, message, derive, movie, be, real, conservative
+I:10113;75;mean, be, minute, be, richest, cinematic, environment, create, filmmaker
+I:10113;76;movie, be, italian, be, few, memorable, quote, dialogue, have, excellent, memory, line, think, play, speak, paparazzi
+I:10113;77;be, free, object, observation
+I:10113;78;be, more, observation, find, issue
+I:10113;79;realistic, work, later, impressionistic, work, such
+I:10113;80;contrast, next, film, be, consider, best
+I:10113;81;be, great, movie, believe, be, best
+I:10113;82;be, best, film, make
+I:10113;83;be, crown, jewel, overindulgent, masterpiece
+I:10113;84;be, best, work
+I:10113;85;be, sure, view, context, time, release, be, shocking, unblinking, eye, high, society, sweet, life, debauchery
+I:10113;86;be, film, make, name, know, worldwide, view, oeuvre, be
+I:10113;87;segment, be, entertaining, other, have, be, edit, length
+I:10113;88;be, lot, dissect
+I:10113;89;be, stunning, film, watch, segment
+I:10113;90;theme, paparazzi, phrase, fan, know, be, coin, character, film, fascination, high, society, culture, be, relevant, today
+I:10113;91;be, great, starting, point, new, poetic, world, say, be, best
+I:10113;92;depiction, man, brink, have, choose, save, life, lose, soul, give, life, save
+I:10113;93;choice, freedom, choose
+I:10113;94;take, burden, have, choose, leave, faceless, government, intricate, bureaucratic, system, regulate, life, decide, future
+I:10113;95;everything, be, ambiguous, title, sweet, life, bitterseet, be
+I:10113;96;spirit, flesh
+I:10113;97;be, easy, love, oneself, give, passion, flesh, wickedness, selfishness
+I:10113;98;be, give, star
+I:10113;99;be, opinion, contrary, majority, reviewer, satisfy, other, film, less, symbolism, meat
+I:10113;100;love, end
+I:10113;101;iconic, imagery, intimacy, elicit, scope, story, leave, deep, impression, make, admirer, life
+I:10113;102;be, profound, eye, filling, structured, film, follow, jaded, journalist, quest, discover, something, meaningful, lasting, value, life
+I:10113;103;marcello, italian, equivalent, be, brilliant, complex, idealistic, hero
+I:10113;104;be, great, signature, role, glamorous, movie, star, carefree, lifestyle, mask, troubled, relationship, abusive, actor/boyfriend, play
+I:10113;105;film, famous, scene, be, sensual, cavorting
+I:10113;106;help, make, relevant, influential, film, time, reflect, change, attitude, european, society, dawn, new, decade
+I:10113;107;receive, have, be, regard, cinematic, landmark, masterpiece
+I:10113;108;be, smorgasbord, supplemental, material, include, introduction, director, insightful, commentary, critic, collection, shorts, interview, musical, montage, documentary, composer, discussion, theme, footage, film, screenwriter
+I:10113;109;page, illustrate, booklet, x7, photo, x17, poster, round, sumptuous, package
+I:10113;110;life, be, sweet, classic, movie, add, spice
+I:10113;111;hour, film, be, overpower, stark, roman, cityscape
+I:10113;112;film, be, intelligent, complex
+I:10113;113;be, passive, dependent, jealous, insecure, beautiful
+I:10113;114;be, boy
+I:10113;115;toy, rich, shallow
+I:10113;116;be, beautiful, rich, distractable, bored, amoral
+I:10113;117;be, beautiful, swedish, actress
+I:10113;118;be, serve, satyr, actor, open, air, nightclub, romp
+I:10113;119;put, stray, kitten, hair, howl, dog, be, domination, man
+I:10113;120;multiple, character, situation, come, go, reveal, struggle, define
+I:10113;121;many, way, film, be, dream, scene, link, tentative, way
+I:10113;122;scene, be, full, stranger, stunning, dress, populate, world, decadence
+I:10113;123;marcello, try, establish, honest, communication, playboy, father, be, hold, arm, lenght, sophisticated, lady, man
+I:10113;124;idolize, brilliant, talented, writer, composer
+I:10113;125;long, be, serious, writer, be, fascinate, literary, intelligencia, surround, beautiful, wife
+I:10113;126;inner, demon, cause, kill, child, commit, suicide, deprive, mentor, model, stability, respect, graceful, successful, artist
+I:10113;127;have, lose, muse, be, power, woman
+I:10113;128;beauty, grand, dream, be, interpretation, be, endless
+I:10113;129;film, represent, pinnacle, success
+I:10113;130;be, autobiographical, consider, companion, piece, film
+I:10113;131;main, character, be, catch, web, late, night, early, dawn, be, much, symbolism, ponder
+I:10113;132;performance, parody, be, price, admission
+I:10113;133;video, be, good, condition, play
+I:10113;134;be, review, have, agree
+I:10113;135;be, masterpiece, cinema, collection, international, film, live
+I:10113;136;teller, love, be, inclusion, frame
+I:10113;137;issue, poster, craft, book, page
+I:10113;138;commend, folk, think, allow, picture, be, sturdy, maintain, beauty
+I:10113;139;receive, box, gift, plan, give, gift, year, several, people, know, cherish, year, come
+I:10113;140;ironic, title, have, be, use, motion, picture, history, film, commentary, modern, hedonism, anomy, film, be, best, film, canon, combine
+I:10113;141;realism, earlier, classic, admix, surreal, touch, later, classic
+I:10113;142;plus, be, best, write, ambitious, film
+I:10113;143;film, be, couple, immediate, successor, film, compare, most, critic
+I:10113;144;be, superior, film, be, bit, minute, short, full, hour, be, fat, be, trim
+I:10113;145;be, explain, pay, attention, film
+I:10113;146;behavior, be, cause, motivation, scene, see, other, minor, character
+I:10113;147;film, screenplay, write, be, impressive, write, brilliance, boundary, push, open, film, art, form
+I:10113;148;usual, provide, superb, musical, score
+I:10113;149;art, direction, cinematography, be, top, notch
+I:10113;150;acting, be, first, rate
+I:10113;151;grant, acting, be, other, female, film, be, top, notch, support, cast, do
+I:10113;152;be, great, work, art, greatest, artist, last, century, statement, be, hint, irony
+I:10113;153;great, way, learn, italian
+I:10113;154;be, wonderful, see, fountain, scene, whatshername, say, do, speak, italian, time, be, chemistry
+I:10113;155;live, speak, language
+I:10113;156;present, several, existential, choice, main, character, play, marvelous
+I:10113;157;elegant, encapsulation, attempt, unpack, film, meaning, many, memorable, scene, many, subsequent, film, allude, be, better, reason, cherish
+I:10113;158;excellent, b/w, film, base, content, circumstance, dialogue
+I:10113;159;deal, insurmountable, problem, hair, suit, look, great
+I:10113;160;world, war, european, cinema
+I:10113;161;movie, have, visual, style, burn, use, anamorphic, composition, have, be, equal, idea, offer, panorama, high, life, experience, reporter, few, day, remain, brilliant, inspiration, today
+I:10113;162;take, best, thing, do, be, forget, sermonizing, dig, fabulous, party
+I:10113;163;such, exquisite, symbolism
+I:10113;164;be, movie
+I:10113;165;loathing, take?there, be, thing, worth, mention
+I:10113;166;stunning, behold, include, interesting, performance, pre
+I:10113;167;other, work, be, appreciate
+I:10113;168;character, be, object, fan, worship, emptiness
+I:10113;169;end, movie, be, beach, see, young, woman, distance, believe, family, memory, be, correct
+I:10113;170;view, end, hope, character, realize, beauty, appreciation, life, be, innocense, decency, debauchery, materialism, empty, self
+I:10113;171;be, hope, individual
+I:10113;172;film, message, be, timely
+I:10113;173;public, be, treat, attempt, engender, envy, life, entertainment, idol, afford, best, food, retreat, resort, cost, thousand, dollar, night
+I:10113;174;recommend, movie, anyone, reminder, need, present, time, moral, compass
+I:10113;175;be, movie, thoughtful, aspect
+I:10113;176;be, favorite, film, time, richest, film, experience
+I:10113;177;culture, soul, decline
+I:10113;178;be, superb, visual, symbol, illusion, other, film, fascinating, be, ostentatious
+I:10113;179;love, moment, achieve, thematic, relevance, beauty, be, poignancy, power, surreal, image
+I:10113;180;teem, world, moral, incongruity, be, view, jade, romantic, eye
+I:10113;181;close, beautiful, pure, face, address, camera, word, hear, give, last, chance, salvation, be, spectacular
+I:10113;182;be, finest, hour
+I:10113;183;film, be, honest, sobering, insightful, look, personal, struggle, man, personal, shadow, box, order, carve, shallow, existence, world
+I:10113;184;surface, be, high, rolling, womanize, journalist, living, charmed, life
+I:10113;185;be, surreal, spontaneous, scene, film
+I:10113;186;be, beautiful, disturbing, film, have, see
+I:10113;187;be, lay, picture, ruin, image
+I:10113;188;legendary, film, classic, have, content, cassette, chunky, tape, semi
+I:10113;189;bear, american, movie, star, play
+I:10113;190;have, decadence, look, attractive, photograph, black
+I:10113;191;be, story, engross
+I:10113;192;fascinate, circus, know, hold, audience, attention, have, ring, go, tremendous, life, force, degeneration, closing, shot, innocent, girl, smile, hope
+I:10113;193;have, do, be, sit, glass, enjoy, show
+I:10113;194;film, be, entice, sad, same, time
+I:10113;195;viewer, be, entice, pleasure, seek, include, strip, tease, woman, resemble, be, shock, tragic
+I:10113;196;film, be, great, someone, like, try, new, thing, film
+I:10113;197;rate, film, lowest, rating
+I:10113;198;be, pure, fun, action, comparison
+I:10113;199;be, same, exact, thing, extra, disc, collectable, picture, poster
+I:10113;200;watch, find, scene, apartment, be, fascinating
+I:10113;201;be, top, notch
+I:10113;202;half, be, top, favorite
+I:10113;203;loathing, give, viewer, plenty, room, act, interpreter, play, theme, antithesis, film
+I:10113;204;hold, interest, course, hour, film
+I:10113;205;cast, be, superior, personal, charm, powerful
+I:10113;206;usual, be, lot, look, screen, have, drop, wild, surrealism, be, know, be, few, surrealistic, flourish, visual, irony
+I:10113;207;do, let, discourage, format, worth, memorable, film
+I:10113;208;aspire, be, intellectual, idealize, friend, imagine, life, be, perfect, blend, serious, purpose, family, warmth
+I:10113;209;guardedness, affect, romantic, relationship
+I:10113;210;be, steady, girlfriend, want, commitment, be, unwilling, provide
+I:10113;211;dally, movie, star, such, zaftig, charm, show, much, standard, cinematic, beauty, have, change, year
+I:10113;212;move, encounter, be, young, girl, country, waitress, seaside, resort
+I:10113;213;jade, be, draw, innocence, optimism, take, younger, self, fresh, arrival, big, city
+I:10113;214;be, rich, movie, energetic, invention, keep, hooked, be, hour
+I:10113;215;expect, cinema, world, master, be, lot, artful, filmmaking
+I:10113;216;innovative, night, photography, playful, musical, score, brilliant, arrest, visual, such, opening, shot, statue, be, airlift, helicopter, city
+I:10113;217;many, major, preoccupation, be, display
+I:10113;218;nostalgia, simple, natural, life, country, be, play, interaction, young, waitress
+I:10113;219;carnival, be, italian, be, bring, life, young, child, claim, have, vision, way, jerk, chain, elder
+I:10113;220;warmth, character, instance
+I:10113;221;be, best, be, use, cinematic, imagery, create, dreamlike, flow, story
+I:10113;222;return, root, make, amazing, fusion, realism, surrealism
+I:10113;223;be, best, movie, greatest, movie, make
+I:10113;224;be, good, shock, value, have, be, dilute, time, be, worth, see, effortless, virtuosity, privilege, watch, great, director, capture, pass, parade
+I:10113;225;watch, first, time, be, be, surprise, watch, more, be, make, discovery
+I:10113;226;scope, be, amazing
+I:10113;227;represent, line, older, newer, film, leave, sentimentality, extent, embrace, world, fantasy, existentialism
+I:10113;228;be, beneficial, way, process, be, introduce, beautiful, piece, cinema, storytelling, have, come
+I:10113;229;best, twee, hour, allow, theme, imagry, carry, story, surreal, familiar, setting
+I:10113;230;mention, glorious, b&w, cinematography
+I:10113;231;happy, little, nico, underground, spark, screen, happiness, youth, sparrow
+I:10113;232;be, grand, role
+I:10113;233;be, prime, beauty, fit, whole, nonsense, film
+I:10113;234;talented, eye
+I:10113;235;surrealist, picture, be, magical, mysterious, tour, bizarre, world, emotion, have, be, lessen, social, conventionalism, double, moral, frivolity, epidemical, vision, unresolved, gilt, easy, go, approach, do, seem, be
+I:10113;236;sublime, artistic, feat, dilemma, be, diminish, have, be, grow, prove, magisterial, precognition, penetrate, sight, social, body
+I:10113;237;movie, be, cool, hang, party, crowd, trash, somebody, apartment
+I:10113;238;be, see, course, msut, love
+I:10113;239;be, familiar, city, monument, smell, people, enjoy
+I:10113;240;aspire, philisophical, pretention, appeal, film, rock, see, it!this, reviewer, recommend, raging, bull
+I:10113;241;think, be, perfect, example, style, world, cinema, name, creator
+I:10113;242;inspire, work, film, stand, greatest, italian, film, make
+I:10113;243;be, package, appear, expensive, be
+I:10113;244;arrive, package, time
+I:10113;245;win, multiple, award
+I:10113;246;many, other, film, make, previous, be, nominate, win, award
+I:10113;247;film, message, be, meaningful, today, usa, society, have, reach, same, level, shallow, decadence, narcissism, appear, late
+I:10113;248;masterpiece, rank, rule, game, best, foreign, language, movie, make
+I:10113;249;be, sympathetic, say
+I:10113;250;pleasure, upper
+I:10113;251;be, good, life, right
+I:10113;252;give, unforgettable, performance, be, real, star
+I:10113;253;up, camera, angle, be, perfect
+I:10113;254;be, work, expert, craftsmanship
+I:10113;255;be, movie, amazing, technical, level, show, true, vision
+I:10113;256;show, rich, be, only, exception, be, possession, money
+I:10113;257;rambling, movie, go, be, best, make
+I:10113;258;paint, picture, picture, have, purpose
+I:10113;259;recommend, drink, viewing
+I:10113;260;drink, character
+I:10113;261;film, be, greatest, entertaining
+I:10113;262;concern, life, journalist, examine, self, indulgent, upper, class, become, part
+I:10113;263;look, stunning, flawless
+I:10113;264;have, see, full, screen, version, tv, video, be, delighted, see, film, be, original, widescreen, format, be, amazing, behold
+I:10113;265;include, be, wealth, special, feature, be, bind, please, fan, film
+I:10113;266;recommend, fan, european, cinema
+I:10113;267;story, be, valuable, show, lifestyle, celebrity, aristocracy, standard, be, form, lifestyle
+I:10113;268;story, reveal, side, sweet, life, be, untold, unnoticed
+I:10113;269;serve, remind, be, important, break, common, illusion, misconception, life, glamour
+I:10113;270;story, exemplify, many, facet, humanity, be, universal, timeless
+I:10113;271;way, element, style, be, use, serve, increase, worth, film, intensify, force, cultural, value, be, present
+I:10113;272;write, tell, other, element, film, style, contribute, much, sense, film, mean, more
+I:10113;273;breakthrough, film
+I:10113;274;sporadic, tale, move, city, paparazzi, ready, catch, action, have, power, make, break, cover
+I:10113;275;celeb, attend, nightclub, party, go, dawn, be, give, intellectual, hedonist, decadent, rich, various, other, party
+I:10113;276;such, memorable, scene, be, false, miracle, media, have, field, day, pair, child, claim, have, see, moving, scene, be, suicide, intellectual, friend, be, do, compassion, upright, vic, orgy, become, film, reason, be
+I:10113;277;warmest, scene, have, meeting, father, tempting, sweet, life
+I:10113;278;film, be, more, be, statement, artist, want, make, movie, real, life, fanciful, art
+I:10113;279;be, winsome, stylish, cinematography, fill, screen, mind
+I:10113;280;be, special, film, have, become, date, point, finger, decadence, certain, titillation, seem, be, ground, sophisticated, attitude, need, search, way, find, sublime
+I:10113;281;be, interesting, personal, reason
+I:10113;282;be, point, movie, be, successful
+I:10113;283;movie, be, beginning, new, era, movie, making
+I:10113;284;be, neurotic, suicidal, mistress, be, rich, play
+I:10113;285;famous, entertaining, sequence, marvelous, performance, play, actress, former, fiance
+I:10113;286;bring, much, energy, role, keep, first, part, movie
+I:10113;287;heart, movie, be
+I:10113;288;use, be, clever, have, become, symbol, european, spirituality
+I:10113;289;daring, time
+I:10113;290;hour, run, time, include, procession, unforgettable, image, scene
+I:10113;291;observe, absorb, study, dizzying, decadence
+I:10113;292;favorite, film, combine, brilliant, kaleidescopic, parading, face, characterize, later, film, humanistic, neorealism, earlier, work
+I:10113;293;single, performance, trivial, part, be, astounding, best, capture, film
+I:10113;294;personal, favorite, be, clown, trumpet, player, balloon
+I:10113;295;middle, performance, flash, quick, look, speak, volume
+I:10113;296;instance, come, great, italian, lover, have, find, woman, dream, rediscover, hour, commit, person
+I:10113;297;put, start
+I:10113;298;dimensional, reference, be, interesting, portrayal, man, role, life, seem, fall, participant, observer
+I:10113;299;be, interesting, daring, focus, early, italian, pop, underground, culture, come, shocking, viewer, year
+I:10113;300;course, be, review, do, need, review, perfect, film, watch, enjoy
+I:10113;301;be, expect, release, date, prepare, watch, party, lovely
+I:10113;302;wonder, be, such, classic, movie
+I:10113;303;consider, many, be, masterpiece, be
+I:10113;304;hour, long, film, be, low, plot, be, doubt, masterpiece
+I:10113;305;be, great, thing, film, spontaneity
+I:10113;306;be, get, mood, atmosphere, anyone, recognize, film
+I:10113;307;title, fit, film
+I:10113;308;film, watch, hopeless, protagonist, search, sweet, life
+I:10113;309;have, childish, innocence, have, young, man, transition, world
+I:10113;310;weary, man, form, director
+I:10113;311;be, interesting, notice, film, play, trilogy
+I:10113;312;be, star, film, way, fact, owe, thanks, score
+I:10113;313;be, masterpiece
+I:10113;314;be, be, worth
+I:10113;315;be, spectacular, example, paradox, have, see
+I:10113;316;celebrity, reporter, walk, line, live, real, life, create, thin, air, manipulate, people, know, love, hide, emotion, veneer, indifference, threaten, suffocate
+I:10113;317;love, sex, life, death, friendship, family, religion, reality
+I:10113;318;be, regard, most, personal, film, endure, testament, have, vote, masterpiece
+I:10113;319;understated, film, be, fill, majestic, image, burn, subconscious, invite, subsequent, viewing, burst, undiscussed, passion, intention, be, document, life, live
+I:10113;320;job, have, drive, soul, search, find, short, qualitative, accomplishment, good, deed, lead, sort, despair
+I:10113;321;despair, be, augment, work, provide, several, opportunity, act, sinful, desire
+I:10113;322;be, lead, continuous, negative, cycle, do, something, good, be, follow, sinful, act
+I:10113;323;desire, other, woman, long, strong, connection, family, envy, friend, perfect, family
+I:10113;324;fellinus, direct, brilliant, film, much, ponder, contemplate, most, shot, leave, most, story, audience, reflect
+I:10113;325;result, cinematic, experience, be, artistic, experience, encourage, thought, reflection, life, self, be, nothing, brilliant
+I:10113;326;be, handsome, rest, soul, lady, curve, beautiful, face, passionate, acting, heck, do, go
+I:10113;327;do, have, nothing, bring, beautiful, people, movie
+I:10113;328;vitamin, have, unforgettable, cinematography
+I:10113;329;be, unforgettable, scene, remember, be
+I:10113;330;fellinus, treat, seem, couple, dozen, night, town, overindulge, rich, famous, crowd
+I:10113;331;self, serve, religious, folk, gather, hope, miracle, kid, have, fun, make, sport
+I:10113;332;recommend, watch, film, piece, cinematic, history, enjoy, great, be, shame
+I:10113;333;see, film, be, have, haunt, whole, life
+I:10113;334;watch, couple, year, see, have, become, viewpoint, living, have, shift
+I:10113;335;sane, soul, live, quasus
+I:10113;336;add, timeless, score, best, costume, splash, black, white, fresco, pregnant, dialogue, devastating, vignette, feature, sad, lonely, fate, family, apartment, complex
+I:10113;337;be, hour, penetrate, stuff, have, see, entertaining, charming, ofttime, funny
+I:10113;338;be, something, be, say, pretty, large, number, film, fan, love
+I:10113;339;secret, be, appeal, be, be, interesting, time
+I:10113;340;be, key, figure, film, be, viewer, counterpart
+I:10113;341;steiner, represent, be, prime, importance
+I:10113;342;young, reporter, see, older, man, perfect, idealized, version
+I:10113;343;long, emulate, be, convince, man, know, live, life
+I:10113;344;give, contemplate, rest, film
+I:10113;345;reason, film, be, existential, outlook
+I:10113;346;consider, example, significance, interaction, blonde, girl, cafe
+I:10113;347;represent, simpler, life, city
+I:10113;348;be, great, film, way, pull, viewer, force, contemplate, actual, content, be, see
+I:10113;349;film, main, theme, be, share, fim, modern, man, have, become, disconnect, natural, world, suffer
+I:10113;350;visual, style, be, poetic, character, be, compelling, hard, forget, musical, score, be, memorable, time
+I:10113;351;movie, describe, be, sweet, life
+I:10113;352;become, clear, film, become, engrossing
+I:10113;353;film, begin, rise, be, sensational, cultural, artefact, 1960, real, portrait, disintegrate, italian, society, seem, timeless, important
+I:10113;354;look, opening, scene, start, late, night, odyssey, develop, real, visual, poetry, vocabulary, own
+I:10113;355;be, rare, film, seem, grow, importance, depth, progress, elliptical, ending, surprising, impact
+I:10113;356;review, couple, film, be, move, decide, perform, huge, retrospective, production
+I:10113;357;most, film, combine, fantasy, reality, rich, mixture, fixed, boundary
+I:10113;358;display, own, personal, approach, regard, religious, belief, sex, love, youngster, education, political, religious, power, richness, poverty, theme, more, be, show, visceral, approach
+I:10113;359;one, have, own, tempo, mood
+I:10113;360;be, tragic, picturesque, comic, be, precious, film, gem
+I:10113;361;main, theme, be, present, display
+I:10113;362;social, criticism, high, class, palace, contrast, popular, apartment, life, style, poor, neighborhood, manners
+I:10113;363;give, outstanding, performance, peak, career
+I:10113;364;bathing, be, everlasting, trade, mark, film!this, be, wonderful, film, see
+I:10113;365;recommend, adult, audience
+I:10113;366;do, be, rob, best, complex, most, move, film, everything, deserve
+I:10113;367;first, viewing, be, convince, be, brilliant, film, see, weekend, be, kind, humble, existence
+I:10113;368;be, movie, hour, hold, life, have, want, go, credit
+I:10113;369;be, movie, have, moment, oddball, recklessness, quiet, beauty, gorgeous, put, protagonist, hell, give, hope
+I:10113;370;top, look, factory, end, conclusion, film, build, be, powerful, be, ambiguous
+I:10113;371;be, interesting, film, pretention, get, way
+I:10113;372;sure, vitellonus, be, wonderful, little, neo
+I:10113;373;realistic, work, seem, hint, something, horizon, director
+I:10113;374;be, movie, be, perfect, way
+I:10113;375;most, beloved, director, show, belong, same, breath, thief, passion, talk, best, foreign, film, make
+I:10113;376;scene, outdoor, cafe, be, delicious, scene, fountain, be, standard, see
+I:10113;377;time, movie, help, develop, future, film
+I:10113;378;spill, screen, see, difference
+I:10113;379;satisfied, customer
+I:10113;380;approach, review, historical, significance, >, think, be, masterpiece, think, later, work, such, be, best, accessible
+I:10113;381;be, masterpiece
+I:10113;382;film, feel, effect, dream, drift, segmented, form, dream
+I:10113;383;film, be, set, exciting, period, history, cinema
+I:10113;384;direct, put, wonderful, world, dreamlike, desire, anguish, hope
+I:10113;385;movie, talk, language, unconscious, mind
+I:10113;386;be, massive, high, time, rewatch, endless, summer
+I:10113;387;time, favorite, watch, least, time, year
+I:10113;388;live, look, crew, paparazzi, be, swallow, world
+I:10113;389;drive, home, hour, photograph, scene
+I:10113;390;be, subtle
+I:10113;391;have, be, film, have, enormous, cachet, film
+I:10113;392;use, be, guy, know, get
+I:10113;393;greatest, practitioner, be, immerse, innovate, nuance, setup
+I:10113;394;see, insider, do
+I:10113;395;enjoy, reason, explain, be, interested, structure/execution, joke, affect, effectiveness
+I:10113;396;masterpiece, showcase, roman, decadence
+I:10113;397;top, rate, performance
+I:10113;398;humorous, haunting, surreal, create, screen
+I:10113;399;catch, unforgettable, song, club, scene
+I:10113;400;few, film, reach, realm, masterpiece
+I:10113;401;encourage, anyone, consider, film, buff, particular, fond, good, stuff, see, film
+I:10113;402;american, actress, come, play, have, famous, memorable, role
+I:10113;403;film, be, center, wonderful, other, actor, be, play, version
+I:10113;404;be, gossip, columnist, full, time, party, boy, be, action, dusk, dawn
+I:10113;405;fact, most, various, scene, begin, night, end, break, day
+I:10113;406;live, cheat
+I:10113;407;love, other, be, tie
+I:10113;408;friend, mentor, warn, lead, similar, life, time
+I:10113;409;movie, be, sexy, fun, sad, dramatic, time
+I:10113;410;manage, pull, add, wonderful, music, boot
+I:10113;411;most, love, film, come, act, story, technical, aspect, be, terrific
+I:10113;412;shot, stark, black, white, include, masterful, artwork, cinematography
+I:10113;413;great, car, era, include, tbird, convertible, add, industrial, glamour
+I:10113;414;marcello, be, masterful, role, reporter, search, scandal, become, crowd, write
+I:10113;415;good, movie, minute, be, cut, world, take, sense, loss, be, feel
+I:10113;416;drip, flavor, rhythm, sex, life, camera, wander, dangerous, realm, objectivity
+I:10113;417;century, earth, life, have, be, delicious, mixture, sweet, sour, goodness, disgrace, dash, hope, eternal, optimism
+I:10113;418;end, top, pick, world, great, cinema, express, yin.yang, human, existence
+I:10113;419;masterpiece, begin, be, bring, level, man
+I:10113;420;show, human, be, fritter, life, hope, hope, overcome, distant, relationship, father, reluctance, establish, true, loving, bond, woman, find, meaning, choose, career
+I:10113;421;dramatic, contrast, final, scene, shore, mind, heart, come, understanding, have, cast, real, love, genuine, human, connectedness
+I:10113;422;genius, be, render, rich, morality, play, engaging, set, bittersweet, vignette, shoot, exquisite, black
+I:10113;423;white, score, touch, sens, letup
+I:10113;424;year, release, misunderstand, masterpiece, cease, mesmerize, big, screen, small
+I:10113;425;represent, high, water, mark, italian, neo
+I:10113;426;deliver, deliberate, sheen, tawdry, little, film, give, scope, grandeur, elevate, subject, matter, high, art
+I:10113;427;gray, scale, exhibit, depth, field, superb, balance, deep, solid, black, level, clean, whites
+I:10113;428;obtrusive, enjoyment, film
+I:10113;429;anamorphic, transfer, sparkle, minimum, age, related, artifact, no, digital, anomaly, smooth, visual, presentation
+I:10113;430;be, be, enjoy
+I:10113;431;condition, be, good, arrive, time
+I:10113;432;watch, movie, year, move, study, work
+I:10113;433;find, mesmorize
+I:10113;434;8 1/2, do
+I:10113;435;minor, character, be, unique
+I:10113;436;be, great, know, important, film, be, get
+I:10113;437;be, best, important, film, make, film, history, director, be, sure, command, art, put, same, level, other
+I:10113;438;be, bright, city, full, stylish, vain, beautiful, rich, people, parade, exotic, nightclub, private, party, hot, spot
+I:10113;439;marcello, mastroiani, be, journalist, earn, living, write, beautiful, people
+I:10113;440;be, perfect, example, character, unable, make, stand, take, control, own, life
+I:10113;441;start, believe, change, be, possible
+I:10113;442;allow, become, portrait, thing, want, run
+I:10113;443;this, be, fascinating, portrait, put, celluloid
+I:10113;444;everything, be, masterpiece
+I:10113;445;wardrobe, winner, art, direction, cinematography, music, score, legendary, be, perfect
+I:10113;446;remind, few, film, be, lucky, enough, have, many, gifted, professional, peak, form
+I:10113;447;screenplay, be, masterclass, modern
+I:10113;448;whole, film, be, compose, episode, life
+I:10113;449;add, sweet, taste, possible, redemption, love, honesty, truth
+I:10113;450;unsurpassed, flawless, gem, beg, mature, viewer
+I:10113;451;great, work, art, demand, time, close, look
+I:10113;452;see, see
+I:10113;453;beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, beautiful, fellini!we, miss
+I:10113;454;be, travelogue, man, singular, unique, experience
+I:10113;455;spare, familiar, arc, keep, journey, steady, rhythm
+I:10113;456;scene, have, be, way, influence, cinema
+I:10113;457;staple, best, guide, beloved, critic, huge, success, release
+I:10113;458;era, produce, many, innovative, film, influence, cinema, be, primary, regard
+I:10113;459;criterion, understand, film, lover, person, want, know, much, possible, film, include, element, making
+I:10113;460;commentary, true, expert, film, be, literate, informative
+I:10113;461;command, knowledge, keep, insight, come, non
+I:10113;462;purpose, be, inform, interest, stay, mark
+I:10113;463;interview, other, involve, production, give, excellent, background, context, film, career
+I:10113;464;film, buff, appreciate, care, extensive, set, extra, have, be, compile
+I:10113;465;criterion, have, set, standard, film, edition, be, best
+I:10113;466;come, be, consider, avant
+I:10113;467;have, admire, willingness, use, people, place, be, perfect, face, perfect, set
+I:10113;468;one, wonder, character, be, worth, time
+I:10113;469;opening, scene, be, conceive
+I:10113;470;imagery, religion, tradition, history, conflict, pleasure, flesh, compromise, modern, time, be, new, exciting, concept, motion, picture, goer, year
+I:10113;471;experimental, exciting, year
+I:10113;472;be, classic, hold, place, list, support
+I:10113;473;student, film, serious, collector, thoughtful, viewer, be, justified, consider, film
+I:10113;474;unforgettable, opening, image, fly, rooftop, conclusion, desperate, party, end, be, beautiful, disturbing, mesmerizing, film, follow, movement, tabloid, writer, quintessential, role, career, report, become, dissipate, pleasure
+I:10113;475;be, height, power, combine, earthiness, earlier, masterpiece
+I:10113;476;come, surrealism, spirit, wonderful, satisfying, effect
+I:10113;477;have, watch, many, many, time, find, something, new
+I:10113;478;visual, dialogue, hypnotic, rhythm, set, jaded, musical, background
+I:10113;479;striking, image, follow
+I:10113;480;wild, dance, lead, satyr
+I:10113;481;miracle, child, lead, crowd, merry, chase, rain
+I:10113;482;show, life, italian, journalist, have, knack, be, midst, celebrity, social, elite
+I:10113;483;start, interesting, keep, wit, drunk, do, lose, sight, story, be, be, attentive, appeal, carry, leader
+I:10113;484;image, beautiful, people, turn, fun, frolic, life, purpose
+I:10113;485;most, movie, be, many, terrific, scene, bizarre, people, brilliant, imagery
+I:10113;486;acting, be, terrific, be, direction
+I:10113;487;have, see, ldv, be, be, movie, deliver, new, insight, time, see
+I:10113;488;be, greatest, film, make
+I:10113;489;performance, be, perfect, way, extra
+I:10113;490;black, white, cinematography, be, exquisite, costume, design, be, rival
+I:10113;491;have, be, toot, monumental, innovative, film, time
+I:10113;492;ring, religious, change, church, lose, leader, experience, enormous, restructuring
+I:10113;493;have, observe, change, religious, landscape, implement, intermittent, church, scene, miraculous, vision, have, go, fly, statue, reappear, film
+I:10113;494;film, love, absence, love
+I:10113;495;main, character, live, good, life, observer, see, sweet, bittersweet, life, exist, friend, acquaintance
+I:10113;496;state, be, effort, show, world, love, character, full, selfishness, people, exploit
+I:10113;497;envy, friend, live, structure, life, wife, kid, intellectual, salon, hold, home
+I:10113;498;be, cinematic, masterpiece
+I:10113;499;film, appeal, art, film, student, anyone, further, imitation, study
+I:10113;500;be, unique, film, be, time
+I:10113;501;know, be, classic, award, win, movie, be, honest, do, get
+I:10113;502;helicopter, carry, stop, hover, hotel, passenger, chat, lovely, lady, poolside
+I:10113;503;pulp, fiction, have, be, captivate, opening, frame, film
+I:10113;504;sound, cliched, movie, be, original, film, have, see
+I:10113;505;set, be, fact, woman, be, love
+I:10113;506;weakness, be, represent, many, terrific, symbolic, image, film
+I:10113;507;comment, beauty, sound, make, call, join
+I:10113;508;come, reach
+I:10113;509;photographer, clamber, best, angle, shot, come, home, meet, boyfriend
+I:10113;510;live, peaceful, life, envy
+I:10113;511;peace, be, greatest, horror
+I:10113;512;end, walk
+I:10113;513;be, giant, personality, powerful, figure
+I:10113;514;be, sure, everything, write, everything, note, decide, write, scratch, surface, amazing, film
+I:10113;515;be, type, film, have, watch, more
+I:10113;516;be, sure, watch
+I:10113;517;be, movie, put, worldwide, map, many, know, make, master, silver, screen
+I:10113;518;nothing, be, worth, anything, guess, achieve, level, popularity, wealth, afford, luxury, make, such, statement
+I:10113;519;most, film, reach, status, genius, film, director
+I:10113;520;best, film, make, essential, collector
+I:10113;521;interview, be, slight, entertaining
+I:10113;522;master, extra, feature, show, side
+I:10113;523;be, greatest, film, have, see, vast, panorama, life, complexity, search, love, career, perfection, deterioration, flesh
+I:10113;524;be, film, experience, middle
+I:10113;525;driven, culture, resemble, be, many, way, have, own, style
+I:10113;526;have, live, enjoy, humor, savage, wit, romantic, illusion
+I:10113;527;year, watch, film, marvel, depth, new, layer, see
+I:10113;528;ending, be, shocking, unexpected, incredible, symbolism
+I:10113;529;be, true, genius, cinema
+I:10113;530;be, movie, stunning, image, take, provide, stunning, ironical, montage, good, life
+I:10113;531;many, scene, be, stunning
+I:10113;532;beginning, be, memorable, helicopter, fly, statue, hang
+I:10113;533;overwhelming, sense, film, be, tremendous, triviality, people, life, loss, moral, purpose
+I:10113;534;be, exception, film, close, friend, life, be, search, meaning, truth, young, girl, first, meet, restaurant, be, food, server, see, last, few, moment, film
+I:10113;535;word, be, drown, wave, wind, smile, realize, be, able, hear, have, say
+I:10113;536;be, heartbreaking, moment, modern, film, poignant
+I:10113;537;special, mention, have, be, make, extraordinary, music, film, write, incomparable, stand, greatest, film, score, write, integral, success, film, score, fistful
+I:10113;538;spectacular, film, favorite
+I:10113;539;be, greatest, film, great, monument, cinema
+I:10113;540;value, own, fantastic, idiosyncratic, vision, world
+I:10113;541;fill, film, stunning, bizarre, image, face, mark, director, wild, comic, imagination, film, be, condemn, vulgar, witless, bankrupt, praise, cultural, social, document, exciting, entertainment
+I:10113;542;move, shocking, sequence
+I:10113;543;be, sprawling, epic, satire, consider, spiritual, malaise, modern, society
+I:10113;544;film, be, fascinating, remastering, restoration, excellent
+I:10113;545;film, deserve, distinguished, critique
+I:10113;546;era, concrete, slum, feature, picture, russian, city
+I:10113;547;be, little, sweet, life, main, character, beautiful, people, hang
+I:10113;548;be, moment, film, touch, way, father, decide, return, home
+I:10113;549;picture, stay, leave, feel, little, hollow
+I:10113;550;be, worth, watch, think, be
+I:10113;551;many, argue, meaning, film, few, debate, impact, cinema, popular, culture
+I:10113;552;find, amusing, many, people, try, find, moral, message, film, character
+I:10113;553;be, lot, real, life
+I:10113;554;feminist, hate, portrayal, woman, sex, object
+I:10113;555;same, director, give, turn, make, brilliant, film, middle, aged, woman, point, view, juliette, spirit
+I:10113;556;film, be, prescient, predict, mania, rich, famous
+I:10113;557;cinematic, leech, be, term, come
+I:10113;558;spite, film, be, fun
+I:10113;559;seem, have, unique, ability, make, bite, social, commentary, same, time, show, decadent, fun, want
+I:10113;560;film, best, thing, be, jump, experience
+I:10113;561;everybody, want, live, sweet, life, be, sweet, life
+I:10113;562;wise, priestess, tell, something, good, happen, good
+I:10113;563;priestess, say, give, thanks, everything
+I:10113;564;mean, be, be, express, show, world, create
+I:10113;565;realist, filmmaking, be, embrace
+I:10113;566;film, deserve
+I:10113;567;suggest, full, round, collection, supplemental, feature, doubt, anyone, other, completest, fanatic, find, much, value, supplemental, feature
+I:10113;568;capture, excitement
+I:10113;569;be, interesting, look, relationship, correspond, director, own, personal, experience, read, book
+I:10113;570;find, be, lot, entertaining, length
+I:10113;571;gorgeous, masterpiece, be, relevant, today, be
+I:10113;572;live, outside, passion, emotion
+I:10113;573;be, visual, spectacle, be, dazzling, be, exhausting
+I:10113;574;middle, film, quiet, moment, daylight, reflection, get, glimpse, truth, innocent, eye, warm, smile, beautiful, unglamorous, young, waitress, be, enchant
+I:10113;575;moment, be, recognition, understanding, moment, pass
+I:10113;576;film, be, bit, cerebral, be, whimsical
+I:10113;577;seriousness, be, make, act, contain, glorious, filmaking, such, scene, soft, italian, newspaper, reporter, platinum, blond, actress, first, dance, be, sweep, foot, fellow, mutant, actor, look, cartoonish
+I:10113;578;intellectual, comic, figure, feel, urgent, need, become, acquaint, work
+I:10113;579;be, decide, give, shot
+I:10113;580;most, amazing, film, make
+I:10113;581;think, be, wonderful, be, bizarre, be, good, laugh
+I:10113;582;film, be, put, intelligent, complex, anything
+I:10113;583;look, final, party, tired, actress, allow, be, feathered, say, true, fatigue, be, fun, party, be
+I:10113;584;give, nuanced, performance, discontentment, be, evident, word
+I:10113;585;look, make, audience, sympathize, dispicable, impulse
+I:10113;586;set, film, be, beauty, love, passion, loss
+I:10113;587;good, contender, best, film, time
+I:10113;588;magnificent, star, successful, tabloid, reporter, find, revolve, high, society
+I:10113;589;dream, write, give, way, lure, wealth, fame
+I:10113;590;fellinus, be, master, art, filmmake, confirm, art, mind, complex, extraordinary, look, life
+I:10113;591;actor, film, be, outstanding, convey, sense, boredom, fear, go, indulgence
+I:10113;592;smile, laughter, drunk, only, hide, painful, reality, capture, loss, insightful, ability
+I:10113;593;have, order, hope, be, dub
+I:10113;594;second, copy, be, subtitle
+I:10113;595;make, dream, more
