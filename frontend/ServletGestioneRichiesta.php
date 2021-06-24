@@ -14,16 +14,34 @@ else $tecnica = "pmi";
 
 $tecnica = "normale";
 $configurazione = "unigrammi";
-$eta = $_POST['attenzione'];
-$genere = $_POST['compagnia'];
-$titolo = $_POST['umore'];
-echo $eta . "," . $genere . "," . $titolo;
+
+$eta =      (isset($_POST['attenzione']) && $_POST['attenzione'] !== "0")  ? $_POST['attenzione'] : null;
+$genere =   (isset($_POST['compagnia']) &&  $_POST['compagnia'] !== "0")   ? $_POST['compagnia'] : null;
+$titolo =   (isset($_POST['umore']) &&      $_POST['umore'] !== "0")       ? $_POST['umore'] : null;
+
+$context  = array();
+if ($eta !== null)       array_push($context, $eta);
+if ($genere !== null)    array_push($context, $genere);
+if ($titolo !== null)    array_push($context, $titolo);
+$contextstring =  "[" . implode(",", $context) . "]";
+
 $path = "" . "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
-echo $path;
+
 $file = fopen($path, "r") or die("Unable to open file!");
+echo $contextstring . "<br>";
+
+$top10film = array();
 while (($line = fgets($file)) !== false) {
-    echo $line;
+    $pieces = explode("\t", $line);
+    if ($pieces[0] === $contextstring) {
+        array_push($top10film, $pieces[1], $pieces[2], $pieces[3], $pieces[4], $pieces[5], $pieces[6], $pieces[7], $pieces[8], $pieces[9], $pieces[10]);
+        echo "TOP10 film per CONTESTI: " . "[" . implode(",", $top10film) . "]" . "<br>";
+    }
 }
+
+$locale = array_rand($top10film);
+echo "FILM suggerito: " . $top10film[$locale] . "<br>";
+
 
 
 /*
@@ -35,26 +53,7 @@ while (($line = fgets($file)) !== false) {
         Map<String, String[]> parametri = request.getParameterMap();
 
 
-            int locale = selezioneFilm(contesti);//selezione FILM da suggerire
-
-//il metodo legge la top10 di quei contesti e seleziona 1 film a caso fra quelli selezionati
-    public static int selezioneFilm(HashSet<Integer> contesti) throws Exception{
-    	HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = leggiTop10File();   //DESERIALIZZO TOP 10
-        System.out.println("TOP10 film per CONTESTI: " + contestiItemTop10.get(contesti));	//PRENDO TOP10 FILM PER QUEL CONTESTO
-        //PRENDO UN FILM A CASO FRA I 10
-        int dimensione = contestiItemTop10.get(contesti).size();		
-        Configurazione.number= new Random();
-        int locale = (int)contestiItemTop10.get(contesti).toArray()[Configurazione.number.nextInt(dimensione)];
-        return locale;
-    }
-
-    public static HashMap<HashSet<Integer>, HashSet<Integer>> leggiTop10File() throws Exception{
-    	ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(
-    			Configurazione.path + "filesFilmando2/"  + Configurazione.tecnica + "/" + Configurazione.TipoLemmi + "/serialized/top10combinazioni-items.dat")));	//mirko: top5combinazioni-items-bari
-    	HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = (HashMap<HashSet<Integer>, HashSet<Integer>>)ois.readObject();
-    	ois.close();
-    	return contestiItemTop10;
-    }
+    
 
             System.out.println("FILM suggerito: " + locale + "\n");			//11
     
