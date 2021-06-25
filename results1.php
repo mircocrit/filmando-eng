@@ -20,7 +20,7 @@
 
 	<?php
 		session_start();
-		echo $_SESSION['tecnica'];
+		echo $_SESSION['tecnica'] . "," . $_SESSION['configurazione'];
 		$spiegazione = "";
 		if($_SESSION['tecnica'] === "centroide")
 			$spiegazione = $_SESSION['spiegazioneCentroide'];

@@ -13,7 +13,6 @@ else $tecnica = "pmi";
 echo $configurazione . "," . $tecnica. "<br>";
 
 $tecnica = "normale";
-$configurazione = "unigrammi";
 $_SESSION['configurazione'] = $configurazione;
 $_SESSION['tecnica'] = $tecnica;
 
