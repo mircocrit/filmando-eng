@@ -74,8 +74,8 @@ if ($tecnica==="centroide"){
 if ($tecnica==="frasisingole"){
     $spiegazioneSingole = "I recommend you <b>" . $titoloFilm . "</b> because people who liked the movie think that <b>";
     $cont =0;
-    foreach ($testofrasi as $context =>$frase) {
-        echo $context. "</br>";
+    foreach ($testofrasi as $frase) {
+        /*
         switch ($context){
             case 1:
                 $spiegazioneSingole .= " it's suitable for <b>high attention</b> contexts because <b>";
@@ -100,10 +100,11 @@ if ($tecnica==="frasisingole"){
                 $spiegazioneSingole .= " it's perfect to watch in a <b>bad mood</b> because <b>";
                 break;
             }
-        $spiegazioneSingole .= $frase. "</b>";
+            */
         $cont++;
-        if ($cont == 1)   $spiegazioneSingole .= ", and that <b>";
-        if ($cont == 2)   $spiegazioneSingole .= "; moreover, <b>";
+        if ($cont == 1)   $spiegazioneSingole .= $frase. "</b>";
+        if ($cont == 2)   $spiegazioneSingole .= ", and that <b>" . $frase. "</b>";
+        if ($cont == 3)   $spiegazioneSingole .= "; moreover, <b>". $frase. "</b>";
     }
     $spiegazioneSingole .= ".</b>";
     echo $spiegazioneSingole . "</br>";
