@@ -108,7 +108,7 @@
 			</div>	
 		</div>
 		
-		<form action="frontend/ServletSalvataggioValutazione1.php" method="POST">
+		<form action="php/ServletSalvataggioValutazione1.php" method="POST">
 			
 			<br>
 			<div class="row justify-content-md-center text-center">
