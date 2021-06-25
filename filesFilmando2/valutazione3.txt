@@ -270,3 +270,4 @@
 20210625194234;unigrammi;normale;frasisingole;228;2;1,4;0;1;2;2;1
 20210625194719;unigrammi;normale;frasisingole;275;1;1;0;1;0;0;0
 20210625205355;unigrammi;normale;frasisingole;158;3;1,4,7;1;1;2;0;0
+20210625212025;unigrammi;normale;frasisingole;83;2;1,4;1;1;1;1;1
