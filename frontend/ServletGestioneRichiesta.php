@@ -5,7 +5,6 @@ if ($configurazione === 0)      $configurazione = "unigrammi";
 else if ($configurazione === 1) $configurazione = "bigrammi";
 else $configurazione = "unibigrammi";
 
-
 $tecnica = rand(0, 1);
 if ($tecnica === 0)   $tecnica = "normale";
 else $tecnica = "pmi";
@@ -14,6 +13,7 @@ else $tecnica = "pmi";
 
 $tecnica = "normale";
 $configurazione = "unigrammi";
+$_SESSION['configurazione'] = $configurazione;
 
 $eta =      (isset($_POST['attenzione']) && $_POST['attenzione'] !== "0")  ? $_POST['attenzione'] : null;
 $genere =   (isset($_POST['compagnia']) &&  $_POST['compagnia'] !== "0")   ? $_POST['compagnia'] : null;
@@ -40,41 +40,53 @@ while (($line = fgets($file)) !== false) {
 }
 
 $locale = array_rand($top10film);
-echo "FILM suggerito: " . $top10film[$locale] . "<br>";
+$_SESSION['film'] = $top10film[$locale];
+echo "FILM suggerito: " . $_SESSION['film'] . "<br>";
 
+//&centroide=2289&centroide=393&centroide=3283
+//&frasiSingole=4:234&frasiSingole=7:113     
 
 
 /*
-
-        int contatoreVuoti=0;
-        
-        HashSet<Integer> contesti = new HashSet<>();
-
-        Map<String, String[]> parametri = request.getParameterMap();
-
-
-    
-
-            System.out.println("FILM suggerito: " + locale + "\n");			//11
-    
 //////////////////LETTURA FRASI INTERE del dataset .dat, messe in mappaFrasi (4	testo)
-            TreeMap<Integer, String> mappaFrasi = Locale.LeggiFrasiLocaleDAT(locale);
+    TreeMap<Integer, String> mappaFrasi = Locale.LeggiFrasiLocaleDAT(locale);
             
-            ///////////////////////////////SELEZIONE FRASI////////////////////////////////////////////         
-            ArrayList<Integer> frasiCentroide = selezioneFrasiCentroide(locale,contesti, mappaFrasi);
-            System.out.println("ID frasi centroide: " + frasiCentroide);//[2289,393,3283]
-            stampaFrasiCentroide(frasiCentroide, mappaFrasi);
-            
-            HashMap<Integer, Integer> frasiSingole= selezioneFrasiSingole(locale,contesti, mappaFrasi);
-            System.out.println("ID frasi singole: " + frasiSingole);	//[7,54; 3,456]
-            stampaFrasiSingole(frasiSingole, mappaFrasi);
+    ///////////////////////////////SELEZIONE FRASI////////////////////////////////////////////         
+    ArrayList<Integer> frasiCentroide = selezioneFrasiCentroide(locale,contesti, mappaFrasi);
+    System.out.println("ID frasi centroide: " + frasiCentroide);//[2289,393,3283]
+    stampaFrasiCentroide(frasiCentroide, mappaFrasi);
 
-            
+    //tale metodo restituisce la lista delle 3 frasi associate a quel film per quei contesti (centroide)
+    //contesti-item-frasi.dat
+    public static ArrayList<Integer> selezioneFrasiCentroide(int locale, HashSet<Integer> contesti, TreeMap<Integer, String> mappaFrasi) throws Exception{
+    	HashMap<HashSet<Integer>, HashMap<Integer, ArrayList<Integer>>> matriceContestiItemFrasi = leggiMatrice1();	//DESERIALIZZAZIONE MATRICE CONTESTI ITEM FRASI
+        ArrayList<Integer> frasiCentroide = new ArrayList<>();
+        frasiCentroide = matriceContestiItemFrasi.get(contesti).get(locale); //LISTA FRASI per il FILM
+        return frasiCentroide; 
+    }
+       
+    //////////////////////////////////////////////////////////////////////////////////////////////////
+    HashMap<Integer, Integer> frasiSingole= selezioneFrasiSingole(locale,contesti, mappaFrasi);
+    System.out.println("ID frasi singole: " + frasiSingole);	//[7,54; 3,456]
+    stampaFrasiSingole(frasiSingole, mappaFrasi);
 
-        	///////////////////SCELGO 1 SPIEGAZIONE A CASO FRA CENTROIDE E FRASI SINGOLE///////////
-        	//Configurazione.tipoFrasiRandom();//SCELTA TIPOFRASI RANDOM:centroide, frasi singole 	
-        	String tipoFrasi = Configurazione.TipoFrasi;
-        	System.out.println("Tecnica: " + tipoFrasi);
+    //tale metodo restituisce la mappa delle n frasi associate a quel film per quegli n contesti (frasi singole)
+    locali-contesto-frase.dat
+    public static HashMap<Integer, Integer> selezioneFrasiSingole(int locale, HashSet<Integer> contesti, TreeMap<Integer, String> mappaFrasi) throws Exception{
+    	HashMap<Integer, HashMap<Integer, Integer>> localiContestiFrasi = leggiMatrice2();	//film 23 , contesto 5 --> frase 5646				
+    	HashMap<Integer, Integer> frasiSingole = new HashMap<>();   
+    	for (int c : contesti){	//[4,7]	//CONTESTI SELEZIONATI
+    		frasiSingole.put(c, localiContestiFrasi.get(locale).get(c));
+    	}																		//288		//7	--->frase n 54
+    	return frasiSingole;
+    }
+
+
+
+    ///////////////////SCELGO 1 SPIEGAZIONE A CASO FRA CENTROIDE E FRASI SINGOLE///////////
+    //Configurazione.tipoFrasiRandom();//SCELTA TIPOFRASI RANDOM:centroide, frasi singole 	
+    String tipoFrasi = Configurazione.TipoFrasi;
+    System.out.println("Tecnica: " + tipoFrasi);
             
             //////////////////////////////CREO STRINGA DA INVIARE/////////////////////////////////////////////////
             String tempo = request.getParameter("tempo").trim();
@@ -110,38 +122,13 @@ echo "FILM suggerito: " . $top10film[$locale] . "<br>";
             //&centroide=2289&centroide=393&centroide=3283
             //&frasiSingole=4:234&frasiSingole=7:113     
             
-        } catch (Exception e){
-            e.printStackTrace();
-            System.out.println(e.getMessage());
-            String s = "\n"+e.toString();
-            for (StackTraceElement st : e.getStackTrace()){
-                s += "\n"+st;
-            }
-            s += "--------------";
-            Files.write(Paths.get(Configurazione.path + "filesFilmando2/logwherexp.txt"), s.getBytes(), StandardOpenOption.APPEND);
         }
     }
     
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////    
     
     
-    //tale metodo restituisce la lista delle 3 frasi associate a quel film per quei contesti (centroide)
-    public static ArrayList<Integer> selezioneFrasiCentroide(int locale, HashSet<Integer> contesti, TreeMap<Integer, String> mappaFrasi) throws Exception{
-    	HashMap<HashSet<Integer>, HashMap<Integer, ArrayList<Integer>>> matriceContestiItemFrasi = leggiMatrice1();	//DESERIALIZZAZIONE MATRICE CONTESTI ITEM FRASI
-        ArrayList<Integer> frasiCentroide = new ArrayList<>();
-        frasiCentroide = matriceContestiItemFrasi.get(contesti).get(locale); //LISTA FRASI per il FILM
-        return frasiCentroide; 
-    }
     
-    //tale metodo restituisce la mappa delle n frasi associate a quel film per quegli n contesti (frasi singole)
-    public static HashMap<Integer, Integer> selezioneFrasiSingole(int locale, HashSet<Integer> contesti, TreeMap<Integer, String> mappaFrasi) throws Exception{
-    	HashMap<Integer, HashMap<Integer, Integer>> localiContestiFrasi = leggiMatrice2();	//film 23 , contesto 5 --> frase 5646				
-    	HashMap<Integer, Integer> frasiSingole = new HashMap<>();   
-    	for (int c : contesti){	//[4,7]	//CONTESTI SELEZIONATI
-    		frasiSingole.put(c, localiContestiFrasi.get(locale).get(c));
-    	}																		//288		//7	--->frase n 54
-    	return frasiSingole;
-    }
 
     /*il metodo scrive in un file di nome report+idutente.txt i dati
     idUtente = tempo	1591979843680
@@ -164,24 +151,6 @@ echo "FILM suggerito: " . $top10film[$locale] . "<br>";
     
     
     
-    
-    public static HashMap<HashSet<Integer>, HashMap<Integer, ArrayList<Integer>>> leggiMatrice1() throws Exception {
-        ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(
-        		Configurazione.path + "filesFilmando2/"  + Configurazione.tecnica + "/" + Configurazione.TipoLemmi + "/serialized/contesti-item-frasi.dat")));
-        HashMap<HashSet<Integer>, HashMap<Integer, ArrayList<Integer>>> matriceContestiItemFrasi = (HashMap<HashSet<Integer>, HashMap<Integer, ArrayList<Integer>>>) ois.readObject();
-        ois.close();
-        return matriceContestiItemFrasi;
-    }
-    
-    public static HashMap<Integer, HashMap<Integer, Integer>> leggiMatrice2() throws Exception {
-    	ObjectInputStream ois = new ObjectInputStream(new FileInputStream(new File(
-    		Configurazione.path + "filesFilmando2/"  + Configurazione.tecnica + "/" + Configurazione.TipoLemmi + "/serialized/locali-contesto-frase.dat")));
-    	HashMap<Integer, HashMap<Integer, Integer>> localiContestiFrasi = (HashMap<Integer, HashMap<Integer, Integer>>) ois.readObject();
-    	ois.close();
-    	return localiContestiFrasi;
-    }
-    
-    
 /////////////////////////////////////////////////////STAMPE////////////////////////////////////////////////////////////
     public static void stampaFrasiCentroide(ArrayList<Integer> frasiCentroide, TreeMap<Integer, String> mappaFrasi) {
         ArrayList<String> frasiIntere = new ArrayList<>();
@@ -195,7 +164,6 @@ echo "FILM suggerito: " . $top10film[$locale] . "<br>";
         }
         System.out.println();
     }
-    
     
     public static void stampaFrasiSingole(HashMap<Integer, Integer> frasiSingole, TreeMap<Integer, String> mappaFrasi ) {
     	for (int c : frasiSingole.keySet()){//[4,7]
