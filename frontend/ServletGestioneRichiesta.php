@@ -1,4 +1,3 @@
-
 <?php
 $configurazione = rand(0, 2);
 if ($configurazione === 0)      $configurazione = "unigrammi";
@@ -23,7 +22,7 @@ $context  = array();
 if ($eta !== null)       array_push($context, $eta);
 if ($genere !== null)    array_push($context, $genere);
 if ($titolo !== null)    array_push($context, $titolo);
-$contextstring =  "[" . implode(",", $context) . "]";
+$contextstring =  implode(",", $context);
 
 $path = "" . "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
 
@@ -46,7 +45,7 @@ echo "FILM suggerito: " . $_SESSION['film'] . "<br>";
 //&centroide=2289&centroide=393&centroide=3283
 //&frasiSingole=4:234&frasiSingole=7:113     
 
-
+//centroide($_SESSION['film'],$context)
 /*
 //////////////////LETTURA FRASI INTERE del dataset .dat, messe in mappaFrasi (4	testo)
     TreeMap<Integer, String> mappaFrasi = Locale.LeggiFrasiLocaleDAT(locale);
