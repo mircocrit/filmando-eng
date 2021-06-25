@@ -5,15 +5,13 @@ $configurazione = rand(0, 2);
 if ($configurazione === 0)      $configurazione = "unigrammi";
 else if ($configurazione === 1) $configurazione = "bigrammi";
 else $configurazione = "unibigrammi";
+$_SESSION['configurazione'] = $configurazione;
 
 $tecnica = rand(0, 1);
 if ($tecnica === 0)   $tecnica = "normale";
 else $tecnica = "pmi";
 
-echo $configurazione . "," . $tecnica. "<br>";
-
 $tecnica = "normale";
-$_SESSION['configurazione'] = $configurazione;
 $_SESSION['tecnica'] = $tecnica;
 
 $eta =      (isset($_POST['attenzione']) && $_POST['attenzione'] !== "0")  ? $_POST['attenzione'] : null;
@@ -27,8 +25,6 @@ if ($titolo !== null)    array_push($context, $titolo);
 $_SESSION['contesti'] = $context;
 
 $contextstring =  implode(",", $context);
-echo $contextstring . "<br>";
-
 
 //TOP 10 FILM
 $top10film = array();
@@ -88,7 +84,6 @@ $tipoFrasi = rand(0, 1);
 if ($tipoFrasi === 0)   $tipoFrasi = "centroide";
 else $tipoFrasi = "frasisingole";
 $_SESSION['tecnica'] = $tipoFrasi;
-echo "Tecnica: " . $tipoFrasi. "<br>";
 
 //REPORT
 $output = $_SESSION['tempo'] . ";" . $configurazione .  ";" . $tecnica . ";" . $tipoFrasi . ";" . $_SESSION['film'] . ";" . count($context) . ";" . $contextstring;

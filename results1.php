@@ -20,7 +20,7 @@
 
 	<?php
 		session_start();
-		echo $_SESSION['tecnica'] . "," . $_SESSION['configurazione'];
+		echo $_SESSION['tecnica'] . ";" . $_SESSION['configurazione'] . ";" . implode(",", $_SESSION['contesti']) . ";" . $_SESSION['film'];
 		$spiegazione = "";
 		if($_SESSION['tecnica'] === "centroide")
 			$spiegazione = $_SESSION['spiegazioneCentroide'];
