@@ -1,11 +1,6 @@
 <!DOCTYPE html>
-<%@ page contentType="text/html;charset=UTF-8" language="java"%>
+
 <html lang="en">
-<%@ page import="frontend.Configurazione"%>
-<%@ page import="java.util.*"%>
-<%@ page import="java.io.*"%>
-<%@ page import= "frontend.ServletGestioneRichiesta"%>
-<%@ page import= "frontend.ServletGenerazioneSpiegazioni"%>
 
 <head>
 	<meta charset="utf-8">
@@ -21,26 +16,13 @@
    			<img src="movie2.png" width="30" height="30" alt=""> Filmando
  	 	</a>
 	</nav>
-	<%
-		String tempo = request.getParameter("tempo").trim();
-		Scanner in = new Scanner(new File(Configurazione.path + "filesFilmando2/temp/report" + tempo +".txt"));
-		
-		String[] riga = in.nextLine().split(";");
-		int locale = Integer.parseInt(riga[4]);//280
-		System.out.println(locale);
-		
-		HashSet<Integer> lc = new HashSet<Integer>();
-		String[] lista = riga[6].split(",");	//4,6
-		for (String s : lista){
-			lc.add(Integer.parseInt(s));
-		}
-		in.close();
-		
-		HashMap<HashSet<Integer>, HashSet<Integer>> contestiItemTop10 = ServletGestioneRichiesta.leggiTop10File();
-		HashSet<Integer> listaFilm = contestiItemTop10.get(lc);
-		listaFilm.remove(locale);
-		//System.out.println(listaFilm);		
-	%>
+	<?php
+		session_start();
+
+		$film = $_SESSION['film'];
+		$titolo =$_SESSION['titolo'];
+		$listaFilm = $_SESSION['top10'];
+	?>
 	
 	<div class="container-fluid bg-light">
 		<br>
@@ -50,14 +32,14 @@
 			</div>
 		</div>	
 		<div class="row justify-content-center text-center">	
-			<h4>If you want to repeat the experiment <a href="index.jsp" class="btn btn-primary" role="button"> click here </a></h4>
+			<h4>If you want to repeat the experiment <a href="index.html" class="btn btn-primary" role="button"> click here </a></h4>
 		</div>
 		
 		
 		<div class="card">
   		<div class="card-body">	
 		<div class="row justify-content-center text-center">		
-			<h4>Movies related to <%out.println(ServletGenerazioneSpiegazioni.getTitoloLocale(locale));%></h4>
+			<h4>Movies related to <?php echo $titolo;?></h4>
 		</div>
 		<!--
 		<div class="row justify-content-center text-center">	
@@ -67,13 +49,22 @@
 		</div>
   		-->
 		<div class="row justify-content-md-center text-center">	
-		<% for (int temp : listaFilm) {
-			out.println("<div class=\"col-4 col-sm-3 col-md-2\">");
-			out.println("<h6>" + ServletGenerazioneSpiegazioni.getTitoloLocale(temp) + "</h6>");
-			out.println("<img src=\"jpg/" + temp + ".jpg\" 	class=\"img-fluid\" alt=\"Responsive image\">");
-			out.println("</div>");
+		<?php 
+		foreach ($listaFilm as $temp) {
+			$path2 = "filesFilmando2/Scheda Film.txt";
+			$file2 = fopen($path2, "r") or die("Unable to open file!");
+			while (($line = fgets($file2)) !== false) {
+   			 $pieces = explode(";", $line);
+    			if($pieces[0]===$temp){
+        		$titolo = $pieces[1];
+    			}
+			}
+			echo "<div class=\"col-4 col-sm-3 col-md-2\">";
+			echo "<h6>" . $titolo . "</h6>";
+			echo "<img src=\"jpg/" . $temp . ".jpg\" 	class=\"img-fluid\" alt=\"Responsive image\">";
+			echo "</div>";
 		}
-		%>
+		?>
 		</div>
 		
 		<br><br>

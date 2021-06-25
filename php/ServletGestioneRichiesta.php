@@ -42,6 +42,7 @@ while (($line = fgets($file)) !== false) {
     }
 }
 echo "TOP10 film per CONTESTI: " . "[" . implode(",", $top10film) . "]" . "<br>";
+$_SESSION['top10'] = $top10film;
 $locale = array_rand($top10film);
 $_SESSION['film'] = trim($top10film[$locale]);
 echo "FILM suggerito: " . $_SESSION['film'] . "<br>";

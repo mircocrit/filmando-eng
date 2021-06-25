@@ -22,6 +22,7 @@ while (($line = fgets($file2)) !== false) {
         echo $pieces[0]. ":". $pieces[1] . "<br>";
     }
 }
+$_SESSION['titolo'] = $titoloFilm;
 
 $path = "../filesFilmando2/frasi singoli items/intere/" . $_SESSION['film'] . ".txt";
 $file = fopen($path, "r") or die("Unable to open file!");

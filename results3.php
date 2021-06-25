@@ -42,7 +42,7 @@
 	
 	<div class="container-fluid bg-light">	
 		<br>	
-		<form action="../salvaValutazione3">	
+		<form action="php/ServletSalvataggioValutazione3.php" method="POST">	
 			<div class="row justify-content-md-center text-center">
 				
 				<div class="col-md-auto">
