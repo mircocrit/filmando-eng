@@ -263,4 +263,4 @@
 1593953111214;bigrammi;normale;frasisingole;287;1;1;3;3;3;3
 1593955105514;bigrammi;normale;frasisingole;95;2;1,7;4;4;4;4
 1593955105514;bigrammi;pmi;frasisingole;5;2;1,7;3;3;3;3
-1593969410359;unibigrammi;normale;frasisingole;20;2;1,7;3;3;3;3
+1593969410359;unibigrammi;normale;frasisingole;20;2;1,7;3;3;3;3202106251747584;4;4;4202106251747584;3;4;4202106251747584;4;4;4

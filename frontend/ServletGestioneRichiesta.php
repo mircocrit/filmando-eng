@@ -10,7 +10,7 @@ $tecnica = rand(0, 1);
 if ($tecnica === 0)   $tecnica = "normale";
 else $tecnica = "pmi";
 
-echo $configurazione . "," . $tecnica. "<br>";;
+echo $configurazione . "," . $tecnica. "<br>";
 
 $tecnica = "normale";
 $configurazione = "unigrammi";
@@ -88,83 +88,12 @@ $tipoFrasi = rand(0, 1);
 if ($tipoFrasi === 0)   $tipoFrasi = "centroide";
 else $tipoFrasi = "frasisingole";
 $_SESSION['tecnica'] = $tipoFrasi;
-echo "Tecnica: " . $tipoFrasi;
+echo "Tecnica: " . $tipoFrasi. "<br>";
 
+//REPORT
+$output = $_SESSION['tempo'] . ";" . $configurazione .  ";" . $tecnica . ";" . $tipoFrasi . ";" . $_SESSION['film'] . ";" . count($context) . ";" . $contextstring;
+//$file = fopen("../filesFilmando2/temp/report". $_SESSION['tempo']. ".txt", "w") or die("Can't create file!");
+//fwrite($file, $output);
+//fclose($file);
 
 header("location: ServletGenerazioneSpiegazioni.php");
-
-/*
-stampaFrasiCentroide(frasiCentroide, mappaFrasi);
-public static void stampaFrasiCentroide(ArrayList<Integer> frasiCentroide, TreeMap<Integer, String> mappaFrasi) {
-    ArrayList<String> frasiIntere = new ArrayList<>();
-    for (int id : frasiCentroide) {	////[2289,393,3283]
-        frasiIntere.add(mappaFrasi.get(id));//prendo il testo
-    }
-    int contatore = 0;
-    for (String frase : frasiIntere){
-        contatore++;
-        System.out.println(contatore + ":\t" + frase);
-    }
-    System.out.println();
-}
-
-public static void stampaFrasiSingole(HashMap<Integer, Integer> frasiSingole, TreeMap<Integer, String> mappaFrasi ) {
-    	for (int c : frasiSingole.keySet()){//[4,7]
-    		System.out.print(Configurazione.contesti.get(c) + ":\t " + mappaFrasi.get(frasiSingole.get(c)) + "\n");
-    	}
-    }
-*/
-   
-
-/*
-
-    stampaFrasiSingole(frasiSingole, mappaFrasi);
-
-
-            
-    /////////////////SCRITTURA REPORT//////////////////////////////////////////////////////
-            //1588974892939;	unigrammi;		6;		2;					2,3
-    int numeroContesti = frasiSingole.size();
-    String listaContesti = "";
-    for (int c : frasiSingole.keySet()){
-        listaContesti += c + ",";
-    }
-    listaContesti = listaContesti.substring(0, listaContesti.length()-1);
-    scriviReport(tempo, configurazione, tecnica, tipoFrasi, locale, numeroContesti, listaContesti);
-    ///////////////////////////////////////////////////////////////////////////
-    
-    response.sendRedirect(url);
-    //generazioneSpiegazioni?tempo=28282912
-    //&configurazione=unigrammi
-    //&locale=112
-    //&centroide=2289&centroide=393&centroide=3283
-    //&frasiSingole=4:234&frasiSingole=7:113     
-    
-    }
-}
-    
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////    
-    
-    
-    
-
-    /*il metodo scrive in un file di nome report+idutente.txt i dati
-    idUtente = tempo	1591979843680
-    configurazione 		bigrammi
-    tecnica 			pmi
-    idFilm				138
-    
-    listacontesti		2,4
-    
-    public static void scriviReport(String tempo, String configurazione, String tecnica, String tipoFrasi, int locale, int numeroContesti, String listaContesti) throws FileNotFoundException {
-    	PrintWriter report = new PrintWriter(
-    		Configurazione.path + "filesFilmando2/temp/report" + tempo +".txt");
-    				//1588974892939;	unigrammi;				pmi				centroide			6;					2;					2,3
-    	System.out.println(tempo + ";" + configurazione +  ";" + tecnica + ";" + tipoFrasi + ";" + locale + ";" + numeroContesti + ";" + listaContesti);
-    	report.println(tempo + ";" + configurazione +  ";" + tecnica + ";" + tipoFrasi + ";" + locale + ";" + numeroContesti + ";" + listaContesti);
-    	
-    	report.flush();
-    	report.close();
-    }
-
-*/

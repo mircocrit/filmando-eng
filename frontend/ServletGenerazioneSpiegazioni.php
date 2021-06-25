@@ -49,6 +49,7 @@ $numeroContesti = count($contesti);
 
 if ($tecnica==="centroide"){
     $spiegazioneCentroide = "";
+
     if ($numeroContesti == 1){
         $spiegazioneCentroide .= "I recommend you <b>" . $titoloFilm . "</b> for the context you have selected, ";
     } else {														
@@ -57,46 +58,57 @@ if ($tecnica==="centroide"){
     $spiegazioneCentroide .= "because people who liked the movie think that <b>";
 
     $count = 0;
-    foreach ($testofrasi as &$frase) {
+    foreach ($testofrasi as $frase) {
         $spiegazioneCentroide .= $frase. "</b>";
         $count++;
         if($count==1)	$spiegazioneCentroide .= " and that <b>";
         if($count==2)	$spiegazioneCentroide .= ". Moreover, they said that <b>";
     }
     $spiegazioneCentroide .= ".</b>";
-    echo $spiegazioneCentroide . "<br>";
+    echo $spiegazioneCentroide . "</br>";
     $_SESSION['spiegazioneCentroide'] = $spiegazioneCentroide;
 }
 
-
 if ($tecnica==="frasisingole"){
-    $spiegazioneSingole = "";
+    $spiegazioneSingole = "I recommend you <b>" . $titoloFilm . "</b> because people who liked the movie think that <b>";
+    $cont =0;
+    foreach ($testofrasi as $context =>$frase) {
+        echo $context. "</br>";
+        switch ($context){
+            case 1:
+                $spiegazioneSingole .= " it's suitable for <b>high attention</b> contexts because <b>";
+                break;
+            case 2:
+                $spiegazioneSingole .= " it's suitable if you <b>don't</b> want to <b>be focused</b> on it because <b>";
+                break;
+            ///////////////////////////
+            case 3:
+                $spiegazioneSingole .= " it's perfect to spend an evening in <b>sweet company</b> because <b>";
+                break;
+            case 4:
+                $spiegazioneSingole .= " it's perfect to watch in <b>family</b> with your <b>children</b> because <b>";
+                break;
+            case 5:
+                $spiegazioneSingole .= " it's perfect to watch with your <b>friends</b> because <b>";
+                break;
+            case 6:
+                $spiegazioneSingole .= " it's perfect to watch in <b>good mood</b> because <b>";
+                break;
+            case 7:
+                $spiegazioneSingole .= " it's perfect to watch in a <b>bad mood</b> because <b>";
+                break;
+            }
+        $spiegazioneSingole .= $frase. "</b>";
+        $cont++;
+        if ($cont == 1)   $spiegazioneSingole .= ", and that <b>";
+        if ($cont == 2)   $spiegazioneSingole .= "; moreover, <b>";
+    }
+    $spiegazioneSingole .= ".</b>";
+    echo $spiegazioneSingole . "</br>";
     $_SESSION['spiegazioneSingole'] = $spiegazioneSingole;
-};
-
-$_SESSION['spiegazioneBaseline']="";
-$_SESSION['spiegazioneBaseline2']="";
-
-header("location: ../results1.php");
-
+}
 
 /*
-
-  ///////////////////////////1) SPIEGAZIONI GIUSTAPPOSIZIONE FRASI SINGOLE//////////////////////////////////////////
-  System.out.println("////////////////////////////////1) SPIEGAZIONE GIUSTAPPOSIZIONE FRASI SINGOLE://////////////////////////////////////////");//GENERAZIONE SPIEGAZIONI FRASI SINGOLE 
-  String spiegazioneSingole = generazioneFrasiSingole(frasiSingole, mappaFrasi, numeroContesti, titoloLocale);
-  System.out.println(spiegazioneSingole + "\n");//STAMPA A VIDEO FRASI SINGOLE
-    		
-    		
-
-//Tale metodo genera le spiegazioni attraverso la gisutapposizione, passandogli la lista delle frasi singole per contesto, le frasi intere e il n dei contesti 
-    public static String generazioneFrasiSingole(HashMap<Integer, Integer> frasiSingole, TreeMap<Integer, String> mappaFrasi, int numeroContesti, String titoloLocale) {
-		HashMap<String, ArrayList<Integer>> fraseContesti = new HashMap<String, ArrayList<Integer>>();
-		//{He's always loved the movie but it somehow never made it to our shelf.=[3], 
-		//If you love enormously entertaining action movies, then this is the movie for you.=[2], 
-		String spiegazioneSingole = "I recommend you <b>" + titoloLocale + "</b> because people who liked the movie think that";
-        ////////////////////////////CREAZ FRASE CONTESTI/////////////////////////////////
-		int cont = 0;
         for (int c : frasiSingole.keySet()){
             if (fraseContesti.containsKey(mappaFrasi.get(frasiSingole.get(c)))){
                 fraseContesti.get(mappaFrasi.get(frasiSingole.get(c))).add(c);
@@ -120,6 +132,8 @@ header("location: ../results1.php");
             else if (cont == 5){//NON ABBIAMO 5 CONTESTI
                 spiegazioneSingole += "; finally, they said that ";
             }
+            
+            
             //CASO IN CUI ABBIAMO UNA STESSA FRASE PER 2 CONTESTI DIVERSI (ES: Frasi singole: {2=3195, 6=3195}
             if (fraseContesti.get(f).size() != 1){
                 String parteFraseContesti = "";//PREPARAZIONE PARTE PRECEDENTE
@@ -221,14 +235,17 @@ header("location: ../results1.php");
 
         return spiegazioneSingole;	//FINE SPIEGAZIONE GIUSTAPPOSIZIONE FRASI SINGOLE
     }
+    */
 
 
-    //////////////////////////////////3) BASELINE PUCARIELLO/////////////////////////// 
-    System.out.println("////////////////////////////////3) SPIEGAZIONE BASELINE://////////////////////////////////////////");
+
+
+$_SESSION['spiegazioneBaseline']="";
+
+/*
     String spiegazioneBaseline = generazioneBaseline(frasiSingole, locale);
     System.out.println(spiegazioneBaseline + "\n");//STAMPA A VIDEO BASELINE	
-            
-    //il metodo genera la spiegazone baseline PUCARIELLO
+//il metodo genera la spiegazone baseline PUCARIELLO
     public static String generazioneBaseline(HashMap<Integer, Integer> frasiSingole,  int locale) throws FileNotFoundException {
  	   String spiegazioneBaseline = "";     
        Scanner baseline = new Scanner(new File(	
@@ -246,15 +263,14 @@ header("location: ../results1.php");
        spiegazioneBaseline.replaceAll("\"", "");
        return spiegazioneBaseline;
     }
+*/
 
+$_SESSION['spiegazioneBaseline2']="";
 
-
-        ///////////////////////////////4) BASELINE DISTRIBUZIONALE/////////////////////////// 
-            System.out.println("////////////////////////////////4) SPIEGAZIONE BASELINE DISTRIBUZIONALE://////////////////////////////////////////");
-            String spiegazioneBaseline2 = generazioneBaseline2(frasiSingole, locale);
-            System.out.println(spiegazioneBaseline2 + "\n");//STAMPA A VIDEO BASELINE DISTRIBUZIONALE	
-              
-    //Tale metodo genera la spiegazione baseline come MEDIA di tutti i CONTESTI
+/*
+    String spiegazioneBaseline2 = generazioneBaseline2(frasiSingole, locale);
+    System.out.println(spiegazioneBaseline2 + "\n");//STAMPA A VIDEO BASELINE DISTRIBUZIONALE
+//Tale metodo genera la spiegazione baseline come MEDIA di tutti i CONTESTI
     public static String generazioneBaseline2(HashMap<Integer, Integer> frasiSingole,  int locale) throws FileNotFoundException {
  	   String spiegazioneBaseline = "I recommend you <b>" + getTitoloLocale(locale)  + "</b> because people who watched the movie think that ";
        Scanner baseline = new Scanner(new File(Configurazione.path + "filesFilmando2/baseline2.txt" ));
@@ -271,6 +287,7 @@ header("location: ../results1.php");
       spiegazioneBaseline.replace("\"", "").replace("(","").replace(")","");
       return spiegazioneBaseline;
     }
-    
-    
-        
+    */
+
+
+header("location: ../results1.php");

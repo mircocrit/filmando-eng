@@ -110,7 +110,7 @@
 			</div>	
 		</div>
 		
-		<form action="../salvaValutazione1">
+		<form action="frontend/ServletSalvataggioValutazione1.php" method="POST">
 			
 			<br>
 			<div class="row justify-content-md-center text-center">
