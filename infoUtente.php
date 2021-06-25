@@ -24,7 +24,7 @@
 			</div>
 		</div>
 
-		<form action="#" method="POST">
+		<form action="" method="POST">
 			<div class="row justify-content-md-center text-center">
 				<div class="col-md-auto">
 					<div class="form-group">
@@ -121,7 +121,7 @@
 			$file = fopen("filesFilmando2/utenti.txt", "a") or die("Unable to open file!");
 			fwrite($file, $output);
 			fclose($file);
-			header("location: sceltaContesti.html");
+			header("location: sceltaContesti.php");
 		}
 		?>
 		<br>

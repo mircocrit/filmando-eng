@@ -87,6 +87,25 @@
 		</div>
 	</div>
 	
+	<?php
+		if (isset($_POST['valutazione1'])) {
+			$path = "filesFilmando2/temp/report". $_SESSION['tempo']. ".txt";
+			$file = fopen($path, "r") or die("Unable to open file!");
+			$reportValutazione = fgets($file);
+
+			$pref1 = $_POST['pref1'];       //trasparenza
+			$pref2 = $_POST['pref2'];       //persuasione
+			$pref3 = $_POST['pref3'];       //coinvolgimento
+			$pref4 = $_POST['pref4'];       //fiducia
+
+			$output = PHP_EOL . $reportValutazione . ";" . $pref1 . ";" . $pref2 . ";" . $pref3 . ";" . $pref4;
+			$file = fopen("filesFilmando2/valutazione1.txt", "a") or die("Unable to open file!");
+			fwrite($file, $output);
+			fclose($file);
+			header("location: results3.php");
+		}
+	?>
+
 	<div class="card text-center bg-white" >
  		<div class="card-body">
    			<h2 class="card-title">Justification 1</h2>
@@ -108,8 +127,7 @@
 			</div>	
 		</div>
 		
-		<form action="php/ServletSalvataggioValutazione1.php" method="POST">
-			
+		<form action="" method="POST">
 			<br>
 			<div class="row justify-content-md-center text-center">
 
@@ -152,11 +170,11 @@
 			</div>	
 			<div class="row justify-content-md-center text-center">
 				<div class="col-md-4"> 
-					<button type="submit" id="valutazione1" class="btn btn-primary btn-lg">Send feedback </button>
+					<button type="submit" name="valutazione1" class="btn btn-primary btn-lg">Send feedback </button>
 				</div>
 			</div>
-			
-		</form>	
+		</form>
+
 		<br>	
 	</div>
 		
