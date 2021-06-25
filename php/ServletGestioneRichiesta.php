@@ -33,7 +33,7 @@ echo $contextstring . "<br>";
 
 //TOP 10 FILM
 $top10film = array();
-$path = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
+$path = "../../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
 $file = fopen($path, "r") or die("Unable to open file!");
 while (($line = fgets($file)) !== false) {
     $pieces = explode("\t", $line);
@@ -51,7 +51,7 @@ fclose($file);
 
 //CENTROIDE
 $frasicentroide = array();
-$path2 = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi.txt";
+$path2 = "../../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi.txt";
 $file2 = fopen($path2, "r") or die("Unable to open file!");
 while (($line2 = fgets($file2)) !== false) {
     $pieces = explode("\t", $line2);
@@ -68,7 +68,7 @@ $_SESSION['centroide'] = $frasicentroide;
 
 //FRASI SINGOLE
 $frasisingole = array();
-$path3 = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi-singole.txt";
+$path3 = "../../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi-singole.txt";
 $file3 = fopen($path3, "r") or die("Unable to open file!");
 while (($line3 = fgets($file3)) !== false) {
     $pieces = explode("\t", $line3);
@@ -93,7 +93,7 @@ echo "Tecnica: " . $tipoFrasi. "<br>";
 
 //REPORT
 $output = $_SESSION['tempo'] . ";" . $configurazione .  ";" . $tecnica . ";" . $tipoFrasi . ";" . $_SESSION['film'] . ";" . count($context) . ";" . $contextstring;
-$file = fopen("../filesFilmando2/temp/report". $_SESSION['tempo']. ".txt", "w") or die("Can't create file!");
+$file = fopen("../../filesFilmando2/temp/report". $_SESSION['tempo']. ".txt", "w") or die("Can't create file!");
 fwrite($file, $output);
 fclose($file);
 

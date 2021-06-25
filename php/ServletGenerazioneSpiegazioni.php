@@ -13,7 +13,7 @@ if ($tecnica==="centroide")
 else 
     echo implode(",", $frasisingole). "<br>";
 
-$path2 = "../filesFilmando2/Scheda Film.txt";
+$path2 = "../../filesFilmando2/Scheda Film.txt";
 $file2 = fopen($path2, "r") or die("Unable to open file!");
 while (($line = fgets($file2)) !== false) {
     $pieces = explode(";", $line);
@@ -24,7 +24,7 @@ while (($line = fgets($file2)) !== false) {
 }
 $_SESSION['titolo'] = $titoloFilm;
 
-$path = "../filesFilmando2/frasi singoli items/intere/" . $_SESSION['film'] . ".txt";
+$path = "../../filesFilmando2/frasi singoli items/intere/" . $_SESSION['film'] . ".txt";
 $file = fopen($path, "r") or die("Unable to open file!");
 $testofrasi = array();
 while (($line = fgets($file)) !== false) {

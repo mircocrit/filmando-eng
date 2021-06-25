@@ -27,7 +27,7 @@
 		else
 			$spiegazione = $_SESSION['spiegazioneSingole'];
 
-		$path = "filesFilmando2/info utili/" . $_SESSION['film'] . ".txt";
+		$path = "../filesFilmando2/info utili/" . $_SESSION['film'] . ".txt";
 
 		$file = fopen($path, "r") or die("Unable to open file!");
 		$id = fgets($file);				//IDFILM
@@ -89,7 +89,7 @@
 	
 	<?php
 		if (isset($_POST['valutazione1'])) {
-			$path = "filesFilmando2/temp/report". $_SESSION['tempo']. ".txt";
+			$path = "../filesFilmando2/temp/report". $_SESSION['tempo']. ".txt";
 			$file = fopen($path, "r") or die("Unable to open file!");
 			$reportValutazione = fgets($file);
 
@@ -99,7 +99,7 @@
 			$pref4 = $_POST['pref4'];       //fiducia
 
 			$output = PHP_EOL . $reportValutazione . ";" . $pref1 . ";" . $pref2 . ";" . $pref3 . ";" . $pref4;
-			$file = fopen("filesFilmando2/valutazione1.txt", "a") or die("Unable to open file!");
+			$file = fopen("../filesFilmando2/valutazione1.txt", "a") or die("Unable to open file!");
 			fwrite($file, $output);
 			fclose($file);
 			header("location: results3.php");
