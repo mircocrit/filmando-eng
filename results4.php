@@ -13,7 +13,7 @@
 <body>
 	<nav class="navbar navbar-light bg-dark">
   		<a class="navbar-brand text-light" href="#">
-   			<img src="movie2.png" width="30" height="30" alt=""> Filmando
+   			<img src="icons/movie2.png" width="30" height="30" alt=""> Filmando
  	 	</a>
 	</nav>
 
@@ -149,8 +149,8 @@
 		<p class="lead" align="center">Relatore: dott. <b>Cataldo Musto</b></p>
 		
 		<div class="d-flex justify-content-center">
-			<div> <a href="https://www.uniba.it/"><img src="Logo_Uniba.png"></a> </div>
-			<div> <a href="http://www.di.uniba.it/~swap/"><img height="60" src="swap.PNG"></a></div>
+			<div> <a href="https://www.uniba.it/"><img src="icons/Logo_Uniba.png"></a> </div>
+			<div> <a href="http://www.di.uniba.it/~swap/"><img height="60" src="icons/swap.PNG"></a></div>
 		</div>
 		<br>
 	</div>
