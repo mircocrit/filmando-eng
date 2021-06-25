@@ -8,11 +8,12 @@ $tecnica = rand(0, 1);
 if ($tecnica === 0)   $tecnica = "normale";
 else $tecnica = "pmi";
 
-//echo $configurazione . "," . $tecnica;
+echo $configurazione . "," . $tecnica. "<br>";;
 
 $tecnica = "normale";
 $configurazione = "unigrammi";
 $_SESSION['configurazione'] = $configurazione;
+$_SESSION['tecnica'] = $tecnica;
 
 $eta =      (isset($_POST['attenzione']) && $_POST['attenzione'] !== "0")  ? $_POST['attenzione'] : null;
 $genere =   (isset($_POST['compagnia']) &&  $_POST['compagnia'] !== "0")   ? $_POST['compagnia'] : null;
@@ -22,27 +23,31 @@ $context  = array();
 if ($eta !== null)       array_push($context, $eta);
 if ($genere !== null)    array_push($context, $genere);
 if ($titolo !== null)    array_push($context, $titolo);
+$_SESSION['contesti'] = $context;
+//n contesti			3
 $contextstring =  implode(",", $context);
-
-$path = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
-
-$file = fopen($path, "r") or die("Unable to open file!");
 echo $contextstring . "<br>";
 
+
+//TOP 10 FILM
 $top10film = array();
+$path = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
+$file = fopen($path, "r") or die("Unable to open file!");
 while (($line = fgets($file)) !== false) {
     $pieces = explode("\t", $line);
     if ($pieces[0] === $contextstring) {
         array_push($top10film, $pieces[1], $pieces[2], $pieces[3], $pieces[4], $pieces[5], $pieces[6], $pieces[7], $pieces[8], $pieces[9], $pieces[10]);
-        echo "TOP10 film per CONTESTI: " . "[" . implode(",", $top10film) . "]" . "<br>";
+        
     }
 }
-
+echo "TOP10 film per CONTESTI: " . "[" . implode(",", $top10film) . "]" . "<br>";
 $locale = array_rand($top10film);
 $_SESSION['film'] = trim($top10film[$locale]);
 echo "FILM suggerito: " . $_SESSION['film'] . "<br>";
 fclose($file);
 
+
+//CENTROIDE
 $frasicentroide = array();
 $path2 = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi.txt";
 $file2 = fopen($path2, "r") or die("Unable to open file!");
@@ -56,7 +61,10 @@ while (($line2 = fgets($file2)) !== false) {
     }
 }
 echo "ID frasi centroide: " . implode(",", $frasicentroide) . "<br>";
+$_SESSION['centroide'] = $frasicentroide;
 
+
+//FRASI SINGOLE
 $frasisingole = array();
 $path3 = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi-singole.txt";
 $file3 = fopen($path3, "r") or die("Unable to open file!");
@@ -72,14 +80,26 @@ while (($line3 = fgets($file3)) !== false) {
     }
 }
 echo "ID frasi singole: " . implode(",", $frasisingole) . "<br>";
+$_SESSION['frasisingole'] = $frasisingole;
 
+
+$tipoFrasi = rand(0, 1);
+if ($tipoFrasi === 0)   $tipoFrasi = "centroide";
+else $tipoFrasi = "frasiSingole ";
+echo "Tecnica: " . $tipoFrasi;
+
+//header("location: ServletGenerazioneSpiegazioni.java");
+
+
+
+/*
 $path = "../filesFilmando2/frasi singoli items/intere/" . $_SESSION['film'] . ".txt";
 $file = fopen($path, "r") or die("Unable to open file!");
 while (($line = fgets($file)) !== false) {
     $pieces = explode(";", $line);
     //echo $pieces[1] . "<br>";
 }
-
+*/
 
 
 
@@ -97,35 +117,20 @@ public static void stampaFrasiCentroide(ArrayList<Integer> frasiCentroide, TreeM
     }
     System.out.println();
 }
-*/
 
-//&centroide=2289&centroide=393&centroide=3283
-//&frasiSingole=4:234&frasiSingole=7:113     
+public static void stampaFrasiSingole(HashMap<Integer, Integer> frasiSingole, TreeMap<Integer, String> mappaFrasi ) {
+    	for (int c : frasiSingole.keySet()){//[4,7]
+    		System.out.print(Configurazione.contesti.get(c) + ":\t " + mappaFrasi.get(frasiSingole.get(c)) + "\n");
+    	}
+    }
+*/
+   
 
 /*
 
     stampaFrasiSingole(frasiSingole, mappaFrasi);
 
-    ///////////////////SCELGO 1 SPIEGAZIONE A CASO FRA CENTROIDE E FRASI SINGOLE///////////
-    //Configurazione.tipoFrasiRandom();//SCELTA TIPOFRASI RANDOM:centroide, frasi singole 	
-    String tipoFrasi = Configurazione.TipoFrasi;
-    System.out.println("Tecnica: " + tipoFrasi);
-            
-    //////////////////////////////CREO STRINGA DA INVIARE/////////////////////////////////////////////////
-    String tempo = request.getParameter("tempo").trim();
-    String url = "generazioneSpiegazioni?tempo=" + tempo + "&configurazione=" + configurazione + "&locale=" + locale;
-    String idFrasiCentroide = "";
-    String idFrasiSingole = "";
-            //CENTROIDE
-    for (int s : frasiCentroide){////[2289,393,3283]
-         idFrasiCentroide += "&centroide=" + s;
-    }
-    url += idFrasiCentroide + "&";            
-     //FRASI SINGOLE
-    for (int contesto : frasiSingole.keySet()){//[4,7]
-         idFrasiSingole += "&frasiSingole=" + contesto + ":" + frasiSingole.get(contesto);
-    }
-    url += idFrasiSingole;
+
             
     /////////////////SCRITTURA REPORT//////////////////////////////////////////////////////
             //1588974892939;	unigrammi;		6;		2;					2,3
@@ -158,7 +163,7 @@ public static void stampaFrasiCentroide(ArrayList<Integer> frasiCentroide, TreeM
     configurazione 		bigrammi
     tecnica 			pmi
     idFilm				138
-    n contesti			3
+    
     listacontesti		2,4
     
     public static void scriviReport(String tempo, String configurazione, String tecnica, String tipoFrasi, int locale, int numeroContesti, String listaContesti) throws FileNotFoundException {
@@ -171,17 +176,5 @@ public static void stampaFrasiCentroide(ArrayList<Integer> frasiCentroide, TreeM
     	report.flush();
     	report.close();
     }
-    
-    
-    
-/////////////////////////////////////////////////////STAMPE////////////////////////////////////////////////////////////
-    
-    
-    public static void stampaFrasiSingole(HashMap<Integer, Integer> frasiSingole, TreeMap<Integer, String> mappaFrasi ) {
-    	for (int c : frasiSingole.keySet()){//[4,7]
-    		System.out.print(Configurazione.contesti.get(c) + ":\t " + mappaFrasi.get(frasiSingole.get(c)) + "\n");
-    	}
-    }
-    
-}
+
 */
