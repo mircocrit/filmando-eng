@@ -24,7 +24,7 @@
 			</div>
 		</div>
 
-		<form action="php/ServletGestioneInfoUtente.php" method="POST">
+		<form action="#" method="POST">
 			<div class="row justify-content-md-center text-center">
 				<div class="col-md-auto">
 					<div class="form-group">
@@ -101,11 +101,29 @@
 
 			<div class="row justify-content-md-center text-center">
 				<div class="col">
-					<button type="submit" id="infoUtente" class="btn btn-primary btn-lg">Continue </button>
+					<button type="submit" name="infoUtente" class="btn btn-primary btn-lg">Continue </button>
 				</div>
 			</div>
 		</form>
 
+		<?php
+		session_start();
+		if (isset($_POST['infoUtente'])) {
+			$date = new DateTime();
+			$_SESSION['tempo'] = $date->format('YmdHis');
+			$eta = $_POST['eta'];
+			$genere = $_POST['genere'];
+			$titolo = $_POST['titoloStudio'];
+			$frequenza = $_POST['frequenza'];
+			$recSys = $_POST['recSys'];
+			$output = $_SESSION['tempo'] . "," . $eta . "," . $genere . ";" . $titolo . ";" . $frequenza . ";" . $recSys . "\n";
+
+			$file = fopen("filesFilmando2/utenti.txt", "a") or die("Unable to open file!");
+			fwrite($file, $output);
+			fclose($file);
+			header("location: sceltaContesti.html");
+		}
+		?>
 		<br>
 	</div>
 
