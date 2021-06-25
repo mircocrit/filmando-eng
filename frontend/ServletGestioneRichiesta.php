@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 $configurazione = rand(0, 2);
 if ($configurazione === 0)      $configurazione = "unigrammi";
 else if ($configurazione === 1) $configurazione = "bigrammi";
@@ -24,7 +26,7 @@ if ($eta !== null)       array_push($context, $eta);
 if ($genere !== null)    array_push($context, $genere);
 if ($titolo !== null)    array_push($context, $titolo);
 $_SESSION['contesti'] = $context;
-//n contesti			3
+
 $contextstring =  implode(",", $context);
 echo $contextstring . "<br>";
 
@@ -37,7 +39,6 @@ while (($line = fgets($file)) !== false) {
     $pieces = explode("\t", $line);
     if ($pieces[0] === $contextstring) {
         array_push($top10film, $pieces[1], $pieces[2], $pieces[3], $pieces[4], $pieces[5], $pieces[6], $pieces[7], $pieces[8], $pieces[9], $pieces[10]);
-        
     }
 }
 echo "TOP10 film per CONTESTI: " . "[" . implode(",", $top10film) . "]" . "<br>";
@@ -85,23 +86,12 @@ $_SESSION['frasisingole'] = $frasisingole;
 
 $tipoFrasi = rand(0, 1);
 if ($tipoFrasi === 0)   $tipoFrasi = "centroide";
-else $tipoFrasi = "frasiSingole ";
+else $tipoFrasi = "frasisingole";
+$_SESSION['tecnica'] = $tipoFrasi;
 echo "Tecnica: " . $tipoFrasi;
 
-//header("location: ServletGenerazioneSpiegazioni.java");
 
-
-
-/*
-$path = "../filesFilmando2/frasi singoli items/intere/" . $_SESSION['film'] . ".txt";
-$file = fopen($path, "r") or die("Unable to open file!");
-while (($line = fgets($file)) !== false) {
-    $pieces = explode(";", $line);
-    //echo $pieces[1] . "<br>";
-}
-*/
-
-
+header("location: ServletGenerazioneSpiegazioni.php");
 
 /*
 stampaFrasiCentroide(frasiCentroide, mappaFrasi);
