@@ -20,9 +20,7 @@
 
 	<?php
 		session_start();
-
-		//echo $_SESSION['tempo'];
-		//echo $_SESSION['film'];
+		echo $_SESSION['tecnica'];
 		$spiegazione = "";
 		if($_SESSION['tecnica'] === "centroide")
 			$spiegazione = $_SESSION['spiegazioneCentroide'];

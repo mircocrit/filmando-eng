@@ -1,68 +1,40 @@
 <!DOCTYPE html>
-<%@ page contentType="text/html;charset=UTF-8" language="java"%>
-<html lang="en">
-<%@ page import="frontend.Locale"%>
-<%@ page import="frontend.Configurazione"%>
 
-<%@ page import="java.net.URLEncoder"%>
-<%@ page import="java.util.*"%>
-<%@ page import="java.io.*"%>
-<%@ page import="java.security.Timestamp"%>
-<!-- In questa pagina vengono riproposte le  spiegazioni basate su 1) centroide o 2) frasi singole nello stesso ordine 
-	2) viene chiesto all’utente, tramite un form, di scegliere quale delle 2 preferisce 
-	3) viene chiesto all’utente quale delle due ritiene piu: trasparente, persuasiva, coivolgente e fiduciosa.
-	Tale richiesta viene gestita dalla servlet ServletSalvataggioValutazione3.jsp.
--->
+<html lang="en">
 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 	<title>Filmando</title>
-	<link href="../css/style.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
 	<nav class="navbar navbar-light bg-dark">
   		<a class="navbar-brand text-light" href="#">
-   			<img src="../movie2.png" width="30" height="30" alt=""> Filmando
+   			<img src="movie2.png" width="30" height="30" alt=""> Filmando
  	 	</a>
 	</nav>
 
-	<%
-		String tempo = request.getParameter("tempo").trim();
+	<?php
+		session_start();
 
-		Scanner in = new Scanner(new File(Configurazione.path + "filesFilmando2/temp/spiegazioni" + tempo + ".txt"));
-		String spiegazione1 = "";
+		if($_SESSION['tecnica']==="centroide")
+			$spiegazione1 =	$_SESSION['spiegazioneCentroide'];
+		else
+			$spiegazione1 =	$_SESSION['spiegazioneSingole'];
+		$spiegazione2 = $_SESSION['spiegazioneBaseline'];
 
-		if (Configurazione.TipoFrasi.equals("centroide")) { //CENTROIDE
-			spiegazione1 = in.nextLine(); //centroide
-			in.nextLine();
-			System.out.println("Tecnica: centroide");
-		} else { //SINGOLE
-			in.nextLine();
-			spiegazione1 = in.nextLine(); //frasi singole
-			System.out.println("Tecnica: frasi singole");
-		}
-					
-		in.nextLine(); //BASELINE PUCARIELLO
-		String spiegazione2 = in.nextLine();//BASELINE DISTRIBUZIONALE
-		in.close();
-
-		System.out.println("////////////////////////////INIZIO RESULT3//////////////////////////////");
-		System.out.println("spiegazione" + Configurazione.TipoFrasi + ":\t" + spiegazione1);
-		System.out.println("Baseline distribuzionale:\t" + spiegazione2);
-
-		System.out.println("--------------------------------------FINE RESULT3----------------------------------------\n");
-	%>
+	?>
 	
 	
 	<div class="card text-center">
 		<div class="card-body">
 			<h2 class="card-title">Justification 1</h2>
-			<p class="card-text"><% out.println(spiegazione1); %></p>
+			<p class="card-text"><?php echo $spiegazione1; ?></p>
 			<h2 class="card-title">Justification 2</h2>
-			<p class="card-text"><% out.println(spiegazione2); %></p>
+			<p class="card-text"><?php echo $spiegazione2; ?></p>
 		</div>
 	</div>
 	
@@ -141,7 +113,6 @@
 			</div>
 			<div class="row justify-content-md-center text-center">
 				<div class="col"> 
-					<input type="hidden" id="tempo" name="tempo" value="<%out.println(tempo);%>">
 					<button type="submit" id="valutazione3" class="btn btn-primary btn-lg">Send feedback </button>
 				</div>
 			</div>
@@ -158,8 +129,8 @@
 		<p class="lead" align="center">Relatore: dott. <b>Cataldo Musto</b></p>
 		
 		<div class="d-flex justify-content-center">
-			<div> <a href="https://www.uniba.it/"><img src="../Logo_Uniba.png"></a> </div>
-			<div> <a href="http://www.di.uniba.it/~swap/"><img height="60" src="../swap.PNG"></a></div>
+			<div> <a href="https://www.uniba.it/"><img src="Logo_Uniba.png"></a> </div>
+			<div> <a href="http://www.di.uniba.it/~swap/"><img height="60" src="swap.PNG"></a></div>
 		</div>
 		<br>
 	</div>
