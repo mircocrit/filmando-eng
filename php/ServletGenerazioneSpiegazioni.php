@@ -42,8 +42,9 @@ while (($line = fgets($file)) !== false) {
         }
     }
 }
-
+$_SESSION['testofrasi'] = $testofrasi;
 echo print_r($testofrasi). "<br>";
+
 
 
 $numeroContesti = count($contesti);
