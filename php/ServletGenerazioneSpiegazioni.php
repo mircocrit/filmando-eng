@@ -1,25 +1,25 @@
 <?php
 session_start();
 
-echo $_SESSION['configurazione']. "<br>";
+echo $_SESSION['configurazione'] . "<br>";
 //echo $_SESSION['film']. "<br>";
-echo $_SESSION['tecnica']. "<br>";
+echo $_SESSION['tecnica'] . "<br>";
 $contesti = $_SESSION['contesti'];
 $tecnica = $_SESSION['tecnica'];
-$centroide= $_SESSION['centroide'];
+$centroide = $_SESSION['centroide'];
 $frasisingole = $_SESSION['frasisingole'];
-if ($tecnica==="centroide")
-    echo implode(",", $centroide). "<br>";
-else 
-    echo implode(",", $frasisingole). "<br>";
+if ($tecnica === "centroide")
+    echo implode(",", $centroide) . "<br>";
+else
+    echo implode(",", $frasisingole) . "<br>";
 
 $path2 = "../../filesFilmando2/Scheda Film.txt";
 $file2 = fopen($path2, "r") or die("Unable to open file!");
 while (($line = fgets($file2)) !== false) {
     $pieces = explode(";", $line);
-    if($pieces[0]===$_SESSION['film']){
+    if ($pieces[0] === $_SESSION['film']) {
         $titoloFilm = $pieces[1];
-        echo $pieces[0]. ":". $pieces[1] . "<br>";
+        echo $pieces[0] . ":" . $pieces[1] . "<br>";
     }
 }
 $_SESSION['titolo'] = $titoloFilm;
@@ -29,51 +29,50 @@ $file = fopen($path, "r") or die("Unable to open file!");
 $testofrasi = array();
 while (($line = fgets($file)) !== false) {
     $pieces = explode(";", $line);
-    if ($tecnica==="centroide"){
+    if ($tecnica === "centroide") {
         foreach ($centroide as $value) {
-            if(trim($pieces[1]) === trim($value))
+            if (trim($pieces[1]) === trim($value))
                 $testofrasi[$pieces[1]] = $pieces[2];
         }
-    }
-    else {
+    } else {
         foreach ($frasisingole as $value) {
-            if(trim($pieces[1]) === trim($value))
+            if (trim($pieces[1]) === trim($value))
                 $testofrasi[$pieces[1]] = $pieces[2];
         }
     }
 }
 $_SESSION['testofrasi'] = $testofrasi;
-echo print_r($testofrasi). "<br>";
+echo print_r($testofrasi) . "<br>";
 
 
 
 $numeroContesti = count($contesti);
 
-if ($tecnica==="centroide"){
+if ($tecnica === "centroide") {
     $spiegazioneCentroide = "";
 
-    if ($numeroContesti == 1){
+    if ($numeroContesti == 1) {
         $spiegazioneCentroide .= "I recommend you <b>" . $titoloFilm . "</b> for the context you have selected, ";
-    } else {														
+    } else {
         $spiegazioneCentroide .= "I recommend you <b>" . $titoloFilm . "</b> for the contexts you have selected, ";
     }
     $spiegazioneCentroide .= "because people who liked the movie think that <b>";
 
     $count = 0;
     foreach ($testofrasi as $frase) {
-        $spiegazioneCentroide .= $frase. "</b>";
+        $spiegazioneCentroide .= $frase . "</b>";
         $count++;
-        if($count==1)	$spiegazioneCentroide .= " and that <b>";
-        if($count==2)	$spiegazioneCentroide .= ". Moreover, they said that <b>";
+        if ($count == 1)    $spiegazioneCentroide .= " and that <b>";
+        if ($count == 2)    $spiegazioneCentroide .= ". Moreover, they said that <b>";
     }
     $spiegazioneCentroide .= ".</b>";
     echo $spiegazioneCentroide . "</br>";
     $_SESSION['spiegazioneCentroide'] = $spiegazioneCentroide;
 }
 
-if ($tecnica==="frasisingole"){
+if ($tecnica === "frasisingole") {
     $spiegazioneSingole = "I recommend you <b>" . $titoloFilm . "</b> because people who liked the movie think that <b>";
-    $cont =0;
+    $cont = 0;
     foreach ($testofrasi as $frase) {
         /*
         switch ($context){
@@ -102,9 +101,9 @@ if ($tecnica==="frasisingole"){
             }
             */
         $cont++;
-        if ($cont == 1)   $spiegazioneSingole .= $frase. "</b>";
-        if ($cont == 2)   $spiegazioneSingole .= ", and that <b>" . $frase. "</b>";
-        if ($cont == 3)   $spiegazioneSingole .= "; moreover, <b>". $frase. "</b>";
+        if ($cont == 1)   $spiegazioneSingole .= $frase . "</b>";
+        if ($cont == 2)   $spiegazioneSingole .= ", and that <b>" . $frase . "</b>";
+        if ($cont == 3)   $spiegazioneSingole .= "; moreover, <b>" . $frase . "</b>";
     }
     $spiegazioneSingole .= ".</b>";
     echo $spiegazioneSingole . "</br>";
@@ -243,7 +242,7 @@ if ($tecnica==="frasisingole"){
 
 
 
-$_SESSION['spiegazioneBaseline']="";
+$_SESSION['spiegazioneBaseline'] = "";
 
 /*
     String spiegazioneBaseline = generazioneBaseline(frasiSingole, locale);
@@ -268,7 +267,7 @@ $_SESSION['spiegazioneBaseline']="";
     }
 */
 
-$_SESSION['spiegazioneBaseline2']="";
+$_SESSION['spiegazioneBaseline2'] = "";
 
 /*
     String spiegazioneBaseline2 = generazioneBaseline2(frasiSingole, locale);

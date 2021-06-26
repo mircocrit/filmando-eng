@@ -87,7 +87,7 @@ $_SESSION['tecnica'] = $tipoFrasi;
 
 //REPORT
 $output = $_SESSION['tempo'] . ";" . $configurazione .  ";" . $tecnica . ";" . $tipoFrasi . ";" . $_SESSION['film'] . ";" . count($context) . ";" . $contextstring;
-$file = fopen("../../filesFilmando2/temp/report". $_SESSION['tempo']. ".txt", "w") or die("Can't create file!");
+$file = fopen("../../filesFilmando2/temp/report" . $_SESSION['tempo'] . ".txt", "w") or die("Can't create file!");
 fwrite($file, $output);
 fclose($file);
 
