@@ -21,7 +21,6 @@
 	$film = $_SESSION['film'];
 	$titolo = $_SESSION['titolo'];
 	$listaFilm = $_SESSION['top10'];
-	echo implode(",",  $_SESSION['top10']);
 	?>
 
 	<div class="container-fluid bg-light">
@@ -41,30 +40,28 @@
 				<div class="row justify-content-center text-center">
 					<h4>Movies related to <?php echo $titolo; ?></h4>
 				</div>
-				<!--
-		<div class="row justify-content-center text-center">	
-			<div class="col-4 col-sm-3 col-md-2">	
-				<img src= "jpg/<%out.println(locale);%>.jpg" class="img-fluid" alt="Responsive image">
-			</div>
-		</div>
-  		-->
+
+				<div class="row justify-content-center text-center">
+					<div class="col-4 col-sm-3 col-md-2">
+						<img src="jpg/<?php echo $film ?>.jpg" class="img-fluid" alt="Responsive image">
+					</div>
+				</div>
+
 				<div class="row justify-content-md-center text-center">
 					<?php
-					$path2 = "filesFilmando2/Scheda Film.txt";
-					foreach ($listaFilm as $temp) {
-						$file2 = fopen($path2, "r") or die("Unable to open file!");
-						while (($line = fgets($file2)) !== false) {
-							$pieces = explode(";", $line);
-							if ($pieces[0] === $temp) {
+					$file2 = fopen("filesFilmando2/Scheda Film.txt", "r") or die("Unable to open file!");
+					while (($line = fgets($file2)) !== false) {
+						$pieces = explode(";", $line);
+						foreach ($listaFilm as $temp) {
+							if ($temp == $pieces[0] && $temp != $film) {
 								$titolo = $pieces[1];
+								echo "<div class=\"col-4 col-sm-3 col-md-2\">";
+								echo "<h6>" . $titolo . "</h6>";
+								echo "<img src=\"jpg/" . $temp . ".jpg\" 	class=\"img-fluid\" alt=\"Responsive image\">";
+								echo "</div>";
 							}
 						}
-						echo "<div class=\"col-4 col-sm-3 col-md-2\">";
-						echo "<h6>" . $titolo . "</h6>";
-						echo "<img src=\"jpg/" . $temp . ".jpg\" 	class=\"img-fluid\" alt=\"Responsive image\">";
-						echo "</div>";
 					}
-					unset($temp)
 					?>
 				</div>
 
