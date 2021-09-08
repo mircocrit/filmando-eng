@@ -1,0 +1,533 @@
+I:30352;1;man, be, try, move, life, man be, be try, try move, move life
+I:30352;2;lot, theme, apply, today, lot theme, theme apply, apply today
+I:30352;3;voluble, speech, betray, nervousness, pleasure, voluble speech, speech betray, betray nervousness, nervousness pleasure
+I:30352;4;elevated, train, run, background, elevated train, train run, run background
+I:30352;5;be, humor, conversation, be humor, humor conversation
+I:30352;6;be, more, humor, conversation, be more, more humor, humor conversation
+I:30352;7;ending, be, open, end, provide, sequel, tv, series, ending be, be open, open end, end provide, provide sequel, sequel tv, tv series
+I:30352;8;win, performance, be, slice, cinema, heaven, win performance, performance be, be slice, slice cinema, cinema heaven
+I:30352;9;be, such, sweet, film, watch, movie, day, be such, such sweet, sweet film, film watch, watch movie, movie day
+I:30352;10;love, recommend, classic, romantic, drama, love recommend, recommend classic, classic romantic, romantic drama
+I:30352;11;be, play, have, fascinating, biography, own, right, black, be play, play have, have fascinating, fascinating biography, biography own, own right, right black
+I:30352;12;movie, win, understatement, movie win, win understatement
+I:30352;13;lead, character, show, essential, sweetness, humanity, minor, character, be, lead character, character show, show essential, essential sweetness, sweetness humanity, humanity minor, minor character, character be
+I:30352;14;film, be, giant, sleeper, film, film be, be giant, giant sleeper, sleeper film
+I:30352;15;be, great, motion, picture, history, be great, great motion, motion picture, picture history
+I:30352;16;sound, be, good, sound be, be good
+I:30352;17;inspite, give, star, inspite give, give star
+I:30352;18;like, main, actor, like, female, actress, like main, main actor, actor like, like female, female actress
+I:30352;19;love, movie, time, seem, complicate, love movie, movie time, time seem, seem complicate
+I:30352;20;be, good, storytelling, have, wonderful, acting, be good, good storytelling, storytelling have, have wonderful, wonderful acting
+I:30352;21;be, idealized, glimpse, era, enjoy, be idealized, idealized glimpse, glimpse era, era enjoy
+I:30352;22;draw, viewer, draw viewer
+I:30352;23;genius, actor, pull, character, genius actor, actor pull, pull character
+I:30352;24;be, viewing, be viewing
+I:30352;25;be, story, full, heart, viewer, relate, level, be story, story full, full heart, heart viewer, viewer relate, relate level
+I:30352;26;be, such, heart, warm, movie, be such, such heart, heart warm, warm movie
+I:30352;27;be, good, movie, be good, good movie
+I:30352;28;movie, have, good, plot, italian, movie have, have good, good plot, plot italian
+I:30352;29;good, movie, watch, good movie, movie watch
+I:30352;30;mouth, be, water, see, mouth be, be water, water see
+I:30352;31;be, unexpected, surprise, film, be unexpected, unexpected surprise, surprise film
+I:30352;32;be, treasure, performance, be, wonderful, be treasure, treasure performance, performance be, be wonderful
+I:30352;33;have, be, ditch, blind, date, be, crushed, meet, night, turn, hit, have be, be ditch, ditch blind, blind date, date be, be crushed, crushed meet, meet night, night turn, turn hit
+I:30352;34;talk, talk, talk, make, plan, meet, next, night, talk talk, talk talk, talk make, make plan, plan meet, meet next, next night
+I:30352;35;be, everything, have, be, wait, for?the, great, thing, be, remain, feel, light, airy, give, unexpected, depth, central, theme, loneliness, make, profound, observation, be everything, everything have, have be, be wait, wait for?the, for?the great, great thing, thing be, be remain, remain feel, feel light, light airy, airy give, give unexpected, unexpected depth, depth central, central theme, theme loneliness, loneliness make, make profound, profound observation
+I:30352;36;intersect, storyline, concern, mother, initial, determination, marry, resolve, keep, single, be, flesh, few, key, sequence, give, depth, do, expect, intersect storyline, storyline concern, concern mother, mother initial, initial determination, determination marry, marry resolve, resolve keep, keep single, single be, be flesh, flesh few, few key, key sequence, sequence give, give depth, depth do, do expect
+I:30352;37;cast, be, equip, goods, deliver, pace, film, thanks, wonderful, performance, cast be, be equip, equip goods, goods deliver, deliver pace, pace film, film thanks, thanks wonderful, wonderful performance
+I:30352;38;hit, right, place, prove, life, biggest, treasure, come, package, least, expect, hit right, right place, place prove, prove life, life biggest, biggest treasure, treasure come, come package, package least, least expect
+I:30352;39;be, good, movie, be, be good, good movie, movie be
+I:30352;40;be, classic, cinema, buff, be, be classic, classic cinema, cinema buff, buff be
+I:30352;41;esteem, pushy, italian, mamma, heart, gold, esteem pushy, pushy italian, italian mamma, mamma heart, heart gold
+I:30352;42;true, mark, masterpiece, be, viewer, be, inmerse, story, connect, character, screen, true mark, mark masterpiece, masterpiece be, be viewer, viewer be, be inmerse, inmerse story, story connect, connect character, character screen
+I:30352;43;have, love, movie, have love, love movie
+I:30352;44;meet, year, convention, get, autograph, picture, meet year, year convention, convention get, get autograph, autograph picture
+I:30352;45;movie, classic, be, fabulous, movie, movie classic, classic be, be fabulous, fabulous movie
+I:30352;46;be, sensitive, kind, be sensitive, sensitive kind
+I:30352;47;nobody, want, be, happy, have, own, life, mother, aunt, nobody want, want be, be happy, happy have, have own, own life, life mother, mother aunt
+I:30352;48;actor, play, character, part, real, battle, actor play, play character, character part, part real, real battle
+I:30352;49;be, hilarious, entertaining, true, life, be hilarious, hilarious entertaining, entertaining true, true life
+I:30352;50;love, watch, movie, love watch, watch movie
+I:30352;51;good, story, line, be, great, actor, good story, story line, line be, be great, great actor
+I:30352;52;have, see, be, miss, great, movie, era, have see, see be, be miss, miss great, great movie, movie era
+I:30352;53;serious, funny, poignant, real, serious funny, funny poignant, poignant real
+I:30352;54;have, think, win, best, year, be, good, start!shame, make, decision!the, movie, receive, full, star, exclamation, point, have think, think win, win best, best year, year be, be good, good start!shame, start!shame make, make decision!the, decision!the movie, movie receive, receive full, full star, star exclamation, exclamation point
+I:30352;55;laugh, hard, find, everything, be, hilarious, laugh hard, hard find, find everything, everything be, be hilarious
+I:30352;56;be, sad, surprising, theme, be, be, alive, today, real, world, be sad, sad surprising, surprising theme, theme be, be be, be alive, alive today, today real, real world
+I:30352;57;interesting, aspect, be, people, develop, many, unfounded, opinion, something, somebody, know, person, interesting aspect, aspect be, be people, people develop, develop many, many unfounded, unfounded opinion, opinion something, something somebody, somebody know, know person
+I:30352;58;be, true, be, say, impression, be, everything, be true, true be, be say, say impression, impression be, be everything
+I:30352;59;film, be, realistic, germane, film be, be realistic, realistic germane
+I:30352;60;be, laugh, hard, be laugh, laugh hard
+I:30352;61;come, think, picture, feel, be, interesting, similarity, fever, come think, think picture, picture feel, feel be, be interesting, interesting similarity, similarity fever
+I:30352;62;incomparable, win, year, be, incredible, performance, incomparable win, win year, year be, be incredible, incredible performance
+I:30352;63;wonderful, feel, good, movie, wonderful feel, feel good, good movie
+I:30352;64;wonder, movie, win, award, best, movie, year, wonder movie, movie win, win award, award best, best movie, movie year
+I:30352;65;win, academy, award, performance, deserve, win academy, academy award, award performance, performance deserve
+I:30352;66;be, favorite, actor, time, be favorite, favorite actor, actor time
+I:30352;67;layered, screenplay, present, entertaining, dialogue, be, real, hollywoodized, snappy, dialogue, catchy, phrase, layered screenplay, screenplay present, present entertaining, entertaining dialogue, dialogue be, be real, real hollywoodized, hollywoodized snappy, snappy dialogue, dialogue catchy, catchy phrase
+I:30352;68;be, secondary, beautiful, be secondary, secondary beautiful
+I:30352;69;mate, idea, physical, beauty, be, important, people, have, thing, common, be, likely, live, happy, relationship, mate idea, idea physical, physical beauty, beauty be, be important, important people, people have, have thing, thing common, common be, be likely, likely live, live happy, happy relationship
+I:30352;70;thing, make, special, other, timeless, story, be, timeless, performance, lonely, butcher, heart, gold, create, unique, character, anyone, sympathize, performance, be, basic, thing, keep, movie, go, thing make, make special, special other, other timeless, timeless story, story be, be timeless, timeless performance, performance lonely, lonely butcher, butcher heart, heart gold, gold create, create unique, unique character, character anyone, anyone sympathize, sympathize performance, performance be, be basic, basic thing, thing keep, keep movie, movie go
+I:30352;71;american, tell, truth, feel, little, dated, be, irresistible, movie, leave, feel, good, american tell, tell truth, truth feel, feel little, little dated, dated be, be irresistible, irresistible movie, movie leave, leave feel, feel good
+I:30352;72;extra, be, first, film, win, best, best, extra be, be first, first film, film win, win best, best best
+I:30352;73;scale, give, film, scale give, give film
+I:30352;74;be, funny, romantic, give, good, feeling, be funny, funny romantic, romantic give, give good, good feeling
+I:30352;75;be, movie, everyone, be movie, movie everyone
+I:30352;76;watch, want, feel, good, watch want, want feel, feel good
+I:30352;77;be, great, screenwriter, be great, great screenwriter
+I:30352;78;be, do, poignant, little, drama, great, feeling, be, set, be do, do poignant, poignant little, little drama, drama great, great feeling, feeling be, be set
+I:30352;79;movie, be, old, best, movie be, be old, old best
+I:30352;80;be, great, show, non, glamorous, actor, find, love, be, real, norm, be great, great show, show non, non glamorous, glamorous actor, actor find, find love, love be, be real, real norm
+I:30352;81;love, movie, love movie
+I:30352;82;poignant, story, average, people, profound, change, life, loneliness, widowhood, fear, frustration, boredom, shyness, poignant story, story average, average people, people profound, profound change, change life, life loneliness, loneliness widowhood, widowhood fear, fear frustration, frustration boredom, boredom shyness
+I:30352;83;film, deserve, award, film deserve, deserve award
+I:30352;84;be, same, be same
+I:30352;85;be, good, rest, support, cast, be good, good rest, rest support, support cast
+I:30352;86;be, favorite, movie, be favorite, favorite movie
+I:30352;87;sure, earn, sure earn
+I:30352;88;have, real, meaning, love, old, black, whites, real, good, one, have real, real meaning, meaning love, love old, old black, black whites, whites real, real good, good one
+I:30352;89;peel, complicated, layer, feeling, enable, find, love, peel complicated, complicated layer, layer feeling, feeling enable, enable find, find love
+I:30352;90;sweet, wonderful, film, sweet wonderful, wonderful film
+I:30352;91;enjoy, recommend, anyone, enjoy recommend, recommend anyone
+I:30352;92;enjoy, movie, lonely, people, enjoy movie, movie lonely, lonely people
+I:30352;93;enjoy, movie, have, live, enjoy movie, movie have, have live
+I:30352;94;be, great, romance, movie, age, give, best, performance, be great, great romance, romance movie, movie age, age give, give best, best performance
+I:30352;95;wife, love, movie, wife love, love movie
+I:30352;96;live, home, mother, keep, brow, beat, find, nice, girl, get, marry, live home, home mother, mother keep, keep brow, brow beat, beat find, find nice, nice girl, girl get, get marry
+I:30352;97;set, rest, film, memorable, evening, set rest, rest film, film memorable, memorable evening
+I:30352;98;movie, be, radical, departure, typical, romance, man, be, strong, witty, handsome, woman, be, beautiful, charming, be, dress, member, high, society, movie be, be radical, radical departure, departure typical, typical romance, romance man, man be, be strong, strong witty, witty handsome, handsome woman, woman be, be beautiful, beautiful charming, charming be, be dress, dress member, member high, high society
+I:30352;99;movie, do, have, be, effective, show, honest, depiction, true, romance, be, real, life, movie do, do have, have be, be effective, effective show, show honest, honest depiction, depiction true, true romance, romance be, be real, real life
+I:30352;100;enjoy, film, recommend, enjoy film, film recommend
+I:30352;101;sound, be, fine, only, bonus, be, trailer, host, sound be, be fine, fine only, only bonus, bonus be, be trailer, trailer host
+I:30352;102;be, surprise, wonderful, performance, actor, have, admire, long, time, be surprise, surprise wonderful, wonderful performance, performance actor, actor have, have admire, admire long, long time
+I:30352;103;play, gentle, kind, butcher, other, tough, guy, role, eternity, bunch, play gentle, gentle kind, kind butcher, butcher other, other tough, tough guy, guy role, role eternity, eternity bunch
+I:30352;104;movie, be, minute, be, simple, story, meet, girl, movie be, be minute, minute be, be simple, simple story, story meet, meet girl
+I:30352;105;be, character, drive, find, identify, lot, prinicipal, character, be character, character drive, drive find, find identify, identify lot, lot prinicipal, prinicipal character
+I:30352;106;wonderful, sweet, movie, wonderful sweet, sweet movie
+I:30352;107;sincerity, emotion, play, actor, be, imaginable, sincerity emotion, emotion play, play actor, actor be, be imaginable
+I:30352;108;recommend, everyone, watch, film, be, disappointed, recommend everyone, everyone watch, watch film, film be, be disappointed
+I:30352;109;remember, see, film, love, do, large, segment, population, remember see, see film, film love, love do, do large, large segment, segment population
+I:30352;110;love, buy, lol, recommend, movie, see, love buy, buy lol, lol recommend, recommend movie, movie see
+I:30352;111;film, be, top, notch, film be, be top, top notch
+I:30352;112;think, be, beautiful, film, be, do, think, star, personalite, think be, be beautiful, beautiful film, film be, be do, do think, think star, star personalite
+I:30352;113;be, many, touching, scene, be many, many touching, touching scene
+I:30352;114;recommend, film, like, see, old, fashion, romantic, picture, do, recommend film, film like, like see, see old, old fashion, fashion romantic, romantic picture, picture do
+I:30352;115;have, be, favorite, film, year, admiration, increase, repeat, viewing, have be, be favorite, favorite film, film year, year admiration, admiration increase, increase repeat, repeat viewing
+I:30352;116;give, finest, performance, career, lonely, butcher, give finest, finest performance, performance career, career lonely, lonely butcher
+I:30352;117;be, multus, be multus
+I:30352;118;layered, performance, history, film, layered performance, performance history, history film
+I:30352;119;see, appear, surface, peel, layer, layer, onion, reveal, real, deep, inside, see appear, appear surface, surface peel, peel layer, layer layer, layer onion, onion reveal, reveal real, real deep, deep inside
+I:30352;120;call, fat, ugly, man, have, beautiful, heart, world, call fat, fat ugly, ugly man, man have, have beautiful, beautiful heart, heart world
+I:30352;121;support, cast, be, first, rate, plain, support cast, cast be, be first, first rate, rate plain
+I:30352;122;film, explore, many, issue, people, ruin, person, happiness, idea, perception, change, everything, person, life, film explore, explore many, many issue, issue people, people ruin, ruin person, person happiness, happiness idea, idea perception, perception change, change everything, everything person, person life
+I:30352;123;be, film, beauty, heart, soul, have, see, equal, exceed, be film, film beauty, beauty heart, heart soul, soul have, have see, see equal, equal exceed
+I:30352;124;movie, stumble, day, be, masterpiece, movie stumble, stumble day, day be, be masterpiece
+I:30352;125;like, actor, act, ernie, do, film, be, best, have, see, actor, like actor, actor act, act ernie, ernie do, do film, film be, be best, best have, have see, see actor
+I:30352;126;film, be, funny, enjoyable, depress, film be, be funny, funny enjoyable, enjoyable depress
+I:30352;127;last, scene, movie, be, best, acting, i, see, anyone, do, face, listen, brain, last scene, scene movie, movie be, be best, best acting, acting i, i see, see anyone, anyone do, do face, face listen, listen brain
+I:30352;128;become, your, favorite, actor, become your, your favorite, favorite actor
+I:30352;129;send, son, send son
+I:30352;130;be, great, study, emotion, love, italian/american, culture, work, class, new, be great, great study, study emotion, emotion love, love italian/american, italian/american culture, culture work, work class, class new
+I:30352;131;buy, gram, buy gram
+I:30352;132;have, see, love, have see, see love
+I:30352;133;say, have, son, name, say have, have son, son name
+I:30352;134;simple, story, do, simple story, story do
+I:30352;135;ernest, borgnine, be, great, be, co, star, betsy, blair, beautiful, portray, woman, beautiful, heart, soul, ernest borgnine, borgnine be, be great, great be, be co, co star, star betsy, betsy blair, blair beautiful, beautiful portray, portray woman, woman beautiful, beautiful heart, heart soul
+I:30352;136;be, thrill, watch, night, be thrill, thrill watch, watch night
+I:30352;137;be, obvious, win, performance, wonderful, old, film, be obvious, obvious win, win performance, performance wonderful, wonderful old, old film
+I:30352;138;great, complaint, great complaint
+I:30352;139;enjoy, movie, enjoy movie
+I:30352;140;cover, weekend, life, lonely, overweight, butcher, name, cover weekend, weekend life, life lonely, lonely overweight, overweight butcher, butcher name
+I:30352;141;be, intriguing, see, cultural, mores, have, change, character, be, consider, be intriguing, intriguing see, see cultural, cultural mores, mores have, have change, change character, character be, be consider
+I:30352;142;direct, first, time, helm, production, seem, accurate, capture, atmosphere, mid, .1950, lower, middle, class, effective, setting, allow, story, take, direct first, first time, time helm, helm production, production seem, seem accurate, accurate capture, capture atmosphere, atmosphere mid, mid .1950, .1950 lower, lower middle, middle class, class effective, effective setting, setting allow, allow story, story take
+I:30352;143;observant, performance, complement, treatment, give, career, observant performance, performance complement, complement treatment, treatment give, give career
+I:30352;144;performance, title, role, performance title, title role
+I:30352;145;be, robust, be, convincing, defeat, man, bring, surprising, force, scene, self, be robust, robust be, be convincing, convincing defeat, defeat man, man bring, bring surprising, surprising force, force scene, scene self
+I:30352;146;be, modest, film, pretension, be modest, modest film, film pretension
+I:30352;147;great, classic, movie, watch, great classic, classic movie, movie watch
+I:30352;148;better, movie, watch, better movie, movie watch
+I:30352;149;someone, make, more, movie, good, someone make, make more, more movie, movie good
+I:30352;150;be, mother, be, afraid, live, own, old, age, be mother, mother be, be afraid, afraid live, live own, own old, old age
+I:30352;151;meet, dance, have, be, dump, blind, date, find, have, lot, common, enjoy, evening, immenselyis, great, move, meet dance, dance have, have be, be dump, dump blind, blind date, date find, find have, have lot, lot common, common enjoy, enjoy evening, evening immenselyis, immenselyis great, great move
+I:30352;152;be, describe, successful, sleeper, film, time, be describe, describe successful, successful sleeper, sleeper film, film time
+I:30352;153;have, see, film, agree, accolade, movie, receive, award, give, stellar, performance, film, main, character, have see, see film, film agree, agree accolade, accolade movie, movie receive, receive award, award give, give stellar, stellar performance, performance film, film main, main character
+I:30352;154;touching, film, deserve, fives, star, touching film, film deserve, deserve fives, fives star
+I:30352;155;be, dog, relate, situation, be, memorable, film, be dog, dog relate, relate situation, situation be, be memorable, memorable film
+I:30352;156;do, great, job, do, think, be, cuss, word, whole, movie, do great, great job, job do, do think, think be, be cuss, cuss word, word whole, whole movie
+I:30352;157;great, family, movie, great family, family movie
+I:30352;158;deserve, award, best, actor, deserve award, award best, best actor
+I:30352;159;life, moment, time, live, suppose, humdrum, life, seek, happiness, love, life moment, moment time, time live, live suppose, suppose humdrum, humdrum life, life seek, seek happiness, happiness love
+I:30352;160;brilliant, acting, stunning, writing, depiction, time, belong, annals, yesteryear, brilliant acting, acting stunning, stunning writing, writing depiction, depiction time, time belong, belong annals, annals yesteryear
+I:30352;161;have, become, time, favorite, movie, have become, become time, time favorite, favorite movie
+I:30352;162;recommend, movie, everyone, recommend movie, movie everyone
+I:30352;163;love, old, movie, be, fan, love old, old movie, movie be, be fan
+I:30352;164;film, east, cause, giant, be, timeless, film east, east cause, cause giant, giant be, be timeless
+I:30352;165;great, performance, be, deserve, great performance, performance be, be deserve
+I:30352;166;be, tell, see, movie, love, be tell, tell see, see movie, movie love
+I:30352;167;film, be, surprising, show, do, need, sex, non, film be, be surprising, surprising show, show do, do need, need sex, sex non
+I:30352;168;theme, be, universal, be, identifiable, most, people, end, relate, feel, respective, character, theme be, be universal, universal be, be identifiable, identifiable most, most people, people end, end relate, relate feel, feel respective, respective character
+I:30352;169;mean, film, age, remain, entertaining, adult, audience, today, mean film, film age, age remain, remain entertaining, entertaining adult, adult audience, audience today
+I:30352;170;be, enjoyable, heartwarming, film, recommend, wait, restore, remaster, version, be, available, avoid, particular, version, be enjoyable, enjoyable heartwarming, heartwarming film, film recommend, recommend wait, wait restore, restore remaster, remaster version, version be, be available, available avoid, avoid particular, particular version
+I:30352;171;enjoy, read, review, see, movie, time, enjoy, many, favorite, line, be, quote, everyone, be, fat, ugly, man, enjoy read, read review, review see, see movie, movie time, time enjoy, enjoy many, many favorite, favorite line, line be, be quote, quote everyone, everyone be, be fat, fat ugly, ugly man
+I:30352;172;make, pass, make pass
+I:30352;173;laugh, hard, watch, section, be, quote, next, day, laugh hard, hard watch, watch section, section be, be quote, quote next, next day
+I:30352;174;watch, wonderful, little, movie, first, time, many, year, last, night, watch wonderful, wonderful little, little movie, movie first, first time, time many, many year, year last, last night
+I:30352;175;be, fine, film, real, people, real, problem, be fine, fine film, film real, real people, people real, real problem
+I:30352;176;great, rest, cast, be, terrific, great rest, rest cast, cast be, be terrific
+I:30352;177;love, black, white, movie, love black, black white, white movie
+I:30352;178;be, clean, wholesome, entertainment, be clean, clean wholesome, wholesome entertainment
+I:30352;179;recommend, people, age, recommend people, people age
+I:30352;180;be, great, usual, be great, great usual
+I:30352;181;have, recommend, movie, many, people, find, anyone, do, like, have recommend, recommend movie, movie many, many people, people find, find anyone, anyone do, do like
+I:30352;182;favorite, part, be, conversation, mother, comment, find, have, go, college, such, woman, be, steppa, street, favorite part, part be, be conversation, conversation mother, mother comment, comment find, find have, have go, go college, college such, such woman, woman be, be steppa, steppa street
+I:30352;183;be, positive, base, character, aunt, go, live, mother, be positive, positive base, base character, character aunt, aunt go, go live, live mother
+I:30352;184;movie, win, best, picture, movie win, win best, best picture
+I:30352;185;act, character, development, act character, character development
+I:30352;186;ending, be, surprising, satisfying, ending be, be surprising, surprising satisfying
+I:30352;187;be, potent, move, powerful, film, loneliness, sadness, love, want, have, someone, share, life, be potent, potent move, move powerful, powerful film, film loneliness, loneliness sadness, sadness love, love want, want have, have someone, someone share, share life
+I:30352;188;film, be, humanistic, care, work, show, sympathetic, light, film be, be humanistic, humanistic care, care work, work show, show sympathetic, sympathetic light
+I:30352;189;film, remind, brief, encounter, lean, masterpiece, modern, audience, howl, laughter, protagonist, film, one, film remind, remind brief, brief encounter, encounter lean, lean masterpiece, masterpiece modern, modern audience, audience howl, howl laughter, laughter protagonist, protagonist film, film one
+I:30352;190;have, craft, move, work, resonate, today, have craft, craft move, move work, work resonate, resonate today
+I:30352;191;sweet, simple, story, lonely, shy, butcher, grapple, balance, family, work, sweet simple, simple story, story lonely, lonely shy, shy butcher, butcher grapple, grapple balance, balance family, family work
+I:30352;192;night, upscale, nightclub, meet, kindred, spirit, intelligent, plain, girl, dream, own, night upscale, upscale nightclub, nightclub meet, meet kindred, kindred spirit, spirit intelligent, intelligent plain, plain girl, girl dream, dream own
+I:30352;193;many, cup, coffee, share, heartfelt, conversation, reveal, dream, many cup, cup coffee, coffee share, share heartfelt, heartfelt conversation, conversation reveal, reveal dream
+I:30352;194;friend, family, judge, friend family, family judge
+I:30352;195;uplifting, gem, timeless, message, uplifting gem, gem timeless, timeless message
+I:30352;196;be, such, lovely, scene, movie, be, lengthy, start, be such, such lovely, lovely scene, scene movie, movie be, be lengthy, lengthy start
+I:30352;197;fact, be, dream, see, disc, last, fact be, be dream, dream see, see disc, disc last
+I:30352;198;best, movie, film, best movie, movie film
+I:30352;199;deserve, best, picture, borgnine, best, actor, deserve best, best picture, picture borgnine, borgnine best, best actor
+I:30352;200;work, mean, middle, bleak, turbulent, decade, intimate, familiar, portrait, film, work mean, mean middle, middle bleak, bleak turbulent, turbulent decade, decade intimate, intimate familiar, familiar portrait, portrait film
+I:30352;201;film, have, several, common, issue, be, wonderful, life, film have, have several, several common, common issue, issue be, be wonderful, wonderful life
+I:30352;202;best, proof, argue, be, double, cross, seal, decade, best proof, proof argue, argue be, be double, double cross, cross seal, seal decade
+I:30352;203;unforgettable, acting, win, best, actor, unforgettable acting, acting win, win best, best actor
+I:30352;204;excellent, example, be, early, scene, appear, night, club, excellent example, example be, be early, early scene, scene appear, appear night, night club
+I:30352;205;later, scene, involve, ring, true, simplicity, later scene, scene involve, involve ring, ring true, true simplicity
+I:30352;206;layered, film, have, powerful, emotional, kick, layered film, film have, have powerful, powerful emotional, emotional kick
+I:30352;207;be, straight, filmmake, best, be straight, straight filmmake, filmmake best
+I:30352;208;law, respective, mother, mother, law respective, respective mother, mother mother
+I:30352;209;be, classic, form, film, be classic, classic form, form film
+I:30352;210;film, be, important, be, such, work, build, whole, theory, hot, cool, media, film be, be important, important be, be such, such work, work build, build whole, whole theory, theory hot, hot cool, cool media
+I:30352;211;cinema, be, hot, high, definition, wide, screen, wide, shot, television, be, cool, low, definition, image, concentrate, character, close, cinema be, be hot, hot high, high definition, definition wide, wide screen, screen wide, wide shot, shot television, television be, be cool, cool low, low definition, definition image, image concentrate, concentrate character, character close
+I:30352;212;be, funny, read, theory, build, film, black, white, television, oblong, screen, be funny, funny read, read theory, theory build, build film, film black, black white, white television, television oblong, oblong screen
+I:30352;213;want, see, difference, today, tv, watch, series, high, definition, big, screen, permit, wide, picture, lot, action, numerous, character, lot, detail, want see, see difference, difference today, today tv, tv watch, watch series, series high, high definition, definition big, big screen, screen permit, permit wide, wide picture, picture lot, lot action, action numerous, numerous character, character lot, lot detail
+I:30352;214;enable, director, use, lot, flashback, flash, enable director, director use, use lot, lot flashback, flashback flash
+I:30352;215;pulp, fiction, be, rare, film, do, follow, timeline, plot, cut, jumble, piece, pulp fiction, fiction be, be rare, rare film, film do, do follow, follow timeline, timeline plot, plot cut, cut jumble, jumble piece
+I:30352;216;be, film, exception, be film, film exception
+I:30352;217;film, demonstrate, important, be, have, logical, timeline, film demonstrate, demonstrate important, important be, be have, have logical, logical timeline
+I:30352;218;film, have, punch, line, have, film have, have punch, punch line, line have
+I:30352;219;human, real, plot, many, viewer, identify, human real, real plot, plot many, many viewer, viewer identify
+I:30352;220;enjoy, see, enjoy see
+I:30352;221;such, thought, be, forbid, religion, such thought, thought be, be forbid, forbid religion
+I:30352;222;film, win, oscar, best, film win, win oscar, oscar best
+I:30352;223;film, capture, very, heart, be, be, lonely, find, love, sacrifice, film capture, capture very, very heart, heart be, be be, be lonely, lonely find, find love, love sacrifice
+I:30352;224;like, fact, new, relationship, mirror, life, be, like fact, fact new, new relationship, relationship mirror, mirror life, life be
+I:30352;225;get, clearer, picture, make, change, get clearer, clearer picture, picture make, make change
+I:30352;226;be, great, movie, recommend, be great, great movie, movie recommend
+I:30352;227;film, be, true, gem, film be, be true, true gem
+I:30352;228;performance, be, great, writing, be, superb, performance be, be great, great writing, writing be, be superb
+I:30352;229;present, day, take, lesson, film, present day, day take, take lesson, lesson film
+I:30352;230;be, make, good, movie, be make, make good, good movie
+I:30352;231;be, male, version, chick, flick, film, fit, bill, be male, male version, version chick, chick flick, flick film, film fit, fit bill
+I:30352;232;be, movie, everyone, appreciate, have, universal, message, be movie, movie everyone, everyone appreciate, appreciate have, have universal, universal message
+I:30352;233;time, watch, sleeper, hit, make, cry, be, uplifting, sentimental, time watch, watch sleeper, sleeper hit, hit make, make cry, cry be, be uplifting, uplifting sentimental
+I:30352;234;be, amazing, lonely, self, be amazing, amazing lonely, lonely self
+I:30352;235;be, riveting, watch, transformation, shift, everyday, persona, passionate, private, self, be riveting, riveting watch, watch transformation, transformation shift, shift everyday, everyday persona, persona passionate, passionate private, private self
+I:30352;236;live, home, good, italian, live home, home good, good italian
+I:30352;237;build, confidence, ask, lady, dance, decline, build confidence, confidence ask, ask lady, lady dance, dance decline
+I:30352;238;go, say, take, arm, be, love, first, sight, go say, say take, take arm, arm be, be love, love first, first sight
+I:30352;239;hold, breath, have, such, look, anticipation, woman, get, 10th, month, pregnancy, hold breath, breath have, have such, such look, look anticipation, anticipation woman, woman get, get 10th, 10th month, month pregnancy
+I:30352;240;yell, friend, perhpap, honest, revelation, think, yell friend, friend perhpap, perhpap honest, honest revelation, revelation think
+I:30352;241;provoke, display, honesty, depict, big, screen, know, be, have, good, time, last, night, provoke display, display honesty, honesty depict, depict big, big screen, screen know, know be, be have, have good, good time, time last, last night
+I:30352;242;make, party, get, date, party, make party, party get, get date, date party
+I:30352;243;be, significant, film, myriad, reason, be significant, significant film, film myriad, myriad reason
+I:30352;244;be, first, picture, type, display, social, personal, problem, guy, perspective, be first, first picture, picture type, type display, display social, social personal, personal problem, problem guy, guy perspective
+I:30352;245;be, important, movie, showcase, modern, young, way, thinking, traditional, archaic, way, thinking, mother, aunt, be important, important movie, movie showcase, showcase modern, modern young, young way, way thinking, thinking traditional, traditional archaic, archaic way, way thinking, thinking mother, mother aunt
+I:30352;246;enjoy, movie, have, positive, message, say, be, someone, everyone, give, matther, anyone, say, enjoy movie, movie have, have positive, positive message, message say, say be, be someone, someone everyone, everyone give, give matther, matther anyone, anyone say
+I:30352;247;be, much, alive, be much, much alive
+I:30352;248;be, oldest, winner, autobiography, be, publish, be oldest, oldest winner, winner autobiography, autobiography be, be publish
+I:30352;249;win, best, actor, show, tenderness, lead, lady, family, challenge, friend, approach, life, date, win best, best actor, actor show, show tenderness, tenderness lead, lead lady, lady family, family challenge, challenge friend, friend approach, approach life, life date
+I:30352;250;good, film, worth, watch, good film, film worth, worth watch
+I:30352;251;be, best, movie, be best, best movie
+I:30352;252;recommend, movie, anyone, newer, generation, need, see, good, movie, recommend movie, movie anyone, anyone newer, newer generation, generation need, need see, see good, good movie
+I:30352;253;write, talented, have, go, script, decade, be, sweet, perceptive, film, lose, soul, find, other, write talented, talented have, have go, go script, script decade, decade be, be sweet, sweet perceptive, perceptive film, film lose, lose soul, soul find, find other
+I:30352;254;skilled, character, actor, support, player, win, best, actor, several, more, photogenic, lead, man, film, skilled character, character actor, actor support, support player, player win, win best, best actor, actor several, several more, more photogenic, photogenic lead, lead man, man film
+I:30352;255;playhouse, gem, television, golden, age, playhouse gem, gem television, television golden, golden age
+I:30352;256;win, best, screenplay, win best, best screenplay
+I:30352;257;unique, irresistible, film, romance, unique irresistible, irresistible film, film romance
+I:30352;258;be, simple, unadorned, effective, mellowdrama, be simple, simple unadorned, unadorned effective, effective mellowdrama
+I:30352;259;be, boy, be, approach, middle, age, be boy, boy be, be approach, approach middle, middle age
+I:30352;260;marty, realize, be, last, best, chance, love, happiness, marty realize, realize be, be last, last best, best chance, chance love, love happiness
+I:30352;261;be, find, woman, see, physical, like, be find, find woman, woman see, see physical, physical like
+I:30352;262;make, right, choice, heartwarming, finish, make right, right choice, choice heartwarming, heartwarming finish
+I:30352;263;next, day, pressure, life, next day, day pressure, pressure life
+I:30352;264;be, wonderful, film, capture, loneliness, self, be wonderful, wonderful film, film capture, capture loneliness, loneliness self
+I:30352;265;rate, dialogue, be, memorable, rate dialogue, dialogue be, be memorable
+I:30352;266;other, have, say, lose, sight, fact, people, be, actor, make, character, other have, have say, say lose, lose sight, sight fact, fact people, people be, be actor, actor make, make character
+I:30352;267;realize, time, make, good, movie, country, time, city, be, livable, people, dress, go, public, look, bunch, homeless, people, realize time, time make, make good, good movie, movie country, country time, time city, city be, be livable, livable people, people dress, dress go, go public, public look, look bunch, bunch homeless, homeless people
+I:30352;268;be, great, movie, glimpse, let, slip, be great, great movie, movie glimpse, glimpse let, let slip
+I:30352;269;great, screenwriter, paddy, chayefsky, come, prominence, movie, night, life, lonely, 35ish, butcher, bronx, great screenwriter, screenwriter paddy, paddy chayefsky, chayefsky come, come prominence, prominence movie, movie night, night life, life lonely, lonely 35ish, 35ish butcher, butcher bronx
+I:30352;270;ernest, borgnine, have, role, career, reflect, man, wrestling, loneliness, face, expectation, other, strong, support, work, rest, cast, ernest borgnine, borgnine have, have role, role career, career reflect, reflect man, man wrestling, wrestling loneliness, loneliness face, face expectation, expectation other, other strong, strong support, support work, work rest, rest cast
+I:30352;271;be, fine, film, explore, lonliness, plain, people, like, love, be, love, be fine, fine film, film explore, explore lonliness, lonliness plain, plain people, people like, like love, love be, be love
+I:30352;272;motivation, act, casting, be, superb, motivation act, act casting, casting be, be superb
+I:30352;273;writer, understand, human, nature, show, writer understand, understand human, human nature, nature show
+I:30352;274;be, plain, girl, cast, be plain, plain girl, girl cast
+I:30352;275;be, beautiful, fact, real, life, be, wife, be beautiful, beautiful fact, fact real, real life, life be, be wife
+I:30352;276;make, plain, possible, makeup, lack, same, play, part, make plain, plain possible, possible makeup, makeup lack, lack same, same play, play part
+I:30352;277;go, be, attractive, man, age, go be, be attractive, attractive man, man age
+I:30352;278;enjoy, show, think, excellent, study, human, nature, self, enjoy show, show think, think excellent, excellent study, study human, human nature, nature self
+I:30352;279;wonderful, story, great, acting, wonderful story, story great, great acting
+I:30352;280;love, film, love film
+I:30352;281;be, perfect, role, middle, aged, bachelor, live, home, mother, have, much, give, find, special, someone, share, life, be perfect, perfect role, role middle, middle aged, aged bachelor, bachelor live, live home, home mother, mother have, have much, much give, give find, find special, special someone, someone share, share life
+I:30352;282;meet, match, plain, sweet, mousy, schoolteacher, local, dance, hall, be, life, have, begin, meet match, match plain, plain sweet, sweet mousy, mousy schoolteacher, schoolteacher local, local dance, dance hall, hall be, be life, life have, have begin
+I:30352;283;film, have, see, fall, love, have, see, appeal, kind, level, film have, have see, see fall, fall love, love have, have see, see appeal, appeal kind, kind level
+I:30352;284;be, soggy, sap, chap, love, good, love, story, be soggy, soggy sap, sap chap, chap love, love good, good love, love story
+I:30352;285;say, be, region, say be, be region
+I:30352;286;outstanding, film, deserve, outstanding film, film deserve
+I:30352;287;do, great, job, average, joe, everyone, give, hard, time, be, marry, younger, sister, brother, be, marry, do great, great job, job average, average joe, joe everyone, everyone give, give hard, hard time, time be, be marry, marry younger, younger sister, sister brother, brother be, be marry
+I:30352;288;be, fantastic, decide, think, do, matter, matter, be, think, feel, be fantastic, fantastic decide, decide think, think do, do matter, matter matter, matter be, be think, think feel
+I:30352;289;be, sweet, movie, be sweet, sweet movie
+I:30352;290;enjoy, view, girl, enjoy view, view girl
+I:30352;291;be, important, be important
+I:30352;292;be, be, look, girl, night, life, get, heart, break, be be, be look, look girl, girl night, night life, life get, get heart, heart break
+I:30352;293;be, good, hype, be good, good hype
+I:30352;294;be, national, treasure, capture, life, common, folk, be, interesting, see, society, have, change, be national, national treasure, treasure capture, capture life, life common, common folk, folk be, be interesting, interesting see, see society, society have, have change
+I:30352;295;be, go, be, universal, agony, loneliness, portray, be go, go be, be universal, universal agony, agony loneliness, loneliness portray
+I:30352;296;be, loveable, profound, make, act, look, effortless, be, glad, win, performance, be loveable, loveable profound, profound make, make act, act look, look effortless, effortless be, be glad, glad win, win performance
+I:30352;297;support, cast, be, outstanding, lady, play, mother, aunt, support cast, cast be, be outstanding, outstanding lady, lady play, play mother, mother aunt
+I:30352;298;bring, hankie, be, wonderful, movie, bring hankie, hankie be, be wonderful, wonderful movie
+I:30352;299;many, star, call, support, actress, dog, win, academy, award, many star, star call, call support, support actress, actress dog, dog win, win academy, academy award
+I:30352;300;find, nice, young, woman, get, marry, find nice, nice young, young woman, woman get, get marry
+I:30352;301;deliver, powerful, performance, lesson, non, deliver powerful, powerful performance, performance lesson, lesson non
+I:30352;302;costar, name, appear, era, end, acting, career, early, costar name, name appear, appear era, era end, end acting, acting career, career early
+I:30352;303;odds, win, role, lifetime, cinematic, classic, dance, legend, gene, husband, year, threaten, stop, shoot, picture, be, allow, lead, part, blacklist, odds win, win role, role lifetime, lifetime cinematic, cinematic classic, classic dance, dance legend, legend gene, gene husband, husband year, year threaten, threaten stop, stop shoot, shoot picture, picture be, be allow, allow lead, lead part, part blacklist
+I:30352;304;be, movie, watch, be movie, movie watch
+I:30352;305;brother, sister, younger, get, marry, get, win, performance, title, character, be, captivating, forget, real, star, film, be, writer, brother sister, sister younger, younger get, get marry, marry get, get win, win performance, performance title, title character, character be, be captivating, captivating forget, forget real, real star, star film, film be, be writer
+I:30352;306;telecast, make, greatest, writer, television, second, patterns, heavyweight, telecast make, make greatest, greatest writer, writer television, television second, second patterns, patterns heavyweight
+I:30352;307;year, director, reunite, make, year director, director reunite, reunite make
+I:30352;308;minute, film, version, story, be, expand, author, explore, pain, be, unwanted, minute film, film version, version story, story be, be expand, expand author, author explore, explore pain, pain be, be unwanted
+I:30352;309;make, rejection, painful, be, be, decent, people, come, be, able, recognize, own, decent, quality, other, make rejection, rejection painful, painful be, be be, be decent, decent people, people come, come be, be able, able recognize, recognize own, own decent, decent quality, quality other
+I:30352;310;think, performance, be, convincing, compelling, think performance, performance be, be convincing, convincing compelling
+I:30352;311;esteem, sense, confidence, have, be, erode, friend, family, esteem sense, sense confidence, confidence have, have be, be erode, erode friend, friend family
+I:30352;312;romantic, be, romantic, be, great, dialogue, go, ballroom, romantic be, be romantic, romantic be, be great, great dialogue, dialogue go, go ballroom
+I:30352;313;put, blue, suit, go, put blue, blue suit, suit go
+I:30352;314;big, night, heartache, want, know, be, have, good, time, enjoy, big night, night heartache, heartache want, want know, know be, be have, have good, good time, time enjoy
+I:30352;315;see, be, such, dog, think, be, get, real, nice, face, know, see be, be such, such dog, dog think, think be, be get, get real, real nice, nice face, face know
+I:30352;316;nice, face, like, see, nice face, face like, like see
+I:30352;317;reason, tell, be, want, see, reason tell, tell be, be want, want see
+I:30352;318;want, much, see, want much, much see
+I:30352;319;tell, love, story, love, come, late, game, people, believe, be, come, tell love, love story, story love, love come, come late, late game, game people, people believe, believe be, be come
+I:30352;320;write, gifted, be, memorable, film, direct, write gifted, gifted be, be memorable, memorable film, film direct
+I:30352;321;have, stage, have stage
+I:30352;322;take, cue, sister, be, live, son, daughter, take cue, cue sister, sister be, be live, live son, son daughter
+I:30352;323;be, go, move, mother, be go, go move, move mother
+I:30352;324;educate, nice, plain, educate nice, nice plain
+I:30352;325;film, peel, layer, viewer, meet, sensitive, kind, man, live, unattractive, exterior, film peel, peel layer, layer viewer, viewer meet, meet sensitive, sensitive kind, kind man, man live, live unattractive, unattractive exterior
+I:30352;326;ouster, son, home, older, unwanted, woman, few, option, life, make, impact, viewer, ouster son, son home, home older, older unwanted, unwanted woman, woman few, few option, option life, life make, make impact, impact viewer
+I:30352;327;be, excellent, film, be excellent, excellent film
+I:30352;328;enjoy, film, seek, film, cater, star, be, bitter, sweet, film, family, enjoy film, film seek, seek film, film cater, cater star, star be, be bitter, bitter sweet, sweet film, film family
+I:30352;329;be, important, review, movie, be important, important review, review movie
+I:30352;330;be, surprised, first, time, watch, movie, be surprised, surprised first, first time, time watch, watch movie
+I:30352;331;be, heartwarming, slice, human, condition, matter, year, be heartwarming, heartwarming slice, slice human, human condition, condition matter, matter year
+I:30352;332;acting, be, bit, old, fashion, script, bit, predictable, point, sweet, lovely, story, acting be, be bit, bit old, old fashion, fashion script, script bit, bit predictable, predictable point, point sweet, sweet lovely, lovely story
+I:30352;333;movie, whole, family, watch, movie whole, whole family, family watch
+I:30352;334;old, fashion, good, time, old fashion, fashion good, good time
+I:30352;335;be, simple, story, be, real, feel, know, be simple, simple story, story be, be real, real feel, feel know
+I:30352;336;be, mother, be, afraid, live, own, old, age, be mother, mother be, be afraid, afraid live, live own, own old, old age
+I:30352;337;meet, dance, have, be, dump, blind, date, find, have, lot, common, enjoy, evening, meet dance, dance have, have be, be dump, dump blind, blind date, date find, find have, have lot, lot common, common enjoy, enjoy evening
+I:30352;338;spite, film, be, make, more, year, be, fresh, real, spite film, film be, be make, make more, more year, year be, be fresh, fresh real
+I:30352;339;be, master, dialog, be master, master dialog
+I:30352;340;audience, get, audience get
+I:30352;341;be, family, love, simple, thing, life, be family, family love, love simple, simple thing, thing life
+I:30352;342;acting, be, real, forget, be, actor, acting be, be real, real forget, forget be, be actor
+I:30352;343;love, give, highest, recommendation, love give, give highest, highest recommendation
+I:30352;344;strange, say, be, strange say, say be
+I:30352;345;be, modest, movie, make, big, splash, theatre, garner, top, honor, award, include, best, actor, be modest, modest movie, movie make, make big, big splash, splash theatre, theatre garner, garner top, top honor, honor award, award include, include best, best actor
+I:30352;346;cause, passionate, outburst, own, physical, deficiency, other, thing, wind, put, blue, suit, go, dance, cause passionate, passionate outburst, outburst own, own physical, physical deficiency, deficiency other, other thing, thing wind, wind put, put blue, blue suit, suit go, go dance
+I:30352;347;be, depict, scene, resonate, anyone, have, feel, unlucky, love, get, attention, crave, opposite, sex, be depict, depict scene, scene resonate, resonate anyone, anyone have, have feel, feel unlucky, unlucky love, love get, get attention, attention crave, crave opposite, opposite sex
+I:30352;348;be, do, audience, help, feel, people, put, emotion, line, hope, acceptance, last, be do, do audience, audience help, help feel, feel people, people put, put emotion, emotion line, line hope, hope acceptance, acceptance last
+I:30352;349;have, see, many, year, view, say, hit, home, today, have see, see many, many year, year view, view say, say hit, hit home, home today
+I:30352;350;dog, sure, have, day, dog sure, sure have, have day
+I:30352;351;give, win, performance, single, man, mid, give win, win performance, performance single, single man, man mid
+I:30352;352;enjoy, performance, enjoy performance
+I:30352;353;be, classic, movie, win, be classic, classic movie, movie win
+I:30352;354;lite, hearted, film, be, wonderful, movie, lite hearted, hearted film, film be, be wonderful, wonderful movie
+I:30352;355;have, let, see, side, fine, actor, have let, let see, see side, side fine, fine actor
+I:30352;356;man, be, be, able, do, many, role, man be, be be, be able, able do, do many, many role
+I:30352;357;be, finest, movie, role, do, be finest, finest movie, movie role, role do
+I:30352;358;a, wonderful, movie, be, welcome, addition, collection, a wonderful, wonderful movie, movie be, be welcome, welcome addition, addition collection
+I:30352;359;be, great, see, peer, pressure, do, be, right, connect, love, life, be great, great see, see peer, peer pressure, pressure do, do be, be right, right connect, connect love, love life
+I:30352;360;motion, picture, be, great, example, little, human, condition, have, change, motion picture, picture be, be great, great example, example little, little human, human condition, condition have, have change
+I:30352;361;marty, be, great, dramatic, film, special, effect, be, superb, act, write, marty be, be great, great dramatic, dramatic film, film special, special effect, effect be, be superb, superb act, act write
+I:30352;362;do, favor, watch, classic, best, handsome, do favor, favor watch, watch classic, classic best, best handsome
+I:30352;363;story, be, endearing, inspiring, story be, be endearing, endearing inspiring
+I:30352;364;be, caring, decent, attractive, italian, man, live, home, mother, be caring, caring decent, decent attractive, attractive italian, italian man, man live, live home, home mother
+I:30352;365;best, friend, be, loser, want, make, sure, do, suffer, best friend, friend be, be loser, loser want, want make, make sure, sure do, do suffer
+I:30352;366;be, bring, dance, cad, dump, woman, be bring, bring dance, dance cad, cad dump, dump woman
+I:30352;367;marty, be, entertaining, movie, be, simple, one, think, give, focused, intent, breaking, bond, marty be, be entertaining, entertaining movie, movie be, be simple, simple one, one think, think give, give focused, focused intent, intent breaking, breaking bond
+I:30352;368;audience, do, audience do
+I:30352;369;pressure, touching, deft, wit, pressure touching, touching deft, deft wit
+I:30352;370;dialogue, be, marvelous, observation, making, nice, guy, do, get, be, good, dialogue be, be marvelous, marvelous observation, observation making, making nice, nice guy, guy do, do get, get be, be good
+I:30352;371;secondary, character, include, jealous, best, friend, aging, italian, secondary character, character include, include jealous, jealous best, best friend, friend aging, aging italian
+I:30352;372;widow, mother, desire, see, married, segue, fear, mean, provide, right, amount, tension, story, contribute, film, main, theme, widow mother, mother desire, desire see, see married, married segue, segue fear, fear mean, mean provide, provide right, right amount, amount tension, tension story, story contribute, contribute film, film main, main theme
+I:30352;373;appreciate, warm, genuine, story, lonely, people, manage, find, other, appreciate warm, warm genuine, genuine story, story lonely, lonely people, people manage, manage find, find other
+I:30352;374;be, bachelor, find, love, simple, girl, be bachelor, bachelor find, find love, love simple, simple girl
+I:30352;375;deliver, worthy, performance, deliver worthy, worthy performance
+I:30352;376;story, be, good, story be, be good
+I:30352;377;be, best, thing, movie, be best, best thing, thing movie
+I:30352;378;do, appreciate, be, look, order, more, movie, near, future, do appreciate, appreciate be, be look, look order, order more, more movie, movie near, near future
+I:30352;379;be, best, film, make, be best, best film, film make
+I:30352;380;show, reality, main, character, situation, show, cultural, realm, live, show reality, reality main, main character, character situation, situation show, show cultural, cultural realm, realm live
+I:30352;381;shine, story, be, impressed, act, time, watch, shine story, story be, be impressed, impressed act, act time, time watch
+I:30352;382;excellent, film, dont, have, gut, make, em, good, movie, remind, night, singles, dance, year, feel, marty, movie, meet, girl, meet, movie, realistic, portrail, people, operate, excellent film, film dont, dont have, have gut, gut make, make em, em good, good movie, movie remind, remind night, night singles, singles dance, dance year, year feel, feel marty, marty movie, movie meet, meet girl, girl meet, meet movie, movie realistic, realistic portrail, portrail people, people operate
+I:30352;383;have, get, be, absolute, best, movie, have, see, have get, get be, be absolute, absolute best, best movie, movie have, have see
+I:30352;384;touching, love, story, star, make, believable, touching love, love story, story star, star make, make believable
+I:30352;385;be, kindest, gentleman, cross, golden, screen, be kindest, kindest gentleman, gentleman cross, cross golden, golden screen
+I:30352;386;anyone, everyone, like, good, love, story, please, see, movie, anyone everyone, everyone like, like good, good love, love story, story please, please see, see movie
+I:30352;387;thanks, make, film, possible, thanks make, make film, film possible
+I:30352;388;love, watch, network, television, wait, own, watch, want, love watch, watch network, network television, television wait, wait own, own watch, watch want
+I:30352;389;time, favorite, see, time favorite, favorite see
+I:30352;390;film, ring, true, many, way, do, excellent, job, title, role, film ring, ring true, true many, many way, way do, do excellent, excellent job, job title, title role
+I:30352;391;matter, be, great, movie, excellent, character, story, matter be, be great, great movie, movie excellent, excellent character, character story
+I:30352;392;great, act, win, best, actor, award, great act, act win, win best, best actor, actor award
+I:30352;393;be, oddity, award, win, history, be oddity, oddity award, award win, win history
+I:30352;394;be, first, only, time, movie, base, popular, television, show, have, win, best, be first, first only, only time, time movie, movie base, base popular, popular television, television show, show have, have win, win best
+I:30352;395;concern, son, bachelorhood, be, comical, refer, girl, tomato, suggest, son, pluck, be, ripe, pick, local, dance, concern son, son bachelorhood, bachelorhood be, be comical, comical refer, refer girl, girl tomato, tomato suggest, suggest son, son pluck, pluck be, be ripe, ripe pick, pick local, local dance
+I:30352;396;have, present, nice, look, full, frame, transfer, have present, present nice, nice look, look full, full frame, frame transfer
+I:30352;397;b, w, picture, exhibit, solid, stable, gray, scale, be, balanced, b w, w picture, picture exhibit, exhibit solid, solid stable, stable gray, gray scale, scale be, be balanced
+I:30352;398;contrast, shadow, level, be, adequate, contrast shadow, shadow level, level be, be adequate
+I:30352;399;audio, be, balanced, audio be, be balanced
+I:30352;400;gem, play, be, produce, tv, title, role, gem play, play be, be produce, produce tv, tv title, title role
+I:30352;401;portrayal, be, emotional, real, portrayal be, be emotional, emotional real
+I:30352;402;be, nominate, performance, friend, be nominate, nominate performance, performance friend
+I:30352;403;line, sum, beautiful, movie, come, tv, golden, age, be, know, be, line sum, sum beautiful, beautiful movie, movie come, come tv, tv golden, golden age, age be, be know, know be
+I:30352;404;be, real, movie, middle, aged, bachelor, be real, real movie, movie middle, middle aged, aged bachelor
+I:30352;405;esteem, single, status, esteem single, single status
+I:30352;406;film, be, truer, life, have, real, up, downs, film be, be truer, truer life, life have, have real, real up, up downs
+I:30352;407;many, people, lead, happy, life, hardship, trial, similar, be, hope, happiness, hard, time, many people, people lead, lead happy, happy life, life hardship, hardship trial, trial similar, similar be, be hope, hope happiness, happiness hard, hard time
+I:30352;408;behavior, see, be, brief, shortest, best, winner, fact, behavior see, see be, be brief, brief shortest, shortest best, best winner, winner fact
+I:30352;409;let, forget, momnet, fine, performance, cast, picture, let forget, forget momnet, momnet fine, fine performance, performance cast, cast picture
+I:30352;410;thing, make, movie, great, be, italian, family, be, write, thing make, make movie, movie great, great be, be italian, italian family, family be, be write
+I:30352;411;be, real, come, be real, real come
+I:30352;412;real, movie, see, real movie, movie see
+I:30352;413;do, screenplay, do screenplay
+I:30352;414;be, short, film, pack, powerful, message, be short, short film, film pack, pack powerful, powerful message
+I:30352;415;be, credible, role, buddy, be credible, credible role, role buddy
+I:30352;416;movie, walk, several, award, receive, best, best, director, best, actor, best, screenplay, movie walk, walk several, several award, award receive, receive best, best best, best director, director best, best actor, actor best, best screenplay
+I:30352;417;win, best, actress, same, year, appearance, rose, tatoo, win best, best actress, actress same, same year, year appearance, appearance rose, rose tatoo
+I:30352;418;be, great, movie, be great, great movie
+I:30352;419;lesson, movie, be, companionship, connect, someonedo, start, visual, lesson movie, movie be, be companionship, companionship connect, connect someonedo, someonedo start, start visual
+I:30352;420;be, person, make, feel, be, be person, person make, make feel, feel be
+I:30352;421;be, such, charming, enchanting, film, be such, such charming, charming enchanting, enchanting film
+I:30352;422;deserve, best, actor, film, deserve best, best actor, actor film
+I:30352;423;film, win, academy, award, best, picture, have, be, mainstream, day, film win, win academy, academy award, award best, best picture, picture have, have be, be mainstream, mainstream day
+I:30352;424;amazing, think, mere, year, life, be, live, way, amazing think, think mere, mere year, year life, life be, be live, live way
+I:30352;425;attitude, marriage, woman, be, amazing, film, attitude marriage, marriage woman, woman be, be amazing, amazing film
+I:30352;426;be, entertaining, own, quaint, way, be entertaining, entertaining own, own quaint, quaint way
+I:30352;427;something, man, living, home, mother, go, mass, something man, man living, living home, home mother, mother go, go mass
+I:30352;428;best, friend, have, spend, night, loving, mother, fear, happen, get, marry, best friend, friend have, have spend, spend night, night loving, loving mother, mother fear, fear happen, happen get, get marry
+I:30352;429;film, be, success, ring, true, today, truthful, simplicity, film be, be success, success ring, ring true, true today, today truthful, truthful simplicity
+I:30352;430;see, get, basics, see get, get basics
+I:30352;431;give, definite, warm, fuzzy, feeling, give definite, definite warm, warm fuzzy, fuzzy feeling
+I:30352;432;love, way, story, end, couple, movie, warm, heart, love way, way story, story end, end couple, couple movie, movie warm, warm heart
+I:30352;433;be, great, love, story, be great, great love, love story
+I:30352;434;have, many, enjoyable, moment, have many, many enjoyable, enjoyable moment
+I:30352;435;great, performance, great performance
+I:30352;436;classic, love, classic love
+I:30352;437;movie, be, great, movie be, be great
+I:30352;438;deserve, win, best, package, hour, deserve win, win best, best package, package hour
+I:30352;439;day, silent, picture, have, give, story, beautiful, glamorous, woman, be, romance, dash, hero, magnificent, profile, day silent, silent picture, picture have, have give, give story, story beautiful, beautiful glamorous, glamorous woman, woman be, be romance, romance dash, dash hero, hero magnificent, magnificent profile
+I:30352;440;movie, make, pleasant, escape, fare, have, give, unwarranted, expectation, have, hear, mermaid, singing, movie make, make pleasant, pleasant escape, escape fare, fare have, have give, give unwarranted, unwarranted expectation, expectation have, have hear, hear mermaid, mermaid singing
+I:30352;441;be, rare, movie, tell, real, people, matter, human, relationship, be rare, rare movie, movie tell, tell real, real people, people matter, matter human, human relationship
+I:30352;442;be, good, decent, people, find, other, night, friend, fixate, way, handle, doll, wild, nurse, be, drunk, earth, be, be good, good decent, decent people, people find, find other, other night, night friend, friend fixate, fixate way, way handle, handle doll, doll wild, wild nurse, nurse be, be drunk, drunk earth, earth be
+I:30352;443;acting, be, first, rate, start, finish, acting be, be first, first rate, rate start, start finish
+I:30352;444;be, date, movie, appeal, dim, bulb, world, be, top, notch, film, respect, be date, date movie, movie appeal, appeal dim, dim bulb, bulb world, world be, be top, top notch, notch film, film respect
+I:30352;445;simple, story, capture, pain, everyday, single, man, simple story, story capture, capture pain, pain everyday, everyday single, single man
+I:30352;446;be, fantastic, actor, be, side, break, friend, go, girl, be fantastic, fantastic actor, actor be, be side, side break, break friend, friend go, go girl
+I:30352;447;few, movie, man, woman, be, handsome, beautiful, find, happiness, same, few movie, movie man, man woman, woman be, be handsome, handsome beautiful, beautiful find, find happiness, happiness same
+I:30352;448;bring, awareness, own, plainness, leave, face, bring awareness, awareness own, own plainness, plainness leave, leave face
+I:30352;449;recommend, people, like, small, film, recommend people, people like, like small, small film
+I:30352;450;be, great, movie, give, star, be great, great movie, movie give, give star
+I:30352;451;be, great, american, film, 20th, greatest, american, romance, make, be great, great american, american film, film 20th, 20th greatest, greatest american, american romance, romance make
+I:30352;452;be, sweet, natured, guy, good, heart, stocky, build, perfect, look, be sweet, sweet natured, natured guy, guy good, good heart, heart stocky, stocky build, build perfect, perfect look
+I:30352;453;be, feeling, pressure, customer, friend, family, get, marry, be feeling, feeling pressure, pressure customer, customer friend, friend family, family get, get marry
+I:30352;454;be, brilliant, plot, twist, screenplay, be brilliant, brilliant plot, plot twist, twist screenplay
+I:30352;455;be, great, film, deserve, get, be, best, picture, american, have, produce, be great, great film, film deserve, deserve get, get be, be best, best picture, picture american, american have, have produce
+I:30352;456;simple, character, study, be, deep, multileveled, examination, love, human, condition, simple character, character study, study be, be deep, deep multileveled, multileveled examination, examination love, love human, human condition
+I:30352;457;surface, look, family, friend, be, interested, happiness, pressure, get, marry, surface look, look family, family friend, friend be, be interested, interested happiness, happiness pressure, pressure get, get marry
+I:30352;458;miserable, dissatisfied, own, life, miserable dissatisfied, dissatisfied own, own life
+I:30352;459;want, take, happiness, want take, take happiness
+I:30352;460;represent, courage, drive, character, something, desire, own, life, represent courage, courage drive, drive character, character something, something desire, desire own, own life
+I:30352;461;inspire, other, make, change, life, find, happiness, self, inspire other, other make, make change, change life, life find, find happiness, happiness self
+I:30352;462;love, movie!production, value, be, amazing, movie, love movie!production, movie!production value, value be, be amazing, amazing movie
+I:30352;463;film, location, work, great, advantage, film location, location work, work great, great advantage
+I:30352;464;lifelong, resident, be, delight, take, trip, time, see, place, go, shop, hang, weekend, look, year, lifelong resident, resident be, be delight, delight take, take trip, trip time, time see, see place, place go, go shop, shop hang, hang weekend, weekend look, look year
+I:30352;465;paddy, win, screenplay, be, work, art, paddy win, win screenplay, screenplay be, be work, work art
+I:30352;466;plain, simple, be, brilliant, plain simple, simple be, be brilliant
+I:30352;467;line, have, purpose, action, have, reason, be, line have, have purpose, purpose action, action have, have reason, reason be
+I:30352;468;dialogue, feel, storyline, tighter, drum, be, work, master, craft, height, prime, dialogue feel, feel storyline, storyline tighter, tighter drum, drum be, be work, work master, master craft, craft height, height prime
+I:30352;469;act, be, best, have, see, act be, be best, best have, have see
+I:30352;470;be, powerful, be powerful
+I:30352;471;bring, warmth, humanity, love, compassion, character, bring warmth, warmth humanity, humanity love, love compassion, compassion character
+I:30352;472;deserve, best, actor, deserve best, best actor
+I:30352;473;be, beautiful, dowdy, schoolteacher, be beautiful, beautiful dowdy, dowdy schoolteacher
+I:30352;474;have, great, chemistry, bring, inner, beauty, homely, character, have great, great chemistry, chemistry bring, bring inner, inner beauty, beauty homely, homely character
+I:30352;475;be, great, buddy, be great, great buddy
+I:30352;476;feel, neighborhood, guy, era, feel neighborhood, neighborhood guy, guy era
+I:30352;477;aged, woman, sit, house, contemplate, lonely, future, be, best, scene, movie, do, miss, it!marty, be, top, essential, video, aged woman, woman sit, sit house, house contemplate, contemplate lonely, lonely future, future be, be best, best scene, scene movie, movie do, do miss, miss it!marty, it!marty be, be top, top essential, essential video
+I:30352;478;take, stand, appear, have, happy, ending, take stand, stand appear, appear have, have happy, happy ending
+I:30352;479;have, love, movie, long, time, have love, love movie, movie long, long time
+I:30352;480;buy, use, disc, great, condition, play, new, buy use, use disc, disc great, great condition, condition play, play new
+I:30352;481;star, delightful, character, study, butcher, yearn, love, family, well, star delightful, delightful character, character study, study butcher, butcher yearn, yearn love, love family, family well
+I:30352;482;weave, script, provide, sparkling, dialogue, discover, woman, sense, complete, weave script, script provide, provide sparkling, sparkling dialogue, dialogue discover, discover woman, woman sense, sense complete
+I:30352;483;be, dog, everyone, think, be, be, gruff, authentic, sentiment, pervade, entire, film, offer, uplifting, spirituality, love, discovery, cynical, world, be dog, dog everyone, everyone think, think be, be be, be gruff, gruff authentic, authentic sentiment, sentiment pervade, pervade entire, entire film, film offer, offer uplifting, uplifting spirituality, spirituality love, love discovery, discovery cynical, cynical world
+I:30352;484;joy, film, be, simplicity, joy film, film be, be simplicity
+I:30352;485;manage, pull, heartstrings, joyful, reality, come, emerge, recognition, true, love, manage pull, pull heartstrings, heartstrings joyful, joyful reality, reality come, come emerge, emerge recognition, recognition true, true love
+I:30352;486;movie, be, essential, anyone, consider, lover, film, movie be, be essential, essential anyone, anyone consider, consider lover, lover film
+I:30352;487;shoot, black, white, offer, intimate, story, forlorn, man, give, idea, love, meet, woman, much, same, situation, shoot black, black white, white offer, offer intimate, intimate story, story forlorn, forlorn man, man give, give idea, idea love, love meet, meet woman, woman much, much same, same situation
+I:30352;488;be, fantastic, portrayal, lonely, butcher, role, earn, award, best, actor, be fantastic, fantastic portrayal, portrayal lonely, lonely butcher, butcher role, role earn, earn award, award best, best actor
+I:30352;489;be, sweet, love, story, bother, convention, cliche, be, be sweet, sweet love, love story, story bother, bother convention, convention cliche, cliche be
+I:30352;490;see, win, performance, see win, win performance
+I:30352;491;do, make, great, movie, do make, make great, great movie
+I:30352;492;other, word, scriptwriter, director, manage, assemble, cinematic, work, refrain, make, false, step, course, minute, do, cause, movie, be, great, movie, other word, word scriptwriter, scriptwriter director, director manage, manage assemble, assemble cinematic, cinematic work, work refrain, refrain make, make false, false step, step course, course minute, minute do, do cause, cause movie, movie be, be great, great movie
+I:30352;493;above, list, represent, certain, quality, pertain, chunk, american, populace, above list, list represent, represent certain, certain quality, quality pertain, pertain chunk, chunk american, american populace
+I:30352;494;make, film, successful, be, sterotypical, story, be, present, make film, film successful, successful be, be sterotypical, sterotypical story, story be, be present
+I:30352;495;goal, obtain, domestic, bliss, be, threaten, goal obtain, obtain domestic, domestic bliss, bliss be, be threaten
+I:30352;496;actress, dancer, provide, love, interest, actress dancer, dancer provide, provide love, love interest
+I:30352;497;work, advantage, have, same, quality, encumber, counterpart, ignite, chemistry, love, work advantage, advantage have, have same, same quality, quality encumber, encumber counterpart, counterpart ignite, ignite chemistry, chemistry love
+I:30352;498;thirty, man, quest, domestic, bliss, thirty man, man quest, quest domestic, domestic bliss
+I:30352;499;case, quest, be, find, wife, rise, role, be, ordinary, butcher, own, own, butcher, shop, case quest, quest be, be find, find wife, wife rise, rise role, role be, be ordinary, ordinary butcher, butcher own, own own, own butcher, butcher shop
+I:30352;500;movie, provide, skillful, account, drama, queen, personality, movie provide, provide skillful, skillful account, account drama, drama queen, queen personality
+I:30352;501;be, skilled, get, argument, other, be skilled, skilled get, get argument, argument other
+I:30352;502;similar, drama, queen, type, bickering, be, find, film, similar drama, drama queen, queen type, type bickering, bickering be, be find, find film
+I:30352;503;continual, theme, add, charm, movie, be, take, form, broken, pride, italian, thing, express, pride, italian, meat, butcher, shop, mass, continual theme, theme add, add charm, charm movie, movie be, be take, take form, form broken, broken pride, pride italian, italian thing, thing express, express pride, pride italian, italian meat, meat butcher, butcher shop, shop mass
+I:30352;504;excellent, counterpoint, be, film, heavyweight, star, excellent counterpoint, counterpoint be, be film, film heavyweight, heavyweight star
+I:30352;505;be, unusual, movie, unique, character, example, female, gangster, name, be unusual, unusual movie, movie unique, unique character, character example, example female, female gangster, gangster name
+I:30352;506;everyone, world, be, look, love, everyone world, world be, be look, look love
+I:30352;507;wife, love, other, wife love, love other
+I:30352;508;movie, be, fill, universal, search, movie be, be fill, fill universal, universal search
+I:30352;509;be, rare, film, come, be rare, rare film, film come
+I:30352;510;marty, be, heartwarming, honest, sincere, romantic, movie, marty be, be heartwarming, heartwarming honest, honest sincere, sincere romantic, romantic movie
+I:30352;511;be, make, year, resonate, audience, today, be make, make year, year resonate, resonate audience, audience today
+I:30352;512;film, be, true, human, film be, be true, true human
+I:30352;513;touch, core, soul, stir, be, heart, touch core, core soul, soul stir, stir be, be heart
+I:30352;514;be, move, movie, be, sentimental, sappy, be move, move movie, movie be, be sentimental, sentimental sappy
+I:30352;515;win, best, actor, performance, be, deserve, win best, best actor, actor performance, performance be, be deserve
+I:30352;516;have, everyman, be, capture, film, have everyman, everyman be, be capture, capture film
+I:30352;517;writing, be, pure, genius, be, essence, make, film, work, writing be, be pure, pure genius, genius be, be essence, essence make, make film, film work
+I:30352;518;win, award, best, be, great, move, movie, be, signifcant, several, other, reason, win award, award best, best be, be great, great move, move movie, movie be, be signifcant, signifcant several, several other, other reason
+I:30352;519;be, only, movie, have, win, best, be only, only movie, movie have, have win, win best
+I:30352;520;movie, predate, many, year, enjoy, watch, movie predate, predate many, many year, year enjoy, enjoy watch
+I:30352;521;take, walk, find, woman, love, mother, take walk, walk find, find woman, woman love, love mother
+I:30352;522;be, clear, see, receive, best, actor, award, performance, movie, be clear, clear see, see receive, receive best, best actor, actor award, award performance, performance movie
+I:30352;523;be, outstanding, movie, be outstanding, outstanding movie
+I:30352;524;beautiful, film, misfit, meet, dance, hall, discover, have, common, have, imagine, beautiful film, film misfit, misfit meet, meet dance, dance hall, hall discover, discover have, have common, common have, have imagine
+I:30352;525;great, movie, good, transmission, clear, sharp, great movie, movie good, good transmission, transmission clear, clear sharp
+I:30352;526;portray, good, heart, sense, curiosity, film, young, man, have, have, much, experience, date, relationship, say, portray good, good heart, heart sense, sense curiosity, curiosity film, film young, young man, man have, have have, have much, much experience, experience date, date relationship, relationship say
+I:30352;527;relate, lot, character, emotional, period, sense, humour, relate lot, lot character, character emotional, emotional period, period sense, sense humour
+I:30352;528;do, effort, hope, more, people, interest, film, television, catch, little, gem, do effort, effort hope, hope more, more people, people interest, interest film, film television, television catch, catch little, little gem
+I:30352;529;amazing, acting, good, story, old, day, more, innocent, day, country, day, walk, street, large, city, worry, get, kill, amazing acting, acting good, good story, story old, old day, day more, more innocent, innocent day, day country, country day, day walk, walk street, street large, large city, city worry, worry get, get kill
+I:30352;530;come, be, young, think, date, tale, unattractive, decent, people, hook, big, city, resonate, be, photogenic, slim, sexy, come be, be young, young think, think date, date tale, tale unattractive, unattractive decent, decent people, people hook, hook big, big city, city resonate, resonate be, be photogenic, photogenic slim, slim sexy
+I:30352;531;movie, good, use, make'em, good, ol, day, watch, have, great, fun, movie good, good use, use make'em, make'em good, good ol, ol day, day watch, watch have, have great, great fun
+I:30352;532;movie, classic, best, work, movie classic, classic best, best work
+I:30352;533;abbreviated, version, be, worth, watch, full, version, course, be, abbreviated version, version be, be worth, worth watch, watch full, full version, version course, course be

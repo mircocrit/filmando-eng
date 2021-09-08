@@ -1,0 +1,220 @@
+I:360;1;be, movie, be movie
+I:360;2;lautrec, french, painter, live, end, 19th, century, lautrec french, french painter, painter live, live end, end 19th, 19th century
+I:360;3;top, knot, hairstyle, be, fashion, woman, traditional, long, hair, top knot, knot hairstyle, hairstyle be, be fashion, fashion woman, woman traditional, traditional long, long hair
+I:360;4;subject, matter, film, be, consider, scandalous, time, subject matter, matter film, film be, be consider, consider scandalous, scandalous time
+I:360;5;paint, woman, scene, era, paint woman, woman scene, scene era
+I:360;6;use, live, model, room, use live, live model, model room
+I:360;7;pushcart, license, create, economic, freedom, independence, say, model, pushcart license, license create, create economic, economic freedom, freedom independence, independence say, say model
+I:360;8;other, artist, talk, business, restaurant, other artist, artist talk, talk business, business restaurant
+I:360;9;most, people, be, happy, criticize, someone, most people, people be, be happy, happy criticize, criticize someone
+I:360;10;movie, recreate, scene, parisian, life, movie recreate, recreate scene, scene parisian, parisian life
+I:360;11;touch, painting, turn, gas, jet, touch painting, painting turn, turn gas, gas jet
+I:360;12;performer, criticize, painting, performer criticize, criticize painting
+I:360;13;see, girl, dance, see girl, girl dance
+I:360;14;be, star, be star
+I:360;15;henri, sketch, patron, performer, henri sketch, sketch patron, patron performer
+I:360;16;be, buy, be buy
+I:360;17;early, death, cause, painting, soar, value, early death, death cause, cause painting, painting soar, soar value
+I:360;18;discuss, love, cynical, way, discuss love, love cynical, cynical way
+I:360;19;lady, friend, visit, race, theater, variety, show, lady friend, friend visit, visit race, race theater, theater variety, variety show
+I:360;20;hang, painting, lifetime, great, honor, hang painting, painting lifetime, lifetime great, great honor
+I:360;21;have, bar, restaurant, dance, floor, have bar, bar restaurant, restaurant dance, dance floor
+I:360;22;appreciate, touching, movie, appreciate touching, touching movie
+I:360;23;recommend, movie, anybody, younger, people, have, have, chance, see, recommend movie, movie anybody, anybody younger, younger people, people have, have have, have chance, chance see
+I:360;24;ruin, beautiful, film, cut, fit, tv, screen, ruin beautiful, beautiful film, film cut, cut fit, fit tv, tv screen
+I:360;25;film, be, close, history, be, film be, be close, close history, history be
+I:360;26;consider, production, make, lust, furnish, background, classic, be, film, actual, location, consider production, production make, make lust, lust furnish, furnish background, background classic, classic be, be film, film actual, actual location
+I:360;27;make, lust, speak, live, people, know, great, experience, make lust, lust speak, speak live, live people, people know, know great, great experience
+I:360;28;film, represent, great, period, art, history, artist, young, old, be, able, view, product, inthe, best, technology, available, relegate, dark, film, vault, be, forget, film represent, represent great, great period, period art, art history, history artist, artist young, young old, old be, be able, able view, view product, product inthe, inthe best, best technology, technology available, available relegate, relegate dark, dark film, film vault, vault be, be forget
+I:360;29;film, be, vibrant, alive, film be, be vibrant, vibrant alive
+I:360;30;contribution, production, outweigh, effort, spoiler, throw, assome, smile, insignificant, lady, night, contribution production, production outweigh, outweigh effort, effort spoiler, spoiler throw, throw assome, assome smile, smile insignificant, insignificant lady, lady night
+I:360;31;moulin, be, winner, stunning, art, direction, set, decoration, costume, moulin be, be winner, winner stunning, stunning art, art direction, direction set, set decoration, decoration costume
+I:360;32;be, depiction, actual, human, being, fictional, be depiction, depiction actual, actual human, human being, being fictional
+I:360;33;be, magnificent, be, colorful, production, many, memorable, character, have, be, reality, be magnificent, magnificent be, be colorful, colorful production, production many, many memorable, memorable character, character have, have be, be reality
+I:360;34;interesting, aspect, powerful, story, be, strong, subtle, contrast, interesting aspect, aspect powerful, powerful story, story be, be strong, strong subtle, subtle contrast
+I:360;35;performance, be, good, constraint, narrative, performance be, be good, good constraint, constraint narrative
+I:360;36;curious, final, effect, whole, be, better, part, be, film, worth, watch, more, curious final, final effect, effect whole, whole be, be better, better part, part be, be film, film worth, worth watch, watch more
+I:360;37;be, movie, get, kick, special, effect, make, job, be movie, movie get, get kick, kick special, special effect, effect make, make job
+I:360;38;look, good, way, look good, good way
+I:360;39;feast, eye, mind, feast eye, eye mind
+I:360;40;cinematography, sepia, style, create, world, great, hue, color, cinematography sepia, sepia style, style create, create world, world great, great hue, hue color
+I:360;41;costume, set, art, direction, be, top, costume set, set art, art direction, direction be, be top
+I:360;42;lifetime, be, be, view, big, screen, lifetime be, be be, be view, view big, big screen
+I:360;43;be, great, painter, philospher, be great, great painter, painter philospher
+I:360;44;make, great, picture, life, make great, great picture, picture life
+I:360;45;be, interesting, biography, have, see, film, be interesting, interesting biography, biography have, have see, see film
+I:360;46;be, stunned, see, spectacular, color, be, much, help, capture, flavor, dance, hall, cobblestone, street, year, be stunned, stunned see, see spectacular, spectacular color, color be, be much, much help, help capture, capture flavor, flavor dance, dance hall, hall cobblestone, cobblestone street, street year
+I:360;47;movie, be, feast, eye, movie be, be feast, feast eye
+I:360;48;way, do, have, strain, understand, french, accent, make, intriguing, story, way do, do have, have strain, strain understand, understand french, french accent, accent make, make intriguing, intriguing story
+I:360;49;wise, be, bit, soap, opera, find, fascinating, thanks, dialog, wise be, be bit, bit soap, soap opera, opera find, find fascinating, fascinating thanks, thanks dialog
+I:360;50;have, interesting, thing, say, cynical, way, have interesting, interesting thing, thing say, say cynical, cynical way
+I:360;51;be, masterpiece, film, be masterpiece, masterpiece film
+I:360;52;previous, review, describe, thismovie, previous review, review describe, describe thismovie
+I:360;53;bear, french, nobility, latrouse, bear french, french nobility, nobility latrouse
+I:360;54;lautrec, feel, incapable, unworthy, be, love, woman, lautrec feel, feel incapable, incapable unworthy, unworthy be, be love, love woman
+I:360;55;thing, beauty, vision, be, thing beauty, beauty vision, vision be
+I:360;56;lautrec, be, able, channel, passion, indelible, work, art, lautrec be, be able, able channel, channel passion, passion indelible, indelible work, work art
+I:360;57;include, lust, be, best, biography, painter, have, see, screen, include lust, lust be, be best, best biography, biography painter, painter have, have see, see screen
+I:360;58;embody, conflict, contradiction, man, few, histrionics, embody conflict, conflict contradiction, contradiction man, man few, few histrionics
+I:360;59;be, work, age, be work, work age
+I:360;60;have, make, great, impression, have, want, year, be, have make, make great, great impression, impression have, have want, want year, year be
+I:360;61;definite, recommend, anyone, someone, love, art, have, background, art, definite recommend, recommend anyone, anyone someone, someone love, love art, art have, have background, background art
+I:360;62;directorial, talent, color, directorial talent, talent color
+I:360;63;lautrec, deform, son, noble, family, condition, cause, empathize, societal, outcaste, play, elegance, nobility, dual, role, portray, artist, father, lautrec deform, deform son, son noble, noble family, family condition, condition cause, cause empathize, empathize societal, societal outcaste, outcaste play, play elegance, elegance nobility, nobility dual, dual role, role portray, portray artist, artist father
+I:360;64;grand, tradition, artist, grand tradition, tradition artist
+I:360;65;interesting, character, be, absent, story, be, red, interesting character, character be, be absent, absent story, story be, be red
+I:360;66;lautrec, make, innovation, art, draftsman, gain, stature, profession, character, change, bawdy, dance, hall, sophisticated, societal, club, lautrec make, make innovation, innovation art, art draftsman, draftsman gain, gain stature, stature profession, profession character, character change, change bawdy, bawdy dance, dance hall, hall sophisticated, sophisticated societal, societal club
+I:360;67;pause, artist, sketch, dance, screen, be, feastfor, eye, pause artist, artist sketch, sketch dance, dance screen, screen be, be feastfor, feastfor eye
+I:360;68;elegant, surroundings, do, alter, view, love, cynical, self, elegant surroundings, surroundings do, do alter, alter view, view love, love cynical, cynical self
+I:360;69;video, have, enhance, video have, have enhance
+I:360;70;real, have, be, make, new, film, leave, lot, be, desire, real have, have be, be make, make new, new film, film leave, leave lot, lot be, be desire
+I:360;71;be, favorite, be favorite
+I:360;72;be, francophile, french, speaker, student, complex, culture, post, revolutionary, art, history, bush, be francophile, francophile french, french speaker, speaker student, student complex, complex culture, culture post, post revolutionary, revolutionary art, art history, history bush
+I:360;73;lautrec, have, fascinate, lautrec have, have fascinate
+I:360;74;be, greatest, innovative, artist, history, art, opinion, be greatest, greatest innovative, innovative artist, artist history, history art, art opinion
+I:360;75;be, film, fill, vibrance, color, fantasy, fact, art, lover, h, elp, enjoy, actor, be, be film, film fill, fill vibrance, vibrance color, color fantasy, fantasy fact, fact art, art lover, lover h, h elp, elp enjoy, enjoy actor, actor be
+I:360;76;do, msgnificent, job, lead, character, do msgnificent, msgnificent job, job lead, lead character
+I:360;77;fgabor, be, sparkling, self, fgabor be, be sparkling, sparkling self
+I:360;78;believe, be, better, effort, provide, historical, background, several, believe be, be better, better effort, effort provide, provide historical, historical background, background several
+I:360;79;be, young, person, familiar, work, provide, quickie, lesson, style, time, be young, young person, person familiar, familiar work, work provide, provide quickie, quickie lesson, lesson style, style time
+I:360;80;be, older, familiar, work, feel, home, be older, older familiar, familiar work, work feel, feel home
+I:360;81;host, real, painting, borrow, several, source, be, bonus, host real, real painting, painting borrow, borrow several, several source, source be, be bonus
+I:360;82;music, be, real, thing, music be, be real, real thing
+I:360;83;editing, be, excellent, scene, flow, next, editing be, be excellent, excellent scene, scene flow, flow next
+I:360;84;acting, be, good, convincing, acting be, be good, good convincing
+I:360;85;scene, action, fit, painting, scene action, action fit, fit painting
+I:360;86;opinion, beat, version, hand, be, similarity, opinion beat, beat version, version hand, hand be, be similarity
+I:360;87;be, favorite, version, be favorite, favorite version
+I:360;88;enjoy, movie, enjoy movie
+I:360;89;do, excellent, job, do, cast, member, do excellent, excellent job, job do, do cast, cast member
+I:360;90;lautrec, be, brilliant, remote, portrayal, odd, mix, characterize, lautrec be, be brilliant, brilliant remote, remote portrayal, portrayal odd, odd mix, mix characterize
+I:360;91;real, be, artistic, outlaw, day, complex, talented, intractable, rebel, work, be, consider, pornographic, critic, see, movie, real be, be artistic, artistic outlaw, outlaw day, day complex, complex talented, talented intractable, intractable rebel, rebel work, work be, be consider, consider pornographic, pornographic critic, critic see, see movie
+I:360;92;help, change, 19th, century, sensibility, invent, new, printing, process, help change, change 19th, 19th century, century sensibility, sensibility invent, invent new, new printing, printing process
+I:360;93;be, lovely, tune, be lovely, lovely tune
+I:360;94;flaw, movie, have, many, brilliant, moment, flaw movie, movie have, have many, many brilliant, brilliant moment
+I:360;95;color, be, terrific, many, shot, worthy, gallery, showing, color be, be terrific, terrific many, many shot, shot worthy, worthy gallery, gallery showing
+I:360;96;disappointment, much, fascinating, history, film, crew, story, real, disappointment much, much fascinating, fascinating history, history film, film crew, crew story, story real
+I:360;97;great, fun, see, exellent, film, great fun, fun see, see exellent, exellent film
+I:360;98;recommend, film, lover, recommend film, film lover
+I:360;99;make, knock, make knock
+I:360;100;astounding, portrait, make, astounding portrait, portrait make
+I:360;101;absorb, biography, focus, troubled, life, affective, universe, search, bliss, be, highlight, solid, script, notable, cinematography, superb, custome, design, absorb biography, biography focus, focus troubled, troubled life, life affective, affective universe, universe search, search bliss, bliss be, be highlight, highlight solid, solid script, script notable, notable cinematography, cinematography superb, superb custome, custome design
+I:360;102;cast, be, splendid, cast be, be splendid
+I:360;103;filmic, jewel, unforgettable, hyper, filmic jewel, jewel unforgettable, unforgettable hyper
+I:360;104;course, cinema, be, art, course cinema, cinema be, be art
+I:360;105;be, statement, great, visual, director, depict, visual, art, be statement, statement great, great visual, visual director, director depict, depict visual, visual art
+I:360;106;be, story, great, artist, be story, story great, great artist
+I:360;107;excellence, be, due, handiwork, excellence be, be due, due handiwork
+I:360;108;unflinching, view, pathos, parisian, demi, unflinching view, view pathos, pathos parisian, parisian demi
+I:360;109;monde, delicious, move, portrayal, tormented, self, monde delicious, delicious move, move portrayal, portrayal tormented, tormented self
+I:360;110;absorb, artist, love, everyone, mean, know, real, love, absorb artist, artist love, love everyone, everyone mean, mean know, know real, real love
+I:360;111;be, greatest, rle, surpass, win, best, actor, be greatest, greatest rle, rle surpass, surpass win, win best, best actor
+I:360;112;trace, life, artist, trace life, life artist
+I:360;113;lautrec, painting, famous, french, nightclub, lautrec painting, painting famous, famous french, french nightclub
+I:360;114;give, strong, controlled, performance, cripple, artist, be, unable, accept, love, life, give strong, strong controlled, controlled performance, performance cripple, cripple artist, artist be, be unable, unable accept, accept love, love life
+I:360;115;best, movie, make, moulin, rouge, toulouse, lautrec, best movie, movie make, make moulin, moulin rouge, rouge toulouse, toulouse lautrec
+I:360;116;best, movie, time, be, period, piece, best movie, movie time, time be, be period, period piece
+I:360;117;ferrer, other, hand, do, masterful, job, play, ferrer other, other hand, hand do, do masterful, masterful job, job play
+I:360;118;lautrec, portray, handicapped, artist, sketching, poster, hang, today, lautrec portray, portray handicapped, handicapped artist, artist sketching, sketching poster, poster hang, hang today
+I:360;119;movie, be, good, like, new, version, movie be, be good, good like, like new, new version
+I:360;120;young, lad, watch, young lad, lad watch
+I:360;121;manage, earn, theater, ticket, bag, popcorn, candy, bar, ice, cream, soda, pop, manage earn, earn theater, theater ticket, ticket bag, bag popcorn, popcorn candy, candy bar, bar ice, ice cream, cream soda, soda pop
+I:360;122;office, smash, engross, biopic, discordant, life, love, famed, 19th, office smash, smash engross, engross biopic, biopic discordant, discordant life, life love, love famed, famed 19th
+I:360;123;esteem, instigate, flagrant, art, esteem instigate, instigate flagrant, flagrant art
+I:360;124;entertainer, be, captivating, composer, entertainer be, be captivating, captivating composer
+I:360;125;classic, score, give, melancholy, cast, classic score, score give, give melancholy, melancholy cast
+I:360;126;flamboyant, opening, sequence, be, finest, set, piece, flamboyant opening, opening sequence, sequence be, be finest, finest set, set piece
+I:360;127;good, actor, script, plot, cinematography, good actor, actor script, script plot, plot cinematography
+I:360;128;real, feel, era, real feel, feel era
+I:360;129;outstanding, direction, great, movie, outstanding direction, direction great, great movie
+I:360;130;enjoy, new, love, old, enjoy new, new love, love old
+I:360;131;be, make, movie, be make, make movie
+I:360;132;glad, buy, glad buy
+I:360;133;thanks, such, quick, service, thanks such, such quick, quick service
+I:360;134;fictional, portrait, dramatize, love, life, fictional portrait, portrait dramatize, dramatize love, love life
+I:360;135;movie, quote, have, paint, smile, smile, eye, movie quote, quote have, have paint, paint smile, smile smile, smile eye
+I:360;136;opinion, be, best, version, opinion be, be best, best version
+I:360;137;honesty, new, version, use, be, favorite, movie, see, version, honesty new, new version, version use, use be, be favorite, favorite movie, movie see, see version
+I:360;138;time, watch, version, love, time watch, watch version, version love
+I:360;139;painting, be, beautiful, be, amazing, artist, be, write, review, emotional, standpoint, painting be, be beautiful, beautiful be, be amazing, amazing artist, artist be, be write, write review, review emotional, emotional standpoint
+I:360;140;tell, be, love, matter, tell be, be love, love matter
+I:360;141;love, person, be, matter, love person, person be, be matter
+I:360;142;seem, be, compassionate, person, see, physical, appearance, seem be, be compassionate, compassionate person, person see, see physical, physical appearance
+I:360;143;do, love, do love
+I:360;144;star, direct, be, great, movie, have, be, overlook, star direct, direct be, be great, great movie, movie have, have be, be overlook
+I:360;145;thank, great, film, great, service, thank great, great film, film great, great service
+I:360;146;be, older, version, tale, love, be older, older version, version tale, tale love
+I:360;147;be, painter, good, painter, do, painting, dancer, be, subject, be painter, painter good, good painter, painter do, do painting, painting dancer, dancer be, be subject
+I:360;148;brandy, get, better, struggle, find, love, brandy get, get better, better struggle, struggle find, find love
+I:360;149;play, young, beautiful, star, attraction, play young, young beautiful, beautiful star, star attraction
+I:360;150;special, feature, be, non, special feature, feature be, be non
+I:360;151;like, film, recommend, like film, film recommend
+I:360;152;be, difficult, capture, biographical, film, intrinsic, detail, film, do, provide, be difficult, difficult capture, capture biographical, biographical film, film intrinsic, intrinsic detail, detail film, film do, do provide
+I:360;153;listen, melodic, voice, listen melodic, melodic voice
+I:360;154;be, excellent, actor, believable, be excellent, excellent actor, actor believable
+I:360;155;scenery, be, authentic, beautiful, scenery be, be authentic, authentic beautiful
+I:360;156;artwork, present, film, give, complimentary, example, outstanding, imagination, artwork present, present film, film give, give complimentary, complimentary example, example outstanding, outstanding imagination
+I:360;157;other, major, star, be, enchant, watch, other major, major star, star be, be enchant, enchant watch
+I:360;158;be, wonderful, film, glorious, color, dancing, spectacle, be wonderful, wonderful film, film glorious, glorious color, color dancing, dancing spectacle
+I:360;159;like, original, version, better, newer, like original, original version, version better, better newer
+I:360;160;tragic, life, be, happy, movie, tragic life, life be, be happy, happy movie
+I:360;161;exuberance, can, exuberance can
+I:360;162;script, be, balanced, character, development, be, superb, script be, be balanced, balanced character, character development, development be, be superb
+I:360;163;lie, movie, weakness, be, tell, people, study, growth, artist, lie movie, movie weakness, weakness be, be tell, tell people, people study, study growth, growth artist
+I:360;164;be, film, capture, spirit, gay, ninety, be film, film capture, capture spirit, spirit gay, gay ninety
+I:360;165;give, good, idea, show, dealer, collector, customer, give good, good idea, idea show, show dealer, dealer collector, collector customer
+I:360;166;be, film, be, view, bottle, french, feather, boa, poodle, frou, be film, film be, be view, view bottle, bottle french, french feather, feather boa, boa poodle, poodle frou
+I:360;167;frou, bow, neck, frou bow, bow neck
+I:360;168;give, delicate, beautiful, performance, resurrect, aura, have, thank, give delicate, delicate beautiful, beautiful performance, performance resurrect, resurrect aura, aura have, have thank
+I:360;169;break, musical, sing, dance, perfection, break musical, musical sing, sing dance, dance perfection
+I:360;170;musical, most, people, remember, musical most, most people, people remember
+I:360;171;direct, classic, consider, be, greatest, film, decade, direct classic, classic consider, consider be, be greatest, greatest film, film decade
+I:360;172;huston, film, receive, nomination, include, best, huston film, film receive, receive nomination, nomination include, include best
+I:360;173;stunning, star, stunning star
+I:360;174;nominate, famed, artist, nominate famed, famed artist
+I:360;175;have, do, commendable, job, transfer, color, have do, do commendable, commendable job, job transfer, transfer color
+I:360;176;have, view, love, do, have view, view love, love do
+I:360;177;great, plot, talent, matter, great plot, plot talent, talent matter
+I:360;178;cool, early, cool early
+I:360;179;make, great, latrec, be, focus, film, name, be, make great, great latrec, latrec be, be focus, focus film, film name, name be
+I:360;180;year, be, beautiful, child, memory, recall, year be, be beautiful, beautiful child, child memory, memory recall
+I:360;181;process, be, gorgeous, process be, be gorgeous
+I:360;182;underestimate, actor, be, cynical, roll, underestimate actor, actor be, be cynical, cynical roll
+I:360;183;first, widescreen, movie, be, robe, first widescreen, widescreen movie, movie be, be robe
+I:360;184;enjoy, lush, set, wonderful, performance, direct, man, know, use, single, inch, screen, enjoy lush, lush set, set wonderful, wonderful performance, performance direct, direct man, man know, know use, use single, single inch, inch screen
+I:360;185;make, greatest, movie, produce, aspect, ratio, be, make greatest, greatest movie, movie produce, produce aspect, aspect ratio, ratio be
+I:360;186;interesting, greatest, performance, interesting greatest, greatest performance
+I:360;187;chanteuse, play, beautiful, vain, melodramatic, self, chanteuse play, play beautiful, beautiful vain, vain melodramatic, melodramatic self
+I:360;188;nominate, several, award, film, receive, design, deserve, nominate several, several award, award film, film receive, receive design, design deserve
+I:360;189;direct, excellent, cast, blend, cinematography, musical, score, direct excellent, excellent cast, cast blend, blend cinematography, cinematography musical, musical score
+I:360;190;example, genius, be, fact, much, film, be, shoot, example genius, genius be, be fact, fact much, much film, film be, be shoot
+I:360;191;be, see, aristocrat, be see, see aristocrat
+I:360;192;lautrec, performer, many, boy, teach, period, several, decade, lautrec performer, performer many, many boy, boy teach, teach period, period several, several decade
+I:360;193;film, be, feast, eye, film be, be feast, feast eye
+I:360;194;least, hour, enable, return, end, 19th, century, world, remain, vivid, great, art, least hour, hour enable, enable return, return end, end 19th, 19th century, century world, world remain, remain vivid, vivid great, great art
+I:360;195;be, tribute, artist, write, direct, film, bring, life, famous, period, complete, faithful, recreation, music, hall, character, immortalize, painting, seem, have, jump, artist, canvas, be tribute, tribute artist, artist write, write direct, direct film, film bring, bring life, life famous, famous period, period complete, complete faithful, faithful recreation, recreation music, music hall, hall character, character immortalize, immortalize painting, painting seem, seem have, have jump, jump artist, artist canvas
+I:360;196;stare, unfinished, painting, get, add, brush, stoke, stare unfinished, unfinished painting, painting get, get add, add brush, brush stoke
+I:360;197;stroke, brush, stroke, excitement, leave, canvas, reach, window, close, reach, gas, shut, stroke brush, brush stroke, stroke excitement, excitement leave, leave canvas, canvas reach, reach window, window close, close reach, reach gas, gas shut
+I:360;198;be, scene, right, life, be scene, scene right, right life
+I:360;199;affirm, raise, neck, hair, affirm raise, raise neck, neck hair
+I:360;200;film, transfer, be, flawless, film transfer, transfer be, be flawless
+I:360;201;beautiful, be, painting, beautiful be, be painting
+I:360;202;set, design, costuming, make, classic, film, set design, design costuming, costuming make, make classic, classic film
+I:360;203;be, great, biography, gifted, artist, be great, great biography, biography gifted, gifted artist
+I:360;204;bring, life, grand, side, seamy, side, bring life, life grand, grand side, side seamy, seamy side
+I:360;205;be, pg, movie, lot, information, latrec, time, reason, art, death, be pg, pg movie, movie lot, lot information, information latrec, latrec time, time reason, reason art, art death
+I:360;206;be, greatest, movie, star, be greatest, greatest movie, movie star
+I:360;207;other, great, movie, be, other great, great movie, movie be
+I:360;208;be, biography, renown, french, artist, be biography, biography renown, renown french, french artist
+I:360;209;spend, time, local, cabaret, find, inspiration, art, fuel, increase, alcoholism, spend time, time local, local cabaret, cabaret find, find inspiration, inspiration art, art fuel, fuel increase, increase alcoholism
+I:360;210;leave, discover, leave discover
+I:360;211;be, great, protagonist, commanding, voice, interesting, dialogue, be great, great protagonist, protagonist commanding, commanding voice, voice interesting, interesting dialogue
+I:360;212;commentary, life, be, brilliant, honest, cynical, commentary life, life be, be brilliant, brilliant honest, honest cynical
+I:360;213;story, be, entertaining, thought, story be, be entertaining, entertaining thought
+I:360;214;wife, have, good, discussion, film, wife have, have good, good discussion, discussion film
+I:360;215;image, addiction, be, have, be, continue, be, image addiction, addiction be, be have, have be, be continue, continue be
+I:360;216;be, important, part, take, note, be important, important part, part take, take note
+I:360;217;final, word, make, mistake, be, masterpiece, final word, word make, make mistake, mistake be, be masterpiece
+I:360;218;be, perfect, antidote, modern, blockbuster, drek, be perfect, perfect antidote, antidote modern, modern blockbuster, blockbuster drek
+I:360;219;disregard, fact, be, release, have, distaste, old, movie, be, timeless, film, entertaining, thought, disregard fact, fact be, be release, release have, have distaste, distaste old, old movie, movie be, be timeless, timeless film, film entertaining, entertaining thought
+I:360;220;watch, wife, express, much, like, film, thank, have, choose, own, watch wife, wife express, express much, much like, like film, film thank, thank have, have choose, choose own

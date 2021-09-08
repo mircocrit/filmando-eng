@@ -1,0 +1,585 @@
+I:371;1;be, rich, girl, stumble, odd, people, forest, day, be rich, rich girl, girl stumble, stumble odd, odd people, people forest, forest day
+I:371;2;reveal, secret, drink, magical, water, stay, young, reveal secret, secret drink, drink magical, magical water, water stay, stay young
+I:371;3;movie, be, incredible, make, think, movie be, be incredible, incredible make, make think
+I:371;4;think, movie, be, great, wonderful, love, story, think movie, movie be, be great, great wonderful, wonderful love, love story
+I:371;5;be, hopeless, romantic, kind, stuff, love, movie, be hopeless, hopeless romantic, romantic kind, kind stuff, stuff love, love movie
+I:371;6;make, laugh, cry, good, movie, have, have, quiality, make laugh, laugh cry, cry good, good movie, movie have, have have, have quiality
+I:371;7;movie, be, great, age, make, think, life, short, be, movie be, be great, great age, age make, make think, think life, life short, short be
+I:371;8;read, book, have, real, treat, read book, book have, have real, real treat
+I:371;9;story, be, great, want, get, music, box, tuck, have, story be, be great, great want, want get, get music, music box, box tuck, tuck have
+I:371;10;that, big, deal, be, great, movie, that big, big deal, deal be, be great, great movie
+I:371;11;move, forest, be, well, move forest, forest be, be well
+I:371;12;comment, like, movie, comment like, like movie
+I:371;13;win, award, be, kind, cute, win award, award be, be kind, kind cute
+I:371;14;story, be, good, concept, be, impress, idea, fountain, youth, be, approach, story be, be good, good concept, concept be, be impress, impress idea, idea fountain, fountain youth, youth be, be approach
+I:371;15;be, intriguing, story, be intriguing, intriguing story
+I:371;16;develop, week, one, know, be, be, year, old, compare, paltry, year, develop week, week one, one know, know be, be be, be year, year old, old compare, compare paltry, paltry year
+I:371;17;be, expect, film, be, excellent, have, read, book, find, be, best, novel, have, see, be expect, expect film, film be, be excellent, excellent have, have read, read book, book find, find be, be best, best novel, novel have, have see
+I:371;18;add, be, worry, book, family, have, read, story, enjoy, film, stand, own, add be, be worry, worry book, book family, family have, have read, read story, story enjoy, enjoy film, film stand, stand own
+I:371;19;summary, be, dissapointed, imagine, most, fan, book, be, summary be, be dissapointed, dissapointed imagine, imagine most, most fan, fan book, book be
+I:371;20;daughter, time, favorite, movie, daughter time, time favorite, favorite movie
+I:371;21;go, want, watch, movie, go want, want watch, watch movie
+I:371;22;be, good, movie, be good, good movie
+I:371;23;student, love, make, great, end, unit, student love, love make, make great, great end, end unit
+I:371;24;use, book, novel, study, 5th, grade, class, use book, book novel, novel study, study 5th, 5th grade, grade class
+I:371;25;be, daughter, favorite, movie, be daughter, daughter favorite, favorite movie
+I:371;26;glad, find, glad find
+I:371;27;be, exit, get, morning, be exit, exit get, get morning
+I:371;28;use, school, compare, book, play, movie, use school, school compare, compare book, book play, play movie
+I:371;29;love, movie, have, love, first, time, see, love movie, movie have, have love, love first, first time, time see
+I:371;30;theme, movie, have, be, man, quest, century, theme movie, movie have, have be, be man, man quest, quest century
+I:371;31;think, cast, be, perfect, be, acting, be, good, think cast, cast be, be perfect, perfect be, be acting, acting be, be good
+I:371;32;actor, do, superb, job, actor do, do superb, superb job
+I:371;33;let, say, be, entertaining, watch, let say, say be, be entertaining, entertaining watch
+I:371;34;love, movie, tuck, everlasting, love movie, movie tuck, tuck everlasting
+I:371;35;think, contain, element, great, story, terrific, movie, think contain, contain element, element great, great story, story terrific, terrific movie
+I:371;36;acting, be, terrific, acting be, be terrific
+I:371;37;think, capture, essence, character, think capture, capture essence, essence character
+I:371;38;be, great, movie, be great, great movie
+I:371;39;book, have, detail, book have, have detail
+I:371;40;recommend, book, read, order, appreciate, movie, recommend book, book read, read order, order appreciate, appreciate movie
+I:371;41;be, nice, family, movie, child, have, read, book, be nice, nice family, family movie, movie child, child have, have read, read book
+I:371;42;fun, compare, contrast, book, movie, fun compare, compare contrast, contrast book, book movie
+I:371;43;sweet, movie, be, little, simple, sophisticated, adult, sweet movie, movie be, be little, little simple, simple sophisticated, sophisticated adult
+I:371;44;carry, family, rustic, cabin, wood, carry family, family rustic, rustic cabin, cabin wood
+I:371;45;offer, help, father, search, be, clear, have, sinister, motive, offer help, help father, father search, search be, be clear, clear have, have sinister, sinister motive
+I:371;46;tuck, be, decent, movie, tuck be, be decent, decent movie
+I:371;47;be, romance, adventure, be romance, romance adventure
+I:371;48;romance, involve, young, girl, fall, love, boy, have, ability, live, eternity, adventure, whole, family, living, woods/running, law, aspect, romance involve, involve young, young girl, girl fall, fall love, love boy, boy have, have ability, ability live, live eternity, eternity adventure, adventure whole, whole family, family living, living woods/running, woods/running law, law aspect
+I:371;49;yeah, family, living, wood, discover, fountain, youth, yeah family, family living, living wood, wood discover, discover fountain, fountain youth
+I:371;50;puddle, magical, water, reside, tree, contain, eternal, quality, puddle magical, magical water, water reside, reside tree, tree contain, contain eternal, eternal quality
+I:371;51;be, magical, question, day, haha, be magical, magical question, question day, day haha
+I:371;52;see, movie, be, great, way, relive, childhood, glee, see movie, movie be, be great, great way, way relive, relive childhood, childhood glee
+I:371;53;movie, be, beautiful, move, tale, doomed, love, story, movie be, be beautiful, beautiful move, move tale, tale doomed, doomed love, love story
+I:371;54;actor, do, phenomenal, job, scenery, costume, be, beautiful, actor do, do phenomenal, phenomenal job, job scenery, scenery costume, costume be, be beautiful
+I:371;55;recommend, movie, anyone, recommend movie, movie anyone
+I:371;56;be, timeless, tale, be timeless, timeless tale
+I:371;57;acting, be, excellent, have, role, theme, be, similar, family, acting be, be excellent, excellent have, have role, role theme, theme be, be similar, similar family
+I:371;58;movie, have, mild, thematic, scene, spooky, villain, bit, romance.y, element, culminate, sweet, kiss, movie have, have mild, mild thematic, thematic scene, scene spooky, spooky villain, villain bit, bit romance.y, romance.y element, element culminate, culminate sweet, sweet kiss
+I:371;59;get, teary, end, get teary, teary end
+I:371;60;week, debate, cave, be, happy, do, week debate, debate cave, cave be, be happy, happy do
+I:371;61;arive, time, work, great, arive time, time work, work great
+I:371;62;happy, cave, happy cave
+I:371;63;read, book, be, freshman, love, read book, book be, be freshman, freshman love
+I:371;64;recommend, people, be, fan, other, movie, such, recommend people, people be, be fan, fan other, other movie, movie such
+I:371;65;be, wonderful, story, young, child, be wonderful, wonderful story, story young, young child
+I:371;66;avid, reader, mother, young, reader, be, excite, movie, open, avid reader, reader mother, mother young, young reader, reader be, be excite, excite movie, movie open
+I:371;67;be, surprise, make, act, entertain, movie, prove, be, be surprise, surprise make, make act, act entertain, entertain movie, movie prove, prove be
+I:371;68;scenery, be, beautiful, screenplay, follow, book, few, exception, enough, ruin, many, screen, adaptation, do, scenery be, be beautiful, beautiful screenplay, screenplay follow, follow book, book few, few exception, exception enough, enough ruin, ruin many, many screen, screen adaptation, adaptation do
+I:371;69;story, be, wonderful, make, laugh, cry, story be, be wonderful, wonderful make, make laugh, laugh cry
+I:371;70;be, lovely, aspect, be lovely, lovely aspect
+I:371;71;be, light, happy, tale, be light, light happy, happy tale
+I:371;72;teacher, complete, novel, unit, everlast, fifth, grade, class, teacher complete, complete novel, novel unit, unit everlast, everlast fifth, fifth grade, grade class
+I:371;73;do, future, do future
+I:371;74;be, best, film, be best, best film
+I:371;75;prime, deliver, movie, low, cost, im, able, watch, prime deliver, deliver movie, movie low, low cost, cost im, im able, able watch
+I:371;76;enjoy, lovely, movie, enjoy lovely, lovely movie
+I:371;77;order, roku, player, order roku, roku player
+I:371;78;best, part, view, movie, be, be, interruption, start, finish, best part, part view, view movie, movie be, be be, be interruption, interruption start, start finish
+I:371;79;be, pleased, movie, be pleased, pleased movie
+I:371;80;be, best, movie, have, see, be best, best movie, movie have, have see
+I:371;81;be, go, see, friday!best, movie, be go, go see, see friday!best, friday!best movie
+I:371;82;great, movie, let, imagination, take, great movie, movie let, let imagination, imagination take
+I:371;83;cast, be, big, be, story, cast be, be big, big be, be story
+I:371;84;real, problem, be, see, character, character, real problem, problem be, be see, see character, character character
+I:371;85;time, be, dark, enjoy, overall, story, time be, be dark, dark enjoy, enjoy overall, overall story
+I:371;86;find, teenage, love, suitable, age, find teenage, teenage love, love suitable, suitable age
+I:371;87;be, act, be act
+I:371;88;hadent, see, movie, year, cryy, much, love, hadent see, see movie, movie year, year cryy, cryy much, much love
+I:371;89;film, be, percent, faithful, book, capture, enchanting, style, novel, film be, be percent, percent faithful, faithful book, book capture, capture enchanting, enchanting style, style novel
+I:371;90;show, great, act, talent, young, confine, excellent, support, cast, round, movie, show great, great act, act talent, talent young, young confine, confine excellent, excellent support, support cast, cast round, round movie
+I:371;91;do, favor, go, see, film, do favor, favor go, go see, see film
+I:371;92;take, entire, family, local, multiplex, see, movie, yesterday, day, arrival, theater, take entire, entire family, family local, local multiplex, multiplex see, see movie, movie yesterday, yesterday day, day arrival, arrival theater
+I:371;93;love, film, love film
+I:371;94;be, cast, role, be cast, cast role
+I:371;95;play, man, yellow, suit, play man, man yellow, yellow suit
+I:371;96;be, intense, handsome, likeable, be intense, intense handsome, handsome likeable
+I:371;97;photography, be, breathtaking, score, haunting, story, think, provoke, photography be, be breathtaking, breathtaking score, score haunting, haunting story, story think, think provoke
+I:371;98;recommend, film, recommend film
+I:371;99;family, movie, watch, family movie, movie watch
+I:371;100;love, sissy, spasek, be, great, love sissy, sissy spasek, spasek be, be great
+I:371;101;be, such, simple, kind, slow, movie, love, be such, such simple, simple kind, kind slow, slow movie, movie love
+I:371;102;be, fan, book, do, big, favor, forget, movie, be fan, fan book, book do, do big, big favor, favor forget, forget movie
+I:371;103;be, able, give, take, home, sleepover, be able, able give, give take, take home, home sleepover
+I:371;104;friend, like, friend like
+I:371;105;7th, grade, student, read, book, class, order, move, watch, 7th grade, grade student, student read, read book, book class, class order, order move, move watch
+I:371;106;movie, be, great, extra, bit, end, be, entertaining, movie be, be great, great extra, extra bit, bit end, end be, be entertaining
+I:371;107;set, tone, head, be, be, sweep, poignant, tale, love, choice, consequence, read, young, life, set tone, tone head, head be, be be, be sweep, sweep poignant, poignant tale, tale love, love choice, choice consequence, consequence read, read young, young life
+I:371;108;read, fondness, several, time, teenage, year, find, something, new, delight, captivate, torment, read fondness, fondness several, several time, time teenage, teenage year, year find, find something, something new, new delight, delight captivate, captivate torment
+I:371;109;film, come, last, decade, ten, wait, see, be, glad, find, be, bit, lovely, meaningful, hope, be, film come, come last, last decade, decade ten, ten wait, wait see, see be, be glad, glad find, find be, be bit, bit lovely, lovely meaningful, meaningful hope, hope be
+I:371;110;ray, be, beautiful, bit, good, be, year, ray be, be beautiful, beautiful bit, bit good, good be, be year
+I:371;111;be, wonderful, think, be, performance, career, strong, support, cast, include, add, power, masterful, story, be wonderful, wonderful think, think be, be performance, performance career, career strong, strong support, support cast, cast include, include add, add power, power masterful, masterful story
+I:371;112;be, great, movie, begin, end, be great, great movie, movie begin, begin end
+I:371;113;crowd, love, crowd love
+I:371;114;age, see, age see
+I:371;115;be, pleased, surprised, be, movie, be, good, be pleased, pleased surprised, surprised be, be movie, movie be, be good
+I:371;116;change, plot, capture, essence, book, change plot, plot capture, capture essence, essence book
+I:371;117;love, cinematography, film, think, artistic, excellent, love cinematography, cinematography film, film think, think artistic, artistic excellent
+I:371;118;reality, creative, person, have, do, something, amazing, immortality, reality creative, creative person, person have, have do, do something, something amazing, amazing immortality
+I:371;119;have, own, movie, year, have, enjoy, watch, several, time, have own, own movie, movie year, year have, have enjoy, enjoy watch, watch several, several time
+I:371;120;story, be, lay, peaceful, tell, powerful, story, occasion, get, heavy, story be, be lay, lay peaceful, peaceful tell, tell powerful, powerful story, story occasion, occasion get, get heavy
+I:371;121;perspective, be, act, grace, mercy, perspective be, be act, act grace, grace mercy
+I:371;122;future, be, available, include, spiritual, life, eternal, life, accept, solution, better, be, give, opportunity, relate, response, life, death, express, sadness, result, be, watch, life, go, feel, rock, watch, love, one, age, change, way, available, prospects, appear, dim, uninviting, future be, be available, available include, include spiritual, spiritual life, life eternal, eternal life, life accept, accept solution, solution better, better be, be give, give opportunity, opportunity relate, relate response, response life, life death, death express, express sadness, sadness result, result be, be watch, watch life, life go, go feel, feel rock, rock watch, watch love, love one, one age, age change, change way, way available, available prospects, prospects appear, appear dim, dim uninviting
+I:371;123;be, face, necessity, make, decision, way, go, answer, close, movie, be face, face necessity, necessity make, make decision, decision way, way go, go answer, answer close, close movie
+I:371;124;movie, have, charming, ambiance, be, act, portray, charm, innocence, do, good, job, unnamed, man, yellow, suit, be, effective, role, movie have, have charming, charming ambiance, ambiance be, be act, act portray, portray charm, charm innocence, innocence do, do good, good job, job unnamed, unnamed man, man yellow, yellow suit, suit be, be effective, effective role
+I:371;125;support, role, be, play, support role, role be, be play
+I:371;126;recommend, movie, love, good, story, recommend movie, movie love, love good, good story
+I:371;127;time, collector, lush, beautiful, soundtrack, score, motion, picture, time collector, collector lush, lush beautiful, beautiful soundtrack, soundtrack score, score motion, motion picture
+I:371;128;particular, score, be, outstanding, particular score, score be, be outstanding
+I:371;129;entire, score, be, good, entire score, score be, be good
+I:371;130;love, sweet, scene, movie, love sweet, sweet scene, scene movie
+I:371;131;love, clean, love, story, movie, love clean, clean love, love story, story movie
+I:371;132;wish, have, happy, ending, wish have, have happy, happy ending
+I:371;133;adore, happy, ending, adore happy, happy ending
+I:371;134;be, great, movie, love, be great, great movie, movie love
+I:371;135;dream, have, fountain, youth, back, wood, dream have, have fountain, fountain youth, youth back, back wood
+I:371;136;pleasant, fantasy, lovely, scenery, buy, gift, friend, be, build, home, location, be, film, pleasant fantasy, fantasy lovely, lovely scenery, scenery buy, buy gift, gift friend, friend be, be build, build home, home location, location be, be film
+I:371;137;be, good, movie, kind, fantasy, romance, suitable, whole, family, be good, good movie, movie kind, kind fantasy, fantasy romance, romance suitable, suitable whole, whole family
+I:371;138;arrive, excellent, condition, prompt, manner, arrive excellent, excellent condition, condition prompt, prompt manner
+I:371;139;read, novel, prior, view, movie, provide, more, detailed, character, understanding, foundation, comparison, debate, read novel, novel prior, prior view, view movie, movie provide, provide more, more detailed, detailed character, character understanding, understanding foundation, foundation comparison, comparison debate
+I:371;140;whole, family, watch, iit, daughter, hubby, kid, live, movie, keep, attention, whole family, family watch, watch iit, iit daughter, daughter hubby, hubby kid, kid live, live movie, movie keep, keep attention
+I:371;141;tuck, be, best, movie, have, see, long, time, tuck be, be best, best movie, movie have, have see, see long, long time
+I:371;142;be, inspiring, graceful, be inspiring, inspiring graceful
+I:371;143;movie, be, enchant, captivate, movie be, be enchant, enchant captivate
+I:371;144;think, movie, be, move, beautiful, think movie, movie be, be move, move beautiful
+I:371;145;have, beautiful, love, story, have beautiful, beautiful love, love story
+I:371;146;be, movie, allow, take, own, perspective, life, be, think, leave, theater, reach, home, be movie, movie allow, allow take, take own, own perspective, perspective life, life be, be think, think leave, leave theater, theater reach, reach home
+I:371;147;reccomend, movie, love, romantic, thought, reccomend movie, movie love, love romantic, romantic thought
+I:371;148;recommend, movie, family, recommend movie, movie family
+I:371;149;tale, execution, be, compelling, beautiful, tale execution, execution be, be compelling, compelling beautiful
+I:371;150;movie, do, explore, do, good, job, try, movie do, do explore, explore do, do good, good job, job try
+I:371;151;jesse, brother, bring, cabin, become, intrigue, simple, carefree, life, jesse brother, brother bring, bring cabin, cabin become, become intrigue, intrigue simple, simple carefree, carefree life
+I:371;152;thanks, little, spring, tree, be, immortal, unaging, thanks little, little spring, spring tree, tree be, be immortal, immortal unaging
+I:371;153;gorgeous, thing, film, be, scenery, gorgeous thing, thing film, film be, be scenery
+I:371;154;camerawork, set, beautiful, forest, lake, camerawork set, set beautiful, beautiful forest, forest lake
+I:371;155;dialogue, be, good, sound, bit, modern, be, pre, dialogue be, be good, good sound, sound bit, bit modern, modern be, be pre
+I:371;156;moment, crystallize, entire, message, movie, be, outstanding, moment crystallize, crystallize entire, entire message, message movie, movie be, be outstanding
+I:371;157;bledel, be, good, manage, convey, frustration, smart, girl, want, live, normal, life, bledel be, be good, good manage, manage convey, convey frustration, frustration smart, smart girl, girl want, want live, live normal, normal life
+I:371;158;be, good, flip, poignant, happier, moment, be good, good flip, flip poignant, poignant happier, happier moment
+I:371;159;tuck, everlasting, be, deepest, be, be, execute, tuck everlasting, everlasting be, be deepest, deepest be, be be, be execute
+I:371;160;be, supernatural, love, story, stress, family, value, unrequited, love, be supernatural, supernatural love, love story, story stress, stress family, family value, value unrequited, unrequited love
+I:371;161;story, connect, person, age, make, wonderful, joint, viewing, child, adult, story connect, connect person, person age, age make, make wonderful, wonderful joint, joint viewing, viewing child, child adult
+I:371;162;be, movie, share, be movie, movie share
+I:371;163;family, settler, discover, spring, grant, immortality, family settler, settler discover, discover spring, spring grant, grant immortality
+I:371;164;be, lovely, fairytale, recommend, everyone, be lovely, lovely fairytale, fairytale recommend, recommend everyone
+I:371;165;shoot, movie, be, sensitive, make, version, much, love, child, novel, same, name, shoot movie, movie be, be sensitive, sensitive make, make version, version much, much love, love child, child novel, novel same, same name
+I:371;166;movie, be, shoot, melancholy, humour, movie be, be shoot, shoot melancholy, melancholy humour
+I:371;167;be, make, sentimentality, be, keep, bay, be make, make sentimentality, sentimentality be, be keep, keep bay
+I:371;168;foster, give, strong, performance, be, good, cameo, foster give, give strong, strong performance, performance be, be good, good cameo
+I:371;169;be, minor, blemish, be, affectionate, sensitive, piece, work, be, suitable, family, audience, be minor, minor blemish, blemish be, be affectionate, affectionate sensitive, sensitive piece, piece work, work be, be suitable, suitable family, family audience
+I:371;170;real, love, story, want, know, happen, do, marry, do, want, happen, happen, live, real love, love story, story want, want know, know happen, happen do, do marry, marry do, do want, want happen, happen happen, happen live
+I:371;171;quote, great, show, love, have, meaning, deepest, fear, be, be, inadequet, deepest, fear, be, be, powerful, measure, ask, be, be, brilliant, gorgeous, talented, valiant, be, be, quote great, great show, show love, love have, have meaning, meaning deepest, deepest fear, fear be, be be, be inadequet, inadequet deepest, deepest fear, fear be, be be, be powerful, powerful measure, measure ask, ask be, be be, be brilliant, brilliant gorgeous, gorgeous talented, talented valiant, valiant be, be be
+I:371;172;line, take, viewer, ordinary, world, succeed, entertaining, be, enjoyable, line take, take viewer, viewer ordinary, ordinary world, world succeed, succeed entertaining, entertaining be, be enjoyable
+I:371;173;be, element, love, story, b, real, be element, element love, love story, story b, b real
+I:371;174;recommend, viewer, recommend viewer
+I:371;175;story, be, write, intriguing, story be, be write, write intriguing
+I:371;176;take, teenage, love, story, bit, be, entertaining, movie, take teenage, teenage love, love story, story bit, bit be, be entertaining, entertaining movie
+I:371;177;strong, suggestion, be, read, book, strong suggestion, suggestion be, be read, read book
+I:371;178;tuck, be, feel, good, movie, tuck be, be feel, feel good, good movie
+I:371;179;affirm, sentimental, find, border, credibility, celebrate, direct, act, sense, commitment, fine, cast, provide, affirm sentimental, sentimental find, find border, border credibility, credibility celebrate, celebrate direct, direct act, act sense, sense commitment, commitment fine, fine cast, cast provide
+I:371;180;tuck, family, happen, spring, wood, past, drink, spring, voila, tuck family, family happen, happen spring, spring wood, wood past, past drink, drink spring, spring voila
+I:371;181;inevitable, capture, way, resolve, immortal, inaccessibility, new, find, need, other, inevitable capture, capture way, way resolve, resolve immortal, immortal inaccessibility, inaccessibility new, new find, find need, need other
+I:371;182;serve, end, be, resolve, serve end, end be, be resolve
+I:371;183;setting, act, physical, beauty, film, be, match, understate, important, moment, philosophy, be, meaning, cycle, life, know, think, reshape, setting act, act physical, physical beauty, beauty film, film be, be match, match understate, understate important, important moment, moment philosophy, philosophy be, be meaning, meaning cycle, cycle life, life know, know think, think reshape
+I:371;184;tuck, be, wonderful, book, sweet, basic, tone, tuck be, be wonderful, wonderful book, book sweet, sweet basic, basic tone
+I:371;185;reviewer, like, tv, movie, be, correct, be, better, stick, story, subtle, change, reviewer like, like tv, tv movie, movie be, be correct, correct be, be better, better stick, stick story, story subtle, subtle change
+I:371;186;character, be, develop, character be, be develop
+I:371;187;be, teenage, girl, enjoy, new, version, be teenage, teenage girl, girl enjoy, enjoy new, new version
+I:371;188;great, story, great, sound, track, great story, story great, great sound, sound track
+I:371;189;theory, set, alive, imaginative, story, line, base, earth, space, vampire, live, old, tv, series, unexplainable, experience, story, line, outer, space, theory set, set alive, alive imaginative, imaginative story, story line, line base, base earth, earth space, space vampire, vampire live, live old, old tv, tv series, series unexplainable, unexplainable experience, experience story, story line, line outer, outer space
+I:371;190;film, be, act, photograph, good, drama, film be, be act, act photograph, photograph good, good drama
+I:371;191;be, favorite, movie, land, be favorite, favorite movie, movie land
+I:371;192;be, sweetest, tragic, love, story, be, portray, story, be sweetest, sweetest tragic, tragic love, love story, story be, be portray, portray story
+I:371;193;soundtrack, cinematography, be, execute, soundtrack cinematography, cinematography be, be execute
+I:371;194;make, few, change, good, movie, make few, few change, change good, good movie
+I:371;195;best, way, characterize, feeling, get, watch, best way, way characterize, characterize feeling, feeling get, get watch
+I:371;196;movie, be, ambitious, world, create, believable, movie be, be ambitious, ambitious world, world create, create believable
+I:371;197;great, imaginative, story, great, film, good, acting, actor, be, type, cast, great, role, play, lose, watch, film, know, take, year, age, watch, good, luck, great imaginative, imaginative story, story great, great film, film good, good acting, acting actor, actor be, be type, type cast, cast great, great role, role play, play lose, lose watch, watch film, film know, know take, take year, year age, age watch, watch good, good luck
+I:371;198;emotion, love, grief, be, genuine, most, emotion, have, see, movie, emotion love, love grief, grief be, be genuine, genuine most, most emotion, emotion have, have see, see movie
+I:371;199;be, fascinate, immortality, romance, find, be, best, combination, have, see, be fascinate, fascinate immortality, immortality romance, romance find, find be, be best, best combination, combination have, have see
+I:371;200;many, romance, movie, focus, sex, movie, romance, be, form, pure, love, be, real, treat, many romance, romance movie, movie focus, focus sex, sex movie, movie romance, romance be, be form, form pure, pure love, love be, be real, real treat
+I:371;201;hope, kid, enjoy, movie, do, be, young, hope kid, kid enjoy, enjoy movie, movie do, do be, be young
+I:371;202;enjoy, 6th, class, enjoy 6th, 6th class
+I:371;203;be, painter, know, first, hand, evil, real, world, be painter, painter know, know first, first hand, hand evil, evil real, real world
+I:371;204;have, crush, soul, meet, idea, perfect, daughter, be, thank, have crush, crush soul, soul meet, meet idea, idea perfect, perfect daughter, daughter be, be thank
+I:371;205;world, know, mom, dad, come, daughter, find, be, happy, be, world know, know mom, mom dad, dad come, come daughter, daughter find, find be, be happy, happy be
+I:371;206;young, actress, play, be, perfect, do, act, stand, shimmer, sort, live, jewel, be, perfect, young actress, actress play, play be, be perfect, perfect do, do act, act stand, stand shimmer, shimmer sort, sort live, live jewel, jewel be, be perfect
+I:371;207;book, be, good, condition, book be, be good, good condition
+I:371;208;tuck, be, bittersweet, family, film, tuck be, be bittersweet, bittersweet family, family film
+I:371;209;few, exception, be, true, classic, book, few exception, exception be, be true, true classic, classic book
+I:371;210;couple, scene, be, add, film, dramatic, effect, build, character, development, couple scene, scene be, be add, add film, film dramatic, dramatic effect, effect build, build character, character development
+I:371;211;play, part, play part
+I:371;212;capture, innocence, youth, nervousness, associate, first, love, capture innocence, innocence youth, youth nervousness, nervousness associate, associate first, first love
+I:371;213;be, perfect, actress, part, hit, nail, head, cast, be perfect, perfect actress, actress part, part hit, hit nail, nail head, head cast
+I:371;214;be, first, film, experience, have, pay, be, demonstrate, many, time, movie, be first, first film, film experience, experience have, have pay, pay be, be demonstrate, demonstrate many, many time, time movie
+I:371;215;be, adventurous, young, man, like, travel, life, be, change, meet, young, be adventurous, adventurous young, young man, man like, like travel, travel life, life be, be change, change meet, meet young
+I:371;216;remain, cast, member, capture, character, personality, emotion, remain cast, cast member, member capture, capture character, character personality, personality emotion
+I:371;217;talent, play, great, villain, be, perfect, neighborly, folk, everyone, wish, live, next, talent play, play great, great villain, villain be, be perfect, perfect neighborly, neighborly folk, folk everyone, everyone wish, wish live, live next
+I:371;218;music, enhance, scene, own, unique, melody, music enhance, enhance scene, scene own, own unique, unique melody
+I:371;219;be, nice, change, be nice, nice change
+I:371;220;be, classic, sure, find, way, other, such, film, swiss, be classic, classic sure, sure find, find way, way other, other such, such film, film swiss
+I:371;221;have, outdo, modern, classic, feel, comfortable, take, whole, family, see, have outdo, outdo modern, modern classic, classic feel, feel comfortable, comfortable take, take whole, whole family, family see
+I:371;222;usual, romantic, movie, young, love, choice, have, end, twist, usual romantic, romantic movie, movie young, young love, love choice, choice have, have end, end twist
+I:371;223;student, love, book, love, movie, student love, love book, book love, love movie
+I:371;224;be, lot, difference, generate, lot, discussion, be lot, lot difference, difference generate, generate lot, lot discussion
+I:371;225;have, be, tell, be, less, love, interest, teenager, book, emendation, lend, magical, spark, timeless, story, have be, be tell, tell be, be less, less love, love interest, interest teenager, teenager book, book emendation, emendation lend, lend magical, magical spark, spark timeless, timeless story
+I:371;226;see, movie, recommend, excellent, treatment, subject, film, whole, family, enjoy, discuss, see movie, movie recommend, recommend excellent, excellent treatment, treatment subject, subject film, film whole, whole family, family enjoy, enjoy discuss
+I:371;227;tree, lend, poignant, touching, climax, end, film, tree lend, lend poignant, poignant touching, touching climax, climax end, end film
+I:371;228;suffice, say, acting, be, wonderful, suffice say, say acting, acting be, be wonderful
+I:371;229;be, excellent, wealthy, father, be excellent, excellent wealthy, wealthy father
+I:371;230;be, convincing, superb, effort, balance, desire, love, life, time, responsibility, live, life, intend, be convincing, convincing superb, superb effort, effort balance, balance desire, desire love, love life, life time, time responsibility, responsibility live, live life, life intend
+I:371;231;talent, cast, curiosity, storyline, make, few, dull, moment, conclusion, leave, wet, be, beautiful, film, talent cast, cast curiosity, curiosity storyline, storyline make, make few, few dull, dull moment, moment conclusion, conclusion leave, leave wet, wet be, be beautiful, beautiful film
+I:371;232;scenery, music, performance, plot, scenery music, music performance, performance plot
+I:371;233;best, movie, watch, day, keep, push, repeat, best movie, movie watch, watch day, day keep, keep push, push repeat
+I:371;234;im, glad, find, im glad, glad find
+I:371;235;love, book, movie, be, great, love book, book movie, movie be, be great
+I:371;236;acting, be, good, unfold, movie, be, captivate, beginning, acting be, be good, good unfold, unfold movie, movie be, be captivate, captivate beginning
+I:371;237;enjoy, movie, hope, watch, granddaughter, be, bit, older, enjoy movie, movie hope, hope watch, watch granddaughter, granddaughter be, be bit, bit older
+I:371;238;be, insightful, film, be insightful, insightful film
+I:371;239;view, original, comment, original, view original, original comment, comment original
+I:371;240;whole, premise, film, find, fascinating, whole premise, premise film, film find, find fascinating
+I:371;241;tuck, be, wonderful, film, be, sure, capture, attention, everyone, family, tuck be, be wonderful, wonderful film, film be, be sure, sure capture, capture attention, attention everyone, everyone family
+I:371;242;be, precious, pair, bring, enormous, talent, film, be precious, precious pair, pair bring, bring enormous, enormous talent, talent film
+I:371;243;character, be, unique, captivating, see, actress, first, time, character be, be unique, unique captivating, captivating see, see actress, actress first, first time
+I:371;244;be, only, talent, actor, film, do, remarkable, job, bring, character, life, make, believe, part, be, create, be only, only talent, talent actor, actor film, film do, do remarkable, remarkable job, job bring, bring character, character life, life make, make believe, believe part, part be, be create
+I:371;245;remove, possibility, death, take, possibility, life, remove possibility, possibility death, death take, take possibility, possibility life
+I:371;246;understand, have, watch, film, understand have, have watch, watch film
+I:371;247;movie, be, do, top, notch, actor, movie be, be do, do top, top notch, notch actor
+I:371;248;think, everyone, love, movie, think everyone, everyone love, love movie
+I:371;249;husband, be, luke, warm, watch, be, surprise, husband be, be luke, luke warm, warm watch, watch be, be surprise
+I:371;250;syrupy, act, great, story, syrupy act, act great, great story
+I:371;251;remember, watch, movie, 4th, grade, fall, love, be, happy, have, remember watch, watch movie, movie 4th, 4th grade, grade fall, fall love, love be, be happy, happy have
+I:371;252;enjoy, character, movie, enjoy character, character movie
+I:371;253;excellent, choice, actor, andactress, excellent choice, choice actor, actor andactress
+I:371;254;grandson, have, read, book, class, help, himby, get, movie, grandson have, have read, read book, book class, class help, help himby, himby get, get movie
+I:371;255;be, film, mystery, be film, film mystery
+I:371;256;mystery, be, reveal, choice, be, make, influence, character, life, mystery be, be reveal, reveal choice, choice be, be make, make influence, influence character, character life
+I:371;257;acting, be, convincing, particularlythe, romantic, lead, beautiful, daughter, wealthy, man, young, man, secret, keep, mysterious, stranger, selfish, action, bring, situation, movie, climax, acting be, be convincing, convincing particularlythe, particularlythe romantic, romantic lead, lead beautiful, beautiful daughter, daughter wealthy, wealthy man, man young, young man, man secret, secret keep, keep mysterious, mysterious stranger, stranger selfish, selfish action, action bring, bring situation, situation movie, movie climax
+I:371;258;do, pose, interesting, philosophical, question, go, deeper, most, product, do pose, pose interesting, interesting philosophical, philosophical question, question go, go deeper, deeper most, most product
+I:371;259;read, book, teen, enjoy, read book, book teen, teen enjoy
+I:371;260;be, timeless, tale, age, be timeless, timeless tale, tale age
+I:371;261;look, much, seem, brother, sister, oppose, passionate, teens, look much, much seem, seem brother, brother sister, sister oppose, oppose passionate, passionate teens
+I:371;262;william, play, father, be, favorite, actor, william play, play father, father be, be favorite, favorite actor
+I:371;263;enjoy, movie, cast, have, cast, guy, look, brother, play, love, interest, enjoy movie, movie cast, cast have, have cast, cast guy, guy look, look brother, brother play, play love, love interest
+I:371;264;have, kid, grand, kid, be, good, movie, watch, have kid, kid grand, grand kid, kid be, be good, good movie, movie watch
+I:371;265;be, sweet, movie, be, good, whole, family, be sweet, sweet movie, movie be, be good, good whole, whole family
+I:371;266;character, be, real, actor, fantastic, plot, be, intriguing, character be, be real, real actor, actor fantastic, fantastic plot, plot be, be intriguing
+I:371;267;find, movie, be, find movie, movie be
+I:371;268;come, movie, be, amusing, come movie, movie be, be amusing
+I:371;269;good, recomend, read, book, good recomend, recomend read, read book
+I:371;270;book, make, somber, character, sympathetic, be, feel, book make, make somber, somber character, character sympathetic, sympathetic be, be feel
+I:371;271;romantic, moment, add, be, bad, do, feel, movie, suffer, love, book, romantic moment, moment add, add be, be bad, bad do, do feel, feel movie, movie suffer, suffer love, love book
+I:371;272;enjoy, have, be, have, stick, more, original, material, enjoy have, have be, be have, have stick, stick more, more original, original material
+I:371;273;tuck, be, good, film, preteen, teenager, tuck be, be good, good film, film preteen, preteen teenager
+I:371;274;love, show, scene, love show, show scene
+I:371;275;love, story, be, pack, minute, scene, love story, story be, be pack, pack minute, minute scene
+I:371;276;performance, actor, film, be, solid, performance actor, actor film, film be, be solid
+I:371;277;have, great, chemistry, have great, great chemistry
+I:371;278;come, be, excellent, condition, student, like, compare, book, come be, be excellent, excellent condition, condition student, student like, like compare, compare book
+I:371;279;enjoy, book, see, teaser, poster, movie, be, overjoyed, enjoy book, book see, see teaser, teaser poster, poster movie, movie be, be overjoyed
+I:371;280;be, look, something, hour, have, find, be look, look something, something hour, hour have, have find
+I:371;281;story, act, be, great, reason, give, star, be, point, make, be, excellent, story act, act be, be great, great reason, reason give, give star, star be, be point, point make, make be, be excellent
+I:371;282;watch, right, complain, get, old, watch right, right complain, complain get, get old
+I:371;283;be, enjoy, film, have, love, be, be enjoy, enjoy film, film have, have love, love be
+I:371;284;be, great, movie, female, age, touch, year, old, girl, be great, great movie, movie female, female age, age touch, touch year, year old, old girl
+I:371;285;great, romance, story, hand, great romance, romance story, story hand
+I:371;286;hold, sweet, kiss, hold sweet, sweet kiss
+I:371;287;top, act, character, hate, throw, zany, character, many, film, comic, relief, top act, act character, character hate, hate throw, throw zany, zany character, character many, many film, film comic, comic relief
+I:371;288;beautiful, film, watch, great, landscape, crisp, bright, green, nature4, beautiful film, film watch, watch great, great landscape, landscape crisp, crisp bright, bright green, green nature4
+I:371;289;great, look, actor, guy, romantic, lead, great look, look actor, actor guy, guy romantic, romantic lead
+I:371;290;course, lot, movie, novel, be, difference, great, movie, course lot, lot movie, movie novel, novel be, be difference, difference great, great movie
+I:371;291;friend, house, watch, say, be, praticulary, impressed, friend house, house watch, watch say, say be, be praticulary, praticulary impressed
+I:371;292;meet, young, boy, drinking, spring, meet young, young boy, boy drinking, drinking spring
+I:371;293;want, drink, stop, mystery, tuck, family, be, unravled, be, bring, home, tell, secret, want drink, drink stop, stop mystery, mystery tuck, tuck family, family be, be unravled, unravled be, be bring, bring home, home tell, tell secret
+I:371;294;be, bless, curse, immortality, be bless, bless curse, curse immortality
+I:371;295;like, movie, discuss, issue, death, life, like movie, movie discuss, discuss issue, issue death, death life
+I:371;296;family, be, stick, middle, family be, be stick, stick middle
+I:371;297;be, romance, be, prevelant, movie, be romance, romance be, be prevelant, prevelant movie
+I:371;298;be, movie, worth, time, be movie, movie worth, worth time
+I:371;299;novel, touch, life, young, age, make, movie, base, want, see, story, come, life, novel touch, touch life, life young, young age, age make, make movie, movie base, base want, want see, see story, story come, come life
+I:371;300;say, capture, say capture
+I:371;301;family, movie, provoke, thought, family movie, movie provoke, provoke thought
+I:371;302;main, character, novel, be, be, young, teen, movie, main character, character novel, novel be, be be, be young, young teen, teen movie
+I:371;303;recommend, provoke, think, eternal, life, earth, recommend provoke, provoke think, think eternal, eternal life, life earth
+I:371;304;be, face, choice, meet, family, become, immortal, drink, special, spring, be face, face choice, choice meet, meet family, family become, become immortal, immortal drink, drink special, special spring
+I:371;305;be, surprise, good, movie, be, be surprise, surprise good, good movie, movie be
+I:371;306;enjoy, musical, score, enjoy musical, musical score
+I:371;307;acting, be, good, performance, other, acting be, be good, good performance, performance other
+I:371;308;good, time, learn, family, secret, century, discover, small, spring, wood, good time, time learn, learn family, family secret, secret century, century discover, discover small, small spring, spring wood
+I:371;309;drink, sweet, water, find, aged, have, become, invulnerable, drink sweet, sweet water, water find, find aged, aged have, have become, become invulnerable
+I:371;310;be, make, important, point, young, be make, make important, important point, point young
+I:371;311;know, people, do, anything, die, find, important, do, anythng, keep, live, life, know people, people do, do anything, anything die, die find, find important, important do, do anythng, anythng keep, keep live, live life
+I:371;312;tuck, be, romantic, tuck be, be romantic
+I:371;313;kissing, be, chaste, romantic, moment, have, winsome, young, dancing, firelight, kissing be, be chaste, chaste romantic, romantic moment, moment have, have winsome, winsome young, young dancing, dancing firelight
+I:371;314;innocent, romance, seem, keep, rest, story, innocent romance, romance seem, seem keep, keep rest, rest story
+I:371;315;special, viewing, mode, allow, kid, switch, film, special, segment, explore, theme, issue, movie, actor, other, cast, member, regular, kid, special viewing, viewing mode, mode allow, allow kid, kid switch, switch film, film special, special segment, segment explore, explore theme, theme issue, issue movie, movie actor, actor other, other cast, cast member, member regular, regular kid
+I:371;316;score, home, run, delightful, film, adapt, popular, child, book, same, name, score home, home run, run delightful, delightful film, film adapt, adapt popular, popular child, child book, book same, same name
+I:371;317;change, serve, have, do, masterful, job, create, beautiful, family, film, change serve, serve have, have do, do masterful, masterful job, job create, create beautiful, beautiful family, family film
+I:371;318;film, take, place, early, twentieth, century, car, be, come, use, film take, take place, place early, early twentieth, twentieth century, century car, car be, be come, come use
+I:371;319;help, keep, secret, leave, make, life, define, decision, help keep, keep secret, secret leave, leave make, make life, life define, define decision
+I:371;320;director, have, direct, film, be, wonderful, magical, philosophical, director have, have direct, direct film, film be, be wonderful, wonderful magical, magical philosophical
+I:371;321;have, first, class, cast, convey, story, way, author, book, be, proud, have first, first class, class cast, cast convey, convey story, story way, way author, author book, book be, be proud
+I:371;322;performance, be, stellar, performance be, be stellar
+I:371;323;be, delightful, remind, young, be delightful, delightful remind, remind young
+I:371;324;be, terrific, boyish, good, look, have, acquire, following, young, girl, result, film, be terrific, terrific boyish, boyish good, good look, look have, have acquire, acquire following, following young, young girl, girl result, result film
+I:371;325;give, thoughtful, performance, patriarch, star, give thoughtful, thoughtful performance, performance patriarch, patriarch star
+I:371;326;performance, be, little, strident, side, effective, performance be, be little, little strident, strident side, side effective
+I:371;327;be, sinister, man, yellow, suit, threaten, take, secret, tuck, family, disastrous, path, be sinister, sinister man, man yellow, yellow suit, suit threaten, threaten take, take secret, secret tuck, tuck family, family disastrous, disastrous path
+I:371;328;be, heartwarming, tender, film, lovely, haunting, musical, score, be heartwarming, heartwarming tender, tender film, film lovely, lovely haunting, haunting musical, musical score
+I:371;329;be, film, delight, viewer, be, rate, pg, innocence, serve, underscore, potent, underlie, theme, be film, film delight, delight viewer, viewer be, be rate, rate pg, pg innocence, innocence serve, serve underscore, underscore potent, potent underlie, underlie theme
+I:371;330;film, provide, much, food, thought, have, depth, be, surprising, film provide, provide much, much food, food thought, thought have, have depth, depth be, be surprising
+I:371;331;be, film, be, worthy, be, personal, collection, be film, film be, be worthy, worthy be, be personal, personal collection
+I:371;332;read, book, love, be, wary, watch, movie, read book, book love, love be, be wary, wary watch, watch movie
+I:371;333;have, feel, plot, book, be, please, see, have feel, feel plot, plot book, book be, be please, please see
+I:371;334;main, change, be, romance, main change, change be, be romance
+I:371;335;think, best, scene, be, tuck, be, rowing, boat, pond, water, think best, best scene, scene be, be tuck, tuck be, be rowing, rowing boat, boat pond, pond water
+I:371;336;story, be, tell, music, be, lovely, story be, be tell, tell music, music be, be lovely
+I:371;337;be, worth, be worth
+I:371;338;be, funny, time, heartrend, other, be funny, funny time, time heartrend, heartrend other
+I:371;339;simple, beautiful, powerful, film, simple beautiful, beautiful powerful, powerful film
+I:371;340;know, movie, be, good, cause, see, tv, couple, year, know movie, movie be, be good, good cause, cause see, see tv, tv couple, couple year
+I:371;341;enjoy, movie, see, sale, amazon, jump, chance, get, enjoy movie, movie see, see sale, sale amazon, amazon jump, jump chance, chance get
+I:371;342;be, excellent, movie, romantic, amazing, story, tuck, family, find, fountain, youth, be excellent, excellent movie, movie romantic, romantic amazing, amazing story, story tuck, tuck family, family find, find fountain, fountain youth
+I:371;343;good, acting, thought, provoke, story, good acting, acting thought, thought provoke, provoke story
+I:371;344;moment, be, go, talk, movie, have, great, deal, relevance, movie, moment be, be go, go talk, talk movie, movie have, have great, great deal, deal relevance, relevance movie
+I:371;345;tuck, be, family, movie, central, aspect, movie, be, love, tuck be, be family, family movie, movie central, central aspect, aspect movie, movie be, be love
+I:371;346;movie, man, be, immortal, source, immortality, woman, suffer, man, immortality, case, choose, live, life, be, give, fullest, movie man, man be, be immortal, immortal source, source immortality, immortality woman, woman suffer, suffer man, man immortality, immortality case, case choose, choose live, live life, life be, be give, give fullest
+I:371;347;meet, tuck, family, find, freedom, do, know, exist, meet tuck, tuck family, family find, find freedom, freedom do, do know, know exist
+I:371;348;free, life, be, tempting, time, society, free life, life be, be tempting, tempting time, time society
+I:371;349;tuck, set, comparison, life, freedom, rule, tuck set, set comparison, comparison life, life freedom, freedom rule
+I:371;350;course, movie, be, love, story, choice, be, make, alternative, be, love, character, have, other, know, someone, give, something, course movie, movie be, be love, love story, story choice, choice be, be make, make alternative, alternative be, be love, love character, character have, have other, other know, know someone, someone give, give something
+I:371;351;movie, be, suitable, family, member, age, movie be, be suitable, suitable family, family member, member age
+I:371;352;movie, be, pleasant, fantasy, wonderful, bittersweet, end, tradition, movie, movie be, be pleasant, pleasant fantasy, fantasy wonderful, wonderful bittersweet, bittersweet end, end tradition, tradition movie
+I:371;353;like, detail, end, better, book, like detail, detail end, end better, better book
+I:371;354;be, discriminate, movie, goer, acclaim, be, captivating, think, provokig, heart, touch, movie, have, see, long, time, be discriminate, discriminate movie, movie goer, goer acclaim, acclaim be, be captivating, captivating think, think provokig, provokig heart, heart touch, touch movie, movie have, have see, see long, long time
+I:371;355;be, concern, actor, play, part, be concern, concern actor, actor play, play part
+I:371;356;story, be, fascinating, have, see, something, lead, fountain, youth, story be, be fascinating, fascinating have, have see, see something, something lead, lead fountain, fountain youth
+I:371;357;be, heart, rending, conclusion, make, emotional, be, intrigue, entire, time, be heart, heart rending, rending conclusion, conclusion make, make emotional, emotional be, be intrigue, intrigue entire, entire time
+I:371;358;do, great, job, do great, great job
+I:371;359;delightful, book, make, beautiful, movie, delightful book, book make, make beautiful, beautiful movie
+I:371;360;perfect, gift, grandchild, be, lucky, invite, granma, granpa, sit, watch, perfect gift, gift grandchild, grandchild be, be lucky, lucky invite, invite granma, granma granpa, granpa sit, sit watch
+I:371;361;be, entertaining, age, appropriate, be entertaining, entertaining age, age appropriate
+I:371;362;have, see, entire, movie, look, amazing, have see, see entire, entire movie, movie look, look amazing
+I:371;363;be, sad, good, be sad, sad good
+I:371;364;have, good, plot, stand, tall, story, line, have good, good plot, plot stand, stand tall, tall story, story line
+I:371;365;recommend, book, everyone, like, teen, romance, recommend book, book everyone, everyone like, like teen, teen romance
+I:371;366;enjoy, movie, son, read, book, school, want, see, movie, enjoy movie, movie son, son read, read book, book school, school want, want see, see movie
+I:371;367;be, meticulous, production, fill, beautiful, cinematography, lovely, set, be meticulous, meticulous production, production fill, fill beautiful, beautiful cinematography, cinematography lovely, lovely set
+I:371;368;do, capture, magic, novel, film, do, capture, book, main, message, do capture, capture magic, magic novel, novel film, film do, do capture, capture book, book main, main message
+I:371;369;be, fine, family, entertainment, be fine, fine family, family entertainment
+I:371;370;story, take, place, small, american, town, story take, take place, place small, small american, american town
+I:371;371;know, secret, do, anything, find, know secret, secret do, do anything, anything find
+I:371;372;main, focus, movie, be, do, fine, job, consider, cast, include, experienced, act, heavyweight, main focus, focus movie, movie be, be do, do fine, fine job, job consider, consider cast, cast include, include experienced, experienced act, act heavyweight
+I:371;373;tuck, do, rank, classic, family, movie, be, lovely, look, entertaining, tuck do, do rank, rank classic, classic family, family movie, movie be, be lovely, lovely look, look entertaining
+I:371;374;story, do, have, whole, lot, movie, be, do, story do, do have, have whole, whole lot, lot movie, movie be, be do
+I:371;375;acting, be, amazing, enjoy, music, acting be, be amazing, amazing enjoy, enjoy music
+I:371;376;be, worthy, be, light, family, film, be worthy, worthy be, be light, light family, family film
+I:371;377;great, movie, daughter, be, upset, end, mean, get, movie, character, great movie, movie daughter, daughter be, be upset, upset end, end mean, mean get, get movie, movie character
+I:371;378;do, great, job, service, do great, great job, job service
+I:371;379;love, plot, fact, see, girl, become, woman, go, ask, biggest, question, time, like, live, forever?moreover, end, be, enjoyable, part, movie, come, wood, feel, relief, have, life, have, love plot, plot fact, fact see, see girl, girl become, become woman, woman go, go ask, ask biggest, biggest question, question time, time like, like live, live forever?moreover, forever?moreover end, end be, be enjoyable, enjoyable part, part movie, movie come, come wood, wood feel, feel relief, relief have, have life, life have
+I:371;380;balance, be, call, real, balance be, be call, call real
+I:371;381;fantasy, look, real, ask, do, same, main, character, fantasy look, look real, real ask, ask do, do same, same main, main character
+I:371;382;main, theme, plot, happen, grow, make, important, decision, change, mind, find, new, friend, secret, fall, love, unreachable, everlasting, dream, main theme, theme plot, plot happen, happen grow, grow make, make important, important decision, decision change, change mind, mind find, find new, new friend, friend secret, secret fall, fall love, love unreachable, unreachable everlasting, everlasting dream
+I:371;383;movie, be, good, condition, movie be, be good, good condition
+I:371;384;daughter, class, love, watch, movie, daughter class, class love, love watch, watch movie
+I:371;385;love, be, able, watch, family, night, love be, be able, able watch, watch family, family night
+I:371;386;be, real, family, film, oppose, empty, fare, movie, same, nature, be, be real, real family, family film, film oppose, oppose empty, empty fare, fare movie, movie same, same nature, nature be
+I:371;387;be, macabre, philosophical, ponderous, be, gentle, slow, moving, quiet, believe, prove, be, mesmerizing, magical, other, be macabre, macabre philosophical, philosophical ponderous, ponderous be, be gentle, gentle slow, slow moving, moving quiet, quiet believe, believe prove, prove be, be mesmerizing, mesmerizing magical, magical other
+I:371;388;rest, film, be, same, rest film, film be, be same
+I:371;389;move, unusual, speed, film, day, stroll, tense, moment, last, minute, everything, fall, place, help, exciting, escapade, move unusual, unusual speed, speed film, film day, day stroll, stroll tense, tense moment, moment last, last minute, minute everything, everything fall, fall place, place help, help exciting, exciting escapade
+I:371;390;be, smart, work, result, be, beautiful, bittersweet, heartbreaking, be smart, smart work, work result, result be, be beautiful, beautiful bittersweet, bittersweet heartbreaking
+I:371;391;other, stunning, cinematography, gorgeous, haunt, score, great, costume, production, design, last, aspect, help, feel, film, film, rely, feel, tangibility, great, deal, beauty, film, lie, be, sincerety, simplicity, be, message, be, moral, be, hefty, handful, breathtaking, wonderful, moment, other stunning, stunning cinematography, cinematography gorgeous, gorgeous haunt, haunt score, score great, great costume, costume production, production design, design last, last aspect, aspect help, help feel, feel film, film film, film rely, rely feel, feel tangibility, tangibility great, great deal, deal beauty, beauty film, film lie, lie be, be sincerety, sincerety simplicity, simplicity be, be message, message be, be moral, moral be, be hefty, hefty handful, handful breathtaking, breathtaking wonderful, wonderful moment
+I:371;392;be, beautiful, end, be beautiful, beautiful end
+I:371;393;see, background, know, be, help, create, mood, atmosphere, home, personality, see background, background know, know be, be help, help create, create mood, mood atmosphere, atmosphere home, home personality
+I:371;394;rest, cast, be, capable, lead, pack, rest cast, cast be, be capable, capable lead, lead pack
+I:371;395;be, wonderful, film, be wonderful, wonderful film
+I:371;396;brave, consider, flash, dash, raucousness, most, film, teen/kid, age, group, day, brave consider, consider flash, flash dash, dash raucousness, raucousness most, most film, film teen/kid, teen/kid age, age group, group day
+I:371;397;see, bring, kid, wholesome, mature, see bring, bring kid, kid wholesome, wholesome mature
+I:371;398;give, room, think, daze, bucolic, setting, wonderful, passionate, story, life, give room, room think, think daze, daze bucolic, bucolic setting, setting wonderful, wonderful passionate, passionate story, story life
+I:371;399;love, die, love die
+I:371;400;do, live, love, doe, finish, wheel, life, do live, live love, love doe, doe finish, finish wheel, wheel life
+I:371;401;face, romantic, fantasy, girl, dream, decide, give, live, face romantic, romantic fantasy, fantasy girl, girl dream, dream decide, decide give, give live
+I:371;402;movie, be, magical, romantic, movie be, be magical, magical romantic
+I:371;403;anyone, love, romance, love, movie, rich, fantasy, anyone love, love romance, romance love, love movie, movie rich, rich fantasy
+I:371;404;be, wonderful, story, be wonderful, wonderful story
+I:371;405;the, production, casting, everything, be, perfect, the production, production casting, casting everything, everything be, be perfect
+I:371;406;good, family, film, teach, important, value, recommend, film, good family, family film, film teach, teach important, important value, value recommend, recommend film
+I:371;407;perfect, movie, adaptation, classic, novel, young, girl, meet, family, immortal, perfect movie, movie adaptation, adaptation classic, classic novel, novel young, young girl, girl meet, meet family, family immortal
+I:371;408;be, look, nice, family, movie, love, story, tuck, everlasting, be, fine, selection, viewing, pleasure, be look, look nice, nice family, family movie, movie love, love story, story tuck, tuck everlasting, everlasting be, be fine, fine selection, selection viewing, viewing pleasure
+I:371;409;story, carefree, time, little, deep, dark, provide, good, discussion, fodder, issue, such, life, change, society, value, story carefree, carefree time, time little, little deep, deep dark, dark provide, provide good, good discussion, discussion fodder, fodder issue, issue such, such life, life change, change society, society value
+I:371;410;movie, contain, great, thing, look, love, story, family, movie, movie contain, contain great, great thing, thing look, look love, love story, story family, family movie
+I:371;411;movie, overall, be, light, easy, be, enjoyable, anyone, movie overall, overall be, be light, light easy, easy be, be enjoyable, enjoyable anyone
+I:371;412;read, book, elementary, be, be, year, remember, book, read book, book elementary, elementary be, be be, be year, year remember, remember book
+I:371;413;tell, movie, be, true, adaptation, get, tell movie, movie be, be true, true adaptation, adaptation get
+I:371;414;main, theme, event, sequence, be, translate, big, screen, main theme, theme event, event sequence, sequence be, be translate, translate big, big screen
+I:371;415;fan, book, appreciate, movie, fan book, book appreciate, appreciate movie
+I:371;416;be, powerful, scene, touch, eternal, life, issue, be powerful, powerful scene, scene touch, touch eternal, eternal life, life issue
+I:371;417;scene, win, award, .2, scene win, win award, award .2
+I:371;418;overall, movie, be, great, choice, young, couple, date, family, look, nice, clean, movie, overall movie, movie be, be great, great choice, choice young, young couple, couple date, date family, family look, look nice, nice clean, clean movie
+I:371;419;friend, be, chick, flick, friend be, be chick, chick flick
+I:371;420;movie, be, marketable, rendition, book, build, romance, be, teenager, year, old, movie be, be marketable, marketable rendition, rendition book, book build, build romance, romance be, be teenager, teenager year, year old
+I:371;421;build, suspense, be, many, people, send, look, build suspense, suspense be, be many, many people, people send, send look
+I:371;422;avid, book, lover, want, see, movie, keep, theme, book, avid book, book lover, lover want, want see, see movie, movie keep, keep theme, theme book
+I:371;423;enjoy, movie, be, look, feeling, book, evoke, find, enjoy movie, movie be, be look, look feeling, feeling book, book evoke, evoke find
+I:371;424;have, love, book, year, have love, love book, book year
+I:371;425;movie, stay, true, story, movie stay, stay true, true story
+I:371;426;line, book, handle, fun, whimsical, manner, line book, book handle, handle fun, fun whimsical, whimsical manner
+I:371;427;glad, order, trip, glad order, order trip
+I:371;428;kid, love, work, occupy, long, trip, kid love, love work, work occupy, occupy long, long trip
+I:371;429;film, conceive, base, novel, tuck, everlasting, work, enough, level, make, entertaining, film, whole, family, film conceive, conceive base, base novel, novel tuck, tuck everlasting, everlasting work, work enough, enough level, level make, make entertaining, entertaining film, film whole, whole family
+I:371;430;classic, feel, be, sweet, emotion, pleasant, vista, good, classic feel, feel be, be sweet, sweet emotion, emotion pleasant, pleasant vista, vista good
+I:371;431;natured, simple, character, sweet, reserved, good, natured simple, simple character, character sweet, sweet reserved, reserved good
+I:371;432;be, introduce, tuck, family, secret, new, way, living, be introduce, introduce tuck, tuck family, family secret, secret new, new way, way living
+I:371;433;tuck, take, time, life, appreciate, everything, tuck take, take time, time life, life appreciate, appreciate everything
+I:371;434;come, wealthy, proper, family, find, tuck, lifestyle, refreshing, stay, return, home, come wealthy, wealthy proper, proper family, family find, find tuck, tuck lifestyle, lifestyle refreshing, refreshing stay, stay return, return home
+I:371;435;suspense, be, introduce, mysterious, man, yellow, suit, be, get, close, learn, tuck, secret, suspense be, be introduce, introduce mysterious, mysterious man, man yellow, yellow suit, suit be, be get, get close, close learn, learn tuck, tuck secret
+I:371;436;romance, be, introduce, grow, love, romance be, be introduce, introduce grow, grow love
+I:371;437;look, be, look be
+I:371;438;tuck, everlasting, novel, be, expressionistic, story, tuck, family, surreal, device, repeat, day, tuck everlasting, everlasting novel, novel be, be expressionistic, expressionistic story, story tuck, tuck family, family surreal, surreal device, device repeat, repeat day
+I:371;439;appreciate, story, be, important, remember, be, life, appreciate story, story be, be important, important remember, remember be, be life
+I:371;440;nice, film, classic, book, nice film, film classic, classic book
+I:371;441;great, book, great, service, great book, book great, great service
+I:371;442;love, movie, want, have, watch, love movie, movie want, want have, have watch
+I:371;443;harder, better, put, pleasant, face, let, action, speak, harder better, better put, put pleasant, pleasant face, face let, let action, action speak
+I:371;444;movie, bring, great, quality, be, joy, watch, movie bring, bring great, great quality, quality be, be joy, joy watch
+I:371;445;story, leave, enjoy, life, story leave, leave enjoy, enjoy life
+I:371;446;end, leave, think, want, end leave, leave think, think want
+I:371;447;movie, be, great, family, first, date, movie be, be great, great family, family first, first date
+I:371;448;great, movie, love, original, book, child, film, do, justice, great movie, movie love, love original, original book, book child, child film, film do, do justice
+I:371;449;thank, happy, new, year, thank happy, happy new, new year
+I:371;450;stream, introduce, year, old, stream introduce, introduce year, year old
+I:371;451;classic, book, classic book
+I:371;452;have, watch, movie, seem, leave, head, full, thing, ponder, good, feeling, same, time, have watch, watch movie, movie seem, seem leave, leave head, head full, full thing, thing ponder, ponder good, good feeling, feeling same, same time
+I:371;453;love, movie, love movie
+I:371;454;movie, be, good, book, movie be, be good, good book
+I:371;455;movie, be, girl, name, be, feed, life, home, go, explore, wood, movie be, be girl, girl name, name be, be feed, feed life, life home, home go, go explore, explore wood
+I:371;456;be, amazing, scene, make, cry, be, be, take, be amazing, amazing scene, scene make, make cry, cry be, be be, be take
+I:371;457;want, know, happen, next, see, movie, want know, know happen, happen next, next see, see movie
+I:371;458;be, great, movie, get, be great, great movie, movie get
+I:371;459;have, read, book, want, watch, movie, have read, read book, book want, want watch, watch movie
+I:371;460;get, chance, watch, original, film, available, accord, read, original, novel, find, better, story, get chance, chance watch, watch original, original film, film available, available accord, accord read, read original, original novel, novel find, find better, better story
+I:371;461;original, film, be, more, closer, novel, original film, film be, be more, more closer, closer novel
+I:371;462;old, daughter, think, enjoy, go, find, book, read, old daughter, daughter think, think enjoy, enjoy go, go find, find book, book read
+I:371;463;add, half, star, film, add half, half star, star film
+I:371;464;heroine, discover, heroine discover
+I:371;465;actor, be, fine, character, be, interesting, scenery, be, beautiful, premise, be, fascinating, plot, kind, meander, find, way, actor be, be fine, fine character, character be, be interesting, interesting scenery, scenery be, be beautiful, beautiful premise, premise be, be fascinating, fascinating plot, plot kind, kind meander, meander find, find way
+I:371;466;be, good, bit, piece, whole, be good, good bit, bit piece, piece whole
+I:371;467;best, part, film, be, older, tuck, brother, be, perpetual, tell, heroine, downside, immortality, best part, part film, film be, be older, older tuck, tuck brother, brother be, be perpetual, perpetual tell, tell heroine, heroine downside, downside immortality
+I:371;468;heartwrenching, scene, good, heartwrenching scene, scene good
+I:371;469;scene, bit, get, dark, side, live, like, end, scene bit, bit get, get dark, dark side, side live, live like, like end
+I:371;470;be, bit, uplifting, expect, film, be bit, bit uplifting, uplifting expect, expect film
+I:371;471;say, have, moment, say have, have moment
+I:371;472;do, expect, youngster, enjoy, do expect, expect youngster, youngster enjoy
+I:371;473;girlfriend, like, dog, be, delighted, girlfriend like, like dog, dog be, be delighted
+I:371;474;be, think, provoke, be think, think provoke
+I:371;475;be, magical, mystery, movie, be, think, be magical, magical mystery, mystery movie, movie be, be think
+I:371;476;entertaining, adaptation, book, same, name, entertaining adaptation, adaptation book, book same, same name
+I:371;477;watch, yr, old, enjoy, watch yr, yr old, old enjoy
+I:371;478;hollywood, cast, braindead, screenplay, render, best, ineffective, shadow, classic, young, adult, novel, hollywood cast, cast braindead, braindead screenplay, screenplay render, render best, best ineffective, ineffective shadow, shadow classic, classic young, young adult, adult novel
+I:371;479;see, be, immortal, thanks, spring, see be, be immortal, immortal thanks, thanks spring
+I:371;480;disney, be, romance, action, scene, feature, man, suit, wish, get, name, make, review, easier, write, be, bring, forefront, more, cerebral, portion, novel, disney be, be romance, romance action, action scene, scene feature, feature man, man suit, suit wish, wish get, get name, name make, make review, review easier, easier write, write be, be bring, bring forefront, forefront more, more cerebral, cerebral portion, portion novel
+I:371;481;have, love, book, childhood, be, excite, see, movie, own, be, watch, be, have love, love book, book childhood, childhood be, be excite, excite see, see movie, movie own, own be, be watch, watch be
+I:371;482;eternal, force, seduce, life, death, reward, have, be, staple, film, story, eternal force, force seduce, seduce life, life death, death reward, reward have, have be, be staple, staple film, film story
+I:371;483;tuck, be, beautiful, look, have, be, hail, classic, box, office, success, tuck be, be beautiful, beautiful look, look have, have be, be hail, hail classic, classic box, box office, office success
+I:371;484;fine, cast, include, fine cast, cast include
+I:371;485;teen, romance, plot, book, finesse, idea, life, be, magical, gift, moment, count, teen romance, romance plot, plot book, book finesse, finesse idea, idea life, life be, be magical, magical gift, gift moment, moment count
+I:371;486;great, wonderful, cast, great wonderful, wonderful cast
+I:371;487;neat, romance, story, chick, flick, neat romance, romance story, story chick, chick flick
+I:371;488;surprise, end, fitting, story, line, surprise end, end fitting, fitting story, story line
+I:371;489;movie, have, heart, undying, soul, movie have, have heart, heart undying, undying soul
+I:371;490;classic, year, come, classic year, year come
+I:371;491;product, arrive, excellent, condition, product arrive, arrive excellent, excellent condition
+I:371;492;tuck, good, service, tuck good, good service
+I:371;493;be, require, reading, class, take, minute, everyday, read, chapter, be require, require reading, reading class, class take, take minute, minute everyday, everyday read, read chapter
+I:371;494;be, great, movie, be, true, book, be great, great movie, movie be, be true, true book
+I:371;495;be, sad, beautiful, story, be sad, sad beautiful, beautiful story
+I:371;496;end, see, movie, classmate, end see, see movie, movie classmate
+I:371;497;want, walk, great, experience, life, be, life, be, compare/contrast, want walk, walk great, great experience, experience life, life be, be life, life be, be compare/contrast
+I:371;498;course, think, have, chance, live, drink, water, make, choice, let, life, take, course, grow, old, course think, think have, have chance, chance live, live drink, drink water, water make, make choice, choice let, let life, life take, take course, course grow, grow old
+I:371;499;good, clean, fun, movie, whole, family, enjoy, good clean, clean fun, fun movie, movie whole, whole family, family enjoy
+I:371;500;immortality, be, interesting, thing, ponder, immortality be, be interesting, interesting thing, thing ponder
+I:371;501;think, actor, be, cast, think actor, actor be, be cast
+I:371;502;film, see, many, side, gift, be, consider, film see, see many, many side, side gift, gift be, be consider
+I:371;503;be, magic, movie, be, wonderful, young, old, do, enjoy, romance, be magic, magic movie, movie be, be wonderful, wonderful young, young old, old do, do enjoy, enjoy romance
+I:371;504;director, chat, much, talk, more, book, get, character, secret, interesting, fact, film, other, movie, have, see, director chat, chat much, much talk, talk more, more book, book get, get character, character secret, secret interesting, interesting fact, fact film, film other, other movie, movie have, have see
+I:371;505;have, find, enjoy, movie, book, offense, course, cast, do, good, job, portray, be, character, love, have find, find enjoy, enjoy movie, movie book, book offense, offense course, course cast, cast do, do good, good job, job portray, portray be, be character, character love
+I:371;506;have, read, book, movie, be, sweet, have read, read book, book movie, movie be, be sweet
+I:371;507;movie, be, tuck, family, unique, gift, die, movie be, be tuck, tuck family, family unique, unique gift, gift die
+I:371;508;spring, have, magical, power, grant, immortal, life, spring have, have magical, magical power, power grant, grant immortal, immortal life
+I:371;509;spoil, end, overall, think, movie, be, write, be, great, addition, child, young, adult, collection, spoil end, end overall, overall think, think movie, movie be, be write, write be, be great, great addition, addition child, child young, young adult, adult collection
+I:371;510;have, read, book, think, have, find, enjoyable, movie, have read, read book, book think, think have, have find, find enjoyable, enjoyable movie
+I:371;511;drink, spring, give, life, everlasting, drink spring, spring give, give life, life everlasting
+I:371;512;take, 5th, grade, class, literary, journey, book, decide, compare, film, take 5th, 5th grade, grade class, class literary, literary journey, journey book, book decide, decide compare, compare film
+I:371;513;book, be, worth, read, book be, be worth, worth read
+I:371;514;be, bit, complex, be bit, bit complex
+I:371;515;read, tuck, everlasting, year, 4th, grade, class, have, finish, book, watch, movie, read tuck, tuck everlasting, everlasting year, year 4th, 4th grade, grade class, class have, have finish, finish book, book watch, watch movie
+I:371;516;be, several, distinct, difference, book, movie, love, be several, several distinct, distinct difference, difference book, book movie, movie love
+I:371;517;be, good, movie, be good, good movie
+I:371;518;have, see, like, have see, see like
+I:371;519;enjoy, book, enjoy, movie, enjoy book, book enjoy, enjoy movie
+I:371;520;hear, be, good, love, story, have, sure, see, better, hear be, be good, good love, love story, story have, have sure, sure see, see better
+I:371;521;show, movie, end, reading, show movie, movie end, end reading
+I:371;522;movie, go, book, movie go, go book
+I:371;523;be, 5th, grade, teacher, read, novel, course, month, class, be 5th, 5th grade, grade teacher, teacher read, read novel, novel course, course month, month class
+I:371;524;watch, movie, snack, be, great, celebration, end, book, watch movie, movie snack, snack be, be great, great celebration, celebration end, end book
+I:371;525;have, typical, romantic, plot, be, love, sacrifice, greater, good, have typical, typical romantic, romantic plot, plot be, be love, love sacrifice, sacrifice greater, greater good
+I:371;526;love, book, enjoy, movie, be, predictable, fluffy, spot, love book, book enjoy, enjoy movie, movie be, be predictable, predictable fluffy, fluffy spot
+I:371;527;girl, be, grow, only, daughter, girl be, be grow, grow only, only daughter
+I:371;528;do, proper, repressive, family, yearn, more, life, cross, path, tuck, family, youngest, son, do proper, proper repressive, repressive family, family yearn, yearn more, more life, life cross, cross path, path tuck, tuck family, family youngest, youngest son
+I:371;529;be, wonderful, villain, be wonderful, wonderful villain
+I:371;530;create, characterization, brilliant, use, voice, facial, expression, be, evil, drip, greed, self, create characterization, characterization brilliant, brilliant use, use voice, voice facial, facial expression, expression be, be evil, evil drip, drip greed, greed self
+I:371;531;nice, story, good, actor, cinematography, set, decoration, music, nice story, story good, good actor, actor cinematography, cinematography set, set decoration, decoration music
+I:371;532;be, favorite, movie, have, be, able, find, be favorite, favorite movie, movie have, have be, be able, able find
+I:371;533;order, see, have, order see, see have
+I:371;534;have, be, huge, fan, book, be, line, book, be, darn, close, have be, be huge, huge fan, fan book, book be, be line, line book, book be, be darn, darn close
+I:371;535;be, know, role, do, great, job, do, costar, be know, know role, role do, do great, great job, job do, do costar
+I:371;536;be, wonderful, tale, life, be wonderful, wonderful tale, tale life
+I:371;537;encourage, read, book, watch, movie, do, enjoy, encourage read, read book, book watch, watch movie, movie do, do enjoy
+I:371;538;movie, be, great, movie be, be great
+I:371;539;film, have, be, able, hold, attention, young, child, grow, adult, tuck, everlasting, put, sleep, time, film have, have be, be able, able hold, hold attention, attention young, young child, child grow, grow adult, adult tuck, tuck everlasting, everlasting put, put sleep, sleep time
+I:371;540;entire, movie, take, place, wood, be, great, cinematography, be, scenery, change, entire movie, movie take, take place, place wood, wood be, be great, great cinematography, cinematography be, be scenery, scenery change
+I:371;541;read, tuck, everlasting, be, sixth, grade, enjoy, lot, read tuck, tuck everlasting, everlasting be, be sixth, sixth grade, grade enjoy, enjoy lot
+I:371;542;be, pleasant, surprise, movie, be, pleasant, be pleasant, pleasant surprise, surprise movie, movie be, be pleasant
+I:371;543;retain, feel, book, give, retain feel, feel book, book give
+I:371;544;course, movie, sell, more, ticket, make, romance, course movie, movie sell, sell more, more ticket, ticket make, make romance
+I:371;545;think, choice, cast, member, be, excellent, think choice, choice cast, cast member, member be, be excellent
+I:371;546;romance, stay, true, story, be, refreshing, romance stay, stay true, true story, story be, be refreshing
+I:371;547;be, wonderful, show, be wonderful, wonderful show
+I:371;548;daughter, love, come, keep, ask, buy, while, daughter love, love come, come keep, keep ask, ask buy, buy while
+I:371;549;tuck, be, chick, flick, tuck be, be chick, chick flick
+I:371;550;acting, be, good, great, acting be, be good, good great
+I:371;551;be, typical, chick, flick, be, film, most, member, family, least, tolerate, enjoy, be typical, typical chick, chick flick, flick be, be film, film most, most member, member family, family least, least tolerate, tolerate enjoy
+I:371;552;movie, be, big, hit, come, think, do, capture, spirit, book, be, great, way, tell, everyone, life, do, need, be, extraordinary, be, wonderful, movie be, be big, big hit, hit come, come think, think do, do capture, capture spirit, spirit book, book be, be great, great way, way tell, tell everyone, everyone life, life do, do need, need be, be extraordinary, extraordinary be, be wonderful
+I:371;553;receive, video, timely, manner, go, play, message, come, say, receive video, video timely, timely manner, manner go, go play, play message, message come, come say
+I:371;554;understand, be, great, movie, know, understand be, be great, great movie, movie know
+I:371;555;find, inexpensive, site, find inexpensive, inexpensive site
+I:371;556;come, good, condition, watch, come good, good condition, condition watch
+I:371;557;buy, movie, child, buy movie, movie child
+I:371;558;idea, immortality, be, interesting, idea immortality, immortality be, be interesting
+I:371;559;be, fun, movie, watch, be fun, fun movie, movie watch
+I:371;560;have, great, experience, amazon, seller, have great, great experience, experience amazon, amazon seller
+I:371;561;book, be, good, think, give, shot, book be, be good, good think, think give, give shot
+I:371;562;love, movie, love movie
+I:371;563;be, thrill, be, able, watch, movie, worry, be thrill, thrill be, be able, able watch, watch movie, movie worry
+I:371;564;movie, be, do, act, give, star, be, possible, movie be, be do, do act, act give, give star, star be, be possible
+I:371;565;buy, video, best, friend, buy video, video best, best friend
+I:371;566;be, funniest, part, movie, be funniest, funniest part, part movie
+I:371;567;recommend, movie, be, recommend movie, movie be
+I:371;568;be, good, be good
+I:371;569;movie, stray, bit, actual, story, line, time, time, family, feel, movie, do, capture, gist, character, scenery, movie stray, stray bit, bit actual, actual story, story line, line time, time time, time family, family feel, feel movie, movie do, do capture, capture gist, gist character, character scenery
+I:371;570;follow, link, see, rest, review, have, give, follow link, link see, see rest, rest review, review have, have give
+I:371;571;star, rating, star, star rating, rating star
+I:371;572;matter, be, little, slow, taste!this, be, wonderful, movie, matter be, be little, little slow, slow taste!this, taste!this be, be wonderful, wonderful movie
+I:371;573;be, great, movie, stand, own, be great, great movie, movie stand, stand own
+I:371;574;give, gift, sweet, girl, want, movie, have, watch, be, happy, give gift, gift sweet, sweet girl, girl want, want movie, movie have, have watch, watch be, be happy
+I:371;575;time, think, go, see, movie, cringe, time think, think go, go see, see movie, movie cringe
+I:371;576;hope, pray, keep, end, be, book, hope pray, pray keep, keep end, end be, be book
+I:371;577;have, feel, happiness, tear, be, run, face, go, see, movie, have feel, feel happiness, happiness tear, tear be, be run, run face, face go, go see, see movie
+I:371;578;bring, much, spirit, character, be, take, bring much, much spirit, spirit character, character be, be take
+I:371;579;have, impressed, have impressed
+I:371;580;striking, innocent, appearance, accent, character, mannerism, glance, camera, lively, nature, be, euphoric, striking innocent, innocent appearance, appearance accent, accent character, character mannerism, mannerism glance, glance camera, camera lively, lively nature, nature be, be euphoric
+I:371;581;be, enchanted, breathless, image, portray, people, represent, be enchanted, enchanted breathless, breathless image, image portray, portray people, people represent
+I:371;582;see, movie, remember, teacher, make, read, book, many, year, see movie, movie remember, remember teacher, teacher make, make read, read book, book many, many year
+I:371;583;be, debate, see, movie, please, be debate, debate see, see movie, movie please
+I:371;584;take, word, be, worth, look, take word, word be, be worth, worth look
+I:371;585;take, chance, live, life, see, movie, take chance, chance live, live life, life see, see movie

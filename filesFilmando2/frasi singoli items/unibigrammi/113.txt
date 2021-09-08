@@ -1,0 +1,995 @@
+I:63800;1;be, film, divide, audience, be film, film divide, divide audience
+I:63800;2;think, be, mad, genius, brilliant, piece, art, think be, be mad, mad genius, genius brilliant, brilliant piece, piece art
+I:63800;3;part, like, part like
+I:63800;4;make, mind!it, get, arrest, visual, originality, spade, make mind!it, mind!it get, get arrest, arrest visual, visual originality, originality spade
+I:63800;5;people, watch, movie, be, entertain, people watch, watch movie, movie be, be entertain
+I:63800;6;say, be, get, real, talent, make, striking, disturbing, visual, hypnotize, viewer, say be, be get, get real, real talent, talent make, make striking, striking disturbing, disturbing visual, visual hypnotize, hypnotize viewer
+I:63800;7;have, lot, have lot
+I:63800;8;be, genius, be genius
+I:63800;9;be, trip, destination, be trip, trip destination
+I:63800;10;be, exercise, style, nothing, be exercise, exercise style, style nothing
+I:63800;11;look, angle, be, stylistic, cool, creepy, movie, look angle, angle be, be stylistic, stylistic cool, cool creepy, creepy movie
+I:63800;12;get, marry, assume, move, apartment, keep, newborn, creature, top, dresser, get marry, marry assume, assume move, move apartment, apartment keep, keep newborn, newborn creature, creature top, top dresser
+I:63800;13;stuff, be, impossible, get, least, make, good, movie, be, interesting, stuff be, be impossible, impossible get, get least, least make, make good, good movie, movie be, be interesting
+I:63800;14;see, film, make, famous, think, have, make, film, see film, film make, make famous, famous think, think have, have make, make film
+I:63800;15;see, film, teenage, year, be, dumbfounded, see film, film teenage, teenage year, year be, be dumbfounded
+I:63800;16;place, intense, emotion, place intense, intense emotion
+I:63800;17;opinion, eraserhead, show, be, affect, medium, film, opinion eraserhead, eraserhead show, show be, be affect, affect medium, medium film
+I:63800;18;think, be, important, director, whole, story, cinema, succeed, make, audience, travel, dream, reality, cinema, have, do, think be, be important, important director, director whole, whole story, story cinema, cinema succeed, succeed make, make audience, audience travel, travel dream, dream reality, reality cinema, cinema have, have do
+I:63800;19;strangeness, be, do, such, conviction, fact, people, involve, stay, begin, end, year, completion, be, commendable, strangeness be, be do, do such, such conviction, conviction fact, fact people, people involve, involve stay, stay begin, begin end, end year, year completion, completion be, be commendable
+I:63800;20;be, dream, be dream
+I:63800;21;everything, be, fine, everything be, be fine
+I:63800;22;guess, be, classic, fact, get, attention, many, year, say, something, guess be, be classic, classic fact, fact get, get attention, attention many, many year, year say, say something
+I:63800;23;anyone, have, study, understand, ambiguity, be, powerful, means, evoke, meaning, anyone have, have study, study understand, understand ambiguity, ambiguity be, be powerful, powerful means, means evoke, evoke meaning
+I:63800;24;be, spectator, have, untie, intricate, knot, be spectator, spectator have, have untie, untie intricate, intricate knot
+I:63800;25;ambiguous, film, produce, be, grand, triumph, fan, virtue, spite, absolute, resistance, claim, find, resolution, closure, ambiguous film, film produce, produce be, be grand, grand triumph, triumph fan, fan virtue, virtue spite, spite absolute, absolute resistance, resistance claim, claim find, find resolution, resolution closure
+I:63800;26;think, present, film, think present, present film
+I:63800;27;let, face, film, appeal, sens, sensibility, many, way, be, entertain, unambitious, trash, let face, face film, film appeal, appeal sens, sens sensibility, sensibility many, many way, way be, be entertain, entertain unambitious, unambitious trash
+I:63800;28;new, use, image, new use, use image
+I:63800;29;video, be, see, intellect, reveal, imagery, akin, mind, eye, be, rare, thing, pull, video be, be see, see intellect, intellect reveal, reveal imagery, imagery akin, akin mind, mind eye, eye be, be rare, rare thing, thing pull
+I:63800;30;be, hard, find, movie, good, acting, decent, plot, be, hackneyed, want, vomit, be hard, hard find, find movie, movie good, good acting, acting decent, decent plot, plot be, be hackneyed, hackneyed want, want vomit
+I:63800;31;recommend, believe, be, brave, create, film, know, displease, many, fan, recommend believe, believe be, be brave, brave create, create film, film know, know displease, displease many, many fan
+I:63800;32;recommend, give, i., chance, recommend give, give i., i. chance
+I:63800;33;have, do, exception, dune, be, worth, own, watch, several, time, year, have do, do exception, exception dune, dune be, be worth, worth own, own watch, watch several, several time, time year
+I:63800;34;great, treasure, be, release, short, film, great treasure, treasure be, be release, release short, short film
+I:63800;35;brave, film, be, investigation, new, language, poetic, surrealistic, expressionist, apply, cinema, medium, brave film, film be, be investigation, investigation new, new language, language poetic, poetic surrealistic, surrealistic expressionist, expressionist apply, apply cinema, cinema medium
+I:63800;36;classic, timeless, mood, be, strong, shadow, imagination, classic timeless, timeless mood, mood be, be strong, strong shadow, shadow imagination
+I:63800;37;film, have, true, substance, allow, understand, negative, space, be, important, positive, space, important, film have, have true, true substance, substance allow, allow understand, understand negative, negative space, space be, be important, important positive, positive space, space important
+I:63800;38;great, movie, come, arrive, great, condtion, great movie, movie come, come arrive, arrive great, great condtion
+I:63800;39;remember, fun, have, repeat, line, movie, remember fun, fun have, have repeat, repeat line, line movie
+I:63800;40;scene, mother, ask, relationship, have, daughter, scene, lady, hall, scene mother, mother ask, ask relationship, relationship have, have daughter, daughter scene, scene lady, lady hall
+I:63800;41;other, few, scene, be, classic, film, keep, entertain, time, watch, other few, few scene, scene be, be classic, classic film, film keep, keep entertain, entertain time, time watch
+I:63800;42;girl, love, movie, watch, several, time, do, think, be, scary, say, be, thriller, scary, movie, girl love, love movie, movie watch, watch several, several time, time do, do think, think be, be scary, scary say, say be, be thriller, thriller scary, scary movie
+I:63800;43;plot, movie, involve, man, living, look, be, post, apocalyptic, world, plot movie, movie involve, involve man, man living, living look, look be, be post, post apocalyptic, apocalyptic world
+I:63800;44;man, live, planet, singing, lady, radiator, bleeding, tree, man live, live planet, planet singing, singing lady, lady radiator, radiator bleeding, bleeding tree
+I:63800;45;that, tell, plot, movie, that tell, tell plot, plot movie
+I:63800;46;day, say, movie, mean, day say, say movie, movie mean
+I:63800;47;film, strange, be, be, complete, film, have, see, film strange, strange be, be be, be complete, complete film, film have, have see
+I:63800;48;be, film, vision, mood, director, create, perfect, mood, fantastic, vision, be film, film vision, vision mood, mood director, director create, create perfect, perfect mood, mood fantastic, fantastic vision
+I:63800;49;be, much, debate, meaning, film, think, be, immortalize, film, greatest, piece, cinema, film, be much, much debate, debate meaning, meaning film, film think, think be, be immortalize, immortalize film, film greatest, greatest piece, piece cinema, cinema film
+I:63800;50;have, state, have, read, interpretation, film, match, thought, pen, claim, remember, write, script, feel, take, film, mean, grave, have state, state have, have read, read interpretation, interpretation film, film match, match thought, thought pen, pen claim, claim remember, remember write, write script, script feel, feel take, take film, film mean, mean grave
+I:63800;51;draw, conclusion, have, sever, thing, actuality, have, be, give, birth, child, draw conclusion, conclusion have, have sever, sever thing, thing actuality, actuality have, have be, be give, give birth, birth child
+I:63800;52;be, best, way, describe, plot, film, veer, head, create, subplot, storyline, deserve, examination, be best, best way, way describe, describe plot, plot film, film veer, veer head, head create, create subplot, subplot storyline, storyline deserve, deserve examination
+I:63800;53;have, claim, film, be, fear, anxiety, face, attend, art, have claim, claim film, film be, be fear, fear anxiety, anxiety face, face attend, attend art
+I:63800;54;help, boast, interpretation, help boast, boast interpretation
+I:63800;55;depiction, baby, monster, seem, draw, man, fear, fatherhood, biggest, important, commitment, one, make, depiction baby, baby monster, monster seem, seem draw, draw man, man fear, fear fatherhood, fatherhood biggest, biggest important, important commitment, commitment one, one make
+I:63800;56;advance, beautiful, neighbor, impress, man, desire, freedom, cast, restraint, marriage, fling, advance beautiful, beautiful neighbor, neighbor impress, impress man, man desire, desire freedom, freedom cast, cast restraint, restraint marriage, marriage fling
+I:63800;57;man, planet, serve, represent, many, thing, look, appearance, demeanor, lean, idea, man, represent, man, disinterest, physical, labor, work, man planet, planet serve, serve represent, represent many, many thing, thing look, look appearance, appearance demeanor, demeanor lean, lean idea, idea man, man represent, represent man, man disinterest, disinterest physical, physical labor, labor work
+I:63800;58;act, be, flawless, consider, type, film, be, act be, be flawless, flawless consider, consider type, type film, film be
+I:63800;59;give, favorite, male, performance, give favorite, favorite male, male performance
+I:63800;60;nervousness, be, key, create, mood, establish, film, have, drop, ball, film, have, sink, nervousness be, be key, key create, create mood, mood establish, establish film, film have, have drop, drop ball, ball film, film have, have sink
+I:63800;61;be, effective, be, make, most, small, role, be effective, effective be, be make, make most, most small, small role
+I:63800;62;dinner, scene, be, memorable, scene, film, come, performance, steal, whole, scene, domineering, mother, dinner scene, scene be, be memorable, memorable scene, scene film, film come, come performance, performance steal, steal whole, whole scene, scene domineering, domineering mother
+I:63800;63;be, great, father, be great, great father
+I:63800;64;performance, be, manic, commanding, performance be, be manic, manic commanding
+I:63800;65;lynch, be, true, star, deliver, rich, fulfil, film, be, anything, have, see, lynch be, be true, true star, star deliver, deliver rich, rich fulfil, fulfil film, film be, be anything, anything have, have see
+I:63800;66;film, rich, black, white, delivery, mention, machinelike, score, engulf, film, add, layer, feeling, mood, structure, construction, flawless, film, film rich, rich black, black white, white delivery, delivery mention, mention machinelike, machinelike score, score engulf, engulf film, film add, add layer, layer feeling, feeling mood, mood structure, structure construction, construction flawless, flawless film
+I:63800;67;be, bless, unknown, riddle, try, crack, aware, be bless, bless unknown, unknown riddle, riddle try, try crack, crack aware
+I:63800;68;have, create, masterpiece, creative, gem, serve, kind, film, be, repeat, have create, create masterpiece, masterpiece creative, creative gem, gem serve, serve kind, kind film, film be, be repeat
+I:63800;69;want, admit, be, greatest, film, time, want admit, admit be, be greatest, greatest film, film time
+I:63800;70;strange, movie, stay, strange movie, movie stay
+I:63800;71;other, movie, novel, notice, additional, imagery, point, interest, viewing, other movie, movie novel, novel notice, notice additional, additional imagery, imagery point, point interest, interest viewing
+I:63800;72;sound, industrial, city, spew, mysterious, product, stay, keep, night, sound industrial, industrial city, city spew, spew mysterious, mysterious product, product stay, stay keep, keep night
+I:63800;73;have, watch, several, film, have, watch, feel, have, deeper, understanding, film, have watch, watch several, several film, film have, have watch, watch feel, feel have, have deeper, deeper understanding, understanding film
+I:63800;74;be, work, art, dark, surreal, painting, real, people, have, be, commit, film, be work, work art, art dark, dark surreal, surreal painting, painting real, real people, people have, have be, be commit, commit film
+I:63800;75;film, be, experience, film be, be experience
+I:63800;76;be, good, art, be good, good art
+I:63800;77;good, art, provoke, reaction, person, experience, do, good art, art provoke, provoke reaction, reaction person, person experience, experience do
+I:63800;78;leave, feel, unsettled, bewildered, same, time, have, thrill, know, have, watch, something, unique, haunting, funny, be, own, weird, way, beautiful, leave feel, feel unsettled, unsettled bewildered, bewildered same, same time, time have, have thrill, thrill know, know have, have watch, watch something, something unique, unique haunting, haunting funny, funny be, be own, own weird, weird way, way beautiful
+I:63800;79;course, beauty, be, eye, beholder, course beauty, beauty be, be eye, eye beholder
+I:63800;80;arrive, time, great, packaging, arrive time, time great, great packaging
+I:63800;81;slow, pace, be, great, story, man, name, wife, have, premature, baby, raise, apartment, slow pace, pace be, be great, great story, story man, man name, name wife, wife have, have premature, premature baby, baby raise, raise apartment
+I:63800;82;best, film, most, disturbing, best film, film most, most disturbing
+I:63800;83;see, film, lover, see film, film lover
+I:63800;84;be, brilliant, be, see, be brilliant, brilliant be, be see
+I:63800;85;be, relieve, find, play, laptop, be, subtitle, need, be relieve, relieve find, find play, play laptop, laptop be, be subtitle, subtitle need
+I:63800;86;start, normal, build, start normal, normal build
+I:63800;87;final, scene, be, best, ending, film, final scene, scene be, be best, best ending, ending film
+I:63800;88;be, cult, classic, reason, be cult, cult classic, classic reason
+I:63800;89;have, favorite, line, have favorite, favorite line
+I:63800;90;be, sure, be, baby, movie, be, best, old, rundown, theatre, morning, be sure, sure be, be baby, baby movie, movie be, be best, best old, old rundown, rundown theatre, theatre morning
+I:63800;91;unique, strange, unique strange
+I:63800;92;movie, see, sober, closed, mind, movie see, see sober, sober closed, closed mind
+I:63800;93;must, see, cult, classic, must see, see cult, cult classic
+I:63800;94;be, true, artist, be true, true artist
+I:63800;95;if, make, be, if make, make be
+I:63800;96;release, ignore, classic, great, anticipation, release ignore, ignore classic, classic great, great anticipation
+I:63800;97;love, strange, movie, have, see, fair, share, have, say, doubt, be, weirdest, movie, have, see, love strange, strange movie, movie have, have see, see fair, fair share, share have, have say, say doubt, doubt be, be weirdest, weirdest movie, movie have, have see
+I:63800;98;utter, darkness, dread, black, humour, capture, be, incredible, utter darkness, darkness dread, dread black, black humour, humour capture, capture be, be incredible
+I:63800;99;be, see, enjoy, comedy, blacker, tar, be see, see enjoy, enjoy comedy, comedy blacker, blacker tar
+I:63800;100;be, bloody, masterpiece, be bloody, bloody masterpiece
+I:63800;101;jolting, somber, film, see, jolting somber, somber film, film see
+I:63800;102;be, horror, slasher, fan, fan, unique, vision, be, good, dark, get, be horror, horror slasher, slasher fan, fan fan, fan unique, unique vision, vision be, be good, good dark, dark get
+I:63800;103;shoot, beautiful, black, white, create, nightmare, world, machine, be, hear, rumble, character, be, quirky, only, escape, have, be, own, imagination, shoot beautiful, beautiful black, black white, white create, create nightmare, nightmare world, world machine, machine be, be hear, hear rumble, rumble character, character be, be quirky, quirky only, only escape, escape have, have be, be own, own imagination
+I:63800;104;be, best, film, be, original, be best, best film, film be, be original
+I:63800;105;watch, haunt, long, time, come, watch haunt, haunt long, long time, time come
+I:63800;106;watch, haunt, watch haunt
+I:63800;107;movie, represent, true, study, art, form, movie, making, movie represent, represent true, true study, study art, art form, form movie, movie making
+I:63800;108;darkness, awkwardness, whole, thing, be, riveting, darkness awkwardness, awkwardness whole, whole thing, thing be, be riveting
+I:63800;109;henry, start, drift, own, mind, attempt, care, baby, henry start, start drift, drift own, own mind, mind attempt, attempt care, care baby
+I:63800;110;take, clockwork, be, half, disturbed, be, see, take clockwork, clockwork be, be half, half disturbed, disturbed be, be see
+I:63800;111;be, describe, inexplicable, be, great, set, be describe, describe inexplicable, inexplicable be, be great, great set
+I:63800;112;be, ready, be, treat, something, extra, extra, special, be ready, ready be, be treat, treat something, something extra, extra extra, extra special
+I:63800;113;nightmare, world, slimy, creature, freakish, baby, weird, woman, live, radiator, combine, real, world, be, separation, nightmare world, world slimy, slimy creature, creature freakish, freakish baby, baby weird, weird woman, woman live, live radiator, radiator combine, combine real, real world, world be, be separation
+I:63800;114;bang, steam, pipe, whimpering, eerie, sound, effect, bang steam, steam pipe, pipe whimpering, whimpering eerie, eerie sound, sound effect
+I:63800;115;be, impressive, thing, be impressive, impressive thing
+I:63800;116;be, view, life, fine, line, real, world, other, be view, view life, life fine, fine line, line real, real world, world other
+I:63800;117;be, something, unique, matter, category, classification, put, matter, angle, view, matter, compare, be something, something unique, unique matter, matter category, category classification, classification put, put matter, matter angle, angle view, view matter, matter compare
+I:63800;118;unnerving, surreal, funny, debut, feature, be, challenge, intepret, pay, special, attention, early, scene, gaze, tiny, photograph, unnerving surreal, surreal funny, funny debut, debut feature, feature be, be challenge, challenge intepret, intepret pay, pay special, special attention, attention early, early scene, scene gaze, gaze tiny, tiny photograph
+I:63800;119;entendre, title, nutshell, be, interesting, example, narrative, foreshadowing, entendre title, title nutshell, nutshell be, be interesting, interesting example, example narrative, narrative foreshadowing
+I:63800;120;n, refer, spiritual, n refer, refer spiritual
+I:63800;121;bear, story, mind, shed, light, possible, meaning, film, harrowing, hallucinatory, finale, bear story, story mind, mind shed, shed light, light possible, possible meaning, meaning film, film harrowing, harrowing hallucinatory, hallucinatory finale
+I:63800;122;daughter, bear, club, foot, daughter bear, bear club, club foot
+I:63800;123;provide, image, leave, everything, wide, open, viewer, interpret, provide image, image leave, leave everything, everything wide, wide open, open viewer, viewer interpret
+I:63800;124;lead, character, do, escape, surroundings, be, stare, heater, imagine, deform, girl, stage, singing, heaven, everything, be, fine, lead character, character do, do escape, escape surroundings, surroundings be, be stare, stare heater, heater imagine, imagine deform, deform girl, girl stage, stage singing, singing heaven, heaven everything, everything be, be fine
+I:63800;125;find, movie, be, engrossing, find movie, movie be, be engrossing
+I:63800;126;find, be, humorous, several, place, find be, be humorous, humorous several, several place
+I:63800;127;way, be, great, film, everyone, open, mind, experience, way be, be great, great film, film everyone, everyone open, open mind, mind experience
+I:63800;128;be, lose, classic, be, great, be lose, lose classic, classic be, be great
+I:63800;129;be, special, feature, be, find, korean, version, be special, special feature, feature be, be find, find korean, korean version
+I:63800;130;enjoy, disturbing, imagery, sound, enjoy disturbing, disturbing imagery, imagery sound
+I:63800;131;be, movie, be, category, own, be movie, movie be, be category, category own
+I:63800;132;agree, many, other, reviewer, film, benefit, multiple, viewing, get, viewing, agree many, many other, other reviewer, reviewer film, film benefit, benefit multiple, multiple viewing, viewing get, get viewing
+I:63800;133;true, surrealist, masterpiece, true surrealist, surrealist masterpiece
+I:63800;134;director, name, be, make, name, disturbing, sureal, masterpiece, director name, name be, be make, make name, name disturbing, disturbing sureal, sureal masterpiece
+I:63800;135;more, film, go, more, grow, more film, film go, go more, more grow
+I:63800;136;conclusion, be, classic, conclusion be, be classic
+I:63800;137;hard, find, money, hard find, find money
+I:63800;138;anyone, love, art, filmmaking, have, proper, viewing, great, surreal, work, anyone love, love art, art filmmaking, filmmaking have, have proper, proper viewing, viewing great, great surreal, surreal work
+I:63800;139;be, dream, capture, feeling, dream, film, make, be dream, dream capture, capture feeling, feeling dream, dream film, film make
+I:63800;140;want, experience, true, work, art, result, gifted, painter, translate, impressionistic, vision, screen, go, enjoy, masterpiece, want experience, experience true, true work, work art, art result, result gifted, gifted painter, painter translate, translate impressionistic, impressionistic vision, vision screen, screen go, go enjoy, enjoy masterpiece
+I:63800;141;be, amazing, flick, be amazing, amazing flick
+I:63800;142;have, see, part, year, be, eager, own, entire, version, have see, see part, part year, year be, be eager, eager own, own entire, entire version
+I:63800;143;be, incredible, example, dream, logic, sequencing, be incredible, incredible example, example dream, dream logic, logic sequencing
+I:63800;144;be, people, see, movie, decade, be, ready, see, memory, have, fade, be people, people see, see movie, movie decade, decade be, be ready, ready see, see memory, memory have, have fade
+I:63800;145;be, many, many, undertone, movie, represent, world, today, be many, many many, many undertone, undertone movie, movie represent, represent world, world today
+I:63800;146;hard, follow, time, humorous, other, time, disturbing, most, time, hard follow, follow time, time humorous, humorous other, other time, time disturbing, disturbing most, most time
+I:63800;147;be, go, be, love, ask, other, continue, watch, be go, go be, be love, love ask, ask other, other continue, continue watch
+I:63800;148;freak, make, think, watch, movie, be, think, provoke, freak make, make think, think watch, watch movie, movie be, be think, think provoke
+I:63800;149;appreciate, normal, lovely, life, movie, be, appreciate normal, normal lovely, lovely life, life movie, movie be
+I:63800;150;sound, imagery, intense, work, be, clever, set, path, future, work, sound imagery, imagery intense, intense work, work be, be clever, clever set, set path, path future, future work
+I:63800;151;drive, story, understandable, element, drive story, story understandable, understandable element
+I:63800;152;viewer, note, be, personal, film, express, anxiety, fatherhood, viewer note, note be, be personal, personal film, film express, express anxiety, anxiety fatherhood
+I:63800;153;ominous, pacing, soundtrack, be, perfect, draw, state, mind, troubling, fascinating, do, let, next, minute, ominous pacing, pacing soundtrack, soundtrack be, be perfect, perfect draw, draw state, state mind, mind troubling, troubling fascinating, fascinating do, do let, let next, next minute
+I:63800;154;see, movie, be, experience, see movie, movie be, be experience
+I:63800;155;get, chance, watch, today, get chance, chance watch, watch today
+I:63800;156;sound, effect, be, intense, sound effect, effect be, be intense
+I:63800;157;jarring, experience, watch, film, jarring experience, experience watch, watch film
+I:63800;158;kind, film, do, think, watch, kind film, film do, do think, think watch
+I:63800;159;movie, be, art, movie, movie be, be art, art movie
+I:63800;160;take, twisted, world, bleakness, rule, take twisted, twisted world, world bleakness, bleakness rule
+I:63800;161;enjoyable, foray, world, bleak, pure, joy, exaggerate, social, etiquette, awkward, pause, dialogue, humor, intrigue, enjoyable foray, foray world, world bleak, bleak pure, pure joy, joy exaggerate, exaggerate social, social etiquette, etiquette awkward, awkward pause, pause dialogue, dialogue humor, humor intrigue
+I:63800;162;incredible, amount, effort, go, creation, baby, be, memorable, bad, way, incredible amount, amount effort, effort go, go creation, creation baby, baby be, be memorable, memorable bad, bad way
+I:63800;163;movie, hold, esteem, place, family, memory, movie hold, hold esteem, esteem place, place family, family memory
+I:63800;164;recommend, enemy, recommend enemy
+I:63800;165;eraserhead, come, mind, eraserhead come, come mind
+I:63800;166;have, something, go, few, people, say, think, be, great, have something, something go, go few, few people, people say, say think, think be, be great
+I:63800;167;have, enjoy, other, work, have enjoy, enjoy other, other work
+I:63800;168;picture, movie, poster, seei, younger, picture movie, movie poster, poster seei, seei younger
+I:63800;169;movie, be, monumental, many, level, movie be, be monumental, monumental many, many level
+I:63800;170;love, hair, do, love hair, hair do
+I:63800;171;part, think, be, funny, be, old, lady, be, smoking, make, salad, ash, be, go, bowl, part think, think be, be funny, funny be, be old, old lady, lady be, be smoking, smoking make, make salad, salad ash, ash be, be go, go bowl
+I:63800;172;want, something, make, fall, vomit, be, want something, something make, make fall, fall vomit, vomit be
+I:63800;173;addition, element, film, have, be, state, previous, review, surreal, imagery, be, captivating, transport, place, addition element, element film, film have, have be, be state, state previous, previous review, review surreal, surreal imagery, imagery be, be captivating, captivating transport, transport place
+I:63800;174;film, operate, many, level, film operate, operate many, many level
+I:63800;175;tell, story, convey, real, tell story, story convey, convey real
+I:63800;176;creative, horror, film, create, creative horror, horror film, film create
+I:63800;177;film, be, intelligent, deep, surreal, film be, be intelligent, intelligent deep, deep surreal
+I:63800;178;approach, mythological, level, symbolic, portrayal, life, death, religion, relationship, approach mythological, mythological level, level symbolic, symbolic portrayal, portrayal life, life death, death religion, religion relationship
+I:63800;179;jarring, film, keep, think, day, jarring film, film keep, keep think, think day
+I:63800;180;be, surreal, best, late, portray, lonely, man, find, situation, have, look, be surreal, surreal best, best late, late portray, portray lonely, lonely man, man find, find situation, situation have, have look
+I:63800;181;appropriate, symbol, original, sin, appropriate symbol, symbol original, original sin
+I:63800;182;be, stunning, work, art, be stunning, stunning work, work art
+I:63800;183;be, enjoyable, mouth, be, unattractive, way, cellulite, mild, case, scabies, be enjoyable, enjoyable mouth, mouth be, be unattractive, unattractive way, way cellulite, cellulite mild, mild case, case scabies
+I:63800;184;way, watch, cinematography, be, oneof, best, film, have, see, way watch, watch cinematography, cinematography be, be oneof, oneof best, best film, film have, have see
+I:63800;185;please, see, fine, director, do, movie, horrorgenre, please see, see fine, fine director, director do, do movie, movie horrorgenre
+I:63800;186;be, number, think, be, fun, have, collection, scariest, movie, be number, number think, think be, be fun, fun have, have collection, collection scariest, scariest movie
+I:63800;187;friend, mine, have, hear, movie, watch, fast, stop, several, place, friend mine, mine have, have hear, hear movie, movie watch, watch fast, fast stop, stop several, several place
+I:63800;188;love, remember, like, hype, mind, love remember, remember like, like hype, hype mind
+I:63800;189;expect, be, believe, debut, feature, lenghth, film, improve, work, other, film, expect be, be believe, believe debut, debut feature, feature lenghth, lenghth film, film improve, improve work, work other, other film
+I:63800;190;recommend, true, lynchian, fan, be, curious, work, people, like, ambigious, confusing, film, recommend true, true lynchian, lynchian fan, fan be, be curious, curious work, work people, people like, like ambigious, ambigious confusing, confusing film
+I:63800;191;guy, be, genius, have, see, come, be, guy be, be genius, genius have, have see, see come, come be
+I:63800;192;order, get, wrong, thing, order get, get wrong, wrong thing
+I:63800;193;receive, cheaper, international, version, time, receive cheaper, cheaper international, international version, version time
+I:63800;194;return, second, nice, service, rep, assure, pull, site, get, bottom, confusion, return second, second nice, nice service, service rep, rep assure, assure pull, pull site, site get, get bottom, bottom confusion
+I:63800;195;thanks, rant, thanks rant
+I:63800;196;phenomenon, experience, be, visceral, more, ethereal, phenomenon experience, experience be, be visceral, visceral more, more ethereal
+I:63800;197;eraserhead, be, impressive, depiction, someone, be, nice, guy, shy, ill, eraserhead be, be impressive, impressive depiction, depiction someone, someone be, be nice, nice guy, guy shy, shy ill
+I:63800;198;ithat, movie, be, satisfy, traditional, movie, sense, end, be, world, include, set, sequel, ithat movie, movie be, be satisfy, satisfy traditional, traditional movie, movie sense, sense end, end be, be world, world include, include set, set sequel
+I:63800;199;funny, film, be, sympathetic, ecstatic, funny, derisive, funny film, film be, be sympathetic, sympathetic ecstatic, ecstatic funny, funny derisive
+I:63800;200;seem, experience, thing, way, friend, be, schizophrenic, brilliant, wonderful, do, seem experience, experience thing, thing way, way friend, friend be, be schizophrenic, schizophrenic brilliant, brilliant wonderful, wonderful do
+I:63800;201;make, beautiful, mind, seem, cliched, regard, mental, illness, be, topic, make beautiful, beautiful mind, mind seem, seem cliched, cliched regard, regard mental, mental illness, illness be, be topic
+I:63800;202;have, lot, surprise, be, delightful, bizarre, be, stick, broken, brain, have lot, lot surprise, surprise be, be delightful, delightful bizarre, bizarre be, be stick, stick broken, broken brain
+I:63800;203;be, easy, admire, ability, keep, try, do, right, thing, face, world, be, right, be easy, easy admire, admire ability, ability keep, keep try, try do, do right, right thing, thing face, face world, world be, be right
+I:63800;204;be, be, elegant, be be, be elegant
+I:63800;205;love, multiple, layer, dream, love multiple, multiple layer, layer dream
+I:63800;206;be, lot, example, be, interesting, puzzle, be lot, lot example, example be, be interesting, interesting puzzle
+I:63800;207;film, have, anthropological, thing, film, film have, have anthropological, anthropological thing, thing film
+I:63800;208;direct, brilliant, film, take, black, egg, image, sweating, anxious, guy, be, pull, lever, try, prevent, terrible, train, wreck, direct brilliant, brilliant film, film take, take black, black egg, egg image, image sweating, sweating anxious, anxious guy, guy be, be pull, pull lever, lever try, try prevent, prevent terrible, terrible train, train wreck
+I:63800;209;take, homage, compliment, take homage, homage compliment
+I:63800;210;try, defend, several, front, mention, beautiful, cinematography, amazing, result, budget, try defend, defend several, several front, front mention, mention beautiful, beautiful cinematography, cinematography amazing, amazing result, result budget
+I:63800;211;be, cheesy, film, be, art, film, high, standard, work, deepest, pent, be cheesy, cheesy film, film be, be art, art film, film high, high standard, standard work, work deepest, deepest pent
+I:63800;212;young, passion, intellect, humor, horror, surprise, delight, dark/light, emotion, wicked, sensibility, young passion, passion intellect, intellect humor, humor horror, horror surprise, surprise delight, delight dark/light, dark/light emotion, emotion wicked, wicked sensibility
+I:63800;213;love, respect, character, mourn, exalt, success, love respect, respect character, character mourn, mourn exalt, exalt success
+I:63800;214;soundtrack, be, brilliant, have, be, noise, soundtrack be, be brilliant, brilliant have, have be, be noise
+I:63800;215;irony, be, deal, bit, have, tiny, bit, emotional, distance, irony be, be deal, deal bit, bit have, have tiny, tiny bit, bit emotional, emotional distance
+I:63800;216;scene, surpass, have, see, powerful, weird, surreal, horrible, gorgeous, fascinating, repulsive, vile, beautiful, way, scene surpass, surpass have, have see, see powerful, powerful weird, weird surreal, surreal horrible, horrible gorgeous, gorgeous fascinating, fascinating repulsive, repulsive vile, vile beautiful, beautiful way
+I:63800;217;film, be, structure, have, kicker, denouement, good, luck, feeling, good, film be, be structure, structure have, have kicker, kicker denouement, denouement good, good luck, luck feeling, feeling good
+I:63800;218;be, good, ending, be good, good ending
+I:63800;219;be, logical, conclusion, be logical, logical conclusion
+I:63800;220;respect, anyone, hate, film, respect anyone, anyone hate, hate film
+I:63800;221;recommend, know, lot, person, recommend know, know lot, lot person
+I:63800;222;main, character, work, non, main character, character work, work non
+I:63800;223;review, readsaid, see, theater, sound, be, moreprominent, review readsaid, readsaid see, see theater, theater sound, sound be, be moreprominent
+I:63800;224;event, be, worth, see, experiencethe, wierdness, event be, be worth, worth see, see experiencethe, experiencethe wierdness
+I:63800;225;mind, viewer, film, appreciation, mind viewer, viewer film, film appreciation
+I:63800;226;find, draw, mesmerize, weirder, get, more, interesting, become, find draw, draw mesmerize, mesmerize weirder, weirder get, get more, more interesting, interesting become
+I:63800;227;image, scene, be, disturbing, unusual, such, menstrutate, chicken, tapeworm, destruction, baby, be, memorable, chance, be, have, see, film, image scene, scene be, be disturbing, disturbing unusual, unusual such, such menstrutate, menstrutate chicken, chicken tapeworm, tapeworm destruction, destruction baby, baby be, be memorable, memorable chance, chance be, be have, have see, see film
+I:63800;228;think, unique, purpose, film, be, create, last, impression, think unique, unique purpose, purpose film, film be, be create, create last, last impression
+I:63800;229;watch, appreciate, be, attempt, present, enjoy, watch appreciate, appreciate be, be attempt, attempt present, present enjoy
+I:63800;230;dollar, special, effect, happy, ending, dollar special, special effect, effect happy, happy ending
+I:63800;231;rare, movie, create, tunnel, vision, rare movie, movie create, create tunnel, tunnel vision
+I:63800;232;see, lot, influence, see lot, lot influence
+I:63800;233;be, worth, money, polish, be worth, worth money, money polish
+I:63800;234;have, make, cottage, industry, film, be, difficult, understand, fascinating, watch, result, frustrating, view, experience, have make, make cottage, cottage industry, industry film, film be, be difficult, difficult understand, understand fascinating, fascinating watch, watch result, result frustrating, frustrating view, view experience
+I:63800;235;be, sophisticated, pride, have, higher, sense, artistic, appreciation, other, be sophisticated, sophisticated pride, pride have, have higher, higher sense, sense artistic, artistic appreciation, appreciation other
+I:63800;236;souled, thing, write, glowing, review, masterful, use, dark, light, surrealism, souled thing, thing write, write glowing, glowing review, review masterful, masterful use, use dark, dark light, light surrealism
+I:63800;237;only, reason, be, many, positive, review, be, nobody, right, mind, right, mind, think, watch, have, hear, watch, much, do, know, be, get, start, watch, only reason, reason be, be many, many positive, positive review, review be, be nobody, nobody right, right mind, mind right, right mind, mind think, think watch, watch have, have hear, hear watch, watch much, much do, do know, know be, be get, get start, start watch
+I:63800;238;be, good, contemplate, have, sex, someone, be, marry, be good, good contemplate, contemplate have, have sex, sex someone, someone be, be marry
+I:63800;239;human, nature, be, compelling, contradictory, human nature, nature be, be compelling, compelling contradictory
+I:63800;240;manage, make, more, sense, have, see, manage make, make more, more sense, sense have, have see
+I:63800;241;film, target, mind, seek, educate, film target, target mind, mind seek, seek educate
+I:63800;242;film, expect, put, mind, hold, pull, emotional, reaction, film expect, expect put, put mind, mind hold, hold pull, pull emotional, emotional reaction
+I:63800;243;few, film, darn, few, day, seek, stimulate, mind, heart, few film, film darn, darn few, few day, day seek, seek stimulate, stimulate mind, mind heart
+I:63800;244;framework, give, event, dream, framework give, give event, event dream
+I:63800;245;have, numerous, emotional, reaction, film, develop, have numerous, numerous emotional, emotional reaction, reaction film, film develop
+I:63800;246;anyone, claim, know, true, meaning, film, be, delude, put, anyone claim, claim know, know true, true meaning, meaning film, film be, be delude, delude put
+I:63800;247;watch, see, do, learn, watch see, see do, do learn
+I:63800;248;be, few, movie, existence, ofer, be few, few movie, movie existence, existence ofer
+I:63800;249;come, best, review, come best, best review
+I:63800;250;important, movie, time.yeah, right, important movie, movie time.yeah, time.yeah right
+I:63800;251;best, way, attend, showing, be, take, own, chair, place, front, auditorium, face, crowd, best way, way attend, attend showing, showing be, be take, take own, own chair, chair place, place front, front auditorium, auditorium face, face crowd
+I:63800;252;observe, audience, reaction, interesting, film, be, enjoyable, enlighten, way, spend, minute, watch, be, screen, observe audience, audience reaction, reaction interesting, interesting film, film be, be enjoyable, enjoyable enlighten, enlighten way, way spend, spend minute, minute watch, watch be, be screen
+I:63800;253;kind, intriguing, spot, kind intriguing, intriguing spot
+I:63800;254;good, film, good film
+I:63800;255;be, strange, movie, be strange, strange movie
+I:63800;256;have, friend, like, film, have friend, friend like, like film
+I:63800;257;appear, be, sane, intelligent, human, be, other, appear be, be sane, sane intelligent, intelligent human, human be, be other
+I:63800;258;be, kind, be kind
+I:63800;259;tribute, movie, canadian, comedy, troupe, hall, tribute movie, movie canadian, canadian comedy, comedy troupe, troupe hall
+I:63800;260;love, work, love, lady, radiator, love work, work love, love lady, lady radiator
+I:63800;261;be, deeper, text, believe, be, be deeper, deeper text, text believe, believe be
+I:63800;262;remastering, be, beautiful, remastering be, be beautiful
+I:63800;263;encourage, get, interview, be, include, encourage get, get interview, interview be, be include
+I:63800;264;gather, people, have, work, love, gather people, people have, have work, work love
+I:63800;265;be, sure, be, brilliant, film, grownup, believe, be, funny, be sure, sure be, be brilliant, brilliant film, film grownup, grownup believe, believe be, be funny
+I:63800;266;odd, year, fatherhood, marriage, soul, odd year, year fatherhood, fatherhood marriage, marriage soul
+I:63800;267;discover, girlfriend, be, pregnant, do, right, thing, marry, discover girlfriend, girlfriend be, be pregnant, pregnant do, do right, right thing, thing marry
+I:63800;268;movie, be, humorous, badness, movie be, be humorous, humorous badness
+I:63800;269;capture, spirit, time, dark, industrial, depressing, capture spirit, spirit time, time dark, dark industrial, industrial depressing
+I:63800;270;make, bizarre, otherwordly, plotless, film, pulse, terror, emotion, be, brilliant, make bizarre, bizarre otherwordly, otherwordly plotless, plotless film, film pulse, pulse terror, terror emotion, emotion be, be brilliant
+I:63800;271;film, have, changed, life, film have, have changed, changed life
+I:63800;272;product, come, perfect, condition, label, product come, come perfect, perfect condition, condition label
+I:63800;273;import, work, fine, import work, work fine
+I:63800;274;be, strangest, movie, have, see, first, movie, justified, be strangest, strangest movie, movie have, have see, see first, first movie, movie justified
+I:63800;275;have, several, dream, dream, have several, several dream, dream dream
+I:63800;276;be, enjoy, lynchian, vision, be enjoy, enjoy lynchian, lynchian vision
+I:63800;277;industrialised, society, effect, lifestyle, have, industrialised society, society effect, effect lifestyle, lifestyle have
+I:63800;278;worth, view, keep, open, mind, worth view, view keep, keep open, open mind
+I:63800;279;see, previous, review, detail, see previous, previous review, review detail
+I:63800;280;month, find, month find
+I:63800;281;recommend, film, horror/sci, fi, fan, recommend film, film horror/sci, horror/sci fi, fi fan
+I:63800;282;weird, timeless, classic, weird timeless, timeless classic
+I:63800;283;hear, film, teacher, friend, mine, provoke, heated, class, discussion, hear film, film teacher, teacher friend, friend mine, mine provoke, provoke heated, heated class, class discussion
+I:63800;284;romantic, dream, have, woman, romantic dream, dream have, have woman
+I:63800;285;scene, be, funny, prospective, husband, run, gamut, meet, future, bride, family, be, meet, scene be, be funny, funny prospective, prospective husband, husband run, run gamut, gamut meet, meet future, future bride, bride family, family be, be meet
+I:63800;286;final, scene, be, guarantee, have, white, final scene, scene be, be guarantee, guarantee have, have white
+I:63800;287;see, anyone, interested, creative, daring, use, medium, see anyone, anyone interested, interested creative, creative daring, daring use, use medium
+I:63800;288;stick, way, art, be, suppose, stick way, way art, art be, be suppose
+I:63800;289;be, shine, example, happen, director, crack, door, open, glimpse, vision, enough, grasp, story, be shine, shine example, example happen, happen director, director crack, crack door, door open, open glimpse, glimpse vision, vision enough, enough grasp, grasp story
+I:63800;290;be, introduce, world, be introduce, introduce world
+I:63800;291;be, nobody, anti, be nobody, nobody anti
+I:63800;292;oblige, find, family, put, funk, dysfunction, oblige find, find family, family put, put funk, funk dysfunction
+I:63800;293;be, best, scene, entire, film, be best, best scene, scene entire, entire film
+I:63800;294;film, be, gift, audience, film be, be gift, gift audience
+I:63800;295;here, answer, life, reality, here answer, answer life, life reality
+I:63800;296;be, best, film, be best, best film
+I:63800;297;be, surreal, story, film, haunt, black, white, be surreal, surreal story, story film, film haunt, haunt black, black white
+I:63800;298;be, horrific, funny, story, be horrific, horrific funny, funny story
+I:63800;299;take, movie, message, representation, surreal, nightmarish, world, film, be, unique, be, perfect, cinematic, film, make, take movie, movie message, message representation, representation surreal, surreal nightmarish, nightmarish world, world film, film be, be unique, unique be, be perfect, perfect cinematic, cinematic film, film make
+I:63800;300;want, see, good, wierd, movie, watch, want see, see good, good wierd, wierd movie, movie watch
+I:63800;301;be, bleak, horrifying, strange, sad, funny, weird, way, writer, humble, opinion, best, film, make, be bleak, bleak horrifying, horrifying strange, strange sad, sad funny, funny weird, weird way, way writer, writer humble, humble opinion, opinion best, best film, film make
+I:63800;302;love, lot, work, have, see, film, love lot, lot work, work have, have see, see film
+I:63800;303;view, channel, week, be, weird, strange, hard, understand, craziest, film, have, see, find, film, be, entertaining, view channel, channel week, week be, be weird, weird strange, strange hard, hard understand, understand craziest, craziest film, film have, have see, see find, find film, film be, be entertaining
+I:63800;304;find, movie, friend, movie, fan, find movie, movie friend, friend movie, movie fan
+I:63800;305;year, life, have, do, year life, life have, have do
+I:63800;306;understand, movie, .2, understand movie, movie .2
+I:63800;307;classic, intend, stand, test, time, classic intend, intend stand, stand test, test time
+I:63800;308;movie, buff, love, people, drug, love, fan, love, movie buff, buff love, love people, people drug, drug love, love fan, fan love
+I:63800;309;add, make, give, copy, anything, be, quintessential, add make, make give, give copy, copy anything, anything be, be quintessential
+I:63800;310;be, fascinating, fulfil, be fascinating, fascinating fulfil
+I:63800;311;be, great, deal, surrealism, absurdism, lynch, classic, be great, great deal, deal surrealism, surrealism absurdism, absurdism lynch, lynch classic
+I:63800;312;audience, see, be, surreal, bizarre, interpretation, happen, own, reality, audience see, see be, be surreal, surreal bizarre, bizarre interpretation, interpretation happen, happen own, own reality
+I:63800;313;be, symbolism, most, other, film, make, sense, subconscious, level, be symbolism, symbolism most, most other, other film, film make, make sense, sense subconscious, subconscious level
+I:63800;314;be, interesting, ride, be interesting, interesting ride
+I:63800;315;do, enjoy, do enjoy
+I:63800;316;list, be, enjoyable, watch, enjoyment, come, visual, emotional, fullfilment, film, bring, viewer, list be, be enjoyable, enjoyable watch, watch enjoyment, enjoyment come, come visual, visual emotional, emotional fullfilment, fullfilment film, film bring, bring viewer
+I:63800;317;be, bizarre, capital, b, be, original, imaginative, plot, rich, world, intriguing, character, be bizarre, bizarre capital, capital b, b be, be original, original imaginative, imaginative plot, plot rich, rich world, world intriguing, intriguing character
+I:63800;318;want, see, social, commentary, deeper, underlie, meaning, startling, revelation, want see, see social, social commentary, commentary deeper, deeper underlie, underlie meaning, meaning startling, startling revelation
+I:63800;319;hide, bring, couple, year, one, be, go, understand, hide bring, bring couple, couple year, year one, one be, be go, go understand
+I:63800;320;true, art, do, need, manual, explanation, speak, true art, art do, do need, need manual, manual explanation, explanation speak
+I:63800;321;survive, test, time, survive test, test time
+I:63800;322;sort, word, get, bandy, lot, sort word, word get, get bandy, bandy lot
+I:63800;323;something, be, little, bit, weird, deem, surreal, film, be, surreal, do, want, give, anything, something be, be little, little bit, bit weird, weird deem, deem surreal, surreal film, film be, be surreal, surreal do, do want, want give, give anything
+I:63800;324;be, describe, think, be, bit, cuckoo, be, act, be describe, describe think, think be, be bit, bit cuckoo, cuckoo be, be act
+I:63800;325;remember, watch, first, time, friend, house, remember watch, watch first, first time, time friend, friend house
+I:63800;326;have, force, finish, movie, have force, force finish, finish movie
+I:63800;327;watch, movie, story, be, entertain, watch movie, movie story, story be, be entertain
+I:63800;328;watch, movie, figure, line, something, have, make, sense, watch movie, movie figure, figure line, line something, something have, have make, make sense
+I:63800;329;incapable, accept, difference, opinion, incapable accept, accept difference, difference opinion
+I:63800;330;grow, guy, movie, grow guy, guy movie
+I:63800;331;movie, be, disturbing, least, cinemetography, be, rich, visual, tapestry, movie be, be disturbing, disturbing least, least cinemetography, cinemetography be, be rich, rich visual, visual tapestry
+I:63800;332;mind, be, precious, commodity, putrify, mind be, be precious, precious commodity, commodity putrify
+I:63800;333;be, nightmarish, aspect, movie, lady, radiator, be, organ, music, give, soul, nightmare, vibe, think, be, hilarious, movie, be nightmarish, nightmarish aspect, aspect movie, movie lady, lady radiator, radiator be, be organ, organ music, music give, give soul, soul nightmare, nightmare vibe, vibe think, think be, be hilarious, hilarious movie
+I:63800;334;hypnotic, fascinating, have, see, weird, funny, thing, happen, next, hypnotic fascinating, fascinating have, have see, see weird, weird funny, funny thing, thing happen, happen next
+I:63800;335;film, industry, greed, socioty, suffocation, supress, human, value, life, film industry, industry greed, greed socioty, socioty suffocation, suffocation supress, supress human, human value, value life
+I:63800;336;think, everyone, see, u, spot, eraserhead, today, have, understanding, whythey, end, be, be, think everyone, everyone see, see u, u spot, spot eraserhead, eraserhead today, today have, have understanding, understanding whythey, whythey end, end be, be be
+I:63800;337;comment, contain, spoiler, see, legendary, cult, favorite, first, feature, shot, black, white, unusual, sound, effect, arrest, visual, first, time, have, unusual, reaction, film, comment contain, contain spoiler, spoiler see, see legendary, legendary cult, cult favorite, favorite first, first feature, feature shot, shot black, black white, white unusual, unusual sound, sound effect, effect arrest, arrest visual, visual first, first time, time have, have unusual, unusual reaction, reaction film
+I:63800;338;find, movie, funny, laugh, first, minute, see, minute, long, version, find movie, movie funny, funny laugh, laugh first, first minute, minute see, see minute, minute long, long version
+I:63800;339;have, get, good, thing, have get, get good, good thing
+I:63800;340;dinner, x, family, carve, chicken, scene, particular, be, comical, masterwork, dinner x, x family, family carve, carve chicken, chicken scene, scene particular, particular be, be comical, comical masterwork
+I:63800;341;major, impression, have, movie, be, meditation, male, major impression, impression have, have movie, movie be, be meditation, meditation male
+I:63800;342;be, see, anyone, interested, non, be see, see anyone, anyone interested, interested non
+I:63800;343;shot, black, white, set, grungy, unattractive, factory, shot black, black white, white set, set grungy, grungy unattractive, unattractive factory
+I:63800;344;find, funny, be, true, be, moment, display, wacky, sense, humore, find funny, funny be, be true, true be, be moment, moment display, display wacky, wacky sense, sense humore
+I:63800;345;describe, disgusting, be, true, film, imagery, include, number, set, piece, appealing, genital, discharge, describe disgusting, disgusting be, be true, true film, film imagery, imagery include, include number, number set, set piece, piece appealing, appealing genital, genital discharge
+I:63800;346;great, deal, film, image, consist, great deal, deal film, film image, image consist
+I:63800;347;have, dream, sexual, encounter, woman, live, hall, have dream, dream sexual, sexual encounter, encounter woman, woman live, live hall
+I:63800;348;be, strange, movie, watch, mind, see, be, smart, funny, satyrical, complex, disturbing, beautiful, masterpiece, be strange, strange movie, movie watch, watch mind, mind see, see be, be smart, smart funny, funny satyrical, satyrical complex, complex disturbing, disturbing beautiful, beautiful masterpiece
+I:63800;349;use, b/w, film, be, great, use b/w, b/w film, film be, be great
+I:63800;350;be, eloquent, expression, contemporary, anomie, be eloquent, eloquent expression, expression contemporary, contemporary anomie
+I:63800;351;film, go, film go
+I:63800;352;think, be, greatest, filmmaker, history, cinema, think be, be greatest, greatest filmmaker, filmmaker history, history cinema
+I:63800;353;know, be, be, art, know be, be be, be art
+I:63800;354;anyone, be, interested, possibility, film, see, astounding, work, first, opinion, anyone be, be interested, interested possibility, possibility film, film see, see astounding, astounding work, work first, first opinion
+I:63800;355;case, film, be, viewer, make, case film, film be, be viewer, viewer make
+I:63800;356;haunting, unsettling, memorable, be, funny, part, keep, viewer, haunting unsettling, unsettling memorable, memorable be, be funny, funny part, part keep, keep viewer
+I:63800;357;unique, experience, other, film, have, see, unique experience, experience other, other film, film have, have see
+I:63800;358;classic, big, screen, mid, classic big, big screen, screen mid
+I:63800;359;be, meet, mixed, review, love, whole, visual, appearance, mysterious, brooding, atmosphere, film, be meet, meet mixed, mixed review, review love, love whole, whole visual, visual appearance, appearance mysterious, mysterious brooding, brooding atmosphere, atmosphere film
+I:63800;360;time, have, manage, see, enjoy, major, work, have, be, aware, time have, have manage, manage see, see enjoy, enjoy major, major work, work have, have be, be aware
+I:63800;361;be, avant, be avant
+I:63800;362;answer, wrap, package, time, credit, role, answer wrap, wrap package, package time, time credit, credit role
+I:63800;363;have, come, interpret, image, dark, planet, sort, anti, have come, come interpret, interpret image, image dark, dark planet, planet sort, sort anti
+I:63800;364;real, power, be, real power, power be
+I:63800;365;interpret, alter, interpret alter
+I:63800;366;heaven, everything, be, fine, sing, heaven everything, everything be, be fine, fine sing
+I:63800;367;favorite, theme, film, be, stark, industrial, feel, world, favorite theme, theme film, film be, be stark, stark industrial, industrial feel, feel world
+I:63800;368;have, enjoy, take, common, place, give, twist, surreal, have enjoy, enjoy take, take common, common place, place give, give twist, twist surreal
+I:63800;369;abstract, painting, meaning, be, subjective, be, half, fun, experience, abstract painting, painting meaning, meaning be, be subjective, subjective be, be half, half fun, fun experience
+I:63800;370;drug, induce, emotional, haze, be, disturbing, thing, have, experience, drug induce, induce emotional, emotional haze, haze be, be disturbing, disturbing thing, thing have, have experience
+I:63800;371;appreciate, say, be, entertaining, be, funny, spot, appreciate say, say be, be entertaining, entertaining be, be funny, funny spot
+I:63800;372;raising, dark, star, early, seventy, figure, weird, presence, augur, many, viewer, moment, career, fill, innovative, proposal, time, have, be, best, judge, raising dark, dark star, star early, early seventy, seventy figure, figure weird, weird presence, presence augur, augur many, many viewer, viewer moment, moment career, career fill, fill innovative, innovative proposal, proposal time, time have, have be, be best, best judge
+I:63800;373;essential, core, bizarre, universe, be, find, post, essential core, core bizarre, bizarre universe, universe be, be find, find post
+I:63800;374;release, film, achieve, cult, status, world, release film, film achieve, achieve cult, cult status, status world
+I:63800;375;be, interesting, see, director, begin, start, be interesting, interesting see, see director, director begin, begin start
+I:63800;376;be, best, blue, velvet, man, be, film, debut, original, concept, be best, best blue, blue velvet, velvet man, man be, be film, film debut, debut original, original concept
+I:63800;377;work, innovate, inspire, today, bow, happy, ending, flinch, muscle, ease, work innovate, innovate inspire, inspire today, today bow, bow happy, happy ending, ending flinch, flinch muscle, muscle ease
+I:63800;378;see, section, see section
+I:63800;379;first, be, non, first be, be non
+I:63800;380;descript, other, be, movie, descript other, other be, be movie
+I:63800;381;top, start, good, top start, start good
+I:63800;382;side, be, interesting, side be, be interesting
+I:63800;383;dad, table, seem, enthusiastic, dad table, table seem, seem enthusiastic
+I:63800;384;nobody, talk, much, be, akward, nobody talk, talk much, much be, be akward
+I:63800;385;dinner, place, dinner place
+I:63800;386;side, have, alligator, side have, have alligator
+I:63800;387;have, big, action, have big, big action
+I:63800;388;compiment, action, side, compiment action, action side
+I:63800;389;left, side, be, do, action, left side, side be, be do, do action
+I:63800;390;see, do, see do
+I:63800;391;do, know, movie, want, review, amazing, display, innovation, have, create, new, review, medium, do know, know movie, movie want, want review, review amazing, amazing display, display innovation, innovation have, have create, create new, new review, review medium
+I:63800;392;definition, art, go, be, good, definition art, art go, go be, be good
+I:63800;393;film, be, comfortable, watch, time, make, viewer, squirm, film be, be comfortable, comfortable watch, watch time, time make, make viewer, viewer squirm
+I:63800;394;thing, have, note, year, be, polarizing, effect, film, have, audience, thing have, have note, note year, year be, be polarizing, polarizing effect, effect film, film have, have audience
+I:63800;395;be, memorable, cinema, memorable, art, reason, be, top, favorite, film, be memorable, memorable cinema, cinema memorable, memorable art, art reason, reason be, be top, top favorite, favorite film
+I:63800;396;deranged, film, make, mean, be, best, film, make, deranged film, film make, make mean, mean be, be best, best film, film make
+I:63800;397;story, style, film, share, trait, have, make, director, spokesman, alternative, surreal, modern, cinema, story style, style film, film share, share trait, trait have, have make, make director, director spokesman, spokesman alternative, alternative surreal, surreal modern, modern cinema
+I:63800;398;first, minute, film, show, come, expect, feature, moonlike, landscape, be, present, show, residence, man, first minute, minute film, film show, show come, come expect, expect feature, feature moonlike, moonlike landscape, landscape be, be present, present show, show residence, residence man
+I:63800;399;film, be, mood, anything, moode, be, experienced, debate, film be, be mood, mood anything, anything moode, moode be, be experienced, experienced debate
+I:63800;400;be, exercise, visual, visual, effect, do, minimum, budget, homage, german, expressionism, love, influence, be, obvious, be, see, movie, be exercise, exercise visual, visual visual, visual effect, effect do, do minimum, minimum budget, budget homage, homage german, german expressionism, expressionism love, love influence, influence be, be obvious, obvious be, be see, see movie
+I:63800;401;scene, be, better, sit, enjoy, grotesque, humor, creepy, visual, eerie, music, appreciate, unique, strong, sense, atmosphere, original, freak, scene be, be better, better sit, sit enjoy, enjoy grotesque, grotesque humor, humor creepy, creepy visual, visual eerie, eerie music, music appreciate, appreciate unique, unique strong, strong sense, sense atmosphere, atmosphere original, original freak
+I:63800;402;be, essential, view, devoted, fan, unique, director, lover, grotesque, dark, visual, humor, student, interested, history, cinema, german, expressionism, contemporary, be essential, essential view, view devoted, devoted fan, fan unique, unique director, director lover, lover grotesque, grotesque dark, dark visual, visual humor, humor student, student interested, interested history, history cinema, cinema german, german expressionism, expressionism contemporary
+I:63800;403;remember, be, exercise, create, young, enthusiastic, filmmaker, make, first, step, pro, do, judge, do, bother, effort, seek, depth, remember be, be exercise, exercise create, create young, young enthusiastic, enthusiastic filmmaker, filmmaker make, make first, first step, step pro, pro do, do judge, judge do, do bother, bother effort, effort seek, seek depth
+I:63800;404;read, much, film, get, chance, see, read much, much film, film get, get chance, chance see
+I:63800;405;see, midnight, laptop, wear, headphone, see midnight, midnight laptop, laptop wear, wear headphone
+I:63800;406;be, hypnotic, unsettling, disturbing, brilliant, be hypnotic, hypnotic unsettling, unsettling disturbing, disturbing brilliant
+I:63800;407;movie, be, mood, pure, simple, movie be, be mood, mood pure, pure simple
+I:63800;408;be, amazing, conjure, emotion, nothing, be amazing, amazing conjure, conjure emotion, emotion nothing
+I:63800;409;view, remember, dream, view remember, remember dream
+I:63800;410;do, first, time, watch, do first, first time, time watch
+I:63800;411;let, watch, agree, spare, detail, let watch, watch agree, agree spare, spare detail
+I:63800;412;first, feature, first feature
+I:63800;413;length, film, explore, notion, absolute, extreme, length film, film explore, explore notion, notion absolute, absolute extreme
+I:63800;414;lynch, have, concerned, bipolar, contrast, be, exception, lynch have, have concerned, concerned bipolar, bipolar contrast, contrast be, be exception
+I:63800;415;be, best, trick, artist, have, play, viewer, be best, best trick, trick artist, artist have, have play, play viewer
+I:63800;416;like, think, existential, level, see, make, like think, think existential, existential level, level see, see make
+I:63800;417;be, poker, game, do, know, sucker, be, be, be poker, poker game, game do, do know, know sucker, sucker be, be be
+I:63800;418;be, feel, walk, movie, view, comfort, home, be feel, feel walk, walk movie, movie view, view comfort, comfort home
+I:63800;419;save, time, money, better, go, nice, walk, country, save time, time money, money better, better go, go nice, nice walk, walk country
+I:63800;420;be, surrealist, masterpiece, be surrealist, surrealist masterpiece
+I:63800;421;be, bit, work, track, worth, be bit, bit work, work track, track worth
+I:63800;422;do, have, many, image, be, wall, startling, look, do have, have many, many image, image be, be wall, wall startling, startling look
+I:63800;423;love, baby, creature, cry, mysterious, womenpave, way, many, othermovy, have, hand, love baby, baby creature, creature cry, cry mysterious, mysterious womenpave, womenpave way, way many, many othermovy, othermovy have, have hand
+I:63800;424;love, film, consider, talented, brilliant, artist, love film, film consider, consider talented, talented brilliant, brilliant artist
+I:63800;425;be, go, have, watch, point, see, strike, year, have, go, impression, be, be, nauseating, descent, freudian, dream, be go, go have, have watch, watch point, point see, see strike, strike year, year have, have go, go impression, impression be, be be, be nauseating, nauseating descent, descent freudian, freudian dream
+I:63800;426;tell, many, man, plumb, subconscious, translate, visual, imagery, tell many, many man, man plumb, plumb subconscious, subconscious translate, translate visual, visual imagery
+I:63800;427;be, masterpiece, doubt, be masterpiece, masterpiece doubt
+I:63800;428;good, movie, wish, see, good movie, movie wish, wish see
+I:63800;429;say, film, do, lack, fascinating, visual, say film, film do, do lack, lack fascinating, fascinating visual
+I:63800;430;high, coif, become, signature, film, high coif, coif become, become signature, signature film
+I:63800;431;spout, tiny, chicken, offer, dinner, keep, attention, do, gorgeous, neighbor, hall, lust, spout tiny, tiny chicken, chicken offer, offer dinner, dinner keep, keep attention, attention do, do gorgeous, gorgeous neighbor, neighbor hall, hall lust
+I:63800;432;industrial, sound, effect, relentless, be, perfect, industrial sound, sound effect, effect relentless, relentless be, be perfect
+I:63800;433;make, suspect, director, exert, such, loving, care, production, value, be, communicate, something, worth, make suspect, suspect director, director exert, exert such, such loving, loving care, care production, production value, value be, be communicate, communicate something, something worth
+I:63800;434;star, seem, award, excellent, production, value, fantastic, imagery, star seem, seem award, award excellent, excellent production, production value, value fantastic, fantastic imagery
+I:63800;435;be, favorite, lynch, film, favorite, film, be favorite, favorite lynch, lynch film, film favorite, favorite film
+I:63800;436;have, see, many, film, include, much, world, cinema, classic, hollywood, silent, film, new, wave, cult, etc., eraserhead, stand, vital, landmark, have see, see many, many film, film include, include much, much world, world cinema, cinema classic, classic hollywood, hollywood silent, silent film, film new, new wave, wave cult, cult etc., etc. eraserhead, eraserhead stand, stand vital, vital landmark
+I:63800;437;production, be, perfect, fact, magical, alchemical, severe, production be, be perfect, perfect fact, fact magical, magical alchemical, alchemical severe
+I:63800;438;be, dynamic, stylized, mainstream, film, be dynamic, dynamic stylized, stylized mainstream, mainstream film
+I:63800;439;search, secret, meaning, eraserhead, belie, fact, film, be, full, meaningful, instance, juxtapostition, search secret, secret meaning, meaning eraserhead, eraserhead belie, belie fact, fact film, film be, be full, full meaningful, meaningful instance, instance juxtapostition
+I:63800;440;spite, be, dissonant, nature, moment, be, vital, lead, next, lyrical, progression, spite be, be dissonant, dissonant nature, nature moment, moment be, be vital, vital lead, lead next, next lyrical, lyrical progression
+I:63800;441;be, kind, movie, be kind, kind movie
+I:63800;442;find, be, wonderful, find be, be wonderful
+I:63800;443;be, be, unique, say, least, be be, be unique, unique say, say least
+I:63800;444;eraserhead, defy, definitive, description, tap, inner, realm, viewer, eraserhead defy, defy definitive, definitive description, description tap, tap inner, inner realm, realm viewer
+I:63800;445;respect, bring, mind, polyester, pink, flamingo, respect bring, bring mind, mind polyester, polyester pink, pink flamingo
+I:63800;446;favorite, moment, movie, be, way, bizarre, cabaret, scene, perform, lady, radiator, picture, leave, favorite moment, moment movie, movie be, be way, way bizarre, bizarre cabaret, cabaret scene, scene perform, perform lady, lady radiator, radiator picture, picture leave
+I:63800;447;grotesque, setting, actress, turn, mesmerizing, emotive, performance, grotesque setting, setting actress, actress turn, turn mesmerizing, mesmerizing emotive, emotive performance
+I:63800;448;be, great, packaging, *, eraserhead, *, be great, great packaging, packaging *, * eraserhead, eraserhead *
+I:63800;449;transfer, terrific, great, sound, transfer terrific, terrific great, great sound
+I:63800;450;featurette, be, great, featurette be, be great
+I:63800;451;be, believe, film, be, nothing, more, psychedelic, fodder, abnormal, curious, mind, be, discard, exalt, avant, gard, status, be believe, believe film, film be, be nothing, nothing more, more psychedelic, psychedelic fodder, fodder abnormal, abnormal curious, curious mind, mind be, be discard, discard exalt, exalt avant, avant gard, gard status
+I:63800;452;baby, be, normal, baby be, be normal
+I:63800;453;treat, normal, child, treat normal, normal child
+I:63800;454;dimension, movie, raise, everyday, life, misfortune, reflect, social, consciousness, family, issue, dimension movie, movie raise, raise everyday, everyday life, life misfortune, misfortune reflect, reflect social, social consciousness, consciousness family, family issue
+I:63800;455;talk, horror, effect, be, brilliant, talk horror, horror effect, effect be, be brilliant
+I:63800;456;take, eye, have, mesmerizing, effect, unknown, power, take eye, eye have, have mesmerizing, mesmerizing effect, effect unknown, unknown power
+I:63800;457;have, spawn, many, reaction, positive, negative, have spawn, spawn many, many reaction, reaction positive, positive negative
+I:63800;458;strange, mind, be, attract, strange mind, mind be, be attract
+I:63800;459;happen, admire, happen admire
+I:63800;460;do, admire, result, effort, put, do admire, admire result, result effort, effort put
+I:63800;461;take, gamble, movie, praise, take gamble, gamble movie, movie praise
+I:63800;462;be, evident, watch, come, elaborate, set, special, effect, be evident, evident watch, watch come, come elaborate, elaborate set, set special, special effect
+I:63800;463;be, defend, film, painstaking, work, have, dedicate, torrid, abominable, piece, art, be defend, defend film, film painstaking, painstaking work, work have, have dedicate, dedicate torrid, torrid abominable, abominable piece, piece art
+I:63800;464;go, number, revision, be, year, period, conception, gestation, birth, go number, number revision, revision be, be year, year period, period conception, conception gestation, gestation birth
+I:63800;465;inspiration, radiator, lady, come, discovery, time, be, make, film, inspiration radiator, radiator lady, lady come, come discovery, discovery time, time be, be make, make film
+I:63800;466;represent, means, escape, harsh, reality, enlighten, state, represent means, means escape, escape harsh, harsh reality, reality enlighten, enlighten state
+I:63800;467;mind, spirit, have, leave, physical, body, commune, eternity, mind spirit, spirit have, have leave, leave physical, physical body, body commune, commune eternity
+I:63800;468;do, be, give, birth, creative, genius, do be, be give, give birth, birth creative, creative genius
+I:63800;469;see, picture, early, change, way, watch, movie, see picture, picture early, early change, change way, way watch, watch movie
+I:63800;470;have, find, motion, picture, capture, element, have find, find motion, motion picture, picture capture, capture element
+I:63800;471;be, man, get, head, make, motion, picture, grey, matter, be man, man get, get head, head make, make motion, motion picture, picture grey, grey matter
+I:63800;472;keep, mind, best, blu, keep mind, mind best, best blu
+I:63800;473;only, gripe, be, disc, be, keep, spin, only gripe, gripe be, be disc, disc be, be keep, keep spin
+I:63800;474;be, rumble, full, capacity, be rumble, rumble full, full capacity
+I:63800;475;be, weirdest, movie, have, see, be weirdest, weirdest movie, movie have, have see
+I:63800;476;be, inventive, disturbing, be inventive, inventive disturbing
+I:63800;477;accord, be, spiritual, movie, watch, muliple, viewing, illuminate, original, weirdness, accord be, be spiritual, spiritual movie, movie watch, watch muliple, muliple viewing, viewing illuminate, illuminate original, original weirdness
+I:63800;478;classic, continue, reveal, new, interpretation, classic continue, continue reveal, reveal new, new interpretation
+I:63800;479;wierd, amazing, sit, watch, be, amaze, wierd amazing, amazing sit, sit watch, watch be, be amaze
+I:63800;480;everyone, watch, good, stuff, everyone watch, watch good, good stuff
+I:63800;481;use, contrast, film, be, exceptional, use contrast, contrast film, film be, be exceptional
+I:63800;482;have, like, stuff, have like, like stuff
+I:63800;483;get, be, string, image, contribute, overrall, impression, printer, world, get be, be string, string image, image contribute, contribute overrall, overrall impression, impression printer, printer world
+I:63800;484;shot, black, white, present, memorable, cinema, history, shot black, black white, white present, present memorable, memorable cinema, cinema history
+I:63800;485;true, beauty, picture, be, have, watch, everything, glean, true beauty, beauty picture, picture be, be have, have watch, watch everything, everything glean
+I:63800;486;hope, get, point, work, entirety, do, manage, decipher, film, be, worth, retain, memory, bank, hope get, get point, point work, work entirety, entirety do, do manage, manage decipher, decipher film, film be, be worth, worth retain, retain memory, memory bank
+I:63800;487;worth, see, least, life, worth see, see least, least life
+I:63800;488;be, master, be, film, work, longest, show, be master, master be, be film, film work, work longest, longest show
+I:63800;489;version, be, good, lack, extra, everyone, be, use, version be, be good, good lack, lack extra, extra everyone, everyone be, be use
+I:63800;490;watch, be, remind, other, movie, watch be, be remind, remind other, other movie
+I:63800;491;be, disturbing, humorous, bizarre, people, be, make, exceptional, film, be disturbing, disturbing humorous, humorous bizarre, bizarre people, people be, be make, make exceptional, exceptional film
+I:63800;492;black, white, movie, have, great, cinematography, interesting, sound, effect, track, great, atmosphere, be, shoot, black white, white movie, movie have, have great, great cinematography, cinematography interesting, interesting sound, sound effect, effect track, track great, great atmosphere, atmosphere be, be shoot
+I:63800;493;have, own, unique, style, be, exception, have own, own unique, unique style, style be, be exception
+I:63800;494;be, question, have, vision, be question, question have, have vision
+I:63800;495;first, film, demonstrate, have, ability, skill, deliver, nightmarish, vision, screen, first film, film demonstrate, demonstrate have, have ability, ability skill, skill deliver, deliver nightmarish, nightmarish vision, vision screen
+I:63800;496;be, master, manipulate, viewer, minimal, mise, be master, master manipulate, manipulate viewer, viewer minimal, minimal mise
+I:63800;497;film, technical, achievement, be, exceptional, weird, movie, be, crown, jewel, film technical, technical achievement, achievement be, be exceptional, exceptional weird, weird movie, movie be, be crown, crown jewel
+I:63800;498;groundbreak, special, effect, groundbreak special, special effect
+I:63800;499;surreal, be, seem, be, lot, honesty, film, surreal be, be seem, seem be, be lot, lot honesty, honesty film
+I:63800;500;lady, sing, everything, be, fine, mean, lady sing, sing everything, everything be, be fine, fine mean
+I:63800;501;be, more, little, bored, mainstream, stuff, be, mood, cult, film, be, best, be more, more little, little bored, bored mainstream, mainstream stuff, stuff be, be mood, mood cult, cult film, film be, be best
+I:63800;502;have, see, actual, print, film, good, have see, see actual, actual print, print film, film good
+I:63800;503;have, create, masterpiece, be, prime, example, art, filmmaking, have create, create masterpiece, masterpiece be, be prime, prime example, example art, art filmmaking
+I:63800;504;plus, give, serious, fan, something, look, consdier, be, hard, find, plus give, give serious, serious fan, fan something, something look, look consdier, consdier be, be hard, hard find
+I:63800;505;boy, be, go, be, fun, boy be, be go, go be, be fun
+I:63800;506;watch, come, own, opinion, watch come, come own, own opinion
+I:63800;507;be, artist, be artist
+I:63800;508;be, artist, be artist
+I:63800;509;film, represent, good, evil, lady, seductive, woman, hall, film represent, represent good, good evil, evil lady, lady seductive, seductive woman, woman hall
+I:63800;510;whole, movie, be, reviewer, put, dark, eerie, whole movie, movie be, be reviewer, reviewer put, put dark, dark eerie
+I:63800;511;make, long, story, end, movie, control, operator, lever, jam, be, engulf, white, ethereal, light, angelic, sound, lady, radiator, appear, hug, let, know, everything, be, fine, make long, long story, story end, end movie, movie control, control operator, operator lever, lever jam, jam be, be engulf, engulf white, white ethereal, ethereal light, light angelic, angelic sound, sound lady, lady radiator, radiator appear, appear hug, hug let, let know, know everything, everything be, be fine
+I:63800;512;guy, be, genius, guy be, be genius
+I:63800;513;fine, line, be, fine, guy, fine line, line be, be fine, fine guy
+I:63800;514;regular, style, regular style
+I:63800;515;have, no, idea, movie, be, u, be, draw, have no, no idea, idea movie, movie be, be u, u be, be draw
+I:63800;516;come, home, sexy, neighbor, brunette, say, someone, call, come home, home sexy, sexy neighbor, neighbor brunette, brunette say, say someone, someone call
+I:63800;517;be, industrial, huge, metal, clang, noise, dabble, lull, storm, rain, be industrial, industrial huge, huge metal, metal clang, clang noise, noise dabble, dabble lull, lull storm, storm rain
+I:63800;518;worm, be, crush, woman, be, attractive, san, growth, cheek, sing, thing, heaven, arm, hold, tight, wear, smile, worm be, be crush, crush woman, woman be, be attractive, attractive san, san growth, growth cheek, cheek sing, sing thing, thing heaven, heaven arm, arm hold, hold tight, tight wear, wear smile
+I:63800;519;buy, have, see, buy have, have see
+I:63800;520;think, sit, enjoy, cult, classic, everyone, claim, movie, be, afternoon, think sit, sit enjoy, enjoy cult, cult classic, classic everyone, everyone claim, claim movie, movie be, be afternoon
+I:63800;521;lead, do, wonderful, job, play, nervous, misfit, lead do, do wonderful, wonderful job, job play, play nervous, nervous misfit
+I:63800;522;guess, be, consider, visual, art, guess be, be consider, consider visual, visual art
+I:63800;523;be, remarkable, film, do, have, plot, be remarkable, remarkable film, film do, do have, have plot
+I:63800;524;watch, film, keep, mind, situation, be, intense, anxiety, be, go, watch film, film keep, keep mind, mind situation, situation be, be intense, intense anxiety, anxiety be, be go
+I:63800;525;be, definate, point, film, be, unclear, general, story, be, tell, be definate, definate point, point film, film be, be unclear, unclear general, general story, story be, be tell
+I:63800;526;be, powerful, example, be, be, insane, be powerful, powerful example, example be, be be, be insane
+I:63800;527;reality, be, distort, see, eye, hear, ear, reality be, be distort, distort see, see eye, eye hear, hear ear
+I:63800;528;recommend, film, psychology, student, recommend film, film psychology, psychology student
+I:63800;529;use, be, favorite, film, come, realize, prefer, optimistic, dream, use be, be favorite, favorite film, film come, come realize, realize prefer, prefer optimistic, optimistic dream
+I:63800;530;favorite, film, have, be, film, tell, odd, little, story, less, dialog, favorite film, film have, have be, be film, film tell, tell odd, odd little, little story, story less, less dialog
+I:63800;531;bleakness, be, pack, droll, humor, bleakness be, be pack, pack droll, droll humor
+I:63800;532;film, have, be, clean, frame, frame, film have, have be, be clean, clean frame, frame frame
+I:63800;533;soundtrack, restore, be, available, website, soundtrack restore, restore be, be available, available website
+I:63800;534;please, feel, free, do, be, offend, please feel, feel free, free do, do be, be offend
+I:63800;535;ask, beautiful, young, black, dress, lady, sit, next, like, movie, ask beautiful, beautiful young, young black, black dress, dress lady, lady sit, sit next, next like, like movie
+I:63800;536;answer, wonderful, answer wonderful
+I:63800;537;end, uncover, core, anxiety, be, able, overcome, see, calm, expression, suffuse, face, be, bath, light, embrace, lady, radiator, end uncover, uncover core, core anxiety, anxiety be, be able, able overcome, overcome see, see calm, calm expression, expression suffuse, suffuse face, face be, be bath, bath light, light embrace, embrace lady, lady radiator
+I:63800;538;be, read, have, see, movie, be, least, curious, hype, be, late, only, major, filmmaker, have, cite, direct, cinematic, influence, believe, be, perfect, cinematic, experience, create, date, be read, read have, have see, see movie, movie be, be least, least curious, curious hype, hype be, be late, late only, only major, major filmmaker, filmmaker have, have cite, cite direct, direct cinematic, cinematic influence, influence believe, believe be, be perfect, perfect cinematic, cinematic experience, experience create, create date
+I:63800;539;movie, have, enjoy, success, midnight, movie, circuit, year, run, night, something, year, movie have, have enjoy, enjoy success, success midnight, midnight movie, movie circuit, circuit year, year run, run night, night something, something year
+I:63800;540;term, rational, comprehension, be, fabled, big, fish, remain, elusive, attempt, capture, term rational, rational comprehension, comprehension be, be fabled, fabled big, big fish, fish remain, remain elusive, elusive attempt, attempt capture
+I:63800;541;movie, get, humorous, time, watch, opinion, movie get, get humorous, humorous time, time watch, watch opinion
+I:63800;542;be, cinematic, experience, come, closest, capture, dream, logic, next, brilliant, life, be cinematic, cinematic experience, experience come, come closest, closest capture, capture dream, dream logic, logic next, next brilliant, brilliant life
+I:63800;543;get, chance, watch, movie, theater, great, sound, system, get chance, chance watch, watch movie, movie theater, theater great, great sound, sound system
+I:63800;544;understand, be, move, make, statement, understand be, be move, move make, make statement
+I:63800;545;create, visceral, landscape, dark, peculiar, selection, image, sound, seem, be, remind, soul, be, slosh, organic, bag, blood, bone, hair, follicle, industrial, shrapnel, dirt, pile, antique, radiator, terrifying, beautiful, delineation, living, creature, make, aware, own, being, birth, imagery, abound, create visceral, visceral landscape, landscape dark, dark peculiar, peculiar selection, selection image, image sound, sound seem, seem be, be remind, remind soul, soul be, be slosh, slosh organic, organic bag, bag blood, blood bone, bone hair, hair follicle, follicle industrial, industrial shrapnel, shrapnel dirt, dirt pile, pile antique, antique radiator, radiator terrifying, terrifying beautiful, beautiful delineation, delineation living, living creature, creature make, make aware, aware own, own being, being birth, birth imagery, imagery abound
+I:63800;546;be, perfect, symphony, sound, image, amazing, work, first, time, feature, film, director, be perfect, perfect symphony, symphony sound, sound image, image amazing, amazing work, work first, first time, time feature, feature film, film director
+I:63800;547;everyone, peek, everyone peek
+I:63800;548;remaster, sound, image, include, few, extra, remaster sound, sound image, image include, include few, few extra
+I:63800;549;agree, movie, be, unforgettable, agree movie, movie be, be unforgettable
+I:63800;550;unforgettable, movie, wish, have, see, unforgettable movie, movie wish, wish have, have see
+I:63800;551;sense, be, consider, cult, classic, have, become, sense be, be consider, consider cult, cult classic, classic have, have become
+I:63800;552;see, part, scene, have, chicken, tv, many, year, like, saw, see part, part scene, scene have, have chicken, chicken tv, tv many, many year, year like, like saw
+I:63800;553;think, character, be, interesting, like, strange, atmosphere, think character, character be, be interesting, interesting like, like strange, strange atmosphere
+I:63800;554;like, theshock, facial, expression, make, like theshock, theshock facial, facial expression, expression make
+I:63800;555;be, surprised, good, look, be surprised, surprised good, good look
+I:63800;556;think, close, up, shot, look, good, detailed, think close, close up, up shot, shot look, look good, good detailed
+I:63800;557;baby, have, many, close, up, look, detailed, sharp, baby have, have many, many close, close up, up look, look detailed, detailed sharp
+I:63800;558;count, hand, count hand
+I:63800;559;dialog, sound, clear, fine, tomy, ear, dialog sound, sound clear, clear fine, fine tomy, tomy ear
+I:63800;560;be, good, bass, few, scene, be good, good bass, bass few, few scene
+I:63800;561;think, be, good, bd, edition, bycapelight, picture, think be, be good, good bd, bd edition, edition bycapelight, bycapelight picture
+I:63800;562;fantastic, transfer, sound, great, look, great, fantastic transfer, transfer sound, sound great, great look, look great
+I:63800;563;cult, cinema, collection, cult cinema, cinema collection
+I:63800;564;need, be, film, need be, be film
+I:63800;565;fan, lynch, notice, film, be, extreme, difficult, best, fan lynch, lynch notice, notice film, film be, be extreme, extreme difficult, difficult best
+I:63800;566;strangest, movie, have, see, strangest movie, movie have, have see
+I:63800;567;watch, american, version, get, public, library, be, better, version, watch american, american version, version get, get public, public library, library be, be better, better version
+I:63800;568;love, strange, unusual, character, love strange, strange unusual, unusual character
+I:63800;569;favorite, character, have, be, kid, look, cry, loaf, french, bread, favorite character, character have, have be, be kid, kid look, look cry, cry loaf, loaf french, french bread
+I:63800;570;sit, enjoy, sit enjoy
+I:63800;571;be, disturbing, movie, have, try, watch, be disturbing, disturbing movie, movie have, have try, try watch
+I:63800;572;debut, be, something, everyone, see, be, interested, artistic, cinema, debut be, be something, something everyone, everyone see, see be, be interested, interested artistic, artistic cinema
+I:63800;573;be, tough, explain, be tough, tough explain
+I:63800;574;love, find, hard, watch, time, love find, find hard, hard watch, watch time
+I:63800;575;think, do, great, job, imagery, sound, think do, do great, great job, job imagery, imagery sound
+I:63800;576;surreal, masterpiece, be, humble, opinion, personal, minute, celluloid, create, surreal masterpiece, masterpiece be, be humble, humble opinion, opinion personal, personal minute, minute celluloid, celluloid create
+I:63800;577;many, other, film, theory, abound, nightmare, film, seem, people, have, fun, dissect, pun, intend, imagery, symbol, watch, film, many other, other film, film theory, theory abound, abound nightmare, nightmare film, film seem, seem people, people have, have fun, fun dissect, dissect pun, pun intend, intend imagery, imagery symbol, symbol watch, watch film
+I:63800;578;be, enjoyable, watch, entertaining, stretch, imagination, be, compelling, engrossing, disturbing, be enjoyable, enjoyable watch, watch entertaining, entertaining stretch, stretch imagination, imagination be, be compelling, compelling engrossing, engrossing disturbing
+I:63800;579;many, film, many film
+I:63800;580;recent, have, be, understand, everything, take, place, be, show, be, make, movie, intriguing, recent have, have be, be understand, understand everything, everything take, take place, place be, be show, show be, be make, make movie, movie intriguing
+I:63800;581;let, hope, rumor, be, true, be, available, near, future, let hope, hope rumor, rumor be, be true, true be, be available, available near, near future
+I:63800;582;be, interest, be interest
+I:63800;583;year, old, eye, ear, sit, second, viewing, famous, art, film, year old, old eye, eye ear, ear sit, sit second, second viewing, viewing famous, famous art, art film
+I:63800;584;film, put, people, whole, have, kid, thing, film put, put people, people whole, whole have, have kid, kid thing
+I:63800;585;watch, live, watch live
+I:63800;586;love, first, feature, love first, first feature
+I:63800;587;want, get, surrealism, start, something, much, lighter, progress, way, film, such, want get, get surrealism, surrealism start, start something, something much, much lighter, lighter progress, progress way, way film, film such
+I:63800;588;good, disturbing, surrealist, horror, enjoy, good disturbing, disturbing surrealist, surrealist horror, horror enjoy
+I:63800;589;be, original, provocative, film, everyone, arrive, good, shape, be original, original provocative, provocative film, film everyone, everyone arrive, arrive good, good shape
+I:63800;590;movie, have, be, shorten, be, unforgettable, movie have, have be, be shorten, shorten be, be unforgettable
+I:63800;591;horrifying, fullest, sense, sense, beauty, wonder, come, finest, horrifying fullest, fullest sense, sense sense, sense beauty, beauty wonder, wonder come, come finest
+I:63800;592;love, art, great, cinema, love art, art great, great cinema
+I:63800;593;be, good, be good
+I:63800;594;great, film, great film
+I:63800;595;do, realize, be, be, point, wether, art, make, happy, upset, be, do, be, job, do realize, realize be, be be, be point, point wether, wether art, art make, make happy, happy upset, upset be, be do, do be, be job
+I:63800;596;recommend, movie, everyone, enjoy, step, element, minute, do, be, afraid, recommend movie, movie everyone, everyone enjoy, enjoy step, step element, element minute, minute do, do be, be afraid
+I:63800;597;movie, be, reputable, movie, critic, top, list, reason, movie be, be reputable, reputable movie, movie critic, critic top, top list, list reason
+I:63800;598;heaven, everything, be, fine!i, love, film, be, top, list, heaven everything, everything be, be fine!i, fine!i love, love film, film be, be top, top list
+I:63800;599;have, deep, profound, resonate, tone, wit, strange, mind, bend, imagination, love.yes, owe, much, german, movie, maker, artist, bring, something, more, genre, defy, description, have deep, deep profound, profound resonate, resonate tone, tone wit, wit strange, strange mind, mind bend, bend imagination, imagination love.yes, love.yes owe, owe much, much german, german movie, movie maker, maker artist, artist bring, bring something, something more, more genre, genre defy, defy description
+I:63800;600;rest, be, eye, beholder, lie, genius, rest be, be eye, eye beholder, beholder lie, lie genius
+I:63800;601;love, love, surreal, mind, melting, cinema, be, love love, love surreal, surreal mind, mind melting, melting cinema, cinema be
+I:63800;602;note, have, enjoy, work, have, see, date, eraserhead, be, exception, note have, have enjoy, enjoy work, work have, have see, see date, date eraserhead, eraserhead be, be exception
+I:63800;603;recommend, film, be, familiar, director, be, phase, consider, weird, film, recommend film, film be, be familiar, familiar director, director be, be phase, phase consider, consider weird, weird film
+I:63800;604;movie, be, brilliant, movie be, be brilliant
+I:63800;605;element, conceptual, technical, be, way, meaningful, element conceptual, conceptual technical, technical be, be way, way meaningful
+I:63800;606;get, version, have, cooler, special, feature, funny, menu, selection, get version, version have, have cooler, cooler special, special feature, feature funny, funny menu, menu selection
+I:63800;607;be, such, great, visionary, film, be such, such great, great visionary, visionary film
+I:63800;608;bizarre, grotesque, visionary, bizarre grotesque, grotesque visionary
+I:63800;609;understand, be, like, film, be, like, film, understand be, be like, like film, film be, be like, like film
+I:63800;610;have, have, idea, turn, dream, film, film, dream, see, have, same, thought, year, pull, have have, have idea, idea turn, turn dream, dream film, film film, film dream, dream see, see have, have same, same thought, thought year, year pull
+I:63800;611;come, few, month, man, be, sweet, print, come few, few month, month man, man be, be sweet, sweet print
+I:63800;612;watch, david, lynch, eraserhead, be, lot, take, soul, throw, world, watch david, david lynch, lynch eraserhead, eraserhead be, be lot, lot take, take soul, soul throw, throw world
+I:63800;613;term, surreal, means, anything, square, round.you, get, picture, term surreal, surreal means, means anything, anything square, square round.you, round.you get, get picture
+I:63800;614;find, be, extraordinary, im, glad, someone, take, something, stellar, make, something, find be, be extraordinary, extraordinary im, im glad, glad someone, someone take, take something, something stellar, stellar make, make something
+I:63800;615;be, catch, .22, end, nobody, get, be catch, catch .22, .22 end, end nobody, nobody get
+I:63800;616;movie, be, shoot, grainy, black, white, be, constanly, fill, sound, movie be, be shoot, shoot grainy, grainy black, black white, white be, be constanly, constanly fill, fill sound
+I:63800;617;story, unfold, dream, story unfold, unfold dream
+I:63800;618;include, dream, main, character, include dream, dream main, main character
+I:63800;619;terrific, organ, music, soundtrack, underscore, movie, image, black, white, blaze, brain, terrific organ, organ music, music soundtrack, soundtrack underscore, underscore movie, movie image, image black, black white, white blaze, blaze brain
+I:63800;620;younger, brother, be, high, school, get, obsess, film, younger brother, brother be, be high, high school, school get, get obsess, obsess film
+I:63800;621;be, best, opinion, be best, best opinion
+I:63800;622;be, great, movie, have, background, party, watch, night, be great, great movie, movie have, have background, background party, party watch, watch night
+I:63800;623;be, classic, puzzle, amount, viewing, solve, fun, wild, weird, ride, be classic, classic puzzle, puzzle amount, amount viewing, viewing solve, solve fun, fun wild, wild weird, weird ride
+I:63800;624;love, love, film, love love, love film
+I:63800;625;own, most, film, be, favorite, film, love, own most, most film, film be, be favorite, favorite film, film love
+I:63800;626;capture, pain, pubescence, bitter, sweet, song, thyself, capture pain, pain pubescence, pubescence bitter, bitter sweet, sweet song, song thyself
+I:63800;627;go, open, mind, do, spend, much, time, try, figure, ultimate, meaning, go open, open mind, mind do, do spend, spend much, much time, time try, try figure, figure ultimate, ultimate meaning
+I:63800;628;way, have, good, weekend, worth, bizarre, film, entertainment, forget, way have, have good, good weekend, weekend worth, worth bizarre, bizarre film, film entertainment, entertainment forget
+I:63800;629;be, greatest, film, make, be greatest, greatest film, film make
+I:63800;630;display, best, use, cinematic, medium, display best, best use, use cinematic, cinematic medium
+I:63800;631;eraserhead, manage, move, exist, inside, form, experience, eraserhead manage, manage move, move exist, exist inside, inside form, form experience
+I:63800;632;manage, achieve, incredible, super, manage achieve, achieve incredible, incredible super
+I:63800;633;watch, film, give, overwhelming, feeling, be, witness, man, greatest, artistic, achievement, watch film, film give, give overwhelming, overwhelming feeling, feeling be, be witness, witness man, man greatest, greatest artistic, artistic achievement
+I:63800;634;be, be, be be
+I:63800;635;greatest, human, creation, time, greatest human, human creation, creation time
+I:63800;636;be, able, give, film, attention, demand, be able, able give, give film, film attention, attention demand
+I:63800;637;movie, get, viewing, movie get, get viewing
+I:63800;638;fascinating, kind, experience, be, everyone, taste, fascinating kind, kind experience, experience be, be everyone, everyone taste
+I:63800;639;greatest, visual, time, greatest visual, visual time
+I:63800;640;scarier, horror, movie, scarier horror, horror movie
+I:63800;641;get, good, copy, have, go, get good, good copy, copy have, have go
+I:63800;642;get, mine, week, look, good, put, lot, work, get, detail, have, nice, extra, get mine, mine week, week look, look good, good put, put lot, lot work, work get, get detail, detail have, have nice, nice extra
+I:63800;643;be, go, see, movie, want, see, order, be go, go see, see movie, movie want, want see, see order
+I:63800;644;twisted, deep, film, twisted deep, deep film
+I:63800;645;first, best, work, first best, best work
+I:63800;646;intelligent, movie, something, make, think, be, intelligent movie, movie something, something make, make think, think be
+I:63800;647;be, genius, be, best, film, be genius, genius be, be best, best film
+I:63800;648;be, haunt, make, movie, think, be, be, make, be haunt, haunt make, make movie, movie think, think be, be be, be make
+I:63800;649;think, movie, deserve, premier, place, cinematic, history, rich, film, latter, half, 20th, century, think movie, movie deserve, deserve premier, premier place, place cinematic, cinematic history, history rich, rich film, film latter, latter half, half 20th, 20th century
+I:63800;650;be, masterpiece, believe, be, duplicated, recent, movie, be masterpiece, masterpiece believe, believe be, be duplicated, duplicated recent, recent movie
+I:63800;651;movie, take, place, mind, main, character, movie take, take place, place mind, mind main, main character
+I:63800;652;end, be, better, movie, better, story, be, ground, breaking, end be, be better, better movie, movie better, better story, story be, be ground, ground breaking
+I:63800;653;surpass, scale, sure, surpass scale, scale sure
+I:63800;654;hapless, hero, marry, family, make, fine, folk, look, hapless hero, hero marry, marry family, family make, make fine, fine folk, folk look
+I:63800;655;yeah, kind, movie, yeah kind, kind movie
+I:63800;656;be, gorgeos, print, greatest, movie, time, be gorgeos, gorgeos print, print greatest, greatest movie, movie time
+I:63800;657;interplay, light, shadow, be, visual, expressionism, hear, people, call, surrealism, interplay light, light shadow, shadow be, be visual, visual expressionism, expressionism hear, hear people, people call, call surrealism
+I:63800;658;think, be, closer, many, cool, effect, use, show, beautiful, think be, be closer, closer many, many cool, cool effect, effect use, use show, show beautiful
+I:63800;659;anyone, be, fan, surrealistic, film, strange, minding, anyone be, be fan, fan surrealistic, surrealistic film, film strange, strange minding
+I:63800;660;bend, experience, general, love, film, view, bend experience, experience general, general love, love film, film view
+I:63800;661;see, addition, video, library, see addition, addition video, video library
+I:63800;662;many, influential, filmmaker, rank, favorite, film, view, wonder, wait, long, see, many influential, influential filmmaker, filmmaker rank, rank favorite, favorite film, film view, view wonder, wonder wait, wait long, long see
+I:63800;663;good, title, pseudo, good title, title pseudo
+I:63800;664;be, cult, movie, people, be, enthusiastic, be cult, cult movie, movie people, people be, be enthusiastic
+I:63800;665;find, interesting, reaction, film, provoke, find interesting, interesting reaction, reaction film, film provoke
+I:63800;666;be, classic, be classic
+I:63800;667;symbolic, imagery, be, kind, open, interpretation, seem, movie, theme, revolve, fear, fatherhood, symbolic imagery, imagery be, be kind, kind open, open interpretation, interpretation seem, seem movie, movie theme, theme revolve, revolve fear, fear fatherhood
+I:63800;668;explain, make, movie, favorite, feel, touch, something, deep, inside, gritty, intensity, pull, other, movie, explain make, make movie, movie favorite, favorite feel, feel touch, touch something, something deep, deep inside, inside gritty, gritty intensity, intensity pull, pull other, other movie
+I:63800;669;length, film, be, original, work, art, length film, film be, be original, original work, work art
+I:63800;670;plot, be, simple, mutant, baby, be, bear, unwed, couple, post, plot be, be simple, simple mutant, mutant baby, baby be, be bear, bear unwed, unwed couple, couple post
+I:63800;671;ensue, event, detail, unfold, defy, paltry, explanation, give, ensue event, event detail, detail unfold, unfold defy, defy paltry, paltry explanation, explanation give
+I:63800;672;say, viewer, be, surreal, ride, multiple, ride, count, number, time, have, watch, say viewer, viewer be, be surreal, surreal ride, ride multiple, multiple ride, ride count, count number, number time, time have, have watch
+I:63800;673;jack, deliver, performance, be, right, key, lend, credibility, surround, nightmarish, circumstance, jack deliver, deliver performance, performance be, be right, right key, key lend, lend credibility, credibility surround, surround nightmarish, nightmarish circumstance
+I:63800;674;convey, great, deal, word, be, good, dialogue, be, sparse, convey great, great deal, deal word, word be, be good, good dialogue, dialogue be, be sparse
+I:63800;675;buy, movie, love, buy movie, movie love
+I:63800;676;earlier, reviewer, be, right, anything, say, be, loving, homage, german, expressionism, earlier reviewer, reviewer be, be right, right anything, anything say, say be, be loving, loving homage, homage german, german expressionism
+I:63800;677;ominous, shadow, name, feel, enjoy, keep, eye, open, testament, recommend, ominous shadow, shadow name, name feel, feel enjoy, enjoy keep, keep eye, eye open, open testament, testament recommend
+I:63800;678;be, full, eerie, atmosphere, creepiness, delight, fan, be full, full eerie, eerie atmosphere, atmosphere creepiness, creepiness delight, delight fan
+I:63800;679;have, own, unique, place, be, appreciate, be, receptive, be, other, get, point, write, caustic, review, have own, own unique, unique place, place be, be appreciate, appreciate be, be receptive, receptive be, be other, other get, get point, point write, write caustic, caustic review
+I:63800;680;statement, such, be, brilliant, movie, be, refute, statement such, such be, be brilliant, brilliant movie, movie be, be refute
+I:63800;681;be, artist, view, movie, view, painting, be artist, artist view, view movie, movie view, view painting
+I:63800;682;like, stand, vouch, like stand, stand vouch
+I:63800;683;be, plethora, other, movie, pretty, moral, lesson, focus, good, point, humanity, be plethora, plethora other, other movie, movie pretty, pretty moral, moral lesson, lesson focus, focus good, good point, point humanity
+I:63800;684;movie, have, make, feel, good, life, movie have, have make, make feel, feel good, good life
+I:63800;685;move, liitle, slow, love, move liitle, liitle slow, slow love
+I:63800;686;wormish, creature, appear, period, film, wormish creature, creature appear, appear period, period film
+I:63800;687;love, constant, sound, film, love constant, constant sound, sound film
+I:63800;688;start, be, interested, start be, be interested
+I:63800;689;music, enhance, atmosphere, scene, music enhance, enhance atmosphere, atmosphere scene
+I:63800;690;henry, girlfriend, mother, father, sit, round, dinner, table, henry girlfriend, girlfriend mother, mother father, father sit, sit round, round dinner, dinner table
+I:63800;691;interview, be, superb, interview be, be superb
+I:63800;692;learn, watch, listen, speak, wonderful, story, teller, be, learn watch, watch listen, listen speak, speak wonderful, wonderful story, story teller, teller be
+I:63800;693;entire, extra, bonus, feature, interview, be, whole, evening, watch, entire extra, extra bonus, bonus feature, feature interview, interview be, be whole, whole evening, evening watch
+I:63800;694;surrealist, masterpiece, be, top, list, strange, film, surrealist masterpiece, masterpiece be, be top, top list, list strange, strange film
+I:63800;695;have, strong, absurdist, element, be, sort, funny, have strong, strong absurdist, absurdist element, element be, be sort, sort funny
+I:63800;696;have, be, right, mood, .3, have be, be right, right mood, mood .3
+I:63800;697;man, live, industrial, dreamscape, be, sunny, nothing, nice, happen, man live, live industrial, industrial dreamscape, dreamscape be, be sunny, sunny nothing, nothing nice, nice happen
+I:63800;698;plot, have, something, do, man, have, get, girlfriend, pregnant, plot have, have something, something do, do man, man have, have get, get girlfriend, girlfriend pregnant
+I:63800;699;describe, doesnt, come, explain, happen, movie, describe doesnt, doesnt come, come explain, explain happen, happen movie
+I:63800;700;be, personal, hall, be, movie, dont, recommend, anyone, be personal, personal hall, hall be, be movie, movie dont, dont recommend, recommend anyone
+I:63800;701;removal, be, telling, event, removal be, be telling, telling event
+I:63800;702;be, theory, be theory
+I:63800;703;be, funniest, film, be funniest, funniest film
+I:63800;704;henry, be, enthralling, henry be, be enthralling
+I:63800;705;family, life, see, give, comedy, snap, edge, family life, life see, see give, give comedy, comedy snap, snap edge
+I:63800;706;best, serial, killer, motive, be, dream, appendix, kill, best serial, serial killer, killer motive, motive be, be dream, dream appendix, appendix kill
+I:63800;707;be, right, edge, hour, day, be right, right edge, edge hour, hour day
+I:63800;708;apocalyptic, vision, man, memory, alienate, other, apocalyptic vision, vision man, man memory, memory alienate, alienate other
+I:63800;709;forget, classic, be, thrill, be, able, own, forget classic, classic be, be thrill, thrill be, be able, able own
+I:63800;710;be, great, movie, debate, confusion, laughter, be great, great movie, movie debate, debate confusion, confusion laughter
+I:63800;711;brilliant, sound, design, fantastic, black, white, photography, strangest, subject, focus, camera, have, create, fascinating, unnerving, tone, movie, brilliant sound, sound design, design fantastic, fantastic black, black white, white photography, photography strangest, strangest subject, subject focus, focus camera, camera have, have create, create fascinating, fascinating unnerving, unnerving tone, tone movie
+I:63800;712;film, stick, haunt, mind, day, view, film stick, stick haunt, haunt mind, mind day, day view
+I:63800;713;be, interesting, tale, movie, get, make, have, hear, be interesting, interesting tale, tale movie, movie get, get make, make have, have hear
+I:63800;714;film, start, tradition, movie, house, screen, cult, flick, midnight, premiere, midnight, screening, film start, start tradition, tradition movie, movie house, house screen, screen cult, cult flick, flick midnight, midnight premiere, premiere midnight, midnight screening
+I:63800;715;praise, doesnt, get, higher, praise doesnt, doesnt get, get higher
+I:63800;716;artist, be, verse, surrealism, find, fascinating, watch, artist be, be verse, verse surrealism, surrealism find, find fascinating, fascinating watch
+I:63800;717;sweet, sentimental, story, film, way, have, be, effective, sweet sentimental, sentimental story, story film, film way, way have, have be, be effective
+I:63800;718;be, masterpiece, horrific, bizarreness, shoot, such, way, emphasize, negative, be masterpiece, masterpiece horrific, horrific bizarreness, bizarreness shoot, shoot such, such way, way emphasize, emphasize negative
+I:63800;719;talk, chance, get, talk chance, chance get
+I:63800;720;drone, soundtrack, add, mood, claustrophobia, drone soundtrack, soundtrack add, add mood, mood claustrophobia
+I:63800;721;full, mark, unconventional, perspective, full mark, mark unconventional, unconventional perspective
+I:63800;722;like, dance, midget, like dance, dance midget
+I:63800;723;give, star, homage, other, work, enjoy, include, give star, star homage, homage other, other work, work enjoy, enjoy include
+I:63800;724;head, be, brilliant, film, be, start, amazing, director, dark, innovative, use, graphic, special, effect, be, see, fan, head be, be brilliant, brilliant film, film be, be start, start amazing, amazing director, director dark, dark innovative, innovative use, use graphic, graphic special, special effect, effect be, be see, see fan
+I:63800;725;film, be, potent, intoxicating, elixir, film, deserve, be, appreciate, few, audience, film be, be potent, potent intoxicating, intoxicating elixir, elixir film, film deserve, deserve be, be appreciate, appreciate few, few audience
+I:63800;726;first, film, be, odd, beast, cinematic, experience, par, space, odyssey, first film, film be, be odd, odd beast, beast cinematic, cinematic experience, experience par, par space, space odyssey
+I:63800;727;be, heavy, symbolism, most, overrated, aspect, art, image, be, creepy, breathtaking, be heavy, heavy symbolism, symbolism most, most overrated, overrated aspect, aspect art, art image, image be, be creepy, creepy breathtaking
+I:63800;728;be, movie, be, heavy, symbolism, work, be movie, movie be, be heavy, heavy symbolism, symbolism work
+I:63800;729;be, little, pretentious, most, movie, average, art, movie, have, atmosphere, be, immerse, create, world, want, leave, enjoy, whole, ride, be, minute, run, time, be little, little pretentious, pretentious most, most movie, movie average, average art, art movie, movie have, have atmosphere, atmosphere be, be immerse, immerse create, create world, world want, want leave, leave enjoy, enjoy whole, whole ride, ride be, be minute, minute run, run time
+I:63800;730;creepy, image, stunning, atmosphere, immerse, world, be, great, movie, watch, midnight, good, speaker, creepy image, image stunning, stunning atmosphere, atmosphere immerse, immerse world, world be, be great, great movie, movie watch, watch midnight, midnight good, good speaker
+I:63800;731;immerse, world, movie, immerse world, world movie
+I:63800;732;accord, movie, be, be, experience, time, dream, dark, troubling, thing, have, add, be, spiritual, movie, be, bible, verse, accord, fulfil, own, vision, accord movie, movie be, be be, be experience, experience time, time dream, dream dark, dark troubling, troubling thing, thing have, have add, add be, be spiritual, spiritual movie, movie be, be bible, bible verse, verse accord, accord fulfil, fulfil own, own vision
+I:63800;733;day, say, be, leave, make, own, interpretation, day say, say be, be leave, leave make, make own, own interpretation
+I:63800;734;movie, be, movie, be, cinematic, experience, movie be, be movie, movie be, be cinematic, cinematic experience
+I:63800;735;few, movie, have, much, immerse, atmosphere, surreal, image, be, reason, surreal, be, breathtaking, few movie, movie have, have much, much immerse, immerse atmosphere, atmosphere surreal, surreal image, image be, be reason, reason surreal, surreal be, be breathtaking
+I:63800;736;further, back, be, fantastic, sound, design, work, movie, be, lose, further back, back be, be fantastic, fantastic sound, sound design, design work, work movie, movie be, be lose
+I:63800;737;be, final, cement, watch, be final, final cement, cement watch
+I:63800;738;symbolic, element, film, take, whole, thing, work, moreso, symbolic element, element film, film take, take whole, whole thing, thing work, work moreso
+I:63800;739;work, surreal, dream, otherworldly, world, other, work surreal, surreal dream, dream otherworldly, otherworldly world, world other
+I:63800;740;give, creepy, image, atmosphere, sound, design, everything, list, take, give, unique, experience, put, film, give creepy, creepy image, image atmosphere, atmosphere sound, sound design, design everything, everything list, list take, take give, give unique, unique experience, experience put, put film
+I:63800;741;be, movie, continue, compel, day, be movie, movie continue, continue compel, compel day
+I:63800;742;be, uncomfortable, viewer, grasp, shard, beauty, be uncomfortable, uncomfortable viewer, viewer grasp, grasp shard, shard beauty
+I:63800;743;question, have, create, flawless, piece, cinematography, question have, have create, create flawless, flawless piece, piece cinematography
+I:63800;744;everything, have, place, place, be, concrete, definition, everything have, have place, place place, place be, be concrete, concrete definition
+I:63800;745;film, be, masterpiece, film be, be masterpiece
+I:63800;746;definition, cinematic, art, definition cinematic, cinematic art
+I:63800;747;be, subtle, powerful, be subtle, subtle powerful
+I:63800;748;affect, react, scene, affect react, react scene
+I:63800;749;state, acting, be, captivating, minimalist, way, state acting, acting be, be captivating, captivating minimalist, minimalist way
+I:63800;750;watch, go, mad, discover, be, alot, metaphor, symbol, make, movie, fascinating, fun, time, watch, watch go, go mad, mad discover, discover be, be alot, alot metaphor, metaphor symbol, symbol make, make movie, movie fascinating, fascinating fun, fun time, time watch
+I:63800;751;movie, be, fill, wonderful, imagery, beautiful, cinematography, appeal, cult, movie be, be fill, fill wonderful, wonderful imagery, imagery beautiful, beautiful cinematography, cinematography appeal, appeal cult
+I:63800;752;watch, love, watch love
+I:63800;753;get, chance, view, much, get chance, chance view, view much
+I:63800;754;be, film, school, final, project, be, legendary, humor, bleakness, impressive, special, effect, be film, film school, school final, final project, project be, be legendary, legendary humor, humor bleakness, bleakness impressive, impressive special, special effect
+I:63800;755;take, special, type, personality, enjoy, movie, take special, special type, type personality, personality enjoy, enjoy movie
+I:63800;756;do, weirdness, stay, do weirdness, weirdness stay
+I:63800;757;have, focus, frozen, moment, capture, essence, feeling, moment, view, scene, have focus, focus frozen, frozen moment, moment capture, capture essence, essence feeling, feeling moment, moment view, view scene
+I:63800;758;recommend, film, open, mind, think, pro, recommend film, film open, open mind, mind think, think pro
+I:63800;759;be, doubt, amazing, movie, create, be doubt, doubt amazing, amazing movie, movie create
+I:63800;760;amazing, expierence, have, watch, get, love, hate, amazing expierence, expierence have, have watch, watch get, get love, love hate
+I:63800;761;be, escapist, entertainment, create, something, unique, be escapist, escapist entertainment, entertainment create, create something, something unique
+I:63800;762;strange, beautiful, film, ive, see, think, everbody, see, atleast, strange beautiful, beautiful film, film ive, ive see, see think, think everbody, everbody see, see atleast
+I:63800;763;answer, question, film, be, answer question, question film, film be
+I:63800;764;film, be, film be
+I:63800;765;eraserhead, be, experiment, patience, viewer, part, eraserhead be, be experiment, experiment patience, patience viewer, viewer part
+I:63800;766;do, know, dream, be, interesting, do know, know dream, dream be, be interesting
+I:63800;767;film, be, quarter, interesting, quarter, boring, give, star, star, good, job, baby, film be, be quarter, quarter interesting, interesting quarter, quarter boring, boring give, give star, star star, star good, good job, job baby
+I:63800;768;guess, find, movie, funny, guess find, find movie, movie funny
+I:63800;769;take, knife, fork, visceral, impulse, deal, cinematic, language, inform, memory, form, mastery, speech, have, have, opportunity, suppress, other, sens, take knife, knife fork, fork visceral, visceral impulse, impulse deal, deal cinematic, cinematic language, language inform, inform memory, memory form, form mastery, mastery speech, speech have, have have, have opportunity, opportunity suppress, suppress other, other sens
+I:63800;770;hideous, rich, aural, visual, language, be, recapture, order, experience, film, hideous rich, rich aural, aural visual, visual language, language be, be recapture, recapture order, order experience, experience film
+I:63800;771;be, glad, see, many, liken, dream, sequence, experience, be glad, glad see, see many, many liken, liken dream, dream sequence, sequence experience
+I:63800;772;bizarre, work, do, include, lot, putrefaction, body, fluid, be, everyone, bizarre work, work do, do include, include lot, lot putrefaction, putrefaction body, body fluid, fluid be, be everyone
+I:63800;773;be, thing, fundamental, human, life, be, theme, revel, be thing, thing fundamental, fundamental human, human life, life be, be theme, theme revel
+I:63800;774;be, fine, line, genius, insanity, be fine, fine line, line genius, genius insanity
+I:63800;775;be, say, be, interesting, watch, be say, say be, be interesting, interesting watch
+I:63800;776;surprise, work, surprise work
+I:63800;777;try, piece, meaning, bizarre, occurence, soundtrack, imagery, be, appealling, right, type, person, try piece, piece meaning, meaning bizarre, bizarre occurence, occurence soundtrack, soundtrack imagery, imagery be, be appealling, appealling right, right type, type person
+I:63800;778;most, time, prefer, specific, color, use, artistic, fashion, most time, time prefer, prefer specific, specific color, color use, use artistic, artistic fashion
+I:63800;779;contrast, be, interesting, striking, place, contrast be, be interesting, interesting striking, striking place
+I:63800;780;white, film, good, way, white film, film good, good way
+I:63800;781;line, be, surrealism, pretend, look, cool, find, something, enjoy, line be, be surrealism, surrealism pretend, pretend look, look cool, cool find, find something, something enjoy
+I:63800;782;be, disturbing, film, make, be, best, work, be, best, film, make, be disturbing, disturbing film, film make, make be, be best, best work, work be, be best, best film, film make
+I:63800;783;beautiful, such, experience, watch, beautiful such, such experience, experience watch
+I:63800;784;be, mood, piece, want, better, term, be mood, mood piece, piece want, want better, better term
+I:63800;785;visual, poem, depend, viewer, bring, interpretation, appear, screen, visual poem, poem depend, depend viewer, viewer bring, bring interpretation, interpretation appear, appear screen
+I:63800;786;be, surprised, enlighten, meaning, find, be surprised, surprised enlighten, enlighten meaning, meaning find
+I:63800;787;cinematography, be, stunning, beautiful, traditional, meaning, term, arrest, turn, head, cinematography be, be stunning, stunning beautiful, beautiful traditional, traditional meaning, meaning term, term arrest, arrest turn, turn head
+I:63800;788;keep, mind, keep mind
+I:63800;789;see, small, screen, see small, small screen
+I:63800;790;view, 2nd, view 2nd
+I:63800;791;familiar, combine, visual, aural, thematic, element, topnotch, production, value, familiar combine, combine visual, visual aural, aural thematic, thematic element, element topnotch, topnotch production, production value
+I:63800;792;area, strike, inventive, innovative, be, use, soundtrack, convey, narrative, emotional, meaning, area strike, strike inventive, inventive innovative, innovative be, be use, use soundtrack, soundtrack convey, convey narrative, narrative emotional, emotional meaning
+I:63800;793;use, reverberation, conjunction, deep, focus, convey, sense, space, separate, human, being, employ, much, white, noise, take, inner, space, expectation, anxiety, dread, use reverberation, reverberation conjunction, conjunction deep, deep focus, focus convey, convey sense, sense space, space separate, separate human, human being, being employ, employ much, much white, white noise, noise take, take inner, inner space, space expectation, expectation anxiety, anxiety dread
+I:63800;794;put, way, be, master, record, silence, put, scare, put way, way be, be master, master record, record silence, silence put, put scare
+I:63800;795;natural, wood, pencil, be, parody, assembly, natural wood, wood pencil, pencil be, be parody, parody assembly
+I:63800;796;respect, human, identity, have, write, film, be, tenuous, erasable, respect human, human identity, identity have, have write, write film, film be, be tenuous, tenuous erasable
+I:63800;797;bold, deviation, norm, be, draw, work, bold deviation, deviation norm, norm be, be draw, draw work
+I:63800;798;be, film, fit, right, rest, work, be film, film fit, fit right, right rest, rest work
+I:63800;799;piece, be, thoughtful, odd, course, memorable, piece be, be thoughtful, thoughtful odd, odd course, course memorable
+I:63800;800;later, film, be, engaging, be, important, later film, film be, be engaging, engaging be, be important
+I:63800;801;be, fan, have, get, see, be fan, fan have, have get, get see
+I:63800;802;art, film, likely, need, see, least, art film, film likely, likely need, need see, see least
+I:63800;803;be, cinematic, masterpiece, be, film, make, feel, producer, know, use, film, fullest, be cinematic, cinematic masterpiece, masterpiece be, be film, film make, make feel, feel producer, producer know, know use, use film, film fullest
+I:63800;804;hand, be, watchable, hand be, be watchable
+I:63800;805;get, ambient/atmosphere, music, be, use, background, imagination, create, own, inner, experience, get ambient/atmosphere, ambient/atmosphere music, music be, be use, use background, background imagination, imagination create, create own, own inner, inner experience
+I:63800;806;find, brilliant, piece, work, make, forget, be, watch, film, find brilliant, brilliant piece, piece work, work make, make forget, forget be, be watch, watch film
+I:63800;807;think, be, wonderful, compelling, think be, be wonderful, wonderful compelling
+I:63800;808;make, sure, watch, something, make sure, sure watch, watch something
+I:63800;809;weird, worth, watch, weird worth, worth watch
+I:63800;810;be, genius, be genius
+I:63800;811;visual, imagery, simple, stark, be, awe, inspiring, visual imagery, imagery simple, simple stark, stark be, be awe, awe inspiring
+I:63800;812;use, light, shadow, music, sound, create, mood, one, use light, light shadow, shadow music, music sound, sound create, create mood, mood one
+I:63800;813;surreal, twist, fate, bizarre, happening, mark, work, surreal twist, twist fate, fate bizarre, bizarre happening, happening mark, mark work
+I:63800;814;take, creative, brilliance, change, television, take creative, creative brilliance, brilliance change, change television
+I:63800;815;think, lasting, gift, be, mean, want, think lasting, lasting gift, gift be, be mean, mean want
+I:63800;816;eraserhead, be, masterpiece, create, lonely, dark, industrial, world, loom, shadow, ominous, stretch, silence, pepper, clever, twist, plot, dialouge, eraserhead be, be masterpiece, masterpiece create, create lonely, lonely dark, dark industrial, industrial world, world loom, loom shadow, shadow ominous, ominous stretch, stretch silence, silence pepper, pepper clever, clever twist, twist plot, plot dialouge
+I:63800;817;be, introduction, world, rich, promise, filmaker, career, usher, be introduction, introduction world, world rich, rich promise, promise filmaker, filmaker career, career usher
+I:63800;818;atmospheric, movie, make, stand, classic, genre, create, atmospheric movie, movie make, make stand, stand classic, classic genre, genre create
+I:63800;819;be, doubt, best, disturbing, film, have, have, pleasure, watch, be doubt, doubt best, best disturbing, disturbing film, film have, have have, have pleasure, pleasure watch
+I:63800;820;be, write, produce, direct, great, be, directorial, debut, release, be write, write produce, produce direct, direct great, great be, be directorial, directorial debut, debut release
+I:63800;821;be, true, cinematic, gem, original, film, have, see, be true, true cinematic, cinematic gem, gem original, original film, film have, have see
+I:63800;822;overall, be, great, surrealist, film, make, director, such, envious, see, enjoy, influence, have, film, shine, overall be, be great, great surrealist, surrealist film, film make, make director, director such, such envious, envious see, see enjoy, enjoy influence, influence have, have film, film shine
+I:63800;823;interpretation, film, go, vary, interpretation film, film go, go vary
+I:63800;824;end, interpret, film, remain, original, think, end interpret, interpret film, film remain, remain original, original think
+I:63800;825;create, true, masterpiece, be, first, film, have, see, reason, be, favorite, director, create true, true masterpiece, masterpiece be, be first, first film, film have, have see, see reason, reason be, be favorite, favorite director
+I:63800;826;someone, ask, weirdest, movie, have, see, be, mention, someone ask, ask weirdest, weirdest movie, movie have, have see, see be, be mention
+I:63800;827;be, proud, say, be, time, favorite, movie, be proud, proud say, say be, be time, time favorite, favorite movie
+I:63800;828;everything, be, dream, nightmarish, surreal, make, unique, experience, encounter, cinema, everything be, be dream, dream nightmarish, nightmarish surreal, surreal make, make unique, unique experience, experience encounter, encounter cinema
+I:63800;829;see, understand, see understand
+I:63800;830;be, audience, figure, symbolism, mean, be audience, audience figure, figure symbolism, symbolism mean
+I:63800;831;be, weirdest, movie, make, be, disturbing, certain, viewer, be weirdest, weirdest movie, movie make, make be, be disturbing, disturbing certain, certain viewer
+I:63800;832;bottom, line, love, hate, be, worth, view, bottom line, line love, love hate, hate be, be worth, worth view
+I:63800;833;meaning, be, viewer, decide, meaning be, be viewer, viewer decide
+I:63800;834;be, beautiful, hilarious, be beautiful, beautiful hilarious
+I:63800;835;kind, film, stand, best, work, kind film, film stand, stand best, best work
+I:63800;836;sound, design, be, amazing, sound design, design be, be amazing
+I:63800;837;do, incredible, job, remaster, do incredible, incredible job, job remaster
+I:63800;838;screen, interview, be, joy, watch, screen interview, interview be, be joy, joy watch
+I:63800;839;be, original, be, cinematic, treasure, be original, original be, be cinematic, cinematic treasure
+I:63800;840;dark, vision, life, come, master, dark, vision, dark vision, vision life, life come, come master, master dark, dark vision
+I:63800;841;recommend, caveat, recommend caveat
+I:63800;842;watch, film, be, experience, particular, take, deep, chasm, surrealistic, netherworld, watch film, film be, be experience, experience particular, particular take, take deep, deep chasm, chasm surrealistic, surrealistic netherworld
+I:63800;843;be, bizarre, beautiful, film, be bizarre, bizarre beautiful, beautiful film
+I:63800;844;visual, audio, transfer, be, excellent, visual audio, audio transfer, transfer be, be excellent
+I:63800;845;be, cult, classic, have, follow, be cult, cult classic, classic have, have follow
+I:63800;846;do, care, film, appreciate, originality, do care, care film, film appreciate, appreciate originality
+I:63800;847;action, character, be, classic, unforgettable, be, film, action character, character be, be classic, classic unforgettable, unforgettable be, be film
+I:63800;848;make, film, want, make, something, mainstream, praise, respect, make film, film want, want make, make something, something mainstream, mainstream praise, praise respect
+I:63800;849;originality, sit, originality sit
+I:63800;850;sound, be, great, be, watch, sound be, be great, great be, be watch
+I:63800;851;be, beautiful, mysterious, haunting, challenging, be beautiful, beautiful mysterious, mysterious haunting, haunting challenging
+I:63800;852;extra, feature, be, interesting, worth, look, extra feature, feature be, be interesting, interesting worth, worth look
+I:63800;853;give, great, interview, give great, great interview
+I:63800;854;understand, film, high, school, second, time, be, real, treat, taste, film, have, develop, understand film, film high, high school, school second, second time, time be, be real, real treat, treat taste, taste film, film have, have develop
+I:63800;855;be, piece, art, combine, imagination, style, painter, technique, late, director, be piece, piece art, art combine, combine imagination, imagination style, style painter, painter technique, technique late, late director
+I:63800;856;eraserhead, be, movie, be, first, powerful, movement, musical, piece, artist, have, shock, awed, american, crowd, year, eraserhead be, be movie, movie be, be first, first powerful, powerful movement, movement musical, musical piece, piece artist, artist have, have shock, shock awed, awed american, american crowd, crowd year
+I:63800;857;weep, charcter, creativity, be, deliver, weep charcter, charcter creativity, creativity be, be deliver
+I:63800;858;seek, inspiration, sensationalistic, imgagination, watch, seek inspiration, inspiration sensationalistic, sensationalistic imgagination, imgagination watch
+I:63800;859;be, surprise, film, seem, be, embrace, mainstream, be surprise, surprise film, film seem, seem be, be embrace, embrace mainstream
+I:63800;860;simpleton, enjoy, dark, visual, sort, apply, own, dream, experience, simpleton enjoy, enjoy dark, dark visual, visual sort, sort apply, apply own, own dream, dream experience
+I:63800;861;be, thing, have, create, unique, film, be thing, thing have, have create, create unique, unique film
+I:63800;862;be, accurate, coz, do, play, be accurate, accurate coz, coz do, do play
+I:63800;863;be, gon, sit, tell, be, great, movie, be gon, gon sit, sit tell, tell be, be great, great movie
+I:63800;864;anyone, call, unintelligent, get, enjoy, be, happy, fact, be, least, snobby, uptight, prick, anyone call, call unintelligent, unintelligent get, get enjoy, enjoy be, be happy, happy fact, fact be, be least, least snobby, snobby uptight, uptight prick
+I:63800;865;quiet, shy, minipulate, young, man, strange, taste, hair, style, quiet shy, shy minipulate, minipulate young, young man, man strange, strange taste, taste hair, hair style
+I:63800;866;story, flash, place, baby, be, live, story flash, flash place, place baby, baby be, be live
+I:63800;867;keep, mind, be, tho, movie, grow, see, cult, classic, be, guess, keep mind, mind be, be tho, tho movie, movie grow, grow see, see cult, cult classic, classic be, be guess
+I:63800;868;amazing, film, recommend, amazing film, film recommend
+I:63800;869;be, absolute, genius, be absolute, absolute genius
+I:63800;870;package, box, nice, page, booklet, big, do, believe, have, see, cleaner, package box, box nice, nice page, page booklet, booklet big, big do, do believe, believe have, have see, see cleaner
+I:63800;871;hottest, day, year, hottest day, day year
+I:63800;872;laugh, be, good, laugh be, be good
+I:63800;873;enough, have, rice, crispy, guy, full, blush, enough have, have rice, rice crispy, crispy guy, guy full, full blush
+I:63800;874;see, film, first, time, right, state, mind, be, satisfy, see film, film first, first time, time right, right state, state mind, mind be, be satisfy
+I:63800;875;informative, brand, new, hour, informative brand, brand new, new hour
+I:63800;876;rich, price, rich price
+I:63800;877;be, cut, regular, chicken, be cut, cut regular, regular chicken
+I:63800;878;have, get, be, trip, film, have, see, have get, get be, be trip, trip film, film have, have see
+I:63800;879;be, disturb, film, be disturb, disturb film
+I:63800;880;creep, grainy, black, white, color, film, be, effective, be, music, sound, effect, creep grainy, grainy black, black white, white color, color film, film be, be effective, effective be, be music, music sound, sound effect
+I:63800;881;see, movie, see, mean, see movie, movie see, see mean
+I:63800;882;haunt, dream, haunt dream
+I:63800;883;heaven, everything, be, fine, heaven everything, everything be, be fine
+I:63800;884;sound, familiar, do, make, interesting, sound familiar, familiar do, do make, make interesting
+I:63800;885;be, film, challenge, intellect, challenge, be, experimental, experimental, cinema, be, gauntlet, audience, threaten, polarize, viewing, group, distinct, camp, want, try, get, believe, want, try, get, be, waste, time, be, better, come, valuation, stock, something, akin, rank, normality, be film, film challenge, challenge intellect, intellect challenge, challenge be, be experimental, experimental experimental, experimental cinema, cinema be, be gauntlet, gauntlet audience, audience threaten, threaten polarize, polarize viewing, viewing group, group distinct, distinct camp, camp want, want try, try get, get believe, believe want, want try, try get, get be, be waste, waste time, time be, be better, better come, come valuation, valuation stock, stock something, something akin, akin rank, rank normality
+I:63800;886;best, do, be, have, protagonist, best do, do be, be have, have protagonist
+I:63800;887;be, good, be, be good, good be
+I:63800;888;film, spirit, give, go, film spirit, spirit give, give go
+I:63800;889;box, have, outer, sleeve, short, film, box, have, larger, sleeve, hold, box have, have outer, outer sleeve, sleeve short, short film, film box, box have, have larger, larger sleeve, sleeve hold
+I:63800;890;have, problem, find, charming, have problem, problem find, find charming
+I:63800;891;be, piece, art, be piece, piece art
+I:63800;892;movie, be, watch, be, piece, art, have, be, view, be, understand, movie be, be watch, watch be, be piece, piece art, art have, have be, be view, view be, be understand
+I:63800;893;be, other, film, excel, sound, be other, other film, film excel, excel sound
+I:63800;894;birth, repress, sexuality, thrive, film, suckle, puppy, seductive, appeal, beautiful, girl, hall, mother, birth repress, repress sexuality, sexuality thrive, thrive film, film suckle, suckle puppy, puppy seductive, seductive appeal, appeal beautiful, beautiful girl, girl hall, hall mother
+I:63800;895;direction, cinematography, be, brilliant, climax, be, ultimate, extension, film, border, darker, unpleasant, aspect, reality, direction cinematography, cinematography be, be brilliant, brilliant climax, climax be, be ultimate, ultimate extension, extension film, film border, border darker, darker unpleasant, unpleasant aspect, aspect reality
+I:63800;896;see, other, great, film, see other, other great, great film
+I:63800;897;own, have, be, clean, remaster, have, extra, long, interview, talk, film, own have, have be, be clean, clean remaster, remaster have, have extra, extra long, long interview, interview talk, talk film
+I:63800;898;reality, take, wild, look, strange, person, life, reality take, take wild, wild look, look strange, strange person, person life
+I:63800;899;be, bizarre, brilliant, surreal, be bizarre, bizarre brilliant, brilliant surreal
+I:63800;900;matter, whole, movie, be, surreal, matter whole, whole movie, movie be, be surreal
+I:63800;901;be, movie, worth, owning, be movie, movie worth, worth owning
+I:63800;902;realm, surrealist, film, have, more, proven, definitive, leader, picture, realm surrealist, surrealist film, film have, have more, more proven, proven definitive, definitive leader, leader picture
+I:63800;903;be, get, be, ugliest, movie, have, see, be get, get be, be ugliest, ugliest movie, movie have, have see
+I:63800;904;be, first, best, film, be first, first best, best film
+I:63800;905;be, honest, cult/midnight, film, way, be honest, honest cult/midnight, cult/midnight film, film way
+I:63800;906;integrity, vision, film, be, strong, be, influence, grow, today, integrity vision, vision film, film be, be strong, strong be, be influence, influence grow, grow today
+I:63800;907;watch, film, today, watch, film, year, watch, film, year, watch film, film today, today watch, watch film, film year, year watch, watch film, film year
+I:63800;908;time, do, thing, be, guarantee, be, amaze, time do, do thing, thing be, be guarantee, guarantee be, be amaze
+I:63800;909;best, way, describe, psychotic, disturbing, masterpiece, best way, way describe, describe psychotic, psychotic disturbing, disturbing masterpiece
+I:63800;910;be, fan, his/extreme, wall, film, take, away/interpret, way, be fan, fan his/extreme, his/extreme wall, wall film, film take, take away/interpret, away/interpret way
+I:63800;911;that, add, greatness, that add, add greatness
+I:63800;912;have, gain, independence, thing, be, go, great, have gain, gain independence, independence thing, thing be, be go, go great
+I:63800;913;be, young, want, make, right, choice, be young, young want, want make, make right, right choice
+I:63800;914;greatest, cult, film, american, film, history, debut, be, year, making, later, effort, grotesque, black, white, industrial, nightmare, film, charm, be, exude, director, eccentricity, greatest cult, cult film, film american, american film, film history, history debut, debut be, be year, year making, making later, later effort, effort grotesque, grotesque black, black white, white industrial, industrial nightmare, nightmare film, film charm, charm be, be exude, exude director, director eccentricity
+I:63800;915;be, personal, craft, picture, weirdness, do, distract, be, say, recent, output, be personal, personal craft, craft picture, picture weirdness, weirdness do, do distract, distract be, be say, say recent, recent output
+I:63800;916;movie/film, be, anything, have, see, experience, movie/film be, be anything, anything have, have see, see experience
+I:63800;917;needless, say, film, have, first, viewing, recent, hold, greatest, film, have, see, kind, needless say, say film, film have, have first, first viewing, viewing recent, recent hold, hold greatest, greatest film, film have, have see, see kind
+I:63800;918;demand, service, have, say, positive, feeling, experience, have, be, refresh, reinforce, big, time, demand service, service have, have say, say positive, positive feeling, feeling experience, experience have, have be, be refresh, refresh reinforce, reinforce big, big time
+I:63800;919;past, memory, have, have, consider, best, film, have, see, experience, thanks, past memory, memory have, have have, have consider, consider best, best film, film have, have see, see experience, experience thanks
+I:63800;920;demand, find, value, meaning, strange, weirdness, have, say, film, be, least, top, movie, time, demand find, find value, value meaning, meaning strange, strange weirdness, weirdness have, have say, say film, film be, be least, least top, top movie, movie time
+I:63800;921;make, deserve, spot, make deserve, deserve spot
+I:63800;922;cent, worth, be, worth, cent worth, worth be, be worth
+I:63800;923;low, budget, be, proof, positive, imagination, vision, little, money, go, long, way, create, eternal, superior, work, art, film, low budget, budget be, be proof, proof positive, positive imagination, imagination vision, vision little, little money, money go, go long, long way, way create, create eternal, eternal superior, superior work, work art, art film
+I:63800;924;demand, see, many, year, reinforce, love, demand see, see many, many year, year reinforce, reinforce love
+I:63800;925;other, word, have, love, view, add, appreciation, other word, word have, have love, love view, view add, add appreciation
+I:63800;926;truth, be, be, truth be, be be
+I:63800;927;kind, cinematic, treat, deserve, more, other, film, repeat, viewing, get, kind cinematic, cinematic treat, treat deserve, deserve more, more other, other film, film repeat, repeat viewing, viewing get
+I:63800;928;many, movie, be, include, many, acclaimed, film, many movie, movie be, be include, include many, many acclaimed, acclaimed film
+I:63800;929;do, get, watch, end, be, great, reward, do get, get watch, watch end, end be, be great, great reward
+I:63800;930;matter, one, station, life, matter, time, period, life, be, something, stick, life, matter one, one station, station life, life matter, matter time, time period, period life, life be, be something, something stick, stick life
+I:63800;931;think, lot, thing, challenge, intelligent, viewer, lot, thing, lot, comfortable, think, other, think lot, lot thing, thing challenge, challenge intelligent, intelligent viewer, viewer lot, lot thing, thing lot, lot comfortable, comfortable think, think other
+I:63800;932;be, horror, film, comedy, sci, be horror, horror film, film comedy, comedy sci
+I:63800;933;fi, work, experimental, try, fi work, work experimental, experimental try
+I:63800;934;be, kind, be, see, study, remain, present, day, be kind, kind be, be see, see study, study remain, remain present, present day
+I:63800;935;see, need, see, least, more, see need, need see, see least, least more
+I:63800;936;own, interpretation, film, be, be, satirical, comedic, view, strange, man, strange, land, 20th, 21st, century, find, hell, own interpretation, interpretation film, film be, be be, be satirical, satirical comedic, comedic view, view strange, strange man, man strange, strange land, land 20th, 20th 21st, 21st century, century find, find hell
+I:63800;937;get, level, budget, afford, be, get level, level budget, budget afford, afford be
+I:63800;938;stranger, more, disturbing, enlighten, linear, movie, experience, think, everyone, see, least, several, time, appreciate, genius, finest, work, stranger more, more disturbing, disturbing enlighten, enlighten linear, linear movie, movie experience, experience think, think everyone, everyone see, see least, least several, several time, time appreciate, appreciate genius, genius finest, finest work
+I:63800;939;best, black, white, indy, flick, have, see, movie, combine, disturbing, image, great, song, heaven, best black, black white, white indy, indy flick, flick have, have see, see movie, movie combine, combine disturbing, disturbing image, image great, great song, song heaven
+I:63800;940;group, sponsor, charge, admission, group sponsor, sponsor charge, charge admission
+I:63800;941;do, think, guy, know, hell, sit, figure, do, understand, be, genius, do think, think guy, guy know, know hell, hell sit, sit figure, figure do, do understand, understand be, be genius
+I:63800;942;make, film, work, be, black, white, color, format, be, dark, eerie, subtle, plot, be, unusual, full, psychological, sexual, reference, make film, film work, work be, be black, black white, white color, color format, format be, be dark, dark eerie, eerie subtle, subtle plot, plot be, be unusual, unusual full, full psychological, psychological sexual, sexual reference
+I:63800;943;be, experience, manage, amuse, time, be experience, experience manage, manage amuse, amuse time
+I:63800;944;second, viewing, bring, clarity, appreciate, film, depict, psychological, struggle, second viewing, viewing bring, bring clarity, clarity appreciate, appreciate film, film depict, depict psychological, psychological struggle
+I:63800;945;recommend, film, someone, look, unusual, flick, while, recommend film, film someone, someone look, look unusual, unusual flick, flick while
+I:63800;946;film, be, assimilate, best, light, turn, midnight, film be, be assimilate, assimilate best, best light, light turn, turn midnight
+I:63800;947;move, have, no, redeeming, value, move have, have no, no redeeming, redeeming value
+I:63800;948;be, favorite, film, impressed, point, ask, direct, jedi, decline, opt, direct, dune, be favorite, favorite film, film impressed, impressed point, point ask, ask direct, direct jedi, jedi decline, decline opt, opt direct, direct dune
+I:63800;949;be, saddening, movie, deserve, be saddening, saddening movie, movie deserve
+I:63800;950;force, marry, force marry
+I:63800;951;special, effect, be, extraodinary, special effect, effect be, be extraodinary
+I:63800;952;baby, doubt, famous, infamous, part, film, be, horrific, baby doubt, doubt famous, famous infamous, infamous part, part film, film be, be horrific
+I:63800;953;be, few, brief, snippet, carnival, be few, few brief, brief snippet, snippet carnival
+I:63800;954;style, music, great, musical, number, perform, lady, entitle, style music, music great, great musical, musical number, number perform, perform lady, lady entitle
+I:63800;955;succeed, make, stylish, gruesome, depressing, horrifying, beautiful, movie, meaning, deep, non, succeed make, make stylish, stylish gruesome, gruesome depressing, depressing horrifying, horrifying beautiful, beautiful movie, movie meaning, meaning deep, deep non
+I:63800;956;be, mesmerize, film, unable, avert, attention, brilliant, repulsive, masterpiece, be mesmerize, mesmerize film, film unable, unable avert, avert attention, attention brilliant, brilliant repulsive, repulsive masterpiece
+I:63800;957;rank, master, director, finest, work, rank master, master director, director finest, finest work
+I:63800;958;greatest, aspect, film, be, leave, interpret, greatest aspect, aspect film, film be, be leave, leave interpret
+I:63800;959;be, weirdest, film, have, see, be weirdest, weirdest film, film have, have see
+I:63800;960;beat, strangest, surreal, film, such, beat strangest, strangest surreal, surreal film, film such
+I:63800;961;think, be, best, surreal, film, make, think be, be best, best surreal, surreal film, film make
+I:63800;962;see, other, work, have, enable, see, warped, masterpiece, see other, other work, work have, have enable, enable see, see warped, warped masterpiece
+I:63800;963;lighting, cinematography, be, great, lack, dialogue, add, creepiness, lighting cinematography, cinematography be, be great, great lack, lack dialogue, dialogue add, add creepiness
+I:63800;964;be, nightmarish, dreamscape, macabre, world, be nightmarish, nightmarish dreamscape, dreamscape macabre, macabre world
+I:63800;965;more, watch, understand, more watch, watch understand
+I:63800;966;keep, be, power, time, watch, keep be, be power, power time, time watch
+I:63800;967;end, metaphor, tone, nightmare, debut, feature, combine, disturbing, visual, be, disturbing, sound, design, create, unforgettable, film, be, affect, visceral, level, end metaphor, metaphor tone, tone nightmare, nightmare debut, debut feature, feature combine, combine disturbing, disturbing visual, visual be, be disturbing, disturbing sound, sound design, design create, create unforgettable, unforgettable film, film be, be affect, affect visceral, visceral level
+I:63800;968;fan, check, fan, ladder, take, step, see, oddball, fan check, check fan, fan ladder, ladder take, take step, step see, see oddball
+I:63800;969;love, be, weird, love be, be weird
+I:63800;970;know, film, be, dark, disturbing, dream, like, have, cinematic, work, art, be, excellent, know film, film be, be dark, dark disturbing, disturbing dream, dream like, like have, have cinematic, cinematic work, work art, art be, be excellent
+I:63800;971;hope, be, release, general, public, experience, format, be, good, get, hope be, be release, release general, general public, public experience, experience format, format be, be good, good get
+I:63800;972;thank, job, do, thank job, job do
+I:63800;973;first, movie, best, first movie, movie best
+I:63800;974;be, movie, set, precedent, rest, future, project, be movie, movie set, set precedent, precedent rest, rest future, future project
+I:63800;975;be, best, classic, find, be best, best classic, classic find
+I:63800;976;love, film, change, way, view, cinema, love film, film change, change way, way view, view cinema
+I:63800;977;be, greatest, movie, make, be greatest, greatest movie, movie make
+I:63800;978;roar, laughter, whole, thing!not, mind, be, nervous, laughter, discomfort, roar laughter, laughter whole, whole thing!not, thing!not mind, mind be, be nervous, nervous laughter, laughter discomfort
+I:63800;979;think, be, great, stitch, merciless, funny, think be, be great, great stitch, stitch merciless, merciless funny
+I:63800;980;be, work, class, labor, folk, stuff, be work, work class, class labor, labor folk, folk stuff
+I:63800;981;have, see, movie, be, enjoy, first, have see, see movie, movie be, be enjoy, enjoy first
+I:63800;982;rate, black, comedy, make, ton, ton, sense, rate black, black comedy, comedy make, make ton, ton ton, ton sense
+I:63800;983;enjoy, try, see, landmark, comedy, be, enjoy try, try see, see landmark, landmark comedy, comedy be
+I:63800;984;be, talented, be talented
+I:63800;985;teeter, fine, line, dorky, cool, teeter fine, fine line, line dorky, dorky cool
+I:63800;986;be, talented, director, work, right, screenplay, be talented, talented director, director work, work right, right screenplay
+I:63800;987;nothing, have, get, see, least, experience, nothing have, have get, get see, see least, least experience
+I:63800;988;personal, opinion, be, connect, eraserhead, most, production, be, type, tend, walk, wild, side, speak, personal opinion, opinion be, be connect, connect eraserhead, eraserhead most, most production, production be, be type, type tend, tend walk, walk wild, wild side, side speak
+I:63800;989;ask, critic, be, greatest, movie, make, ask critic, critic be, be greatest, greatest movie, movie make
+I:63800;990;be, greatest, movie, time, be greatest, greatest movie, movie time
+I:63800;991;ok, last, guy, review, movie, be, retard, ok last, last guy, guy review, review movie, movie be, be retard
+I:63800;992;be, symbolic, need, understand, scene, be symbolic, symbolic need, need understand, understand scene
+I:63800;993;be, favorite, movie, be, slow, pace, hour, half, be favorite, favorite movie, movie be, be slow, slow pace, pace hour, hour half
+I:63800;994;movie, be, make, good, acting, incredible, cinematography, special, effect, e., baby, do, make, skin, crawl, wonder, be, thing, real, movie be, be make, make good, good acting, acting incredible, incredible cinematography, cinematography special, special effect, effect e., e. baby, baby do, do make, make skin, skin crawl, crawl wonder, wonder be, be thing, thing real
+I:63800;995;recommend, movie, recommend movie

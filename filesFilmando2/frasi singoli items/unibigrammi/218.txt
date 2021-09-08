@@ -1,0 +1,804 @@
+I:28;1;be, kind, movie, wonder, get, script, stage, be kind, kind movie, movie wonder, wonder get, get script, script stage
+I:28;2;love, film, be, be, deep, full, substance, plain, beautiful, love film, film be, be be, be deep, deep full, full substance, substance plain, plain beautiful
+I:28;3;nothing, movie, attract, nothing movie, movie attract
+I:28;4;praise, beautiful, movie, make, entire, history, cinema, praise beautiful, beautiful movie, movie make, make entire, entire history, history cinema
+I:28;5;impressive, be, mother, impressive be, be mother
+I:28;6;eyeball, dazzling, visual, extravaganza, eyeball dazzling, dazzling visual, visual extravaganza
+I:28;7;many, film, have, come, be, impressive, compare, be, unavoidable, merit, be, wronghead, imply, cartoon, be, superior, many film, film have, have come, come be, be impressive, impressive compare, compare be, be unavoidable, unavoidable merit, merit be, be wronghead, wronghead imply, imply cartoon, cartoon be, be superior
+I:28;8;wrong, be, superior, animation, style, 21st, century, cartoon, visual, effect, wrong be, be superior, superior animation, animation style, style 21st, 21st century, century cartoon, cartoon visual, visual effect
+I:28;9;inspiration, central, plot, element, visual, style, inspiration central, central plot, plot element, element visual, visual style
+I:28;10;new, classic, hand, new classic, classic hand
+I:28;11;be, soul, warmth, blood, flow, be soul, soul warmth, warmth blood, blood flow
+I:28;12;examine, question, film, make, central, theme, film, begin, end, examine question, question film, film make, make central, central theme, theme film, film begin, begin end
+I:28;13;cast, be, fill, imaginitive, diverse, character, cast be, be fill, fill imaginitive, imaginitive diverse, diverse character
+I:28;14;be, human, machine, story, range, robot, be human, human machine, machine story, story range, range robot
+I:28;15;destroy, cute, help, robot, fifi, destroy cute, cute help, help robot, robot fifi
+I:28;16;metropolis, be, complex, piece, art, show, metropolis be, be complex, complex piece, piece art, art show
+I:28;17;story, be, fill, reference, various, ancient, story, tower, story be, be fill, fill reference, reference various, various ancient, ancient story, story tower
+I:28;18;metropolis, have, majestic, elegant, animation, metropolis have, have majestic, majestic elegant, elegant animation
+I:28;19;be, first, review, have, write, have, mention, sheer, beauty, animation, be first, first review, review have, have write, write have, have mention, mention sheer, sheer beauty, beauty animation
+I:28;20;animation, be, mixture, cgi, traditional, cel, animation, pop, screen, capture, attention, imagination, animation be, be mixture, mixture cgi, cgi traditional, traditional cel, cel animation, animation pop, pop screen, screen capture, capture attention, attention imagination
+I:28;21;be, wonderful, anime, be, like, call, piece, art, be wonderful, wonderful anime, anime be, be like, like call, call piece, piece art
+I:28;22;feat, commend, staff, film, feat commend, commend staff, staff film
+I:28;23;animation, be, good, unique, way, dude, ancestor, be, classic, be, something, animation be, be good, good unique, unique way, way dude, dude ancestor, ancestor be, be classic, classic be, be something
+I:28;24;love, old, school, animation, story, line, love old, old school, school animation, animation story, story line
+I:28;25;be, huge, fan, art, style, use, film, enjoy, view, experience, be huge, huge fan, fan art, art style, style use, use film, film enjoy, enjoy view, view experience
+I:28;26;top, other, anime, flick, be, fun, experience, have, earn, be, place, collection, shelf, top other, other anime, anime flick, flick be, be fun, fun experience, experience have, have earn, earn be, be place, place collection, collection shelf
+I:28;27;anime, need, be, animation, story, include, character, story, depth, anime need, need be, be animation, animation story, story include, include character, character story, story depth
+I:28;28;be, seperate, cartoon, be seperate, seperate cartoon
+I:28;29;note, say, character, note say, say character
+I:28;30;know, technology, question, arise, be, great, movie, know technology, technology question, question arise, arise be, be great, great movie
+I:28;31;place, be, amazing, place be, be amazing
+I:28;32;be, do, do, like, read, subtitle, be do, do do, do like, like read, read subtitle
+I:28;33;say, be, surprised, movie, turn, be, say be, be surprised, surprised movie, movie turn, turn be
+I:28;34;plot, be, interesting, make, wonder, be, go, happen, next, plot be, be interesting, interesting make, make wonder, wonder be, be go, go happen, happen next
+I:28;35;render, background, movie, look, great, do, look, cheesy, render background, background movie, movie look, look great, great do, do look, look cheesy
+I:28;36;thumb, city, thumb city
+I:28;37;visual, city, be, breathtaking, visual city, city be, be breathtaking
+I:28;38;be, great, scene, be great, great scene
+I:28;39;be, interesting, see, underground, level, city, be interesting, interesting see, see underground, underground level, level city
+I:28;40;huge, eye, round, feature, appear, cutesy, fit, real, city, .2, huge eye, eye round, round feature, feature appear, appear cutesy, cutesy fit, fit real, real city, city .2
+I:28;41;idea, be, great, story, get, develop, film, idea be, be great, great story, story get, get develop, develop film
+I:28;42;choose, song, play, spectacular, dramatic, scene, !?, choose song, song play, play spectacular, spectacular dramatic, dramatic scene, scene !?
+I:28;43;be, other, film, do, better, job, be other, other film, film do, do better, better job
+I:28;44;deserve, rating, be, feel, generous, enjoy, watch, city, deserve rating, rating be, be feel, feel generous, generous enjoy, enjoy watch, watch city
+I:28;45;feel, trick, good, review, movie, feel trick, trick good, good review, review movie
+I:28;46;slow, pace, be, issue, use, be, great, slow pace, pace be, be issue, issue use, use be, be great
+I:28;47;movie, have, cringe, worthy, moment, movie have, have cringe, cringe worthy, worthy moment
+I:28;48;be, connect, order, great, story, be connect, connect order, order great, great story
+I:28;49;animation, top, notch, uncanny, perfection, movement, speak, animator, cg, be, perfect, hit, scene, animation top, top notch, notch uncanny, uncanny perfection, perfection movement, movement speak, speak animator, animator cg, cg be, be perfect, perfect hit, hit scene
+I:28;50;strongest, thing, whole, film, think, be, score, strongest thing, thing whole, whole film, film think, think be, be score
+I:28;51;amazing, jazz, techno, beat, be, weave, film, amazing jazz, jazz techno, techno beat, beat be, be weave, weave film
+I:28;52;love, flaw, love flaw
+I:28;53;movie, be, great, shipping, be, efficient, come, sturdy, case, movie be, be great, great shipping, shipping be, be efficient, efficient come, come sturdy, sturdy case
+I:28;54;be, nice, movie, be nice, nice movie
+I:28;55;do, have, much, be, worth, watch, do have, have much, much be, be worth, worth watch
+I:28;56;manga, movie, be, incomplete, masterpiece, manga movie, movie be, be incomplete, incomplete masterpiece
+I:28;57;story, deal, desire, control, rebuild, world, use, enormous, tower, powerful, weapon, horrific, capability, story deal, deal desire, desire control, control rebuild, rebuild world, world use, use enormous, enormous tower, tower powerful, powerful weapon, weapon horrific, horrific capability
+I:28;58;plot, be, shortcoming, be, entertaining, view, correct, way, plot be, be shortcoming, shortcoming be, be entertaining, entertaining view, view correct, correct way
+I:28;59;background, entire, movie, be, computer, generate, cover, traditional, cell, shading, end, result, be, stunning, background entire, entire movie, movie be, be computer, computer generate, generate cover, cover traditional, traditional cell, cell shading, shading end, end result, result be, be stunning
+I:28;60;movie, know, look, good, several, scene, be, devoted, show, breathtaking, visual, movie know, know look, look good, good several, several scene, scene be, be devoted, devoted show, show breathtaking, breathtaking visual
+I:28;61;use, light, shadow, movie, be, best, have, see, use light, light shadow, shadow movie, movie be, be best, best have, have see
+I:28;62;style, artwork, japanese, cartoon, such, course, feel, suit, movie, style artwork, artwork japanese, japanese cartoon, cartoon such, such course, course feel, feel suit, suit movie
+I:28;63;character, blend, surroundings, make, movie, marvel, look, character blend, blend surroundings, surroundings make, make movie, movie marvel, marvel look
+I:28;64;sound, wise, everything, be, par, fantastic, visual, sound wise, wise everything, everything be, be par, par fantastic, fantastic visual
+I:28;65;inspired, piece, give, movie, old, inspired piece, piece give, give movie, movie old
+I:28;66;style, feeling, few, piece, be, jazz, style feeling, feeling few, few piece, piece be, be jazz
+I:28;67;only, unoriginal, song, movie, stop, loving, work, only unoriginal, unoriginal song, song movie, movie stop, stop loving, loving work
+I:28;68;think, have, happen, be, happen, climax, have, go, overall, theme, movie, see, stop, loving, be, perfect, think have, have happen, happen be, be happen, happen climax, climax have, have go, go overall, overall theme, theme movie, movie see, see stop, stop loving, loving be, be perfect
+I:28;69;regard, dub, be, do, use, best, voiceover, have, hear, regard dub, dub be, be do, do use, use best, best voiceover, voiceover have, have hear
+I:28;70;be, character, sketch, breakdown, certain, scene, wonderful, documentary, detail, creation, movie, be character, character sketch, sketch breakdown, breakdown certain, certain scene, scene wonderful, wonderful documentary, documentary detail, detail creation, creation movie
+I:28;71;be, make, movie, more, way, be make, make movie, movie more, more way
+I:28;72;be, everyone, have, appeal, movie, enjoy, extend, release, many, area, limited, run, theater, be everyone, everyone have, have appeal, appeal movie, movie enjoy, enjoy extend, extend release, release many, many area, area limited, limited run, run theater
+I:28;73;be, corner, friend, be, go, love, pick, something, wish, list, perfect, be corner, corner friend, friend be, be go, go love, love pick, pick something, something wish, wish list, list perfect
+I:28;74;everything, start, fall, place, create, rich, animated, story, everything start, start fall, fall place, place create, create rich, rich animated, animated story
+I:28;75;wonderful, film, be, fit, age, wonderful film, film be, be fit, fit age
+I:28;76;be, kind, hard, describe, be kind, kind hard, hard describe
+I:28;77;be, strange, piece, work, good, questionable, ways.yes, friend, have, conniption, laugh, end, bit, song, be strange, strange piece, piece work, work good, good questionable, questionable ways.yes, ways.yes friend, friend have, have conniption, conniption laugh, laugh end, end bit, bit song
+I:28;78;watch, give, something, remember, watch give, give something, something remember
+I:28;79;make, have, see, animated, make have, have see, see animated
+I:28;80;film, begin, celebration, be, be, hold, honor, completion, film begin, begin celebration, celebration be, be be, be hold, hold honor, honor completion
+I:28;81;be, reveal, be, use, assitance, mad, scientist, name, create, robot, girl, compensate, dead, daughter, rule, world, throne, be reveal, reveal be, be use, use assitance, assitance mad, mad scientist, scientist name, name create, create robot, robot girl, girl compensate, compensate dead, dead daughter, daughter rule, rule world, world throne
+I:28;82;detective, come, son, investigate, whereabouts, shady, doctor, detective come, come son, son investigate, investigate whereabouts, whereabouts shady, shady doctor
+I:28;83;escort, robot, guide, travel, city, discover, secret, sinister, project, escort robot, robot guide, guide travel, travel city, city discover, discover secret, secret sinister, sinister project
+I:28;84;duke, malevolent, son, be, envious, robot, girl, destroy, complex, burn, ground, duke malevolent, malevolent son, son be, be envious, envious robot, robot girl, girl destroy, destroy complex, complex burn, burn ground
+I:28;85;detective, son, robot, girl, escape, provide, few, tough, scene, try, communicate, detective son, son robot, robot girl, girl escape, escape provide, provide few, few tough, tough scene, scene try, try communicate
+I:28;86;movie, culminate, remarkable, confrontation, central, character, story, movie culminate, culminate remarkable, remarkable confrontation, confrontation central, central character, character story
+I:28;87;plot, be, compelling, be, beauteous, image, movie, make, worth, watch, plot be, be compelling, compelling be, be beauteous, beauteous image, image movie, movie make, make worth, worth watch
+I:28;88;hover, hallucinatory, fantasy, reality, compel, keep, watch, connect, deepest, emotion, hover hallucinatory, hallucinatory fantasy, fantasy reality, reality compel, compel keep, keep watch, watch connect, connect deepest, deepest emotion
+I:28;89;day, be, great, nice, packaging, day be, be great, great nice, nice packaging
+I:28;90;great, prouduct, great, movie, general, great prouduct, prouduct great, great movie, movie general
+I:28;91;be, child, movie, be child, child movie
+I:28;92;nice, story, line, seem, kind, short, plenty, time, get, attach, character, nice story, story line, line seem, seem kind, kind short, short plenty, plenty time, time get, get attach, attach character
+I:28;93;few, movie, be, worth, be, see, point, few movie, movie be, be worth, worth be, be see, see point
+I:28;94;stumble, movie, take, mind, imagination, absolute, limit, stumble movie, movie take, take mind, mind imagination, imagination absolute, absolute limit
+I:28;95;be, movie, untill, have, see, many, rate, better, classic, be movie, movie untill, untill have, have see, see many, many rate, rate better, better classic
+I:28;96;call, best, anime, create, call best, best anime, anime create
+I:28;97;have, be, release, be, good, have be, be release, release be, be good
+I:28;98;receive, order, yesterday, allready, have, watch, time, receive order, order yesterday, yesterday allready, allready have, have watch, watch time
+I:28;99;be, complex, time, see, find, new, thing, be complex, complex time, time see, see find, find new, new thing
+I:28;100;animation, be, classic, era, music, follow, same, time, line, big, band, jazz, music, animation be, be classic, classic era, era music, music follow, follow same, same time, time line, line big, big band, band jazz, jazz music
+I:28;101;integration, give, astounding, effect, integration give, give astounding, astounding effect
+I:28;102;movie, be, marvelous, music, be, wonderful, movie be, be marvelous, marvelous music, music be, be wonderful
+I:28;103;best, sci, best sci
+I:28;104;color, backround, be, real, intreging, color backround, backround be, be real, real intreging
+I:28;105;story, be, real, story be, be real
+I:28;106;be, happy, sad, deperssing, lovly, wonderful, spectacular, go, be happy, happy sad, sad deperssing, deperssing lovly, lovly wonderful, wonderful spectacular, spectacular go
+I:28;107;be, happy, sad, middle, be happy, happy sad, sad middle
+I:28;108;know, be, be, go, watch, movie, chance, get, know be, be be, be go, go watch, watch movie, movie chance, chance get
+I:28;109;ichi, be, kindest, loving, people, world, hope, review, help, make, decision, watch, ichi be, be kindest, kindest loving, loving people, people world, world hope, hope review, review help, help make, make decision, decision watch
+I:28;110;be, same, canned, storyline, social, statement, make, japanese, animation, cut, edge, late, be same, same canned, canned storyline, storyline social, social statement, statement make, make japanese, japanese animation, animation cut, cut edge, edge late
+I:28;111;be, beautiful, work, animation, pull, heart, go, throat, be beautiful, beautiful work, work animation, animation pull, pull heart, heart go, go throat
+I:28;112;adopted, son, destroy, laboratory, robot, be, activate, adopted son, son destroy, destroy laboratory, laboratory robot, robot be, be activate
+I:28;113;be, find, detective, young, nephew, wander, underbelly, city, dodge, attack, bear, witness, uprising, proletariat, be find, find detective, detective young, young nephew, nephew wander, wander underbelly, underbelly city, city dodge, dodge attack, attack bear, bear witness, witness uprising, uprising proletariat
+I:28;114;say, spoil, end, film, climax, be, do, singing, stop, loving, background, say spoil, spoil end, end film, film climax, climax be, be do, do singing, singing stop, stop loving, loving background
+I:28;115;extra, include, interview, voice, cast, composer, score, history, manga, anime, design, sketch, anime, segment, combine, cel, animation, cg, background, extra include, include interview, interview voice, voice cast, cast composer, composer score, score history, history manga, manga anime, anime design, design sketch, sketch anime, anime segment, segment combine, combine cel, cel animation, animation cg, cg background
+I:28;116;have, see, many, anime, movie, be, best, have see, see many, many anime, anime movie, movie be, be best
+I:28;117;have, amazing, animation, character, have amazing, amazing animation, animation character
+I:28;118;music, be, kinda, odd, think, fit, story, music be, be kinda, kinda odd, odd think, think fit, fit story
+I:28;119;be, good, best, see, year, be good, good best, best see, see year
+I:28;120;sound, good, sound good
+I:28;121;example, android, werewolf, vampire, surgeon, example android, android werewolf, werewolf vampire, vampire surgeon
+I:28;122;be, watch, comic, be, good, be watch, watch comic, comic be, be good
+I:28;123;have, be, best, anime, time, have be, be best, best anime, anime time
+I:28;124;story, be, wonderful, artwork, dazzling, story be, be wonderful, wonderful artwork, artwork dazzling
+I:28;125;music, destroy, music destroy
+I:28;126;futuristic, city, call, leader, industry, know, self, appoint, royalty, be, sure, have, create, magnificent, set, building, know, futuristic city, city call, call leader, leader industry, industry know, know self, self appoint, appoint royalty, royalty be, be sure, sure have, have create, create magnificent, magnificent set, set building, building know
+I:28;127;believe, take, throne, believe take, take throne
+I:28;128;tat, take, control, city, plan, seat, seat, power, tat take, take control, control city, city plan, plan seat, seat seat, seat power
+I:28;129;animation, detail, city, be, flawless, animation detail, detail city, city be, be flawless
+I:28;130;gothic, city, be, show, minute, detail, vibrant, color, inspire, skyscraper, fly, machine, dot, cityscape, gothic city, city be, be show, show minute, minute detail, detail vibrant, vibrant color, color inspire, inspire skyscraper, skyscraper fly, fly machine, machine dot, dot cityscape
+I:28;131;underground, be, give, great, care, city, core, power, unit, be, do, underground be, be give, give great, great care, care city, city core, core power, power unit, unit be, be do
+I:28;132;music, unusual, work, music unusual, unusual work
+I:28;133;son, issue, set, chain, event, destroy, ziggeraut, be, accompany, stop, love, son issue, issue set, set chain, chain event, event destroy, destroy ziggeraut, ziggeraut be, be accompany, accompany stop, stop love
+I:28;134;best, movie, discuss, point, do, robot, become, human, best movie, movie discuss, discuss point, point do, do robot, robot become, become human
+I:28;135;alright, be, hopeful, anime, turn, be, superb, materpiece, alright be, be hopeful, hopeful anime, anime turn, turn be, be superb, superb materpiece
+I:28;136;want, see, true, masterpeice, see, original, live, action, silent, want see, see true, true masterpeice, masterpeice see, see original, original live, live action, action silent
+I:28;137;movie, do, be, movie do, do be
+I:28;138;be, tell, metropolis, be, top, selling, anime, time, round, be tell, tell metropolis, metropolis be, be top, top selling, selling anime, anime time, time round
+I:28;139;wasnt, interesting, attactive, sight, wasnt interesting, interesting attactive, attactive sight
+I:28;140;metropolis, hav, interesting, idea, abt, robot, stuff, metropolis hav, hav interesting, interesting idea, idea abt, abt robot, robot stuff
+I:28;141;juz, story, wasnt, nice, juz story, story wasnt, wasnt nice
+I:28;142;worth, purchase, attention, detail, animation, be, good, andif, collect, japanese, base, animation, be, good, add, collection, worth purchase, purchase attention, attention detail, detail animation, animation be, be good, good andif, andif collect, collect japanese, japanese base, base animation, animation be, be good, good add, add collection
+I:28;143;majority, metropolis, be, stimulate, rich, background, most, part, level, majority metropolis, metropolis be, be stimulate, stimulate rich, rich background, background most, most part, part level
+I:28;144;screen, graphic, cyber, search, phone, line, be, riddled, interesting, goody, screen graphic, graphic cyber, cyber search, search phone, phone line, line be, be riddled, riddled interesting, interesting goody
+I:28;145;final, conflict, use, be, superb, final conflict, conflict use, use be, be superb
+I:28;146;be, metropolis, be, beautiful, feast, eye, beam, high, design, style, be metropolis, metropolis be, be beautiful, beautiful feast, feast eye, eye beam, beam high, high design, design style
+I:28;147;be, less, otaku, know, enjoy, good, anime, movie, be less, less otaku, otaku know, know enjoy, enjoy good, good anime, anime movie
+I:28;148;music, soundtrack, 1/5now, good, stuff, music soundtrack, soundtrack 1/5now, 1/5now good, good stuff
+I:28;149;4/5the, animation, smoothness, character, be, amazing, say, least, 4/5the animation, animation smoothness, smoothness character, character be, be amazing, amazing say, say least
+I:28;150;other, animation, lighting, effect, come, create, something, beautfiul, other animation, animation lighting, lighting effect, effect come, come create, create something, something beautfiul
+I:28;151;artwork, be, brillant, awe, artwork be, be brillant, brillant awe
+I:28;152;inspiring, music, be, whimsical, vibrant, question, pose, film, be, humanity, face, inspiring music, music be, be whimsical, whimsical vibrant, vibrant question, question pose, pose film, film be, be humanity, humanity face
+I:28;153;movie, be, marvelous, experience, need, detach, certain, expectation, movie be, be marvelous, marvelous experience, experience need, need detach, detach certain, certain expectation
+I:28;154;love, movie, love movie
+I:28;155;say, find, be, wonderful, film, say find, find be, be wonderful, wonderful film
+I:28;156;music, take, form, great, jazzy, mix, empahisize, life, city, music take, take form, form great, great jazzy, jazzy mix, mix empahisize, empahisize life, life city
+I:28;157;end, pack, punch, end pack, pack punch
+I:28;158;be, good, movie, be good, good movie
+I:28;159;friend, say, be, good, pick, friend say, say be, be good, good pick
+I:28;160;visual, effect, be, vivid, lush, detailed, visual effect, effect be, be vivid, vivid lush, lush detailed
+I:28;161;image, wonderful, jazz, soundtrack, create, atmosphere, be, side, tactile, image wonderful, wonderful jazz, jazz soundtrack, soundtrack create, create atmosphere, atmosphere be, be side, side tactile
+I:28;162;story, be, amazing, have, see, be, write, story be, be amazing, amazing have, have see, see be, be write
+I:28;163;recommend, view, japanese, subtitle, recommend view, view japanese, japanese subtitle
+I:28;164;buy, film, understand, review, be, best, anime, film, have, see, buy film, film understand, understand review, review be, be best, best anime, anime film, film have, have see
+I:28;165;film, have, breathtaking, artwork, story, be, complexe, entertaining, film have, have breathtaking, breathtaking artwork, artwork story, story be, be complexe, complexe entertaining
+I:28;166;have, anime, fan, have anime, anime fan
+I:28;167;be, beautiful, example, animation, do, be, free, need, advertise, toy, product, be beautiful, beautiful example, example animation, animation do, do be, be free, free need, need advertise, advertise toy, toy product
+I:28;168;present, pokemon, new, present pokemon, pokemon new
+I:28;169;image, astound, fill, viewer, wonder, city, tomorrow, depict, early, middle, portion, 20th, century, image astound, astound fill, fill viewer, viewer wonder, wonder city, city tomorrow, tomorrow depict, depict early, early middle, middle portion, portion 20th, 20th century
+I:28;170;be, true, scene, ziggurat, remind, viewer, building, earlier, silent, film, be true, true scene, scene ziggurat, ziggurat remind, remind viewer, viewer building, building earlier, earlier silent, silent film
+I:28;171;film, blend, element, film, film blend, blend element, element film
+I:28;172;be, film, worth, view, own, be film, film worth, worth view, view own
+I:28;173;be, many, word, describe, think, movie, many, be, be many, many word, word describe, describe think, think movie, movie many, many be
+I:28;174;top, have, see, year, top have, have see, see year
+I:28;175;come, famous, be, brilliant, animation, come, future, robot, destruction, come famous, famous be, be brilliant, brilliant animation, animation come, come future, future robot, robot destruction
+I:28;176;tech, world, be, powerful, man, plan, create, advanced, robot, name, tech world, world be, be powerful, powerful man, man plan, plan create, create advanced, advanced robot, robot name
+I:28;177;do, give, be, worth, have, do give, give be, be worth, worth have
+I:28;178;be, render, futuristic, world, robot, human, mingle, friction, be render, render futuristic, futuristic world, world robot, robot human, human mingle, mingle friction
+I:28;179;be, robot, charge, human, feeling, super, be robot, robot charge, charge human, human feeling, feeling super
+I:28;180;have, complex, film, be, have complex, complex film, film be
+I:28;181;jazz, soundtrack, be, stylish, lend, feel, movie, futuristic, setting, plot, jazz soundtrack, soundtrack be, be stylish, stylish lend, lend feel, feel movie, movie futuristic, futuristic setting, setting plot
+I:28;182;viewer, find, imagine, distinctive, realm, astound, originality, viewer find, find imagine, imagine distinctive, distinctive realm, realm astound, astound originality
+I:28;183;be, art, film, vision, significant, plot, be art, art film, film vision, vision significant, significant plot
+I:28;184;anime, fan, art, film, lover, find, much, appreciate, movie, anime fan, fan art, art film, film lover, lover find, find much, much appreciate, appreciate movie
+I:28;185;be, masterpiece, be, pace, like, bloody, be, grand, piece, animation, be masterpiece, masterpiece be, be pace, pace like, like bloody, bloody be, be grand, grand piece, piece animation
+I:28;186;audio, be, crisp, find, crackle, audio be, be crisp, crisp find, find crackle
+I:28;187;be, good, enjoy, interview, history, thing, sort, be, game, real, extravagant, feature, be good, good enjoy, enjoy interview, interview history, history thing, thing sort, sort be, be game, game real, real extravagant, extravagant feature
+I:28;188;amusing, feature, be, multus, amusing feature, feature be, be multus
+I:28;189;angle, view, production, tiny, art, gallery, angle view, view production, production tiny, tiny art, art gallery
+I:28;190;be, political, betrayal, social, uprising, be, chair, use, symbolism, be, important, end, movie, hey, be political, political betrayal, betrayal social, social uprising, uprising be, be chair, chair use, use symbolism, symbolism be, be important, important end, end movie, movie hey
+I:28;191;movie, be, compelling, drama, leave, breathless, movie be, be compelling, compelling drama, drama leave, leave breathless
+I:28;192;ending, be, freaky, amazing, small, japanease, film, change, anime, ending be, be freaky, freaky amazing, amazing small, small japanease, japanease film, film change, change anime
+I:28;193;be, compelling, reason, see, movie, be compelling, compelling reason, reason see, see movie
+I:28;194;backdrop, animation, movie, be, stunning, backdrop animation, animation movie, movie be, be stunning
+I:28;195;work, art, movie, do, create, mechanized, city, remind, city, dark, city, work art, art movie, movie do, do create, create mechanized, mechanized city, city remind, remind city, city dark, dark city
+I:28;196;be, peculiar, film, be, challenging, stylish, be peculiar, peculiar film, film be, be challenging, challenging stylish
+I:28;197;city, be, give, jazzy, full, city be, be give, give jazzy, jazzy full
+I:28;198;pace, story, be, classic, anime, romance, fable, consequence, human, ambition, pace story, story be, be classic, classic anime, anime romance, romance fable, fable consequence, consequence human, human ambition
+I:28;199;real, pleasure, film, be, imagine, design, graceful, movement, captivating, palette, real pleasure, pleasure film, film be, be imagine, imagine design, design graceful, graceful movement, movement captivating, captivating palette
+I:28;200;be, bit, smooth, soundtrack, be bit, bit smooth, smooth soundtrack
+I:28;201;feast, eye, be, story, go, feast eye, eye be, be story, story go
+I:28;202;have, watch, film, year, dub, japanese, english, subtitle, have watch, watch film, film year, year dub, dub japanese, japanese english, english subtitle
+I:28;203;time, come, feel, ambivalent, time come, come feel, feel ambivalent
+I:28;204;movie, lack, heart, soul, clear, intent, movie lack, lack heart, heart soul, soul clear, clear intent
+I:28;205;time, pacing, be, bit, slow, jazzy, tempo, music, keep, thing, move, time pacing, pacing be, be bit, bit slow, slow jazzy, jazzy tempo, tempo music, music keep, keep thing, thing move
+I:28;206;story, be, mediocre, fantastic, fusion, cgi, anime, animation, make, shortcoming, story be, be mediocre, mediocre fantastic, fantastic fusion, fusion cgi, cgi anime, anime animation, animation make, make shortcoming
+I:28;207;be, typical, film, hear, line, beautiful, computer, be typical, typical film, film hear, hear line, line beautiful, beautiful computer
+I:28;208;say, be, film, day, get, story, compete, good, make, film, look, day, say be, be film, film day, day get, get story, story compete, compete good, good make, make film, film look, look day
+I:28;209;be, new, world, be new, new world
+I:28;210;cell, animation, be, great, cell animation, animation be, be great
+I:28;211;computer, animation, be, great, computer animation, animation be, be great
+I:28;212;point, character, be, draw, style, go, point character, character be, be draw, draw style, style go
+I:28;213;be, tremendous, chase, scene, climactic, destruction, end, be tremendous, tremendous chase, chase scene, scene climactic, climactic destruction, destruction end
+I:28;214;be, impressive, expression, art, craft, animation, be impressive, impressive expression, expression art, art craft, craft animation
+I:28;215;grant, want, great, power, sure, grant want, want great, great power, power sure
+I:28;216;ichi, robot, girl, look, have, bit, adventure, be, attraction, ichi robot, robot girl, girl look, look have, have bit, bit adventure, adventure be, be attraction
+I:28;217;be, great, anime, be, good, cinema, be great, great anime, anime be, be good, good cinema
+I:28;218;be, unusual, be, make, interesting, be unusual, unusual be, be make, make interesting
+I:28;219;character, look, round, toy, move, bit, toy, character look, look round, round toy, toy move, move bit, bit toy
+I:28;220;storyline, be, relevant, time, visual, suggest, future, music, be, old, storyline be, be relevant, relevant time, time visual, visual suggest, suggest future, future music, music be, be old
+I:28;221;find, interesting, combination, present, past, future, animated, film, find interesting, interesting combination, combination present, present past, past future, future animated, animated film
+I:28;222;point, life, be, unabashed, otaku, huge, fan, anime, manga, love, movie, point life, life be, be unabashed, unabashed otaku, otaku huge, huge fan, fan anime, anime manga, manga love, love movie
+I:28;223;take, break, anime, come, find, take break, break anime, anime come, come find
+I:28;224;be, great, anime, be, great, movie, be great, great anime, anime be, be great, great movie
+I:28;225;character, be, most, people, think, think, anime, work, character be, be most, most people, people think, think think, think anime, anime work
+I:28;226;story, get, dark, be, cute, kid, keep, lose, hope, humanity, story get, get dark, dark be, be cute, cute kid, kid keep, keep lose, lose hope, hope humanity
+I:28;227;element, be, pure, genius, be, jazz/big, band, soundtrack, element be, be pure, pure genius, genius be, be jazz/big, jazz/big band, band soundtrack
+I:28;228;be, synch, movie, use, be synch, synch movie, movie use
+I:28;229;good, acting, voice, fit, character, dialogue, work, good acting, acting voice, voice fit, fit character, character dialogue, dialogue work
+I:28;230;be, perfect, combination, apocalyptic, story, great, animation, beautiful, music, be perfect, perfect combination, combination apocalyptic, apocalyptic story, story great, great animation, animation beautiful, beautiful music
+I:28;231;recommend, anyone, stand, subtitle, read, recommend anyone, anyone stand, stand subtitle, subtitle read
+I:28;232;popeye, style, art, character, be, little, pute, begining, likle, other, thing, great, anime, popeye style, style art, art character, character be, be little, little pute, pute begining, begining likle, likle other, other thing, thing great, great anime
+I:28;233;subtle, intricacy, misspell, know, be, great, plot, bother, look, .3, subtle intricacy, intricacy misspell, misspell know, know be, be great, great plot, plot bother, bother look, look .3
+I:28;234;listen, part, be, go, lab, see, daughter, making, listen part, part be, be go, go lab, lab see, see daughter, daughter making
+I:28;235;greatness, anime, background, be, blow, greatness anime, anime background, background be, be blow
+I:28;236;normal, movie, anime, put, effort, background, create, leave, picture, real, world, .2, charactre, set, develop, character, bunch, make, movie, time, better, be, normal movie, movie anime, anime put, put effort, effort background, background create, create leave, leave picture, picture real, real world, world .2, .2 charactre, charactre set, set develop, develop character, character bunch, bunch make, make movie, movie time, time better, better be
+I:28;237;point, remind, felix, cat, point remind, remind felix, felix cat
+I:28;238;be, beautiful, compelling, be beautiful, beautiful compelling
+I:28;239;noir, be, keep, simple, noir be, be keep, keep simple
+I:28;240;interview, be, interesting, overall, interview be, be interesting, interesting overall
+I:28;241;transport, concept, vision, transport concept, concept vision
+I:28;242;extra, feature, be, good, extra feature, feature be, be good
+I:28;243;be, music, use, soulful, melancholy, piece, violent, section, film?ahhh, be music, music use, use soulful, soulful melancholy, melancholy piece, piece violent, violent section, section film?ahhh
+I:28;244;be, homage, old, classic, be homage, homage old, old classic
+I:28;245;be, film, visual, be, stunning, be film, film visual, visual be, be stunning
+I:28;246;traditional, cell, animation, character, cg, background, work, most, part, result, amazing, feast, eye, traditional cell, cell animation, animation character, character cg, cg background, background work, work most, most part, part result, result amazing, amazing feast, feast eye
+I:28;247;humble, opinion, do, expect, movie, star, look, particular, actor, expect, cartoon, character, look, same, eye, be, enjoyable, experience, humble opinion, opinion do, do expect, expect movie, movie star, star look, look particular, particular actor, actor expect, expect cartoon, cartoon character, character look, look same, same eye, eye be, be enjoyable, enjoyable experience
+I:28;248;be, nice, be, be nice, nice be
+I:28;249;min, special, include, interview, discussion, animation, technique, few, picture, original, manga, allow, see, main, difference, min special, special include, include interview, interview discussion, discussion animation, animation technique, technique few, few picture, picture original, original manga, manga allow, allow see, see main, main difference
+I:28;250;take, chance, enjoy, take chance, chance enjoy
+I:28;251;do, think, movie, be, compare, extreme, difference, genre, put, best, anime, movie, movie, general, time, do think, think movie, movie be, be compare, compare extreme, extreme difference, difference genre, genre put, put best, best anime, anime movie, movie movie, movie general, general time
+I:28;252;end, be, catch, surprise, end be, be catch, catch surprise
+I:28;253;let, suffice, say, keep, mind, open, suggest, movie, anyone, anime, fan, hater, let suffice, suffice say, say keep, keep mind, mind open, open suggest, suggest movie, movie anyone, anyone anime, anime fan, fan hater
+I:28;254;metropolis, be, impressive, metropolis be, be impressive
+I:28;255;music, compose, be, splendid, music compose, compose be, be splendid
+I:28;256;ensemble, be, brilliant, animated, movie, ensemble be, be brilliant, brilliant animated, animated movie
+I:28;257;saturated, color, wonderful, direction, resurrect, brilliance, anime, father, saturated color, color wonderful, wonderful direction, direction resurrect, resurrect brilliance, brilliance anime, anime father
+I:28;258;be, haunt, theme, technology, power, state, power, militarist, fascism, be haunt, haunt theme, theme technology, technology power, power state, state power, power militarist, militarist fascism
+I:28;259;anyone, decent, knowledge, modern, japanese, history, appreciate, subtle, cue, resonance, militarist, seizure, government, militarist, marriage, special, kind, japanese, business, anyone decent, decent knowledge, knowledge modern, modern japanese, japanese history, history appreciate, appreciate subtle, subtle cue, cue resonance, resonance militarist, militarist seizure, seizure government, government militarist, militarist marriage, marriage special, special kind, kind japanese, japanese business
+I:28;260;background, be, stunning, music, wonderful, love, robot, detective, background be, be stunning, stunning music, music wonderful, wonderful love, love robot, robot detective
+I:28;261;encounter, walk, disorient, viewer, capture, idea, be, robot, be, human, encounter walk, walk disorient, disorient viewer, viewer capture, capture idea, idea be, be robot, robot be, be human
+I:28;262;brilliant, moment, genre, film, brilliant moment, moment genre, genre film
+I:28;263;whole, ad, campaign, be, amazing, future, metropolis, be, amazing, whole ad, ad campaign, campaign be, be amazing, amazing future, future metropolis, metropolis be, be amazing
+I:28;264;okay, fine, say, movie, okay fine, fine say, say movie
+I:28;265;want, see, good, movie, want see, see good, good movie
+I:28;266;penny, be, worth, penny be, be worth
+I:28;267;be, summary, movie, create, robot, name, thanks, son, think, be, destroy, be summary, summary movie, movie create, create robot, robot name, name thanks, thanks son, son think, think be, be destroy
+I:28;268;blue, moon, be, lucky, enough, see, hear, movie, good, blue moon, moon be, be lucky, lucky enough, enough see, see hear, hear movie, movie good
+I:28;269;believe, become, fan, genre, watch, believe become, become fan, fan genre, genre watch
+I:28;270;soundtrack, be, perfect, matter, critic, say, soundtrack be, be perfect, perfect matter, matter critic, critic say
+I:28;271;let, say, be, genius, let say, say be, be genius
+I:28;272;color, be, stunning, sound, be, computer, animation, blend, cell, hand, color be, be stunning, stunning sound, sound be, be computer, computer animation, animation blend, blend cell, cell hand
+I:28;273;do, awesome, job, direct, film, remember, do awesome, awesome job, job direct, direct film, film remember
+I:28;274;important, thing, story, important thing, thing story
+I:28;275;plot, be, grip, dramatic, same, time, exciting, dish, plenty, action, plot be, be grip, grip dramatic, dramatic same, same time, time exciting, exciting dish, dish plenty, plenty action
+I:28;276;many, other, be, begin, belive, exceed, take, place, new, classic, anime, many other, other be, be begin, begin belive, belive exceed, exceed take, take place, place new, new classic, classic anime
+I:28;277;few, month, see, few month, month see
+I:28;278;story, be, competent, watch, time, story be, be competent, competent watch, watch time
+I:28;279;city, be, destroy, stop, loving, be, amazing, sequence, put, film, city be, be destroy, destroy stop, stop loving, loving be, be amazing, amazing sequence, sequence put, put film
+I:28;280;main, movie, be, good, jazz, score, great, action, sequence, great, set, animation, main movie, movie be, be good, good jazz, jazz score, score great, great action, action sequence, sequence great, great set, set animation
+I:28;281;anime, fan, be, satisfied, film, anime fan, fan be, be satisfied, satisfied film
+I:28;282;suggest, age, suggest age
+I:28;283;be, astounding, artistic, achievement, exemplify, incredible, power, animation, best, be astounding, astounding artistic, artistic achievement, achievement exemplify, exemplify incredible, incredible power, power animation, animation best
+I:28;284;nosed, tyrant, have, construct, awesome, weapon, know, nosed tyrant, tyrant have, have construct, construct awesome, awesome weapon, weapon know
+I:28;285;be, hire, genius, robot, designer, create, synthetic, human, masterpiece, voice, be hire, hire genius, genius robot, robot designer, designer create, create synthetic, synthetic human, human masterpiece, masterpiece voice
+I:28;286;unappreciated, adoptive, son, head, gang, robot, unappreciated adoptive, adoptive son, son head, head gang, gang robot
+I:28;287;tinge, street, many, tinge street, street many
+I:28;288;culminate, unforgettable, climax, emotion, chaos, rank, greatest, scene, cinematic, history, culminate unforgettable, unforgettable climax, climax emotion, emotion chaos, chaos rank, rank greatest, greatest scene, scene cinematic, cinematic history
+I:28;289;movie, combine, beautiful, movie combine, combine beautiful
+I:28;290;visual, be, enough, make, want, visual be, be enough, enough make, make want
+I:28;291;storyline, be, easy, follow, beginner, character, be, likeable, storyline be, be easy, easy follow, follow beginner, beginner character, character be, be likeable
+I:28;292;movie, wow, look, move, plot, end, movie wow, wow look, look move, move plot, plot end
+I:28;293;disc, set, be, full, subtitle, interview, disc set, set be, be full, full subtitle, subtitle interview
+I:28;294;watch, movie, japanese, many, subtitle, nation, watch movie, movie japanese, japanese many, many subtitle, subtitle nation
+I:28;295;recommend, movie, anime, fan, recommend movie, movie anime, anime fan
+I:28;296;think, be, thing, be, remarkable, be, paint, background, think be, be thing, thing be, be remarkable, remarkable be, be paint, paint background
+I:28;297;be, best, have, see, period, be best, best have, have see, see period
+I:28;298;background, enhance, background enhance
+I:28;299;good, direct, good direct
+I:28;300;be, best, japanese, animated, scus, be best, best japanese, japanese animated, animated scus
+I:28;301;draw, animation, be, excellent, story, character, be, entertaining, interesting, draw animation, animation be, be excellent, excellent story, story character, character be, be entertaining, entertaining interesting
+I:28;302;film, do, excellent, job, present, period, piece, selection, jazzy, music, art, deco, city, scape, film do, do excellent, excellent job, job present, present period, period piece, piece selection, selection jazzy, jazzy music, music art, art deco, deco city, city scape
+I:28;303;character, be, draw, style, period, character be, be draw, draw style, style period
+I:28;304;be, anachronistic, period, piece, unfold, be, quick, be anachronistic, anachronistic period, period piece, piece unfold, unfold be, be quick
+I:28;305;tempo, plot, high, production, value, manage, place, most, emphasis, social, political, message, tempo plot, plot high, high production, production value, value manage, manage place, place most, most emphasis, emphasis social, social political, political message
+I:28;306;pairing, be, deliberate, be, shocking, work, pairing be, be deliberate, deliberate be, be shocking, shocking work
+I:28;307;good, part, classic, be, present, water, good part, part classic, classic be, be present, present water
+I:28;308;be, note, soundtrack, be, lively, collection, old, jazz, blues, swing, tune, add, unique, side, be note, note soundtrack, soundtrack be, be lively, lively collection, collection old, old jazz, jazz blues, blues swing, swing tune, tune add, add unique, unique side
+I:28;309;outstanding, feature, outstanding feature
+I:28;310;many, background, be, render, animation, be, fluid, traditional, other, recent, computer, many background, background be, be render, render animation, animation be, be fluid, fluid traditional, traditional other, other recent, recent computer
+I:28;311;character, be, animated, traditional, super, character be, be animated, animated traditional, traditional super
+I:28;312;be, subtitle, purist, hard, hearing, course, dub, be, darn, good, be subtitle, subtitle purist, purist hard, hard hearing, hearing course, course dub, dub be, be darn, darn good
+I:28;313;other, word, watch, forget, other word, word watch, watch forget
+I:28;314;be, movie, grow, end, like, problem, be movie, movie grow, grow end, end like, like problem
+I:28;315;story, make, work, timeless, story make, make work, work timeless
+I:28;316;be, honest, story, story, tell, be, timeless, imho, be honest, honest story, story story, story tell, tell be, be timeless, timeless imho
+I:28;317;have, high, expectation, base, review, have high, high expectation, expectation base, base review
+I:28;318;cover, demonstrate, contemporary, style, character, cover demonstrate, demonstrate contemporary, contemporary style, style character
+I:28;319;character, entire, film, have, retro, look, character entire, entire film, film have, have retro, retro look
+I:28;320;best, have, see, be, be, tedious, good, minute, middle, film, best have, have see, see be, be be, be tedious, tedious good, good minute, minute middle, middle film
+I:28;321;thought, watch, someone, make, live, thought watch, watch someone, someone make, make live
+I:28;322;action, version, shoot, shot, be, highest, gross, film, history, take, home, best, action version, version shoot, shoot shot, shot be, be highest, highest gross, gross film, film history, history take, take home, home best
+I:28;323;combination, direction, action, repose, script, universal, human, enough, make, care, combination direction, direction action, action repose, repose script, script universal, universal human, human enough, enough make, make care
+I:28;324;amazing, visual, juxtapose, screen, amazing visual, visual juxtapose, juxtapose screen
+I:28;325;course, marvel, something, epic, detail, go, idea, man, head, drawing, setting, world, make, see, own, new, way, course marvel, marvel something, something epic, epic detail, detail go, go idea, idea man, man head, head drawing, drawing setting, setting world, world make, make see, see own, own new, new way
+I:28;326;life, effect, life effect
+I:28;327;love, lose, metropolis, destroy, love lose, lose metropolis, metropolis destroy
+I:28;328;innovative, anime, film, recent, history, innovative anime, anime film, film recent, recent history
+I:28;329;take, try, true, scus, take try, try true, true scus
+I:28;330;fi, premise, wrap, spectacular, visual, package, have, see, ghost, be, first, release, fi premise, premise wrap, wrap spectacular, spectacular visual, visual package, package have, have see, see ghost, ghost be, be first, first release
+I:28;331;be, classic, character, catch, event, larger, be classic, classic character, character catch, catch event, event larger
+I:28;332;be, sure, be, anime, remake, original, film, be, sweet, be sure, sure be, be anime, anime remake, remake original, original film, film be, be sweet
+I:28;333;say, best, part, film, be, visual, say best, best part, part film, film be, be visual
+I:28;334;do, watch, do watch
+I:28;335;be, league, likes, be league, league likes
+I:28;336;do, have, be, old, style, character, design, excellent, motion, color, think, be, beautiful, be, old, look, do have, have be, be old, old style, style character, character design, design excellent, excellent motion, motion color, color think, think be, be beautiful, beautiful be, be old, old look
+I:28;337;think, work, computer, animation, think work, work computer, computer animation
+I:28;338;reason, animated, film, travel, come, mind, reason animated, animated film, film travel, travel come, come mind
+I:28;339;movement, be, perfect, be, do, movement be, be perfect, perfect be, be do
+I:28;340;character, realize, term, anime, style, be, female, robot, be, attach, small, radio, character realize, realize term, term anime, anime style, style be, be female, female robot, robot be, be attach, attach small, small radio
+I:28;341;point, be, story, be, take, numerous, level, require, thoughtful, watching, point be, be story, story be, be take, take numerous, numerous level, level require, require thoughtful, thoughtful watching
+I:28;342;do, know, version, make, adaptation, seem, be, outstanding.you, want, breathtaking, visual, do know, know version, version make, make adaptation, adaptation seem, seem be, be outstanding.you, outstanding.you want, want breathtaking, breathtaking visual
+I:28;343;be, nothing, have, see, use, film, do, job, animation, be, beautiful, be nothing, nothing have, have see, see use, use film, film do, do job, job animation, animation be, be beautiful
+I:28;344;be, organize, stay, course, skip, beat, be organize, organize stay, stay course, course skip, skip beat
+I:28;345;classic, tale, re, classic tale, tale re
+I:28;346;imagine, be, anime, film, be, worth, weight, gold, screw, imagine be, be anime, anime film, film be, be worth, worth weight, weight gold, gold screw
+I:28;347;wonderfull, juxtaposition, complexity, simplicity, wonderfull juxtaposition, juxtaposition complexity, complexity simplicity
+I:28;348;bit, simple, story, be, concern, wonderful, character, make, bit simple, simple story, story be, be concern, concern wonderful, wonderful character, character make
+I:28;349;visual, stunning, animation, visual stunning, stunning animation
+I:28;350;seamless, intigration, hand, draw, computer, anime, style, seamless intigration, intigration hand, hand draw, draw computer, computer anime, anime style
+I:28;351;score, be, unique, fit, movie, move, part, score be, be unique, unique fit, fit movie, movie move, move part
+I:28;352;be, overall, identity, movie, find, appealing, unique, be overall, overall identity, identity movie, movie find, find appealing, appealing unique
+I:28;353;depth, spirit, universe, create, film, depth spirit, spirit universe, universe create, create film
+I:28;354;be, dated, beautiful, additional, example, be dated, dated beautiful, beautiful additional, additional example
+I:28;355;similar, scope, story, line, classic, movie, deal, more, robot, future, evolution, humanity, similar scope, scope story, story line, line classic, classic movie, movie deal, deal more, more robot, robot future, future evolution, evolution humanity
+I:28;356;brillant, color, mixture, retro, brillant color, color mixture, mixture retro
+I:28;357;kiddy, character, design, cgi, graphic, make, undeniable, work, art, kiddy character, character design, design cgi, cgi graphic, graphic make, make undeniable, undeniable work, work art
+I:28;358;visual, be, say, least, intense, eye, visual be, be say, say least, least intense, intense eye
+I:28;359;movie, start, large, banquet, city, movie start, start large, large banquet, banquet city
+I:28;360;numerous, element, collide, think, numerous element, element collide, collide think
+I:28;361;friend/enemy, be, design, android, friend/enemy be, be design, design android
+I:28;362;jazzy, song, accompany, movie, be, appropriate, help, create, retro, jazzy song, song accompany, accompany movie, movie be, be appropriate, appropriate help, help create, create retro
+I:28;363;numerous, memorable, character, movie, be, seal, seam, numerous memorable, memorable character, character movie, movie be, be seal, seal seam
+I:28;364;be, favorite, character, psychosis, hate, robot, love, father, unshakeable, determination, sacrifice, make, memorable, wonderful, character, be favorite, favorite character, character psychosis, psychosis hate, hate robot, robot love, love father, father unshakeable, unshakeable determination, determination sacrifice, sacrifice make, make memorable, memorable wonderful, wonderful character
+I:28;365;recommend, movie, anyone, recommend movie, movie anyone
+I:28;366;fan, enjoy, eye, fan enjoy, enjoy eye
+I:28;367;candy, challenge, try, answer, question, raise, candy challenge, challenge try, try answer, answer question, question raise
+I:28;368;anime, have, nothing, do, masterpiece, same, name, understand, japanese, version, be, inspire, see, poster, german, classic, anime have, have nothing, nothing do, do masterpiece, masterpiece same, same name, name understand, understand japanese, japanese version, version be, be inspire, inspire see, see poster, poster german, german classic
+I:28;369;think, anime, stand, be, own, think anime, anime stand, stand be, be own
+I:28;370;fact, bear, eerie, resemblance, fact bear, bear eerie, eerie resemblance
+I:28;371;nostalgic, visual, be, augmented, vintage, jazz, music, nostalgic visual, visual be, be augmented, augmented vintage, vintage jazz, jazz music
+I:28;372;cell, be, be, overlay, dazzling, computer, graphic, cell be, be be, be overlay, overlay dazzling, dazzling computer, computer graphic
+I:28;373;be, pure, eye, candy, be pure, pure eye, eye candy
+I:28;374;story, be, lush, layered, story be, be lush, lush layered
+I:28;375;story, be, engaging, think, provoke, story be, be engaging, engaging think, think provoke
+I:28;376;exception, last, minute, be, execute, exception last, last minute, minute be, be execute
+I:28;377;anime, be, much, detail, give, sub, anime be, be much, much detail, detail give, give sub
+I:28;378;feel, be, give, thicker, heavier, story, be, satisfying, feel be, be give, give thicker, thicker heavier, heavier story, story be, be satisfying
+I:28;379;be, great, fodder, fan, hero, face, be great, great fodder, fodder fan, fan hero, hero face
+I:28;380;fantasy, core, fantasy core
+I:28;381;fi, be, make, exciting, fi be, be make, make exciting
+I:28;382;be, best, anime, have, see, be best, best anime, anime have, have see
+I:28;383;strange, mix, high, cutesy, take, animated, feature, uncharted, territory, strange mix, mix high, high cutesy, cutesy take, take animated, animated feature, feature uncharted, uncharted territory
+I:28;384;childhood, innocence, hit, wall, cynicism, war, beautiful, animated, feature, childhood innocence, innocence hit, hit wall, wall cynicism, cynicism war, war beautiful, beautiful animated, animated feature
+I:28;385;be, everyone, final, love, be everyone, everyone final, final love
+I:28;386;be, something, twisted, super, be something, something twisted, twisted super
+I:28;387;inhibition, anime, be, gloom, doom, post, inhibition anime, anime be, be gloom, gloom doom, doom post
+I:28;388;achieve, be, intricate, story, work, provide, comprehension, be, willing, work, achieve be, be intricate, intricate story, story work, work provide, provide comprehension, comprehension be, be willing, willing work
+I:28;389;desire, more, knock, be, superb, combination, 2d, computer, generate, imagery, aspire, integrate, story, world, desire more, more knock, knock be, be superb, superb combination, combination 2d, 2d computer, computer generate, generate imagery, imagery aspire, aspire integrate, integrate story, story world
+I:28;390;best, part, story, be, have, semi, best part, part story, story be, be have, have semi
+I:28;391;city, be, ruin, be, hope, be, hope, be, least, happy, ending, city be, be ruin, ruin be, be hope, hope be, be hope, hope be, be least, least happy, happy ending
+I:28;392;sport, enjoyable, interesting, soundtrack, use, american, jazz, stop, loving, climactic, sequence, film, reminiscent, use, meet, sequence, sport enjoyable, enjoyable interesting, interesting soundtrack, soundtrack use, use american, american jazz, jazz stop, stop loving, loving climactic, climactic sequence, sequence film, film reminiscent, reminiscent use, use meet, meet sequence
+I:28;393;draw, silent, film, be, stunning, achievement, anime, draw silent, silent film, film be, be stunning, stunning achievement, achievement anime
+I:28;394;be, entertain, satisfied, let, critical, disdain, anime, fall, enjoy, remarkable, animated, feature, be entertain, entertain satisfied, satisfied let, let critical, critical disdain, disdain anime, anime fall, fall enjoy, enjoy remarkable, remarkable animated, animated feature
+I:28;395;price, be, great, deal, price be, be great, great deal
+I:28;396;metropolis, be, metropolis be
+I:28;397;do, film, tell, animator, go, great, length, preserve, original, character, design, do film, film tell, tell animator, animator go, go great, great length, length preserve, preserve original, original character, character design
+I:28;398;soundtrack, film, sound, lot, jazz, help, evoke, certain, ambience, film, soundtrack film, film sound, sound lot, lot jazz, jazz help, help evoke, evoke certain, certain ambience, ambience film
+I:28;399;think, melding, past, future, add, layer, film, think melding, melding past, past future, future add, add layer, layer film
+I:28;400;audience, have, greatest, appreciation, film, be, older, teenager, adult, audience have, have greatest, greatest appreciation, appreciation film, film be, be older, older teenager, teenager adult
+I:28;401;movie, be, clear, difference, sharp, movie be, be clear, clear difference, difference sharp
+I:28;402;be, movie, contrast, many, way, graphic, be, start, be movie, movie contrast, contrast many, many way, way graphic, graphic be, be start
+I:28;403;have, human, worker, care, upset, have human, human worker, worker care, care upset
+I:28;404;human, have, life, art, deco, elegance, ease, great, jazz, human have, have life, life art, art deco, deco elegance, elegance ease, ease great, great jazz
+I:28;405;midst, come, human, tale, love, hate, midst come, come human, human tale, tale love, love hate
+I:28;406;be, adopted, son, head, faction, be adopted, adopted son, son head, head faction
+I:28;407;want, be, love, do, job, kill, want be, be love, love do, do job, job kill
+I:28;408;pi, classic, detective, bring, nephew, help, pi classic, classic detective, detective bring, bring nephew, nephew help
+I:28;409;hook, cyborg, hook cyborg
+I:28;410;movie, have, vault, ambition, lot, ground, cover, movie have, have vault, vault ambition, ambition lot, lot ground, ground cover
+I:28;411;get, shoot, heart, look, hole, have, hold, soul, life, get shoot, shoot heart, heart look, look hole, hole have, have hold, hold soul, soul life
+I:28;412;be, ambitious, experiment, many, level, serve, model, inspiration, year, come, be ambitious, ambitious experiment, experiment many, many level, level serve, serve model, model inspiration, inspiration year, year come
+I:28;413;character, be, character be
+I:28;414;aim, be, stellar, work, art, flaw, inspire, artist, year, come, aim be, be stellar, stellar work, work art, art flaw, flaw inspire, inspire artist, artist year, year come
+I:28;415;movie, be, top, favorite, have, captivating, scene, story, be, great, movie be, be top, top favorite, favorite have, have captivating, captivating scene, scene story, story be, be great
+I:28;416;have, love, film, long, time, have love, love film, film long, long time
+I:28;417;great, addition, collection, great addition, addition collection
+I:28;418;extra, be, informative, learn, great, deal, entire, project, extra be, be informative, informative learn, learn great, great deal, deal entire, entire project
+I:28;419;say, major, achievement, designer, be, portray, robot, girl, be, essential, movie, say major, major achievement, achievement designer, designer be, be portray, portray robot, robot girl, girl be, be essential, essential movie
+I:28;420;great, picture, stare, radiant, light, great picture, picture stare, stare radiant, radiant light
+I:28;421;lucky, break, be, wonderful, lucky break, break be, be wonderful
+I:28;422;anticipate, fall, latter, find, hypnotize, image, entranced, character, stop, watch, anticipate fall, fall latter, latter find, find hypnotize, hypnotize image, image entranced, entranced character, character stop, stop watch
+I:28;423;starter, look, spectacular, starter look, look spectacular
+I:28;424;use, cityscape, architecture, describe, scale, one, use cityscape, cityscape architecture, architecture describe, describe scale, scale one
+I:28;425;shot, be, multus, shot be, be multus
+I:28;426;more, worthy, effort, more worthy, worthy effort
+I:28;427;be, demonstration, respect, be, tour, be demonstration, demonstration respect, respect be, be tour
+I:28;428;force, own, talent, director, character, career, date, force own, own talent, talent director, director character, character career, career date
+I:28;429;character, animation, be, irresistible, character animation, animation be, be irresistible
+I:28;430;cute, character, unsentimental, delivery, cute character, character unsentimental, unsentimental delivery
+I:28;431;most, interesting, be, non, most interesting, interesting be, be non
+I:28;432;glance, smile, character, glance smile, smile character
+I:28;433;be, character, keep, watch, be character, character keep, keep watch
+I:28;434;level, destruction, be, anyone, sensitive, sight, collapse, building, post, etc., think, level destruction, destruction be, be anyone, anyone sensitive, sensitive sight, sight collapse, collapse building, building post, post etc., etc. think
+I:28;435;body, count, be, high, mechanical, robot, dodge, censorship, rating, problem, body count, count be, be high, high mechanical, mechanical robot, robot dodge, dodge censorship, censorship rating, rating problem
+I:28;436;nothing, special, aficionado, nothing special, special aficionado
+I:28;437;do, guess, steal, several, major, element, classic, do guess, guess steal, steal several, several major, major element, element classic
+I:28;438;come, people, give, credit, be, due, come people, people give, give credit, credit be, be due
+I:28;439;be, publish, be, set, year, be publish, publish be, be set, set year
+I:28;440;love, best, be, stick, close, original, design, same, time, combine, cg, fluid, animation, love best, best be, be stick, stick close, close original, original design, design same, same time, time combine, combine cg, cg fluid, fluid animation
+I:28;441;have, be, year, making, know, be, go, look, good, have be, be year, year making, making know, know be, be go, go look, look good
+I:28;442;main, point, be, heavy, detail, main point, point be, be heavy, heavy detail
+I:28;443;everything, be, detail, people, blimb, train, car, be, combine, make, cityscape, easy, get, use, everything be, be detail, detail people, people blimb, blimb train, train car, car be, be combine, combine make, make cityscape, cityscape easy, easy get, get use
+I:28;444;be, play, same, guy, do, voice, hawk, voice, actress, use, do, voice, be play, play same, same guy, guy do, do voice, voice hawk, hawk voice, voice actress, actress use, use do, do voice
+I:28;445;everything, be, production, design, animation, comparison, history, comic, biography, featurette, interview, everything be, be production, production design, design animation, animation comparison, comparison history, history comic, comic biography, biography featurette, featurette interview
+I:28;446;be, great, film, be, enjoy, age, be great, great film, film be, be enjoy, enjoy age
+I:28;447;recommend, audiance, do, have, knowledge, comic, recommend audiance, audiance do, do have, have knowledge, knowledge comic
+I:28;448;come, film, high, expectation, jacket, have, plug, less, read, be, new, milestone, come film, film high, high expectation, expectation jacket, jacket have, have plug, plug less, less read, read be, be new, new milestone
+I:28;449;have, beauty, power, mystery, have beauty, beauty power, power mystery
+I:28;450;image, movie, stay, image movie, movie stay
+I:28;451;be, greatest, anime, flick, be, curious, know, people, have, see, recent, final, movie, compare, be greatest, greatest anime, anime flick, flick be, be curious, curious know, know people, people have, have see, see recent, recent final, final movie, movie compare
+I:28;452;level, detail, realism, set, background, final, exceed, mind, be, do, level detail, detail realism, realism set, set background, background final, final exceed, exceed mind, mind be, be do
+I:28;453;have, be, say, think, be, appealing, stunning, animated, movie, worth, see, be, anime, animation, general, have be, be say, say think, think be, be appealing, appealing stunning, stunning animated, animated movie, movie worth, worth see, see be, be anime, anime animation, animation general
+I:28;454;picture, character, end, anime, picture character, character end, end anime
+I:28;455;be, become, world, best, be become, become world, world best
+I:28;456;sharp, class, difference, contribute, tension, world, hand, power, hungry, sharp class, class difference, difference contribute, contribute tension, tension world, world hand, hand power, power hungry
+I:28;457;find, throe, celebration, find throe, throe celebration
+I:28;458;have, complete, tall, building, central, tower, conceal, solar, weapon, make, city, capital, world, ruler, have complete, complete tall, tall building, building central, central tower, tower conceal, conceal solar, solar weapon, weapon make, make city, city capital, capital world, world ruler
+I:28;459;intricate, politics, be, base, tier, intricate politics, politics be, be base, base tier
+I:28;460;upper, class, vast, impoverish, lower, class, robot, upper class, class vast, vast impoverish, impoverish lower, lower class, class robot
+I:28;461;be, great, conflict, role, robot, be great, great conflict, conflict role, role robot
+I:28;462;result, conflagration, catapult, wild, race, life, result conflagration, conflagration catapult, catapult wild, wild race, race life
+I:28;463;way, get, see, much, underground, bring, home, social, message, way get, get see, see much, much underground, underground bring, bring home, home social, social message
+I:28;464;do, know, be, human, find, be, capable, wonder, love, fear, do know, know be, be human, human find, find be, be capable, capable wonder, wonder love, love fear
+I:28;465;be, artwork, remarkable, be, exquisite, piece, animation, combine, be artwork, artwork remarkable, remarkable be, be exquisite, exquisite piece, piece animation, animation combine
+I:28;466;agile, eye, pick, new, detail, watch, agile eye, eye pick, pick new, new detail, detail watch
+I:28;467;music, be, satisfy, music be, be satisfy
+I:28;468;be, interesting, refuse, have, story, make, film, life, be interesting, interesting refuse, refuse have, have story, story make, make film, film life
+I:28;469;like, happy, like happy
+I:28;470;art, take, time, get, use, do, appreciate, originality, character, art take, take time, time get, get use, use do, do appreciate, appreciate originality, originality character
+I:28;471;boy, villian, first, glance, realize, love, father, hour, watch, scene, boy villian, villian first, first glance, glance realize, realize love, love father, father hour, hour watch, watch scene
+I:28;472;be, alot, gunshot, disturbing, scene, lose, human, skin, coverage, go, wild, gun, be alot, alot gunshot, gunshot disturbing, disturbing scene, scene lose, lose human, human skin, skin coverage, coverage go, go wild, wild gun
+I:28;473;art, be, amazing, music, art be, be amazing, amazing music
+I:28;474;be, big, fan, jazz, blues, stop, loving, song, ziggarut, crumble, be, ironic, be, amazing, add, mood, be big, big fan, fan jazz, jazz blues, blues stop, stop loving, loving song, song ziggarut, ziggarut crumble, crumble be, be ironic, ironic be, be amazing, amazing add, add mood
+I:28;475;give, star, say, be, worth, see, visual, give star, star say, say be, be worth, worth see, see visual
+I:28;476;amazing, stunning, beautiful, amazing stunning, stunning beautiful
+I:28;477;whit, good, story, retro, futurisic, look, make, anime, best, make, whit good, good story, story retro, retro futurisic, futurisic look, look make, make anime, anime best, best make
+I:28;478;have, miss, recomm, go, see, have miss, miss recomm, recomm go, go see
+I:28;479;little, plot, take, place, city, future, little plot, plot take, take place, place city, city future
+I:28;480;see, be, say, see be, be say
+I:28;481;be, do, thing, adore, thing, like, such, thing, do, care, be do, do thing, thing adore, adore thing, thing like, like such, such thing, thing do, do care
+I:28;482;do, modernize, manga, modern, savvy, audience?well, start, bring, anime, manga, heavyweight, such, do modernize, modernize manga, manga modern, modern savvy, savvy audience?well, audience?well start, start bring, bring anime, anime manga, manga heavyweight, heavyweight such
+I:28;483;add, opulent, character, scenery, design, lush, animation, healthy, dose, cut, edge, cgi, add opulent, opulent character, character scenery, scenery design, design lush, lush animation, animation healthy, healthy dose, dose cut, cut edge, edge cgi
+I:28;484;finish, range, eclectic, soundtrack, have, get, finish range, range eclectic, eclectic soundtrack, soundtrack have, have get
+I:28;485;film, be, drive, duality, film be, be drive, drive duality
+I:28;486;modern, style, blend, element, art, deco, futuristic, technology, modern style, style blend, blend element, element art, art deco, deco futuristic, futuristic technology
+I:28;487;human, character, be, emotional, feat, accomplish, animation, match, robot, be, most, part, cold, emotionless, human character, character be, be emotional, emotional feat, feat accomplish, accomplish animation, animation match, match robot, robot be, be most, most part, part cold, cold emotionless
+I:28;488;be, powerful, element, work, framework, story, be powerful, powerful element, element work, work framework, framework story
+I:28;489;feel, visual, overpower, storyline, feel visual, visual overpower, overpower storyline
+I:28;490;be, fan, most, part, blended, traditional, animation, be fan, fan most, most part, part blended, blended traditional, traditional animation
+I:28;491;song, make, friend, look, other, giant, question, mark, head, be, powerful, statement, song make, make friend, friend look, look other, other giant, giant question, question mark, mark head, head be, be powerful, powerful statement
+I:28;492;enjoy, film, tell, anything, friend, do, enjoy film, film tell, tell anything, anything friend, friend do
+I:28;493;try, catch, big, screen, try catch, catch big, big screen
+I:28;494;action, sequence, be, space, cause, be, few, slow, spot, experience, be, wait, action sequence, sequence be, be space, space cause, cause be, be few, few slow, slow spot, spot experience, experience be, be wait
+I:28;495;animation, be, graphic, directing, music, make, visual, treat, animation be, be graphic, graphic directing, directing music, music make, make visual, visual treat
+I:28;496;director, stick, more, visual, character, stay, plot, turn, great, director stick, stick more, more visual, visual character, character stay, stay plot, plot turn, turn great
+I:28;497;be, sacred, story, love, be sacred, sacred story, story love
+I:28;498;have, beauty, power, mystery, have beauty, beauty power, power mystery
+I:28;499;image, film, stay, image film, film stay
+I:28;500;recommend, film, anybody, recommend film, film anybody
+I:28;501;have, feel, oldy, character, move, be, amazing, have feel, feel oldy, oldy character, character move, move be, be amazing
+I:28;502;beautiful, blend, animation, beautiful blend, blend animation
+I:28;503;d, computer, animation, be, astounding, d computer, computer animation, animation be, be astounding
+I:28;504;character, story, action, thrill, character story, story action, action thrill
+I:28;505;like, animation, find, style, compliment, other, like animation, animation find, find style, style compliment, compliment other
+I:28;506;think, music, compliment, film, think music, music compliment, compliment film
+I:28;507;feel, film, provide, good, message, identity, lesser, extent, social, class, feel film, film provide, provide good, good message, message identity, identity lesser, lesser extent, extent social, social class
+I:28;508;awesome, movie, great, visual, color, awesome movie, movie great, great visual, visual color
+I:28;509;be, bit, surprised, be bit, bit surprised
+I:28;510;packaging, disc, be, attractive, functional, packaging disc, disc be, be attractive, attractive functional
+I:28;511;have, hear, good, thing, give, have hear, hear good, good thing, thing give
+I:28;512;ending, be, typical, anime, satisfy, ending be, be typical, typical anime, anime satisfy
+I:28;513;anime, good, visual, like, movie, anime good, good visual, visual like, like movie
+I:28;514;be, decent, flick, be decent, decent flick
+I:28;515;have, watch, special, feature, assume, be, decent, par, other, movie/anime, special, feature, have watch, watch special, special feature, feature assume, assume be, be decent, decent par, par other, other movie/anime, movie/anime special, special feature
+I:28;516;watch, movie, keep, find, say, wow, watch movie, movie keep, keep find, find say, say wow
+I:28;517;visual, movie, be, top, visual movie, movie be, be top
+I:28;518;real, pull, movie, be, attach, viewer, become, character, real pull, pull movie, movie be, be attach, attach viewer, viewer become, become character
+I:28;519;term, great, movie, be, winner, term great, great movie, movie be, be winner
+I:28;520;be, emotional, piece, hit, button, other, movie, similar, idea, a., instance, miss, be emotional, emotional piece, piece hit, hit button, button other, other movie, movie similar, similar idea, idea a., a. instance, instance miss
+I:28;521;be, impressive, be impressive
+I:28;522;visual, look, rich, beautiful, visual look, look rich, rich beautiful
+I:28;523;fame, be, compose, fame be, be compose
+I:28;524;world, character, design, be, excellent, world character, character design, design be, be excellent
+I:28;525;film, be, star, artistic, achievement, effort, film be, be star, star artistic, artistic achievement, achievement effort
+I:28;526;be, rich, visual, creativity, be rich, rich visual, visual creativity
+I:28;527;manga, movie, base, be, protest, such, thinking, manga movie, movie base, base be, be protest, protest such, such thinking
+I:28;528;heart, city, be, human, heart, flaw, merit, go, heart city, city be, be human, human heart, heart flaw, flaw merit, merit go
+I:28;529;like, supplimental, material, explain, important, thought, event, production, include, coment, interview, director, staff, member, cast, like supplimental, supplimental material, material explain, explain important, important thought, thought event, event production, production include, include coment, coment interview, interview director, director staff, staff member, member cast
+I:28;530;course, story, be, great, interesting, course story, story be, be great, great interesting
+I:28;531;step, hop, exciting, ride, adventure, life, time, step hop, hop exciting, exciting ride, ride adventure, adventure life, life time
+I:28;532;film, story, have, be, bring, go, film story, story have, have be, be bring, bring go
+I:28;533;character, be, something, gleam, character be, be something, something gleam
+I:28;534;be, credit, superb, animation, talented, japanese, english, voice, cast, be credit, credit superb, superb animation, animation talented, talented japanese, japanese english, english voice, voice cast
+I:28;535;be, easy, fall, love, character, be easy, easy fall, fall love, love character
+I:28;536;rarity, movie, rarity movie
+I:28;537;animation, be, real, star, show, animation be, be real, real star, star show
+I:28;538;bland, extraordinary, cgi, traditional, bland extraordinary, extraordinary cgi, cgi traditional
+I:28;539;style, character, artwork, teem, powerful, simple, energy, radiate, cell, animation, style character, character artwork, artwork teem, teem powerful, powerful simple, simple energy, energy radiate, radiate cell, cell animation
+I:28;540;do, know, vivid, alive, real, do know, know vivid, vivid alive, alive real
+I:28;541;land, jazz, play, background, foreground, entire, film, land jazz, jazz play, play background, background foreground, foreground entire, entire film
+I:28;542;capture, everything, movie, capture everything, everything movie
+I:28;543;say, piece, say piece
+I:28;544;meet, meet, film, lotsa, fine, art, deco, meet meet, meet film, film lotsa, lotsa fine, fine art, art deco
+I:28;545;peeter, inspire, urban, skyscraper, landscape, rendering, peeter inspire, inspire urban, urban skyscraper, skyscraper landscape, landscape rendering
+I:28;546;stylish, be, incomprehensible, stylish be, be incomprehensible
+I:28;547;watch, merit, watch, watch merit, merit watch
+I:28;548;movie, be, cool, movie be, be cool
+I:28;549;character, be, develop, character be, be develop
+I:28;550;reccomend, see, reccomend see
+I:28;551;work, film, work film
+I:28;552;be, do, get, amazing, work, art, be do, do get, get amazing, amazing work, work art
+I:28;553;visual, movie, be, unparalleled, animated, movie, have, see, visual movie, movie be, be unparalleled, unparalleled animated, animated movie, movie have, have see
+I:28;554;include, other, computer, animated, movie, include other, other computer, computer animated, animated movie
+I:28;555;art, movie, be, beautiful, leave, jaw, floor, art movie, movie be, be beautiful, beautiful leave, leave jaw, jaw floor
+I:28;556;story, work, video, game, story work, work video, video game
+I:28;557;story, be, strong, character, add, story, art, story be, be strong, strong character, character add, add story, story art
+I:28;558;know, previous, work, be, fan, director, classic, x, be, excite, afraid, watch, movie, know previous, previous work, work be, be fan, fan director, director classic, classic x, x be, be excite, excite afraid, afraid watch, watch movie
+I:28;559;sound, movie, be, excellent, sound, effect, music, be, choose, matter, say, music, last, scene, be, get, everything, character, situation, point, sound movie, movie be, be excellent, excellent sound, sound effect, effect music, music be, be choose, choose matter, matter say, say music, music last, last scene, scene be, be get, get everything, everything character, character situation, situation point
+I:28;560;plot, extraordinary, be, arrange, build, large, background, keep, everything, right, place, plot extraordinary, extraordinary be, be arrange, arrange build, build large, large background, background keep, keep everything, everything right, right place
+I:28;561;less.you, be, impress, imagery, simple, attractive, plot, watch, chance, check, classical, work, less.you be, be impress, impress imagery, imagery simple, simple attractive, attractive plot, plot watch, watch chance, chance check, check classical, classical work
+I:28;562;way, be, treat, way be, be treat
+I:28;563;realistic, style, choose, be, deliberate, invoke, specific, contrast, realistic style, style choose, choose be, be deliberate, deliberate invoke, invoke specific, specific contrast
+I:28;564;conclusion, movie, be, saturate, visual, great, jazzy, music, think, appropriate, use, cant, stop, love, end, contain, story, search, self, fantastical, world, conclusion movie, movie be, be saturate, saturate visual, visual great, great jazzy, jazzy music, music think, think appropriate, appropriate use, use cant, cant stop, stop love, love end, end contain, contain story, story search, search self, self fantastical, fantastical world
+I:28;565;see, movie, fan, open, eye, see movie, movie fan, fan open, open eye
+I:28;566;be, lot, go, film, be lot, lot go, go film
+I:28;567;movie, be, best, movie be, be best
+I:28;568;best, best, anime, animated, film, best best, best anime, anime animated, animated film
+I:28;569;cinematography, film, be, amazing, hope, be, director, hope, mimic, angle, use, cinematography film, film be, be amazing, amazing hope, hope be, be director, director hope, hope mimic, mimic angle, angle use
+I:28;570;animation, be, crisp, clear, bright, cheerful, color, use, movie, be, happy, dark, morose, color, use, turn, sad, animation be, be crisp, crisp clear, clear bright, bright cheerful, cheerful color, color use, use movie, movie be, be happy, happy dark, dark morose, morose color, color use, use turn, turn sad
+I:28;571;meeting, signify, rise, action, climax, occur, be, think, best, point, film, meeting signify, signify rise, rise action, action climax, climax occur, occur be, be think, think best, best point, point film
+I:28;572;work, work, work work
+I:28;573;be, surprise, dub, more, sub, be surprise, surprise dub, dub more, more sub
+I:28;574;be, solid, release, worthy, anime, movie, collector, be solid, solid release, release worthy, worthy anime, anime movie, movie collector
+I:28;575;be, impressive, movie, be impressive, impressive movie
+I:28;576;be, produce, be, story, struggle, humanity, humanity, technology, inner, struggle, heart, be produce, produce be, be story, story struggle, struggle humanity, humanity humanity, humanity technology, technology inner, inner struggle, struggle heart
+I:28;577;reign, city, have, create, powerful, robotic, entity, superseede, ordinary, clunky, robot, reign city, city have, have create, create powerful, powerful robotic, robotic entity, entity superseede, superseede ordinary, ordinary clunky, clunky robot
+I:28;578;good, great, story, good great, great story
+I:28;579;use, cgi, generate, cold, towering, city, skyline, be, interesting, contrast, old, use cgi, cgi generate, generate cold, cold towering, towering city, city skyline, skyline be, be interesting, interesting contrast, contrast old
+I:28;580;let, say, animation, be, wonderful, let say, say animation, animation be, be wonderful
+I:28;581;generate, animation, feel, be, use, great, effect, movie, generate animation, animation feel, feel be, be use, use great, great effect, effect movie
+I:28;582;addition, animation, like, special, feature, be, bundle, movie, addition animation, animation like, like special, special feature, feature be, be bundle, bundle movie
+I:28;583;reason, get, star, reason get, get star
+I:28;584;seem, develop, character, be, be, intend, be, third, seem develop, develop character, character be, be be, be intend, intend be, be third
+I:28;585;seasoned, anime, fan, know, be, unreasonable, expect, happy, ending, be, expect, least, some, resolution, seasoned anime, anime fan, fan know, know be, be unreasonable, unreasonable expect, expect happy, happy ending, ending be, be expect, expect least, least some, some resolution
+I:28;586;be, touching, sci, be touching, touching sci
+I:28;587;animation, have, animation have
+I:28;588;be, great, title, pre, be great, great title, title pre
+I:28;589;be, shame, anime, be, consider, best, film, script, film, festival, be, amazing, work, be shame, shame anime, anime be, be consider, consider best, best film, film script, script film, film festival, festival be, be amazing, amazing work
+I:28;590;be, intense, situation, gunfight, blood, like, be intense, intense situation, situation gunfight, gunfight blood, blood like
+I:28;591;be, entitle, year, cartoon, be, modest, volume, size, page, count, be, pack, dazzile, color, illustration, important, pioneer, japanese, comic, be entitle, entitle year, year cartoon, cartoon be, be modest, modest volume, volume size, size page, page count, count be, be pack, pack dazzile, dazzile color, color illustration, illustration important, important pioneer, pioneer japanese, japanese comic
+I:28;592;last, year, have, marvel, beauty, artwork, creative, vision, last year, year have, have marvel, marvel beauty, beauty artwork, artwork creative, creative vision
+I:28;593;return, present, see, film, version, capture, visual, splendor, captivate, return present, present see, see film, film version, version capture, capture visual, visual splendor, splendor captivate
+I:28;594;be, remarkable, snapshot, world, dazzling, future, universe, automobile, co., exist, super, science, robot, fight, oppression, discrimination, android, have, soul, execute, brilliant, color, simple, presentation, reminiscent, animated, cartoon, be remarkable, remarkable snapshot, snapshot world, world dazzling, dazzling future, future universe, universe automobile, automobile co., co. exist, exist super, super science, science robot, robot fight, fight oppression, oppression discrimination, discrimination android, android have, have soul, soul execute, execute brilliant, brilliant color, color simple, simple presentation, presentation reminiscent, reminiscent animated, animated cartoon
+I:28;595;release, film, several, other, project, print, film, gain, recognition, deserve, release film, film several, several other, other project, project print, print film, film gain, gain recognition, recognition deserve
+I:28;596;fancy, artist, boy, fancy artist, artist boy
+I:28;597;story, have, great, amount, real, life, history, worth, anyone, enjoy, dabble, detail, more, watch, story have, have great, great amount, amount real, real life, life history, history worth, worth anyone, anyone enjoy, enjoy dabble, dabble detail, detail more, more watch
+I:28;598;animated, movie, supurb, animated movie, movie supurb
+I:28;599;true, style, characteristic, expect, original, write, story, present, japanese, accurate, plot, modern, time, be, date, cgi, other, graphic, be, make, today, standard, true style, style characteristic, characteristic expect, expect original, original write, write story, story present, present japanese, japanese accurate, accurate plot, plot modern, modern time, time be, be date, date cgi, cgi other, other graphic, graphic be, be make, make today, today standard
+I:28;600;music, choice, be, perfect, create, authentic, style, jazz/rag, music choice, choice be, be perfect, perfect create, create authentic, authentic style, style jazz/rag
+I:28;601;be, time, come, something, make, become, instant, classic, be, be time, time come, come something, something make, make become, become instant, instant classic, classic be
+I:28;602;love, animated, film, be, look, be, release, search, get, sit, be, bored, love animated, animated film, film be, be look, look be, be release, release search, search get, get sit, sit be, be bored
+I:28;603;sit, watch, film, cultural, baggage, be, surprise, sit watch, watch film, film cultural, cultural baggage, baggage be, be surprise
+I:28;604;be, story, be story
+I:28;605;be, sure, film, be, love, japanese, animated, movie, be sure, sure film, film be, be love, love japanese, japanese animated, animated movie
+I:28;606;take, chance, buy, justgot, watch, take chance, chance buy, buy justgot, justgot watch
+I:28;607;disc, have, great, animation, be, fun, watch!from, firework, go, spectacular, ending, movie, disc have, have great, great animation, animation be, be fun, fun watch!from, watch!from firework, firework go, go spectacular, spectacular ending, ending movie
+I:28;608;detail, breathtaking, detail breathtaking
+I:28;609;gasp, awe, gasp awe
+I:28;610;director, lift, scene, idea, element, be, homage, director lift, lift scene, scene idea, idea element, element be, be homage
+I:28;611;story, be, convoluted, hard, follow, fabulous, image, make, something, worth, see, story be, be convoluted, convoluted hard, hard follow, follow fabulous, fabulous image, image make, make something, something worth, worth see
+I:28;612;second, mini, disc, include, animax, special, making, interview, concept, art, second mini, mini disc, disc include, include animax, animax special, special making, making interview, interview concept, concept art
+I:28;613;be, favorite, film, time, be, wonder, people, give, star, have, say, be favorite, favorite film, film time, time be, be wonder, wonder people, people give, give star, star have, have say
+I:28;614;be, simple, reasonable, explanation, be simple, simple reasonable, reasonable explanation
+I:28;615;animation, style, mimic, artwork, give, retro, feel, animation style, style mimic, mimic artwork, artwork give, give retro, retro feel
+I:28;616;expect, anything, original, film, deliver, storyline, be, similar, many, other, better, expect anything, anything original, original film, film deliver, deliver storyline, storyline be, be similar, similar many, many other, other better
+I:28;617;be, brilliant, film, flaw, be brilliant, brilliant film, film flaw
+I:28;618;end, be, kind, sad, see, android, have, fall, die, be, nice, love, boy, name, end be, be kind, kind sad, sad see, see android, android have, have fall, fall die, die be, be nice, nice love, love boy, boy name
+I:28;619;second, first, start, watch, be, impressed, intruigued, story, unfold, start, know, charactor, get, better, better, keep, go, quolity, second first, first start, start watch, watch be, be impressed, impressed intruigued, intruigued story, story unfold, unfold start, start know, know charactor, charactor get, get better, better better, better keep, keep go, go quolity
+I:28;620;keep, interested, wander, happen, next, keep interested, interested wander, wander happen, happen next
+I:28;621;cute, curious, female, lead, cute curious, curious female, female lead
+I:28;622;have, sort, air, make, love, charactor, have sort, sort air, air make, make love, love charactor
+I:28;623;ichi, detective, uncle, great, team, be, seperate, most, movie, ichi detective, detective uncle, uncle great, great team, team be, be seperate, seperate most, most movie
+I:28;624;be, robot, cool, sweet, innocent, being, help, freind, journey, be robot, robot cool, cool sweet, sweet innocent, innocent being, being help, help freind, freind journey
+I:28;625;animation, be, sort, tribute, early, anime, give, cool, feel, view, animation be, be sort, sort tribute, tribute early, early anime, anime give, give cool, cool feel, feel view
+I:28;626;watch, alot, movie, alot, anime, know, great, anime, see, be, great, movie, anime, genra, be, great, movie, watch alot, alot movie, movie alot, alot anime, anime know, know great, great anime, anime see, see be, be great, great movie, movie anime, anime genra, genra be, be great, great movie
+I:28;627;bring, whole, new, era, anime, doubt, be, better, wonderful, film, bring whole, whole new, new era, era anime, anime doubt, doubt be, be better, better wonderful, wonderful film
+I:28;628;faceted, artwork, dystopian, big, city, backdrop, faceted artwork, artwork dystopian, dystopian big, big city, city backdrop
+I:28;629;buy, get, better, lead, tv, buy get, get better, better lead, lead tv
+I:28;630;be, more, interesting, anime, have, see, be, pleased, be, make, be more, more interesting, interesting anime, anime have, have see, see be, be pleased, pleased be, be make
+I:28;631;have, boy, look, have boy, boy look
+I:28;632;story, be, do, screenplay, story be, be do, do screenplay
+I:28;633;be, man, robot, theme, have, see, many, time, be, execute, be man, man robot, robot theme, theme have, have see, see many, many time, time be, be execute
+I:28;634;character, be, interesting, relatable, world, be, beautiful, flesh, character be, be interesting, interesting relatable, relatable world, world be, be beautiful, beautiful flesh
+I:28;635;have, move, ending, be, unique, due, odd, choice, music, play, climax, see, have move, move ending, ending be, be unique, unique due, due odd, odd choice, choice music, music play, play climax, climax see
+I:28;636;metropolis, be, last, anime, impress, recommend, anyone, love, animation, mature, story, bunch, melodrama, flash, metropolis be, be last, last anime, anime impress, impress recommend, recommend anyone, anyone love, love animation, animation mature, mature story, story bunch, bunch melodrama, melodrama flash
+I:28;637;be, big, fan, anime, point, geekyness, be, geek, want, check, be big, big fan, fan anime, anime point, point geekyness, geekyness be, be geek, geek want, want check
+I:28;638;be, def, top, list, be def, def top, top list
+I:28;639;many, scene, character, be, influence, many scene, scene character, character be, be influence
+I:28;640;know, develop, cult, follow, know develop, develop cult, cult follow
+I:28;641;most, people, say, have, see, particular, version, be, better, other, most people, people say, say have, have see, see particular, particular version, version be, be better, better other
+I:28;642;time, seem, be, little, crazy, know, perfect, moment, time seem, seem be, be little, little crazy, crazy know, know perfect, perfect moment
+I:28;643;like, love, modern, art, like love, love modern, modern art
+I:28;644;film, be, fresh, update, version, give, heavy, nod, old, film be, be fresh, fresh update, update version, version give, give heavy, heavy nod, nod old
+I:28;645;be, bring, fold, worker, get, see, belly, revolution, be bring, bring fold, fold worker, worker get, get see, see belly, belly revolution
+I:28;646;best, friend, rock, be, try, help, best friend, friend rock, rock be, be try, try help
+I:28;647;great, movie, be, anime, be, tight, plot, be, engage, great movie, movie be, be anime, anime be, be tight, tight plot, plot be, be engage
+I:28;648;animation, be, smooth, great, color, voice, acting, be, wonderful, animation be, be smooth, smooth great, great color, color voice, voice acting, acting be, be wonderful
+I:28;649;have, see, movie, many, time, see, time, notice, something, new, have see, see movie, movie many, many time, time see, see time, time notice, notice something, something new
+I:28;650;be, wonderful, nod, original, stand, own, be, love, be wonderful, wonderful nod, nod original, original stand, stand own, own be, be love
+I:28;651;think, happen, look, anime, movie, have, take, place, greatest, anime, film, history, think happen, happen look, look anime, anime movie, movie have, have take, take place, place greatest, greatest anime, anime film, film history
+I:28;652;best, best, be, combine, make, film, do, fantastic, job, best best, best be, be combine, combine make, make film, film do, do fantastic, fantastic job
+I:28;653;character, film, be, develop, many, other, anime, film, character film, film be, be develop, develop many, many other, other anime, anime film
+I:28;654;feel, emotion, get, story, feel emotion, emotion get, get story
+I:28;655;fi, film, include, coarse, film, be, close, solid, plot, film, fi film, film include, include coarse, coarse film, film be, be close, close solid, solid plot, plot film
+I:28;656;cant, say, movie, film, be, great, review, do, justice, cant say, say movie, movie film, film be, be great, great review, review do, do justice
+I:28;657;go, see, movie, go see, see movie
+I:28;658;work, art, work art
+I:28;659;animation, be, beautiful, voice, animation be, be beautiful, beautiful voice
+I:28;660;act, be, do, story, make, sense, act be, be do, do story, story make, make sense
+I:28;661;beautiful, worth, it!if, love, robot, movie, be, good, enjoy, beauty, old, school, anime, style, fluidity, animation, appreciate, movie, imagine!i, do, want, spoil, much, movie, be, something, watch, least, beautiful worth, worth it!if, it!if love, love robot, robot movie, movie be, be good, good enjoy, enjoy beauty, beauty old, old school, school anime, anime style, style fluidity, fluidity animation, animation appreciate, appreciate movie, movie imagine!i, imagine!i do, do want, want spoil, spoil much, much movie, movie be, be something, something watch, watch least
+I:28;662;film, death, express, wish, film, be, dazzling, beautiful, belief, film death, death express, express wish, wish film, film be, be dazzling, dazzling beautiful, beautiful belief
+I:28;663;use, standard, cell, cgi, animation, combine, director, crew, have, put, stunning, animated, film, release, use standard, standard cell, cell cgi, cgi animation, animation combine, combine director, director crew, crew have, have put, put stunning, stunning animated, animated film, film release
+I:28;664;metropolis, film, be, marvel, beauty, imagination, unbelievable, be, scale, detail, metropolis film, film be, be marvel, marvel beauty, beauty imagination, imagination unbelievable, unbelievable be, be scale, scale detail
+I:28;665;film, open, powerful, corrupt, mogul, name, preside, massive, celebration, mark, completion, mammoth, art, deco, film open, open powerful, powerful corrupt, corrupt mogul, mogul name, name preside, preside massive, massive celebration, celebration mark, mark completion, completion mammoth, mammoth art, art deco
+I:28;666;be, variety, story, go, multitude, positive, negative, relationship, various, character, divergent, class, lead, story, be, final, climax, be variety, variety story, story go, go multitude, multitude positive, positive negative, negative relationship, relationship various, various character, character divergent, divergent class, class lead, lead story, story be, be final, final climax
+I:28;667;build, script, technical, skill, many, traditional, computer, animator, have, create, world, be, recognizable, anyone, familiar, original, film, world, startling, be, level, detail, verve, be, animation, technique, build script, script technical, technical skill, skill many, many traditional, traditional computer, computer animator, animator have, have create, create world, world be, be recognizable, recognizable anyone, anyone familiar, familiar original, original film, film world, world startling, startling be, be level, level detail, detail verve, verve be, be animation, animation technique
+I:28;668;be, familiar, movie, picture, end, be, similar, theme, visual, be familiar, familiar movie, movie picture, picture end, end be, be similar, similar theme, theme visual
+I:28;669;be, draw, largest, nose, have, see, be draw, draw largest, largest nose, nose have, have see
+I:28;670;be, beautiful, watch, have, cool, plot, be beautiful, beautiful watch, watch have, have cool, cool plot
+I:28;671;think, be, sooooooooo, cool, think be, be sooooooooo, sooooooooo cool
+I:28;672;fall, love, music, fall love, love music
+I:28;673;backround, be, detailed, realistic, backround be, be detailed, detailed realistic
+I:28;674;think, do, good, job, mix, cgi, reagualr, 2d, think do, do good, good job, job mix, mix cgi, cgi reagualr, reagualr 2d
+I:28;675;do, like, movie, least, get, soundtrack, cause, be, cool, do like, like movie, movie least, least get, get soundtrack, soundtrack cause, cause be, be cool
+I:28;676;animation, film, be, best, have, see, better, animation film, film be, be best, best have, have see, see better
+I:28;677;lighting, shading, color, pallette, point, perspective, be, spectacular, lighting shading, shading color, color pallette, pallette point, point perspective, perspective be, be spectacular
+I:28;678;best, have, see, best have, have see
+I:28;679;like, fact, people, background, be, static, drawing, be, animated, like fact, fact people, people background, background be, be static, static drawing, drawing be, be animated
+I:28;680;be, story, speak, be story, story speak
+I:28;681;everything, contain, be, execute, time, fall, short, element, such, music, character, design, ground, art, do, integrate, everything contain, contain be, be execute, execute time, time fall, fall short, short element, element such, such music, music character, character design, design ground, ground art, art do, do integrate
+I:28;682;character, design, be, anime, retro, like, character design, design be, be anime, anime retro, retro like
+I:28;683;be, stylized, fun, be stylized, stylized fun
+I:28;684;be, amusing, time, main, emphasis, majestic, scenery, silent, movie, be amusing, amusing time, time main, main emphasis, emphasis majestic, majestic scenery, scenery silent, silent movie
+I:28;685;be, orchestrate, perform, be orchestrate, orchestrate perform
+I:28;686;wise, love, way, third, act, wise love, love way, way third, third act
+I:28;687;want, character, survive, want character, character survive
+I:28;688;have, be, movie, be, breathtaking, look, have be, be movie, movie be, be breathtaking, breathtaking look
+I:28;689;be, lot, love, admire, be, worth, put, library, appreciate, fine, art, animation, be lot, lot love, love admire, admire be, be worth, worth put, put library, library appreciate, appreciate fine, fine art, art animation
+I:28;690;beautiful, animation, film, be, catagory, own, beautiful animation, animation film, film be, be catagory, catagory own
+I:28;691;scenery, character, look, great, scenery character, character look, look great
+I:28;692;be, throw, back, be, amazing, visual, experience, watch, film, be throw, throw back, back be, be amazing, amazing visual, visual experience, experience watch, watch film
+I:28;693;notice, i, say, amazing, visual, experience, notice i, i say, say amazing, amazing visual, visual experience
+I:28;694;star, be, bold, give, reason, star, .1, look, star be, be bold, bold give, give reason, reason star, star .1, .1 look
+I:28;695;beautiful, art, color, cgi, work2, style, many, compare, film, understand, be, moment, sit, beautiful art, art color, color cgi, cgi work2, work2 style, style many, many compare, compare film, film understand, understand be, be moment, moment sit
+I:28;696;break, hold, own, have, basic, element, mystery, romance, adventure, film, break hold, hold own, own have, have basic, basic element, element mystery, mystery romance, romance adventure, adventure film
+I:28;697;be, shine, incredible, score, colorful, canvas, be shine, shine incredible, incredible score, score colorful, colorful canvas
+I:28;698;type, anime, film, serial, experiment, lie, deliver, type anime, anime film, film serial, serial experiment, experiment lie, lie deliver
+I:28;699;special, effect, be, secondary, film, movie, have, more, obvious, weight, effect, department, use, style, grace, special effect, effect be, be secondary, secondary film, film movie, movie have, have more, more obvious, obvious weight, weight effect, effect department, department use, use style, style grace
+I:28;700;come, life, story, do, rest, come life, life story, story do, do rest
+I:28;701;enjoy, bring, home, watch, next, day, enjoy bring, bring home, home watch, watch next, next day
+I:28;702;movie, have, excellent, story, bit, similar, underrated, flick, a., great, jazzy, music, suberb, fluid, animation, movie have, have excellent, excellent story, story bit, bit similar, similar underrated, underrated flick, flick a., a. great, great jazzy, jazzy music, music suberb, suberb fluid, fluid animation
+I:28;703;review, tend, get, bit, gabby, spoiler, keep, unrevealing, possible, review tend, tend get, get bit, bit gabby, gabby spoiler, spoiler keep, keep unrevealing, unrevealing possible
+I:28;704;metropolis, be, huge, city, robot, people, live, man, name, build, huge, tower, call, force, robot, live, underground, serve, people, metropolis be, be huge, huge city, city robot, robot people, people live, live man, man name, name build, build huge, huge tower, tower call, call force, force robot, robot live, live underground, underground serve, serve people
+I:28;705;sound, allot, job, be, bring, peace, human, robot, mighty, peace, ruler, watch, anime, series, sound allot, allot job, job be, be bring, bring peace, peace human, human robot, robot mighty, mighty peace, peace ruler, ruler watch, watch anime, anime series
+I:28;706;story, be, good, ask, question, robot, ai, do, take, control, world, try, destroy, mankind, story be, be good, good ask, ask question, question robot, robot ai, ai do, do take, take control, control world, world try, try destroy, destroy mankind
+I:28;707;animation, be, price, admission, have, good, story, plot, new, animation be, be price, price admission, admission have, have good, good story, story plot, plot new
+I:28;708;best, anime, be, origonal, say, be, anything, less, be, understatement, best anime, anime be, be origonal, origonal say, say be, be anything, anything less, less be, be understatement
+I:28;709;be, deep, emotional, story, think, produce, be deep, deep emotional, emotional story, story think, think produce
+I:28;710;be, people, like, be people, people like
+I:28;711;be, something, go, background, make, look, interesting, be something, something go, go background, background make, make look, look interesting
+I:28;712;design, be, throwback, original, creator, manga, design be, be throwback, throwback original, original creator, creator manga
+I:28;713;character, design, look, feel, work, character design, design look, look feel, feel work
+I:28;714;be, shock, think, nose, suit, be shock, shock think, think nose, nose suit
+I:28;715;be, brilliant, eye, catch, be brilliant, brilliant eye, eye catch
+I:28;716;get, tell, see, blimp, beginning, feel, be, get tell, tell see, see blimp, blimp beginning, beginning feel, feel be
+I:28;717;voice, act, version, be, believable, opinion, better, original, voice act, act version, version be, be believable, believable opinion, opinion better, better original
+I:28;718;emotion, be, rock, robot, sound, great, emotion be, be rock, rock robot, robot sound, sound great
+I:28;719;do, fit, overall, feel, movie, feel, fit, scene, such, final, scene, music, play, stop, loving, do fit, fit overall, overall feel, feel movie, movie feel, feel fit, fit scene, scene such, such final, final scene, scene music, music play, play stop, stop loving
+I:28;720;know, something, good, compliment, know something, something good, good compliment
+I:28;721;xdoverall, think, movie, be, make, xdoverall think, think movie, movie be, be make
+I:28;722;sure, have, be, moment, be, good, part, outshine, rest, sure have, have be, be moment, moment be, be good, good part, part outshine, outshine rest
+I:28;723;no., be, greatest, movie, time, no. be, be greatest, greatest movie, movie time
+I:28;724;detective, nephew, detective nephew
+I:28;725;cool, smooth, talkin, lookin, young, attractive, sharp, shootin, cool smooth, smooth talkin, talkin lookin, lookin young, young attractive, attractive sharp, sharp shootin
+I:28;726;funny, smart, boy, play, hero, be, nephew, funny smart, smart boy, boy play, play hero, hero be, be nephew
+I:28;727;funny, guy, pay, lunch, funny guy, guy pay, pay lunch
+I:28;728;street, fender, owner, be, big, hunkey, strong, guy, street fender, fender owner, owner be, be big, big hunkey, hunkey strong, strong guy
+I:28;729;be, intersting, piece, be intersting, intersting piece
+I:28;730;cool, story, inapropriate, music, emotion, cool story, story inapropriate, inapropriate music, music emotion
+I:28;731;design, write, fantasy, design write, write fantasy
+I:28;732;animation, be, do, combination, cgi, conventional, animation, be, effective, animation be, be do, do combination, combination cgi, cgi conventional, conventional animation, animation be, be effective
+I:28;733;background, general, design, be, bring, life, background general, general design, design be, be bring, bring life
+I:28;734;animation, character, plot, nothing, new, be, accomplish, music, be, best, have, witness, film, be, live, animation character, character plot, plot nothing, nothing new, new be, be accomplish, accomplish music, music be, be best, best have, have witness, witness film, film be, be live
+I:28;735;masterpiece, anime, animated, film, masterpiece, cinema, general, masterpiece anime, anime animated, animated film, film masterpiece, masterpiece cinema, cinema general
+I:28;736;movie, be, stunning, perfect, be, element, movie be, be stunning, stunning perfect, perfect be, be element
+I:28;737;do, favor, check, original, silent, metropolis, do favor, favor check, check original, original silent, silent metropolis
+I:28;738;be, movie, be, good, addition, collection, science, fiction/fantasy, be movie, movie be, be good, good addition, addition collection, collection science, science fiction/fantasy
+I:28;739;artistry, film, be, amazing, artistry film, film be, be amazing
+I:28;740;be, kind, punk, noir, be kind, kind punk, punk noir
+I:28;741;most, sign, film, be, most sign, sign film, film be
+I:28;742;give, go, genre, be, worth, give go, go genre, genre be, be worth
+I:28;743;wow, animation, be, great, forget, character, wow animation, animation be, be great, great forget, forget character
+I:28;744;have, deep, powerful, style, story, set, deep, future, have deep, deep powerful, powerful style, style story, story set, set deep, deep future
+I:28;745;recomend, viewer, recomend viewer
+I:28;746;base, magna, be, memborable, touching, anime, base magna, magna be, be memborable, memborable touching, touching anime
+I:28;747;set, big, city, underground, chamber, graphic, be, spectacular, set big, big city, city underground, underground chamber, chamber graphic, graphic be, be spectacular
+I:28;748;use, cg, cell, bring, breath, take, array, visual, use cg, cg cell, cell bring, bring breath, breath take, take array, array visual
+I:28;749;watch, movie, see, take, year, make, watch movie, movie see, see take, take year, year make
+I:28;750;music, movie, be, spectacular, music movie, movie be, be spectacular
+I:28;751;com, jazz, feel, score, mix, atmosphere, emotion, movie, com jazz, jazz feel, feel score, score mix, mix atmosphere, atmosphere emotion, emotion movie
+I:28;752;use, late, stop, love, final, scene, movie, be, brilliant, fit, theme, be, able, let, go, love, use late, late stop, stop love, love final, final scene, scene movie, movie be, be brilliant, brilliant fit, fit theme, theme be, be able, able let, let go, go love
+I:28;753;metropolis, be, excellent, movie, stay, mind, long, time, metropolis be, be excellent, excellent movie, movie stay, stay mind, mind long, long time
+I:28;754;ending, be, heartbreaking, ending be, be heartbreaking
+I:28;755;recommend, movie, anime, fan, anyone, be, big, movie, fan, recommend movie, movie anime, anime fan, fan anyone, anyone be, be big, big movie, movie fan
+I:28;756;wait, seem, year, see, movie, do, see, live, expectation, wait seem, seem year, year see, see movie, movie do, do see, see live, live expectation
+I:28;757;animation, be, mix, anime, fifty, cartoon, computer, graphic, animation be, be mix, mix anime, anime fifty, fifty cartoon, cartoon computer, computer graphic
+I:28;758;think, blended, think blended
+I:28;759;dubbing, be, good, dubbing be, be good
+I:28;760;character, have, realistic, lovable, character, wear, cool, clothes, character have, have realistic, realistic lovable, lovable character, character wear, wear cool, cool clothes
+I:28;761;be, see, own, be see, see own
+I:28;762;be, good, anima, like, defenite, love, be good, good anima, anima like, like defenite, defenite love
+I:28;763;movie, be, delight, movie be, be delight
+I:28;764;admit, watch, most, video, only, half, attention, do, something, admit watch, watch most, most video, video only, only half, half attention, attention do, do something
+I:28;765;background, animation, rich, vary, background animation, animation rich, rich vary
+I:28;766;size, gear, catch, early, size gear, gear catch, catch early
+I:28;767;industrial, mood, industrial mood
+I:28;768;deco, esthetic, monumental, symmetry, tech, deco esthetic, esthetic monumental, monumental symmetry, symmetry tech
+I:28;769;create, unique, mood, passage, be, distinctive, strength, movie, create unique, unique mood, mood passage, passage be, be distinctive, distinctive strength, strength movie
+I:28;770;action, be, paced, script, follow, own, rule, action be, be paced, paced script, script follow, follow own, own rule
+I:28;771;be, save, end, usual, be save, save end, end usual
+I:28;772;watch, background, watch background
+I:28;773;be, good, thing, stunning, animation, flick, be, hard, follow, be good, good thing, thing stunning, stunning animation, animation flick, flick be, be hard, hard follow
+I:28;774;be, able, take, be able, able take
+I:28;775;scene, action, skip, great, deal, leave, viewer, fill, blank, have, happen, interim, scene action, action skip, skip great, great deal, deal leave, leave viewer, viewer fill, fill blank, blank have, have happen, happen interim
+I:28;776;other, hand, lot, animation, be, stunning, other hand, hand lot, lot animation, animation be, be stunning
+I:28;777;music, be, beautiful, blend, old, jazz, blues, few, soul, number, make, move, contrast, futuristic, setting, synchronicity, music, visual, be, do, music be, be beautiful, beautiful blend, blend old, old jazz, jazz blues, blues few, few soul, soul number, number make, make move, move contrast, contrast futuristic, futuristic setting, setting synchronicity, synchronicity music, music visual, visual be, be do
+I:28;778;see, film, be, fan, genre, do, expect, see film, film be, be fan, fan genre, genre do, do expect
+I:28;779;be, animator, fan, animation, general, be animator, animator fan, fan animation, animation general
+I:28;780;show, true, nature, human, heart, robotic, soul, free, will, destiny, love, liberty, deepest, depths, call, mind, be, call, play, epic, adventure, show true, true nature, nature human, human heart, heart robotic, robotic soul, soul free, free will, will destiny, destiny love, love liberty, liberty deepest, deepest depths, depths call, call mind, mind be, be call, call play, play epic, epic adventure
+I:28;781;be, future, generation, learn, know, thought, unity, peace, loss, be future, future generation, generation learn, learn know, know thought, thought unity, unity peace, peace loss
+I:28;782;see, be, skeptical, good, be, see be, be skeptical, skeptical good, good be
+I:28;783;story, background, movie, be, commonplace, stable, story background, background movie, movie be, be commonplace, commonplace stable
+I:28;784;be, integrate, movie, be integrate, integrate movie
+I:28;785;say, be, wow, say be, be wow
+I:28;786;be, great, film, best, theatrical, animation, have, see, be great, great film, film best, best theatrical, theatrical animation, animation have, have see
+I:28;787;be, perfect, blend, story, music, technical, achievement, visual, style, be perfect, perfect blend, blend story, story music, music technical, technical achievement, achievement visual, visual style
+I:28;788;be, juxtaposition, style, be juxtaposition, juxtaposition style
+I:28;789;blend, cartoonish, character, detailed, background, create, blend cartoonish, cartoonish character, character detailed, detailed background, background create
+I:28;790;animation, fit, animation fit
+I:28;791;music, visual, style, work, create, music visual, visual style, style work, work create
+I:28;792;future, appeal, future appeal
+I:28;793;stop, loving, be, perfect, exclamation, point, end, long, sentence, stop loving, loving be, be perfect, perfect exclamation, exclamation point, point end, end long, long sentence
+I:28;794;anyone, familiar, japanese, art, know, theme, anyone familiar, familiar japanese, japanese art, art know, know theme
+I:28;795;innocence, add, new, element, familiar, story, innocence add, add new, new element, element familiar, familiar story
+I:28;796;addition, optimism, be, something, special, see, japanese, animation, addition optimism, optimism be, be something, something special, special see, see japanese, japanese animation
+I:28;797;be, tale, leader, desire, be, create, perfect, human, rule, world, be tale, tale leader, leader desire, desire be, be create, create perfect, perfect human, human rule, rule world
+I:28;798;make, perfect, human?this, be, meet, do, anime, style, make perfect, perfect human?this, human?this be, be meet, meet do, do anime, anime style
+I:28;799;animation, be, wonderful, have, cgi, put, animation be, be wonderful, wonderful have, have cgi, cgi put
+I:28;800;be, something, interest, most, people, be something, something interest, interest most, most people
+I:28;801;send, message, family, prejudice, corruption, tamper, human, being, send message, message family, family prejudice, prejudice corruption, corruption tamper, tamper human, human being
+I:28;802;film, have, many, layer, be, sure, most, people, enjoy, film have, have many, many layer, layer be, be sure, sure most, most people, people enjoy
+I:28;803;first, think, be, silent, film, be, hit, color, first think, think be, be silent, silent film, film be, be hit, hit color
+I:28;804;be, excellent, version, movie, do, japanese, anime, be excellent, excellent version, version movie, movie do, do japanese, japanese anime

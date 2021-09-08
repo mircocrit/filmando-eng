@@ -1,0 +1,734 @@
+I:9191;1;special, feature, gain, insight, over, hour, special feature, feature gain, gain insight, insight over, over hour
+I:9191;2;interpretation, be, helpful, film, have, little, dialogue, be, rich, visual, interpretation be, be helpful, helpful film, film have, have little, little dialogue, dialogue be, be rich, rich visual
+I:9191;3;director, speak, film, influence, director speak, speak film, film influence
+I:9191;4;more, informative, feature, be, excerpt, world, film, cinematographer, more informative, informative feature, feature be, be excerpt, excerpt world, world film, film cinematographer
+I:9191;5;boy, be, surprise, popular, movie, be, shoot, camera, trickery, wood, be, spectacular, love, sun, blaze, blind, camera, certain, shot, boy be, be surprise, surprise popular, popular movie, movie be, be shoot, shoot camera, camera trickery, trickery wood, wood be, be spectacular, spectacular love, love sun, sun blaze, blaze blind, blind camera, camera certain, certain shot
+I:9191;6;have, film, hold, coveted, title, be, reason, best, foreign, category, be, create, be, thing, be, able, back, myth, powerful, film, speak, humanity, strength, truth, be, whole, new, angle, have film, film hold, hold coveted, coveted title, title be, be reason, reason best, best foreign, foreign category, category be, be create, create be, be thing, thing be, be able, able back, back myth, myth powerful, powerful film, film speak, speak humanity, humanity strength, strength truth, truth be, be whole, whole new, new angle
+I:9191;7;witness, powerful, foreign, film, slip, line, cinema, regard, many, valuable, asset, film, community, see, gold, witness powerful, powerful foreign, foreign film, film slip, slip line, line cinema, cinema regard, regard many, many valuable, valuable asset, asset film, film community, community see, see gold
+I:9191;8;same, sense, popular, foreign, film, become, contender, be, worthy, studio, have, fund, allow, bigger, distribution, audience, allow, popularity, do, rest, same sense, sense popular, popular foreign, foreign film, film become, become contender, contender be, be worthy, worthy studio, studio have, have fund, fund allow, allow bigger, bigger distribution, distribution audience, audience allow, allow popularity, popularity do, do rest
+I:9191;9;rashmon, be, rare, breed, film, rashmon be, be rare, rare breed, breed film
+I:9191;10;bold, storytelling, creative, camera, work, powerful, character, give, unique, story, be, include, everyone, film, library, bold storytelling, storytelling creative, creative camera, camera work, work powerful, powerful character, character give, give unique, unique story, story be, be include, include everyone, everyone film, film library
+I:9191;11;end, film, truth, be, discover, rashmon, end film, film truth, truth be, be discover, discover rashmon
+I:9191;12;have, take, story, provide, main, character, be, truth, greatest, trick, pull, be, convince, do, exist, have take, take story, story provide, provide main, main character, character be, be truth, truth greatest, greatest trick, trick pull, pull be, be convince, convince do, do exist
+I:9191;13;be, evolve, film, get, better, time, be evolve, evolve film, film get, get better, better time
+I:9191;14;beautiful, theme, rashmon, be, flawless, film, beautiful theme, theme rashmon, rashmon be, be flawless, flawless film
+I:9191;15;begin, performance, rank, best, film, history, begin performance, performance rank, rank best, best film, film history
+I:9191;16;be, insane, passionate, loyal, villainous, same, time, be insane, insane passionate, passionate loyal, loyal villainous, villainous same, same time
+I:9191;17;top, find, portrayal, accurate, astute, top find, find portrayal, portrayal accurate, accurate astute
+I:9191;18;be, screen, presence, command, eye, help, become, involve, be screen, screen presence, presence command, command eye, eye help, help become, become involve
+I:9191;19;character, be, confusing/suspicious, keep, intertwine, story, control, character, greatest, ease, character be, be confusing/suspicious, confusing/suspicious keep, keep intertwine, intertwine story, story control, control character, character greatest, greatest ease
+I:9191;20;be, time, be, unleash, true, drama, story, be, throw, face, brilliance, expertise, be time, time be, be unleash, unleash true, true drama, drama story, story be, be throw, throw face, face brilliance, brilliance expertise
+I:9191;21;think, be, near, perfect, film, think be, be near, near perfect, perfect film
+I:9191;22;be, intense, original, secure, story, be intense, intense original, original secure, secure story
+I:9191;23;only, concern, film, be, be, go, watch, movie, make, sure, devote, entire, mind, only concern, concern film, film be, be be, be go, go watch, watch movie, movie make, make sure, sure devote, devote entire, entire mind
+I:9191;24;enjoy, unearth, darkness, humanity, be, hint, end, enjoy unearth, unearth darkness, darkness humanity, humanity be, be hint, hint end
+I:9191;25;be, powerful, tale, be, enjoy, all!grade, be powerful, powerful tale, tale be, be enjoy, enjoy all!grade
+I:9191;26;greatest, film, make, truth, beauty, bring, screen, be, move, greatest film, film make, make truth, truth beauty, beauty bring, bring screen, screen be, be move
+I:9191;27;beautiful, black, white, cinematography, brilliant, acting, be, amazing, beautiful black, black white, white cinematography, cinematography brilliant, brilliant acting, acting be, be amazing
+I:9191;28;wonderful, life, wonderful life
+I:9191;29;affirm, end, be, collection, tire, see, affirm end, end be, be collection, collection tire, tire see
+I:9191;30;be, doubt, amazing, acomplishment, post, be doubt, doubt amazing, amazing acomplishment, acomplishment post
+I:9191;31;start, finish, simple, understate, austere, work, circumstance, start finish, finish simple, simple understate, understate austere, austere work, work circumstance
+I:9191;32;blend, unique, multus, blend unique, unique multus
+I:9191;33;angle, form, storytelling, simple, elemental, setting, own, minimalist, direction, create, fascinating, vision, angle form, form storytelling, storytelling simple, simple elemental, elemental setting, setting own, own minimalist, minimalist direction, direction create, create fascinating, fascinating vision
+I:9191;34;use, pound, rain, swelter, heat, cool, breeze, shade, tree, serve, convey, atmosphere, respective, scene, use pound, pound rain, rain swelter, swelter heat, heat cool, cool breeze, breeze shade, shade tree, tree serve, serve convey, convey atmosphere, atmosphere respective, respective scene
+I:9191;35;bring, wonderful, humility, honesty, role, woodcutter, serve, tie, various, account, bring wonderful, wonderful humility, humility honesty, honesty role, role woodcutter, woodcutter serve, serve tie, tie various, various account
+I:9191;36;earlier, performance, create, striking, mix, ferocity, malaise, evoke, predatory, lion, toy, prey, earlier performance, performance create, create striking, striking mix, mix ferocity, ferocity malaise, malaise evoke, evoke predatory, predatory lion, lion toy, toy prey
+I:9191;37;masterpiece, start, finish, greatest, film, come, land, rise, sun, masterpiece start, start finish, finish greatest, greatest film, film come, come land, land rise, rise sun
+I:9191;38;watch, possible, watch possible
+I:9191;39;be, base, understanding, see, hear, be base, base understanding, understanding see, see hear
+I:9191;40;watch, movie, open, eye, society, work, watch movie, movie open, open eye, eye society, society work
+I:9191;41;be, surprise, end, be surprise, surprise end
+I:9191;42;class, veil, woman, horseback, solicitous, spouse, class veil, veil woman, woman horseback, horseback solicitous, solicitous spouse
+I:9191;43;top, performance, be, convincing, top performance, performance be, be convincing
+I:9191;44;career, embrace, feature, film, japanese, include, most, output, career embrace, embrace feature, feature film, film japanese, japanese include, include most, most output
+I:9191;45;whistle, help, open, film, whistle help, help open, open film
+I:9191;46;be, great, use, mirror, include, full, be great, great use, use mirror, mirror include, include full
+I:9191;47;use, precise, screenplay, bear, close, attention, make, witness, testimony, least, plausible, use precise, precise screenplay, screenplay bear, bear close, close attention, attention make, make witness, witness testimony, testimony least, least plausible
+I:9191;48;anyone, make, film, today, put, philosophical, narrative, technical, element, combine, such, outstanding, action, scene, anyone make, make film, film today, today put, put philosophical, philosophical narrative, narrative technical, technical element, element combine, combine such, such outstanding, outstanding action, action scene
+I:9191;49;be, favorite, film, time, be favorite, favorite film, film time
+I:9191;50;hand, be, able, follow, hand be, be able, able follow
+I:9191;51;sharpness, contrast, be, beautiful, sharpness contrast, contrast be, be beautiful
+I:9191;52;have, spend, sufficient, time, have, experience, real, thing, have spend, spend sufficient, sufficient time, time have, have experience, experience real, real thing
+I:9191;53;say, unnecessary, say unnecessary
+I:9191;54;film, tell, front, truth, be, nothing, more, belief, subject, own, interpretation, film tell, tell front, front truth, truth be, be nothing, nothing more, more belief, belief subject, subject own, own interpretation
+I:9191;55;film, work, film, entrenched, like, be, raw, emotional, realism, truth, find, act, be, distracting, place, film work, work film, film entrenched, entrenched like, like be, be raw, raw emotional, emotional realism, realism truth, truth find, find act, act be, be distracting, distracting place
+I:9191;56;film, be, stunning, be, moment, end, medium, scene, be, stellar, rashomon, be, miss, film be, be stunning, stunning be, be moment, moment end, end medium, medium scene, scene be, be stellar, stellar rashomon, rashomon be, be miss
+I:9191;57;give, c, thanks, part, initial, concept, visual, direction, brave, performance, give c, c thanks, thanks part, part initial, initial concept, concept visual, visual direction, direction brave, brave performance
+I:9191;58;have, see, film, come, find, familiar, have see, see film, film come, come find, find familiar
+I:9191;59;be, story, action, involve, several, participant, own, differ, version, truth, have, be, elaborate, riff, be story, story action, action involve, involve several, several participant, participant own, own differ, differ version, version truth, truth have, have be, be elaborate, elaborate riff
+I:9191;60;many, other, appear, world, stage, many other, other appear, appear world, world stage
+I:9191;61;find, fresh, involve, look, find fresh, fresh involve, involve look
+I:9191;62;rashomon, move, tell, story, economy, humor, rashomon move, move tell, tell story, story economy, economy humor
+I:9191;63;much, be, make, dark, philosophy, theme, find, great, sardonic, humor, film, much be, be make, make dark, dark philosophy, philosophy theme, theme find, find great, great sardonic, sardonic humor, humor film
+I:9191;64;be, unique, result, master, filmaker, vision, unify, beautiful, unforgettable, be unique, unique result, result master, master filmaker, filmaker vision, vision unify, unify beautiful, beautiful unforgettable
+I:9191;65;be, thing, be, undeniable, movie, reveal, director, world, earn, honorary, award, be, time, release, movie, break, grounds, term, story, be thing, thing be, be undeniable, undeniable movie, movie reveal, reveal director, director world, world earn, earn honorary, honorary award, award be, be time, time release, release movie, movie break, break grounds, grounds term, term story
+I:9191;66;such, use, subjectivity, present, singular, fact, audience, shake, confidence, have, see, continue, day, influence, movie, such use, use subjectivity, subjectivity present, present singular, singular fact, fact audience, audience shake, shake confidence, confidence have, have see, see continue, continue day, day influence, influence movie
+I:9191;67;be, engaging, movie, be, bring, care, character, be, reason, give, star, matter, piece, history, movie, be, need, connect, movie, level, be, engross, do, do, be engaging, engaging movie, movie be, be bring, bring care, care character, character be, be reason, reason give, give star, star matter, matter piece, piece history, history movie, movie be, be need, need connect, connect movie, movie level, level be, be engross, engross do, do do
+I:9191;68;director, want, know, be, put, word, transpire, clever, camera, work, precise, use, space, element, environment, provide, weather, condition, light, shadow, foliage, etc, director want, want know, know be, be put, put word, word transpire, transpire clever, clever camera, camera work, work precise, precise use, use space, space element, element environment, environment provide, provide weather, weather condition, condition light, light shadow, shadow foliage, foliage etc
+I:9191;69;mean, be, consider, good, acting, be, consider, unnatural, overacting, mean be, be consider, consider good, good acting, acting be, be consider, consider unnatural, unnatural overacting
+I:9191;70;movie, camera, angle, testimony, scene, court, put, position, judge, person, be, seek, truth, movie camera, camera angle, angle testimony, testimony scene, scene court, court put, put position, position judge, judge person, person be, be seek, seek truth
+I:9191;71;woodcutter, have, take, dagger, resale, generosity, child, redeem, seem, think, best, movie, woodcutter have, have take, take dagger, dagger resale, resale generosity, generosity child, child redeem, redeem seem, seem think, think best, best movie
+I:9191;72;booklet, accompany, single, disc, contain, short, story, script, be, base, be, welcome, addition, booklet accompany, accompany single, single disc, disc contain, contain short, short story, story script, script be, be base, base be, be welcome, welcome addition
+I:9191;73;rashomon, be, first, win, worldwide, audience, deserve, distinguished, place, cinema, history, rashomon be, be first, first win, win worldwide, worldwide audience, audience deserve, deserve distinguished, distinguished place, place cinema, cinema history
+I:9191;74;film, be, entertaining, audience, be, gas, sleep, fume, film be, be entertaining, entertaining audience, audience be, be gas, gas sleep, sleep fume
+I:9191;75;film, be, entertaining, audience, be, gas, sleep, fume, film be, be entertaining, entertaining audience, audience be, be gas, gas sleep, sleep fume
+I:9191;76;be, amazing, piece, filmmaking, be amazing, amazing piece, piece filmmaking
+I:9191;77;camerawork, be, amazing, notice, example, shot, character, be, walk, wood, beginning, be, dialogue, sequence, be, be, amazing, shot, sun, tree, camera, movement, be, flawless, camerawork be, be amazing, amazing notice, notice example, example shot, shot character, character be, be walk, walk wood, wood beginning, beginning be, be dialogue, dialogue sequence, sequence be, be be, be amazing, amazing shot, shot sun, sun tree, tree camera, camera movement, movement be, be flawless
+I:9191;78;tremendous, impact, film, have, have, film, infustry, be, enough, consider, classic, tremendous impact, impact film, film have, have have, have film, film infustry, infustry be, be enough, enough consider, consider classic
+I:9191;79;be, ability, move, audience, nationality, decade, speak, handle, theme, be ability, ability move, move audience, audience nationality, nationality decade, decade speak, speak handle, handle theme
+I:9191;80;run, time, film, tell, human, nature, most, film, have, richness, read, good, book, give, be, amazing, run time, time film, film tell, tell human, human nature, nature most, most film, film have, have richness, richness read, read good, good book, book give, give be, be amazing
+I:9191;81;film, recommend, samurai, more, great, japanese, cinema, film recommend, recommend samurai, samurai more, more great, great japanese, japanese cinema
+I:9191;82;be, explore, truth, be, extent, someone, twist, protect, oneself, be explore, explore truth, truth be, be extent, extent someone, someone twist, twist protect, protect oneself
+I:9191;83;be, great, idea, make, picture, work, be, version, story, characterization, deepen, become, multus, be great, great idea, idea make, make picture, picture work, work be, be version, version story, story characterization, characterization deepen, deepen become, become multus
+I:9191;84;classic, devastate, message, mistrust, classic devastate, devastate message, message mistrust
+I:9191;85;film, tell, story, murder, man, rape, wife, perspective, people, involve, film tell, tell story, story murder, murder man, man rape, rape wife, wife perspective, perspective people, people involve
+I:9191;86;criterion, have, do, great, job, blu, criterion have, have do, do great, great job, job blu
+I:9191;87;extra, feature, interview, be, wonderful, extra feature, feature interview, interview be, be wonderful
+I:9191;88;perspective, film, buff, casual, be, instructive, educational, perspective film, film buff, buff casual, casual be, be instructive, instructive educational
+I:9191;89;average, member, audience, be, story, be, interested, average member, member audience, audience be, be story, story be, be interested
+I:9191;90;art, direction, editing, art direction, direction editing
+I:9191;91;factor, idea, film, deal, slippery, notion, truth, lead, expect, engaging, thought, factor idea, idea film, film deal, deal slippery, slippery notion, notion truth, truth lead, lead expect, expect engaging, engaging thought
+I:9191;92;film, recommend, throne, intense, movie, experience, film recommend, recommend throne, throne intense, intense movie, movie experience
+I:9191;93;enjoy, see, medium, have, evolve, learn, film, general, enjoy see, see medium, medium have, have evolve, evolve learn, learn film, film general
+I:9191;94;good, film, pioneering, camera, storytelling, technique, seem, ho, good film, film pioneering, pioneering camera, camera storytelling, storytelling technique, technique seem, seem ho
+I:9191;95;bud, auteur, film, buff, find, much, value, bud auteur, auteur film, film buff, buff find, find much, much value
+I:9191;96;fact, be, know, be, artist, seize, film, outstanding, visual, representation, perspective, point, fact be, be know, know be, be artist, artist seize, seize film, film outstanding, outstanding visual, visual representation, representation perspective, perspective point
+I:9191;97;believe, total, accuracy, version, difference, set, eye, ear, be, remarkable, behold, believe total, total accuracy, accuracy version, version difference, difference set, set eye, eye ear, ear be, be remarkable, remarkable behold
+I:9191;98;have, learn, enormous, amount, art, exposure, japanese, art, have, set, foot, country, have learn, learn enormous, enormous amount, amount art, art exposure, exposure japanese, japanese art, art have, have set, set foot, foot country
+I:9191;99;music, be, lovely, photography, gorgeous, music be, be lovely, lovely photography, photography gorgeous
+I:9191;100;watch, be, aware, be, movie, explore, use, camera, new, storytelling, medium, watch be, be aware, aware be, be movie, movie explore, explore use, use camera, camera new, new storytelling, storytelling medium
+I:9191;101;be, good, find, fuss, be, be good, good find, find fuss, fuss be
+I:9191;102;make, own, mind, make own, own mind
+I:9191;103;get, point, be, try, say, truth, be, relative, depend, person, everyone, version, story, be, tell, make, look, best, do, need, go, character, perspective, get, point, get point, point be, be try, try say, say truth, truth be, be relative, relative depend, depend person, person everyone, everyone version, version story, story be, be tell, tell make, make look, look best, best do, do need, need go, go character, character perspective, perspective get, get point
+I:9191;104;rashamon, be, masterpiece, utter, ease, flow, rashamon be, be masterpiece, masterpiece utter, utter ease, ease flow
+I:9191;105;audience, be, introduce, story, be, audience be, be introduce, introduce story, story be
+I:9191;106;noble, samurai, loving, wife, be, attack, ruthless, bandit, highway, noble samurai, samurai loving, loving wife, wife be, be attack, attack ruthless, ruthless bandit, bandit highway
+I:9191;107;movie, dig, deeper, peasant, tell, version, story, witness, bush, movie dig, dig deeper, deeper peasant, peasant tell, tell version, version story, story witness, witness bush
+I:9191;108;sit, watch, final, tell, utter, disbelief, think, have, watch, same, thing, time, row, be, bored!of, course, give, outstanding, performance, film, be, master, director, work, scene, sit watch, watch final, final tell, tell utter, utter disbelief, disbelief think, think have, have watch, watch same, same thing, thing time, time row, row be, be bored!of, bored!of course, course give, give outstanding, outstanding performance, performance film, film be, be master, master director, director work, work scene
+I:9191;109;story, be, story be
+I:9191;110;be, only, film, direct, be, arguable, film, catapult, fame, film, bring, international, attention, talent, be only, only film, film direct, direct be, be arguable, arguable film, film catapult, catapult fame, fame film, film bring, bring international, international attention, attention talent
+I:9191;111;film, be, selection, win, award, best, foreign, film be, be selection, selection win, win award, award best, best foreign
+I:9191;112;be, regard, masterpiece, regard, be regard, regard masterpiece, masterpiece regard
+I:9191;113;greatest, film, time, rashomon, be, success, endure, day, success, later, film, have, be, realize, greatest film, film time, time rashomon, rashomon be, be success, success endure, endure day, day success, success later, later film, film have, have be, be realize
+I:9191;114;rashomon, be, interesting, broken, narrative, rashomon be, be interesting, interesting broken, broken narrative
+I:9191;115;character, be, priest, woodcutter, commoner, character be, be priest, priest woodcutter, woodcutter commoner
+I:9191;116;excerpt, be, include, version, film, film, be, metaphor, human, spirit, excerpt be, be include, include version, version film, film film, film be, be metaphor, metaphor human, human spirit
+I:9191;117;symbolism, film, be, icon, classic, japanese, cinema, symbolism film, film be, be icon, icon classic, classic japanese, japanese cinema
+I:9191;118;have, see, previous, version, be, good, have see, see previous, previous version, version be, be good
+I:9191;119;viewer, see, stray, hair, character, head, viewer see, see stray, stray hair, hair character, character head
+I:9191;120;other, amazing, scene, be, gorgeous, forest, backdrop, close, up, character, gate, amazing, beautiful, scene, woman, be, run, hand, stream, other amazing, amazing scene, scene be, be gorgeous, gorgeous forest, forest backdrop, backdrop close, close up, up character, character gate, gate amazing, amazing beautiful, beautiful scene, scene woman, woman be, be run, run hand, hand stream
+I:9191;121;sound, be, amazing, be, few, scene, audio, track, be, speak, dialogue, sound be, be amazing, amazing be, be few, few scene, scene audio, audio track, track be, be speak, speak dialogue
+I:9191;122;music, be, eerie, best, music be, be eerie, eerie best
+I:9191;123;extra, disc, be, odd, minute, documentary, several, member, original, crew, extra disc, disc be, be odd, odd minute, minute documentary, documentary several, several member, member original, original crew
+I:9191;124;do, own, previous, copy, version, be, worthy, do own, own previous, previous copy, copy version, version be, be worthy
+I:9191;125;be, film, be, timeless, applaud, spend, time, money, masterful, restoration, 21st, century, be film, film be, be timeless, timeless applaud, applaud spend, spend time, time money, money masterful, masterful restoration, restoration 21st, 21st century
+I:9191;126;have, be, filmmaker, decade, debut, film, have, renown, native, film, rocket, international, acclaim, include, award, best, foreign, win, bring, film, director, japanese, cinema, western, audience, have be, be filmmaker, filmmaker decade, decade debut, debut film, film have, have renown, renown native, native film, film rocket, rocket international, international acclaim, acclaim include, include award, award best, best foreign, foreign win, win bring, bring film, film director, director japanese, japanese cinema, cinema western, western audience
+I:9191;127;deserve, plaudit, receive, ticket, sell, be, excellent, film, deserve plaudit, plaudit receive, receive ticket, ticket sell, sell be, be excellent, excellent film
+I:9191;128;story, be, familiar, be, simple, story be, be familiar, familiar be, be simple
+I:9191;129;allow, dramatic, license, resonance, tale, moral, be, profound, fact, do, cop, give, real, authoritative, version, allow dramatic, dramatic license, license resonance, resonance tale, tale moral, moral be, be profound, profound fact, fact do, do cop, cop give, give real, real authoritative, authoritative version
+I:9191;130;rain, go, booty, rain go, go booty
+I:9191;131;woodcutter, offer, take, babe, own, have, child, mouth, matter, woodcutter offer, offer take, take babe, babe own, own have, have child, child mouth, mouth matter
+I:9191;132;priest, feel, optimism, life, mankind, test, event, have, see, be, reaffirm, woodcutter, generous, offer, sun, shine, cloud, priest feel, feel optimism, optimism life, life mankind, mankind test, test event, event have, have see, see be, be reaffirm, reaffirm woodcutter, woodcutter generous, generous offer, offer sun, sun shine, shine cloud
+I:9191;133;visual, musical, aspect, film, end, do, mitigate, narrative, drop, floor, crime, punishment, bear, be, great, film, end, be, bad, crime, punishment, reach, greater, artistic, height, dare, convention, novel, visual musical, musical aspect, aspect film, film end, end do, do mitigate, mitigate narrative, narrative drop, drop floor, floor crime, crime punishment, punishment bear, bear be, be great, great film, film end, end be, be bad, bad crime, crime punishment, punishment reach, reach greater, greater artistic, artistic height, height dare, dare convention, convention novel
+I:9191;134;film, make, star, best, performance, film, be, major, film, stage, star, film make, make star, star best, best performance, performance film, film be, be major, major film, film stage, stage star
+I:9191;135;empathy, cinch, twist, bind, be, turn, mere, percipient, purveyor, art, reality, own, self, experience, empathy cinch, cinch twist, twist bind, bind be, be turn, turn mere, mere percipient, percipient purveyor, purveyor art, art reality, reality own, own self, self experience
+I:9191;136;be, type, movie, make, think, be type, type movie, movie make, make think
+I:9191;137;want, disengage, brain, be, entertain, want disengage, disengage brain, brain be, be entertain
+I:9191;138;be, intriguing, movie, witness, horrific, act, tell, own, version, happen, be intriguing, intriguing movie, movie witness, witness horrific, horrific act, act tell, tell own, own version, version happen
+I:9191;139;unfamiliar, work, film, be, masterpiece, unfamiliar work, work film, film be, be masterpiece
+I:9191;140;make, clever, use, camera, build, audience, suspense, similar, fashion, do, make clever, clever use, use camera, camera build, build audience, audience suspense, suspense similar, similar fashion, fashion do
+I:9191;141;seek, psychological, exploration, human, mind, be, worst, best, enjoy, film, seek psychological, psychological exploration, exploration human, human mind, mind be, be worst, worst best, best enjoy, enjoy film
+I:9191;142;film, student, be, first, film student, student be, be first
+I:9191;143;hand, example, innovation, film, hand example, example innovation, innovation film
+I:9191;144;make, technique, dramatic, effect, make technique, technique dramatic, dramatic effect
+I:9191;145;be, important, influential, movie, be, fascinating, watch, be important, important influential, influential movie, movie be, be fascinating, fascinating watch
+I:9191;146;make, more, year, year, end, hold, understand, most, thing, movie, speak, japanese, culture, make more, more year, year year, year end, end hold, hold understand, understand most, most thing, thing movie, movie speak, speak japanese, japanese culture
+I:9191;147;become, possess, recount, know, death, become possess, possess recount, recount know, know death
+I:9191;148;be, interesting, commentary, disk, authority, film, be interesting, interesting commentary, commentary disk, disk authority, authority film
+I:9191;149;person, tell, real, lie, understand, story, differ, reality, be, calculate, distortion, be, believable, deceptive, person tell, tell real, real lie, lie understand, understand story, story differ, differ reality, reality be, be calculate, calculate distortion, distortion be, be believable, believable deceptive
+I:9191;150;be, fascinating, important, film, be fascinating, fascinating important, important film
+I:9191;151;open, japanese, audience, year, speak, nation, end, war, open japanese, japanese audience, audience year, year speak, speak nation, nation end, end war
+I:9191;152;watch, take, audience, process, understanding, watch take, take audience, audience process, process understanding
+I:9191;153;bandit, know, be, blame, recount, episode, self, bandit know, know be, be blame, blame recount, recount episode, episode self
+I:9191;154;aggrandize, machismo, true, kamakazi, fashion, aggrandize machismo, machismo true, true kamakazi, kamakazi fashion
+I:9191;155;sky, clear, woodcutter, have, child, insist, priest, allow, take, baby, sky clear, clear woodcutter, woodcutter have, have child, child insist, insist priest, priest allow, allow take, take baby
+I:9191;156;be, gorgeous, film, powerful, be, short, keep, impatient, filmgoer, content, be gorgeous, gorgeous film, film powerful, powerful be, be short, short keep, keep impatient, impatient filmgoer, filmgoer content
+I:9191;157;plot, be, simple, heinous, crime, have, be, commit, dream, plot be, be simple, simple heinous, heinous crime, crime have, have be, be commit, commit dream
+I:9191;158;landscape, forest, landscape forest
+I:9191;159;few, film, manage, capture, life, such, purity, few film, film manage, manage capture, capture life, life such, such purity
+I:9191;160;visual, cinematography, film, be, stunning, visual cinematography, cinematography film, film be, be stunning
+I:9191;161;contrast, downpour, dreamlike, forest, be, effective, disturbing, contrast downpour, downpour dreamlike, dreamlike forest, forest be, be effective, effective disturbing
+I:9191;162;forest, sequence, follow, opening, find, principle, storyteller, walk, wood, symbolize, journey, reality, forest sequence, sequence follow, follow opening, opening find, find principle, principle storyteller, storyteller walk, walk wood, wood symbolize, symbolize journey, journey reality
+I:9191;163;camera, work, wood, be, phenomenal, get, witness, several, new, technique, be, try, shooting, sun, leaf, tree, cast, dark, false, shadow, fake, tree, character, face, camera work, work wood, wood be, be phenomenal, phenomenal get, get witness, witness several, several new, new technique, technique be, be try, try shooting, shooting sun, sun leaf, leaf tree, tree cast, cast dark, dark false, false shadow, shadow fake, fake tree, tree character, character face
+I:9191;164;rail, shoot, time, period, be, light, year, time, rail shoot, shoot time, time period, period be, be light, light year, year time
+I:9191;165;trial, sequence, be, unique, interesting, trial sequence, sequence be, be unique, unique interesting
+I:9191;166;witness, speak, camera, give, film, feel, be, confess, story, audience, witness speak, speak camera, camera give, give film, film feel, feel be, be confess, confess story, story audience
+I:9191;167;rashomon, be, brilliant, film, believe, hold, regard, masterpiece, rashomon be, be brilliant, brilliant film, film believe, believe hold, hold regard, regard masterpiece
+I:9191;168;recommend, film, recommend film
+I:9191;169;ability, capture, darkness, human, condition, be, stunning, ability capture, capture darkness, darkness human, human condition, condition be, be stunning
+I:9191;170;beautiful, transfer, digital, beautiful transfer, transfer digital
+I:9191;171;movie, be, put, have, few, unique, twist, make, interesting, watch, movie be, be put, put have, have few, few unique, unique twist, twist make, make interesting, interesting watch
+I:9191;172;love, movie, do, be, movie, look, love movie, movie do, do be, be movie, movie look
+I:9191;173;be, time, movie, be, best, film, make, be time, time movie, movie be, be best, best film, film make
+I:9191;174;be, get, solid, story, interesting, character, awesome, feudal, japanese, backdrop, be get, get solid, solid story, story interesting, interesting character, character awesome, awesome feudal, feudal japanese, japanese backdrop
+I:9191;175;be, film, fan, movie, be, see, be film, film fan, fan movie, movie be, be see
+I:9191;176;stranger, take, refuge, temple, rainstorm, relate, story, wax, philosophic, nature, humanity, stranger take, take refuge, refuge temple, temple rainstorm, rainstorm relate, relate story, story wax, wax philosophic, philosophic nature, nature humanity
+I:9191;177;be, nature, humanity, hope, future, be nature, nature humanity, humanity hope, hope future
+I:9191;178;twist, end, temple, remind, ending, space, odyssey, twist end, end temple, temple remind, remind ending, ending space, space odyssey
+I:9191;179;machina, be, classic, machina be, be classic
+I:9191;180;great, job, have, do, film, great job, job have, have do, do film
+I:9191;181;clarity, picture, sound, remind, like, film, first, place, see, review, gate, hell, clarity picture, picture sound, sound remind, remind like, like film, film first, first place, place see, see review, review gate, gate hell
+I:9191;182;be, discover, japanese, film, be, great, place, start, be discover, discover japanese, japanese film, film be, be great, great place, place start
+I:9191;183;be, many, other, great, thing, film, be many, many other, other great, great thing, thing film
+I:9191;184;afford, bump, get, afford bump, bump get
+I:9191;185;win, various, award, world, include, award, best, foreign, film, reaction, be, surprise, win various, various award, award world, world include, include award, award best, best foreign, foreign film, film reaction, reaction be, be surprise
+I:9191;186;camera, work, storytelling, script, setting, be, flawless, give, proper, mood, right, start, camera work, work storytelling, storytelling script, script setting, setting be, be flawless, flawless give, give proper, proper mood, mood right, right start
+I:9191;187;film, fan, need, see, movie, film fan, fan need, need see, see movie
+I:9191;188;feel, be, part, film, do, hold, movie, have, powerful, effect, end, everything, come, head, feel be, be part, part film, film do, do hold, hold movie, movie have, have powerful, powerful effect, effect end, end everything, everything come, come head
+I:9191;189;film, rashomon, be, pure, classic, film rashomon, rashomon be, be pure, pure classic
+I:9191;190;act, plot, twist, make, enjoyable, movie, watch, everyone, film, student, casual, viewer, act plot, plot twist, twist make, make enjoyable, enjoyable movie, movie watch, watch everyone, everyone film, film student, student casual, casual viewer
+I:9191;191;film, be, enjoyable, watch, storytelling, be, superb, take, perspective, modern, film, film be, be enjoyable, enjoyable watch, watch storytelling, storytelling be, be superb, superb take, take perspective, perspective modern, modern film
+I:9191;192;make, notable, fact, be, make, modern, convention, be, use, most, film, be, be, use, non, make notable, notable fact, fact be, be make, make modern, modern convention, convention be, be use, use most, most film, film be, be be, be use, use non
+I:9191;193;movie, be, full, action, keep, viewer, entertain, be, home, stunning, story, truth, justice, consequence, movie be, be full, full action, action keep, keep viewer, viewer entertain, entertain be, be home, home stunning, stunning story, story truth, truth justice, justice consequence
+I:9191;194;picture, be, background, information, film, indicate, director, favorite, actor, play, lead, role, picture be, be background, background information, information film, film indicate, indicate director, director favorite, favorite actor, actor play, play lead, lead role
+I:9191;195;unity, be, obvious, film, be, work, art, unity be, be obvious, obvious film, film be, be work, work art
+I:9191;196;many, consider, be, first, film, audience, be, expose, film, film, win, italian, critic, award, coveted, award, award, be, bit, interest, film, many consider, consider be, be first, first film, film audience, audience be, be expose, expose film, film film, film win, win italian, italian critic, critic award, award coveted, coveted award, award award, award be, be bit, bit interest, interest film
+I:9191;197;transfer, be, create, 35mmm, fine, transfer be, be create, create 35mmm, 35mmm fine
+I:9191;198;grain, master, positive, high, definition, spirit, datacine, grain master, master positive, positive high, high definition, definition spirit, spirit datacine
+I:9191;199;scene, look, good, such, closeup, see, bead, sweat, character, scene look, look good, good such, such closeup, closeup see, see bead, bead sweat, sweat character
+I:9191;200;film, utilize, technological, use, contrast, shot, courtesy, cinematographer, film utilize, utilize technological, technological use, use contrast, contrast shot, shot courtesy, courtesy cinematographer
+I:9191;201;ray, fan, hope, new, restore, version, be, consider, blu, ray fan, fan hope, hope new, new restore, restore version, version be, be consider, consider blu
+I:9191;202;be, important, note, main, japanese, soundtrack, be, include, original, english, dub, soundtrack, be important, important note, note main, main japanese, japanese soundtrack, soundtrack be, be include, include original, original english, english dub, dub soundtrack
+I:9191;203;film, critic, film critic
+I:9191;204;japanese, documentary, subtitle, base, longtime, cinematographer, talk, work, give, viewer, insight, director, professional, relationship, japanese documentary, documentary subtitle, subtitle base, base longtime, longtime cinematographer, cinematographer talk, talk work, work give, give viewer, viewer insight, insight director, director professional, professional relationship
+I:9191;205;be, impressed, be, able, film, receive, low, budget, keep, thing, minimalist, set, be impressed, impressed be, be able, able film, film receive, receive low, low budget, budget keep, keep thing, thing minimalist, minimalist set
+I:9191;206;be, masterpiece, worth, watch, have, collection, be masterpiece, masterpiece worth, worth watch, watch have, have collection
+I:9191;207;feel, bit, same, way, see, remarkable, film, celebrated, film, maker, feel bit, bit same, same way, way see, see remarkable, remarkable film, film celebrated, celebrated film, film maker
+I:9191;208;be, set, 12th, century, most, viewer, say, examine, nature, truth, find, slippery, think, examine, nature, feudal, japanese, society, be set, set 12th, 12th century, century most, most viewer, viewer say, say examine, examine nature, nature truth, truth find, find slippery, slippery think, think examine, examine nature, nature feudal, feudal japanese, japanese society
+I:9191;209;admit, have, way, lady, let, court, know, like, begin, embrace, husband, be, tie, watch, admit have, have way, way lady, lady let, let court, court know, know like, like begin, begin embrace, embrace husband, husband be, be tie, tie watch
+I:9191;210;speak, natural, animalistic, man, speak natural, natural animalistic, animalistic man
+I:9191;211;speak, moral, man, speak moral, moral man
+I:9191;212;masako, represent, samurai, view, nature, woman, be, hear, say, man, have, make, woman, sword, masako represent, represent samurai, samurai view, view nature, nature woman, woman be, be hear, hear say, say man, man have, have make, make woman, woman sword
+I:9191;213;impressed, film, be, way, kurosawa, be, able, create, emotional, atmosphere, sitting, impressed film, film be, be way, way kurosawa, kurosawa be, be able, able create, create emotional, emotional atmosphere, atmosphere sitting
+I:9191;214;feel, tree, light, sparkle, leaf, disturbed, serenity, feel tree, tree light, light sparkle, sparkle leaf, leaf disturbed, disturbed serenity
+I:9191;215;be, be, tell, truth, samurai, killing, be be, be tell, tell truth, truth samurai, samurai killing
+I:9191;216;be, woodcutter, story, true, one, dictate, bandit, samurai, wife, samurai, be woodcutter, woodcutter story, story true, true one, one dictate, dictate bandit, bandit samurai, samurai wife, wife samurai
+I:9191;217;movie, be, interesting, watch, commoner, say, lie, be, entertaining, movie be, be interesting, interesting watch, watch commoner, commoner say, say lie, lie be, be entertaining
+I:9191;218;be, indepth, human, emotion, be indepth, indepth human, human emotion
+I:9191;219;end, be, new, beginning, hope, faith, end be, be new, new beginning, beginning hope, hope faith
+I:9191;220;film, be, beautiful, provoke, long, standing, question, existence, film be, be beautiful, beautiful provoke, provoke long, long standing, standing question, question existence
+I:9191;221;kurosawa, construct, world, reveal, impossibility, absolute, truth, replace, hope, human, kindness, empathy, kurosawa construct, construct world, world reveal, reveal impossibility, impossibility absolute, absolute truth, truth replace, replace hope, hope human, human kindness, kindness empathy
+I:9191;222;usage, light/dark, symbolic, fashion, image, rain, decay, building, shelter, usage light/dark, light/dark symbolic, symbolic fashion, fashion image, image rain, rain decay, decay building, building shelter
+I:9191;223;acting, be, superb, be, great, narrative, captivating, acting be, be superb, superb be, be great, great narrative, narrative captivating
+I:9191;224;actor, pick, life, way, offer, redemption, actor pick, pick life, life way, way offer, offer redemption
+I:9191;225;focus, opening, closing, build, story, focus opening, opening closing, closing build, build story
+I:9191;226;be, great, movie, buff, start, first, subtitle, movie, anyone, concerned, interpersonal, relationship, be great, great movie, movie buff, buff start, start first, first subtitle, subtitle movie, movie anyone, anyone concerned, concerned interpersonal, interpersonal relationship
+I:9191;227;question, be, part, universality, greatness, question be, be part, part universality, universality greatness
+I:9191;228;come, get, masterpiece, stuff, come get, get masterpiece, masterpiece stuff
+I:9191;229;rate, mediocre, head, explode, rate mediocre, mediocre head, head explode
+I:9191;230;rashomon, contain, hope, humankind, planet, earth, be, sort, work, rashomon contain, contain hope, hope humankind, humankind planet, planet earth, earth be, be sort, sort work
+I:9191;231;be, most, fun, watch, illuminating, be, episode, family, title, tell, truth, be most, most fun, fun watch, watch illuminating, illuminating be, be episode, episode family, family title, title tell, tell truth
+I:9191;232;course, do, deal, subtlety, be, interesting, comical, take, roshomon, theme, course do, do deal, deal subtlety, subtlety be, be interesting, interesting comical, comical take, take roshomon, roshomon theme
+I:9191;233;film, be, hard, find, effort, film be, be hard, hard find, find effort
+I:9191;234;suggest, japanese, subtitle, suggest japanese, japanese subtitle
+I:9191;235;essence, be, stark, epic, production, take, few, viewing, appreciate, true, splendor, significance, essence be, be stark, stark epic, epic production, production take, take few, few viewing, viewing appreciate, appreciate true, true splendor, splendor significance
+I:9191;236;awareness, seek, improve, character, awareness seek, seek improve, improve character
+I:9191;237;be, kind, work, be kind, kind work
+I:9191;238;nice, thought, give, castor, oil, nice thought, thought give, give castor, castor oil
+I:9191;239;transfer, be, excellent, transfer be, be excellent
+I:9191;240;definite, collection, world, light, professional, definite collection, collection world, world light, light professional
+I:9191;241;somebody, have, commit, murder, nobody, know, whodunnit, somebody have, have commit, commit murder, murder nobody, nobody know, know whodunnit
+I:9191;242;genius, filmmaker, be, classic, skillful, direction, suspense, wonderful, acting, genius filmmaker, filmmaker be, be classic, classic skillful, skillful direction, direction suspense, suspense wonderful, wonderful acting
+I:9191;243;take, police, claim, have, fun, woman, kill, husband, fight, take police, police claim, claim have, have fun, fun woman, woman kill, kill husband, husband fight
+I:9191;244;light, shadow, whirl, dance, beautiful, woodland, setting, serve, backdrop, ugly, act, light shadow, shadow whirl, whirl dance, dance beautiful, beautiful woodland, woodland setting, setting serve, serve backdrop, backdrop ugly, ugly act
+I:9191;245;fight, scene, be, masterful, fight scene, scene be, be masterful
+I:9191;246;look, real, fight, oppose, choreography, look real, real fight, fight oppose, oppose choreography
+I:9191;247;be, brave, touch, unique, idea, have, deceased, testify, be brave, brave touch, touch unique, unique idea, idea have, have deceased, deceased testify
+I:9191;248;face, be, haunting, classic, scene, face be, be haunting, haunting classic, classic scene
+I:9191;249;fascinating, hypnotic, way, fascinating hypnotic, hypnotic way
+I:9191;250;add, extra, dimension, innocent, young, priest, tormented, woodcutter, add extra, extra dimension, dimension innocent, innocent young, young priest, priest tormented, tormented woodcutter
+I:9191;251;provoke, freaky, defy, conventional, filmmaking, suck, provoke freaky, freaky defy, defy conventional, conventional filmmaking, filmmaking suck
+I:9191;252;be, craft, direct, be, see, lover, cinema, be craft, craft direct, direct be, be see, see lover, lover cinema
+I:9191;253;century, be, intimate, film, vaunted, reputation, lead, believe, brief, minute, century be, be intimate, intimate film, film vaunted, vaunted reputation, reputation lead, lead believe, believe brief, brief minute
+I:9191;254;layered, story, focus, rape, woman, murder, husband, forest, grove, layered story, story focus, focus rape, rape woman, woman murder, murder husband, husband forest, forest grove
+I:9191;255;account, unfold, distinct, style, account unfold, unfold distinct, distinct style
+I:9191;256;economical, style, contradiction, account, multiply, story, unfold, economical style, style contradiction, contradiction account, account multiply, multiply story, story unfold
+I:9191;257;expert, camerawork, be, stellar, way, raise, bar, subsequent, cinema, vivid, facial, close, expert camerawork, camerawork be, be stellar, stellar way, way raise, raise bar, bar subsequent, subsequent cinema, cinema vivid, vivid facial, facial close
+I:9191;258;up, main, character, sharp, angle, sun, up main, main character, character sharp, sharp angle, angle sun
+I:9191;259;dappled, forest, scene, ink, dappled forest, forest scene, scene ink
+I:9191;260;star, poignant, be, superb, woodcutter, star poignant, poignant be, be superb, superb woodcutter
+I:9191;261;daring, narrative, structure, example, outrage, courage, fire, none, come, capture, pervasive, sense, ambiguity, make, movie, retain, initial, power, daring narrative, narrative structure, structure example, example outrage, outrage courage, courage fire, fire none, none come, come capture, capture pervasive, pervasive sense, sense ambiguity, ambiguity make, make movie, movie retain, retain initial, initial power
+I:9191;262;anyone, interested, constructivism, love, movie, read, philosophical, refutation, objective, truth, anyone interested, interested constructivism, constructivism love, love movie, movie read, read philosophical, philosophical refutation, refutation objective, objective truth
+I:9191;263;do, end, be, great, movie, do end, end be, be great, great movie
+I:9191;264;have, see, movie, give, chance, have, do, good, job, love, have see, see movie, movie give, give chance, chance have, have do, do good, good job, job love
+I:9191;265;be, professional, be professional
+I:9191;266;be, best, movie, have, see, be best, best movie, movie have, have see
+I:9191;267;movie, be, put, movie be, be put
+I:9191;268;black, white, slight, yellow, colorwashing, be, good, look, story, add, heat, black white, white slight, slight yellow, yellow colorwashing, colorwashing be, be good, good look, look story, story add, add heat
+I:9191;269;beautiful, music, coloring, storytelling, method, beautiful music, music coloring, coloring storytelling, storytelling method
+I:9191;270;do, wonderful, job, movie, be, enjoyable, do wonderful, wonderful job, job movie, movie be, be enjoyable
+I:9191;271;outdoor, film, forest, give, film, authenticity, get, soundstage, outdoor film, film forest, forest give, give film, film authenticity, authenticity get, get soundstage
+I:9191;272;be, be, top, bandit, be be, be top, top bandit
+I:9191;273;be, top, work, be top, top work
+I:9191;274;come, genuine, hammy, acting, come genuine, genuine hammy, hammy acting
+I:9191;275;be, prove, masterful, film, be prove, prove masterful, masterful film
+I:9191;276;be, great, film, do, believe, be, greatest, film, be great, great film, film do, do believe, believe be, be greatest, greatest film
+I:9191;277;have, be, talk, film, japanese, cinema, many, place, greatest, film, be, foreign, domestic, have be, be talk, talk film, film japanese, japanese cinema, cinema many, many place, place greatest, greatest film, film be, be foreign, foreign domestic
+I:9191;278;woodcutter, be, portray, late, great, actor, woodcutter be, be portray, portray late, late great, great actor
+I:9191;279;way, woodcutter, be, walk, forest, way, wind, seem, capture, forest, breathe, life, film, way woodcutter, woodcutter be, be walk, walk forest, forest way, way wind, wind seem, seem capture, capture forest, forest breathe, breathe life, life film
+I:9191;280;way, use, non, way use, use non
+I:9191;281;verbal, area, film, visual, verbal area, area film, film visual
+I:9191;282;many, film, cinematography, do, talking, many film, film cinematography, cinematography do, do talking
+I:9191;283;be, greatest, film, time, be greatest, greatest film, film time
+I:9191;284;story, cinematography, directing, amazing, act, make, puzzling, enthralling, story cinematography, cinematography directing, directing amazing, amazing act, act make, make puzzling, puzzling enthralling
+I:9191;285;be, way, be way
+I:9191;286;accept, point, know, reality, go, live, accept point, point know, know reality, reality go, go live
+I:9191;287;rashomon, deal, such, theme, rashomon deal, deal such, such theme
+I:9191;288;result, profound, delightful, psychological, philosophical, puzzle, film, result profound, profound delightful, delightful psychological, psychological philosophical, philosophical puzzle, puzzle film
+I:9191;289;visual, aesthetics, film, be, beautiful, most, innovative, consider, low, budget, visual aesthetics, aesthetics film, film be, be beautiful, beautiful most, most innovative, innovative consider, consider low, low budget
+I:9191;290;whole, film, have, soft, meditative, japanese, feel, whole film, film have, have soft, soft meditative, meditative japanese, japanese feel
+I:9191;291;be, impressive, be, pacing, be, lively, entertaining, fact, majority, film, be, make, variation, same, scene, be impressive, impressive be, be pacing, pacing be, be lively, lively entertaining, entertaining fact, fact majority, majority film, film be, be make, make variation, variation same, same scene
+I:9191;292;kurasawa, pallete, truth, humanity, introduce, western, culture, japanese, cinema, be, fine, introduction, film, culture, kurasawa pallete, pallete truth, truth humanity, humanity introduce, introduce western, western culture, culture japanese, japanese cinema, cinema be, be fine, fine introduction, introduction film, film culture
+I:9191;293;be, interesting, satisfy, fare, be interesting, interesting satisfy, satisfy fare
+I:9191;294;cinema, finest, cinema finest
+I:9191;295;timeless, classic, offer, profound, insight, nature, human, being, story, tell, timeless classic, classic offer, offer profound, profound insight, insight nature, nature human, human being, being story, story tell
+I:9191;296;see, thing, filter, place, view, world, say, more, truth, event, witness, see thing, thing filter, filter place, place view, view world, world say, say more, more truth, truth event, event witness
+I:9191;297;film, be, masterpiece, film be, be masterpiece
+I:9191;298;rashomon, be, few, movie, deserve, name, classic, rashomon be, be few, few movie, movie deserve, deserve name, name classic
+I:9191;299;many, technique, be, cut, edge, time, rashomon, be, film, many technique, technique be, be cut, cut edge, edge time, time rashomon, rashomon be, be film
+I:9191;300;greatness, acting, be, see, actor, actress, have, adapt, fit, version, same, story, greatness acting, acting be, be see, see actor, actor actress, actress have, have adapt, adapt fit, fit version, version same, same story
+I:9191;301;multiple, perspective, richness, meaning, multiple perspective, perspective richness, richness meaning
+I:9191;302;movie, reveal, lot, human, nature, movie reveal, reveal lot, lot human, human nature
+I:9191;303;best, reason, call, movie, great, best reason, reason call, call movie, movie great
+I:9191;304;be, great, movie, rashomon, transcend, time, culture, be great, great movie, movie rashomon, rashomon transcend, transcend time, time culture
+I:9191;305;multiple, perspective, preclude, know, happen, manage, communicate, truth, multiple perspective, perspective preclude, preclude know, know happen, happen manage, manage communicate, communicate truth
+I:9191;306;reduce, message, movie, moral, suffice, say, leave, strong, sense, evil, humanity, possibility, redemption, reduce message, message movie, movie moral, moral suffice, suffice say, say leave, leave strong, strong sense, sense evil, evil humanity, humanity possibility, possibility redemption
+I:9191;307;way, story, be, tell, develop, engross, way story, story be, be tell, tell develop, develop engross
+I:9191;308;wish, grand, experiment, be, conduct, teenager, adult, wish grand, grand experiment, experiment be, be conduct, conduct teenager, teenager adult
+I:9191;309;make, entire, lifetime, film, go, long, way, put, rest, make entire, entire lifetime, lifetime film, film go, go long, long way, way put, put rest
+I:9191;310;see, premise, witness, manage, relate, same, event, way, feel, achieve, positive, outcome, see premise, premise witness, witness manage, manage relate, relate same, same event, event way, way feel, feel achieve, achieve positive, positive outcome
+I:9191;311;get, driver, seat, kino, worse, take, responsibility, important, task, restore, make, essential, film, worthy, blu, get driver, driver seat, seat kino, kino worse, worse take, take responsibility, responsibility important, important task, task restore, restore make, make essential, essential film, film worthy, worthy blu
+I:9191;312;true, classic, film, rashomon, reward, repeat, view, enjoy, lot, film, be, look, watch, short, list, film, view, least, year, true classic, classic film, film rashomon, rashomon reward, reward repeat, repeat view, view enjoy, enjoy lot, lot film, film be, be look, look watch, watch short, short list, list film, film view, view least, least year
+I:9191;313;end, few, asian, friend, end few, few asian, asian friend
+I:9191;314;think, be, something, be, keep, mind, watch, think be, be something, something be, be keep, keep mind, mind watch
+I:9191;315;be, regard, masterwork, world, cinema, be regard, regard masterwork, masterwork world, world cinema
+I:9191;316;set, 12th, film, premise, be, simple, complex, set 12th, 12th film, film premise, premise be, be simple, simple complex
+I:9191;317;numerous, other, obvious, subtle, story, differ, numerous other, other obvious, obvious subtle, subtle story, story differ
+I:9191;318;character, give, version, event, various, difference, pile, higher, higher, leave, viewer, wonder, motivation, involve, character give, give version, version event, event various, various difference, difference pile, pile higher, higher higher, higher leave, leave viewer, viewer wonder, wonder motivation, motivation involve
+I:9191;319;have, be, write, look, film, be, memorable, have be, be write, write look, look film, film be, be memorable
+I:9191;320;film, present, forrest, living, breathing, entity, image, be, powerful, editing, remarkable, film present, present forrest, forrest living, living breathing, breathing entity, entity image, image be, be powerful, powerful editing, editing remarkable
+I:9191;321;film, have, be, influential, year, such, have, same, shock, new, have, audience, be, director, work, height, power, create, other, film, equal, best, remain, masterwork, film have, have be, be influential, influential year, year such, such have, have same, same shock, shock new, new have, have audience, audience be, be director, director work, work height, height power, power create, create other, other film, film equal, equal best, best remain, remain masterwork
+I:9191;322;edition, be, fine, offer, near, edition be, be fine, fine offer, offer near
+I:9191;323;pristine, print, choice, subtitle, dubbing, former, be, recommend, several, memorable, extra, pristine print, print choice, choice subtitle, subtitle dubbing, dubbing former, former be, be recommend, recommend several, several memorable, memorable extra
+I:9191;324;recommend, fan, world, cinema, recommend fan, fan world, world cinema
+I:9191;325;watch, long, time, be, fresh, watch, first, time, watch long, long time, time be, be fresh, fresh watch, watch first, first time
+I:9191;326;visual, deal, something, fundamental, abstract, visual deal, deal something, something fundamental, fundamental abstract
+I:9191;327;be, perception, truth, be perception, perception truth
+I:9191;328;film, end, deliver, finest, example, imagery, today, standard, be, puzzle, film end, end deliver, deliver finest, finest example, example imagery, imagery today, today standard, standard be, be puzzle
+I:9191;329;enjoyable, be, japanese, version, use, background, score, brilliant, photography, enjoyable be, be japanese, japanese version, version use, use background, background score, score brilliant, brilliant photography
+I:9191;330;film, be, see, simple, fact, draw, audience, story, possible, element, film be, be see, see simple, simple fact, fact draw, draw audience, audience story, story possible, possible element
+I:9191;331;act, aspect, hoaky, be, typical, most, early, japanese, work, be, amusing, act aspect, aspect hoaky, hoaky be, be typical, typical most, most early, early japanese, japanese work, work be, be amusing
+I:9191;332;let, start, remind, people, world, be, hand, full, basic, story, existence, let start, start remind, remind people, people world, world be, be hand, hand full, full basic, basic story, story existence
+I:9191;333;rest, great, artist, rest great, great artist
+I:9191;334;money, murder, have, plot, o, magnitude, time, film, be, amazing, money murder, murder have, have plot, plot o, o magnitude, magnitude time, time film, film be, be amazing
+I:9191;335;imagine, guy, look, set, make, happen, imagine, time, watch, film, imagine guy, guy look, look set, set make, make happen, happen imagine, imagine time, time watch, watch film
+I:9191;336;masterpiece, be, clever, move, portrayal, human, nature, masterpiece be, be clever, clever move, move portrayal, portrayal human, human nature
+I:9191;337;film, be, human, tendency, deny, truth, be, real, essential, growth, individual, film be, be human, human tendency, tendency deny, deny truth, truth be, be real, real essential, essential growth, growth individual
+I:9191;338;be, willingness, road, truth, exist, self, be willingness, willingness road, road truth, truth exist, exist self
+I:9191;339;final, scene, be, beautiful, symbolism, man, have, take, first, step, self, final scene, scene be, be beautiful, beautiful symbolism, symbolism man, man have, have take, take first, first step, step self
+I:9191;340;absolute, classic, recommend, absolute classic, classic recommend
+I:9191;341;suggest, japanese, subtitle, suggest japanese, japanese subtitle
+I:9191;342;essence, be, stark, epic, production, take, few, viewing, appreciate, true, splendor, significance, essence be, be stark, stark epic, epic production, production take, take few, few viewing, viewing appreciate, appreciate true, true splendor, splendor significance
+I:9191;343;awareness, seek, improve, character, awareness seek, seek improve, improve character
+I:9191;344;be, kind, work, be kind, kind work
+I:9191;345;nice, thought, give, castor, oil, nice thought, thought give, give castor, castor oil
+I:9191;346;transfer, be, excellent, transfer be, be excellent
+I:9191;347;stand, great, director, modern, cinema, stand great, great director, director modern, modern cinema
+I:9191;348;movie, particular, be, cite, shine, example, artistry, movie particular, particular be, be cite, cite shine, shine example, example artistry
+I:9191;349;set, lighting, cinemotagraphy, be, superb, set lighting, lighting cinemotagraphy, cinemotagraphy be, be superb
+I:9191;350;be, successful, be successful
+I:9191;351;level, be, assume, judgement, fact?remember, belief, be, relative, ethical, world, depend, lot, issue, such, social, status, religion, birthplace, culture, age, be, careful, say, be, possesion, absolute, true, level be, be assume, assume judgement, judgement fact?remember, fact?remember belief, belief be, be relative, relative ethical, ethical world, world depend, depend lot, lot issue, issue such, such social, social status, status religion, religion birthplace, birthplace culture, culture age, age be, be careful, careful say, say be, be possesion, possesion absolute, absolute true
+I:9191;352;reasonable, doubt, be, konwn, device, employ, lawyer, case, reasonable doubt, doubt be, be konwn, konwn device, device employ, employ lawyer, lawyer case
+I:9191;353;handle, camera, be, superb, be, first, film, story, first, time, camera, show, sun, brilliant, methapor, challenging, aaproach, master, director, handle camera, camera be, be superb, superb be, be first, first film, film story, story first, first time, time camera, camera show, show sun, sun brilliant, brilliant methapor, methapor challenging, challenging aaproach, aaproach master, master director
+I:9191;354;mesmerizing, unforgettable, be, shocked, time, watch, mesmerizing unforgettable, unforgettable be, be shocked, shocked time, time watch
+I:9191;355;point, be, remarkable, fragile, human, condition, human, be, keep, dignity, pride, set, value, odds, process, truth, be, put, second, place, obvious, reason, point be, be remarkable, remarkable fragile, fragile human, human condition, condition human, human be, be keep, keep dignity, dignity pride, pride set, set value, value odds, odds process, process truth, truth be, be put, put second, second place, place obvious, obvious reason
+I:9191;356;film, be, wonderful, exploraton, truth, human, weakness, film be, be wonderful, wonderful exploraton, exploraton truth, truth human, human weakness
+I:9191;357;be, work, art, film, be work, work art, art film
+I:9191;358;imagine, glorious, dapple, imagine glorious, glorious dapple
+I:9191;359;watch, special, feature, thorough, understanding, story, film, cinematic, artistry, watch special, special feature, feature thorough, thorough understanding, understanding story, story film, film cinematic, cinematic artistry
+I:9191;360;recommend, other, film, recommend other, other film
+I:9191;361;have, be, fan, japanese, director, many, year, have be, be fan, fan japanese, japanese director, director many, many year
+I:9191;362;list, film, direct, be, know, admire, movie, fan, world, list film, film direct, direct be, be know, know admire, admire movie, movie fan, fan world
+I:9191;363;many, be, consider, masterpiece, include, film, ran, many be, be consider, consider masterpiece, masterpiece include, include film, film ran
+I:9191;364;film, be, consider, masterpiece, many, film be, be consider, consider masterpiece, masterpiece many
+I:9191;365;be, film, do, feel, be, rank, other, masterpiece, be film, film do, do feel, feel be, be rank, rank other, other masterpiece
+I:9191;366;see, first, time, have, read, lot, see first, first time, time have, have read, read lot
+I:9191;367;be, near, masterpiece, be near, near masterpiece
+I:9191;368;story, take, place, 12th, century, story take, take place, place 12th, 12th century
+I:9191;369;whole, premise, movie, be, be, truth, be, tell, whole premise, premise movie, movie be, be be, be truth, truth be, be tell
+I:9191;370;regard, film, do, prove, interesting, compelling, viewer, watch, put, think, truth, truth, be, regard film, film do, do prove, prove interesting, interesting compelling, compelling viewer, viewer watch, watch put, put think, think truth, truth truth, truth be
+I:9191;371;be, movie, get, think, be movie, movie get, get think
+I:9191;372;same, time, be, action, road, bandit, murder, man, samurai, get, sword, fight, same time, time be, be action, action road, road bandit, bandit murder, murder man, man samurai, samurai get, get sword, sword fight
+I:9191;373;be, touch, comedy, be touch, touch comedy
+I:9191;374;thing, do, make, movie, viewing, be, act, cinematography, thing do, do make, make movie, movie viewing, viewing be, be act, act cinematography
+I:9191;375;cast, be, first, rate, best, japanese, actor, appear, cast be, be first, first rate, rate best, best japanese, japanese actor, actor appear
+I:9191;376;be, lead, favorite, actor, year, be, road, bandit, be lead, lead favorite, favorite actor, actor year, year be, be road, road bandit
+I:9191;377;rate, finest, performance, career, rate finest, finest performance, performance career
+I:9191;378;cinematography, be, groundbreak, help, bring, life, movie, camera, angle, unique, shot, become, influential, other, future, movie, other, director, cinematography be, be groundbreak, groundbreak help, help bring, bring life, life movie, movie camera, camera angle, angle unique, unique shot, shot become, become influential, influential other, other future, future movie, movie other, other director
+I:9191;379;be, movie, everyone, watch, least, be movie, movie everyone, everyone watch, watch least
+I:9191;380;do, consider, masterpiece, many, other, do, do consider, consider masterpiece, masterpiece many, many other, other do
+I:9191;381;couple, time, watch, have, find, film, be, star, picture, couple time, time watch, watch have, have find, find film, film be, be star, star picture
+I:9191;382;main, thing, be, give, chance, see, form, own, opinion, many, star, believe, be, worth, main thing, thing be, be give, give chance, chance see, see form, form own, own opinion, opinion many, many star, star believe, believe be, be worth
+I:9191;383;have, love, movie, have love, love movie
+I:9191;384;be, be, other, be be, be other
+I:9191;385;san, lead, actor, be, early, year, san lead, lead actor, actor be, be early, early year
+I:9191;386;be, greatest, actor, time, be greatest, greatest actor, actor time
+I:9191;387;beleive, be, compassionate, doctor, strong, beleive be, be compassionate, compassionate doctor, doctor strong
+I:9191;388;good, short, role, be, play, good short, short role, role be, be play
+I:9191;389;seem, get, same, role, short, seem get, get same, same role, role short
+I:9191;390;star, few, other, movie, mifune/kurosawa, star few, few other, other movie, movie mifune/kurosawa
+I:9191;391;be, hint, doubt, world, greatest, motion, picture, be hint, hint doubt, doubt world, world greatest, greatest motion, motion picture
+I:9191;392;go, extol, marvel, be, technical, prowess, unparalleled, cinematography, be, ground, go extol, extol marvel, marvel be, be technical, technical prowess, prowess unparalleled, unparalleled cinematography, cinematography be, be ground
+I:9191;393;break, year, theatrical, act, lead, heighten, dreamlike, tone, film, unsolvable, mystery, tale, break year, year theatrical, theatrical act, act lead, lead heighten, heighten dreamlike, dreamlike tone, tone film, film unsolvable, unsolvable mystery, mystery tale
+I:9191;394;outside, controversial, film, make, provoke, mind, viewer, sheer, complex, simplicity, outside controversial, controversial film, film make, make provoke, provoke mind, mind viewer, viewer sheer, sheer complex, complex simplicity
+I:9191;395;short, enjoy, true, perfection, film, enlighten, parable, short enjoy, enjoy true, true perfection, perfection film, film enlighten, enlighten parable
+I:9191;396;buy, be, enjoyable, little, grainy, screen, buy be, be enjoyable, enjoyable little, little grainy, grainy screen
+I:9191;397;image, be, sharp, rain, impose, image be, be sharp, sharp rain, rain impose
+I:9191;398;picture, be, major, classic, anyone, interested, film, epistemology, do, know, know, picture be, be major, major classic, classic anyone, anyone interested, interested film, film epistemology, epistemology do, do know, know know
+I:9191;399;tape, arrive, time, good, shape, husband, be, japanese, enjoy, tape, see, end, same, day, tape arrive, arrive time, time good, good shape, shape husband, husband be, be japanese, japanese enjoy, enjoy tape, tape see, see end, end same, same day
+I:9191;400;be, tell, act, film, be tell, tell act, act film
+I:9191;401;be, master, film, be, good, reason, be master, master film, film be, be good, good reason
+I:9191;402;anyone, be, tell, truth?rashomon, byzantine, plot, structure, be, unique, time, feel, fresh, century, line, anyone be, be tell, tell truth?rashomon, truth?rashomon byzantine, byzantine plot, plot structure, structure be, be unique, unique time, time feel, feel fresh, fresh century, century line
+I:9191;403;establish, classic, be, be, more, stand, test, time, establish classic, classic be, be be, be more, more stand, stand test, test time
+I:9191;404;experience, be, memorable, artful, collaboration, experience be, be memorable, memorable artful, artful collaboration
+I:9191;405;mystical, surreal, strong, contrast, sunshine, shade, sunlight, truth, mystical surreal, surreal strong, strong contrast, contrast sunshine, sunshine shade, shade sunlight, sunlight truth
+I:9191;406;definitive, be, enough, material, whet, appetite, least, filmdom, great, master, be, nothing, need, be, ashamed, definitive be, be enough, enough material, material whet, whet appetite, appetite least, least filmdom, filmdom great, great master, master be, be nothing, nothing need, need be, be ashamed
+I:9191;407;beat, film, see, film, school, beat film, film see, see film, film school
+I:9191;408;same, story, multiple, point, view, be, greatest, cinematic, exploration, have, be, prove, live, enough, see, same story, story multiple, multiple point, point view, view be, be greatest, greatest cinematic, cinematic exploration, exploration have, have be, be prove, prove live, live enough, enough see
+I:9191;409;be, poke, fun, genre, clumsy, fighting, be, depict, stark, reality, audience, romanticize, ancient, time, be poke, poke fun, fun genre, genre clumsy, clumsy fighting, fighting be, be depict, depict stark, stark reality, reality audience, audience romanticize, romanticize ancient, ancient time
+I:9191;410;be, end, redemptive, be end, end redemptive
+I:9191;411;film, make, contemplate, perspective, other, recount, event, word, use, retell, tale, film make, make contemplate, contemplate perspective, perspective other, other recount, recount event, event word, word use, use retell, retell tale
+I:9191;412;desire, fear, contribute, signigicant, influence, retelling, event, life, better, other, film, expose, contemplate, issue, surround, truth, desire fear, fear contribute, contribute signigicant, signigicant influence, influence retelling, retelling event, event life, life better, better other, other film, film expose, expose contemplate, contemplate issue, issue surround, surround truth
+I:9191;413;have, good, extra, include, depth, analysis, commentary, provide, deep, insight, story, script, writing, cinematography, direct, context, traditional, japanese, culture, have good, good extra, extra include, include depth, depth analysis, analysis commentary, commentary provide, provide deep, deep insight, insight story, story script, script writing, writing cinematography, cinematography direct, direct context, context traditional, traditional japanese, japanese culture
+I:9191;414;find, use, provide, additional, insight, subtle, meaning, japanese, dialog, find use, use provide, provide additional, additional insight, insight subtle, subtle meaning, meaning japanese, japanese dialog
+I:9191;415;be, outstanding, exploration, truth, be, relate, people, perceive, remember, want, wish, believe, be outstanding, outstanding exploration, exploration truth, truth be, be relate, relate people, people perceive, perceive remember, remember want, want wish, wish believe
+I:9191;416;add, strong, probability, ulterior, motive, self, add strong, strong probability, probability ulterior, ulterior motive, motive self
+I:9191;417;theme, be, universal, timeless, portrayal, story, allow, film, be, understand, country/culture, year, theme be, be universal, universal timeless, timeless portrayal, portrayal story, story allow, allow film, film be, be understand, understand country/culture, country/culture year
+I:9191;418;time, greatest, film, groundbreak, flashback, time greatest, greatest film, film groundbreak, groundbreak flashback
+I:9191;419;surprising, receive, award, best, foreign, language, have, withstand, test, time, continue, place, high, list, best, japanese, film, surprising receive, receive award, award best, best foreign, foreign language, language have, have withstand, withstand test, test time, time continue, continue place, place high, high list, list best, best japanese, japanese film
+I:9191;420;truth, be, use, tool, powerful, truth be, be use, use tool, tool powerful
+I:9191;421;magnificent, film, set, 9th, century, nobleman, wife, travel, forest, be, set, highwayman, magnificent film, film set, set 9th, 9th century, century nobleman, nobleman wife, wife travel, travel forest, forest be, be set, set highwayman
+I:9191;422;tell, puzzle, deepen, become, fascinating, tell puzzle, puzzle deepen, deepen become, become fascinating
+I:9191;423;ingenious, breakthrough, feature, examine, elusive, nature, truth, ability, reshape, suit, want, believe, ingenious breakthrough, breakthrough feature, feature examine, examine elusive, elusive nature, nature truth, truth ability, ability reshape, reshape suit, suit want, want believe
+I:9191;424;provoke, accessible, be, cinematic, triumph, provoke accessible, accessible be, be cinematic, cinematic triumph
+I:9191;425;cinematography, be, incredible, be, use, camera, movement, light, shadow, rain, wind, effect, cinematography be, be incredible, incredible be, be use, use camera, camera movement, movement light, light shadow, shadow rain, rain wind, wind effect
+I:9191;426;enjoy, bonus, excerpt, documentary, enjoy bonus, bonus excerpt, excerpt documentary
+I:9191;427;study, human, nature, character, see, want, believe, study human, human nature, nature character, character see, see want, want believe
+I:9191;428;see, film, anyone, appreciate, great, art, see film, film anyone, anyone appreciate, appreciate great, great art
+I:9191;429;be, great, cinematic, feat, be great, great cinematic, cinematic feat
+I:9191;430;know, state, create, puzzling, movie, mind, help, ponder, movie, be, finish, know state, state create, create puzzling, puzzling movie, movie mind, mind help, help ponder, ponder movie, movie be, be finish
+I:9191;431;movie, become, be, experiment, truth, reality, movie become, become be, be experiment, experiment truth, truth reality
+I:9191;432;expert, have, record, commentary, help, viewer, appreciate, subtle, nuance, little, point, much, silent, film, influence, expert have, have record, record commentary, commentary help, help viewer, viewer appreciate, appreciate subtle, subtle nuance, nuance little, little point, point much, much silent, silent film, film influence
+I:9191;433;movie, be, classic, have, influence, film, maker, state, year, movie be, be classic, classic have, have influence, influence film, film maker, maker state, state year
+I:9191;434;top, movie, time, top movie, movie time
+I:9191;435;have, create, many, classic, film, define, be, have create, create many, many classic, classic film, film define, define be
+I:9191;436;be, greatest, masterpiece, be greatest, greatest masterpiece
+I:9191;437;be, best, film, be best, best film
+I:9191;438;be, beautiful, way, story, line, be, excellent, acting, be, genuine, script, be, realistic, fill, fluff, camera, angle, be, perfection, be, story, incident, exploration, human, nature, be beautiful, beautiful way, way story, story line, line be, be excellent, excellent acting, acting be, be genuine, genuine script, script be, be realistic, realistic fill, fill fluff, fluff camera, camera angle, angle be, be perfection, perfection be, be story, story incident, incident exploration, exploration human, human nature
+I:9191;439;make, viewer, question, story, be, true, part, story, be, true, watch, movie, dozen, time, make viewer, viewer question, question story, story be, be true, true part, part story, story be, be true, true watch, watch movie, movie dozen, dozen time
+I:9191;440;few, classic, cinematic, world, achieve, such, rare, level, cult, status, few classic, classic cinematic, cinematic world, world achieve, achieve such, such rare, rare level, level cult, cult status
+I:9191;441;beauty, movie, come, way, everybody, be, truth, lie, differ, beauty movie, movie come, come way, way everybody, everybody be, be truth, truth lie, lie differ
+I:9191;442;masterpiece, have, be, year, today, anyone, watch, world, movie, find, enjoyable, masterpiece have, have be, be year, year today, today anyone, anyone watch, watch world, world movie, movie find, find enjoyable
+I:9191;443;story, have, grain, truth, story, contradict, other, story have, have grain, grain truth, truth story, story contradict, contradict other
+I:9191;444;watch, make, own, mind, watch make, make own, own mind
+I:9191;445;story, cinematography, be, unconventional, rival, movie, mordern, time, story cinematography, cinematography be, be unconventional, unconventional rival, rival movie, movie mordern, mordern time
+I:9191;446;have, story, find, exciting, enough, glue, screen, know, end, have story, story find, find exciting, exciting enough, enough glue, glue screen, screen know, know end
+I:9191;447;better, think, provoke, movie, more, popular, samurai, recommend, classic, have, theme, go, date, better think, think provoke, provoke movie, movie more, more popular, popular samurai, samurai recommend, recommend classic, classic have, have theme, theme go, go date
+I:9191;448;leave, viewer, suspense, correct, account, leave viewer, viewer suspense, suspense correct, correct account
+I:9191;449;witness, report, be, witness report, report be
+I:9191;450;be, genius, way, manage, capture, dappled, light, forest, ability, switch, face, witness, way, block, story, flow, be, admirable, be genius, genius way, way manage, manage capture, capture dappled, dappled light, light forest, forest ability, ability switch, switch face, face witness, witness way, way block, block story, story flow, flow be, be admirable
+I:9191;451;edition, be, usual, transfer, edition be, be usual, usual transfer
+I:9191;452;accompany, booklet, be, accompany booklet, booklet be
+I:9191;453;be, classic, best, be classic, classic best
+I:9191;454;actor, do, excellent, job, protray, alternate, story, actor do, do excellent, excellent job, job protray, protray alternate, alternate story
+I:9191;455;rashomon, mystery, story, be, true, rashomon mystery, mystery story, story be, be true
+I:9191;456;be, fabulous, film, be fabulous, fabulous film
+I:9191;457;great, film, lottsa, samurai, rustic, rural, setting, reel, gud, whodunnit, love, love, film, great film, film lottsa, lottsa samurai, samurai rustic, rustic rural, rural setting, setting reel, reel gud, gud whodunnit, whodunnit love, love love, love film
+I:9191;458;be, good, movie, overrated, be good, good movie, movie overrated
+I:9191;459;be, such, thing, absolute, truth, be such, such thing, thing absolute, absolute truth
+I:9191;460;punch, head, punch head
+I:9191;461;motive, be, paint, kind, hero, admire, motive be, be paint, paint kind, kind hero, hero admire
+I:9191;462;nobody, tell, convincing, story, nobody tell, tell convincing, convincing story
+I:9191;463;thing, like, movie, be, witness, be, trance, medium, channel, dead, man, thing like, like movie, movie be, be witness, witness be, be trance, trance medium, medium channel, channel dead, dead man
+I:9191;464;be, biggest, weakness, be biggest, biggest weakness
+I:9191;465;be, bit, comedy, be bit, bit comedy
+I:9191;466;lot, joke, viewer, make, fun, same, old, same, old, japanese, film, lot joke, joke viewer, viewer make, make fun, fun same, same old, old same, same old, old japanese, japanese film
+I:9191;467;give, lecturer, something, flimflam, audience, give lecturer, lecturer something, something flimflam, flimflam audience
+I:9191;468;subtlety, be, wee, bit, subtle, make, impact, subtlety be, be wee, wee bit, bit subtle, subtle make, make impact
+I:9191;469;sum, be, interesting, movie, be, overrated, sum be, be interesting, interesting movie, movie be, be overrated
+I:9191;470;be, great, movie, move, be great, great movie, movie move
+I:9191;471;mean, truth, be, elusive, people, remember, thing, own, particular, spin, mean truth, truth be, be elusive, elusive people, people remember, remember thing, thing own, own particular, particular spin
+I:9191;472;film, come, be, nominate, academy, award, be, consider, masterpiece, director, film come, come be, be nominate, nominate academy, academy award, award be, be consider, consider masterpiece, masterpiece director
+I:9191;473;acting, be, do, classical, japanese, style, be, appropriate, large, auditorium, small, screen, acting be, be do, do classical, classical japanese, japanese style, style be, be appropriate, appropriate large, large auditorium, auditorium small, small screen
+I:9191;474;be, passion, great, mythic, theme, be passion, passion great, great mythic, mythic theme
+I:9191;475;seem, be, set, great, stage, seem be, be set, set great, great stage
+I:9191;476;cinematography, be, special, use, rain, realm, reality, harsh, sunlight, cinematography be, be special, special use, use rain, rain realm, realm reality, reality harsh, harsh sunlight
+I:9191;477;wood, crime, take, place, look, hot, actor, be, excellent, wood crime, crime take, take place, place look, look hot, hot actor, actor be, be excellent
+I:9191;478;do, applaud, art, message, do applaud, applaud art, art message
+I:9191;479;rashomon, be, movie, hear, allusion, cocktail, party, see, reference, make, be, chagrin, do, know, everyone, seem, be, carry, rashomon be, be movie, movie hear, hear allusion, allusion cocktail, cocktail party, party see, see reference, reference make, make be, be chagrin, chagrin do, do know, know everyone, everyone seem, seem be, be carry
+I:9191;480;round, friend, psychotherapist, go, round friend, friend psychotherapist, psychotherapist go
+I:9191;481;compare, example, winner, compare example, example winner
+I:9191;482;be, hoopla, be, be hoopla, hoopla be
+I:9191;483;be, first, excursion, classic, japanese, cinema, count, movie, classic, sort, be, interesting, entertaining, be first, first excursion, excursion classic, classic japanese, japanese cinema, cinema count, count movie, movie classic, classic sort, sort be, be interesting, interesting entertaining
+I:9191;484;win, best, foreign, best, director, win best, best foreign, foreign best, best director
+I:9191;485;move, film, prove, powerhouse, cinema, greatest, director, move film, film prove, prove powerhouse, powerhouse cinema, cinema greatest, greatest director
+I:9191;486;movie, be, great, seem, lose, bit, power, small, screen, movie be, be great, great seem, seem lose, lose bit, bit power, power small, small screen
+I:9191;487;rashomon, shot, black, white, be, nothing, short, stunning, rashomon shot, shot black, black white, white be, be nothing, nothing short, short stunning
+I:9191;488;first, scene, show, priest, woodcutter, take, refuge, old, temple, order, escape, heavy, rain, first scene, scene show, show priest, priest woodcutter, woodcutter take, take refuge, refuge old, old temple, temple order, order escape, escape heavy, heavy rain
+I:9191;489;third, man, show, start, talk, recent, crime, trouble, third man, man show, show start, start talk, talk recent, recent crime, crime trouble
+I:9191;490;rashomon, be, second, film, have, see, be, proud, call, best, film, experience, rashomon be, be second, second film, film have, have see, see be, be proud, proud call, call best, best film, film experience
+I:9191;491;plot, be, amazing, leave, audience, stun, mystery, film, have, end, plot be, be amazing, amazing leave, leave audience, audience stun, stun mystery, mystery film, film have, have end
+I:9191;492;screenplay, photography, be, wonderfull, amazing, act, staff, give, new, perspective, film, strong, seem, screenplay photography, photography be, be wonderfull, wonderfull amazing, amazing act, act staff, staff give, give new, new perspective, perspective film, film strong, strong seem
+I:9191;493;love, movie, be, recommend, love movie, movie be, be recommend
+I:9191;494;doubt, be, wonderfull, film, exist, doubt be, be wonderfull, wonderfull film, film exist
+I:9191;495;watch, be, prepare, emotional, experience, watch be, be prepare, prepare emotional, emotional experience
+I:9191;496;true, treasure, fan, japanese, cinema, excellent, film, general, true treasure, treasure fan, fan japanese, japanese cinema, cinema excellent, excellent film, film general
+I:9191;497;best, realistic, funniest, fight, scene, best realistic, realistic funniest, funniest fight, fight scene
+I:9191;498;be, best, be best
+I:9191;499;make, lot, good, film, make lot, lot good, good film
+I:9191;500;be, huge, fan, rank, film, top, be huge, huge fan, fan rank, rank film, film top
+I:9191;501;movie, need, endorsement, be, classic, movie need, need endorsement, endorsement be, be classic
+I:9191;502;think, be, require, view, high, school, age, student, part, learn, citizenship, think be, be require, require view, view high, high school, school age, age student, student part, part learn, learn citizenship
+I:9191;503;movie, provide, dramatic, insight, need, skepticism, moral, courage, make, judgement, movie provide, provide dramatic, dramatic insight, insight need, need skepticism, skepticism moral, moral courage, courage make, make judgement
+I:9191;504;be, able, get, philosophical, point, be, tense, drama, be able, able get, get philosophical, philosophical point, point be, be tense, tense drama
+I:9191;505;answer, be, answer be
+I:9191;506;be, great, movie, be great, great movie
+I:9191;507;be, good, historian, want, give, chance, understand, film, give, meaning, layer, be good, good historian, historian want, want give, give chance, chance understand, understand film, film give, give meaning, meaning layer
+I:9191;508;study, nature, truth, reality, human, nature, be, greatest, film, make, study nature, nature truth, truth reality, reality human, human nature, nature be, be greatest, greatest film, film make
+I:9191;509;tell, story, perspective, sperate, character, woodcutter, bandit, man, wife, tell story, story perspective, perspective sperate, sperate character, character woodcutter, woodcutter bandit, bandit man, man wife
+I:9191;510;be, redemption, end, be redemption, redemption end
+I:9191;511;accord, have, be, tell, have, read, be, first, film, have, shot, be, pointed, sunlight, use, light, reflector, help, light, actor, accord have, have be, be tell, tell have, have read, read be, be first, first film, film have, have shot, shot be, be pointed, pointed sunlight, sunlight use, use light, light reflector, reflector help, help light, light actor
+I:9191;512;the, commentary, be, worth, the commentary, commentary be, be worth
+I:9191;513;prompt, see, other, movie, prompt see, see other, other movie
+I:9191;514;original, voice, subtitle, original voice, voice subtitle
+I:9191;515;format, scripting, be, interesting, format scripting, scripting be, be interesting
+I:9191;516;have, do, great, movie, have do, do great, great movie
+I:9191;517;story, be, compelling, be, greatest, film, come, story be, be compelling, compelling be, be greatest, greatest film, film come
+I:9191;518;frame, scene, do, work, end, one, message, be, dilute, use, medium, tell, story, be, interesting, worthy, look, frame scene, scene do, do work, work end, end one, one message, message be, be dilute, dilute use, use medium, medium tell, tell story, story be, be interesting, interesting worthy, worthy look
+I:9191;519;witness, see, beginning, second, witness, end, third, witness, entire, event, witness see, see beginning, beginning second, second witness, witness end, end third, third witness, witness entire, entire event
+I:9191;520;story, be, mystery, strange, twist, story be, be mystery, mystery strange, strange twist
+I:9191;521;participant, confess, stab, participant confess, confess stab
+I:9191;522;movie, have, tell, version, believe, be, true, create, woodcutter, be, original, story, movie have, have tell, tell version, version believe, believe be, be true, true create, create woodcutter, woodcutter be, be original, original story
+I:9191;523;tell, tale, be, tale, tell, bandit, tell tale, tale be, be tale, tale tell, tell bandit
+I:9191;524;be, benefit, omit, samurai, fearfulness, braver, opponent, noteworthy, victory, be benefit, benefit omit, omit samurai, samurai fearfulness, fearfulness braver, braver opponent, opponent noteworthy, noteworthy victory
+I:9191;525;sake, name, sake name
+I:9191;526;film, be, amaze, be, time, be, film, make, experience, be, film be, be amaze, amaze be, be time, time be, be film, film make, make experience, experience be
+I:9191;527;film, be, japanese, allow, experience, story, several, seperate, view, include, view, camera, film be, be japanese, japanese allow, allow experience, experience story, story several, several seperate, seperate view, view include, include view, view camera
+I:9191;528;character, play, vital, role, dynamics, film, audience, perspective, represent, aspect, society, character play, play vital, vital role, role dynamics, dynamics film, film audience, audience perspective, perspective represent, represent aspect, aspect society
+I:9191;529;overstate, fact, draw, understand, character, overstate fact, fact draw, draw understand, understand character
+I:9191;530;setting, court, case, be, fitting, dynamics, allow, see, be, seperate, part, include, jury, witness, audience, court, room, setting court, court case, case be, be fitting, fitting dynamics, dynamics allow, allow see, see be, be seperate, seperate part, part include, include jury, jury witness, witness audience, audience court, court room
+I:9191;531;camera, work, be, second, director, movie, camera work, work be, be second, second director, director movie
+I:9191;532;movie, be, serious, film, movie be, be serious, serious film
+I:9191;533;find, be, best, move, have, see, find be, be best, best move, move have, have see
+I:9191;534;be, eye, japanese, be eye, eye japanese
+I:9191;535;have, sense, eternity, fit, have sense, sense eternity, eternity fit
+I:9191;536;direction, film, be, beautiful, direction film, film be, be beautiful
+I:9191;537;scene, be, perfect, fairy, tale, memorable, scene, be, woman, spin, dust, be, possess, dead, husband, spirit, scene be, be perfect, perfect fairy, fairy tale, tale memorable, memorable scene, scene be, be woman, woman spin, spin dust, dust be, be possess, possess dead, dead husband, husband spirit
+I:9191;538;character, be, rogue, full, mischief, animalism, do, best, character be, be rogue, rogue full, full mischief, mischief animalism, animalism do, do best
+I:9191;539;rest, disk, be, excellent, getthrough, chapter, problem, mine, havebeen, freak, occurance, rest disk, disk be, be excellent, excellent getthrough, getthrough chapter, chapter problem, problem mine, mine havebeen, havebeen freak, freak occurance
+I:9191;540;lyrical, classic, film, drama, beautiful, black, white, photography, lyrical classic, classic film, film drama, drama beautiful, beautiful black, black white, white photography
+I:9191;541;be, have, english, subtitle, do, try, turn, be have, have english, english subtitle, subtitle do, do try, try turn
+I:9191;542;interesting, story, good, acting, interesting story, story good, good acting
+I:9191;543;doubt, be, greatest, cinematographic, director, time, doubt be, be greatest, greatest cinematographic, cinematographic director, director time
+I:9191;544;be, master, deliver, complex, message, mind, be master, master deliver, deliver complex, complex message, message mind
+I:9191;545;reveal, onion, innermost, dissect, layer, surface, provide, clear, view, layer, reveal onion, onion innermost, innermost dissect, dissect layer, layer surface, surface provide, provide clear, clear view, view layer
+I:9191;546;spectator, tell, story, spectator tell, tell story
+I:9191;547;film, be, bring, international, fame, film be, be bring, bring international, international fame
+I:9191;548;tale, betrayal, lust, murder, explore, depths, human, capacity, evil, leave, hope, redemption, human, soul, tale betrayal, betrayal lust, lust murder, murder explore, explore depths, depths human, human capacity, capacity evil, evil leave, leave hope, hope redemption, redemption human, human soul
+I:9191;549;influential, film, time, be, act, entire, cast, influential film, film time, time be, be act, act entire, entire cast
+I:9191;550;be, greatest, film, be greatest, greatest film
+I:9191;551;restoration, do, transfer, be, incredible, restoration do, do transfer, transfer be, be incredible
+I:9191;552;be, difficult, movie, rate, concept, be, excellent, be difficult, difficult movie, movie rate, rate concept, concept be, be excellent
+I:9191;553;be, older, movie, be, appreciate, masterful, work, be, time, be older, older movie, movie be, be appreciate, appreciate masterful, masterful work, work be, be time
+I:9191;554;acting, be, good, better, appreciate, watch, japanese, sub, acting be, be good, good better, better appreciate, appreciate watch, watch japanese, japanese sub
+I:9191;555;look, option, next, time, view, look option, option next, next time, time view
+I:9191;556;story, be, simple, complex, story be, be simple, simple complex
+I:9191;557;story, happen, be, relate, witness, include, impressive, use, make, story happen, happen be, be relate, relate witness, witness include, include impressive, impressive use, use make
+I:9191;558;be, magnificence, movie, be magnificence, magnificence movie
+I:9191;559;end, sun, shinning, be, give, note, hope, finish, end sun, sun shinning, shinning be, be give, give note, note hope, hope finish
+I:9191;560;other, feel, responsible, many, thing, control, other feel, feel responsible, responsible many, many thing, thing control
+I:9191;561;rashamon, be, influential, film, rashamon be, be influential, influential film
+I:9191;562;be, self, be self
+I:9191;563;12th, sword, fighting, status, woman, victimization, be, standard, film, fare, 12th sword, sword fighting, fighting status, status woman, woman victimization, victimization be, be standard, standard film, film fare
+I:9191;564;be, thoughtful, film, interesting, original, cinematography, look, huge, battle, show, later, ran, be, court, case, be thoughtful, thoughtful film, film interesting, interesting original, original cinematography, cinematography look, look huge, huge battle, battle show, show later, later ran, ran be, be court, court case
+I:9191;565;compelling, watch, tale, effort, part, conclusion, know, have, watch, something, special, stay, time, compelling watch, watch tale, tale effort, effort part, part conclusion, conclusion know, know have, have watch, watch something, something special, special stay, stay time
+I:9191;566;make, special, student, cinema, make special, special student, student cinema
+I:9191;567;classic, japanese, cinema, classic japanese, japanese cinema
+I:9191;568;act, good, production, plot, be, rewarding, entertaining, act good, good production, production plot, plot be, be rewarding, rewarding entertaining
+I:9191;569;consider, masterpiece, groundbreak, film, term, narrative, strategy, criterion, release, provide, viewer, excellent, visual, rendition, film, wealth, extra, material, enhance, experience, want, study, fil, consider masterpiece, masterpiece groundbreak, groundbreak film, film term, term narrative, narrative strategy, strategy criterion, criterion release, release provide, provide viewer, viewer excellent, excellent visual, visual rendition, rendition film, film wealth, wealth extra, extra material, material enhance, enhance experience, experience want, want study, study fil
+I:9191;570;be, classic, film, be classic, classic film
+I:9191;571;be, interested, film, be, nice, be, able, add, collection, be interested, interested film, film be, be nice, nice be, be able, able add, add collection
+I:9191;572;person, tell, own, version, event, include, murder, victim, tell, story, medium, person tell, tell own, own version, version event, event include, include murder, murder victim, victim tell, tell story, story medium
+I:9191;573;rashomon, be, measure, memorable, find, watch, week, realize, rashomon be, be measure, measure memorable, memorable find, find watch, watch week, week realize
+I:9191;574;say, take, fact, forget, see, film, account, be, good, little, flick, say take, take fact, fact forget, forget see, see film, film account, account be, be good, good little, little flick
+I:9191;575;know, real, be, know real, real be
+I:9191;576;be, bad, film, be, rich, complex, be bad, bad film, film be, be rich, rich complex
+I:9191;577;act, laugh, act laugh
+I:9191;578;direct, fun, watch, direct fun, fun watch
+I:9191;579;enjoyable, best, enjoyable best
+I:9191;580;be, first, film, embrace, existential, post, modern, central, conceit, absorb, drama, resonate, timely, provocative, tale, illusive, nature, so., call, be first, first film, film embrace, embrace existential, existential post, post modern, modern central, central conceit, conceit absorb, absorb drama, drama resonate, resonate timely, timely provocative, provocative tale, tale illusive, illusive nature, nature so., so. call
+I:9191;581;ingenious, use, camera, flashback, reveal, paradoxical, complexity, human, nature, people, ingenious use, use camera, camera flashback, flashback reveal, reveal paradoxical, paradoxical complexity, complexity human, human nature, nature people
+I:9191;582;give, commanding, performance, eloquent, masterwork, secure, international, stardom, give commanding, commanding performance, performance eloquent, eloquent masterwork, masterwork secure, secure international, international stardom
+I:9191;583;restore, image, sound, classic, revolutionize, film, language, introduce, japanese, cinema, global, audience, restore image, image sound, sound classic, classic revolutionize, revolutionize film, film language, language introduce, introduce japanese, japanese cinema, cinema global, global audience
+I:9191;584;load, extra, include, video, introduction, brilliant, commentary, japanese, film, historian, load extra, extra include, include video, video introduction, introduction brilliant, brilliant commentary, commentary japanese, japanese film, film historian
+I:9191;585;excerpt, be, include, world, documentary, incredible, cinematographer, excerpt be, be include, include world, world documentary, documentary incredible, incredible cinematographer
+I:9191;586;pantheon, greatest, filmmaker, stand, intellectual, artist, pantheon greatest, greatest filmmaker, filmmaker stand, stand intellectual, intellectual artist
+I:9191;587;best, film, have, shimmering, beauty, visceral, impact, engage, mind, best film, film have, have shimmering, shimmering beauty, beauty visceral, visceral impact, impact engage, engage mind
+I:9191;588;masterpiece, be, essential, element, serious, digital, library, masterpiece be, be essential, essential element, element serious, serious digital, digital library
+I:9191;589;act, pace, easy, understand, be, classic, act pace, pace easy, easy understand, understand be, be classic
+I:9191;590;film, course, be, inspiration, outrage, imitation, be, highest, form, flattery, fascinating, film, have, be, flatter, film course, course be, be inspiration, inspiration outrage, outrage imitation, imitation be, be highest, highest form, form flattery, flattery fascinating, fascinating film, film have, have be, be flatter
+I:9191;591;murder, husband, medium, murder husband, husband medium
+I:9191;592;tie, husband, rape, beautiful, wife, front, eye, tie husband, husband rape, rape beautiful, beautiful wife, wife front, front eye
+I:9191;593;give, careful, summary, film, thoughtful, comment, challenge, know, absolute, truth, experience, give careful, careful summary, summary film, film thoughtful, thoughtful comment, comment challenge, challenge know, know absolute, absolute truth, truth experience
+I:9191;594;sit, close, wish, have, larger, tv, be, draw, more, witness, complex, engaging, story, sit close, close wish, wish have, have larger, larger tv, tv be, be draw, draw more, more witness, witness complex, complex engaging, engaging story
+I:9191;595;man, commoner, join, woodcutter, begin, share, other, man, confusion, fact, surround, recent, rape, murder, man commoner, commoner join, join woodcutter, woodcutter begin, begin share, share other, other man, man confusion, confusion fact, fact surround, surround recent, recent rape, rape murder
+I:9191;596;samurai, means, medium, indicate, commit, suicide, samurai means, means medium, medium indicate, indicate commit, commit suicide
+I:9191;597;demonstrate, tell, event, viewer, be, likely, put, version, enhance, way, viewer, be, perceive, other, demonstrate tell, tell event, event viewer, viewer be, be likely, likely put, put version, version enhance, enhance way, way viewer, viewer be, be perceive, perceive other
+I:9191;598;world, fill, compete, stimulus, do, focus, attention, world fill, fill compete, compete stimulus, stimulus do, do focus, focus attention
+I:9191;599;reality, be, fabulous, film, show, be, ephemeral, light, pass, tree, forest, create, shadow, reality be, be fabulous, fabulous film, film show, show be, be ephemeral, ephemeral light, light pass, pass tree, tree forest, forest create, create shadow
+I:9191;600;rashomon, be, make, japanese, audience, be, popular, rashomon be, be make, make japanese, japanese audience, audience be, be popular
+I:9191;601;be, show, win, award, be show, show win, win award
+I:9191;602;time, have, take, place, finest, film, make, time have, have take, take place, place finest, finest film, film make
+I:9191;603;greatness, film, be, story, tell, superb, perfomance, actor, greatness film, film be, be story, story tell, tell superb, superb perfomance, perfomance actor
+I:9191;604;film, be, visual, throwback, silent, picture, film be, be visual, visual throwback, throwback silent, silent picture
+I:9191;605;superb, camera, work, be, important, part, story, tell, process, superb camera, camera work, work be, be important, important part, part story, story tell, tell process
+I:9191;606;masterpiece, be, western, culture, introduction, greatness, be, masterpiece be, be western, western culture, culture introduction, introduction greatness, greatness be
+I:9191;607;be, incredible, film, be incredible, incredible film
+I:9191;608;best, time, be, date, feature, great, acting, amazing, direction, doozy, story, best time, time be, be date, date feature, feature great, great acting, acting amazing, amazing direction, direction doozy, doozy story
+I:9191;609;be, favorite, kurosawa, film, be favorite, favorite kurosawa, kurosawa film
+I:9191;610;be, intellectual, entertainment, treat, be intellectual, intellectual entertainment, entertainment treat
+I:9191;611;story, line, be, hot, story line, line be, be hot
+I:9191;612;simple, answer, give, uncomprehending, assistant, director, be, invent, own, little, world, version, story, flatter, own, self, simple answer, answer give, give uncomprehending, uncomprehending assistant, assistant director, director be, be invent, invent own, own little, little world, world version, version story, story flatter, flatter own, own self
+I:9191;613;bandit, wish, be, see, bold, powerful, confines, law, bandit wish, wish be, be see, see bold, bold powerful, powerful confines, confines law
+I:9191;614;woodcutter, confront, wish, tell, truth, woodcutter confront, confront wish, wish tell, tell truth
+I:9191;615;film, put, truth, relativistic, purgatory, be, unfathomable, truthful, film put, put truth, truth relativistic, relativistic purgatory, purgatory be, be unfathomable, unfathomable truthful
+I:9191;616;be, film, work, cinema, photograph, shades, grey, suggest, color, be film, film work, work cinema, cinema photograph, photograph shades, shades grey, grey suggest, suggest color
+I:9191;617;see, eye, light, reflection, sun, mirror, lace, foilage, trick, cinematographer, use, increase, available, light, forest, retain, proper, leaf, see eye, eye light, light reflection, reflection sun, sun mirror, mirror lace, lace foilage, foilage trick, trick cinematographer, cinematographer use, use increase, increase available, available light, light forest, forest retain, retain proper, proper leaf
+I:9191;618;rashomon, be, film, catapult, japanese, film, international, cinematic, consciousness, make, reputation, launch, international, stardom, revolutionize, cinematography, rashomon be, be film, film catapult, catapult japanese, japanese film, film international, international cinematic, cinematic consciousness, consciousness make, make reputation, reputation launch, launch international, international stardom, stardom revolutionize, revolutionize cinematography
+I:9191;619;go, take, look, go take, take look
+I:9191;620;many, masterpiece, set, many masterpiece, masterpiece set
+I:9191;621;worthwhile, mark, materialize, community, school, project, underprivileged, child, have, be, put, hold, long, de, temps, come, worthwhile mark, mark materialize, materialize community, community school, school project, project underprivileged, underprivileged child, child have, have be, be put, put hold, hold long, long de, de temps, temps come
+I:9191;622;tell, sequence, screenplay, more, less, rashomon, be, portray, way, provoke, viewer, thought, sublime, performance, main, character, magnificent, light, use, tensed, atmosphere, appropriate, tell sequence, sequence screenplay, screenplay more, more less, less rashomon, rashomon be, be portray, portray way, way provoke, provoke viewer, viewer thought, thought sublime, sublime performance, performance main, main character, character magnificent, magnificent light, light use, use tensed, tensed atmosphere, atmosphere appropriate
+I:9191;623;film, suit, best, follow, viewer, type, unconventional, die, film suit, suit best, best follow, follow viewer, viewer type, type unconventional, unconventional die
+I:9191;624;sensei, master, be, best, conventional, director, time, sensei master, master be, be best, best conventional, conventional director, director time
+I:9191;625;best, movie, make, best movie, movie make
+I:9191;626;provoke, rumination, nature, memory, truth, self, gorgeous, work, make, masterpiece, provoke rumination, rumination nature, nature memory, memory truth, truth self, self gorgeous, gorgeous work, work make, make masterpiece
+I:9191;627;have, stand, test, time, have stand, stand test, test time
+I:9191;628;catcher, be, classic, catcher be, be classic
+I:9191;629;life?rashomon, dovetail, favorite, quote, truth, have, many, face, be, lie, life?rashomon dovetail, dovetail favorite, favorite quote, quote truth, truth have, have many, many face, face be, be lie
+I:9191;630;that, give, film, be, charm, truth, be, remain, hidden, deep, heart, film, that give, give film, film be, be charm, charm truth, truth be, be remain, remain hidden, hidden deep, deep heart, heart film
+I:9191;631;tough, film, hide, truth, time, be, truth, know, watch, tough film, film hide, hide truth, truth time, time be, be truth, truth know, know watch
+I:9191;632;be, film, be, tresor, be film, film be, be tresor
+I:9191;633;film, be, something, special, film be, be something, something special
+I:9191;634;convince, someone, watch, think, be, worth, time, convince someone, someone watch, watch think, think be, be worth, worth time
+I:9191;635;be, finest, japanese, film, have, see, be finest, finest japanese, japanese film, film have, have see
+I:9191;636;philosophical, film, truth, be, favorite, kurosawa, film, philosophical film, film truth, truth be, be favorite, favorite kurosawa, kurosawa film
+I:9191;637;favorite, aspect, film, be, photography, favorite aspect, aspect film, film be, be photography
+I:9191;638;rain, lighting, forest, sun, come, tree, rain lighting, lighting forest, forest sun, sun come, come tree
+I:9191;639;up, people, be, powerful, bit, cinematic, anything, hollywood, up people, people be, be powerful, powerful bit, bit cinematic, cinematic anything, anything hollywood
+I:9191;640;story, be, intriguing, story be, be intriguing
+I:9191;641;be, nature, story, be nature, nature story
+I:9191;642;way, be, examine, way be, be examine
+I:9191;643;lead, philosophical, contemplation, lead philosophical, philosophical contemplation
+I:9191;644;be, great, movie, age, be great, great movie, movie age
+I:9191;645;challenge, think, reality, be, lead, wonder, comprehend, reality, challenge think, think reality, reality be, be lead, lead wonder, wonder comprehend, comprehend reality
+I:9191;646;include, world, human, affair, include world, world human, human affair
+I:9191;647;film, star, bandit, be, base, seem, be, straightforward, event, film star, star bandit, bandit be, be base, base seem, seem be, be straightforward, straightforward event
+I:9191;648;woodcutter, priest, peasant, woodcutter priest, priest peasant
+I:9191;649;version, dead, samurai, version, be, provide, medium, differ, other, version dead, dead samurai, samurai version, version be, be provide, provide medium, medium differ, differ other
+I:9191;650;contemporary, psychologist, tell, same, human, be, able, distort, reality, protect, self, contemporary psychologist, psychologist tell, tell same, same human, human be, be able, able distort, distort reality, reality protect, protect self
+I:9191;651;image, make, motive, appear, be, good, competitor, be, good, image make, make motive, motive appear, appear be, be good, good competitor, competitor be, be good
+I:9191;652;sense, be, great, deal, human, nature, psychology, philosophy, stake, movie, sense be, be great, great deal, deal human, human nature, nature psychology, psychology philosophy, philosophy stake, stake movie
+I:9191;653;thing, sound, bleak, movie, close, event, provide, hope, human, produce, value, make, positive, thing, happen, thing sound, sound bleak, bleak movie, movie close, close event, event provide, provide hope, hope human, human produce, produce value, value make, make positive, positive thing, thing happen
+I:9191;654;wonderful, movie, wonderful movie
+I:9191;655;effect, be, simple, budget, be, small, effect be, be simple, simple budget, budget be, be small
+I:9191;656;end, be, movie, worth, view, large, part, difficult, question, raise, end be, be movie, movie worth, worth view, view large, large part, part difficult, difficult question, question raise
+I:9191;657;wife, thief, encounter, other, forest, wife thief, thief encounter, encounter other, other forest
+I:9191;658;series, flashback, story, series flashback, flashback story
+I:9191;659;be, happy, report, be, enjoy, notepad, textbook, be happy, happy report, report be, be enjoy, enjoy notepad, notepad textbook
+I:9191;660;be, beautiful, look, black, be beautiful, beautiful look, look black
+I:9191;661;other, word, be, brilliant, repeat, viewing, catch, play, false, other word, word be, be brilliant, brilliant repeat, repeat viewing, viewing catch, catch play, play false
+I:9191;662;be, classic, be, classic, be, be classic, classic be, be classic, classic be
+I:9191;663;be, enjoy, digging, be enjoy, enjoy digging
+I:9191;664;commentary, track, be, informative, little, didactic, commentary track, track be, be informative, informative little, little didactic
+I:9191;665;world, be, interesting, abrupt, world be, be interesting, interesting abrupt
+I:9191;666;be, greatest, director, time, be, presumptuous, attempt, rate, film, be greatest, greatest director, director time, time be, be presumptuous, presumptuous attempt, attempt rate, rate film
+I:9191;667;use, best, company, actor, cinematographer, musician, create, best, film, make, use best, best company, company actor, actor cinematographer, cinematographer musician, musician create, create best, best film, film make
+I:9191;668;be, marvelous, film, great, commentary, uninitiated, need, fear, lack, understanding, be marvelous, marvelous film, film great, great commentary, commentary uninitiated, uninitiated need, need fear, fear lack, lack understanding
+I:9191;669;great, film, be, available, great, price, great film, film be, be available, available great, great price
+I:9191;670;rashomon, remain, popular, famous, japanese, film, time, rashomon remain, remain popular, popular famous, famous japanese, japanese film, film time
+I:9191;671;be, deserving, be, honor, worthy, be deserving, deserving be, be honor, honor worthy
+I:9191;672;film, win, academy, award, best, foreign, language, film, film win, win academy, academy award, award best, best foreign, foreign language, language film
+I:9191;673;movie, have, excellent, cinematography, have, be, imitate, many, filmmaker, movie have, have excellent, excellent cinematography, cinematography have, have be, be imitate, imitate many, many filmmaker
+I:9191;674;film, remain, favorite, have, do, release, film remain, remain favorite, favorite have, have do, do release
+I:9191;675;best, scene, come, version, swordfight, tell, woodcutter, best scene, scene come, come version, version swordfight, swordfight tell, tell woodcutter
+I:9191;676;be, refresh, see, swordsman, charge, other, hesitation, see, most, other, movie, be refresh, refresh see, see swordsman, swordsman charge, charge other, other hesitation, hesitation see, see most, most other, other movie
+I:9191;677;act, be, bit, overdo, today, standard, movie, be, unsurpassed, best, make, act be, be bit, bit overdo, overdo today, today standard, standard movie, movie be, be unsurpassed, unsurpassed best, best make
+I:9191;678;have, be, call, greatest, film, time, director, critic, other, have be, be call, call greatest, greatest film, film time, time director, director critic, critic other
+I:9191;679;watch, come, agree, watch come, come agree
+I:9191;680;be, interesting, dead, man, have, own, view, omnipotent, third, be interesting, interesting dead, dead man, man have, have own, own view, view omnipotent, omnipotent third
+I:9191;681;point, watch, way, bandit, man, fight, describe, compare, way, peasant, see, point watch, watch way, way bandit, bandit man, man fight, fight describe, describe compare, compare way, way peasant, peasant see
+I:9191;682;opinion, opinion, thousand, people, have, watch, rashomon, year, film, be, masterpiece, opinion opinion, opinion thousand, thousand people, people have, have watch, watch rashomon, rashomon year, year film, film be, be masterpiece
+I:9191;683;thousand, people, agree, film, be, best, make, do, mean, opinion, opinion, thousand, be, true, thousand people, people agree, agree film, film be, be best, best make, make do, do mean, mean opinion, opinion opinion, opinion thousand, thousand be, be true
+I:9191;684;fact, force, think, fact force, force think
+I:9191;685;do, film, have, stunning, cinematography, camerawork, do film, film have, have stunning, stunning cinematography, cinematography camerawork
+I:9191;686;do, film, have, incredible, actor, do film, film have, have incredible, incredible actor
+I:9191;687;be, film, best, actor, come, be film, film best, best actor, actor come
+I:9191;688;artist, direct, superb, film, bee, make, honey, artist direct, direct superb, superb film, film bee, bee make, make honey
+I:9191;689;be, witness, give, own, account, happen, day, be witness, witness give, give own, own account, account happen, happen day
+I:9191;690;fact, eyewitness, testimony, be, consider, bedrock, justice, system, something, unassailable, key, prove, disprove, case, fact eyewitness, eyewitness testimony, testimony be, be consider, consider bedrock, bedrock justice, justice system, system something, something unassailable, unassailable key, key prove, prove disprove, disprove case
+I:9191;691;fallibility, human, perception, be, dispute, fallibility human, human perception, perception be, be dispute
+I:9191;692;great, art, movie, pose, great, question, do, have, easy, answer, be, answer, great art, art movie, movie pose, pose great, great question, question do, do have, have easy, easy answer, answer be, be answer
+I:9191;693;edition, be, great, lot, extra, interview, edition be, be great, great lot, lot extra, extra interview
+I:9191;694;be, extra, money, be extra, extra money
+I:9191;695;be, greatest, director, history, film, head, american, share, opinion, be greatest, greatest director, director history, history film, film head, head american, american share, share opinion
+I:9191;696;be, venture, be, greatest, achievement, be venture, venture be, be greatest, greatest achievement
+I:9191;697;make, greatest, film, year, be, film, student, study, make greatest, greatest film, film year, year be, be film, film student, student study
+I:9191;698;exquisite, pacing, stunning, cinematography, classic, story, terrible, unknowable, nature, truth, effect, perception, be, equal, exquisite pacing, pacing stunning, stunning cinematography, cinematography classic, classic story, story terrible, terrible unknowable, unknowable nature, nature truth, truth effect, effect perception, perception be, be equal
+I:9191;699;film, subjective, nature, truth, be, original, film, japanese, director, film subjective, subjective nature, nature truth, truth be, be original, original film, film japanese, japanese director
+I:9191;700;know, regard, classic, samurai, film, rich, observe, personal, film, be, overlook, most, fan, japanese, cinema, know regard, regard classic, classic samurai, samurai film, film rich, rich observe, observe personal, personal film, film be, be overlook, overlook most, most fan, fan japanese, japanese cinema
+I:9191;701;have, more, do, unconventional, approach, storytelling, anything, have more, more do, do unconventional, unconventional approach, approach storytelling, storytelling anything
+I:9191;702;use, camera, truth, detector, use camera, camera truth, truth detector
+I:9191;703;begin, question, subjective, nature, truth, personal, observation, world, begin question, question subjective, subjective nature, nature truth, truth personal, personal observation, observation world
+I:9191;704;mifune, be, marvelous, rapist/killer/lover, decide, hat, wear, unexpected, role, mifune be, be marvelous, marvelous rapist/killer/lover, rapist/killer/lover decide, decide hat, hat wear, wear unexpected, unexpected role
+I:9191;705;be, compelling, be, other, epic, be compelling, compelling be, be other, other epic
+I:9191;706;transfer, be, crisp, render, black, white, stark, sharp, image, beauty, belie, ugly, truth, transfer be, be crisp, crisp render, render black, black white, white stark, stark sharp, sharp image, image beauty, beauty belie, belie ugly, ugly truth
+I:9191;707;recommend, fan, japanese, cinema, anyone, like, entertainment, be, more, giant, meatball, recommend fan, fan japanese, japanese cinema, cinema anyone, anyone like, like entertainment, entertainment be, be more, more giant, giant meatball
+I:9191;708;rashomon, direct, star, be, film, hip, have, see, many, other, certain, book, rashomon direct, direct star, star be, be film, film hip, hip have, have see, see many, many other, other certain, certain book
+I:9191;709;have, certain, hip, cache, be, cineaste, have, see, discuss, great, detail, have certain, certain hip, hip cache, cache be, be cineaste, cineaste have, have see, see discuss, discuss great, great detail
+I:9191;710;dropper, know, mention, name, knowledgeable, context, be, view, awe, dropper know, know mention, mention name, name knowledgeable, knowledgeable context, context be, be view, view awe
+I:9191;711;honesty, be, explore, detail, wife, honesty, be, question, man, shelter, rainstorm, ruin, gate, relate, story, honesty be, be explore, explore detail, detail wife, wife honesty, honesty be, be question, question man, man shelter, shelter rainstorm, rainstorm ruin, ruin gate, gate relate, relate story
+I:9191;712;insane, be, act, insane be, be act
+I:9191;713;camera, work, be, exemplary, show, be, know, camera work, work be, be exemplary, exemplary show, show be, be know
+I:9191;714;worth, see, proof, say, be, side, story, wit, mine, happen, worth see, see proof, proof say, say be, be side, side story, story wit, wit mine, mine happen
+I:9191;715;be, great, film, be great, great film
+I:9191;716;capture, beauty, silent, film, focus, imagery, dialog, capture beauty, beauty silent, silent film, film focus, focus imagery, imagery dialog
+I:9191;717;twist, plot, character, comb, make, unique, viewing, experience, twist plot, plot character, character comb, comb make, make unique, unique viewing, viewing experience
+I:9191;718;be, wild, larger, life, be wild, wild larger, larger life
+I:9191;719;be, consider, film, be consider, consider film
+I:9191;720;interview, be, nice, comparable, interview, interview be, be nice, nice comparable, comparable interview
+I:9191;721;be, nice, documentary, cinematographer, be nice, nice documentary, documentary cinematographer
+I:9191;722;favorite, extra, be, collection, original, story, favorite extra, extra be, be collection, collection original, original story
+I:9191;723;recent, documentary, tell, story, female, soldier, be, be, rape, male, soldier, war, zone, top, brass, cover, recent documentary, documentary tell, tell story, story female, female soldier, soldier be, be be, be rape, rape male, male soldier, soldier war, war zone, zone top, top brass, brass cover
+I:9191;724;know, greatest, director, time, get, international, attention, film, open, japanese, film, market, world, know greatest, greatest director, director time, time get, get international, international attention, attention film, film open, open japanese, japanese film, film market, market world
+I:9191;725;release, film, director, win, many, coveted, award, release film, film director, director win, win many, many coveted, coveted award
+I:9191;726;story, be, simple, same, time, film, be, complex, story be, be simple, simple same, same time, time film, film be, be complex
+I:9191;727;bandit, play, great, be, accuse, rape, woman, murder, husband, wood, bandit play, play great, great be, be accuse, accuse rape, rape woman, woman murder, murder husband, husband wood
+I:9191;728;woman, witness, man, speak, medium, tell, version, event, woman witness, witness man, man speak, speak medium, medium tell, tell version, version event
+I:9191;729;film, technical, standpoint, be, perfect, innovative, use, camera, editing, film technical, technical standpoint, standpoint be, be perfect, perfect innovative, innovative use, use camera, camera editing
+I:9191;730;film, be, serious, be, meditation, nature, truth, film be, be serious, serious be, be meditation, meditation nature, nature truth
+I:9191;731;be, person, make, own, truth, lie, deceive, be person, person make, make own, own truth, truth lie, lie deceive
+I:9191;732;ego, be, big, need, comfort, keep, safe, harsh, reality, ego be, be big, big need, need comfort, comfort keep, keep safe, safe harsh, harsh reality
+I:9191;733;film, be, perfect, be, call, way, impact, japanese, film, film be, be perfect, perfect be, be call, call way, way impact, impact japanese, japanese film
+I:9191;734;enjoy, serious, film, investigate, nature, truth, see, film, enjoy serious, serious film, film investigate, investigate nature, nature truth, truth see, see film

@@ -1,0 +1,645 @@
+I:8819;1;mood, movie, be, set, start, mood movie, movie be, be set, set start
+I:8819;2;good, natured, trust, mentality, skew, perspective, crime, be, good natured, natured trust, trust mentality, mentality skew, skew perspective, perspective crime, crime be
+I:8819;3;finest, set, tone, film, use, everyday, atmosphere, finest set, set tone, tone film, film use, use everyday, everyday atmosphere
+I:8819;4;be, first, time, have, see, movie, be first, first time, time have, have see, see movie
+I:8819;5;first, moment, watch, masterpiece, be, impressed, first moment, moment watch, watch masterpiece, masterpiece be, be impressed
+I:8819;6;story, be, unassuming, today, action, pack, film, story be, be unassuming, unassuming today, today action, action pack, pack film
+I:8819;7;make, movie, enjoyable, be, humanity, main, robber, deal, change, circumstance, make movie, movie enjoyable, enjoyable be, be humanity, humanity main, main robber, robber deal, deal change, change circumstance
+I:8819;8;fill, chaos, change, world, movie, reflect, fill chaos, chaos change, change world, world movie, movie reflect
+I:8819;9;ray, be, impressed, ray be, be impressed
+I:8819;10;movie, be, true, vision, create, be, see, stunning, detail, movie be, be true, true vision, vision create, create be, be see, see stunning, stunning detail
+I:8819;11;story, dialogue, be, real, be, delight, like, non, story dialogue, dialogue be, be real, real be, be delight, delight like, like non
+I:8819;12;love, good, story, afternoon, be, watch, list, love good, good story, story afternoon, afternoon be, be watch, watch list
+I:8819;13;put, great, american, film, great, american, performance, put great, great american, american film, film great, great american, american performance
+I:8819;14;classic, many, reason, recommend, film, classic many, many reason, reason recommend, recommend film
+I:8819;15;dog, day, afternoon, feel, fresh, dog day, day afternoon, afternoon feel, feel fresh
+I:8819;16;pack, much, talent, many, unforgettable, moment, pack much, much talent, talent many, many unforgettable, unforgettable moment
+I:8819;17;watch, best, pacino, have, be, watch best, best pacino, pacino have, have be
+I:8819;18;think, belong, year, think belong, belong year
+I:8819;19;want, see, character, good, actor, delve, want see, see character, character good, good actor, actor delve
+I:8819;20;be, late, brilliant, 70, performance, be, godfather, be late, late brilliant, brilliant 70, 70 performance, performance be, be godfather
+I:8819;21;be, quintessential, location, movie, be quintessential, quintessential location, location movie
+I:8819;22;monologue, barber, shop, be, convincing, think, way, be, guy, marry, monologue barber, barber shop, shop be, be convincing, convincing think, think way, way be, be guy, guy marry
+I:8819;23;jame, performance, agent, be, masterpiece, iceberg, acting, %, be, go, be, surface, make, %, do, see, powerful, jame performance, performance agent, agent be, be masterpiece, masterpiece iceberg, iceberg acting, acting %, % be, be go, go be, be surface, surface make, make %, % do, do see, see powerful
+I:8819;24;pacino, time, pacino time
+I:8819;25;give, anything, give anything
+I:8819;26;be, film, sweep, win, award, lead, actor, lead, actress, feat, have, be, accomplish, time, history, award, be film, film sweep, sweep win, win award, award lead, lead actor, actor lead, lead actress, actress feat, feat have, have be, be accomplish, accomplish time, time history, history award
+I:8819;27;afternoon, be, brilliant, film, desperation, last, resort, film, power, misguided, passion, man, be, push, limit, feel, trap, press, corner, afternoon be, be brilliant, brilliant film, film desperation, desperation last, last resort, resort film, film power, power misguided, misguided passion, passion man, man be, be push, push limit, limit feel, feel trap, trap press, press corner
+I:8819;28;capture, state, mind, deliver, be, finest, performance, capture state, state mind, mind deliver, deliver be, be finest, finest performance
+I:8819;29;manipulation, audience, be, control, manipulation audience, audience be, be control
+I:8819;30;glide, panic, ease, charisma, nest, defiance, false, sense, dominance, believe, have, handle, situation, glide panic, panic ease, ease charisma, charisma nest, nest defiance, defiance false, false sense, sense dominance, dominance believe, believe have, have handle, handle situation
+I:8819;31;rest, cast, be, brilliant, have, receive, nomination, rest cast, cast be, be brilliant, brilliant have, have receive, receive nomination
+I:8819;32;main, detective, case, durning, be, powerful, presence, reason, main detective, detective case, case durning, durning be, be powerful, powerful presence, presence reason
+I:8819;33;float, scene, such, confidence, maturity, float scene, scene such, such confidence, confidence maturity
+I:8819;34;have, few, strong, scene, add, twist, film, know, character, have, be, spoil, few, review, do, manage, draw, audience, sympathy, be, be, award, nomination, have few, few strong, strong scene, scene add, add twist, twist film, film know, know character, character have, have be, be spoil, spoil few, few review, review do, do manage, manage draw, draw audience, audience sympathy, sympathy be, be be, be award, award nomination
+I:8819;35;sidney, direct, afternoon, ferocious, intensity, intensity, match, fearless, throw, word, performance, sidney direct, direct afternoon, afternoon ferocious, ferocious intensity, intensity intensity, intensity match, match fearless, fearless throw, throw word, word performance
+I:8819;36;afternoon, let, go, audience, hold, bay, entirety, be, magical, thing, afternoon let, let go, go audience, audience hold, hold bay, bay entirety, entirety be, be magical, magical thing
+I:8819;37;love, film, base, real, life, event, help, see, true, life, be, engrossing, disturbing, downright, mesmerizing, fiction, love film, film base, base real, real life, life event, event help, help see, see true, true life, life be, be engrossing, engrossing disturbing, disturbing downright, downright mesmerizing, mesmerizing fiction
+I:8819;38;afternoon, be, proof, statement, afternoon be, be proof, proof statement
+I:8819;39;have, be, age, see, movie, have be, be age, age see, see movie
+I:8819;40;love, pacino, such, great, actor, love pacino, pacino such, such great, great actor
+I:8819;41;forget, be, true, story, forget be, be true, true story
+I:8819;42;be, serious, be, funny, have, wierd, sence, humor, be serious, serious be, be funny, funny have, have wierd, wierd sence, sence humor
+I:8819;43;act, movie, be, fantastic, act movie, movie be, be fantastic
+I:8819;44;capture, detail, capture detail
+I:8819;45;think, be, best, work, think be, be best, best work
+I:8819;46;be, great, bisexual, hold, bank, be great, great bisexual, bisexual hold, hold bank
+I:8819;47;be, fun, begin, be fun, fun begin
+I:8819;48;turn, afterword, be, exciting, great, story, let, go, turn afterword, afterword be, be exciting, exciting great, great story, story let, let go
+I:8819;49;excellent, movie, be, great, direct, excellent movie, movie be, be great, great direct
+I:8819;50;be, quintessential, look, feel, american, filmmaking, be quintessential, quintessential look, look feel, feel american, american filmmaking
+I:8819;51;be, master, unspoken, expression, be master, master unspoken, unspoken expression
+I:8819;52;character, bring, gamut, emotion, expect, character bring, bring gamut, gamut emotion, emotion expect
+I:8819;53;be, best, be best
+I:8819;54;be, real, artist, be real, real artist
+I:8819;55;best, movie, best movie
+I:8819;56;be, best, example, movie, explore, taboo, subject, matter, nonexplotive, way, be best, best example, example movie, movie explore, explore taboo, taboo subject, subject matter, matter nonexplotive, nonexplotive way
+I:8819;57;lot, great, movie, come, era, lot great, great movie, movie come, come era
+I:8819;58;everyone, be, great, pacino, everyone be, be great, great pacino
+I:8819;59;see, theatre, be, kid, be, surprised, movie, hold, see theatre, theatre be, be kid, kid be, be surprised, surprised movie, movie hold
+I:8819;60;brilliant, film, version, real, brilliant film, film version, version real
+I:8819;61;be, fantastic, criminal, wonderful, suicidal, boyfriend, favourite, performance, film, be, genius, smart, be fantastic, fantastic criminal, criminal wonderful, wonderful suicidal, suicidal boyfriend, boyfriend favourite, favourite performance, performance film, film be, be genius, genius smart
+I:8819;62;seat, tension, thanks, editing, add, bonus, great, comedy, come, watch, guy, lack, expertise, matter, solid, crime, seat tension, tension thanks, thanks editing, editing add, add bonus, bonus great, great comedy, comedy come, come watch, watch guy, guy lack, lack expertise, expertise matter, matter solid, solid crime
+I:8819;63;dog, day, afternoon, have, age, dog day, day afternoon, afternoon have, have age
+I:8819;64;put, millieu, put, touch, character, do, call, attention, direction, put millieu, millieu put, put touch, touch character, character do, do call, call attention, attention direction
+I:8819;65;exception, use, sound, effect, do, work, music, track, exception use, use sound, sound effect, effect do, do work, work music, music track
+I:8819;66;keep, set, get, dingy, time, keep set, set get, get dingy, dingy time
+I:8819;67;be, nice, be, lighting, go, flourescent, harshness, cold, night, be nice, nice be, be lighting, lighting go, go flourescent, flourescent harshness, harshness cold, cold night
+I:8819;68;year, year, release, afternoon, bring, present, narrative, compelling, seem, wehn, first, release, year year, year release, release afternoon, afternoon bring, bring present, present narrative, narrative compelling, compelling seem, seem wehn, wehn first, first release
+I:8819;69;deliver, great, performance, transvestite, look, raise, money, lover, sex, change, operation, deliver great, great performance, performance transvestite, transvestite look, look raise, raise money, money lover, lover sex, sex change, change operation
+I:8819;70;film, be, violent, make, strong, point, film be, be violent, violent make, make strong, strong point
+I:8819;71;performance, be, mesmerizing, fact, happen, modern, add, film, punch, performance be, be mesmerizing, mesmerizing fact, fact happen, happen modern, modern add, add film, film punch
+I:8819;72;great, act, actor, star, great act, act actor, actor star
+I:8819;73;pacino, best, pacino best
+I:8819;74;part, movie, be, interesting, public, part movie, movie be, be interesting, interesting public
+I:8819;75;movie, be, classic, show, alot, pacino, get, personification, serpico, carlito, scarface, movie be, be classic, classic show, show alot, alot pacino, pacino get, get personification, personification serpico, serpico carlito, carlito scarface
+I:8819;76;see, fan, movie, see fan, fan movie
+I:8819;77;change, operation, hold, bank, dimwit, friend, play, half, change operation, operation hold, hold bank, bank dimwit, dimwit friend, friend play, play half
+I:8819;78;porcino, be, great, half, porcino be, be great, great half
+I:8819;79;charle, give, stellar, performance, police, detective, charge, do, be, perfect, accomplice, be, way, head, think, be, country, charle give, give stellar, stellar performance, performance police, police detective, detective charge, charge do, do be, be perfect, perfect accomplice, accomplice be, be way, way head, head think, think be, be country
+I:8819;80;movie, have, perfect, feel, large, crowd, form, bank, siding, porcino, movie have, have perfect, perfect feel, feel large, large crowd, crowd form, form bank, bank siding, siding porcino
+I:8819;81;realize, be, more, victim, victimizer, become, tragic, figure, sympathize, realize be, be more, more victim, victim victimizer, victimizer become, become tragic, tragic figure, figure sympathize
+I:8819;82;excellent, movie, watch, excellent movie, movie watch
+I:8819;83;movie, have, young, movie have, have young
+I:8819;84;be, base, true, bank, robbery, story, be base, base true, true bank, bank robbery, robbery story
+I:8819;85;greatest, film, make, greatest film, film make
+I:8819;86;be, sweaty, gritty, true, crime, vehicle, genius, be, be sweaty, sweaty gritty, gritty true, true crime, crime vehicle, vehicle genius, genius be
+I:8819;87;character, wife, character wife
+I:8819;88;film, be, pack, raw, moment, absolute, human, emotion, there, need, glamorize, character, demonize, film be, be pack, pack raw, raw moment, moment absolute, absolute human, human emotion, emotion there, there need, need glamorize, glamorize character, character demonize
+I:8819;89;be, extra, kind, viewer, do, go, find, nice, add, be extra, extra kind, kind viewer, viewer do, do go, go find, find nice, nice add
+I:8819;90;bank, find, rapport, hostage, come, grand, scheme, escape, bank find, find rapport, rapport hostage, hostage come, come grand, grand scheme, scheme escape
+I:8819;91;great, performance, root, realize, be, dumb, be, harmless, great performance, performance root, root realize, realize be, be dumb, dumb be, be harmless
+I:8819;92;shoot, location, be, treat, watch, work, crowd, bank, shoot location, location be, be treat, treat watch, watch work, work crowd, crowd bank
+I:8819;93;dog, day, afternoon, extraordinary, movie, own, right, be, make, extraordinary, be, true, dog day, day afternoon, afternoon extraordinary, extraordinary movie, movie own, own right, right be, be make, make extraordinary, extraordinary be, be true
+I:8819;94;be, movie, base, character, study, simple, plot, be movie, movie base, base character, character study, study simple, simple plot
+I:8819;95;best, performance, date, imo, be, mastermind, heist, sal, brilliant, be, brooding, follower, best performance, performance date, date imo, imo be, be mastermind, mastermind heist, heist sal, sal brilliant, brilliant be, be brooding, brooding follower
+I:8819;96;be, fascinating, account, seduction, celebrity, evidence, bank, teller, want, remain, bank, give, interview, be, save, nice, touch, pizza, man, deliver, pizza, surround, tv, camera, shout, be, ing, star, be fascinating, fascinating account, account seduction, seduction celebrity, celebrity evidence, evidence bank, bank teller, teller want, want remain, remain bank, bank give, give interview, interview be, be save, save nice, nice touch, touch pizza, pizza man, man deliver, deliver pizza, pizza surround, surround tv, tv camera, camera shout, shout be, be ing, ing star
+I:8819;97;go, plot, intriguing, support, movie, own, go plot, plot intriguing, intriguing support, support movie, movie own
+I:8819;98;be, wonderful, wonderful, wonderful, be wonderful, wonderful wonderful, wonderful wonderful
+I:8819;99;be, adorable, dorkiness, get, nervous, face, tic, shuffle, step, wonderful, boyish, insecure, voice, pat, be adorable, adorable dorkiness, dorkiness get, get nervous, nervous face, face tic, tic shuffle, shuffle step, step wonderful, wonderful boyish, boyish insecure, insecure voice, voice pat
+I:8819;100;face, likable, be, rob, bank, think, pacino, exude, charm, likeability, be, play, face likable, likable be, be rob, rob bank, bank think, think pacino, pacino exude, exude charm, charm likeability, likeability be, be play
+I:8819;101;have, see, most, film, consider, be, best, performance, date, better, amazing, performance, movie, be, say, something, adore, have see, see most, most film, film consider, consider be, be best, best performance, performance date, date better, better amazing, amazing performance, performance movie, movie be, be say, say something, something adore
+I:8819;102;caliber, performance, have, win, year, caliber performance, performance have, have win, win year
+I:8819;103;be, good, brooding, reserved, be, perfect, counterbalance, scream, wide, be good, good brooding, brooding reserved, reserved be, be perfect, perfect counterbalance, counterbalance scream, scream wide
+I:8819;104;nominate, be, good, lover, male, wife, nominate be, be good, good lover, lover male, male wife
+I:8819;105;strong, support, cast, make, film, enjoyable, strong support, support cast, cast make, make film, film enjoyable
+I:8819;106;say, screenplay, be, say screenplay, screenplay be
+I:8819;107;deserve, witty, dialogue, think, deserve witty, witty dialogue, dialogue think
+I:8819;108;funny, compassionate, scene, funny compassionate, compassionate scene
+I:8819;109;take, example, memorable, scene, tell, police, captain, kiss, take example, example memorable, memorable scene, scene tell, tell police, police captain, captain kiss
+I:8819;110;police, win, crowd, support, police win, win crowd, crowd support
+I:8819;111;scene, be, pure, adrenaline, thrilling, exciting, scene, have, witness, screen, scene be, be pure, pure adrenaline, adrenaline thrilling, thrilling exciting, exciting scene, scene have, have witness, witness screen
+I:8819;112;best, scene, movie, be, telephone, conversation, male, wife, other, female, wife, best scene, scene movie, movie be, be telephone, telephone conversation, conversation male, male wife, wife other, other female, female wife
+I:8819;113;claim, pacino, improvise, most, telephone, conversation, be, testament, skill, actor, telephone, conversation, be, funny, claim pacino, pacino improvise, improvise most, most telephone, telephone conversation, conversation be, be testament, testament skill, skill actor, actor telephone, telephone conversation, conversation be, be funny
+I:8819;114;be, crazy, people, wear, thing, head, poignant, be, warped, know, be crazy, crazy people, people wear, wear thing, thing head, head poignant, poignant be, be warped, warped know
+I:8819;115;conversation, wife, be, good, pacino, get, chance, let, trademark, volcanic, conversation wife, wife be, be good, good pacino, pacino get, get chance, chance let, let trademark, trademark volcanic
+I:8819;116;wonderful, scene, work, capture, madness, poignancy, compassion, event, wonderful scene, scene work, work capture, capture madness, madness poignancy, poignancy compassion, compassion event
+I:8819;117;make, movie, director, know, movie, be, superb, character, make movie, movie director, director know, know movie, movie be, be superb, superb character
+I:8819;118;study, stick, character, study stick, stick character
+I:8819;119;favorite, movie, definite, favorite movie, movie definite
+I:8819;120;great, movie, great, second, disc, great, everything, great movie, movie great, great second, second disc, disc great, great everything
+I:8819;121;be, funniest, base, true, story, movie, have, see, be funniest, funniest base, base true, true story, story movie, movie have, have see
+I:8819;122;pacino, be, great, pacino be, be great
+I:8819;123;sit, laugh, whole, scenario, sit laugh, laugh whole, whole scenario
+I:8819;124;say, be, great, movie, say be, be great, great movie
+I:8819;125;roba, bank, get, lover, operation, roba bank, bank get, get lover, lover operation
+I:8819;126;be, crossthe, street, moment, be crossthe, crossthe street, street moment
+I:8819;127;movie, be, fantasticand, show, have, greatest, film, movie be, be fantasticand, fantasticand show, show have, have greatest, greatest film
+I:8819;128;love, dog, dayafternoon, be, lucky, see, big, screenat, run, theatre, ca, love dog, dog dayafternoon, dayafternoon be, be lucky, lucky see, see big, big screenat, screenat run, run theatre, theatre ca
+I:8819;129;play, lover, be, hystericalhe, win, best, support, year, play lover, lover be, be hystericalhe, hystericalhe win, win best, best support, support year
+I:8819;130;recommend, great, pachinie, godfather, godfather, iiscarface, =, advocate, hey, recommend great, great pachinie, pachinie godfather, godfather godfather, godfather iiscarface, iiscarface =, = advocate, advocate hey
+I:8819;131;be, complex, dynamic, criminal, have, see, film, be complex, complex dynamic, dynamic criminal, criminal have, have see, see film
+I:8819;132;be, top, form, be top, top form
+I:8819;133;day, classic, endure, be, interesting, thanks, intense, performance, humor, mix, tense, crime, story, day classic, classic endure, endure be, be interesting, interesting thanks, thanks intense, intense performance, performance humor, humor mix, mix tense, tense crime, crime story
+I:8819;134;time, viewer, enjoy, movie, theater, time viewer, viewer enjoy, enjoy movie, movie theater
+I:8819;135;life, event, make, interesting, life event, event make, make interesting
+I:8819;136;other, character, be, interesting, partner, other character, character be, be interesting, interesting partner
+I:8819;137;story, be, memorable, big, hit, come, story be, be memorable, memorable big, big hit, hit come
+I:8819;138;be, film, love, moment, see, be film, film love, love moment, moment see
+I:8819;139;be, be, interested, be be, be interested
+I:8819;140;love, film, be, best, overall, decade, movie, toy, music, love film, film be, be best, best overall, overall decade, decade movie, movie toy, toy music
+I:8819;141;old, car, be, easier, imagine, be, hottest, thing, be, clear, real, life, old car, car be, be easier, easier imagine, imagine be, be hottest, hottest thing, thing be, be clear, clear real, real life
+I:8819;142;have, be, nice, include, actual, footage, real, event, people, see, wild, scene, be, real, life, have be, be nice, nice include, include actual, actual footage, footage real, real event, event people, people see, see wild, wild scene, scene be, be real, real life
+I:8819;143;have, see, see, have see, see see
+I:8819;144;be, master, art, act, film, be master, master art, art act, act film
+I:8819;145;dog, day, afternoon, be, base, actual, event, take, place, have, become, signature, role, dog day, day afternoon, afternoon be, be base, base actual, actual event, event take, take place, place have, have become, become signature, signature role
+I:8819;146;feature, lean, efficient, filmmaking, establish, life, city, edit, montage, show, people, work, play, blue, collar, type, office, worker, people, race, feature lean, lean efficient, efficient filmmaking, filmmaking establish, establish life, life city, city edit, edit montage, montage show, show people, people work, work play, play blue, blue collar, collar type, type office, office worker, worker people, people race
+I:8819;147;lumet, walk, fine, line, gritty, crime, film, absurdist, comedy, lumet walk, walk fine, fine line, line gritty, gritty crime, crime film, film absurdist, absurdist comedy
+I:8819;148;intense, performance, teeter, edge, hysteria, be, root, heartfelt, realism, make, sympathetic, character, intense performance, performance teeter, teeter edge, edge hysteria, hysteria be, be root, root heartfelt, heartfelt realism, realism make, make sympathetic, sympathetic character
+I:8819;149;be, great, hear, talk, movie, be, proud, be great, great hear, hear talk, talk movie, movie be, be proud
+I:8819;150;do, great, job, take, landmark, movie, informative, commentary, do great, great job, job take, take landmark, landmark movie, movie informative, informative commentary
+I:8819;151;second, disc, feature, make, afternoon, consist, featurette, be, view, second disc, disc feature, feature make, make afternoon, afternoon consist, consist featurette, featurette be, be view
+I:8819;152;most, main, cast, crew, contribute, new, interview, include, excellent, retrospective, look, important, film, most main, main cast, cast crew, crew contribute, contribute new, new interview, interview include, include excellent, excellent retrospective, retrospective look, look important, important film
+I:8819;153;filmmaker, be, vintage, featurette, director, do, making, afternoon, filmmaker be, be vintage, vintage featurette, featurette director, director do, do making, making afternoon
+I:8819;154;see, action, direct, cast, location, see action, action direct, direct cast, cast location
+I:8819;155;be, nice, snapshot, man, day, be nice, nice snapshot, snapshot man, man day
+I:8819;156;watch, movie, friend, age, be, sheltered, grow, be, blow, realistic, pace, movie, watch movie, movie friend, friend age, age be, be sheltered, sheltered grow, grow be, be blow, blow realistic, realistic pace, pace movie
+I:8819;157;cool, street, scene, superb, acting, pacino, cool street, street scene, scene superb, superb acting, acting pacino
+I:8819;158;transfer, be, clean, fun, watch, true, crime, story, transfer be, be clean, clean fun, fun watch, watch true, true crime, crime story
+I:8819;159;successful, collaboration, do, everyone, favor, team, make, dog, day, afternoon, successful collaboration, collaboration do, do everyone, everyone favor, favor team, team make, make dog, dog day, day afternoon
+I:8819;160;film, comprise, best, work, early, 1970, film comprise, comprise best, best work, work early, early 1970
+I:8819;161;dog, day, afternoon, begin, stark, realism, have, come, expect, dog day, day afternoon, afternoon begin, begin stark, stark realism, realism have, have come, come expect
+I:8819;162;be, interesting, character, cinema, be, reason, performance, be, memorable, be interesting, interesting character, character cinema, cinema be, be reason, reason performance, performance be, be memorable
+I:8819;163;dog, day, afternoon, provide, nice, critique, media, media, become, entranced, bank, robbery, dog day, day afternoon, afternoon provide, provide nice, nice critique, critique media, media media, media become, become entranced, entranced bank, bank robbery
+I:8819;164;scene, work, crowd, hold, several, hostage, be, magnificent, inspiring, film, famous, line, scene work, work crowd, crowd hold, hold several, several hostage, hostage be, be magnificent, magnificent inspiring, inspiring film, film famous, famous line
+I:8819;165;many, city, be, hero, many city, city be, be hero
+I:8819;166;be, fascinating, watch, hostage, bank, become, excited, wrap, idea, be, television, be fascinating, fascinating watch, watch hostage, hostage bank, bank become, become excited, excited wrap, wrap idea, idea be, be television
+I:8819;167;something, interesting, happen, 1970, cinema, be, sure, have, be, able, get, something interesting, interesting happen, happen 1970, 1970 cinema, cinema be, be sure, sure have, have be, be able, able get
+I:8819;168;base, true, story, botched, bank, robbery, heist, afternoon, be, suspenseful, attention, base true, true story, story botched, botched bank, bank robbery, robbery heist, heist afternoon, afternoon be, be suspenseful, suspenseful attention
+I:8819;169;partner, point, automatic, gun, bank, manager, tone, movie, be, set, partner point, point automatic, automatic gun, gun bank, bank manager, manager tone, tone movie, movie be, be set
+I:8819;170;version, contain, add, bonus, footage, cast, film, staff, interview, be, real, treat, version contain, contain add, add bonus, bonus footage, footage cast, cast film, film staff, staff interview, interview be, be real, real treat
+I:8819;171;movie, be, sure, be, winner, movie be, be sure, sure be, be winner
+I:8819;172;have, like, one, show, future, genius, have like, like one, one show, show future, future genius
+I:8819;173;strongest, attraction, order, be, presence, play, powerful, character, brightest, bulb, room, same, strongest attraction, attraction order, order be, be presence, presence play, play powerful, powerful character, character brightest, brightest bulb, bulb room, room same
+I:8819;174;be, rough, year, be, great, film, year, fly, cuckoo, winner, afternoon, feature, classic, iconic, performance, be rough, rough year, year be, be great, great film, film year, year fly, fly cuckoo, cuckoo winner, winner afternoon, afternoon feature, feature classic, classic iconic, iconic performance
+I:8819;175;have, see, pacino, stage, american, perform, much, intensity, be, have see, see pacino, pacino stage, stage american, american perform, perform much, much intensity, intensity be
+I:8819;176;be, dearth, good, material, cause, great, actor, pacino, return, stage, first, love, be dearth, dearth good, good material, material cause, cause great, great actor, actor pacino, pacino return, return stage, stage first, first love
+I:8819;177;air, conditioning, be, be, brilliant, portrayal, film, botched, attempt, rob, bank, turn, dangerous, hostage, crisis, twisted, media, circus, desperate, be, try, finance, lover, sex, air conditioning, conditioning be, be be, be brilliant, brilliant portrayal, portrayal film, film botched, botched attempt, attempt rob, rob bank, bank turn, turn dangerous, dangerous hostage, hostage crisis, crisis twisted, twisted media, media circus, circus desperate, desperate be, be try, try finance, finance lover, lover sex
+I:8819;178;keep, eye, memorable, cameo, keep eye, eye memorable, memorable cameo
+I:8819;179;smart, screenplay, be, base, article, smart screenplay, screenplay be, be base, base article
+I:8819;180;disc, edition, be, outstanding, great, transfer, film, disc edition, edition be, be outstanding, outstanding great, great transfer, transfer film
+I:8819;181;be, actor, be, light, year, anyone, movie, be actor, actor be, be light, light year, year anyone, anyone movie
+I:8819;182;almsot, hour, give, cinema, greatest, performance, have, see, almsot hour, hour give, give cinema, cinema greatest, greatest performance, performance have, have see
+I:8819;183;magic, bring, screen, be, irresistable, exciting, breathtaking, magic bring, bring screen, screen be, be irresistable, irresistable exciting, exciting breathtaking
+I:8819;184;classic, keep, rivet, entire, movie, few, other, movie, do, classic keep, keep rivet, rivet entire, entire movie, movie few, few other, other movie, movie do
+I:8819;185;dog, day, afternoon, be, dog day, day afternoon, afternoon be
+I:8819;186;have, say, have say
+I:8819;187;way, portray, man, way portray, portray man
+I:8819;188;give, greatest, performance, illustrious, career, give greatest, greatest performance, performance illustrious, illustrious career
+I:8819;189;lead, way, amazing, support, cast, lead way, way amazing, amazing support, support cast
+I:8819;190;brilliant, chess, match, perpetrator, police/fbi, hostage, balance, brilliant chess, chess match, match perpetrator, perpetrator police/fbi, police/fbi hostage, hostage balance
+I:8819;191;be, best, amazing, film, be best, best amazing, amazing film
+I:8819;192;love, older, movie, develop, character, care, happen, love older, older movie, movie develop, develop character, character care, care happen
+I:8819;193;be, such, great, story, bank, robbery, go, wrong, be such, such great, great story, story bank, bank robbery, robbery go, go wrong
+I:8819;194;have, see, have see
+I:8819;195;dog, day, afternoon, be, real, classic, ask, difficult, question, role, celebrity, money, responsibility, play, everyday, life, dog day, day afternoon, afternoon be, be real, real classic, classic ask, ask difficult, difficult question, question role, role celebrity, celebrity money, money responsibility, responsibility play, play everyday, everyday life
+I:8819;196;life, be, struggle, society, want, bring, be, police, force, be, determine, do, same, life be, be struggle, struggle society, society want, want bring, bring be, be police, police force, force be, be determine, determine do, do same
+I:8819;197;allow, certain, charm, film, have, appear, possible, outset, allow certain, certain charm, charm film, film have, have appear, appear possible, possible outset
+I:8819;198;afternoon, end, be, strange, fantastic, mix, gun, afternoon end, end be, be strange, strange fantastic, fantastic mix, mix gun
+I:8819;199;sling, tension, oddball, charm, have, be, rightful, place, film, history, create, interesting, new, twist, crime, genre, sling tension, tension oddball, oddball charm, charm have, have be, be rightful, rightful place, place film, film history, history create, create interesting, interesting new, new twist, twist crime, crime genre
+I:8819;200;dog, day, afternoon, be, favourite, film, dog day, day afternoon, afternoon be, be favourite, favourite film
+I:8819;201;be, brilliant, be brilliant
+I:8819;202;make, seem, believable, make seem, seem believable
+I:8819;203;be, be, fantastic, be be, be fantastic
+I:8819;204;rest, cast, be, superb, rest cast, cast be, be superb
+I:8819;205;fact, afternoon, be, base, true, story, help, add, dimension, film, fact afternoon, afternoon be, be base, base true, true story, story help, help add, add dimension, dimension film
+I:8819;206;final, thing, be, great, afternoon, be, be, emotional, end, be, funny, place, final thing, thing be, be great, great afternoon, afternoon be, be be, be emotional, emotional end, end be, be funny, funny place
+I:8819;207;look, make, laugh, cry, think, happen, be, funny, line, country, look make, make laugh, laugh cry, cry think, think happen, happen be, be funny, funny line, line country
+I:8819;208;be, pacino, do, finest, work, career, be pacino, pacino do, do finest, finest work, work career
+I:8819;209;be, incredible, difficult, role, stamina, hold, break, continuity, be, able, make, tragic, likeable, character, flawed, logic, bumble, ineffectiveness, robber, be incredible, incredible difficult, difficult role, role stamina, stamina hold, hold break, break continuity, continuity be, be able, able make, make tragic, tragic likeable, likeable character, character flawed, flawed logic, logic bumble, bumble ineffectiveness, ineffectiveness robber
+I:8819;210;scene, end, dictate, bank, teller, write, be, moving, scene, cinema, scene end, end dictate, dictate bank, bank teller, teller write, write be, be moving, moving scene, scene cinema
+I:8819;211;film, atmosphere, be, feel, stifiling, swelter, heat, bank, be, sit, hostage, film atmosphere, atmosphere be, be feel, feel stifiling, stifiling swelter, swelter heat, heat bank, bank be, be sit, sit hostage
+I:8819;212;have, be, good, series, have be, be good, good series
+I:8819;213;movie, be, excellent, movie be, be excellent
+I:8819;214;acting, be, outstanding, story, be, write, acting be, be outstanding, outstanding story, story be, be write
+I:8819;215;phone, be, silly, fun, phone be, be silly, silly fun
+I:8819;216;background, detail, picture, wall, club, bank, advertisement, stand, make, movie, set, feel, realistic, background detail, detail picture, picture wall, wall club, club bank, bank advertisement, advertisement stand, stand make, make movie, movie set, set feel, feel realistic
+I:8819;217;be, mark, great, actor, be mark, mark great, great actor
+I:8819;218;have, own, gravity, compact, cassette, many, year, be, happy, see, available, disc, have own, own gravity, gravity compact, compact cassette, cassette many, many year, year be, be happy, happy see, see available, available disc
+I:8819;219;favorite, album, favorite album
+I:8819;220;be, soulful, best, be soulful, soulful best
+I:8819;221;rack, movie, be, afternoon, star, rack movie, movie be, be afternoon, afternoon star
+I:8819;222;be, best, movie, have, see, year, be best, best movie, movie have, have see, see year
+I:8819;223;understand, receive, award, nomination, include, best, understand receive, receive award, award nomination, nomination include, include best
+I:8819;224;be, kind, movie, be kind, kind movie
+I:8819;225;crowd, thousand, gather, cheer, proceedings, crowd thousand, thousand gather, gather cheer, cheer proceedings
+I:8819;226;act, movie, be, good, act movie, movie be, be good
+I:8819;227;feel, be, function, part, story, feel be, be function, function part, part story
+I:8819;228;come, likable, robber, partner, be, creepy, get, come likable, likable robber, robber partner, partner be, be creepy, creepy get
+I:8819;229;film, move, appropriate, pace, trace, boredom, emerge, film move, move appropriate, appropriate pace, pace trace, trace boredom, boredom emerge
+I:8819;230;be, do, be do
+I:8819;231;be, superb, want, money, finance, sex, be superb, superb want, want money, money finance, finance sex
+I:8819;232;wit, sal, solid, characterization, choose, foreign, country, destination, safe, haven, wit sal, sal solid, solid characterization, characterization choose, choose foreign, foreign country, country destination, destination safe, safe haven
+I:8819;233;nominate, direction, be, sharp, nominate direction, direction be, be sharp
+I:8819;234;base, actual, event, afternoon, be, great, winner, 1970, second, base actual, actual event, event afternoon, afternoon be, be great, great winner, winner 1970, 1970 second
+I:8819;235;pace, film, dialogue, top, performance, make, film, appealing, captivating, pace film, film dialogue, dialogue top, top performance, performance make, make film, film appealing, appealing captivating
+I:8819;236;be, great, see, act, opposite, pacino, be great, great see, see act, act opposite, opposite pacino
+I:8819;237;like, performance, work, other, side, law, negotiate, pacino, like performance, performance work, work other, other side, side law, law negotiate, negotiate pacino
+I:8819;238;performance, integrate, make, film, be, performance integrate, integrate make, make film, film be
+I:8819;239;dog, day, afternoon, be, true, story, first, dog day, day afternoon, afternoon be, be true, true story, story first
+I:8819;240;man, veteran, open, homosexual, involve, face, war, zone, life, man veteran, veteran open, open homosexual, homosexual involve, involve face, face war, war zone, zone life
+I:8819;241;fantastic, excellent, acting, make, narrative, real, fantastic excellent, excellent acting, acting make, make narrative, narrative real
+I:8819;242;accessible, average, viewer, afternoon, find, particular, interest, accessible average, average viewer, viewer afternoon, afternoon find, find particular, particular interest
+I:8819;243;movie, be, good, remember, movie be, be good, good remember
+I:8819;244;be, best, time, actor, carry, movie, act, ability, special, effect, be best, best time, time actor, actor carry, carry movie, movie act, act ability, ability special, special effect
+I:8819;245;mood, act, location, plot, story, deliver, mood act, act location, location plot, plot story, story deliver
+I:8819;246;do, right, hand, man, play, do right, right hand, hand man, man play
+I:8819;247;work, great, other, work great, great other
+I:8819;248;be, good, pacino, movie, important, moment, first, line, be, something, kind, powerful, be, expect, be good, good pacino, pacino movie, movie important, important moment, moment first, first line, line be, be something, something kind, kind powerful, powerful be, be expect
+I:8819;249;story, be, fun, tragicomic, kind, way, hold, interest, full, hour, story be, be fun, fun tragicomic, tragicomic kind, kind way, way hold, hold interest, interest full, full hour
+I:8819;250;cinematography, be, great, have, say, be, best, film, have, see, exception, cinematography be, be great, great have, have say, say be, be best, best film, film have, have see, see exception
+I:8819;251;disc, edition, have, lot, special, feature, make, interesting, watching, pacino, talk, work, film, disc edition, edition have, have lot, lot special, special feature, feature make, make interesting, interesting watching, watching pacino, pacino talk, talk work, work film
+I:8819;252;dog, day, afternoon, have, subtitle, dog day, day afternoon, afternoon have, have subtitle
+I:8819;253;excellent, surprising, period, piece, give, portrayal, incident, happen, year, excellent surprising, surprising period, period piece, piece give, give portrayal, portrayal incident, incident happen, happen year
+I:8819;254;appeal, fan, true, crime, story, classic, appeal fan, fan true, true crime, crime story, story classic
+I:8819;255;see, catch, scarecrow, pacino, gene, winner, see catch, catch scarecrow, scarecrow pacino, pacino gene, gene winner
+I:8819;256;movie, tact, great, watch, movie tact, tact great, great watch
+I:8819;257;do, great, job, movie, co., star, do great, great job, job movie, movie co., co. star
+I:8819;258;remember, movie, be, box, office, see, be, remember movie, movie be, be box, box office, office see, see be
+I:8819;259;have, way, make, movie, exciting, captivating, plain, bank, robbery, have way, way make, make movie, movie exciting, exciting captivating, captivating plain, plain bank, bank robbery
+I:8819;260;love, see, way, be, be, grow, love see, see way, way be, be be, be grow
+I:8819;261;impressive, be, be, impressive be, be be
+I:8819;262;enjoy, movie, happy, own, enjoy movie, movie happy, happy own
+I:8819;263;have, like, movie, have like, like movie
+I:8819;264;best, good, consider, be, make, best good, good consider, consider be, be make
+I:8819;265;be, incredible, be incredible
+I:8819;266;year, afternoon, be, make, performance, rest, movie, hold, year afternoon, afternoon be, be make, make performance, performance rest, rest movie, movie hold
+I:8819;267;be, such, good, boy, heart, spite, posturing, make, sure, bank, hostage, get, go, bathroom, tip, pizza, delivery, person, warn, everybody, bank, be, catholic, do, want, hurt, anybody, be such, such good, good boy, boy heart, heart spite, spite posturing, posturing make, make sure, sure bank, bank hostage, hostage get, get go, go bathroom, bathroom tip, tip pizza, pizza delivery, delivery person, person warn, warn everybody, everybody bank, bank be, be catholic, catholic do, do want, want hurt, hurt anybody
+I:8819;268;motive, robbery, be, noble, motive robbery, robbery be, be noble
+I:8819;269;life, wife, child, wind, welfare, life wife, wife child, child wind, wind welfare
+I:8819;270;suspect, pacino, have, win, suspect pacino, pacino have, have win
+I:8819;271;lumet, decide, film, portrait, profound, loneliness, male, couple, lumet decide, decide film, film portrait, portrait profound, profound loneliness, loneliness male, male couple
+I:8819;272;be, good, movie, be, expect, greater, work, base, protagonist, be, pacino, be, alright, be good, good movie, movie be, be expect, expect greater, greater work, work base, base protagonist, protagonist be, be pacino, pacino be, be alright
+I:8819;273;be, good, movie, be good, good movie
+I:8819;274;win, best, original, screenplay, be, nominate, best, actor, support, actor, best, picture, editing, director, win best, best original, original screenplay, screenplay be, be nominate, nominate best, best actor, actor support, support actor, actor best, best picture, picture editing, editing director
+I:8819;275;movie, be, character, drive, be, best, movie be, be character, character drive, drive be, be best
+I:8819;276;have, great, sound, track, have great, great sound, sound track
+I:8819;277;be, true, story, be true, true story
+I:8819;278;be, favorite, lumet, favorite, pacino, be favorite, favorite lumet, lumet favorite, favorite pacino
+I:8819;279;sonny, sal, be, other, guy, enter, bank, intention, rob, sonny sal, sal be, be other, other guy, guy enter, enter bank, bank intention, intention rob
+I:8819;280;base, true, story, dialogue, be, improvise, give, raw, realistic, feel, base true, true story, story dialogue, dialogue be, be improvise, improvise give, give raw, raw realistic, realistic feel
+I:8819;281;script, win, academy, award, script win, win academy, academy award
+I:8819;282;win, best, actor, year, be, win best, best actor, actor year, year be
+I:8819;283;be, compete, best, year, be compete, compete best, best year
+I:8819;284;favorite, actor, man, coolest, voice, world, have, small, role, favorite actor, actor man, man coolest, coolest voice, voice world, world have, have small, small role
+I:8819;285;hand, be, hard, hand be, be hard
+I:8819;286;film, action, junkie, assume, be, film, buff, student, more, anyone, be, important, film, mark, many, turn, point, film action, action junkie, junkie assume, assume be, be film, film buff, buff student, student more, more anyone, anyone be, be important, important film, film mark, mark many, many turn, turn point
+I:8819;287;sound, design, be, good, be, go, be, mono, sound design, design be, be good, good be, be go, go be, be mono
+I:8819;288;be, finest, american, director, be finest, finest american, american director
+I:8819;289;film, be, good, other, masterpiece, film be, be good, good other, other masterpiece
+I:8819;290;want, talk, performance, regard, be, best, cinema, golden, history, want talk, talk performance, performance regard, regard be, be best, best cinema, cinema golden, golden history
+I:8819;291;pacino, performance, be, breathless, pacino performance, performance be, be breathless
+I:8819;292;film, short, time, period, help, create, feeling, tension, intensity, film short, short time, time period, period help, help create, create feeling, feeling tension, tension intensity
+I:8819;293;be, complicated, character, understand, numerous, viewing, be complicated, complicated character, character understand, understand numerous, numerous viewing
+I:8819;294;do, treat, whole, bank, heist, be, best, interest, do treat, treat whole, whole bank, bank heist, heist be, be best, best interest
+I:8819;295;be, affect, character, be affect, affect character
+I:8819;296;be, bank, robber, grow, fond, move, performance, be bank, bank robber, robber grow, grow fond, fond move, move performance
+I:8819;297;share, anxiety, relationship, share anxiety, anxiety relationship
+I:8819;298;best, scene, watch, work, be, frustration, teller, have, go, bathroom, famous, scene, improvise, phone, best scene, scene watch, watch work, work be, be frustration, frustration teller, teller have, have go, go bathroom, bathroom famous, famous scene, scene improvise, improvise phone
+I:8819;299;be, greatest, character, movie, be, real, life, be greatest, greatest character, character movie, movie be, be real, real life
+I:8819;300;find, spot, make, compassionate, character, find spot, spot make, make compassionate, compassionate character
+I:8819;301;earn, academy, award, best, actor, earn academy, academy award, award best, best actor
+I:8819;302;snatch, best, picture, best, director, snatch best, best picture, picture best, best director
+I:8819;303;cuckoo, be, better, movie, be, amazing, cuckoo be, be better, better movie, movie be, be amazing
+I:8819;304;creative, fun, dialogue, strong, language, be, true, story, have, surprising, twist, creative fun, fun dialogue, dialogue strong, strong language, language be, be true, true story, story have, have surprising, surprising twist
+I:8819;305;dog, day, afternoon, rank, best, film, dog day, day afternoon, afternoon rank, rank best, best film
+I:8819;306;base, true, story, motive, theft, unravel, find, truth, be, stranger, fiction, film, provide, comic, relief, intersperse, pathos, base true, true story, story motive, motive theft, theft unravel, unravel find, find truth, truth be, be stranger, stranger fiction, fiction film, film provide, provide comic, comic relief, relief intersperse, intersperse pathos
+I:8819;307;excel, daunting, roll, excel daunting, daunting roll
+I:8819;308;see, true, golden, age, film, see true, true golden, golden age, age film
+I:8819;309;good, movie, be, funny, best, part, be, be, base, true, story, good movie, movie be, be funny, funny best, best part, part be, be be, be base, base true, true story
+I:8819;310;base, true, story, quick, bank, job, go, wrong, afternoon, be, tale, old, base true, true story, story quick, quick bank, bank job, job go, go wrong, wrong afternoon, afternoon be, be tale, tale old
+I:8819;311;best, film, best film
+I:8819;312;dog, day, afternoon, bring, screen, bank, robbery, happen, swelter, day, dog day, day afternoon, afternoon bring, bring screen, screen bank, bank robbery, robbery happen, happen swelter, swelter day
+I:8819;313;be, piece, cake, be piece, piece cake
+I:8819;314;thing, come, climactic, resolution, movie, final, scene, end, be, kind, expect, movie, be, great, fun, watch, various, twist, turn, reach, inevitable, thing come, come climactic, climactic resolution, resolution movie, movie final, final scene, scene end, end be, be kind, kind expect, expect movie, movie be, be great, great fun, fun watch, watch various, various twist, twist turn, turn reach, reach inevitable
+I:8819;315;major, actor, be, terrific, many, great, performance, single, major actor, actor be, be terrific, terrific many, many great, great performance, performance single
+I:8819;316;cinematography, be, excellent, give, film, convincing, atmosphere, be, smack, middle, sizzle, hot, day, summer, swelter, character, cinematography be, be excellent, excellent give, give film, film convincing, convincing atmosphere, atmosphere be, be smack, smack middle, middle sizzle, sizzle hot, hot day, day summer, summer swelter, swelter character
+I:8819;317;movie, be, great, one, get, age, movie be, be great, great one, one get, get age
+I:8819;318;be, quintessential, story, be quintessential, quintessential story
+I:8819;319;be, great, film, beginning, be, wonder, be, categorize, drama, comedy, be great, great film, film beginning, beginning be, be wonder, wonder be, be categorize, categorize drama, drama comedy
+I:8819;320;do, feel, date, addition, series, make, fan, do feel, feel date, date addition, addition series, series make, make fan
+I:8819;321;dog, day, afternoon, be, film, define, film, dog day, day afternoon, afternoon be, be film, film define, define film
+I:8819;322;be, great, decade, be great, great decade
+I:8819;323;have, same, grainy, real, have same, same grainy, grainy real
+I:8819;324;world, look, film, french, connection, waterfront, world look, look film, film french, french connection, connection waterfront
+I:8819;325;lot, close, shot, face, eye, lot close, close shot, shot face, face eye
+I:8819;326;be, excellent, police, lieutenant, involve, most, negotiation, pacino, parter, play, late, great, play, film, be excellent, excellent police, police lieutenant, lieutenant involve, involve most, most negotiation, negotiation pacino, pacino parter, parter play, play late, late great, great play, play film
+I:8819;327;great, example, filmmaking, make, star, be, today, great example, example filmmaking, filmmaking make, make star, star be, be today
+I:8819;328;be, favorite, movie, time, be favorite, favorite movie, movie time
+I:8819;329;be, everything, true, story, have, look, read, book, write, real, be everything, everything true, true story, story have, have look, look read, read book, book write, write real
+I:8819;330;ehte, movie, be, deadon, pacino, be, wonderful, play, frustrated, be, bank, robber, everything, cold, go, wrong, do, ehte movie, movie be, be deadon, deadon pacino, pacino be, be wonderful, wonderful play, play frustrated, frustrated be, be bank, bank robber, robber everything, everything cold, cold go, go wrong, wrong do
+I:8819;331;film, small, budget, director, be, top, game, be, best, film, mid, .1970, deserving, nomination, other, award, film small, small budget, budget director, director be, be top, top game, game be, be best, best film, film mid, mid .1970, .1970 deserving, deserving nomination, nomination other, other award
+I:8819;332;compare, photo, tv, coverage, actual, robbery, progress, pacino, be, perfect, fit, role, appearance, compare photo, photo tv, tv coverage, coverage actual, actual robbery, robbery progress, progress pacino, pacino be, be perfect, perfect fit, fit role, role appearance
+I:8819;333;ray, transfer, be, good, clean, ray transfer, transfer be, be good, good clean
+I:8819;334;contrast, be, good, black, level, contrast be, be good, good black, black level
+I:8819;335;most, perfect, slice, reality, tale, true, story, do, look, be, true, story, look, take, single, event, happen, movie, reality, most perfect, perfect slice, slice reality, reality tale, tale true, true story, story do, do look, look be, be true, true story, story look, look take, take single, single event, event happen, happen movie, movie reality
+I:8819;336;easy, watch, tense, funny, crazy, easy watch, watch tense, tense funny, funny crazy
+I:8819;337;ruffle, passionate, evocation, work, ruffle passionate, passionate evocation, evocation work
+I:8819;338;stand, best, work, 1970, stand best, best work, work 1970
+I:8819;339;suspenseful, craft, suspenseful craft
+I:8819;340;be, best, film, come, be best, best film, film come
+I:8819;341;french, connection, taxi, driver, flew, french connection, connection taxi, taxi driver, driver flew
+I:8819;342;be, best, base, true, event, movie, see, be best, best base, base true, true event, event movie, movie see
+I:8819;343;sal, hold, small, bank, close, time, sal hold, hold small, small bank, bank close, close time
+I:8819;344;negotiation, take, place, street, bank, full, view, grow, audience, attempt, negotiator, whole, thing, turn, piece, street, theatre, negotiation take, take place, place street, street bank, bank full, full view, view grow, grow audience, audience attempt, attempt negotiator, negotiator whole, whole thing, thing turn, turn piece, piece street, street theatre
+I:8819;345;do, brilliant, job, role, do brilliant, brilliant job, job role
+I:8819;346;role, chief, cashier, be, fine, support, role chief, chief cashier, cashier be, be fine, fine support
+I:8819;347;character, be, brittle, edge, hold, staff, character be, be brittle, brittle edge, edge hold, hold staff
+I:8819;348;do, detract, movie, be, barnstorm, performance, win, script, buzz, do detract, detract movie, movie be, be barnstorm, barnstorm performance, performance win, win script, script buzz
+I:8819;349;be, great, movie, be, full, tension, drama, lighten, funny, moment, get, see, great, actor, give, be great, great movie, movie be, be full, full tension, tension drama, drama lighten, lighten funny, funny moment, moment get, get see, see great, great actor, actor give
+I:8819;350;strongest, attraction, movie, be, be, raw, edgy, best, strongest attraction, attraction movie, movie be, be be, be raw, raw edgy, edgy best
+I:8819;351;be, favorite, actor, film, classic, be favorite, favorite actor, actor film, film classic
+I:8819;352;be, time, favorite, movie, be time, time favorite, favorite movie
+I:8819;353;great, movie, long, go, wrong, do, like, aspect, movie, plot, great movie, movie long, long go, go wrong, wrong do, do like, like aspect, aspect movie, movie plot
+I:8819;354;fellow, co., star, deceased, do, excellent, portrayal, fellow co., co. star, star deceased, deceased do, do excellent, excellent portrayal
+I:8819;355;pacino, early, work, best, pacino early, early work, work best
+I:8819;356;love, best, actor, love best, best actor
+I:8819;357;feel, happen, day, actor, line, feel happen, happen day, day actor, actor line
+I:8819;358;have, see, move, time, feel, have, own, have see, see move, move time, time feel, feel have, have own
+I:8819;359;dog, day, afternoon, be, great, film, wow, first, time, see, continue, be, great, film, enjoy, 4th, time, watch, dog day, day afternoon, afternoon be, be great, great film, film wow, wow first, first time, time see, see continue, continue be, be great, great film, film enjoy, enjoy 4th, 4th time, time watch
+I:8819;360;know, fine, actor, be, get, rave, performance, think, film, feature, best, pacino, performance, know fine, fine actor, actor be, be get, get rave, rave performance, performance think, think film, film feature, feature best, best pacino, pacino performance
+I:8819;361;nothing, be, such, great, character, have, be, play, many, way, pacino, do, nothing be, be such, such great, great character, character have, have be, be play, play many, many way, way pacino, pacino do
+I:8819;362;movie, happen, feature, famous, movie happen, happen feature, feature famous
+I:8819;363;be, opinion, masterpiece, be opinion, opinion masterpiece
+I:8819;364;ride, deserve, be, rank, finest, movie, make, ride deserve, deserve be, be rank, rank finest, finest movie, movie make
+I:8819;365;ii, accomplice, barge, small, bank, try, rob, ii accomplice, accomplice barge, barge small, small bank, bank try, try rob
+I:8819;366;enough, afternoon, be, entertaining, enough afternoon, afternoon be, be entertaining
+I:8819;367;be, willing, bet, most, detailed, review, site, reveal, be, rob, bank, be willing, willing bet, bet most, most detailed, detailed review, review site, site reveal, reveal be, be rob, rob bank
+I:8819;368;big, revelation, come, be, shocked, surprised, big revelation, revelation come, come be, be shocked, shocked surprised
+I:8819;369;man, show, be, lot, great, supporting, work, brief, appearance, man show, show be, be lot, lot great, great supporting, supporting work, work brief, brief appearance
+I:8819;370;do, favor, lover, cinema, see, afternoon, do favor, favor lover, lover cinema, cinema see, see afternoon
+I:8819;371;have, get, be, greatest, film, have get, get be, be greatest, greatest film
+I:8819;372;story, plot, acting, be, amazing, story plot, plot acting, acting be, be amazing
+I:8819;373;be, original, film, be original, original film
+I:8819;374;great, movie, watch, hot, weekend, summer, afternoon, great movie, movie watch, watch hot, hot weekend, weekend summer, summer afternoon
+I:8819;375;show, amazing, kindness, hostage, try, devise, plan, escape, show amazing, amazing kindness, kindness hostage, hostage try, try devise, devise plan, plan escape
+I:8819;376;mood, movie, seem, shift, humor, pathos, tension, plot, shift, be, strange, come, fiction, writer, pen, mood movie, movie seem, seem shift, shift humor, humor pathos, pathos tension, tension plot, plot shift, shift be, be strange, strange come, come fiction, fiction writer, writer pen
+I:8819;377;acting, be, excellent, riveting, movie, base, true, incident, acting be, be excellent, excellent riveting, riveting movie, movie base, base true, true incident
+I:8819;378;read, book, cross, dress, film, get, mention, read book, book cross, cross dress, dress film, film get, get mention
+I:8819;379;buy, love, buy love
+I:8819;380;be, unusual, have, bank, robber, play, fabulous, be unusual, unusual have, have bank, bank robber, robber play, play fabulous
+I:8819;381;turn, be, gay, leave, wife, move, transsexual, turn be, be gay, gay leave, leave wife, wife move, move transsexual
+I:8819;382;way, pacino, play, mad, bank, robber, be, touch, way pacino, pacino play, play mad, mad bank, bank robber, robber be, be touch
+I:8819;383;film, such, joy, be, perfect, document, long, go, era, film such, such joy, joy be, be perfect, perfect document, document long, long go, go era
+I:8819;384;afternoon, be, excellent, movie, actor, give, fine, performance, people, pressure, afternoon be, be excellent, excellent movie, movie actor, actor give, give fine, fine performance, performance people, people pressure
+I:8819;385;ray, version, be, crystalline, look, fine, ray version, version be, be crystalline, crystalline look, look fine
+I:8819;386;enjoy, absurdity, human, condition, enjoy, film, enjoy absurdity, absurdity human, human condition, condition enjoy, enjoy film
+I:8819;387;excellent, writing, excellent, acting, excellent, direction, editing, sound, excellent writing, writing excellent, excellent acting, acting excellent, excellent direction, direction editing, editing sound
+I:8819;388;have, much, respect, film, way, concern, be, treat, such, respect, dignity, be, go, order, thetwo, disk, special, edition, have much, much respect, respect film, film way, way concern, concern be, be treat, treat such, such respect, respect dignity, dignity be, be go, go order, order thetwo, thetwo disk, disk special, special edition
+I:8819;389;be, good, motion, picture, make, be good, good motion, motion picture, picture make
+I:8819;390;dramas, dog, day, afternoon, be, last, great, performance, early, career, dramas dog, dog day, day afternoon, afternoon be, be last, last great, great performance, performance early, early career
+I:8819;391;blood, fact, hostage, appear, be, have, good, time, become, friendly, captor, wave, camera, refuse, leave, bank, chance, occur, blood fact, fact hostage, hostage appear, appear be, be have, have good, good time, time become, become friendly, friendly captor, captor wave, wave camera, camera refuse, refuse leave, leave bank, bank chance, chance occur
+I:8819;392;attica, prison, be, site, prison, riot, be, put, brutal, loss, life, be, consider, greatest, moment, movie, history, attica prison, prison be, be site, site prison, prison riot, riot be, be put, put brutal, brutal loss, loss life, life be, be consider, consider greatest, greatest moment, moment movie, movie history
+I:8819;393;lead, cheer, crowd, moment, be, freeze, immobility, next, lead cheer, cheer crowd, crowd moment, moment be, be freeze, freeze immobility, immobility next
+I:8819;394;review, pacino, be, fine, form, movie, be, rest, cast, review pacino, pacino be, be fine, fine form, form movie, movie be, be rest, rest cast
+I:8819;395;fine, paced, film, be, tripto, attitude, political, correctness, forget, fine paced, paced film, film be, be tripto, tripto attitude, attitude political, political correctness, correctness forget
+I:8819;396;be, classic, movie, everyone, know, be, go, end, be classic, classic movie, movie everyone, everyone know, know be, be go, go end
+I:8819;397;be, true, story, keep, close, fact, be true, true story, story keep, keep close, close fact
+I:8819;398;good, solid, cast, demented, killer, realize, be, brilliant, rocket, begin, soar, good solid, solid cast, cast demented, demented killer, killer realize, realize be, be brilliant, brilliant rocket, rocket begin, begin soar
+I:8819;399;watch, see, move, everyman, watch see, see move, move everyman
+I:8819;400;last, city, diverse, race, practice, cross, last city, city diverse, diverse race, race practice, practice cross
+I:8819;401;cultural, communication, friendly, day, day, style, cultural communication, communication friendly, friendly day, day day, day style
+I:8819;402;thank, get, thank get
+I:8819;403;have, do, musical, score, dog, day, have, have do, do musical, musical score, score dog, dog day, day have
+I:8819;404;good, flick, see, move, good flick, flick see, see move
+I:8819;405;great, performance, pacino, several, support, actor, tell, true, story, interesting, fashion, great performance, performance pacino, pacino several, several support, support actor, actor tell, tell true, true story, story interesting, interesting fashion
+I:8819;406;sonny, be, apprehend, sentence, year, serve, sonny be, be apprehend, apprehend sentence, sentence year, year serve
+I:8819;407;fact, many, incident, movie, live, coverage, crime, event, be, novelty, sens, know, expect, end, movie, have, rivet, fact many, many incident, incident movie, movie live, live coverage, coverage crime, crime event, event be, be novelty, novelty sens, sens know, know expect, expect end, end movie, movie have, have rivet
+I:8819;408;make, feel, sweat, afternoon, make feel, feel sweat, sweat afternoon
+I:8819;409;say, be, nobody, be, fantastic, say be, be nobody, nobody be, be fantastic
+I:8819;410;hold, stage, entire, duration, movie, want, hold stage, stage entire, entire duration, duration movie, movie want
+I:8819;411;glorious, little, film, couple, be, bank, robber, have, bad, day, glorious little, little film, film couple, couple be, be bank, bank robber, robber have, have bad, bad day
+I:8819;412;bring, same, team, bring, be, electrifying, film, bank, robbery, turn, media, circus, live, television, bring same, same team, team bring, bring be, be electrifying, electrifying film, film bank, bank robbery, robbery turn, turn media, media circus, circus live, live television
+I:8819;413;rivetting, performance, pacino, ooze, panic, sheer, hysteria, rivetting performance, performance pacino, pacino ooze, ooze panic, panic sheer, sheer hysteria
+I:8819;414;pacino, be, terrific, film, edge, psychopath, want, pull, job, pacino be, be terrific, terrific film, film edge, edge psychopath, psychopath want, want pull, pull job
+I:8819;415;be, pacino, fan, love, high, tension, drama, enjoy, be pacino, pacino fan, fan love, love high, high tension, tension drama, drama enjoy
+I:8819;416;be, dull, moment, be, script, be dull, dull moment, moment be, be script
+I:8819;417;be, fan, be, brilliant, have, be fan, fan be, be brilliant, brilliant have
+I:8819;418;intensity, film, be, incredible, intensity film, film be, be incredible
+I:8819;419;be, prime, example, great, film, underrated, overshadow, nest, year, anti, be prime, prime example, example great, great film, film underrated, underrated overshadow, overshadow nest, nest year, year anti
+I:8819;420;late, genius, discuss, various, idea, observation, film, late genius, genius discuss, discuss various, various idea, idea observation, observation film
+I:8819;421;lumet, win, laurel, film, afternoon, be, true, magnum, opus, lumet win, win laurel, laurel film, film afternoon, afternoon be, be true, true magnum, magnum opus
+I:8819;422;make, great, film, make great, great film
+I:8819;423;great, actor, great, support, actor, great, script, great, director, great, writing, great, ad, lib, bizzare, great, story, great actor, actor great, great support, support actor, actor great, great script, script great, great director, director great, great writing, writing great, great ad, ad lib, lib bizzare, bizzare great, great story
+I:8819;424;everything, film, click, right, time, everything film, film click, click right, right time
+I:8819;425;be, wonderful, magic, see, chemistry, be wonderful, wonderful magic, magic see, see chemistry
+I:8819;426;film, role, be, rationale, sharp, film role, role be, be rationale, rationale sharp
+I:8819;427;love, film, love film
+I:8819;428;be, perfect, film, be perfect, perfect film
+I:8819;429;be, raw, classic, keep, audience, hostage, be raw, raw classic, classic keep, keep audience, audience hostage
+I:8819;430;be, fan, anything, put, go, see, be fan, fan anything, anything put, put go, go see
+I:8819;431;movie, be, movie, serious, message, pacino, deliver, superb, acting, movie be, be movie, movie serious, serious message, message pacino, pacino deliver, deliver superb, superb acting
+I:8819;432;admit, do, view, part, have, view, movie, several, time, be, buy, be, price, fast, service, admit do, do view, view part, part have, have view, view movie, movie several, several time, time be, be buy, buy be, be price, price fast, fast service
+I:8819;433;great, movie, classic, movie, great movie, movie classic, classic movie
+I:8819;434;body, movie, involve, usual, bargining, hostage, technique, expect, be, give, twist, plot, body movie, movie involve, involve usual, usual bargining, bargining hostage, hostage technique, technique expect, expect be, be give, give twist, twist plot
+I:8819;435;be, best, movie, see, be, true, film, legend, be best, best movie, movie see, see be, be true, true film, film legend
+I:8819;436;give, top, notch, performence, sidekick, give top, top notch, notch performence, performence sidekick
+I:8819;437;see, be, child, love, learn, more, movie, think, see be, be child, child love, love learn, learn more, more movie, movie think
+I:8819;438;part, pacino, make, afternoon, part pacino, pacino make, make afternoon
+I:8819;439;try, rob, bank, close, time, cop, be, right, street, try rob, rob bank, bank close, close time, time cop, cop be, be right, right street
+I:8819;440;minute, event, turn, day, fun, fest, minute event, event turn, turn day, day fun, fun fest
+I:8819;441;dog, day, afternoon, be, perfect, example, be, shine, decade, filmmaking, dog day, day afternoon, afternoon be, be perfect, perfect example, example be, be shine, shine decade, decade filmmaking
+I:8819;442;best, performance, best, film, best performance, performance best, best film
+I:8819;443;start, finish, be, humorous, energetic, piece, pure, entertainment, be, depict, real, incident, start finish, finish be, be humorous, humorous energetic, energetic piece, piece pure, pure entertainment, entertainment be, be depict, depict real, real incident
+I:8819;444;scene, be, engross, performance, vital, component, overall, endproduct, scene be, be engross, engross performance, performance vital, vital component, component overall, overall endproduct
+I:8819;445;film, be, worth, owning, film be, be worth, worth owning
+I:8819;446;be, great, movie, have, rainy, day, collection, be great, great movie, movie have, have rainy, rainy day, day collection
+I:8819;447;nominate, award, include, best, afternoon, be, funny, gripping, touching, human, story, help, personify, golden, age, filmmaking, know, nominate award, award include, include best, best afternoon, afternoon be, be funny, funny gripping, gripping touching, touching human, human story, story help, help personify, personify golden, golden age, age filmmaking, filmmaking know
+I:8819;448;movie, examine, length, people, go, make, stand, believe, drastic, thing, individual, do, other, nuttiness, minute, fame, phenomenon, prevalent, mix, culture, movie examine, examine length, length people, people go, go make, make stand, stand believe, believe drastic, drastic thing, thing individual, individual do, do other, other nuttiness, nuttiness minute, minute fame, fame phenomenon, phenomenon prevalent, prevalent mix, mix culture
+I:8819;449;first, rate, performance, great, script, wonderful, use, inner, city, landscape, incredible, direction, make, gem, first rate, rate performance, performance great, great script, script wonderful, wonderful use, use inner, inner city, city landscape, landscape incredible, incredible direction, direction make, make gem
+I:8819;450;good, story, great, acting, few, unexpected, twist, good story, story great, great acting, acting few, few unexpected, unexpected twist
+I:8819;451;be, outstanding, afternoon, be outstanding, outstanding afternoon
+I:8819;452;be, great, actor, cast, excellent, screenplay, be great, great actor, actor cast, cast excellent, excellent screenplay
+I:8819;453;enjoy, movie, recommend, anyone, enjoy movie, movie recommend, recommend anyone
+I:8819;454;be, fan, see, movie, be fan, fan see, see movie
+I:8819;455;mention, underline, greatness, movie, mention underline, underline greatness, greatness movie
+I:8819;456;story, do, terrific, job, keep, audience, attention, story do, do terrific, terrific job, job keep, keep audience, audience attention
+I:8819;457;be, depiction, law, go, full, effect, guy, try, rob, bank, be depiction, depiction law, law go, go full, full effect, effect guy, guy try, try rob, rob bank
+I:8819;458;part, reason, film, be, intriguing, be, story, make, care, guy, be, go, get, situation, part reason, reason film, film be, be intriguing, intriguing be, be story, story make, make care, care guy, guy be, be go, go get, get situation
+I:8819;459;make, care, everyone, involve, develop, character, make care, care everyone, everyone involve, involve develop, develop character
+I:8819;460;acting, be, grade, a, way, film, acting be, be grade, grade a, a way, way film
+I:8819;461;be, nominate, performance, be nominate, nominate performance
+I:8819;462;have, way, keep, fix, support, cast, more, complement, terrific, performance, have way, way keep, keep fix, fix support, support cast, cast more, more complement, complement terrific, terrific performance
+I:8819;463;film, earn, award, nomination, include, best, win, best, original, screenplay, film earn, earn award, award nomination, nomination include, include best, best win, win best, best original, original screenplay
+I:8819;464;film, capture, feel, summertime, city, film capture, capture feel, feel summertime, summertime city
+I:8819;465;opening, film, establish, tone, feel, setting, opening film, film establish, establish tone, tone feel, feel setting
+I:8819;466;screenplay, be, earn, screenplay be, be earn
+I:8819;467;favorite, film, favorite film
+I:8819;468;get, actor, bio, award, film, win, subtitle, english, french, that, get actor, actor bio, bio award, award film, film win, win subtitle, subtitle english, english french, french that
+I:8819;469;be, movie, be, good, heist, movie, be movie, movie be, be good, good heist, heist movie
+I:8819;470;good, film, kind, slow, keep, reality, good film, film kind, kind slow, slow keep, keep reality
+I:8819;471;be, great, movie, be great, great movie
+I:8819;472;leave, see, be, rob, bank, movie, be, base, true, story, happen, leave see, see be, be rob, rob bank, bank movie, movie be, be base, base true, true story, story happen
+I:8819;473;be, funny, drama, ish, real, be funny, funny drama, drama ish, ish real
+I:8819;474;move, side, be, hour, length, move side, side be, be hour, hour length
+I:8819;475;do, great, job, act, do great, great job, job act
+I:8819;476;whole, movie, be, hostage, taker, negotiate, police, plan, escape, whole movie, movie be, be hostage, hostage taker, taker negotiate, negotiate police, police plan, plan escape
+I:8819;477;be, finest, act, performance, be finest, finest act, act performance
+I:8819;478;make, feel, stress, fear, sonny, feel, entire, wait, period, make feel, feel stress, stress fear, fear sonny, sonny feel, feel entire, entire wait, wait period
+I:8819;479;way, display, sonny, be, emotion, be, uamaze, way display, display sonny, sonny be, be emotion, emotion be, be uamaze
+I:8819;480;be, edge, breaking, manage, keep, cool, be edge, edge breaking, breaking manage, manage keep, keep cool
+I:8819;481;pacino, be, good, facial, expression, mannerism, do, need, speak, audience, know, be, be, feel, pacino be, be good, good facial, facial expression, expression mannerism, mannerism do, do need, need speak, speak audience, audience know, know be, be be, be feel
+I:8819;482;more, thing, love, film, be, setting, more thing, thing love, love film, film be, be setting
+I:8819;483;time, movie, be, tense, action, thriller, time, comedy, time, pure, farce, time movie, movie be, be tense, tense action, action thriller, thriller time, time comedy, comedy time, time pure, pure farce
+I:8819;484;crowd, go, wild, roar, support, someone, have, become, something, local, celebrity, crowd go, go wild, wild roar, roar support, support someone, someone have, have become, become something, something local, local celebrity
+I:8819;485;people, consider, be, year, people consider, consider be, be year
+I:8819;486;movie, earn, nomination, include, best, best, screenplay, fourth, movie earn, earn nomination, nomination include, include best, best best, best screenplay, screenplay fourth
+I:8819;487;ray, price, have, watch, movie, year, be, good, see, clean, ray price, price have, have watch, watch movie, movie year, year be, be good, good see, see clean
+I:8819;488;have, best, actor, ad, lib, have best, best actor, actor ad, ad lib
+I:8819;489;sight, crowd, chant, discuss, recent, interview, sight crowd, crowd chant, chant discuss, discuss recent, recent interview
+I:8819;490;write, review, afternoon, have, do, dubious, thing, ignor, great, cast, stellar, director, have, face, true, fact, be, stage, have, be, day, write review, review afternoon, afternoon have, have do, do dubious, dubious thing, thing ignor, ignor great, great cast, cast stellar, stellar director, director have, have face, face true, true fact, fact be, be stage, stage have, have be, be day
+I:8819;491;perfomance, film, be, strong, breath, perfomance film, film be, be strong, strong breath
+I:8819;492;be, afraid, stand, more, heart, break, moment, history, award, be afraid, afraid stand, stand more, more heart, heart break, break moment, moment history, history award
+I:8819;493;strict, surface, film, show, amazing, spectacle, take, place, eye, strict surface, surface film, film show, show amazing, amazing spectacle, spectacle take, take place, place eye
+I:8819;494;be, see, human, pain, human, loss, human, tragidy, see, poignant, meaningful, moment, afternoon, be, be see, see human, human pain, pain human, human loss, loss human, human tragidy, tragidy see, see poignant, poignant meaningful, meaningful moment, moment afternoon, afternoon be
+I:8819;495;be, realize, impact, moment, have, know, have, watch, minute, perhape, greatest, acting, history, motion, picture, greatest, moment, illustious, career, be realize, realize impact, impact moment, moment have, have know, know have, have watch, watch minute, minute perhape, perhape greatest, greatest acting, acting history, history motion, motion picture, picture greatest, greatest moment, moment illustious, illustious career
+I:8819;496;be, best, act, performance, career, be best, best act, act performance, performance career
+I:8819;497;be, flawless, do, earn, best, actor, academy, award, be, baffling, be flawless, flawless do, do earn, earn best, best actor, actor academy, academy award, award be, be baffling
+I:8819;498;be, master, class, act, be master, master class, class act
+I:8819;499;make, feel, raw, emotion, desperation, character, make feel, feel raw, raw emotion, emotion desperation, desperation character
+I:8819;500;john, be, phenomenal, john be, be phenomenal
+I:8819;501;see, feel, emotion, exist, character, minute, phone, call, see feel, feel emotion, emotion exist, exist character, character minute, minute phone, phone call
+I:8819;502;be, best, film, time, be best, best film, film time
+I:8819;503;whole, cast, be, extraordinary, performance, whole cast, cast be, be extraordinary, extraordinary performance
+I:8819;504;movie, make, bold, statement, confuse, war, movie make, make bold, bold statement, statement confuse, confuse war
+I:8819;505;sound, familiar?pacino, be, magnificent, be, frame, be, drift, more, grandiose, clime, classic, sound familiar?pacino, familiar?pacino be, be magnificent, magnificent be, be frame, frame be, be drift, drift more, more grandiose, grandiose clime, clime classic
+I:8819;506;keep, wring, audience, ask, keep wring, wring audience, audience ask
+I:8819;507;burn, screen, afternoon, be, base, true, story, confirm, fact, truth, be, stranger, fiction, burn screen, screen afternoon, afternoon be, be base, base true, true story, story confirm, confirm fact, fact truth, truth be, be stranger, stranger fiction
+I:8819;508;time, bank, employee, know, trick, trade, thwart, bank, robber, time bank, bank employee, employee know, know trick, trick trade, trade thwart, thwart bank, bank robber
+I:8819;509;scene, street, bank, be, scintillating, include, famous, chant, scene street, street bank, bank be, be scintillating, scintillating include, include famous, famous chant
+I:8819;510;do, fine, job, translate, heat, humidity, day, feel, sweating, character, do fine, fine job, job translate, translate heat, heat humidity, humidity day, day feel, feel sweating, sweating character
+I:8819;511;dog, day, afternoon, be, wonderful, masterpiece, director, verdict, angry, man, dog day, day afternoon, afternoon be, be wonderful, wonderful masterpiece, masterpiece director, director verdict, verdict angry, angry man
+I:8819;512;happen, next, be, terrific, electrifying, hilarious, turn, whole, situation, near, circus, side, show, happen next, next be, be terrific, terrific electrifying, electrifying hilarious, hilarious turn, turn whole, whole situation, situation near, near circus, circus side, side show
+I:8819;513;turn, incredible, performance, deliver, nominate, pitch, perfect, performance, funny, lead, bank, robber, turn incredible, incredible performance, performance deliver, deliver nominate, nominate pitch, pitch perfect, perfect performance, performance funny, funny lead, lead bank, bank robber
+I:8819;514;side, note, be, be, deer, finest, performance, untimely, death, year, side note, note be, be be, be deer, deer finest, finest performance, performance untimely, untimely death, death year
+I:8819;515;be, dull, moment, day, afternoon, several, actor, give, best, performance, career, be dull, dull moment, moment day, day afternoon, afternoon several, several actor, actor give, give best, best performance, performance career
+I:8819;516;be, sensitive, screw, angry, be sensitive, sensitive screw, screw angry
+I:8819;517;acting, be, good, swear, be, watch, documentary, acting be, be good, good swear, swear be, be watch, watch documentary
+I:8819;518;gay, lover, be, spring, mental, hospital, gay lover, lover be, be spring, spring mental, mental hospital
+I:8819;519;have, create, flawed, masterpiece, suspense, win, script, have create, create flawed, flawed masterpiece, masterpiece suspense, suspense win, win script
+I:8819;520;fine, film, be, order, magnitude, fine film, film be, be order, order magnitude
+I:8819;521;brilliant, performance, pacino, brilliant performance, performance pacino
+I:8819;522;intensity, morph, overact, later, film, jump, screen, be, mesmerizing, intensity morph, morph overact, overact later, later film, film jump, jump screen, screen be, be mesmerizing
+I:8819;523;outdo, best, performance, be, chronicle, outdo best, best performance, performance be, be chronicle
+I:8819;524;dog, day, afternoon, be, time, favorite, film, dog day, day afternoon, afternoon be, be time, time favorite, favorite film
+I:8819;525;be, simple, have, little, violence, performance, be, real, be simple, simple have, have little, little violence, violence performance, performance be, be real
+I:8819;526;give, best, performance, everyone, make, film, feel, real, sure, give best, best performance, performance everyone, everyone make, make film, film feel, feel real, real sure
+I:8819;527;be, favorite, film, be, great, classic, be favorite, favorite film, film be, be great, great classic
+I:8819;528;back, case, movie, be, brand, boisterous, comedy, be, funny, back case, case movie, movie be, be brand, brand boisterous, boisterous comedy, comedy be, be funny
+I:8819;529;movie, have, funny, part, have, movie have, have funny, funny part, part have
+I:8819;530;be, more, comedy, whole, whole, bank, robbery, get, screw, be more, more comedy, comedy whole, whole whole, whole bank, bank robbery, robbery get, get screw
+I:8819;531;be, serious, tone, be serious, serious tone
+I:8819;532;get, aboslutly, false, statement, be, comedy, start, see, magic, film, get aboslutly, aboslutly false, false statement, statement be, be comedy, comedy start, start see, see magic, magic film
+I:8819;533;watch, movie, feel, be, movie, watch movie, movie feel, feel be, be movie
+I:8819;534;progress, main, character, progress main, main character
+I:8819;535;do, brilliant, job, show, many, change, go, do brilliant, brilliant job, job show, show many, many change, change go
+I:8819;536;do, do, brilliant, job, other, character, be, protray, do do, do brilliant, brilliant job, job other, other character, character be, be protray
+I:8819;537;character, be, believable, real, feel, have, meet, first, hand, character be, be believable, believable real, real feel, feel have, have meet, meet first, first hand
+I:8819;538;thing, have, notice, afternoon, be, influence, more, modern, movie, thing have, have notice, notice afternoon, afternoon be, be influence, influence more, more modern, modern movie
+I:8819;539;character, be, face, media, circus, hold, group, school, kid, teacher, hostage, meauseam, character be, be face, face media, media circus, circus hold, hold group, group school, school kid, kid teacher, teacher hostage, hostage meauseam
+I:8819;540;frenzy, media, coverage, public, reaction, way, main, character, become, friendly, hostage, give, big, nod, afternoon, frenzy media, media coverage, coverage public, public reaction, reaction way, way main, main character, character become, become friendly, friendly hostage, hostage give, give big, big nod, nod afternoon
+I:8819;541;be, fantastic, movie, be, full, brilliant, performance, be fantastic, fantastic movie, movie be, be full, full brilliant, brilliant performance
+I:8819;542;be, much, dialogue, be much, much dialogue
+I:8819;543;have, see, flick, be, worth, have see, see flick, flick be, be worth
+I:8819;544;be, cool, see, look, be cool, cool see, see look
+I:8819;545;favorite, line, look, little, squeeze, favorite line, line look, look little, little squeeze
+I:8819;546;character, development, provide, viewer, many, clever, personality, sketch, unique, involve, individual, oppose, typical, standard, formula, character development, development provide, provide viewer, viewer many, many clever, clever personality, personality sketch, sketch unique, unique involve, involve individual, individual oppose, oppose typical, typical standard, standard formula
+I:8819;547;look, crowd, be, loving, minute, look crowd, crowd be, be loving, loving minute
+I:8819;548;movie, seem, be, more, retelling, afternoon, event, do, compelling, way, take, side, manipulate, viewer, emotion, movie seem, seem be, be more, more retelling, retelling afternoon, afternoon event, event do, do compelling, compelling way, way take, take side, side manipulate, manipulate viewer, viewer emotion
+I:8819;549;make, feel, be, movie, make feel, feel be, be movie
+I:8819;550;everything, be, excellent, suspenseful, movie, bank, robbery, go, wrong, everything be, be excellent, excellent suspenseful, suspenseful movie, movie bank, bank robbery, robbery go, go wrong
+I:8819;551;casting, be, perfect, psychology, penetrate, casting be, be perfect, perfect psychology, psychology penetrate
+I:8819;552;be, humor, be, tragedy, be humor, humor be, be tragedy
+I:8819;553;put, best, performance, amaze, sidekick, put best, best performance, performance amaze, amaze sidekick
+I:8819;554;best, movie, best movie
+I:8819;555;be, much, like, movie, be much, much like, like movie
+I:8819;556;director, team, few, year, makingserpico, bring, true, story, bank, robbery, screen, director team, team few, few year, year makingserpico, makingserpico bring, bring true, true story, story bank, bank robbery, robbery screen
+I:8819;557;get, unlucky!how, earth, have, get, academy, award, brilliant, performance, get unlucky!how, unlucky!how earth, earth have, have get, get academy, academy award, award brilliant, brilliant performance
+I:8819;558;love, work, compare, work, fly, cuckoo, nest, day, agree, have, get, love work, work compare, compare work, work fly, fly cuckoo, cuckoo nest, nest day, day agree, agree have, have get
+I:8819;559;pacino, acting, be, energetic, tough, do, dog, day, context, brilliant, classic, amazing, performance!it, require, lot, dare, do, subject, dog, day, become, icon, hit, pacino acting, acting be, be energetic, energetic tough, tough do, do dog, dog day, day context, context brilliant, brilliant classic, classic amazing, amazing performance!it, performance!it require, require lot, lot dare, dare do, do subject, subject dog, dog day, day become, become icon, icon hit
+I:8819;560;short, have, do, great, job, know, deal, tense, situation, superb, acting, pacino, splendor, have, get, role, short have, have do, do great, great job, job know, know deal, deal tense, tense situation, situation superb, superb acting, acting pacino, pacino splendor, splendor have, have get, get role
+I:8819;561;pacing, be, good, pacing be, be good
+I:8819;562;man, be, middle, robbery, be, considerate, man be, be middle, middle robbery, robbery be, be considerate
+I:8819;563;have, watch, keep, watch, movie, enjoy, great, acting, have watch, watch keep, keep watch, watch movie, movie enjoy, enjoy great, great acting
+I:8819;564;believe, be, first, movie, be, great, believe be, be first, first movie, movie be, be great
+I:8819;565;be, believable, desperation, get, boyfriend, sex, be believable, believable desperation, desperation get, get boyfriend, boyfriend sex
+I:8819;566;have, see, treat, adventure, watch, best, performance, have see, see treat, treat adventure, adventure watch, watch best, best performance
+I:8819;567;nominate, oscar, win, win, pacino, nominate, winner, globe, nomination, win, prove, be, elite, deserving, more, award, accolade, nominate oscar, oscar win, win win, win pacino, pacino nominate, nominate winner, winner globe, globe nomination, nomination win, win prove, prove be, be elite, elite deserving, deserving more, more award, award accolade
+I:8819;568;movie, be, instant, classic, best, robbery, movie, opus, have, pacino, movie be, be instant, instant classic, classic best, best robbery, robbery movie, movie opus, opus have, have pacino
+I:8819;569;performance, many, good, great, actor, be, have, work, performance many, many good, good great, great actor, actor be, be have, have work
+I:8819;570;have, do, math, bet, sport, best, lead, support, other, director, history, film, have do, do math, math bet, bet sport, sport best, best lead, lead support, support other, other director, director history, history film
+I:8819;571;acting, be, great, be, impeccable, acting be, be great, great be, be impeccable
+I:8819;572;be, movie, cry, god, sake, begin, end, afternoon, be, movie, do, inimitable, style, be movie, movie cry, cry god, god sake, sake begin, begin end, end afternoon, afternoon be, be movie, movie do, do inimitable, inimitable style
+I:8819;573;genuine, classic, genuine classic
+I:8819;574;take, long, time, have, favorite, movie, take long, long time, time have, have favorite, favorite movie
+I:8819;575;be, fan, be fan
+I:8819;576;be, gift, be gift
+I:8819;577;dog, day, afternoon, crime, drama, minutesdirect, be, best, actor, generation, have, give, many, memorable, character, trilogy, dog day, day afternoon, afternoon crime, crime drama, drama minutesdirect, minutesdirect be, be best, best actor, actor generation, generation have, have give, give many, many memorable, memorable character, character trilogy
+I:8819;578;win, portrayal, win portrayal
+I:8819;579;pacino, performance, be, full, energy, pacino performance, performance be, be full, full energy
+I:8819;580;heist, movie, be, something, enjoy, be, execute, top, list, heist movie, movie be, be something, something enjoy, enjoy be, be execute, execute top, top list
+I:8819;581;something, story, hold, attention, something story, story hold, hold attention
+I:8819;582;afternoon, remind, film, time, make, point, develop, individual, story, afternoon remind, remind film, film time, time make, make point, point develop, develop individual, individual story
+I:8819;583;appear, matter, get, more, odd, new, wife, be, bring, scene, reason, bank, robbery, be, reveal, appear matter, matter get, get more, more odd, odd new, new wife, wife be, be bring, bring scene, scene reason, reason bank, bank robbery, robbery be, be reveal
+I:8819;584;dog, day, afternoon, be, class, own, be, talk, bank, robbery, film, dog day, day afternoon, afternoon be, be class, class own, own be, be talk, talk bank, bank robbery, robbery film
+I:8819;585;be, many, unconventional, element, story, be many, many unconventional, unconventional element, element story
+I:8819;586;think, be, easy, lose, sight, fine, performance, afternoon, element, vie, attention, effort, turn, rest, cast, be, good, character, fade, memory, think be, be easy, easy lose, lose sight, sight fine, fine performance, performance afternoon, afternoon element, element vie, vie attention, attention effort, effort turn, turn rest, rest cast, cast be, be good, good character, character fade, fade memory
+I:8819;587;do, amazing, job, create, specific, time, place, directing, do amazing, amazing job, job create, create specific, specific time, time place, place directing
+I:8819;588;infuse, afternoon, such, realism, feel, heat, rise, sidewalk, infuse afternoon, afternoon such, such realism, realism feel, feel heat, heat rise, rise sidewalk
+I:8819;589;take, scorecard, mark, jewel, essential, film, take scorecard, scorecard mark, mark jewel, jewel essential, essential film
+I:8819;590;thanks, bday, gift, be, tell, thanks bday, bday gift, gift be, be tell
+I:8819;591;brilliant, pacino, best, performance, career, be, film, brilliant pacino, pacino best, best performance, performance career, career be, be film
+I:8819;592;film, be, lot, talent, film be, be lot, lot talent
+I:8819;593;afternoon, pacino, carry, movie, afternoon pacino, pacino carry, carry movie
+I:8819;594;be, great, movie, true, classic, be great, great movie, movie true, true classic
+I:8819;595;realism, role, afternoon, be, realism role, role afternoon, afternoon be
+I:8819;596;set, summertime, make, excitement, tense, thrilling, set summertime, summertime make, make excitement, excitement tense, tense thrilling
+I:8819;597;everybody, love, great, serious, drama, crime, drama, find, view, everything, have, make, everybody love, love great, great serious, serious drama, drama crime, crime drama, drama find, find view, view everything, everything have, have make
+I:8819;598;be, fabulous, actor, be fabulous, fabulous actor
+I:8819;599;great, movie, great, actor, great, price, great movie, movie great, great actor, actor great, great price
+I:8819;600;add, collection, be, high, point, make, story, be, true, add collection, collection be, be high, high point, point make, make story, story be, be true
+I:8819;601;best, film, fly, cuckoo, taxi, driver, afternoon, be, nominate, oscar, inlcude, nod, best, best, actor, best film, film fly, fly cuckoo, cuckoo taxi, taxi driver, driver afternoon, afternoon be, be nominate, nominate oscar, oscar inlcude, inlcude nod, nod best, best best, best actor
+I:8819;602;do, excellent, job, direct, bring, best, cast, do excellent, excellent job, job direct, direct bring, bring best, best cast
+I:8819;603;movie, be, gritty, daring, movie be, be gritty, gritty daring
+I:8819;604;turn, memorable, performance, police, officer, try, reason, character, bank, turn memorable, memorable performance, performance police, police officer, officer try, try reason, reason character, character bank
+I:8819;605;screen, many, year, documentary, featurette, original, theatrical, trailer, screen many, many year, year documentary, documentary featurette, featurette original, original theatrical, theatrical trailer
+I:8819;606;year, afternoon, be, marvel, see, year afternoon, afternoon be, be marvel, marvel see
+I:8819;607;film, win, film win
+I:8819;608;deserve, award, witty, screenplay, performance, rank, best, deserve award, award witty, witty screenplay, screenplay performance, performance rank, rank best
+I:8819;609;picture, be, grainy, spot, hair, mark, picture be, be grainy, grainy spot, spot hair, hair mark
+I:8819;610;dog, day, afternoon, take, dog day, day afternoon, afternoon take
+I:8819;611;be, fan, know, be fan, fan know
+I:8819;612;prime, pacino, spearhead, film, stand, best, prime pacino, pacino spearhead, spearhead film, film stand, stand best
+I:8819;613;stand, today, important, movie, make, number, statement, life, media, influence, stand today, today important, important movie, movie make, make number, number statement, statement life, life media, media influence
+I:8819;614;dog, day, afternoon, walk, thin, line, comedy, seriousness, dog day, day afternoon, afternoon walk, walk thin, thin line, line comedy, comedy seriousness
+I:8819;615;be, pure, skill, keep, engage, bitter, end, be pure, pure skill, skill keep, keep engage, engage bitter, bitter end
+I:8819;616;be, good, film, be good, good film
+I:8819;617;human, nature, film, shine, human nature, nature film, film shine
+I:8819;618;characteristic, cinema, media, be, cluster, force, be, reckon, characteristic cinema, cinema media, media be, be cluster, cluster force, force be, be reckon
+I:8819;619;dog, day, afternoon, be, brave, film, tackle, tough, subject, unique, way, dog day, day afternoon, afternoon be, be brave, brave film, film tackle, tackle tough, tough subject, subject unique, unique way
+I:8819;620;love, have, say, be, better, movie, love have, have say, say be, be better, better movie
+I:8819;621;role, misfit, bank, robber, be, outstanding, role misfit, misfit bank, bank robber, robber be, be outstanding
+I:8819;622;play, part, acting, be, dramatic, time, pacino, ignorance, be, bank, robber, provide, need, humor, serious, situation, play part, part acting, acting be, be dramatic, dramatic time, time pacino, pacino ignorance, ignorance be, be bank, bank robber, robber provide, provide need, need humor, humor serious, serious situation
+I:8819;623;handle, people, movie, gesture, action, be, best, handle people, people movie, movie gesture, gesture action, action be, be best
+I:8819;624;true, fan, have, movie, collection, true fan, fan have, have movie, movie collection
+I:8819;625;have, agree, everyone, be, best, film, have agree, agree everyone, everyone be, be best, best film
+I:8819;626;think, idea, bank, robbery, film, be, excellent, think idea, idea bank, bank robbery, robbery film, film be, be excellent
+I:8819;627;surprise, movie, be, base, true, story, kind, surprised, tiny, bit, think, anyone, have, last, bank, surprise movie, movie be, be base, base true, true story, story kind, kind surprised, surprised tiny, tiny bit, bit think, think anyone, anyone have, have last, last bank
+I:8819;628;think, be, fabulous, think be, be fabulous
+I:8819;629;pacino, cazale, be, amazing, pacino cazale, cazale be, be amazing
+I:8819;630;let, emotion, outstanding, performance, method, acting, let emotion, emotion outstanding, outstanding performance, performance method, method acting
+I:8819;631;cazale, do, have, much, line, focus, character, presence, work, cazale do, do have, have much, much line, line focus, focus character, character presence, presence work
+I:8819;632;bizarre, character, be, take, great, actor, make, iconic, bizarre character, character be, be take, take great, great actor, actor make, make iconic
+I:8819;633;movie, start, good, half, movie start, start good, good half
+I:8819;634;base, true, story, true, gem, movie, base true, true story, story true, true gem, gem movie
+I:8819;635;brilliant, true, story, crime, drama, grip, funny, entertainment, classic, other, film, be, be, knockout, felony, film, feature, unforgettable, scene, unforgettable, line, yell, crowd, surround, cop, brilliant true, true story, story crime, crime drama, drama grip, grip funny, funny entertainment, entertainment classic, classic other, other film, film be, be be, be knockout, knockout felony, felony film, film feature, feature unforgettable, unforgettable scene, scene unforgettable, unforgettable line, line yell, yell crowd, crowd surround, surround cop
+I:8819;636;be, movie, opinion, put, way, super, stardom, be movie, movie opinion, opinion put, put way, way super, super stardom
+I:8819;637;be, favorite, actor, give, inspired, performance, strange, true, story, bank, robbery, be favorite, favorite actor, actor give, give inspired, inspired performance, performance strange, strange true, true story, story bank, bank robbery
+I:8819;638;huge, crowd, gather, outside, cheer, time, come, talk, cop, media, be, have, heyday, story, huge crowd, crowd gather, gather outside, outside cheer, cheer time, time come, come talk, talk cop, cop media, media be, be have, have heyday, heyday story
+I:8819;639;direction, be, amazing, direction be, be amazing
+I:8819;640;movie, be, time, hilarious, story, become, fantastic, end, take, tragic, turn, movie be, be time, time hilarious, hilarious story, story become, become fantastic, fantastic end, end take, take tragic, tragic turn
+I:8819;641;interactive, menu, be, nice, go, movie, interactive menu, menu be, be nice, nice go, go movie
+I:8819;642;true, story, be, more, earth, believable, mention, likeable, bank, personell, beccme, hostage, feel, sympathy, true story, story be, be more, more earth, earth believable, believable mention, mention likeable, likeable bank, bank personell, personell beccme, beccme hostage, hostage feel, feel sympathy
+I:8819;643;bottom, line, be, movie, be, act, capture, amazment, real, event, cause, early, bottom line, line be, be movie, movie be, be act, act capture, capture amazment, amazment real, real event, event cause, cause early
+I:8819;644;be, nominate, many, date, rank, best, film, be nominate, nominate many, many date, date rank, rank best, best film
+I:8819;645;be, film, watch, couple, year, be film, film watch, watch couple, couple year

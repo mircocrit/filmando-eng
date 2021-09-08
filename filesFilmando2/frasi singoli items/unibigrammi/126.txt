@@ -1,0 +1,368 @@
+I:8894;1;grow, enjoy, game, show, movie, capture, underbelly, game, trick, grow enjoy, enjoy game, game show, show movie, movie capture, capture underbelly, underbelly game, game trick
+I:8894;2;great, story, good, acting, fun, great story, story good, good acting, acting fun
+I:8894;3;film, be, excellent, character, study, film be, be excellent, excellent character, character study
+I:8894;4;be, bit, toxic, cover, deceitful, nature, polish, charm, be bit, bit toxic, toxic cover, cover deceitful, deceitful nature, nature polish, polish charm
+I:8894;5;man, rob, bank, make, cop, smile, be, satisfying, moment, get, dessert, man rob, rob bank, bank make, make cop, cop smile, smile be, be satisfying, satisfying moment, moment get, get dessert
+I:8894;6;run, hour, film, have, such, natural, flow, help, be, absorb, scene, scene, run hour, hour film, film have, have such, such natural, natural flow, flow help, help be, be absorb, absorb scene, scene scene
+I:8894;7;bravo, exceptional, screenplay, bravo exceptional, exceptional screenplay
+I:8894;8;producer, convince, throw, game, elect, young, good, look, stable, doren, new, winner, producer convince, convince throw, throw game, game elect, elect young, young good, good look, look stable, stable doren, doren new, new winner
+I:8894;9;skyrocket, fame, charm, become, biggest, winner, show, have, skyrocket fame, fame charm, charm become, become biggest, biggest winner, winner show, show have
+I:8894;10;cast, be, exceptional, charming, pants, audience, deliver, layered, performance, jilt, cast be, be exceptional, exceptional charming, charming pants, pants audience, audience deliver, deliver layered, layered performance, performance jilt
+I:8894;11;appear, be, neck, neck, race, be, nominate, be, nominate, wish, have, prevail, be, best, part, film, appear be, be neck, neck neck, neck race, race be, be nominate, nominate be, be nominate, nominate wish, wish have, have prevail, prevail be, be best, best part, part film
+I:8894;12;snappy, dialog, rich, production, value, ensemble, sell, note, paymer, be, marvelous, pair, quiz, show, get, right, help, love, snappy dialog, dialog rich, rich production, production value, value ensemble, ensemble sell, sell note, note paymer, paymer be, be marvelous, marvelous pair, pair quiz, quiz show, show get, get right, right help, help love
+I:8894;13;be, entertaining, film, solid, cast, be, base, be entertaining, entertaining film, film solid, solid cast, cast be, be base
+I:8894;14;airing, stempel, immediate, departure, take, dive, airing stempel, stempel immediate, immediate departure, departure take, take dive
+I:8894;15;anomaly, several, quiz, show, be, anomaly several, several quiz, quiz show, show be
+I:8894;16;be, be, correct, give, overview, turn, be, rig, show, outcome, grand, scale, be be, be correct, correct give, give overview, overview turn, turn be, be rig, rig show, show outcome, outcome grand, grand scale
+I:8894;17;be, costume, drama, be costume, costume drama
+I:8894;18;star, movie, be, good, earn, star movie, movie be, be good, good earn
+I:8894;19;be, best, film, be best, best film
+I:8894;20;see, tell, be, make, money, see tell, tell be, be make, make money
+I:8894;21;make, cinematic, marvel, be, ability, keep, viewer, involve, remain, faithful, fact, make cinematic, cinematic marvel, marvel be, be ability, ability keep, keep viewer, viewer involve, involve remain, remain faithful, faithful fact
+I:8894;22;be, handsome, clean, be handsome, handsome clean
+I:8894;23;exceptional, easy, overlook, glow, exceptional easy, easy overlook, overlook glow
+I:8894;24;force, performance, essential, bring, brilliant, screenplay, life, force performance, performance essential, essential bring, bring brilliant, brilliant screenplay, screenplay life
+I:8894;25;result, morality, play, be, grip, entertain, result morality, morality play, play be, be grip, grip entertain
+I:8894;26;be, fitting, movie, theme, be, integrity, be, approach, such, uncompromising, honesty, be, thankful, be fitting, fitting movie, movie theme, theme be, be integrity, integrity be, be approach, approach such, such uncompromising, uncompromising honesty, honesty be, be thankful
+I:8894;27;thoughtful, movie, super, do, thoughtful movie, movie super, super do
+I:8894;28;thoughtful, movie, choice, unforeseen, result, choice, thoughtful movie, movie choice, choice unforeseen, unforeseen result, result choice
+I:8894;29;adult, mature, teens, find, movie, interesting, adult mature, mature teens, teens find, find movie, movie interesting
+I:8894;30;quiz, show, be, movie, get, attention, deserve, quiz show, show be, be movie, movie get, get attention, attention deserve
+I:8894;31;dialogue, be, fast, intelligent, nuanced, actor, believe, be, age, car, much, chrome, dialogue be, be fast, fast intelligent, intelligent nuanced, nuanced actor, actor believe, believe be, be age, age car, car much, much chrome
+I:8894;32;handsome, articulate, witty, gentile, handsome articulate, articulate witty, witty gentile
+I:8894;33;film, be, fascinating, study, people, be, willing, do, gain, cash, notoriety, hidden, cost, behavior, film be, be fascinating, fascinating study, study people, people be, be willing, willing do, do gain, gain cash, cash notoriety, notoriety hidden, hidden cost, cost behavior
+I:8894;34;father, be, excellent, provide, moral, compass, son, have, lose, father be, be excellent, excellent provide, provide moral, moral compass, compass son, son have, have lose
+I:8894;35;remind, progeny, corrupt, action, reflect, family, name, move, person, tear, remind progeny, progeny corrupt, corrupt action, action reflect, reflect family, family name, name move, move person, person tear
+I:8894;36;do, terrific, job, jewish, counterpart, do terrific, terrific job, job jewish, jewish counterpart
+I:8894;37;be, excellent, jewish, media, crazy, be excellent, excellent jewish, jewish media, media crazy
+I:8894;38;do, fine, job, do fine, fine job
+I:8894;39;fact, find, say, actor, do, best, job, like, fact find, find say, say actor, actor do, do best, best job, job like
+I:8894;40;good, acting, nice, script, good, direction, good acting, acting nice, nice script, script good, good direction
+I:8894;41;be, fine, movie, be fine, fine movie
+I:8894;42;choose, be, familiar, quiz, show, scandal, film, bring, history, alive, choose be, be familiar, familiar quiz, quiz show, show scandal, scandal film, film bring, bring history, history alive
+I:8894;43;be, good, film, be good, good film
+I:8894;44;recommend, anyone, watch, essay, recommend anyone, anyone watch, watch essay
+I:8894;45;be, brilliant, film, be, sure, worthy, star, series, star, give, cinematic, history, be brilliant, brilliant film, film be, be sure, sure worthy, worthy star, star series, series star, star give, give cinematic, cinematic history
+I:8894;46;prelude, be, worthy, star, be, performance, screenplay, cinematography, striking, use, song, prelude be, be worthy, worthy star, star be, be performance, performance screenplay, screenplay cinematography, cinematography striking, striking use, use song
+I:8894;47;least, sit, record, insight, understate, craft, work, drama, least sit, sit record, record insight, insight understate, understate craft, craft work, work drama
+I:8894;48;believe, finer, point, defy, first, viewing, subsequent, showing, film, have, uncover, new, dynamic, new, layer, new, penetrate, insight, believe finer, finer point, point defy, defy first, first viewing, viewing subsequent, subsequent showing, showing film, film have, have uncover, uncover new, new dynamic, dynamic new, new layer, layer new, new penetrate, penetrate insight
+I:8894;49;use, song, belie, filmmaker, knowledge, incendiary, message, content, use song, song belie, belie filmmaker, filmmaker knowledge, knowledge incendiary, incendiary message, message content
+I:8894;50;story, be, fascinating, irrelevant, story be, be fascinating, fascinating irrelevant
+I:8894;51;exquisite, disection, hope, fear, insecurity, aspiration, attend, be, shocking, exquisite disection, disection hope, hope fear, fear insecurity, insecurity aspiration, aspiration attend, attend be, be shocking
+I:8894;52;first, time, show, entire, field, view, coquettish, close, first time, time show, show entire, entire field, field view, view coquettish, coquettish close
+I:8894;53;be, kind, filmmaking, aspire, be kind, kind filmmaking, filmmaking aspire
+I:8894;54;defy, thinking, conscientious, person, watch, entire, movie, return, opening, scene, see, kind, overture, film, reduce, theme, intention, brief, entice, summary, defy thinking, thinking conscientious, conscientious person, person watch, watch entire, entire movie, movie return, return opening, opening scene, scene see, see kind, kind overture, overture film, film reduce, reduce theme, theme intention, intention brief, brief entice, entice summary
+I:8894;55;do, much, laud, film, be, execute, pathos, suspense, top, pick, do much, much laud, laud film, film be, be execute, execute pathos, pathos suspense, suspense top, top pick
+I:8894;56;quiz, show, be, absorb, engross, story, tirumph, downfall, tv, showbiz, personality, quiz show, show be, be absorb, absorb engross, engross story, story tirumph, tirumph downfall, downfall tv, tv showbiz, showbiz personality
+I:8894;57;cast, be, remarkable, cast be, be remarkable
+I:8894;58;john, be, brilliant, strike, cord, be, nothing, short, powerful, be, confuse, have, live, incredible, reputation, father, play, be, terrific, john be, be brilliant, brilliant strike, strike cord, cord be, be nothing, nothing short, short powerful, powerful be, be confuse, confuse have, have live, live incredible, incredible reputation, reputation father, father play, play be, be terrific
+I:8894;59;script, be, witty, literate, other, word, brilliant, remarkable, script be, be witty, witty literate, literate other, other word, word brilliant, brilliant remarkable
+I:8894;60;cinematography, be, effective, observant, game, show, owner, say, be, okay, be, camera, look, tower, cinematography be, be effective, effective observant, observant game, game show, show owner, owner say, say be, be okay, okay be, be camera, camera look, look tower
+I:8894;61;quiz, show, be, masterpiece, thriller, brain, drama, heart, quiz show, show be, be masterpiece, masterpiece thriller, thriller brain, brain drama, drama heart
+I:8894;62;make, gem, entertaining, little, movie, make gem, gem entertaining, entertaining little, little movie
+I:8894;63;smart, actor, snappy, dialog, art, direction, capture, detailed, slice, mid, fifty, smart actor, actor snappy, snappy dialog, dialog art, art direction, direction capture, capture detailed, detailed slice, slice mid, mid fifty
+I:8894;64;fine, movie, have, be, shelf, year, fine movie, movie have, have be, be shelf, shelf year
+I:8894;65;movie, be, excellent, long, movie be, be excellent, excellent long
+I:8894;66;cast, screenplay, be, high, level, cast screenplay, screenplay be, be high, high level
+I:8894;67;line, stay, longest, be, ceo, program, sponsor, play, federal, investigator, have, understand, public, have, short, memory, say, grin, line stay, stay longest, longest be, be ceo, ceo program, program sponsor, sponsor play, play federal, federal investigator, investigator have, have understand, understand public, public have, have short, short memory, memory say, say grin
+I:8894;68;have, be, favorite, movie, have be, be favorite, favorite movie
+I:8894;69;rate, film, excel, many, level, rate film, film excel, excel many, many level
+I:8894;70;begin, cast, performance, be, excellent, begin cast, cast performance, performance be, be excellent
+I:8894;71;excel, unlikeable, walk, encyclopedia, excel unlikeable, unlikeable walk, walk encyclopedia
+I:8894;72;character, be, center, stage, movie, be, play, complex, character, character be, be center, center stage, stage movie, movie be, be play, play complex, complex character
+I:8894;73;believe, present, truth, public, correct, outcome, be, inevitable, believe present, present truth, truth public, public correct, correct outcome, outcome be, be inevitable
+I:8894;74;seem, relieve, indict, nation, pay, heavy, price, confession, seem relieve, relieve indict, indict nation, nation pay, pay heavy, heavy price, price confession
+I:8894;75;round, cast, be, excellent, father, round cast, cast be, be excellent, excellent father
+I:8894;76;eyed, idealist, tall, shadow, have, have, dwell, come, eyed idealist, idealist tall, tall shadow, shadow have, have have, have dwell, dwell come
+I:8894;77;fictional, composite, character, be, turn, dishonored, employee, return, tv, bigger, hit, fictional composite, composite character, character be, be turn, turn dishonored, dishonored employee, employee return, return tv, tv bigger, bigger hit
+I:8894;78;short, recommend, film, short recommend, recommend film
+I:8894;79;clever, talented, direct, engrossing, snapshot, decay, american, moral, standard, television, quiz, show, vehicle, clever talented, talented direct, direct engrossing, engrossing snapshot, snapshot decay, decay american, american moral, moral standard, standard television, television quiz, quiz show, show vehicle
+I:8894;80;brilliant, play, distinguished, honest, dignified, rich, famous, poet, father, similar, character, man, seaon, win, best, actor, brilliant play, play distinguished, distinguished honest, honest dignified, dignified rich, rich famous, famous poet, poet father, father similar, similar character, character man, man seaon, seaon win, win best, best actor
+I:8894;81;film, be, entertaining, own, filmmaker, pull, theme, socialist, critique, capitalism, film be, be entertaining, entertaining own, own filmmaker, filmmaker pull, pull theme, theme socialist, socialist critique, critique capitalism
+I:8894;82;social, commentary, do, good, job, juxtapose, powerlessness, feinne, privilege, social commentary, commentary do, do good, good job, job juxtapose, juxtapose powerlessness, powerlessness feinne, feinne privilege
+I:8894;83;salesman, come, confident, trustworthy, salesman come, come confident, confident trustworthy
+I:8894;84;opening, title, sequence, begin, revisit, salesman, understand, be, film, have, do, sell, something, opening title, title sequence, sequence begin, begin revisit, revisit salesman, salesman understand, understand be, be film, film have, have do, do sell, sell something
+I:8894;85;television, entertainment, be, bit, pearly, white, tooth, sharp, bite, television entertainment, entertainment be, be bit, bit pearly, pearly white, white tooth, tooth sharp, sharp bite
+I:8894;86;doren, appear, exude, uncommon, combination, intelligence, knowledge, amiability, doren appear, appear exude, exude uncommon, uncommon combination, combination intelligence, intelligence knowledge, knowledge amiability
+I:8894;87;problem, be, be, favorite, movie, know, win, best, problem be, be be, be favorite, favorite movie, movie know, know win, win best
+I:8894;88;producer, reply, be, beauty, producer reply, reply be, be beauty
+I:8894;89;mean, time, fresh, law, school, be, work, congressman, legislative, mean time, time fresh, fresh law, law school, school be, be work, work congressman, congressman legislative
+I:8894;90;incredible, film, first, incredible film, film first
+I:8894;91;legitimacy, television, new, entertainment, medium, be, become, choice, many, legitimacy television, television new, new entertainment, entertainment medium, medium be, be become, become choice, choice many
+I:8894;92;happen, be, bear, movie, inspire, look, true, event, go, happen be, be bear, bear movie, movie inspire, inspire look, look true, true event, event go
+I:8894;93;remember, name, remember name
+I:8894;94;actor, be, superb, crooked, executive, family, actor be, be superb, superb crooked, crooked executive, executive family
+I:8894;95;veteran, actor, play, father, be, standout, role, veteran actor, actor play, play father, father be, be standout, standout role
+I:8894;96;sad, story, movie, be, true, be, crook, get, least, read, end, credit, movie, end, sad story, story movie, movie be, be true, true be, be crook, crook get, get least, least read, read end, end credit, credit movie, movie end
+I:8894;97;quiz, show, be, good, film, present, vivid, detail, important, disillusioning, piece, americana, quiz show, show be, be good, good film, film present, present vivid, vivid detail, detail important, important disillusioning, disillusioning piece, piece americana
+I:8894;98;understand, event, present, be, accurate, truth, actual, event, film, be, gripping, full, implication, be, be, be, have, appearance, brilliant, screen, play, make, understand event, event present, present be, be accurate, accurate truth, truth actual, actual event, event film, film be, be gripping, gripping full, full implication, implication be, be be, be be, be have, have appearance, appearance brilliant, brilliant screen, screen play, play make
+I:8894;99;honesty, integrity, greed, personal, corporate, betrayal, politics, discrimination, disillusionment, honesty integrity, integrity greed, greed personal, personal corporate, corporate betrayal, betrayal politics, politics discrimination, discrimination disillusionment
+I:8894;100;movie, be, fill, brim, theme, many, more, movie be, be fill, fill brim, brim theme, theme many, many more
+I:8894;101;champion, be, contemporary, version, win, acclaim, have, seek, whole, life, lose, begin, grow, tired, jewish, underdog, mention, be, jewish, fact, do, have, bearing, story, champion be, be contemporary, contemporary version, version win, win acclaim, acclaim have, have seek, seek whole, whole life, life lose, lose begin, begin grow, grow tired, tired jewish, jewish underdog, underdog mention, mention be, be jewish, jewish fact, fact do, do have, have bearing, bearing story
+I:8894;102;rating, slip, producer, compel, take, dive, be, replace, charming, good, rating slip, slip producer, producer compel, compel take, take dive, dive be, be replace, replace charming, charming good
+I:8894;103;lot, help, producer, go, record, lot help, help producer, producer go, go record
+I:8894;104;act, movie, be, top, act movie, movie be, be top
+I:8894;105;be, wonderful, be, slimy, fast, be wonderful, wonderful be, be slimy, slimy fast
+I:8894;106;talk, producer, talented, support, player, such, make, movie, something, special, be, performance, role, lawyer, steal, show, talk producer, producer talented, talented support, support player, player such, such make, make movie, movie something, something special, special be, be performance, performance role, role lawyer, lawyer steal, steal show
+I:8894;107;be, complex, character, sempel, be, paranoid, man, obsess, fame, be, take, secret, be, hard, read, be complex, complex character, character sempel, sempel be, be paranoid, paranoid man, man obsess, obsess fame, fame be, be take, take secret, secret be, be hard, hard read
+I:8894;108;win, father, proud, step, shadow, name, secure, birthright, win father, father proud, proud step, step shadow, shadow name, name secure, secure birthright
+I:8894;109;subtlety, make, great, rewatchability, everything, take, place, be, important, seem, time, subtlety make, make great, great rewatchability, rewatchability everything, everything take, take place, place be, be important, important seem, seem time
+I:8894;110;particular, be, marvelous, character, study, amazing, cinematic, morality, play, particular be, be marvelous, marvelous character, character study, study amazing, amazing cinematic, cinematic morality, morality play
+I:8894;111;have, appear, game, show, think, be, able, offer, unique, perspective, movie, lesson, be, universal, have appear, appear game, game show, show think, think be, be able, able offer, offer unique, unique perspective, perspective movie, movie lesson, lesson be, be universal
+I:8894;112;provide, hour, gripping, entertainment, movie, compel, learn, something, be, many, reason, be, provide hour, hour gripping, gripping entertainment, entertainment movie, movie compel, compel learn, learn something, something be, be many, many reason, reason be
+I:8894;113;be, excellent, movie, be excellent, excellent movie
+I:8894;114;think, be, do, think be, be do
+I:8894;115;be, great, film, many, level, be great, great film, film many, many level
+I:8894;116;way, many, subtle, symbol, be, interject, support, thesis, be, element, raise, movie, same, level, best, film, make, way many, many subtle, subtle symbol, symbol be, be interject, interject support, support thesis, thesis be, be element, element raise, raise movie, movie same, same level, level best, best film, film make
+I:8894;117;amazing, element, inconspicuous, pass, undetected, amazing element, element inconspicuous, inconspicuous pass, pass undetected
+I:8894;118;quiz, show, be, pack, quiz show, show be, be pack
+I:8894;119;make, multiple, viewing, rewarding, experience, make multiple, multiple viewing, viewing rewarding, rewarding experience
+I:8894;120;be, instant, classic, be instant, instant classic
+I:8894;121;have, fantastic, actor, unbelievable, dialogue, be, cute, little, story, have fantastic, fantastic actor, actor unbelievable, unbelievable dialogue, dialogue be, be cute, cute little, little story
+I:8894;122;reign, favorite, movie, time, reign favorite, favorite movie, movie time
+I:8894;123;program, provide, rapid, fire, entertainment, attract, viewer, advertiser, reality, deliver, jaw, program provide, provide rapid, rapid fire, fire entertainment, entertainment attract, attract viewer, viewer advertiser, advertiser reality, reality deliver, deliver jaw
+I:8894;124;appear, win, string, victory, approach, winnings, appear win, win string, string victory, victory approach, approach winnings
+I:8894;125;show, producer, decide, bring, clean, cut, proper, contestant, win, heart, american, mention, sponsor, find, person, show producer, producer decide, decide bring, bring clean, clean cut, cut proper, proper contestant, contestant win, win heart, heart american, american mention, mention sponsor, sponsor find, find person
+I:8894;126;defiant, feel, cheat, move, expose, show, defiant feel, feel cheat, cheat move, move expose, expose show
+I:8894;127;bygone, audience, new, innocent, medium, television, feel, betray, bygone audience, audience new, new innocent, innocent medium, medium television, television feel, feel betray
+I:8894;128;quiz, show, dramatization, scandal, manage, attain, high, level, drama, resort, violence, sex, quiz show, show dramatization, dramatization scandal, scandal manage, manage attain, attain high, high level, level drama, drama resort, resort violence, violence sex
+I:8894;129;pure, character, development, move, story, pure character, character development, development move, move story
+I:8894;130;play, evolve, confident, arrogant, winner, bitter, reckless, fall, guy, play evolve, evolve confident, confident arrogant, arrogant winner, winner bitter, bitter reckless, reckless fall, fall guy
+I:8894;131;end, confess, pay, heavy, price, end confess, confess pay, pay heavy, heavy price
+I:8894;132;quiz, show, strive, make, point, fictionalize, certain, aspect, fact, quiz show, show strive, strive make, make point, point fictionalize, fictionalize certain, certain aspect, aspect fact
+I:8894;133;present, theory, deception, get, propogate, rank, take, fall, effect, such, event, have, public, present theory, theory deception, deception get, get propogate, propogate rank, rank take, take fall, fall effect, effect such, such event, event have, have public
+I:8894;134;mean, public, character, movie, mean public, public character, character movie
+I:8894;135;filmmaker, have, bigger, picture, mind, get, vision, have, play, story, filmmaker have, have bigger, bigger picture, picture mind, mind get, get vision, vision have, have play, play story
+I:8894;136;quiz, show, be, end, great, movie, invite, reflection, medium, have, come, dominate, life, quiz show, show be, be end, end great, great movie, movie invite, invite reflection, reflection medium, medium have, have come, come dominate, dominate life
+I:8894;137;be, classy, tell, true, story, base, game, show, be classy, classy tell, tell true, true story, story base, base game, game show
+I:8894;138;low, budget, film, recreate, era, mood, low budget, budget film, film recreate, recreate era, era mood
+I:8894;139;acting, be, top, notch, production, design, acting be, be top, top notch, notch production, production design
+I:8894;140;masterwork, boast, hit, mark, full, rounded, portrait, time, masterwork boast, boast hit, hit mark, mark full, full rounded, rounded portrait, portrait time
+I:8894;141;illusion, see, new, talent, win, be, part, collective, unconscious, illusion see, see new, new talent, talent win, win be, be part, part collective, collective unconscious
+I:8894;142;write, better, act, write better, better act
+I:8894;143;top, american, film, top american, american film
+I:8894;144;movie, have, powerful, message, give, reflective, viewer, lot, ponder, own, life, ability, go, motivate, consequence, take, take, personal, responsibility, own, moral, growth, movie have, have powerful, powerful message, message give, give reflective, reflective viewer, viewer lot, lot ponder, ponder own, own life, life ability, ability go, go motivate, motivate consequence, consequence take, take take, take personal, personal responsibility, responsibility own, own moral, moral growth
+I:8894;145;scene, set, brilliance, follow, hour, cinema, call, quiz, show, scene set, set brilliance, brilliance follow, follow hour, hour cinema, cinema call, call quiz, quiz show
+I:8894;146;america, fascination, sale, happiness, be, tell, lens, infamous, quiz, show, scandal, america fascination, fascination sale, sale happiness, happiness be, be tell, tell lens, lens infamous, infamous quiz, quiz show, show scandal
+I:8894;147;enter, family, family, good, look, boot, become, new, darling, enter family, family family, family good, good look, look boot, boot become, become new, new darling
+I:8894;148;movie, move, investgation, drive, passion, justice, quest, find, truth, movie move, move investgation, investgation drive, drive passion, passion justice, justice quest, quest find, find truth
+I:8894;149;film, aim, higher, higher, result, be, impressive, film aim, aim higher, higher higher, higher result, result be, be impressive
+I:8894;150;illusion, happiness, ridicule, final, credit, audience, be, show, rollick, scream, result, television, show, illusion happiness, happiness ridicule, ridicule final, final credit, credit audience, audience be, be show, show rollick, rollick scream, scream result, result television, television show
+I:8894;151;performance, movie, be, grand, manic, stempel, slick, slimy, sponsor, performance movie, movie be, be grand, grand manic, manic stempel, stempel slick, slick slimy, slimy sponsor
+I:8894;152;smooth, stylistic, direction, film, be, tribute, late, fifty, be, expose, smooth stylistic, stylistic direction, direction film, film be, be tribute, tribute late, late fifty, fifty be, be expose
+I:8894;153;be, film, be, more, people, top, list, be film, film be, be more, more people, people top, top list
+I:8894;154;instruct, be, preachy, showcase, strength, cinema, carry, instruct be, be preachy, preachy showcase, showcase strength, strength cinema, cinema carry
+I:8894;155;older, folk, enjoy, re, older folk, folk enjoy, enjoy re
+I:8894;156;younger, generation, enjoy, die, laugh, little, be, require, ancient, time, keep, populace, content, entertain, younger generation, generation enjoy, enjoy die, die laugh, laugh little, little be, be require, require ancient, ancient time, time keep, keep populace, populace content, content entertain
+I:8894;157;everyone, know, be, amazing, film, everyone know, know be, be amazing, amazing film
+I:8894;158;be, make, handsome, sum, be make, make handsome, handsome sum
+I:8894;159;show, scandal, rock, day, early, television, intelligent, absorb, drama, dig, murky, ethic, mass, show scandal, scandal rock, rock day, day early, early television, television intelligent, intelligent absorb, absorb drama, drama dig, dig murky, murky ethic, ethic mass
+I:8894;160;be, excellent, play, antagonist, ethnicity, be, concern, image, be excellent, excellent play, play antagonist, antagonist ethnicity, ethnicity be, be concern, concern image
+I:8894;161;win, turn, patrician, father, be, memorable, attorney, help, blow, whistle, win turn, turn patrician, patrician father, father be, be memorable, memorable attorney, attorney help, help blow, blow whistle
+I:8894;162;quiz, show, remain, cinema, best, meditation, tricky, dealings, almighty, tube, quiz show, show remain, remain cinema, cinema best, best meditation, meditation tricky, tricky dealings, dealings almighty, almighty tube
+I:8894;163;few, movie, have, capture, risk, reward, celebrity, few movie, movie have, have capture, capture risk, risk reward, reward celebrity
+I:8894;164;sharp, contrast, portrayal, old, way, recent, movie, sharp contrast, contrast portrayal, portrayal old, old way, way recent, recent movie
+I:8894;165;be, great, important, lesson, be great, great important, important lesson
+I:8894;166;original, music, be, amazing, ability, create, mood, era, original music, music be, be amazing, amazing ability, ability create, create mood, mood era
+I:8894;167;be, best, movie, opinion, be best, best movie, movie opinion
+I:8894;168;do, great, job, period, get, great, cast, lead, tell, personal, story, quiz, show, scandal, do great, great job, job period, period get, get great, great cast, cast lead, lead tell, tell personal, personal story, story quiz, quiz show, show scandal
+I:8894;169;bad, guy, be, bold, prediction, future, know, future, movie, flow, main, character, face, sort, moral, dilemma, answer, come, bad guy, guy be, be bold, bold prediction, prediction future, future know, know future, future movie, movie flow, flow main, main character, character face, face sort, sort moral, moral dilemma, dilemma answer, answer come
+I:8894;170;be, fan, actor, director, latter, be, crowning, achievement, be fan, fan actor, actor director, director latter, latter be, be crowning, crowning achievement
+I:8894;171;have, understanding, look, be, character, be, win, have understanding, understanding look, look be, be character, character be, be win
+I:8894;172;quiz, show, be, powerful, get, face, move, feel, manipulative, quiz show, show be, be powerful, powerful get, get face, face move, move feel, feel manipulative
+I:8894;173;be, fantastic, be, be, excellent, be fantastic, fantastic be, be be, be excellent
+I:8894;174;see, take, time, view, great, vintage, filmmaking, be, best, see take, take time, time view, view great, great vintage, vintage filmmaking, filmmaking be, be best
+I:8894;175;amazing, film, direct, star, be, period, film, real, life, quiz, show, scandal, amazing film, film direct, direct star, star be, be period, period film, film real, real life, life quiz, quiz show, show scandal
+I:8894;176;time, favorite, actor, come, distant, second, follow, recommend, purchase, copy, today, time favorite, favorite actor, actor come, come distant, distant second, second follow, follow recommend, recommend purchase, purchase copy, copy today
+I:8894;177;be, honesty, show, have, prize, involve, be honesty, honesty show, show have, have prize, prize involve
+I:8894;178;quiz, show, play, character, quiz show, show play, play character
+I:8894;179;script, be, brilliant, deliver, everyone, front, camera, script be, be brilliant, brilliant deliver, deliver everyone, everyone front, front camera
+I:8894;180;professional, group, effort, professional group, group effort
+I:8894;181;win, contestant, be, give, answer, question, popular, game, show, win contestant, contestant be, be give, give answer, answer question, question popular, popular game, game show
+I:8894;182;illegal, practice, be, discover, investigate, be, basis, restructuring, television, game, show, illegal practice, practice be, be discover, discover investigate, investigate be, be basis, basis restructuring, restructuring television, television game, game show
+I:8894;183;think, do, marvelous, job, role, braniac, celebrity, think do, do marvelous, marvelous job, job role, role braniac, braniac celebrity
+I:8894;184;make, great, act, game, show, scandel, base, true, story, make great, great act, act game, game show, show scandel, scandel base, base true, true story
+I:8894;185;be, watch, be watch
+I:8894;186;movie, find, be, entertaining, adore, actor, movie find, find be, be entertaining, entertaining adore, adore actor
+I:8894;187;bonus, be, story, be, base, actual, event, bonus be, be story, story be, be base, base actual, actual event
+I:8894;188;recommend, see, recommend see
+I:8894;189;year, be, everyone, seem, be, watch, popular, tv, game, show, year be, be everyone, everyone seem, seem be, be watch, watch popular, popular tv, tv game, game show
+I:8894;190;be, surprise, exciting, movie, be, be surprise, surprise exciting, exciting movie, movie be
+I:8894;191;be, get, humor, drama, be, fill, tension, be get, get humor, humor drama, drama be, be fill, fill tension
+I:8894;192;portray, witty, charming, influential, family, portray witty, witty charming, charming influential, influential family
+I:8894;193;be, excellent, whistle, be excellent, excellent whistle
+I:8894;194;movie, be, wonderful, look, time, people, be, more, trusting, innocent, movie be, be wonderful, wonderful look, look time, time people, people be, be more, more trusting, trusting innocent
+I:8894;195;be, great, movie, be great, great movie
+I:8894;196;film, give, detailed, feeling, start, film give, give detailed, detailed feeling, feeling start
+I:8894;197;car, soundtrack, costume, house, attitude, car soundtrack, soundtrack costume, costume house, house attitude
+I:8894;198;cast, movie, be, great, cast movie, movie be, be great
+I:8894;199;ralph, be, perfect, investigate, wrongdoing, play, versatile, be, terrific, unlikeable, sympathetic, ralph be, be perfect, perfect investigate, investigate wrongdoing, wrongdoing play, play versatile, versatile be, be terrific, terrific unlikeable, unlikeable sympathetic
+I:8894;200;be, better, director, actor, be, say, lot, be better, better director, director actor, actor be, be say, say lot
+I:8894;201;be, first, family, poetry, be first, first family, family poetry
+I:8894;202;nuanced, portrayal, be, pitch, parting, value, piece, piece, end, lose, everything, be, masterpiece, nuanced portrayal, portrayal be, be pitch, pitch parting, parting value, value piece, piece piece, piece end, end lose, lose everything, everything be, be masterpiece
+I:8894;203;be, movie, one, watch, be movie, movie one, one watch
+I:8894;204;first, era, prime, first era, era prime
+I:8894;205;be, specific, program, represent, major, change, be specific, specific program, program represent, represent major, major change
+I:8894;206;be, be, first, successful, series, be, film, represent, shift, live, television, broadcast, be be, be first, first successful, successful series, series be, be film, film represent, represent shift, shift live, live television, television broadcast
+I:8894;207;contestant, center, storm, contestant center, center storm
+I:8894;208;great, irony, script, base, book, remember, be, want, get, great irony, irony script, script base, base book, book remember, remember be, be want, want get
+I:8894;209;performance, be, compelling, keep, film, ground, personal, level, larger, social, issue, be, lose, personal, wreckage, life, performance be, be compelling, compelling keep, keep film, film ground, ground personal, personal level, level larger, larger social, social issue, issue be, be lose, lose personal, personal wreckage, wreckage life
+I:8894;210;be, time, innocence, view, community, be, deceive, be time, time innocence, innocence view, view community, community be, be deceive
+I:8894;211;have, network, win, kind, public, trust, have network, network win, win kind, kind public, public trust
+I:8894;212;film, role, be, play, be, determine, uncover, deception, film role, role be, be play, play be, be determine, determine uncover, uncover deception
+I:8894;213;other, actor, be, excellent, other actor, actor be, be excellent
+I:8894;214;shine, role, father, stand, son, family, be, disgrace, publicity, shine role, role father, father stand, stand son, son family, family be, be disgrace, disgrace publicity
+I:8894;215;be, nature, time, anti, be nature, nature time, time anti
+I:8894;216;eye, front, black, white, set, admire, contestant, be, smart, eye front, front black, black white, white set, set admire, admire contestant, contestant be, be smart
+I:8894;217;be, unprepared, love, film, be unprepared, unprepared love, love film
+I:8894;218;be, tension, wonderful, acting, be tension, tension wonderful, wonderful acting
+I:8894;219;dialog, be, authentic, actor, play, role, subtlety, dialog be, be authentic, authentic actor, actor play, play role, role subtlety
+I:8894;220;quiz, show, be, wonderful, film, give, highest, recommendation, quiz show, show be, be wonderful, wonderful film, film give, give highest, highest recommendation
+I:8894;221;watch, film, discover, layer, watch film, film discover, discover layer
+I:8894;222;be, entertaining, intriguing, write, direct, act, be entertaining, entertaining intriguing, intriguing write, write direct, direct act
+I:8894;223;watch, more, realize, good, be, watch more, more realize, realize good, good be
+I:8894;224;viewer, love, game, show, viewer love, love game, game show
+I:8894;225;one, rating, go, intelligent, bright, contestant, vie, big, monetary, gift, one rating, rating go, go intelligent, intelligent bright, bright contestant, contestant vie, vie big, big monetary, monetary gift
+I:8894;226;be, intelligent, smart, big, boy, network, want, someone, handsome, appealing, be intelligent, intelligent smart, smart big, big boy, boy network, network want, want someone, someone handsome, handsome appealing
+I:8894;227;great, acting, excellent, director, compelling, drama, great acting, acting excellent, excellent director, director compelling, compelling drama
+I:8894;228;great, job, do, capture, drama, surround, episode, tragedy, ruin, life, portray, outstanding, film, deserve, be, categorize, great, great job, job do, do capture, capture drama, drama surround, surround episode, episode tragedy, tragedy ruin, ruin life, life portray, portray outstanding, outstanding film, film deserve, deserve be, be categorize, categorize great
+I:8894;229;be, true, be, true, be true, true be, be true
+I:8894;230;be, film, worth, see, be film, film worth, worth see
+I:8894;231;great, joy, see, great, masterful, portrayal, real, great joy, joy see, see great, great masterful, masterful portrayal, portrayal real
+I:8894;232;life, character, triumph, life character, character triumph
+I:8894;233;great, movie, act, entire, cast, great movie, movie act, act entire, entire cast
+I:8894;234;film, be, favorite, mine, enjoy, watch, film be, be favorite, favorite mine, mine enjoy, enjoy watch
+I:8894;235;be, craft, act, engage, be craft, craft act, act engage
+I:8894;236;flood, big, money, small, brain, quiz, show, multiple, choice, question, have, hit, air, wave, past, year, deny, prophetic, power, film, flood big, big money, money small, small brain, brain quiz, quiz show, show multiple, multiple choice, choice question, question have, have hit, hit air, air wave, wave past, past year, year deny, deny prophetic, prophetic power, power film
+I:8894;237;great, performance, lack, clear, good, guy, bad, guy, there, nothing, stop, be, best, film, great performance, performance lack, lack clear, clear good, good guy, guy bad, bad guy, guy there, there nothing, nothing stop, stop be, be best, best film
+I:8894;238;picture, be, sharp, bright, steady, clear, deep, black, rich, subdue, color, picture be, be sharp, sharp bright, bright steady, steady clear, clear deep, deep black, black rich, rich subdue, subdue color
+I:8894;239;qs, be, fascinating, period, piece, landmark, event, recent, history, be, man, movie, qs be, be fascinating, fascinating period, period piece, piece landmark, landmark event, event recent, recent history, history be, be man, man movie
+I:8894;240;mean, man, movie, be, qs, do, fine, job, show, man, interact, other, level, explore, concept, competition, status, fame, behavior, friendship, meaning, personal, honor, compassion, presence, woman, mean man, man movie, movie be, be qs, qs do, do fine, fine job, job show, show man, man interact, interact other, other level, level explore, explore concept, concept competition, competition status, status fame, fame behavior, behavior friendship, friendship meaning, meaning personal, personal honor, honor compassion, compassion presence, presence woman
+I:8894;241;support, woman, character, film, remove, immediate, action, play, strong, vital, influential, role, immediate, circumstance, respective, time, period, support woman, woman character, character film, film remove, remove immediate, immediate action, action play, play strong, strong vital, vital influential, influential role, role immediate, immediate circumstance, circumstance respective, respective time, time period
+I:8894;242;be, fascinating, male, character, study, be fascinating, fascinating male, male character, character study
+I:8894;243;be, intelligent, working, be intelligent, intelligent working
+I:8894;244;rater, own, brilliant, family, rater own, own brilliant, brilliant family
+I:8894;245;have, write, be, reasonable, be, real, have write, write be, be reasonable, reasonable be, be real
+I:8894;246;wonderful, movie, wonderful, cast, give, powerful, insight, corruption, time, innocence, wonderful movie, movie wonderful, wonderful cast, cast give, give powerful, powerful insight, insight corruption, corruption time, time innocence
+I:8894;247;be, amazing, see, scene, be amazing, amazing see, see scene
+I:8894;248;fact, be, quiz, show, be, mind, finest, depiction, television, industry, morality, fact be, be quiz, quiz show, show be, be mind, mind finest, finest depiction, depiction television, television industry, industry morality
+I:8894;249;stellar, cast, lead, turn, excellent, performance, stellar cast, cast lead, lead turn, turn excellent, excellent performance
+I:8894;250;veritable, paragon, integrity, shine, role, patriarch, intellectual, role, model, family, veritable paragon, paragon integrity, integrity shine, shine role, role patriarch, patriarch intellectual, intellectual role, role model, model family
+I:8894;251;scene, be, notable, much, be, communicate, be, say, scene be, be notable, notable much, much be, be communicate, communicate be, be say
+I:8894;252;accent, descend, farce, be, excellent, role, tenacious, investigator, accent descend, descend farce, farce be, be excellent, excellent role, role tenacious, tenacious investigator
+I:8894;253;excellent, movie, testament, ability, excellent movie, movie testament, testament ability
+I:8894;254;steal, show, steal show
+I:8894;255;good, performance, good performance
+I:8894;256;forget, other, quiz, show, be, fine, showcase, act, talent, be, forget other, other quiz, quiz show, show be, be fine, fine showcase, showcase act, act talent, talent be
+I:8894;257;film, move, be, interesting, film move, move be, be interesting
+I:8894;258;year, director, have, make, number, splendid, motion, picture, year director, director have, have make, make number, number splendid, splendid motion, motion picture
+I:8894;259;win, academy, award, first, stab, direct, win academy, academy award, award first, first stab, stab direct
+I:8894;260;be, nominate, award, best, director, magnificent, river, run, film, horse, whisperer, be nominate, nominate award, award best, best director, director magnificent, magnificent river, river run, run film, film horse, horse whisperer
+I:8894;261;direct, film, have, be, quiz, show, direct film, film have, have be, be quiz, quiz show
+I:8894;262;network, discover, best, way, achieve, end, be, manipulate, result, network discover, discover best, best way, way achieve, achieve end, end be, be manipulate, manipulate result
+I:8894;263;strategy, be, successful, number, year, estrange, contestant, decide, blow, whistle, strategy be, be successful, successful number, number year, year estrange, estrange contestant, contestant decide, decide blow, blow whistle
+I:8894;264;be, film, command, undivided, attention, outset, let, go!there, be, principal, charactor, quiz, show, be film, film command, command undivided, undivided attention, attention outset, outset let, let go!there, go!there be, be principal, principal charactor, charactor quiz, quiz show
+I:8894;265;enter, play, handsome, educate, captivating, young, man, possess, charactoristic, sponser, network, be, look, enter play, play handsome, handsome educate, educate captivating, captivating young, young man, man possess, possess charactoristic, charactoristic sponser, sponser network, network be, be look
+I:8894;266;be, feisty, persistant, son, be feisty, feisty persistant, persistant son
+I:8894;267;man, be, conflict, role, drama, discover, be, force, highest, level, government, corporate, be, discredit, man be, be conflict, conflict role, role drama, drama discover, discover be, be force, force highest, highest level, level government, government corporate, corporate be, be discredit
+I:8894;268;quiz, show, feature, outstanding, act, terrific, script, quiz show, show feature, feature outstanding, outstanding act, act terrific, terrific script
+I:8894;269;opinion, be, finest, film, make, opinion be, be finest, finest film, film make
+I:8894;270;star, cast, be, great, film, be, act, be, star cast, cast be, be great, great film, film be, be act, act be
+I:8894;271;movie, quiz, show, be, entertaining, many, level, movie quiz, quiz show, show be, be entertaining, entertaining many, many level
+I:8894;272;opening, sequence, do, know, be, singing, scene, look, turn, tv, opening, few, minute, pull, period, history, opening sequence, sequence do, do know, know be, be singing, singing scene, scene look, look turn, turn tv, tv opening, opening few, few minute, minute pull, pull period, period history
+I:8894;273;act, movie, be, outstanding, direction, transcend, solid, performance, make, actor, look, be, do, job, carry, story, act movie, movie be, be outstanding, outstanding direction, direction transcend, transcend solid, solid performance, performance make, make actor, actor look, look be, be do, do job, job carry, carry story
+I:8894;274;say, enjoy, surprising, depth, act, ability, do, know, have, say enjoy, enjoy surprising, surprising depth, depth act, act ability, ability do, do know, know have
+I:8894;275;seem, actor, expect, greatness, deliver, seem actor, actor expect, expect greatness, greatness deliver
+I:8894;276;be, outstanding, be outstanding
+I:8894;277;be, movie, be movie
+I:8894;278;guide, film, get, excellent, performance, actor, guide film, film get, get excellent, excellent performance, performance actor
+I:8894;279;be, cool, dashing, professor, become, national, hero, due, success, popular, quiz, show, be cool, cool dashing, dashing professor, professor become, become national, national hero, hero due, due success, success popular, popular quiz, quiz show
+I:8894;280;give, solid, performance, young, aggressive, federal, investigator, give solid, solid performance, performance young, young aggressive, aggressive federal, federal investigator
+I:8894;281;investigate, show, way, become, friend, investigate show, show way, way become, become friend
+I:8894;282;give, usual, superb, performance, father, note, poet, give usual, usual superb, superb performance, performance father, father note, note poet
+I:8894;283;be, slimy, be slimy
+I:8894;284;host, right, touch, mock, importance, host right, right touch, touch mock, mock importance
+I:8894;285;best, performance, best performance
+I:8894;286;quiz, show, list, be, best, role, quiz show, show list, list be, be best, best role
+I:8894;287;entire, cast, do, superb, job, show, make, character, tick, entire cast, cast do, do superb, superb job, job show, show make, make character, character tick
+I:8894;288;story, be, interesting, look, early, television, industry, develop, story be, be interesting, interesting look, look early, early television, television industry, industry develop
+I:8894;289;great, look, video, great, audio, great look, look video, video great, great audio
+I:8894;290;be, favorite, be favorite
+I:8894;291;be, be, fantastic, director, quiz, show, be, fantastic, film, be be, be fantastic, fantastic director, director quiz, quiz show, show be, be fantastic, fantastic film
+I:8894;292;movie, be, much, destine, success, movie be, be much, much destine, destine success
+I:8894;293;know, excellent, director, know excellent, excellent director
+I:8894;294;entire, cast, be, full, star, few, director, cameo, least, entire cast, cast be, be full, full star, star few, few director, director cameo, cameo least
+I:8894;295;known, name, list, time, be, big, break, come, next, year, known name, name list, list time, time be, be big, big break, break come, come next, next year
+I:8894;296;act, script, be, course, exceptional, be, direction, act script, script be, be course, course exceptional, exceptional be, be direction
+I:8894;297;pacing, be, phenomenal, impressive, give, movie, pacing be, be phenomenal, phenomenal impressive, impressive give, give movie
+I:8894;298;least, critic, have, call, best, film, make, make, list, list, be, merit, claim, movie, be, great, fun, watch, event, get, more, absurd, more, fun, be, least critic, critic have, have call, call best, best film, film make, make make, make list, list list, list be, be merit, merit claim, claim movie, movie be, be great, great fun, fun watch, watch event, event get, get more, more absurd, absurd more, more fun, fun be
+I:8894;299;be, many, many, reason, movie, succeed, like, focus, be many, many many, many reason, reason movie, movie succeed, succeed like, like focus
+I:8894;300;movie, benefit, fine, cast, movie benefit, benefit fine, fine cast
+I:8894;301;lead, many, lesser, role, be, fill, good, actor, actress, lead many, many lesser, lesser role, role be, be fill, fill good, good actor, actor actress
+I:8894;302;seem, embodiment, man, reason, erudition, courtesy, portray, pain, learn, beloved, son, have, lose, teaching, position, be, great, poignant, moment, film, seem embodiment, embodiment man, man reason, reason erudition, erudition courtesy, courtesy portray, portray pain, pain learn, learn beloved, beloved son, son have, have lose, lose teaching, teaching position, position be, be great, great poignant, poignant moment, moment film
+I:8894;303;look, scene, several, attractive, coed, interrupt, spot, look scene, scene several, several attractive, attractive coed, coed interrupt, interrupt spot
+I:8894;304;second, reason, film, succeed, be, tremendous, period, feel, second reason, reason film, film succeed, succeed be, be tremendous, tremendous period, period feel
+I:8894;305;quiz, show, do, great, job, pull, give, tangible, sense, time, place, quiz show, show do, do great, great job, job pull, pull give, give tangible, tangible sense, sense time, time place
+I:8894;306;movie, be, accurate, historical, film, have, see, drama, be, sacrifice, mere, sake, be, accurate, movie be, be accurate, accurate historical, historical film, film have, have see, see drama, drama be, be sacrifice, sacrifice mere, mere sake, sake be, be accurate
+I:8894;307;have, do, reading, scandal, remember, event, film, impress, amount, accurate, detail, contain, have do, do reading, reading scandal, scandal remember, remember event, event film, film impress, impress amount, amount accurate, accurate detail, detail contain
+I:8894;308;watch, rewatch, film, please, note, reference, watch rewatch, rewatch film, film please, please note, note reference
+I:8894;309;move, subject, be, important, movie, be, stretch, make, full, move subject, subject be, be important, important movie, movie be, be stretch, stretch make, make full
+I:8894;310;movie, capture, essence, quiz, show, scandal, least, show, movie capture, capture essence, essence quiz, quiz show, show scandal, scandal least, least show
+I:8894;311;know, fixed, quiz, show, scandal, era, be, interesting, personality, involve, know fixed, fixed quiz, quiz show, show scandal, scandal era, era be, be interesting, interesting personality, personality involve
+I:8894;312;class, be, recreate, act, performance, class be, be recreate, recreate act, act performance
+I:8894;313;marvelous, film, have, be, praise, excellence, actor, intelligence, wit, dialogue, marvelous film, film have, have be, be praise, praise excellence, excellence actor, actor intelligence, intelligence wit, wit dialogue
+I:8894;314;teach, proficient, new, medium, television, represent, unbeatable, wave, debased, future, teach proficient, proficient new, new medium, medium television, television represent, represent unbeatable, unbeatable wave, wave debased, debased future
+I:8894;315;poise, shrewd, wit, illuminating, decline, film, deserve, highest, mark, poise shrewd, shrewd wit, wit illuminating, illuminating decline, decline film, film deserve, deserve highest, highest mark
+I:8894;316;be, overdo, part, role, many, other, actor, do, superlative, job, film, approach, masterpiece, status, be overdo, overdo part, part role, role many, many other, other actor, actor do, do superlative, superlative job, job film, film approach, approach masterpiece, masterpiece status
+I:8894;317;course, be, finest, actor, work, today, be, best, course be, be finest, finest actor, actor work, work today, today be, be best
+I:8894;318;performer, have, be, good, have, see, seem, be, underrated, be, bring, subdue, intensity, role, producer, center, thing, performer have, have be, be good, good have, have see, see seem, seem be, be underrated, underrated be, be bring, bring subdue, subdue intensity, intensity role, role producer, producer center, center thing
+I:8894;319;plot, base, notorious, government, investigation, game, show, fraud, late, be, bit, loose, end, performance, actor, be, splendid, overcome, script, shortcoming, plot base, base notorious, notorious government, government investigation, investigation game, game show, show fraud, fraud late, late be, be bit, bit loose, loose end, end performance, performance actor, actor be, be splendid, splendid overcome, overcome script, script shortcoming
+I:8894;320;remember, see, theater, year, be, impressed, remember see, see theater, theater year, year be, be impressed
+I:8894;321;movie, take, few, liberty, actual, happening, quiz, show, scandal, late, stay, fact, tell, story, have, little, background, event, movie take, take few, few liberty, liberty actual, actual happening, happening quiz, quiz show, show scandal, scandal late, late stay, stay fact, fact tell, tell story, story have, have little, little background, background event
+I:8894;322;film, portray, film portray
+I:8894;323;john, be, excellent, nerdy, young, jewish, guy, encyclopedia, mind, nagging, wife, john be, be excellent, excellent nerdy, nerdy young, young jewish, jewish guy, guy encyclopedia, encyclopedia mind, mind nagging, nagging wife
+I:8894;324;be, good, role, be good, good role
+I:8894;325;provide, vintage, footage, game, show, host, game, show, provide vintage, vintage footage, footage game, game show, show host, host game, game show
+I:8894;326;quiz, show, be, entertaining, think, provoke, drama, be, enjoy, wide, audience, quiz show, show be, be entertaining, entertaining think, think provoke, provoke drama, drama be, be enjoy, enjoy wide, wide audience
+I:8894;327;love, version, knife, bookend, film, love version, version knife, knife bookend, bookend film
+I:8894;328;be, favorite, film, time, be favorite, favorite film, film time
+I:8894;329;screenplay, be, do, performance, be, letter, screenplay be, be do, do performance, performance be, be letter
+I:8894;330;perfect, evocation, be, money, perfect evocation, evocation be, be money
+I:8894;331;have, love, film, first, time, see, be, have love, love film, film first, first time, time see, see be
+I:8894;332;watch, countless, time, marvel, time, scene, make, point, reveal, character, move, build, cohesive, whole, watch countless, countless time, time marvel, marvel time, time scene, scene make, make point, point reveal, reveal character, character move, move build, build cohesive, cohesive whole
+I:8894;333;remember, time, watch, film, remember time, time watch, watch film
+I:8894;334;be, wrenching, remarkable, scene, have, admit, father, classroom, be wrenching, wrenching remarkable, remarkable scene, scene have, have admit, admit father, father classroom
+I:8894;335;be, best, actor, marvelous, expressive, face, be best, best actor, actor marvelous, marvelous expressive, expressive face
+I:8894;336;movie, do, good, job, capture, time, period, movie do, do good, good job, job capture, capture time, time period
+I:8894;337;movie, draw, first, scene, have, be, grip, closing, credit, movie draw, draw first, first scene, scene have, have be, be grip, grip closing, closing credit
+I:8894;338;movie, be, set, be, fill, character, care, act, nuance, establish, play, magnificent, cast, movie be, be set, set be, be fill, fill character, character care, care act, act nuance, nuance establish, establish play, play magnificent, magnificent cast
+I:8894;339;be, more, tell, reaction, be more, more tell, tell reaction
+I:8894;340;movie, have, something, say, game, show, power, television, whole, movie have, have something, something say, say game, game show, show power, power television, television whole
+I:8894;341;movie, true, greatness, lie, vivid, memorable, character, movie, movie true, true greatness, greatness lie, lie vivid, vivid memorable, memorable character, character movie
+I:8894;342;ah, good, ol', fifty, ah good, good ol', ol' fifty
+I:8894;343;aware, contest, new, thrilling, live, entertainment, studio, executive, sponsor, capitalize, appeal, eager, maximize, result, profit, aware contest, contest new, new thrilling, thrilling live, live entertainment, entertainment studio, studio executive, executive sponsor, sponsor capitalize, capitalize appeal, appeal eager, eager maximize, maximize result, result profit
+I:8894;344;brilliant, intellectual, feel, inferior, brilliant intellectual, intellectual feel, feel inferior
+I:8894;345;base, former, investigator, kennedy, speechwriter, remember, script, film, trace, base former, former investigator, investigator kennedy, kennedy speechwriter, speechwriter remember, remember script, script film, film trace
+I:8894;346;pull, last, tooth, song, sharp, pull last, last tooth, tooth song, song sharp
+I:8894;347;quiz, show, have, be, describe, turn, political, thriller, morality, play, parable, loss, innocence, fact, quiz show, show have, have be, be describe, describe turn, turn political, political thriller, thriller morality, morality play, play parable, parable loss, loss innocence, innocence fact
+I:8894;348;base, drama, be, base drama, drama be
+I:8894;349;be, fascinating, exploration, scandal, underlie, psychology, mix, insecurity, greed, ambition, hero, be fascinating, fascinating exploration, exploration scandal, scandal underlie, underlie psychology, psychology mix, mix insecurity, insecurity greed, greed ambition, ambition hero
+I:8894;350;movie, tremendous, cast, give, standout, performance, nerdy, humiliate, dazzling, brilliant, supportive, moral, father, snap, quote, appropriate, situation, drop, hat, movie tremendous, tremendous cast, cast give, give standout, standout performance, performance nerdy, nerdy humiliate, humiliate dazzling, dazzling brilliant, brilliant supportive, supportive moral, moral father, father snap, snap quote, quote appropriate, appropriate situation, situation drop, drop hat
+I:8894;351;quiz, show, be, popular, quiz show, show be, be popular
+I:8894;352;give, public, want, give public, public want
+I:8894;353;recommend, remember, recommend remember
+I:8894;354;movie, be, plain, excellent, movie be, be plain, plain excellent
+I:8894;355;acting, direction, soundtrack, costume, cinematography, be, top, acting direction, direction soundtrack, soundtrack costume, costume cinematography, cinematography be, be top
+I:8894;356;story, be, interesting, character, be, rich, explore, story be, be interesting, interesting character, character be, be rich, rich explore
+I:8894;357;be, balanced, do, say, check, be balanced, balanced do, do say, say check
+I:8894;358;discuss, have, bother, year, discuss have, have bother, bother year
+I:8894;359;say, whole, film, be, dull, good, thing, be, offer, brilliant, vivid, performance, watch, movie, be, listen, be, delight, say whole, whole film, film be, be dull, dull good, good thing, thing be, be offer, offer brilliant, brilliant vivid, vivid performance, performance watch, watch movie, movie be, be listen, listen be, be delight
+I:8894;360;be, good, roll, be, lead, actor, shine, support, roll, be good, good roll, roll be, be lead, lead actor, actor shine, shine support, support roll
+I:8894;361;je, ne, sais, quoi, fascinating, allure, burning, smolder, something, see, je ne, ne sais, sais quoi, quoi fascinating, fascinating allure, allure burning, burning smolder, smolder something, something see
+I:8894;362;time, think, movie, thought, go, cake, time think, think movie, movie thought, thought go, go cake
+I:8894;363;perfect, people, gather, eat, perfect people, people gather, gather eat
+I:8894;364;perfect, rich, creature, have, cake, receive, thin, wedge, eat, utmost, control, perfect rich, rich creature, creature have, have cake, cake receive, receive thin, thin wedge, wedge eat, eat utmost, utmost control
+I:8894;365;have, word, be, stunning, have word, word be, be stunning
+I:8894;366;tiny, cake, people, tiny cake, cake people
+I:8894;367;size, piece, enjoy, size piece, piece enjoy
+I:8894;368;lose, assure, business, cake, stand, heinous, detestable, thing, life, lose assure, assure business, business cake, cake stand, stand heinous, heinous detestable, detestable thing, thing life

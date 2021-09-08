@@ -1,0 +1,10 @@
+
+20210908205446;bigrammi;pmi;centroide;248;2;1,7;0;0;0;0;0
+20210908211438;unibigrammi;normale;frasisingole;20;2;1,7;0;0;0;1;0
+20210908211438;unigrammi;pmi;frasisingole;75;1;7;0;0;0;0;0
+20210908211637;bigrammi;pmi;centroide;43;1;1;2;0;0;0;0
+20210908212221;unibigrammi;normale;frasisingole;275;1;1;0;0;0;0;0
+20210908212704;unibigrammi;normale;centroide;80;1;1;0;0;0;0;0
+20210908213636;unibigrammi;normale;frasisingole;162;1;1;0;0;1;0;0
+20210908215111;unigrammi;pmi;centroide;32;1;1;0;0;0;0;0
+20210908220814;unigrammi;normale;centroide;117;1;2;0;0;0;0;0

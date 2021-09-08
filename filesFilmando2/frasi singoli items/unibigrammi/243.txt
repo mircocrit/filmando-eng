@@ -1,0 +1,322 @@
+I:315;1;movie, be, case, excellent, actor, do, best, possible, pace, script, movie be, be case, case excellent, excellent actor, actor do, do best, best possible, possible pace, pace script
+I:315;2;be, genuine, have, be, able, feel, word, be genuine, genuine have, have be, be able, able feel, feel word
+I:315;3;be, powerful, haunting, film, director, be powerful, powerful haunting, haunting film, film director
+I:315;4;portray, great, struggle, suicide, depression, insecuirty, writer, wife, be, discuss, portray great, great struggle, struggle suicide, suicide depression, depression insecuirty, insecuirty writer, writer wife, wife be, be discuss
+I:315;5;excele, poet, struggle, poem, poem, try, find, theme, excele poet, poet struggle, struggle poem, poem poem, poem try, try find, find theme
+I:315;6;be, perfect, fragile, portrayal, be perfect, perfect fragile, fragile portrayal
+I:315;7;be, fan, recommend, watch, film, great, cinematography, great, acting, great, story, be fan, fan recommend, recommend watch, watch film, film great, great cinematography, cinematography great, great acting, acting great, great story
+I:315;8;other, support, cast, be, excellent, other support, support cast, cast be, be excellent
+I:315;9;tale, translate, french, inph, dre, have, stunning, visual, gorgeous, soundtrack, tale translate, translate french, french inph, inph dre, dre have, have stunning, stunning visual, visual gorgeous, gorgeous soundtrack
+I:315;10;embody, ferocity, machismo., fierce, masculinity, attract, embody ferocity, ferocity machismo., machismo. fierce, fierce masculinity, masculinity attract
+I:315;11;mother, be, excellent, mother, mother be, be excellent, excellent mother
+I:315;12;tell, scene, tell, scare, other, man, tell scene, scene tell, tell scare, scare other, other man
+I:315;13;plath, come, more, attention, plath come, come more, more attention
+I:315;14;portrayal, be, sympathetic, portrayal be, be sympathetic
+I:315;15;be, hint, infidelity, be hint, hint infidelity
+I:315;16;be, overwhelm, self, be overwhelm, overwhelm self
+I:315;17;relationship, have, askyfallthe, family, life, be, pass, relationship have, have askyfallthe, askyfallthe family, family life, life be, be pass
+I:315;18;depiction, depression, be, harrowing, short, role, provide, strong, performance, depiction depression, depression be, be harrowing, harrowing short, short role, role provide, provide strong, strong performance
+I:315;19;be, favorite, be favorite
+I:315;20;kill, director, roll, credit, nothing, be, satisfied, viewer, mind, kill director, director roll, roll credit, credit nothing, nothing be, be satisfied, satisfied viewer, viewer mind
+I:315;21;be, confident, be, write, accurate, review, be confident, confident be, be write, write accurate, accurate review
+I:315;22;paltrow, effect, cause, choose, first, option, paltrow effect, effect cause, cause choose, choose first, first option
+I:315;23;magazine, gathering, evening, find, man, review, enchant, beauty, magazine gathering, gathering evening, evening find, find man, man review, review enchant, enchant beauty
+I:315;24;marriage, be, whole, film, focus, be, see, marriage be, be whole, whole film, film focus, focus be, be see
+I:315;25;cinematography, be, deal, perfect, fashion, be, amaze, revive, old, year, movie, cinematography be, be deal, deal perfect, perfect fashion, fashion be, be amaze, amaze revive, revive old, old year, year movie
+I:315;26;film, deal, second, half, poet, life, marriage, motherhood, final, great, creative, effort, film deal, deal second, second half, half poet, poet life, life marriage, marriage motherhood, motherhood final, final great, great creative, creative effort
+I:315;27;be, tragic, wonderful, creative, person, be, grow, depression, anxiety, suspicion, be tragic, tragic wonderful, wonderful creative, creative person, person be, be grow, grow depression, depression anxiety, anxiety suspicion
+I:315;28;film, remind, human, condition, be, fragile, strength, brilliance, creativity, genius, film remind, remind human, human condition, condition be, be fragile, fragile strength, strength brilliance, brilliance creativity, creativity genius
+I:315;29;say, film, be, fair, say film, film be, be fair
+I:315;30;look, car, walk, rough, surf, see, tiny, innocent, eye, child, watch, move, look car, car walk, walk rough, rough surf, surf see, see tiny, tiny innocent, innocent eye, eye child, child watch, watch move
+I:315;31;struggle, life, have, be, be, period, great, creativity, evidence, life, workgwyneth, paltrow, do, great, job, be, match, struggle life, life have, have be, be be, be period, period great, great creativity, creativity evidence, evidence life, life workgwyneth, workgwyneth paltrow, paltrow do, do great, great job, job be, be match
+I:315;32;photography, art, direction, be, concert, gray, black, moody, color, match, brooding, depression, mind, photography art, art direction, direction be, be concert, concert gray, gray black, black moody, moody color, color match, match brooding, brooding depression, depression mind
+I:315;33;find, heartbreaking, such, amazing, poetry, emanate, dark, place, find heartbreaking, heartbreaking such, such amazing, amazing poetry, poetry emanate, emanate dark, dark place
+I:315;34;be, such, person, help, wonder, incredible, poetry, have, give, life, be such, such person, person help, help wonder, wonder incredible, incredible poetry, poetry have, have give, give life
+I:315;35;be, finest, book, poem, woman, vivid, dark, trilling, grisly, gorgeous, be finest, finest book, book poem, poem woman, woman vivid, vivid dark, dark trilling, trilling grisly, grisly gorgeous
+I:315;36;book, last, be, available, lovely, new, hardbound, previous, draft, interesting, information, book last, last be, be available, available lovely, lovely new, new hardbound, hardbound previous, previous draft, draft interesting, interesting information
+I:315;37;poet, life, be, impressive, be, work, remember, poet life, life be, be impressive, impressive be, be work, work remember
+I:315;38;see, much, better, example, poet, bio, see much, much better, better example, example poet, poet bio
+I:315;39;pic, have, interesting, plot, be, soak, man, vibrant, poetry, pic have, have interesting, interesting plot, plot be, be soak, soak man, man vibrant, vibrant poetry
+I:315;40;be, explosive, meet, be explosive, explosive meet
+I:315;41;do, great, job, try, capture, complex, person, see, hurt, do great, great job, job try, try capture, capture complex, complex person, person see, see hurt
+I:315;42;excellent, camera, work, unusual, visual, angle, highlight, skilled, use, lighting, mark, dreary, crawl, film, real, achievement, excellent camera, camera work, work unusual, unusual visual, visual angle, angle highlight, highlight skilled, skilled use, use lighting, lighting mark, mark dreary, dreary crawl, crawl film, film real, real achievement
+I:315;43;portray, interior, life, complex, trouble, visual, medium, film, face, enormous, obstacle, biopic, do, best, overcome, portray interior, interior life, life complex, complex trouble, trouble visual, visual medium, medium film, film face, face enormous, enormous obstacle, obstacle biopic, biopic do, do best, best overcome
+I:315;44;be, excellent, show, poet, emotional, transformation, marriage, be, hopeful, desolation, lead, suicide, be excellent, excellent show, show poet, poet emotional, emotional transformation, transformation marriage, marriage be, be hopeful, hopeful desolation, desolation lead, lead suicide
+I:315;45;acting, be, excellent, turn, skilled, support, performance, acting be, be excellent, excellent turn, turn skilled, skilled support, support performance
+I:315;46;be, good, great, film, be good, good great, great film
+I:315;47;know, lot, be, bother, omission, be, move, compelling, introduction, woman, know lot, lot be, be bother, bother omission, omission be, be move, move compelling, compelling introduction, introduction woman
+I:315;48;fanatic, salt, dismiss, movie, day, be, hard, cast, actress, embody, uniqueness, way, look, way, speak, closest, be, able, get, be, performance, be, admirable, fanatic salt, salt dismiss, dismiss movie, movie day, day be, be hard, hard cast, cast actress, actress embody, embody uniqueness, uniqueness way, way look, look way, way speak, speak closest, closest be, be able, able get, get be, be performance, performance be, be admirable
+I:315;49;mind, realize, get, mind realize, realize get
+I:315;50;discuss, poetry, spout, move, life, married, academic, discuss poetry, poetry spout, spout move, move life, life married, married academic
+I:315;51;be, comfortable, itch, angst, associate, artistic, voice, desire, conventional, track, domestic, happiness, contentment, do, align, be comfortable, comfortable itch, itch angst, angst associate, associate artistic, artistic voice, voice desire, desire conventional, conventional track, track domestic, domestic happiness, happiness contentment, contentment do, do align
+I:315;52;enjoy, life, venture, territory, be, unknown, compare, complex, desire, express, self, define, enjoy life, life venture, venture territory, territory be, be unknown, unknown compare, compare complex, complex desire, desire express, express self, self define
+I:315;53;paltrow, shine, translucent, insouciance, someone, great, promise, be, unaware, possibility, paltrow shine, shine translucent, translucent insouciance, insouciance someone, someone great, great promise, promise be, be unaware, unaware possibility
+I:315;54;child, be, scar, child be, be scar
+I:315;55;john, screenplay, focus, infidelity, become, second, wife, commit, suicide, paranoid, concern, popularity, poet, attractive, man, come, john screenplay, screenplay focus, focus infidelity, infidelity become, become second, second wife, wife commit, commit suicide, suicide paranoid, paranoid concern, concern popularity, popularity poet, poet attractive, attractive man, man come
+I:315;56;melancholy, music, light, space, create, ambiance, ill, melancholy music, music light, light space, space create, create ambiance, ambiance ill
+I:315;57;paltrow, be, lovely, usual, handsome, aspect, illness, be, short, shrift, manic, phase, feel, sorry, ignore, child, provide, joy, be, super, cute, paltrow be, be lovely, lovely usual, usual handsome, handsome aspect, aspect illness, illness be, be short, short shrift, shrift manic, manic phase, phase feel, feel sorry, sorry ignore, ignore child, child provide, provide joy, joy be, be super, super cute
+I:315;58;commentary, marriage, hubby, trek, moment, notice, darling, wife, hold, bag, kid, no, car, commentary marriage, marriage hubby, hubby trek, trek moment, moment notice, notice darling, darling wife, wife hold, hold bag, bag kid, kid no, no car
+I:315;59;light, thank, producer, light thank, thank producer
+I:315;60;find, whole, story, interesting, sad, watch, read, biography, life, biography, husband, mistress, find whole, whole story, story interesting, interesting sad, sad watch, watch read, read biography, biography life, life biography, biography husband, husband mistress
+I:315;61;recommend, movie, recommend movie
+I:315;62;thrust, thier, love, poetry, cut, real, world, be, marry, be, team, separate, player, thrust thier, thier love, love poetry, poetry cut, cut real, real world, world be, be marry, marry be, be team, team separate, separate player
+I:315;63;push, edge, commit, suicide, push edge, edge commit, commit suicide
+I:315;64;know, be, be, late, wife, do, think, everything, know, keep, wife, happy, end, be, know be, be be, be late, late wife, wife do, do think, think everything, everything know, know keep, keep wife, wife happy, happy end, end be
+I:315;65;feel, be, tragic, story, portray, do, good, job, feel be, be tragic, tragic story, story portray, portray do, do good, good job
+I:315;66;starter, be, big, starter be, be big
+I:315;67;something, love, movie, be, little, reference, something love, love movie, movie be, be little, little reference
+I:315;68;be, camera, shot, like, be camera, camera shot, shot like
+I:315;69;general, be, please, general be, be please
+I:315;70;know, lot, be, happy, know lot, lot be, be happy
+I:315;71;lot, creative, people, do, want, see, work, do, consider, good, enough, many, lead, troubled, life, lot creative, creative people, people do, do want, want see, see work, work do, do consider, consider good, good enough, enough many, many lead, lead troubled, troubled life
+I:315;72;someone, write, have, long, admire, mesmerizing, expose, raw, depth, be, talent, someone write, write have, have long, long admire, admire mesmerizing, mesmerizing expose, expose raw, raw depth, depth be, be talent
+I:315;73;poem, life, move, looker, deep, inside, core, such, way, other, do, poem life, life move, move looker, looker deep, deep inside, inside core, core such, such way, way other, other do
+I:315;74;best, poem, write, deepest, point, best poem, poem write, write deepest, deepest point
+I:315;75;be, creative, story, be, tell, be creative, creative story, story be, be tell
+I:315;76;poem, growth, tell, multiple, story, poem growth, growth tell, tell multiple, multiple story
+I:315;77;movie, have, end, touch, viewer, movie have, have end, end touch, touch viewer
+I:315;78;least, have, render, version, happen, poet, mind, direct, least have, have render, render version, version happen, happen poet, poet mind, mind direct
+I:315;79;mother, film, be, play, perfection, real, life, mother, mother film, film be, be play, play perfection, perfection real, real life, life mother
+I:315;80;be, portray, manage, maintain, empathy, act, screen, be, see, contributory, demise, be portray, portray manage, manage maintain, maintain empathy, empathy act, act screen, screen be, be see, see contributory, contributory demise
+I:315;81;cinematography, be, wondrous, illuminating, exterior, explore, interior, dark, place, have, live, cinematography be, be wondrous, wondrous illuminating, illuminating exterior, exterior explore, explore interior, interior dark, dark place, place have, have live
+I:315;82;dark, place, be, wonderful, metaphor, space, mind, come, unwound, dark place, place be, be wonderful, wonderful metaphor, metaphor space, space mind, mind come, come unwound
+I:315;83;present, be, tribute, fair, dark, gentle, fine, american, poet, present be, be tribute, tribute fair, fair dark, dark gentle, gentle fine, fine american, american poet
+I:315;84;starter, viewer, know, story, line, starter viewer, viewer know, know story, story line
+I:315;85;anyone, know, name, be, aware, commit, suicide, be, few, surprise, audience, anyone know, know name, name be, be aware, aware commit, commit suicide, suicide be, be few, few surprise, surprise audience
+I:315;86;much, credit, film, success, go, be, mesmerizing, tragic, poet, much credit, credit film, film success, success go, go be, be mesmerizing, mesmerizing tragic, tragic poet
+I:315;87;best, film, be, be, miss, best film, film be, be be, be miss
+I:315;88;find, clue, intend, comprehend, approximate, horrid, existence, generous, sensitive, sensible, personality, brilliant, poetry, love, do, take, account, find clue, clue intend, intend comprehend, comprehend approximate, approximate horrid, horrid existence, existence generous, generous sensitive, sensitive sensible, sensible personality, personality brilliant, brilliant poetry, poetry love, love do, do take, take account
+I:315;89;such, prodigious, talent, pay, prize, shine, illuminate, other, touching, sensibility, gratify, soul, lack, affection, love, such prodigious, prodigious talent, talent pay, pay prize, prize shine, shine illuminate, illuminate other, other touching, touching sensibility, sensibility gratify, gratify soul, soul lack, lack affection, affection love
+I:315;90;gwyneth, make, exquisite, performance, demand, role, varied, gamut, emotional, feature, be, show, admirable, realism, facial, grimace, illumination, hairdressing, expressive, close, up, accent, dramatic, anima, state, gwyneth make, make exquisite, exquisite performance, performance demand, demand role, role varied, varied gamut, gamut emotional, emotional feature, feature be, be show, show admirable, admirable realism, realism facial, facial grimace, grimace illumination, illumination hairdressing, hairdressing expressive, expressive close, close up, up accent, accent dramatic, dramatic anima, anima state
+I:315;91;be, movie, last, iconic, american, poet, life, be movie, movie last, last iconic, iconic american, american poet, poet life
+I:315;92;do, fantastic, job, portray, volatile, emotion, do fantastic, fantastic job, job portray, portray volatile, volatile emotion
+I:315;93;other, hand, be, jealous, have, outburst, feel, unloved, disrespect, other hand, hand be, be jealous, jealous have, have outburst, outburst feel, feel unloved, unloved disrespect
+I:315;94;be, fantastic, act, bit, depth, character, be fantastic, fantastic act, act bit, bit depth, depth character
+I:315;95;have, like, see, have like, like see
+I:315;96;round, portrayal, all, relationship, time, include, strenous, relationship, mother, near, affair, publisher, round portrayal, portrayal all, all relationship, relationship time, time include, include strenous, strenous relationship, relationship mother, mother near, near affair, affair publisher
+I:315;97;full, agree, own, word, describe, best, full agree, agree own, own word, word describe, describe best
+I:315;98;manage, strike, evenhanded, tone, biopic, deal, last, few, year, life, poet, manage strike, strike evenhanded, evenhanded tone, tone biopic, biopic deal, deal last, last few, few year, year life, life poet
+I:315;99;dress, warm, color, wedding, clothes, ambient, color, become, darker, darker, dress warm, warm color, color wedding, wedding clothes, clothes ambient, ambient color, color become, become darker, darker darker
+I:315;100;biography, have, read, discuss, joy, find, motherhood, biography have, have read, read discuss, discuss joy, joy find, find motherhood
+I:315;101;exhaustion, care, small, child, take, care, home, writing, be, evident, movie, be, real, life, exhaustion care, care small, small child, child take, take care, care home, home writing, writing be, be evident, evident movie, movie be, be real, real life
+I:315;102;contrast, happiness, deep, sorrow, energy, listlessness, struggle, control, demon, loss, control, be, absent, contrast happiness, happiness deep, deep sorrow, sorrow energy, energy listlessness, listlessness struggle, struggle control, control demon, demon loss, loss control, control be, be absent
+I:315;103;gwyneth, do, wonderful, job, give, material, have, work, gwyneth do, do wonderful, wonderful job, job give, give material, material have, have work
+I:315;104;performance, be, sensitive, intense, performance be, be sensitive, sensitive intense
+I:315;105;few, time, recite, poetry, include, wonderful, scene, do, small, bit, be, extraordinary, few time, time recite, recite poetry, poetry include, include wonderful, wonderful scene, scene do, do small, small bit, bit be, be extraordinary
+I:315;106;be, excellent, capture, magnetic, charisma, poet, bewilderment, relationship, fall, careless, indifference, suffering, child, vulnerability, be excellent, excellent capture, capture magnetic, magnetic charisma, charisma poet, poet bewilderment, bewilderment relationship, relationship fall, fall careless, careless indifference, indifference suffering, suffering child, child vulnerability
+I:315;107;mother, real, life, be, excellent, role, mother, do, extraordinary, job, sympathetic, downstairs, neighbor, mother real, real life, life be, be excellent, excellent role, role mother, mother do, do extraordinary, extraordinary job, job sympathetic, sympathetic downstairs, downstairs neighbor
+I:315;108;have, be, big, fan, poetry, many, year, have, read, excellent, biography, poet, work, have be, be big, big fan, fan poetry, poetry many, many year, year have, have read, read excellent, excellent biography, biography poet, poet work
+I:315;109;be, tremendous, lack, scope, be tremendous, tremendous lack, lack scope
+I:315;110;state, acting, be, fine, photography, moody, state acting, acting be, be fine, fine photography, photography moody
+I:315;111;like, good, tear, jerker, movie, be, well, like good, good tear, tear jerker, jerker movie, movie be, be well
+I:315;112;film, be, underrated, film be, be underrated
+I:315;113;make, movie, be, incredible, opportunity, tell, story, woman, be, talented, interesting, make movie, movie be, be incredible, incredible opportunity, opportunity tell, tell story, story woman, woman be, be talented, talented interesting
+I:315;114;make, film, great, big, story, life, make film, film great, great big, big story, story life
+I:315;115;be, do, shoot, take, breath, be, good, say, be do, do shoot, shoot take, take breath, breath be, be good, good say
+I:315;116;do, see, romance, bloom, film, maker, expect, viewer, understand, know, backstory, dont, feel, much, passion, love, do see, see romance, romance bloom, bloom film, film maker, maker expect, expect viewer, viewer understand, understand know, know backstory, backstory dont, dont feel, feel much, much passion, passion love
+I:315;117;have, be, pro, have be, be pro
+I:315;118;film, evolve, devolve, sun, fill, idealist, love, film evolve, evolve devolve, devolve sun, sun fill, fill idealist, idealist love
+I:315;119;character, be, portray, bias, pave, road, best, performance, career, embody, descent, despair, character be, be portray, portray bias, bias pave, pave road, road best, best performance, performance career, career embody, embody descent, descent despair
+I:315;120;be, moment, be moment
+I:315;121;dimensional, portayal, cinematographer, paint, tone, warm, sunny, cold, monotonous, eventual, suicide, dimensional portayal, portayal cinematographer, cinematographer paint, paint tone, tone warm, warm sunny, sunny cold, cold monotonous, monotonous eventual, eventual suicide
+I:315;122;be, prone, myth, be prone, prone myth
+I:315;123;be, worthwhile, film, anyone, interested, life, real, poet, be worthwhile, worthwhile film, film anyone, anyone interested, interested life, life real, real poet
+I:315;124;do, know, much, life, journal, be, publish, be, author, win, collect, poetry, be, strong, enough, personality, be, subject, movie, be, do know, know much, much life, life journal, journal be, be publish, publish be, be author, author win, win collect, collect poetry, poetry be, be strong, strong enough, enough personality, personality be, be subject, subject movie, movie be
+I:315;125;be, depressive, own, life, get, right, be depressive, depressive own, own life, life get, get right
+I:315;126;be, overshadow, more, successful, husband, be overshadow, overshadow more, more successful, successful husband
+I:315;127;do, excellent, job, portray, look, picture, have, see, do excellent, excellent job, job portray, portray look, look picture, picture have, have see
+I:315;128;do, fine, job, have, sense, comparison, do fine, fine job, job have, have sense, sense comparison
+I:315;129;passionate, marriage, deteriorate, cheat, discover, move, child, passionate marriage, marriage deteriorate, deteriorate cheat, cheat discover, discover move, move child
+I:315;130;be, effective, second, part, film, separate, plunge, deep, depression, be effective, effective second, second part, part film, film separate, separate plunge, plunge deep, deep depression
+I:315;131;give, strong, brave, performance, give strong, strong brave, brave performance
+I:315;132;cinematography, movie, be, beautiful, best, year, cinematography movie, movie be, be beautiful, beautiful best, best year
+I:315;133;perpetuate, myth, be, martyr, suicide, be, noble, abandone, young, child, career, perpetuate myth, myth be, be martyr, martyr suicide, suicide be, be noble, noble abandone, abandone young, young child, child career
+I:315;134;film, look, oven, heavenly, golden, light, shine, film look, look oven, oven heavenly, heavenly golden, golden light, light shine
+I:315;135;see, movie, cinematography, great, performance, see movie, movie cinematography, cinematography great, great performance
+I:315;136;day, be, great, movie, make, life, day be, be great, great movie, movie make, make life
+I:315;137;manage, be, more, version, manage be, be more, more version
+I:315;138;great, example, writer, stress, write, personal, life, great example, example writer, writer stress, stress write, write personal, personal life
+I:315;139;note, cinematography, art, direction, be, gorgeous, note cinematography, cinematography art, art direction, direction be, be gorgeous
+I:315;140;coloring, framing, shot, be, think, intentional, coloring framing, framing shot, shot be, be think, think intentional
+I:315;141;find, pull, imagery, beginning, find pull, pull imagery, imagery beginning
+I:315;142;energy, wind, push, leaf, dancing, movement, row, boat, ocean, be, unable, write, energy wind, wind push, push leaf, leaf dancing, dancing movement, movement row, row boat, boat ocean, ocean be, be unable, unable write
+I:315;143;truth, come, truth come
+I:315;144;appreciate, subtlety, appreciate subtlety
+I:315;145;tune, quietness, depression, tune quietness, quietness depression
+I:315;146;speak, friend, say, be, hollow, speak friend, friend say, say be, be hollow
+I:315;147;nordic, russian, german, act, school, have, be, consider, great, nuanced, act, school, nordic russian, russian german, german act, act school, school have, have be, be consider, consider great, great nuanced, nuanced act, act school
+I:315;148;prove, be, great, female, actress, time, prove be, be great, great female, female actress, actress time
+I:315;149;be, heartbreaking, heartwrenching, be heartbreaking, heartbreaking heartwrenching
+I:315;150;shatter, soul, shatter soul
+I:315;151;sad, tragic, movie, sad tragic, tragic movie
+I:315;152;do, excellent, version, do excellent, excellent version
+I:315;153;be, perfect, depressed, poet, be perfect, perfect depressed, depressed poet
+I:315;154;dig, deep, work, find, perfect, word, phrasing, touch, mind, penetrate, soul, create, artistry, successful, poem, dig deep, deep work, work find, find perfect, perfect word, word phrasing, phrasing touch, touch mind, mind penetrate, penetrate soul, soul create, create artistry, artistry successful, successful poem
+I:315;155;think, breathe, be, absolute, think breathe, breathe be, be absolute
+I:315;156;dialogue, film, demonstrate, more, speak, word, be, unspoken, raw, gut, phenomenal, actor, film, dialogue film, film demonstrate, demonstrate more, more speak, speak word, word be, be unspoken, unspoken raw, raw gut, gut phenomenal, phenomenal actor, actor film
+I:315;157;music, film, be, mesmerizing, music film, film be, be mesmerizing
+I:315;158;like, believable, romance, love, like believable, believable romance, romance love
+I:315;159;movie, keep, guess, be, have, affair, movie keep, keep guess, guess be, be have, have affair
+I:315;160;true, story, order, more, information, life, character, true story, story order, order more, more information, information life, life character
+I:315;161;mate, be, part, great, complex, relationship, sister, feel, competitive, propensity, occasional, violence, willingness, allow, more, overt, ambition, serve, work, pose, purer, spirit, do, care, work, be, publish, mate be, be part, part great, great complex, complex relationship, relationship sister, sister feel, feel competitive, competitive propensity, propensity occasional, occasional violence, violence willingness, willingness allow, allow more, more overt, overt ambition, ambition serve, serve work, work pose, pose purer, purer spirit, spirit do, do care, care work, work be, be publish
+I:315;162;unabashed, ambition, be, american, be, english, public, demurral, ambition, unabashed ambition, ambition be, be american, american be, be english, english public, public demurral, demurral ambition
+I:315;163;ambition, obvious, desire, marry, intense, emotional, persona, many, have, observe, friend, be, stun, choice, ambition obvious, obvious desire, desire marry, marry intense, intense emotional, emotional persona, persona many, many have, have observe, observe friend, friend be, be stun, stun choice
+I:315;164;reviewer, have, suspect, find, attractive, ambition, serve, shield, hide, own, reviewer have, have suspect, suspect find, find attractive, attractive ambition, ambition serve, serve shield, shield hide, hide own
+I:315;165;account, be, attentive, mother, accomplished, cook, housewife, account be, be attentive, attentive mother, mother accomplished, accomplished cook, cook housewife
+I:315;166;due, respect, dye, dark, hair, be, fair, short, side, due respect, respect dye, dye dark, dark hair, hair be, be fair, fair short, short side
+I:315;167;be, intense, intelligent, lack, erotic, appeal, be, wrong, actor, part, be intense, intense intelligent, intelligent lack, lack erotic, erotic appeal, appeal be, be wrong, wrong actor, actor part
+I:315;168;everyone, know, do, set, box, office, fire, imagine, most, people, be, addict, saga, manage, sneak, theater, cover, face, shame, way, use, do, porn, theater, everyone know, know do, do set, set box, box office, office fire, fire imagine, imagine most, most people, people be, be addict, addict saga, saga manage, manage sneak, sneak theater, theater cover, cover face, face shame, shame way, way use, use do, do porn, porn theater
+I:315;169;try, keep, fan, have, devour, biography, memoir, everyone, know, try keep, keep fan, fan have, have devour, devour biography, biography memoir, memoir everyone, everyone know
+I:315;170;be, good, be good
+I:315;171;be, remind, be, french, word, ham, be remind, remind be, be french, french word, word ham
+I:315;172;young, actor, play, be, cast, young actor, actor play, play be, be cast
+I:315;173;maker, film, invest, enterprise, wistful, hopefulness, tell, want, do, great, job, most, part, embrace, hopefulness, wan, sigh, maker film, film invest, invest enterprise, enterprise wistful, wistful hopefulness, hopefulness tell, tell want, want do, do great, great job, job most, most part, part embrace, embrace hopefulness, hopefulness wan, wan sigh
+I:315;174;player, biopic, turn, fine, work, include, note, poet, husband, love, wife, child, find, answer, family, conflict, bottom, liquor, bottle, woman, bed, player biopic, biopic turn, turn fine, fine work, work include, include note, note poet, poet husband, husband love, love wife, wife child, child find, find answer, answer family, family conflict, conflict bottom, bottom liquor, liquor bottle, bottle woman, woman bed
+I:315;175;include, sympathetic, neighbor, paltrow, real, life, mother, play, mother, movie, include sympathetic, sympathetic neighbor, neighbor paltrow, paltrow real, real life, life mother, mother play, play mother, mother movie
+I:315;176;turn, believable, work, turn believable, believable work
+I:315;177;director, deserve, credit, outstanding, work, actor, director deserve, deserve credit, credit outstanding, outstanding work, work actor
+I:315;178;film, painting, principal, character, be, credible, absorb, turn, film painting, painting principal, principal character, character be, be credible, credible absorb, absorb turn
+I:315;179;many, performance, less, guile, technique, have, win, many performance, performance less, less guile, guile technique, technique have, have win
+I:315;180;enjoy, film, famous, artist, look, shortcoming, describe, lifetime, minute, enjoy, movie, enjoy film, film famous, famous artist, artist look, look shortcoming, shortcoming describe, describe lifetime, lifetime minute, minute enjoy, enjoy movie
+I:315;181;course, great, irony, be, infidelity, inspire, best, work, suicide, make, immortal, course great, great irony, irony be, be infidelity, infidelity inspire, inspire best, best work, work suicide, suicide make, make immortal
+I:315;182;daughter, literary, executor, refuse, cooperate, producer, film, refuse, allow, access, mother, poetry, denounce, film, publish, poem, own, think, give, mother, word, fill, mouth, monster, suicide, doll, daughter literary, literary executor, executor refuse, refuse cooperate, cooperate producer, producer film, film refuse, refuse allow, allow access, access mother, mother poetry, poetry denounce, denounce film, film publish, publish poem, poem own, own think, think give, give mother, mother word, word fill, fill mouth, mouth monster, monster suicide, suicide doll
+I:315;183;have, believe, have, be, powerful, film, celebrate, creativity, same, time, depict, hurtle, death, have believe, believe have, have be, be powerful, powerful film, film celebrate, celebrate creativity, creativity same, same time, time depict, depict hurtle, hurtle death
+I:315;184;plath, poem, be, passionate, death, imagine, have, commit, poem, memory, insert, right, point, film, plath poem, poem be, be passionate, passionate death, death imagine, imagine have, have commit, commit poem, poem memory, memory insert, insert right, right point, point film
+I:315;185;film, document, life, meeting, marriage, poet, film document, document life, life meeting, meeting marriage, marriage poet
+I:315;186;want, know, more, recommend, stick, journal, want know, know more, more recommend, recommend stick, stick journal
+I:315;187;expect, fantastic, film, fantastic, performances/stars, expect fantastic, fantastic film, film fantastic, fantastic performances/stars
+I:315;188;actor, be, wonderful, actor be, be wonderful
+I:315;189;scene, real, scene real
+I:315;190;life, mom, be, intriguing, life mom, mom be, be intriguing
+I:315;191;be, fan, enjoy, film, be fan, fan enjoy, enjoy film
+I:315;192;recommend, movie, anyone, want, know, mistake, young, woman, make, come, man, recommend movie, movie anyone, anyone want, want know, know mistake, mistake young, young woman, woman make, make come, come man
+I:315;193;find, independent, film, interesting, find independent, independent film, film interesting
+I:315;194;brilliant, film, life, death, most, poignant, poet, film, take, turn, look, triumph, suicide, brilliant film, film life, life death, death most, most poignant, poignant poet, poet film, film take, take turn, turn look, look triumph, triumph suicide
+I:315;195;use, poetry, film, tell, story, life, use poetry, poetry film, film tell, tell story, story life
+I:315;196;film, be, excellent, depiction, life, film be, be excellent, excellent depiction, depiction life
+I:315;197;do, film, show, life, look, deep, heartache, psychological, sickness, do film, film show, show life, life look, look deep, deep heartache, heartache psychological, psychological sickness
+I:315;198;film, make, person, wonder, own, life, same, time, give, bit, hope, strength, continue, film make, make person, person wonder, wonder own, own life, life same, same time, time give, give bit, bit hope, hope strength, strength continue
+I:315;199;have, read, review, movie, leave, poetry, love, poetry, have read, read review, review movie, movie leave, leave poetry, poetry love, love poetry
+I:315;200;poetry, biographical, film, be, keeper, poetry biographical, biographical film, film be, be keeper
+I:315;201;amazing, woman, be, play, better, actress, amazing woman, woman be, be play, play better, better actress
+I:315;202;bio/story, coincide, work, bio/story coincide, coincide work
+I:315;203;be, great, show, class, be great, great show, show class
+I:315;204;tale, disturbed, poet, american, literature, tale disturbed, disturbed poet, poet american, american literature
+I:315;205;show, belong, most, movie, achieve, sense, be, mystery, man, show belong, belong most, most movie, movie achieve, achieve sense, sense be, be mystery, mystery man
+I:315;206;be, fantastic, film, try, work, take, side, be fantastic, fantastic film, film try, try work, work take, take side
+I:315;207;see, talented, actor, expect, see, greatness, small, bit, part, see talented, talented actor, actor expect, expect see, see greatness, greatness small, small bit, bit part
+I:315;208;wish, feature, have, deliver, something, bit, have, see, be, decent, wish feature, feature have, have deliver, deliver something, something bit, bit have, have see, see be, be decent
+I:315;209;adaptation, life, adaptation life
+I:315;210;cast, be, superb, cast be, be superb
+I:315;211;be, talented, poet, soar, great, height, early, year, be talented, talented poet, poet soar, soar great, great height, height early, early year
+I:315;212;rain, know, bring, subtle, dark, humor, dive, seriousness, disease, rain know, know bring, bring subtle, subtle dark, dark humor, humor dive, dive seriousness, seriousness disease
+I:315;213;paltrow, do, amazing, job, balance, side, personality, film, be, exhausting, paltrow do, do amazing, amazing job, job balance, balance side, side personality, personality film, film be, be exhausting
+I:315;214;thank, great, cast, wonderful, cinematography, craft, editing, thank great, great cast, cast wonderful, wonderful cinematography, cinematography craft, craft editing
+I:315;215;paltrow, shine, be, believable, fantastic, be, demand, role, paltrow shine, shine be, be believable, believable fantastic, fantastic be, be demand, demand role
+I:315;216;star, kiss, mummy, go, down, wonderful, prisoner, star kiss, kiss mummy, mummy go, go down, down wonderful, wonderful prisoner
+I:315;217;honor, work, be, aerial, stuff, write, take, own, life, honor work, work be, be aerial, aerial stuff, stuff write, write take, take own, own life
+I:315;218;have, hear, want, see, have hear, hear want, want see
+I:315;219;know, real, know real
+I:315;220;do, take, bread, milk, put, child, bed, do take, take bread, bread milk, milk put, put child, child bed
+I:315;221;do, close, door, seal, tape, put, towel, bottom, protect, gas, oven, do close, close door, door seal, seal tape, tape put, put towel, towel bottom, bottom protect, protect gas, gas oven
+I:315;222;give, film, star, be, stunning, give film, film star, star be, be stunning
+I:315;223;recreate, capture, isolation, young, motherhood, recreate capture, capture isolation, isolation young, young motherhood
+I:315;224;disagree, most, reviewer, regard, acting, disagree most, most reviewer, reviewer regard, regard acting
+I:315;225;be, glamorous, willowy, beautiful, contemporary, way, real, be, be glamorous, glamorous willowy, willowy beautiful, beautiful contemporary, contemporary way, way real, real be
+I:315;226;film, change, fact, support, portrayal, film change, change fact, fact support, support portrayal
+I:315;227;guess, image, lovely, gwyneth, cry, phone, booth, be, arrest, surround, concerned, friend, be, guess image, image lovely, lovely gwyneth, gwyneth cry, cry phone, phone booth, booth be, be arrest, arrest surround, surround concerned, concerned friend, friend be
+I:315;228;read, biography, want, know, read biography, biography want, want know
+I:315;229;be, versatile, actress, be versatile, versatile actress
+I:315;230;be, good, movie, think, provoke, mental, illness, need, be, treat, constant, care, be good, good movie, movie think, think provoke, provoke mental, mental illness, illness need, need be, be treat, treat constant, constant care
+I:315;231;have, find, true, story, make, say, make, great, movie, be, hardest, make, good, movie, end, look, lot, cliche, television, movie, have find, find true, true story, story make, make say, say make, make great, great movie, movie be, be hardest, hardest make, make good, good movie, movie end, end look, look lot, lot cliche, cliche television, television movie
+I:315;232;be, due, fact, director, writer, be, lock, play, story, element, be due, due fact, fact director, director writer, writer be, be lock, lock play, play story, story element
+I:315;233;other, hand, true, story, seem, simple, make, good, movie, become, brilliant, movie, be, much, room, director, add, subtety, humor, other hand, hand true, true story, story seem, seem simple, simple make, make good, good movie, movie become, become brilliant, brilliant movie, movie be, be much, much room, room director, director add, add subtety, subtety humor
+I:315;234;simple, true, story, produce, best, movie, have, see, year, simple true, true story, story produce, produce best, best movie, movie have, have see, see year
+I:315;235;be, perfect, example, former, be perfect, perfect example, example former
+I:315;236;see, brash, american, girl, scarlet, dress, nail, handsome, poet, party, see brash, brash american, american girl, girl scarlet, scarlet dress, dress nail, nail handsome, handsome poet, poet party
+I:315;237;see, jump, pub, recite, brilliant, poetry, see jump, jump pub, pub recite, recite brilliant, brilliant poetry
+I:315;238;see, manic, episode, come, life, great, personality, clash, see manic, manic episode, episode come, come life, life great, great personality, personality clash
+I:315;239;famous, end, dramatize, famous end, end dramatize
+I:315;240;do, actor, script, provide, intimate, interpretation, story, make, wonder, do actor, actor script, script provide, provide intimate, intimate interpretation, interpretation story, story make, make wonder
+I:315;241;be, amaze, see, good, review, film, be amaze, amaze see, see good, good review, review film
+I:315;242;service, talent, complex, trouble, personality, service talent, talent complex, complex trouble, trouble personality
+I:315;243;nail, bleak, moody, outlook, life, see, movie, see, amazing, versatile, actress, be, nail bleak, bleak moody, moody outlook, outlook life, life see, see movie, movie see, see amazing, amazing versatile, versatile actress, actress be
+I:315;244;kill, director, roll, credit, nothing, be, satisfied, viewer, mind, kill director, director roll, roll credit, credit nothing, nothing be, be satisfied, satisfied viewer, viewer mind
+I:315;245;be, sure, find, amusing, be sure, sure find, find amusing
+I:315;246;ted, make, great, cake, ted make, make great, great cake
+I:315;247;cue, great, offstage, feminist, moaning, gnashing, cue great, great offstage, offstage feminist, feminist moaning, moaning gnashing
+I:315;248;retort, go, bike, ride, come, epic, hexameter, retort go, go bike, bike ride, ride come, come epic, epic hexameter
+I:315;249;wow, lady, wow lady
+I:315;250;be, bear, people, be, bear, junkie, be bear, bear people, people be, be bear, bear junkie
+I:315;251;fascinating, infuriating, brilliant, troubled, woman, be, fascinating infuriating, infuriating brilliant, brilliant troubled, troubled woman, woman be
+I:315;252;be, life, story, beg, decent, film, treatment, be life, life story, story beg, beg decent, decent film, film treatment
+I:315;253;life, document, event, be, exciting, be, strange, reason, restage, make, life document, document event, event be, be exciting, exciting be, be strange, strange reason, reason restage, restage make
+I:315;254;leigh, number, great, actress, have, help, leigh number, number great, great actress, actress have, have help
+I:315;255;do, excellent, job, be, give, do excellent, excellent job, job be, be give
+I:315;256;be, possible, portray, villain, be, make, movie, gloss, draw, wonderful, creative, energy, be possible, possible portray, portray villain, villain be, be make, make movie, movie gloss, gloss draw, draw wonderful, wonderful creative, creative energy
+I:315;257;point, film, point, life, be, western, society, deal, genius, intense, feeling, many, say, society, abuse, genius, point film, film point, point life, life be, be western, western society, society deal, deal genius, genius intense, intense feeling, feeling many, many say, say society, society abuse, abuse genius
+I:315;258;let, say, ideal, gem, imagine, let say, say ideal, ideal gem, gem imagine
+I:315;259;old, time, war, attack, take, man, strong, arm, strong, stomach, old time, time war, war attack, attack take, take man, man strong, strong arm, arm strong, strong stomach
+I:315;260;miracle, do, produce, poem, many, have, such, power, produce, powerful, positive, effect, readers?what, genius, do, have, type, amazing, inner, strength, drive, express, do, develop, enable, leave, gem, limitless, worth, tragic, end, miracle do, do produce, produce poem, poem many, many have, have such, such power, power produce, produce powerful, powerful positive, positive effect, effect readers?what, readers?what genius, genius do, do have, have type, type amazing, amazing inner, inner strength, strength drive, drive express, express do, do develop, develop enable, enable leave, leave gem, gem limitless, limitless worth, worth tragic, tragic end
+I:315;261;strike, deep, chord, many, strike deep, deep chord, chord many
+I:315;262;be, fact, rare, special, person, achieve, kind, mastery, fate, last, moment, perfect, conclusion, messy, business, life, mere, mortal, hope, attain, be fact, fact rare, rare special, special person, person achieve, achieve kind, kind mastery, mastery fate, fate last, last moment, moment perfect, perfect conclusion, conclusion messy, messy business, business life, life mere, mere mortal, mortal hope, hope attain
+I:315;263;be, early, death, be, more, instance, artist, take, element, raw, reality, transform, something, stylized, transcendent, meaningful, rest, brood, contemplate, be early, early death, death be, be more, more instance, instance artist, artist take, take element, element raw, raw reality, reality transform, transform something, something stylized, stylized transcendent, transcendent meaningful, meaningful rest, rest brood, brood contemplate
+I:315;264;sensitive, young, people, come, romanticize, end, suffering, way, lift, work, iconic, status, sensitive young, young people, people come, come romanticize, romanticize end, end suffering, suffering way, way lift, lift work, work iconic, iconic status
+I:315;265;story, begin, love, story begin, begin love
+I:315;266;portray, movie, notable, talent, be, mass, neurosis, insecurity, toiling, shadow, least, know, successful, husband, portray movie, movie notable, notable talent, talent be, be mass, mass neurosis, neurosis insecurity, insecurity toiling, toiling shadow, shadow least, least know, know successful, successful husband
+I:315;267;bring, raw, intensity, many, confrontation, scene, involve, pain, bring raw, raw intensity, intensity many, many confrontation, confrontation scene, scene involve, involve pain
+I:315;268;give, rich, move, sensitive, performance, leave, mark, sympathetic, neighbor, try, do, succeed, save, give rich, rich move, move sensitive, sensitive performance, performance leave, leave mark, mark sympathetic, sympathetic neighbor, neighbor try, try do, do succeed, succeed save
+I:315;269;need, return, source, material, work, have, live, woman, year, need return, return source, source material, material work, work have, have live, live woman, woman year
+I:315;270;example, studio, light, reflect, wall, paint, high, example studio, studio light, light reflect, reflect wall, wall paint, paint high
+I:315;271;film, director, violate, convention, room, occupy, film director, director violate, violate convention, convention room, room occupy
+I:315;272;remind, thing, be, kilter, principal, character, remind thing, thing be, be kilter, kilter principal, principal character
+I:315;273;such, technique, be, effective, establish, feeling, such technique, technique be, be effective, effective establish, establish feeling
+I:315;274;sunniest, outdoor, scene, optimistic, encounter, relationship, present, sense, foreboding, peril, grief, sunniest outdoor, outdoor scene, scene optimistic, optimistic encounter, encounter relationship, relationship present, present sense, sense foreboding, foreboding peril, peril grief
+I:315;275;fine, musical, score, contribute, effect, supplement, visual, fine musical, musical score, score contribute, contribute effect, effect supplement, supplement visual
+I:315;276;film, convey, actual, life, story, be, brilliant, piece, art, film convey, convey actual, actual life, life story, story be, be brilliant, brilliant piece, piece art
+I:315;277;performance, be, convincing, performance be, be convincing
+I:315;278;scene, mother, play, mother, be, fascinating, scene mother, mother play, play mother, mother be, be fascinating
+I:315;279;young, driven, artist, interact, culture, sensitive, mother, be, capture, young driven, driven artist, artist interact, interact culture, culture sensitive, sensitive mother, mother be, be capture
+I:315;280;important, thing, be, inadequacy, be, reveal, important thing, thing be, be inadequacy, inadequacy be, be reveal
+I:315;281;be, point, movie, be point, point movie
+I:315;282;viewer, be, cinematic, art, profoundest, viewer be, be cinematic, cinematic art, art profoundest
+I:315;283;performance, be, better, intensley, study, get, accent, sound, perfect, performance be, be better, better intensley, intensley study, study get, get accent, accent sound, sound perfect
+I:315;284;worthy, attempt, round, convey, be, interesting, tortured, life, worthy attempt, attempt round, round convey, convey be, be interesting, interesting tortured, tortured life
+I:315;285;star, poet, be, example, hard, be, make, biographical, film, creative, person, star poet, poet be, be example, example hard, hard be, be make, make biographical, biographical film, film creative, creative person
+I:315;286;be, impossible, capture, film, make, talent, writer, be impossible, impossible capture, capture film, film make, make talent, talent writer
+I:315;287;gaze, distance, have, inspiration, write, gaze distance, distance have, have inspiration, inspiration write
+I:315;288;least, movie, pollock, get, see, result, brow, furrowing, least movie, movie pollock, pollock get, get see, see result, result brow, brow furrowing
+I:315;289;suspect, be, good, deal, complicated, suspect be, be good, good deal, deal complicated
+I:315;290;say, be, excellent, fierce, tough, say be, be excellent, excellent fierce, fierce tough
+I:315;291;be, reminder, do, give, good, role, be reminder, reminder do, do give, give good, good role
+I:315;292;life, character, film, maker, frame, context, romantic, relationship, life character, character film, film maker, maker frame, frame context, context romantic, romantic relationship
+I:315;293;film, draw, more, attention, way, film draw, draw more, more attention, attention way
+I:315;294;favorite, line, movie, be, say, truth, love, favorite line, line movie, movie be, be say, say truth, truth love
+I:315;295;like, see, more, exploration, topic, film, like see, see more, more exploration, exploration topic, topic film
+I:315;296;intentioned, film, great, cast, intentioned film, film great, great cast
+I:315;297;plath, be, finest, poet, time, hear, movie, be, tiny, fragment, genius, plath be, be finest, finest poet, poet time, time hear, hear movie, movie be, be tiny, tiny fragment, fragment genius
+I:315;298;hour, feature, inspired, do, better, job, life, be, fault, superb, paltrow, do, everything, have, work, hour feature, feature inspired, inspired do, do better, better job, job life, life be, be fault, fault superb, superb paltrow, paltrow do, do everything, everything have, have work
+I:315;299;great, performance, film, have, be, great performance, performance film, film have, have be
+I:315;300;do, great, job, expect, do great, great job, job expect
+I:315;301;feminist, strong, side, feminist strong, strong side
+I:315;302;writings, have, strong, tone, writings have, have strong, strong tone
+I:315;303;be, worth, time, be worth, worth time
+I:315;304;way, kind, movie, work, be, hint, great, depth, beauty, be, reach, hour, let, audience, imagination, fill, detail, way kind, kind movie, movie work, work be, be hint, hint great, great depth, depth beauty, beauty be, be reach, reach hour, hour let, let audience, audience imagination, imagination fill, fill detail
+I:315;305;marry, work, write, stay, marry work, work write, write stay
+I:315;306;standpoint, accomplish, be, mission, standpoint accomplish, accomplish be, be mission
+I:315;307;think, do, steller, job, communicate, small, amount, joy, great, dispair, life, think do, do steller, steller job, job communicate, communicate small, small amount, amount joy, joy great, great dispair, dispair life
+I:315;308;want, go, start, be, fact, excite, prospect, do, want go, go start, start be, be fact, fact excite, excite prospect, prospect do
+I:315;309;great, job, re, actor, great job, job re, re actor
+I:315;310;a, film, convey, storyline, successful, way, a film, film convey, convey storyline, storyline successful, successful way
+I:315;311;tell, see, film, meet, poetess, tell see, see film, film meet, meet poetess
+I:315;312;see, do, good, job, see, shoot, image, see do, do good, good job, job see, see shoot, shoot image
+I:315;313;be, kind, movie, fan, want, see, high, be kind, kind movie, movie fan, fan want, want see, see high
+I:315;314;good, act, clever, casting, real, good act, act clever, clever casting, casting real
+I:315;315;life, mother, mother, good, music, score, thanks, good, period, costume, life mother, mother mother, mother good, good music, music score, score thanks, thanks good, good period, period costume
+I:315;316;agree, initial, reaction, film, think, film, be, feminist, accusation, man, action, drive, woman, edge, be, quiet, minor, study, depression, effect, agree initial, initial reaction, reaction film, film think, think film, film be, be feminist, feminist accusation, accusation man, man action, action drive, drive woman, woman edge, edge be, be quiet, quiet minor, minor study, study depression, depression effect
+I:315;317;poetic, camera, work, subtle, shatter, turn, have, work, poetic camera, camera work, work subtle, subtle shatter, shatter turn, turn have, have work
+I:315;318;story, roll, anything, new, add, infidelity, cinema, show, depression, be, interesting, story roll, roll anything, anything new, new add, add infidelity, infidelity cinema, cinema show, show depression, depression be, be interesting
+I:315;319;be, say, be, depression, exhibit, be, self, be say, say be, be depression, depression exhibit, exhibit be, be self
+I:315;320;keep, mind, give, film, credit, deliver, stunning, performance, depression, keep mind, mind give, give film, film credit, credit deliver, deliver stunning, stunning performance, performance depression
+I:315;321;find, movie, engage, reason, find movie, movie engage, engage reason
+I:315;322;film, do, seem, move, fast, pace, think, help, grab, viewer, attention, film do, do seem, seem move, move fast, fast pace, pace think, think help, help grab, grab viewer, viewer attention

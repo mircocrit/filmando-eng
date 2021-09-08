@@ -1,0 +1,592 @@
+I:20062;1;be, excellent, trip, 60, 70, great, way, spend, couple, hour, think, be, be excellent, excellent trip, trip 60, 60 70, 70 great, great way, way spend, spend couple, couple hour, hour think, think be
+I:20062;2;pure, simple, be, great, movie, pure simple, simple be, be great, great movie
+I:20062;3;embody, improbable, be, take, act, genius, deliver, caliber, performance, embody improbable, improbable be, be take, take act, act genius, genius deliver, deliver caliber, caliber performance
+I:20062;4;something, minor, miracle, something minor, minor miracle
+I:20062;5;go, whole, life, meet, people, be, happier, result, care, cheer, triumph, go whole, whole life, life meet, meet people, people be, be happier, happier result, result care, care cheer, cheer triumph
+I:20062;6;be, rare, bizarre, enchant, film, be rare, rare bizarre, bizarre enchant, enchant film
+I:20062;7;longtime, fan, be, turn, american, splendor, book, college, student, love, longtime fan, fan be, be turn, turn american, american splendor, splendor book, book college, college student, student love
+I:20062;8;faithful, original, stand, faithful original, original stand
+I:20062;9;have, visualize, role, have visualize, visualize role
+I:20062;10;film, whole, work, story, triumph, common, everyday, work, man, spite, film whole, whole work, work story, story triumph, triumph common, common everyday, everyday work, work man, man spite
+I:20062;11;recoil, exploitation, nerd, identify, comedy, revenge, nerd, scene, as, book, be, funny, sad, touch, same, time, cheer, sock, audience, recoil exploitation, exploitation nerd, nerd identify, identify comedy, comedy revenge, revenge nerd, nerd scene, scene as, as book, book be, be funny, funny sad, sad touch, touch same, same time, time cheer, cheer sock, sock audience
+I:20062;12;read, american, see, movie, more, laugh, think, enjoy, read american, american see, see movie, movie more, more laugh, laugh think, think enjoy
+I:20062;13;create, something, unreal, familiar, original, director, pull, stop, american, splendor, innovative, unforgettable, biopic, have, see, create something, something unreal, unreal familiar, familiar original, original director, director pull, pull stop, stop american, american splendor, splendor innovative, innovative unforgettable, unforgettable biopic, biopic have, have see
+I:20062;14;brilliant, casting, stunning, script, work, remarkable, craftsmanship, american, splendor, be, unforgettable, cinematic, experience, brilliant casting, casting stunning, stunning script, script work, work remarkable, remarkable craftsmanship, craftsmanship american, american splendor, splendor be, be unforgettable, unforgettable cinematic, cinematic experience
+I:20062;15;think, comic, book, be, influential?the, life, comic, book, hero, be, tell, vivacious, tenacity, multilayered, biopic, expose, human, personality, alter, ego, think comic, comic book, book be, be influential?the, influential?the life, life comic, comic book, book hero, hero be, be tell, tell vivacious, vivacious tenacity, tenacity multilayered, multilayered biopic, biopic expose, expose human, human personality, personality alter, alter ego
+I:20062;16;thanks, inspired, casting, film, nail, punch, thanks inspired, inspired casting, casting film, film nail, nail punch
+I:20062;17;capture, man, variation, persona, mesh, real, appear, film, animated, version, be, full, capture man, man variation, variation persona, persona mesh, mesh real, real appear, appear film, film animated, animated version, version be, be full
+I:20062;18;figure, representation, inspired, characterization, figure representation, representation inspired, inspired characterization
+I:20062;19;understand, low, high, everything, realize, character, potential, understand low, low high, high everything, everything realize, realize character, character potential
+I:20062;20;whole, recommend, film, fan, biopic, human, drama, dramedy, comic, book, whole recommend, recommend film, film fan, fan biopic, biopic human, human drama, drama dramedy, dramedy comic, comic book
+I:20062;21;ugh, recommend, everyone, be, cinema, be, ugh recommend, recommend everyone, everyone be, be cinema, cinema be
+I:20062;22;be, bear, legendary, american, splendor, comic, book, series, be bear, bear legendary, legendary american, american splendor, splendor comic, comic book, book series
+I:20062;23;loser, catch, comic, loser catch, catch comic
+I:20062;24;pekar, narrate, biopic, few, actual, folk, depict, appear, pekar narrate, narrate biopic, biopic few, few actual, actual folk, folk depict, depict appear
+I:20062;25;movie, do, make, laugh, cry, think, movie do, do make, make laugh, laugh cry, cry think
+I:20062;26;american, be, true, story, american be, be true, true story
+I:20062;27;be, friend, introduce, strange, look, guy, name, be friend, friend introduce, introduce strange, strange look, look guy, guy name
+I:20062;28;be, bookish, type, be, jazz, record, comic, book, hit, be bookish, bookish type, type be, be jazz, jazz record, record comic, comic book, book hit
+I:20062;29;hilarious, scene, grocery, store, think, write, comic, stuff, life, hilarious scene, scene grocery, grocery store, store think, think write, write comic, comic stuff, stuff life
+I:20062;30;movie, use, couple, thing, get, star, rating, innovation, heart, course, disc, movie use, use couple, couple thing, thing get, get star, star rating, rating innovation, innovation heart, heart course, course disc
+I:20062;31;be, great, idea, feel, wow, harvey, be, real, life, do, suck, wife, joyce, be, crazy, do, see, lot, biopic, actor, be, be, direct, people, live, be great, great idea, idea feel, feel wow, wow harvey, harvey be, be real, real life, life do, do suck, suck wife, wife joyce, joyce be, be crazy, crazy do, do see, see lot, lot biopic, biopic actor, actor be, be be, be direct, direct people, people live
+I:20062;32;be, get, heart, say, be, bold, face, truth, simplicity, be get, get heart, heart say, say be, be bold, bold face, face truth, truth simplicity
+I:20062;33;film, maker, capture, much, feeling, film maker, maker capture, capture much, much feeling
+I:20062;34;disc, set, special, disc set, set special
+I:20062;35;have, wife, best, friend, funniest, character, daughter, play, director, eventual, recognize, love, have wife, wife best, best friend, friend funniest, funniest character, character daughter, daughter play, play director, director eventual, eventual recognize, recognize love
+I:20062;36;good, movie, deserve, credit, guy, get, good movie, movie deserve, deserve credit, credit guy, guy get
+I:20062;37;love, movie, love movie
+I:20062;38;be, huge, comic, nerd, have, be, write, illustrate, own, be, old, enough, hold, pencil, be huge, huge comic, comic nerd, nerd have, have be, be write, write illustrate, illustrate own, own be, be old, old enough, enough hold, hold pencil
+I:20062;39;performance, be, good, be, be, love, see, lead, man, support, role, performance be, be good, good be, be be, be love, love see, see lead, lead man, man support, support role
+I:20062;40;character, be, likable, end, be, rewarding, character be, be likable, likable end, end be, be rewarding
+I:20062;41;recommend, anybody, nerd, culture, art, scene, independent, movie, documentary, biopic, fan, dark, comedy, recommend anybody, anybody nerd, nerd culture, culture art, art scene, scene independent, independent movie, movie documentary, documentary biopic, biopic fan, fan dark, dark comedy
+I:20062;42;be, comic, book, fan, reader, go, film, trepidation, see, help, call, great, movie, be comic, comic book, book fan, fan reader, reader go, go film, film trepidation, trepidation see, see help, help call, call great, great movie
+I:20062;43;good, bad, life, honest, gritty, perspective, good bad, bad life, life honest, honest gritty, gritty perspective
+I:20062;44;real, fan, be, several, spot, writer, comic, book, movie, real fan, fan be, be several, several spot, spot writer, writer comic, comic book, book movie
+I:20062;45;casting, be, good, lead, forceful, understand, wife, casting be, be good, good lead, lead forceful, forceful understand, understand wife
+I:20062;46;be, cross, husband, cheer, name, be, be, believable, force, screen, be cross, cross husband, husband cheer, cheer name, name be, be be, be believable, believable force, force screen
+I:20062;47;rest, support, cast, be, great, stock, character, mirror, real, life, entity, encompass, life, rest support, support cast, cast be, be great, great stock, stock character, character mirror, mirror real, real life, life entity, entity encompass, encompass life
+I:20062;48;good, alternative, typical, big, good alternative, alternative typical, typical big
+I:20062;49;be, perfect, casting, character, be perfect, perfect casting, casting character
+I:20062;50;be, small, gem, be, worth, watch, be small, small gem, gem be, be worth, worth watch
+I:20062;51;american, be, terrific, film, best, be, say, much, american be, be terrific, terrific film, film best, best be, be say, say much
+I:20062;52;tell, story, famous, comic, book, circle, start, american, series, tell story, story famous, famous comic, comic book, book circle, circle start, start american, american series
+I:20062;53;answer, say, enjoy, film, answer say, say enjoy, enjoy film
+I:20062;54;be, get, perfect, hang, be get, get perfect, perfect hang
+I:20062;55;be, good, strange, wife, be good, good strange, strange wife
+I:20062;56;film, get, lot, attention, unconventional, approach, story, tell, use, animation, documentary, film get, get lot, lot attention, attention unconventional, unconventional approach, approach story, story tell, tell use, use animation, animation documentary
+I:20062;57;be, be, good, be, conventional, be be, be good, good be, be conventional
+I:20062;58;mean, guy, be, depress, life, boo, hoo, im, pay, worker, cynical, sadistic, taste, representation, comic, book, american, splendor, particular, great, well, deserve, high, opinionate, movie, mean guy, guy be, be depress, depress life, life boo, boo hoo, hoo im, im pay, pay worker, worker cynical, cynical sadistic, sadistic taste, taste representation, representation comic, comic book, book american, american splendor, splendor particular, particular great, great well, well deserve, deserve high, high opinionate, opinionate movie
+I:20062;59;dayum, hope, go, feel, man, do, dayum hope, hope go, go feel, feel man, man do
+I:20062;60;be, great, film, underground, comic, book, writer, create, comic, book, series, american, splendor, be great, great film, film underground, underground comic, comic book, book writer, writer create, create comic, comic book, book series, series american, american splendor
+I:20062;61;movie, take, end, second, marriage, point, retirement, file, clerk, movie take, take end, end second, second marriage, marriage point, point retirement, retirement file, file clerk
+I:20062;62;have, moment, clarity, day, wait, line, grocery, store, woman, be, argue, pay, glass, be, marked, dollar, think, way, strike, have moment, moment clarity, clarity day, day wait, wait line, line grocery, grocery store, store woman, woman be, be argue, argue pay, pay glass, glass be, be marked, marked dollar, dollar think, think way, way strike
+I:20062;63;come, narrative, be, able, show, stick, figure, actual, character, drawing, come narrative, narrative be, be able, able show, show stick, stick figure, figure actual, actual character, character drawing
+I:20062;64;big, break, be, have, become, friend, underground, comic, be, famous, be, couple, ordinary, guy, look, bargain, rummage, sale, big break, break be, be have, have become, become friend, friend underground, underground comic, comic be, be famous, famous be, be couple, couple ordinary, ordinary guy, guy look, look bargain, bargain rummage, rummage sale
+I:20062;65;be, impress, statement, be, try, make, agree, do, illustration, comic, american, splendor, be, bear, be impress, impress statement, statement be, be try, try make, make agree, agree do, do illustration, illustration comic, comic american, american splendor, splendor be, be bear
+I:20062;66;best, part, movie, be, love, story, third, wife, best part, part movie, movie be, be love, love story, story third, third wife
+I:20062;67;want, change, other, relationship, work, want change, change other, other relationship, relationship work
+I:20062;68;film, be, do, comic, book, illustration, show, be, think, various, situation, narration, couple, interview, actual, wife, intersperse, film, give, real, feeling, authenticity, film be, be do, do comic, comic book, book illustration, illustration show, show be, be think, think various, various situation, situation narration, narration couple, couple interview, interview actual, actual wife, wife intersperse, intersperse film, film give, give real, real feeling, feeling authenticity
+I:20062;69;be, marvelous, caustic, wart, more, be marvelous, marvelous caustic, caustic wart, wart more
+I:20062;70;performance, be, good, performance be, be good
+I:20062;71;deserve, better, play, support, role, film, big, deserve better, better play, play support, support role, role film, film big
+I:20062;72;kudos, small, role, artist, illustrator, kudos small, small role, role artist, artist illustrator
+I:20062;73;small, amount, time, be, screen, capture, essence, guy, small amount, amount time, time be, be screen, screen capture, capture essence, essence guy
+I:20062;74;average, american, do, know, name, star, american, splendor, drawing, comic, be, recognizeable, style, cartoonist, keep, truckin, guy, average american, american do, do know, know name, name star, star american, american splendor, splendor drawing, drawing comic, comic be, be recognizeable, recognizeable style, style cartoonist, cartoonist keep, keep truckin, truckin guy
+I:20062;75;film, use, interesting, technique, intersperse, footage, real, life, people, life, be, successful, be, such, colorful, character, film use, use interesting, interesting technique, technique intersperse, intersperse footage, footage real, real life, life people, people life, life be, be successful, successful be, be such, such colorful, colorful character
+I:20062;76;film, rate, creative, playful, have, see, film rate, rate creative, creative playful, playful have, have see
+I:20062;77;way, version, play, other, way, comic, real, life, intertwine, be, pure, genius, way version, version play, play other, other way, way comic, comic real, real life, life intertwine, intertwine be, be pure, pure genius
+I:20062;78;be, finest, be finest
+I:20062;79;more, unusual, feature, unusual, movie, unusual, man, have, write, comic, book, comment, performance, more unusual, unusual feature, feature unusual, unusual movie, movie unusual, unusual man, man have, have write, write comic, comic book, book comment, comment performance
+I:20062;80;movie, be, unpredictable, such, be, anything, have, see, movie be, be unpredictable, unpredictable such, such be, be anything, anything have, have see
+I:20062;81;hear, people, be, good, film, be, hear people, people be, be good, good film, film be
+I:20062;82;last, few, year, have, be, best, actor, last few, few year, year have, have be, be best, best actor
+I:20062;83;be, biopic, base, true, story, be biopic, biopic base, base true, true story
+I:20062;84;quirky, anyone, be, self, proclaim, nerd, plutonic, friend, quirky anyone, anyone be, be self, self proclaim, proclaim nerd, nerd plutonic, plutonic friend
+I:20062;85;be, great, story, great, writing, be, unusual, typical, great, movie, be great, great story, story great, great writing, writing be, be unusual, unusual typical, typical great, great movie
+I:20062;86;see, character, be, play, most, biopic, trust, character, be, play, way, be, be, life, see character, character be, be play, play most, most biopic, biopic trust, trust character, character be, be play, play way, way be, be be, be life
+I:20062;87;be, fun, dark, fascinating, look, life, someone, many, have, hear, be fun, fun dark, dark fascinating, fascinating look, look life, life someone, someone many, many have, have hear
+I:20062;88;last, decade, favorite, documentary, be, decade, american, splendor, be, favorite, film, period, last decade, decade favorite, favorite documentary, documentary be, be decade, decade american, american splendor, splendor be, be favorite, favorite film, film period
+I:20062;89;seem, be, engross, life, quirky, comic, book, writer, author, comic, write, seem be, be engross, engross life, life quirky, quirky comic, comic book, book writer, writer author, author comic, comic write
+I:20062;90;be, interesting, movie, be, part, biography, part, comedy, part, drama, be interesting, interesting movie, movie be, be part, part biography, biography part, part comedy, comedy part, part drama
+I:20062;91;have, love, comic, strip, music, record, develop, extensive, collection, have love, love comic, comic strip, strip music, music record, record develop, develop extensive, extensive collection
+I:20062;92;meet, big, name, indie, comic, book, series, become, good, friend, meet big, big name, name indie, indie comic, comic book, book series, series become, become good, good friend
+I:20062;93;get, draw, comic, write, storyline, be, base, life, get draw, draw comic, comic write, write storyline, storyline be, be base, base life
+I:20062;94;woman, love, comic, develop, relationship, meet, move, woman love, love comic, comic develop, develop relationship, relationship meet, meet move
+I:20062;95;life, be, strange, fascinating, many, bad, thing, happen, ability, keep, go, plucky, curmudgeon, attitude, be, engaging, subject, life be, be strange, strange fascinating, fascinating many, many bad, bad thing, thing happen, happen ability, ability keep, keep go, go plucky, plucky curmudgeon, curmudgeon attitude, attitude be, be engaging, engaging subject
+I:20062;96;chance, meeting, greet, card, artist, future, underground, comic, legend, develop, chance meeting, meeting greet, greet card, card artist, artist future, future underground, underground comic, comic legend, legend develop
+I:20062;97;stand, friendship, similar, interest, stand friendship, friendship similar, similar interest
+I:20062;98;superhero, more, realistic, portrayal, own, life, wart, superhero more, more realistic, realistic portrayal, portrayal own, own life, life wart
+I:20062;99;develop, cult, fame, meet, future, wife, comic, book, storeowner, develop cult, cult fame, fame meet, meet future, future wife, wife comic, comic book, book storeowner
+I:20062;100;thing, enjoy, movie, be, inclusion, real, other, people, life, such, wife, odd, friend, thing enjoy, enjoy movie, movie be, be inclusion, inclusion real, real other, other people, people life, life such, such wife, wife odd, odd friend
+I:20062;101;allow, comparison, actor, play, character, real, life, people, character, be, base, allow comparison, comparison actor, actor play, play character, character real, real life, life people, people character, character be, be base
+I:20062;102;be, interesting, be, much, get, character, physical, appearance, speech, dress, attitude, mannerism, be interesting, interesting be, be much, much get, get character, character physical, physical appearance, appearance speech, speech dress, dress attitude, attitude mannerism
+I:20062;103;favorite, scene, be, discuss, peculiarity, name, odd, be, find, couple, other, people, phonebook, share, name, favorite scene, scene be, be discuss, discuss peculiarity, peculiarity name, name odd, odd be, be find, find couple, couple other, other people, people phonebook, phonebook share, share name
+I:20062;104;present, wide, screen, format, movie, look, great, present wide, wide screen, screen format, format movie, movie look, look great
+I:20062;105;include, be, plethora, extra, include, reprint, comic, insert, create, group, commentary, include, real, featurette, few, hidden, item, be, hard, find, include be, be plethora, plethora extra, extra include, include reprint, reprint comic, comic insert, insert create, create group, group commentary, commentary include, include real, real featurette, featurette few, few hidden, hidden item, item be, be hard, hard find
+I:20062;106;real, be, great, real be, be great
+I:20062;107;most, film, portray, most film, film portray
+I:20062;108;comic, book, american, splendor, pioneer, new, genre, autobiographical, comic, book, comic book, book american, american splendor, splendor pioneer, pioneer new, new genre, genre autobiographical, autobiographical comic, comic book
+I:20062;109;filmmaker, be, able, take, be, funny, heart, filmmaker be, be able, able take, take be, be funny, funny heart
+I:20062;110;break, fascinating, life, adapt, panel, page, big, screen, break fascinating, fascinating life, life adapt, adapt panel, panel page, page big, big screen
+I:20062;111;nice, touch, mini, nice touch, touch mini
+I:20062;112;disc, feature, engaging, audio, commentary, real, wife, daughter, friend, filmmaker, actor, disc feature, feature engaging, engaging audio, audio commentary, commentary real, real wife, wife daughter, daughter friend, friend filmmaker, filmmaker actor
+I:20062;113;everyone, have, lot, fun, track, joke, reminiscence, film, experience, everyone have, have lot, lot fun, fun track, track joke, joke reminiscence, reminiscence film, film experience
+I:20062;114;be, brief, update, have, be, film, be, make, be brief, brief update, update have, have be, be film, film be, be make
+I:20062;115;american, have, same, ironic, sense, humour, melancholy, ghost, world, excellent, cinematic, adaptation, independent, comic, book, american have, have same, same ironic, ironic sense, sense humour, humour melancholy, melancholy ghost, ghost world, world excellent, excellent cinematic, cinematic adaptation, adaptation independent, independent comic, comic book
+I:20062;116;american, splendor, stay, true, vision, american splendor, splendor stay, stay true, true vision
+I:20062;117;refuse, sentimentalize, life, film, emotional, conclusion, be, move, refuse sentimentalize, sentimentalize life, life film, film emotional, emotional conclusion, conclusion be, be move
+I:20062;118;be, finest, comic, book, adaptation, put, film, remain, true, source, material, involve, creator, process, transfer, story, page, screen, be finest, finest comic, comic book, book adaptation, adaptation put, put film, film remain, remain true, true source, source material, material involve, involve creator, creator process, process transfer, transfer story, story page, page screen
+I:20062;119;imagine, excitement, reviewer, encounter, strange, film, seem, intent, violate, rule, screenwrit, imagine excitement, excitement reviewer, reviewer encounter, encounter strange, strange film, film seem, seem intent, intent violate, violate rule, rule screenwrit
+I:20062;120;be, boring, man, choose, share, life, wart, consumer, comic, book, be boring, boring man, man choose, choose share, share life, life wart, wart consumer, consumer comic, comic book
+I:20062;121;know, movie, be, top, most, reviewer, list, best, film, know movie, movie be, be top, top most, most reviewer, reviewer list, list best, best film
+I:20062;122;enjoy, film, use, creative, graphic, convey, art, form, represent, comic, enjoy film, film use, use creative, creative graphic, graphic convey, convey art, art form, form represent, represent comic
+I:20062;123;delight, film, maker, capture, effort, style, originality, delight film, film maker, maker capture, capture effort, effort style, style originality
+I:20062;124;be, fan, comic, enjoy, film, be fan, fan comic, comic enjoy, enjoy film
+I:20062;125;be, feel, angsty, station, life, do, have, motivation, do, anything, feel, bond, be feel, feel angsty, angsty station, station life, life do, do have, have motivation, motivation do, do anything, anything feel, feel bond
+I:20062;126;short, film, have, interesting, concept, good, acting, short film, film have, have interesting, interesting concept, concept good, good acting
+I:20062;127;film, intersperse, drama, real, interview, wife, colleague, animated, comic, film intersperse, intersperse drama, drama real, real interview, interview wife, wife colleague, colleague animated, animated comic
+I:20062;128;opinion, be, best, film, opinion be, be best, best film
+I:20062;129;shoot, write, act, shoot write, write act
+I:20062;130;love, movie, do, eve, care, people, do, get, love movie, movie do, do eve, eve care, care people, people do, do get
+I:20062;131;eke, anonymous, existence, ratty, apartment, clerk, job, hospital, submit, idea, story, mundane, life, draw, straight, line, underground, comic, book, make, classic, movie, eke anonymous, anonymous existence, existence ratty, ratty apartment, apartment clerk, clerk job, job hospital, hospital submit, submit idea, idea story, story mundane, mundane life, life draw, draw straight, straight line, line underground, underground comic, comic book, book make, make classic, classic movie
+I:20062;132;pulcinus, tell, story, interesting, device, such, traditional, actor, actual, participation, real, pulcinus tell, tell story, story interesting, interesting device, device such, such traditional, traditional actor, actor actual, actual participation, participation real
+I:20062;133;point, film, real, be, talk, see, actor, play, laugh, background, point film, film real, real be, be talk, talk see, see actor, actor play, play laugh, laugh background
+I:20062;134;life, person, appear, same, film, be, such, consummate, actor, be, more, task, life person, person appear, appear same, same film, film be, be such, such consummate, consummate actor, actor be, be more, more task
+I:20062;135;provide, excellent, work, be, soulmate, nerdy, co., worker, proud, provide excellent, excellent work, work be, be soulmate, soulmate nerdy, nerdy co., co. worker, worker proud
+I:20062;136;perfect, world, film, have, enjoy, greater, box, office, acceptance, do, say, lesser, independent, film, perfect world, world film, film have, have enjoy, enjoy greater, greater box, box office, office acceptance, acceptance do, do say, say lesser, lesser independent, independent film
+I:20062;137;have, attempt, recommend, film, other, people, be, meet, shrug, have attempt, attempt recommend, recommend film, film other, other people, people be, be meet, meet shrug
+I:20062;138;comic, make, kind, hero, average, suffering, folk, bring, little, family, end, film, wife, be, play, comic make, make kind, kind hero, hero average, average suffering, suffering folk, folk bring, bring little, little family, family end, end film, film wife, wife be, be play
+I:20062;139;cultural, be, reassure, same, cultural be, be reassure, reassure same
+I:20062;140;pic, convention, relate, story, vary, degree, success, pic convention, convention relate, relate story, story vary, vary degree, degree success
+I:20062;141;entertaining, interesting, film, wonderful, performance, entertaining interesting, interesting film, film wonderful, wonderful performance
+I:20062;142;certain, key, character, appear, film, certain key, key character, character appear, appear film
+I:20062;143;be, tell, actor, get, meet, real, friend, family, be tell, tell actor, actor get, get meet, meet real, real friend, friend family
+I:20062;144;amazing, thing, be, approach, seem, gimmicky, self, amazing thing, thing be, be approach, approach seem, seem gimmicky, gimmicky self
+I:20062;145;be, moment, astounding, portrayal, doubt, authenticity, be, disorient, least, real, show, be moment, moment astounding, astounding portrayal, portrayal doubt, doubt authenticity, authenticity be, be disorient, disorient least, least real, real show
+I:20062;146;story, tell, american, splendor, be, move, story tell, tell american, american splendor, splendor be, be move
+I:20062;147;separate, many, bretheren, save, life, be, find, outlet, choose, document, life, comic, separate many, many bretheren, bretheren save, save life, life be, be find, find outlet, outlet choose, choose document, document life, life comic
+I:20062;148;hand, decision, lead, status, underground, hero, regular, movie, subject, hand decision, decision lead, lead status, status underground, underground hero, hero regular, regular movie, movie subject
+I:20062;149;be, people, matter, deserve, voice, american, splendor, let, speak, entertaining, result, be people, people matter, matter deserve, deserve voice, voice american, american splendor, splendor let, let speak, speak entertaining, entertaining result
+I:20062;150;love, movie, like, american, splendor, love movie, movie like, like american, american splendor
+I:20062;151;everyday, life, be, complex, stuff, everyday life, life be, be complex, complex stuff
+I:20062;152;make, sense, be, mainstream, be, whole, point, make sense, sense be, be mainstream, mainstream be, be whole, whole point
+I:20062;153;find, vile, taste, be, part, total, national, culture, be, excellent, illustration, part, society, mainstream, wish, do, exist, find vile, vile taste, taste be, be part, part total, total national, national culture, culture be, be excellent, excellent illustration, illustration part, part society, society mainstream, mainstream wish, wish do, do exist
+I:20062;154;chimp, be, able, see, chimp be, be able, able see
+I:20062;155;be, avid, reader, devotee, complex, jazz, be avid, avid reader, reader devotee, devotee complex, complex jazz
+I:20062;156;gift, be, ability, simplify, complex, life, problem, convey, cartoon, text, gift be, be ability, ability simplify, simplify complex, complex life, life problem, problem convey, convey cartoon, cartoon text
+I:20062;157;be, honest, film, audience, state, make, flick, extra, change, help, retirement, be honest, honest film, film audience, audience state, state make, make flick, flick extra, extra change, change help, help retirement
+I:20062;158;do, come, tell, see, movie, afford, fly, private, jet, private, vacation, island, south, do come, come tell, tell see, see movie, movie afford, afford fly, fly private, private jet, jet private, private vacation, vacation island, island south
+I:20062;159;folk, talk, art, folk talk, talk art
+I:20062;160;be, story, real, antihero, be, story, rest, pay, attention, be story, story real, real antihero, antihero be, be story, story rest, rest pay, pay attention
+I:20062;161;mentality, america, offer, realistic, glimpse, actual, tenuousness, fabricate, make, mentality america, america offer, offer realistic, realistic glimpse, glimpse actual, actual tenuousness, tenuousness fabricate, fabricate make
+I:20062;162;great, adaptation, comicbook, author, unusual, autobiographical, ouvre, great adaptation, adaptation comicbook, comicbook author, author unusual, unusual autobiographical, autobiographical ouvre
+I:20062;163;amazing, actor, look, comicbook, version, real, do, amazing actor, actor look, look comicbook, comicbook version, version real, real do
+I:20062;164;be, great, casting, be great, great casting
+I:20062;165;world, benefit, glowing, review, american, critic, fan, vie, other, find, unique, insightful, way, say, like, world benefit, benefit glowing, glowing review, review american, american critic, critic fan, fan vie, vie other, other find, find unique, unique insightful, insightful way, way say, say like
+I:20062;166;something, justify, watch, something justify, justify watch
+I:20062;167;mope, life, ignore, everything, uplifting, hopeful, mope life, life ignore, ignore everything, everything uplifting, uplifting hopeful
+I:20062;168;manage, be, daring, touching, manage be, be daring, daring touching
+I:20062;169;be, such, fantastic, protagonist, be, ordinary, be such, such fantastic, fantastic protagonist, protagonist be, be ordinary
+I:20062;170;end, job, decide, turn, humdrum, life, comic, book, end, become, cultural, icon, ordinary, people, relate, end job, job decide, decide turn, turn humdrum, humdrum life, life comic, comic book, book end, end become, become cultural, cultural icon, icon ordinary, ordinary people, people relate
+I:20062;171;romance, marriage, be, touching, heartwarming, screen, romance, have, see, long, time, romance marriage, marriage be, be touching, touching heartwarming, heartwarming screen, screen romance, romance have, have see, see long, long time
+I:20062;172;air, argument, be, intense, scene, film, air argument, argument be, be intense, intense scene, scene film
+I:20062;173;film, combine, fictionalized, story, portray, actor, real, footage, people, be, portray, animation, inspire, comic, book, film combine, combine fictionalized, fictionalized story, story portray, portray actor, actor real, real footage, footage people, people be, be portray, portray animation, animation inspire, inspire comic, comic book
+I:20062;174;process, ordinary, people, portray, become, fascinating, hilarious, endearing, process ordinary, ordinary people, people portray, portray become, become fascinating, fascinating hilarious, hilarious endearing
+I:20062;175;hard, believe, be, film, hard believe, believe be, be film
+I:20062;176;have, emotional, feel, old, beat, movie, late, have emotional, emotional feel, feel old, old beat, beat movie, movie late
+I:20062;177;theme, be, perfect, be, misfit, stick, dead, end, job, have, imagination, excede, role, life, have, be, give, theme be, be perfect, perfect be, be misfit, misfit stick, stick dead, dead end, end job, job have, have imagination, imagination excede, excede role, role life, life have, have be, be give
+I:20062;178;super, hero, own, underground, comic, book, super hero, hero own, own underground, underground comic, comic book
+I:20062;179;rescue, drudgery, life, turn, art, half, documentary, have, biopic, film, have, cool, look, feel, great, bluesy, boppish, jazz, soundtrack, rescue drudgery, drudgery life, life turn, turn art, art half, half documentary, documentary have, have biopic, biopic film, film have, have cool, cool look, look feel, feel great, great bluesy, bluesy boppish, boppish jazz, jazz soundtrack
+I:20062;180;blend, acting, rare, casting, lead, memorable, face, role, real, narraration, screan, appearence, be, great, blend acting, acting rare, rare casting, casting lead, lead memorable, memorable face, face role, role real, real narraration, narraration screan, screan appearence, appearence be, be great
+I:20062;181;rest, ensemble, script, be, incredible, quick, cut, method, rest ensemble, ensemble script, script be, be incredible, incredible quick, quick cut, cut method
+I:20062;182;do, believe, ask, certain, genuine, nerd, do believe, believe ask, ask certain, certain genuine, genuine nerd
+I:20062;183;nerd, suppose, see, reflect, film, revenge, nerd, produce, brilliant, deconstruction, film, nerd suppose, suppose see, see reflect, reflect film, film revenge, revenge nerd, nerd produce, produce brilliant, brilliant deconstruction, deconstruction film
+I:20062;184;genuine, practical, reason, struggle, year, writer, critic, break, marginal, ghetto, be, represent, comic, renumerative, line, work, such, movie, simple, reason, movie, be, social, art, reflect, comic, wider, society, genuine practical, practical reason, reason struggle, struggle year, year writer, writer critic, critic break, break marginal, marginal ghetto, ghetto be, be represent, represent comic, comic renumerative, renumerative line, line work, work such, such movie, movie simple, simple reason, reason movie, movie be, be social, social art, art reflect, reflect comic, comic wider, wider society
+I:20062;185;deserve, comfortable, retirement, deserve comfortable, comfortable retirement
+I:20062;186;be, warm, be, funny, be, sad, be, hospital, people, most, people, recognize, be, time, have, safe, job, show, do, go, home, be warm, warm be, be funny, funny be, be sad, sad be, be hospital, hospital people, people most, most people, people recognize, recognize be, be time, time have, have safe, safe job, job show, show do, do go, go home
+I:20062;187;be, real, people, do, real, art, be real, real people, people do, do real, real art
+I:20062;188;make, fun, snotty, academic, sarcastic, tv, talk, show, host, make fun, fun snotty, snotty academic, academic sarcastic, sarcastic tv, tv talk, talk show, show host
+I:20062;189;collar, worker, dominate, yuppie, ideology, collar worker, worker dominate, dominate yuppie, yuppie ideology
+I:20062;190;be, have, epiphany, decide, make, ordinary, be have, have epiphany, epiphany decide, decide make, make ordinary
+I:20062;191;hero, animal, cartoon, decide, create, comic, book, main, character, be, one, hero animal, animal cartoon, cartoon decide, decide create, create comic, comic book, book main, main character, character be, be one
+I:20062;192;illustration, be, craft, underground, comic, artist, such, legendary, personal, friend, meet, early, illustration be, be craft, craft underground, underground comic, comic artist, artist such, such legendary, legendary personal, personal friend, friend meet, meet early
+I:20062;193;everything, happen, life, have, potential, become, comic, book, material, everything happen, happen life, life have, have potential, potential become, become comic, comic book, book material
+I:20062;194;comic, book, hit, street, become, major, sensation, do, great, deal, help, personal, life, comic book, book hit, hit street, street become, become major, major sensation, sensation do, do great, great deal, deal help, help personal, personal life
+I:20062;195;own, gloomy, vision, world, sorround, be, able, generate, refined, form, dark, humor, conquer, series, fan, nation, own gloomy, gloomy vision, vision world, world sorround, sorround be, be able, able generate, generate refined, refined form, form dark, dark humor, humor conquer, conquer series, series fan, fan nation
+I:20062;196;fan, end, become, loving, wife, fan end, end become, become loving, loving wife
+I:20062;197;demonstrate, great, easiness, play, self, demonstrate great, great easiness, easiness play, play self
+I:20062;198;share, common, personality, trait, deliver, act, share common, common personality, personality trait, trait deliver, deliver act
+I:20062;199;addition, phenomenal, act, skill, be, aslo, noticeable, physical, similarity, original, addition phenomenal, phenomenal act, act skill, skill be, be aslo, aslo noticeable, noticeable physical, physical similarity, similarity original
+I:20062;200;strong, point, come, aid, motion, picture, be, cartoon, strong point, point come, come aid, aid motion, motion picture, picture be, be cartoon
+I:20062;201;form, narrative, shot, resemble, comic, book, form narrative, narrative shot, shot resemble, resemble comic, comic book
+I:20062;202;animated, drawing, interact, character, graphic, resource, add, much, credibility, interest, picture, whole, animated drawing, drawing interact, interact character, character graphic, graphic resource, resource add, add much, much credibility, credibility interest, interest picture, picture whole
+I:20062;203;interesting, solid, plot, grandiose, acting, be, destine, become, cult, classic, interesting solid, solid plot, plot grandiose, grandiose acting, acting be, be destine, destine become, become cult, cult classic
+I:20062;204;be, movie, deal, weakness, human, character, possibility, turn, be movie, movie deal, deal weakness, weakness human, human character, character possibility, possibility turn
+I:20062;205;movie, show, real, people, life, switch, actor, play, movie show, show real, real people, people life, life switch, switch actor, actor play
+I:20062;206;use, lot, comic, book, drawing, animation, film, use lot, lot comic, comic book, book drawing, drawing animation, animation film
+I:20062;207;harvey, play, be, frustrated, file, clerk, be, inspire, create, comic, book, base, own, life, harvey play, play be, be frustrated, frustrated file, file clerk, clerk be, be inspire, inspire create, create comic, comic book, book base, base own, own life
+I:20062;208;class, everyman, type, guy, class everyman, everyman type, type guy
+I:20062;209;odd, way, be, interesting, odd way, way be, be interesting
+I:20062;210;be, interested, enough, keep, watch, be interested, interested enough, enough keep, keep watch
+I:20062;211;house, crowd, love, movie, house crowd, crowd love, love movie
+I:20062;212;film, be, proof, life, be, interesting, important, unique, film be, be proof, proof life, life be, be interesting, interesting important, important unique
+I:20062;213;make, masterpiece, own, life, daily, routine, own, misery, make masterpiece, masterpiece own, own life, life daily, daily routine, routine own, own misery
+I:20062;214;american, remind, regard, comedy, be, original, stylish, film, american remind, remind regard, regard comedy, comedy be, be original, original stylish, stylish film
+I:20062;215;be, brilliant, story, be, funny, honest, touching, sweet, be brilliant, brilliant story, story be, be funny, funny honest, honest touching, touching sweet
+I:20062;216;pekar, cartoon, have, have, cult, follow, while, take, form, autobiography, autobiography, common, man, everyman, annoyance, everyday, modern, life, encounter, pekar cartoon, cartoon have, have have, have cult, cult follow, follow while, while take, take form, form autobiography, autobiography autobiography, autobiography common, common man, man everyman, everyman annoyance, annoyance everyday, everyday modern, modern life, life encounter
+I:20062;217;comic, be, do, tongue, comic be, be do, do tongue
+I:20062;218;cheek, insightful, time, sarcastic, style, humor, elevate, boredom, misery, life, mystical, perspective, cheek insightful, insightful time, time sarcastic, sarcastic style, style humor, humor elevate, elevate boredom, boredom misery, misery life, life mystical, mystical perspective
+I:20062;219;film, take, youth, friendship, love, old, jazz, relationship, wife, day, job, filing, clerk, local, hospital, va, nut, bolt, work, underground, cartoonist, see, write, dialogue, draw, stick, figure, be, elaborate, various, artist, include, film take, take youth, youth friendship, friendship love, love old, old jazz, jazz relationship, relationship wife, wife day, day job, job filing, filing clerk, clerk local, local hospital, hospital va, va nut, nut bolt, bolt work, work underground, underground cartoonist, cartoonist see, see write, write dialogue, dialogue draw, draw stick, stick figure, figure be, be elaborate, elaborate various, various artist, artist include
+I:20062;220;follow, movie, be, sudden, success, be, discover, bout, cancer, adoption, daughter, follow movie, movie be, be sudden, sudden success, success be, be discover, discover bout, bout cancer, cancer adoption, adoption daughter
+I:20062;221;give, character, sketch, someone, life, have, be, kind, get, feeling, have, do, good, job, sabotage, way, give character, character sketch, sketch someone, someone life, life have, have be, be kind, kind get, get feeling, feeling have, have do, do good, good job, job sabotage, sabotage way
+I:20062;222;movie, be, do, creative, style, play, movie, show, movie, interview, set, film, clip, appearance, show, animation, course, close, up, cell, comic, movie be, be do, do creative, creative style, style play, play movie, movie show, show movie, movie interview, interview set, set film, film clip, clip appearance, appearance show, show animation, animation course, course close, close up, up cell, cell comic
+I:20062;223;casting, be, perfect, actor, pull, portrayal, ease, casting be, be perfect, perfect actor, actor pull, pull portrayal, portrayal ease
+I:20062;224;portrayal, blossom, relationship, wife, be, touching, be, sentimental, guy, seem, take, pride, be, anything, sentimental, portrayal blossom, blossom relationship, relationship wife, wife be, be touching, touching be, be sentimental, sentimental guy, guy seem, seem take, take pride, pride be, be anything, anything sentimental
+I:20062;225;struggle, cancer, be, tell, honesty, see, anti, struggle cancer, cancer be, be tell, tell honesty, honesty see, see anti
+I:20062;226;hero, someone, be, heroic, hero someone, someone be, be heroic
+I:20062;227;entertaining, movie, real, character, entertaining movie, movie real, real character
+I:20062;228;comic, book, find, delightful, comic book, book find, find delightful
+I:20062;229;know, story, find, movie, fascinating, know story, story find, find movie, movie fascinating
+I:20062;230;blending, be, do, blending be, be do
+I:20062;231;be, popular, talented, beautiful, smart, rich, reality, be, have, weird, sense, insecurity, aspect, life, make, behave, case, become, hostile, be popular, popular talented, talented beautiful, beautiful smart, smart rich, rich reality, reality be, be have, have weird, weird sense, sense insecurity, insecurity aspect, aspect life, life make, make behave, behave case, case become, become hostile
+I:20062;232;have, watch, act, prowess, excellent, time, movie, ghost, world, have, see, dozen, time, be, wonderful, tragic, movie, base, underground, comic, book, be, prepare, enjoy, movie, seem, alley, have watch, watch act, act prowess, prowess excellent, excellent time, time movie, movie ghost, ghost world, world have, have see, see dozen, dozen time, time be, be wonderful, wonderful tragic, tragic movie, movie base, base underground, underground comic, comic book, book be, be prepare, prepare enjoy, enjoy movie, movie seem, seem alley
+I:20062;233;reason, be, ghost, world, find, easier, sympathize, empathize, character, reason be, be ghost, ghost world, world find, find easier, easier sympathize, sympathize empathize, empathize character
+I:20062;234;be, great, big, revelation, be great, great big, big revelation
+I:20062;235;be, huge, chunk, take, life, be huge, huge chunk, chunk take, take life
+I:20062;236;make, central, casting, novel, comic, book, epic, proportion, many, age, soldier, sailor, airman, have, get, story, tell, make central, central casting, casting novel, novel comic, comic book, book epic, epic proportion, proportion many, many age, age soldier, soldier sailor, sailor airman, airman have, have get, get story, story tell
+I:20062;237;tale, daring, exploit, understate, modest, disclaimer, heroism, tale daring, daring exploit, exploit understate, understate modest, modest disclaimer, disclaimer heroism
+I:20062;238;fingertip, time, want, lunch, cafteria, share, coffee, canteen, have, give, world, treasure, trove, story, many, hero, few, coward, braggart, few, saint, few, sinner, fingertip time, time want, want lunch, lunch cafteria, cafteria share, share coffee, coffee canteen, canteen have, have give, give world, world treasure, treasure trove, trove story, story many, many hero, hero few, few coward, coward braggart, braggart few, few saint, saint few, few sinner
+I:20062;239;do, matter, do matter
+I:20062;240;be, good, movie, right, audience, be good, good movie, movie right, right audience
+I:20062;241;seem, appeal, like, comic, buy, anthology, get, more, type, slice, seem appeal, appeal like, like comic, comic buy, buy anthology, anthology get, get more, more type, type slice
+I:20062;242;life, movie, small, talk, remember, appearance, life movie, movie small, small talk, talk remember, remember appearance
+I:20062;243;be, clear, be, director, have, great, desire, make, movie, be clear, clear be, be director, director have, have great, great desire, desire make, make movie
+I:20062;244;be, good, be good
+I:20062;245;be, excellent, add, movie, be excellent, excellent add, add movie
+I:20062;246;make, like, more, movie, make like, like more, more movie
+I:20062;247;say, something, good, way, say something, something good, good way
+I:20062;248;capsule, comment, people, include, be, funny, true, capsule comment, comment people, people include, include be, be funny, funny true
+I:20062;249;real, clip, be, neat, clever, addition, movie, real clip, clip be, be neat, neat clever, clever addition, addition movie
+I:20062;250;bring, whole, game, be, tease, bulldog, personality, watch, give, take, bring whole, whole game, game be, be tease, tease bulldog, bulldog personality, personality watch, watch give, give take
+I:20062;251;be, funny, dangerous, be funny, funny dangerous
+I:20062;252;movie, be, kinda, touching, have, real, feel, nasty, edge, movie be, be kinda, kinda touching, touching have, have real, real feel, feel nasty, nasty edge
+I:20062;253;meet, be, oddball, stuff, likable, funny, meet be, be oddball, oddball stuff, stuff likable, likable funny
+I:20062;254;much, go, come, odd, true, much go, go come, come odd, odd true
+I:20062;255;movie, do, have, honest, feel, movie do, do have, have honest, honest feel
+I:20062;256;want, get, something, want get, get something
+I:20062;257;sound, likethey, have, fun, be, interesting, sound likethey, likethey have, have fun, fun be, be interesting
+I:20062;258;themusic, be, good, themusic be, be good
+I:20062;259;american, splendor, do, masterful, job, blend, real, reel, see, real, life, family, friend, hand, actor, portray, other, american splendor, splendor do, do masterful, masterful job, job blend, blend real, real reel, reel see, see real, real life, life family, family friend, friend hand, hand actor, actor portray, portray other
+I:20062;260;wonderful, editing, act, special, effect, make, great, film, be, fun, watch, interesting, portrait, unconvential, fascinating, man, wonderful editing, editing act, act special, special effect, effect make, make great, great film, film be, be fun, fun watch, watch interesting, interesting portrait, portrait unconvential, unconvential fascinating, fascinating man
+I:20062;261;imagine, movie, say, acquaintance, have, capture, essence, american, imagine movie, movie say, say acquaintance, acquaintance have, have capture, capture essence, essence american
+I:20062;262;be, such, hero, be such, such hero
+I:20062;263;acerbic, comic, author, offer, audience, make, comic, same, name, special, window, life, man, pain, foible, go, acerbic comic, comic author, author offer, offer audience, audience make, make comic, comic same, same name, name special, special window, window life, life man, man pain, pain foible, foible go
+I:20062;264;performance, be, excellent, deserve, special, mention, wonderful, portrayal, performance be, be excellent, excellent deserve, deserve special, special mention, mention wonderful, wonderful portrayal
+I:20062;265;bring, people, life, bring people, people life
+I:20062;266;director, interesting, technique, place, commentator, own, life, keep, film, slip, melodrama, keep, distance, give, comic, be, powerful, perspective, director interesting, interesting technique, technique place, place commentator, commentator own, own life, life keep, keep film, film slip, slip melodrama, melodrama keep, keep distance, distance give, give comic, comic be, be powerful, powerful perspective
+I:20062;267;humor, be, evidence, life, dip, tragedy, be, rock, excellent, film, rest, humor be, be evidence, evidence life, life dip, dip tragedy, tragedy be, be rock, rock excellent, excellent film, film rest
+I:20062;268;find, intimacy, film, uncomfortable, give, tendency, modern, film, flatten, life, find, refreshing, find intimacy, intimacy film, film uncomfortable, uncomfortable give, give tendency, tendency modern, modern film, film flatten, flatten life, life find, find refreshing
+I:20062;269;harvey, unspoiled, be, better, minute, fame, be, treat, viewer, enjoy, harvey unspoiled, unspoiled be, be better, better minute, minute fame, fame be, be treat, treat viewer, viewer enjoy
+I:20062;270;be, own, film, be, classic, be own, own film, film be, be classic
+I:20062;271;be, honest, real, be honest, honest real
+I:20062;272;communicate, other, character, communicate other, other character
+I:20062;273;daily, grind, many, experience, be, portray, daily grind, grind many, many experience, experience be, be portray
+I:20062;274;film, capture, film capture
+I:20062;275;be, strange, sad, expect, be, funny, be strange, strange sad, sad expect, expect be, be funny
+I:20062;276;be, excellent, real, life, be, wonderful, watch, be excellent, excellent real, real life, life be, be wonderful, wonderful watch
+I:20062;277;movie, turn, be, best, movie, have, see, year, movie turn, turn be, be best, best movie, movie have, have see, see year
+I:20062;278;movie, be, combination, docudrama, black, comedy, movie be, be combination, combination docudrama, docudrama black, black comedy
+I:20062;279;real, narrate, weird, be, be, watch, movie, scene, real narrate, narrate weird, weird be, be be, be watch, watch movie, movie scene
+I:20062;280;scene, believe, be, weird, seem, actor, walk, movie, set, see, real, interact, actor, be, watch, scene believe, believe be, be weird, weird seem, seem actor, actor walk, walk movie, movie set, set see, see real, real interact, interact actor, actor be, be watch
+I:20062;281;date, be, hysterical, date be, be hysterical
+I:20062;282;end, come, full, circle, write, comic, book, make, movie, end come, come full, full circle, circle write, write comic, comic book, book make, make movie
+I:20062;283;have, be, long, time, have, see, smart, engaging, move, write, funny, movie, have be, be long, long time, time have, have see, see smart, smart engaging, engaging move, move write, write funny, funny movie
+I:20062;284;great, story, great, film, great story, story great, great film
+I:20062;285;get, gift, hope, like, get gift, gift hope, hope like
+I:20062;286;plot, deal, seedy, comic, plot deal, deal seedy, seedy comic
+I:20062;287;book, man, series, seedy, breakup, seedy, girlfriend, seedy, neighborhood, book man, man series, series seedy, seedy breakup, breakup seedy, seedy girlfriend, girlfriend seedy, seedy neighborhood
+I:20062;288;writhe, lunatic, fan, film, press, no, be, writhe lunatic, lunatic fan, fan film, film press, press no, no be
+I:20062;289;film, american, splendor, be, peculiar, movie, good, film american, american splendor, splendor be, be peculiar, peculiar movie, movie good
+I:20062;290;american, be, life, time, american be, be life, life time
+I:20062;291;comic, be, real, life, real, life, comic be, be real, real life, life real, real life
+I:20062;292;movie, be, adaptation, comic, be, film, comic, real, man, movie be, be adaptation, adaptation comic, comic be, be film, film comic, comic real, real man
+I:20062;293;mind, american, splendor, mix, several, style, film, narrative, mind american, american splendor, splendor mix, mix several, several style, style film, film narrative
+I:20062;294;be, documentary, style, film, move, movie, scene, real, real, be, interview, be documentary, documentary style, style film, film move, move movie, movie scene, scene real, real real, real be, be interview
+I:20062;295;style, work, film, do, style work, work film, film do
+I:20062;296;send, funk, meet, man, name, be, talented, artist, become, successful, famous, send funk, funk meet, meet man, man name, name be, be talented, talented artist, artist become, become successful, successful famous
+I:20062;297;be, interesting, film, work, expect, be interesting, interesting film, film work, work expect
+I:20062;298;make, list, top, film, be, good, have, excellent, performance, have, be, recognize, make list, list top, top film, film be, be good, good have, have excellent, excellent performance, performance have, have be, be recognize
+I:20062;299;recommend, good, stuff, rating, recommend good, good stuff, stuff rating
+I:20062;300;be, great, be, good, be great, great be, be good
+I:20062;301;be, average, man, be average, average man
+I:20062;302;say, be, terrific, film, say be, be terrific, terrific film
+I:20062;303;be, amazing, capture, essence, film, be amazing, amazing capture, capture essence, essence film
+I:20062;304;wonder, do, film, show, real, real, people, surround, wonder do, do film, film show, show real, real real, real people, people surround
+I:20062;305;find, fun, mock, find fun, fun mock
+I:20062;306;be, surprise, see, real, life, character, represent, be surprise, surprise see, see real, real life, life character, character represent
+I:20062;307;do, film, do, do film, film do
+I:20062;308;bring, world, house, mind, soul, bring world, world house, house mind, mind soul
+I:20062;309;be, receive, deserve, accolade, performance, be, define, performance, career, be receive, receive deserve, deserve accolade, accolade performance, performance be, be define, define performance, performance career
+I:20062;310;american, splendor, be, best, movie, adaptation, comic, book, have, see, american splendor, splendor be, be best, best movie, movie adaptation, adaptation comic, comic book, book have, have see
+I:20062;311;movie, be, base, comic, book, guy, real, life, movie be, be base, base comic, comic book, book guy, guy real, real life
+I:20062;312;actor, real, actor real
+I:20062;313;give, great, performance, give great, great performance
+I:20062;314;movie, be, funny, innovative, way, merge, live, movie be, be funny, funny innovative, innovative way, way merge, merge live
+I:20062;315;be, big, fan, small, non, be big, big fan, fan small, small non
+I:20062;316;hollywood, movie, like, movie, have, plot, theme, love, god, something, happen, hollywood movie, movie like, like movie, movie have, have plot, plot theme, theme love, love god, god something, something happen
+I:20062;317;take, narration, comic, book, scene, wonderful, act, certain, scene, bleak, dreary, life, take narration, narration comic, comic book, book scene, scene wonderful, wonderful act, act certain, certain scene, scene bleak, bleak dreary, dreary life
+I:20062;318;be, fan, enjoy, see, be fan, fan enjoy, enjoy see
+I:20062;319;have, read, comic, book, think, do, realize, see, movie, wife, be, heroic, have read, read comic, comic book, book think, think do, do realize, realize see, see movie, movie wife, wife be, be heroic
+I:20062;320;get, meaty, anti, get meaty, meaty anti
+I:20062;321;admire, film, great, deal, admire film, film great, great deal
+I:20062;322;write, act, great, peek, world, comic, blue, write act, act great, great peek, peek world, world comic, comic blue
+I:20062;323;be, anxious, see, film, enjoy, think, real, sense, freshness, discovery, be, reserve, hear, be anxious, anxious see, see film, film enjoy, enjoy think, think real, real sense, sense freshness, freshness discovery, discovery be, be reserve, reserve hear
+I:20062;324;american, title, ironic, be, clever, journey, life, love, comic, american title, title ironic, ironic be, be clever, clever journey, journey life, life love, love comic
+I:20062;325;describe, live, american, dream, describe live, live american, american dream
+I:20062;326;splice, real, footage, fictitious, posturing, real, colorful, comic, strip, american, be, film, be, other, splice real, real footage, footage fictitious, fictitious posturing, posturing real, real colorful, colorful comic, comic strip, strip american, american be, be film, film be, be other
+I:20062;327;enjoy, ordinary, life, enjoy ordinary, ordinary life
+I:20062;328;bring, life, world, comic, anti, bring life, life world, world comic, comic anti
+I:20062;329;heroic, comic, book, use, ordinary, people, emphasize, unique, talent, superhuman, manner, heroic comic, comic book, book use, use ordinary, ordinary people, people emphasize, emphasize unique, unique talent, talent superhuman, superhuman manner
+I:20062;330;documentary, bring, humor, drama, tragedy, life, have, offer, silver, screen, personification, documentary bring, bring humor, humor drama, drama tragedy, tragedy life, life have, have offer, offer silver, silver screen, screen personification
+I:20062;331;double, performance, enhance, story, bring, dual, image, personal, depiction, outsider, perspective, identity, double performance, performance enhance, enhance story, story bring, bring dual, dual image, image personal, personal depiction, depiction outsider, outsider perspective, perspective identity
+I:20062;332;film, depiction, odd, character, be, unique, develop, interesting, character, study, real, character, film depiction, depiction odd, odd character, character be, be unique, unique develop, develop interesting, interesting character, character study, study real, real character
+I:20062;333;pessimistic, audience, get, be, subject, wonderful, cinematic, experience, offer, several, thoughtful, humorous, life, lesson, pessimistic audience, audience get, get be, be subject, subject wonderful, wonderful cinematic, cinematic experience, experience offer, offer several, several thoughtful, thoughtful humorous, humorous life, life lesson
+I:20062;334;make, countless, top, list, hear, anything, bad, watch, make countless, countless top, top list, list hear, hear anything, anything bad, bad watch
+I:20062;335;be, nice, little, story, man, people, suround, be nice, nice little, little story, story man, man people, people suround
+I:20062;336;have, lot, less, do, world, comic, lot, more, do, day, day, life, have lot, lot less, less do, do world, world comic, comic lot, lot more, more do, do day, day day, day life
+I:20062;337;love, filmmaker, editor, intersperse, real, actor, be, clever, fall, pretension, love filmmaker, filmmaker editor, editor intersperse, intersperse real, real actor, actor be, be clever, clever fall, fall pretension
+I:20062;338;modernism, creative, way, be, do, tell, story, legendary, writer, underground, comic, same, name, modernism creative, creative way, way be, be do, do tell, tell story, story legendary, legendary writer, writer underground, underground comic, comic same, same name
+I:20062;339;idea, appeal, wa, bear, american, write, illustrate, other, idea appeal, appeal wa, wa bear, bear american, american write, write illustrate, illustrate other
+I:20062;340;make, sense, film, be, life, comic, book, comic, book, be, life, move, be, way, go, make sense, sense film, film be, be life, life comic, comic book, book comic, comic book, book be, be life, life move, move be, be way, way go
+I:20062;341;pekar, life, be, curious, combination, pessimism, honesty, pekar life, life be, be curious, curious combination, combination pessimism, pessimism honesty
+I:20062;342;come, visit, curious, see, version, comic, book, be, real, come visit, visit curious, curious see, see version, version comic, comic book, book be, be real
+I:20062;343;immediate, reaction, be, tell, know, right, bat, have, vasectomy, immediate reaction, reaction be, be tell, tell know, know right, right bat, bat have, have vasectomy
+I:20062;344;be, kind, love, story, be kind, kind love, love story
+I:20062;345;achieve, level, performance, be, inhabit, character, be, best, way, make, real, achieve level, level performance, performance be, be inhabit, inhabit character, character be, be best, best way, way make, make real
+I:20062;346;point, life, be, less, ordinary, be, drive, home, great, appeal, film, be, tell, ordinary, life, such, unique, way, point life, life be, be less, less ordinary, ordinary be, be drive, drive home, home great, great appeal, appeal film, film be, be tell, tell ordinary, ordinary life, life such, such unique, unique way
+I:20062;347;do, film, unique, format, show, side, genius, be, do film, film unique, unique format, format show, show side, side genius, genius be
+I:20062;348;include, interview, real, other, people, be, portray, film, wife, co., worker, include interview, interview real, real other, other people, people be, be portray, portray film, film wife, wife co., co. worker
+I:20062;349;find, interesting, ordinary, guy, have, successful, comic, book, series, movie, find interesting, interesting ordinary, ordinary guy, guy have, have successful, successful comic, comic book, book series, series movie
+I:20062;350;get, mannerism, voice, emotion, get mannerism, mannerism voice, voice emotion
+I:20062;351;anyone, think, life, suck, watch, anyone, like, watch, good, movie, good, act, anyone think, think life, life suck, suck watch, watch anyone, anyone like, like watch, watch good, good movie, movie good, good act
+I:20062;352;:d, act, elevate, film, :d act, act elevate, elevate film
+I:20062;353;be, tell, direct, engage, number, level, be tell, tell direct, direct engage, engage number, number level
+I:20062;354;be, incipient, sadness, madness, watch, colorful, creative, lose, human, being, be incipient, incipient sadness, sadness madness, madness watch, watch colorful, colorful creative, creative lose, lose human, human being
+I:20062;355;other, passion, drive, love, art, music, creativity, be, record, other passion, passion drive, drive love, love art, art music, music creativity, creativity be, be record
+I:20062;356;collect, write, autobiographical, comic, help, legion, clever, artist, include, friend, collect write, write autobiographical, autobiographical comic, comic help, help legion, legion clever, clever artist, artist include, include friend
+I:20062;357;be, engage, watch, clever, smart, everyman, more, problem, anyone, deserve, have, find, way, speak, world, reveal, soul, be engage, engage watch, watch clever, clever smart, smart everyman, everyman more, more problem, problem anyone, anyone deserve, deserve have, have find, find way, way speak, speak world, world reveal, reveal soul
+I:20062;358;be, wonder, see, friend, associate, gather, round, celebrate, take, care, thing, get, grim, be wonder, wonder see, see friend, friend associate, associate gather, gather round, round celebrate, celebrate take, take care, care thing, thing get, get grim
+I:20062;359;american, be, masterful, blending, live, action, comic, book, animation, snippet, real, life, real, friend, lovely, eye, humanity, matter, life, american be, be masterful, masterful blending, blending live, live action, action comic, comic book, book animation, animation snippet, snippet real, real life, life real, real friend, friend lovely, lovely eye, eye humanity, humanity matter, matter life
+I:20062;360;movie, resonate, long, time, movie resonate, resonate long, long time
+I:20062;361;son, have, watch, love, much, son have, have watch, watch love, love much
+I:20062;362;american, splendor, splendid!should, have, win, academy, awards!great, act, american splendor, splendor splendid!should, splendid!should have, have win, win academy, academy awards!great, awards!great act
+I:20062;363;real, people, film, see, great, job, actor, do, real people, people film, film see, see great, great job, job actor, actor do
+I:20062;364;dialogue, be, clever, stay, dialogue be, be clever, clever stay
+I:20062;365;recommend, pina, colada, recommend pina, pina colada
+I:20062;366;have, be, look, be, happy, find, have be, be look, look be, be happy, happy find
+I:20062;367;price, be, right, ship, time, price be, be right, right ship, ship time
+I:20062;368;be, interesting, allow, look, reality, life, be interesting, interesting allow, allow look, look reality, reality life
+I:20062;369;real, people, life, make, comic, strip, buzz, make, regular, guest, real people, people life, life make, make comic, comic strip, strip buzz, buzz make, make regular, regular guest
+I:20062;370;give, exposure, american, splendor, free, advertising, give exposure, exposure american, american splendor, splendor free, free advertising
+I:20062;371;result, movie, blend, live, action, result movie, movie blend, blend live, live action
+I:20062;372;animation, base, american, splendor, drawing, interview, animation base, base american, american splendor, splendor drawing, drawing interview
+I:20062;373;effect, make, feel, closer, mind, creative, process, effect make, make feel, feel closer, closer mind, mind creative, creative process
+I:20062;374;be, tell, actor, get, meet, real, friend, family, be tell, tell actor, actor get, get meet, meet real, real friend, friend family
+I:20062;375;amazing, thing, be, approach, seem, gimmicky, self, amazing thing, thing be, be approach, approach seem, seem gimmicky, gimmicky self
+I:20062;376;be, moment, astounding, portrayal, doubt, authenticity, be, disorient, least, real, show, be moment, moment astounding, astounding portrayal, portrayal doubt, doubt authenticity, authenticity be, be disorient, disorient least, least real, real show
+I:20062;377;story, tell, american, be, move, story tell, tell american, american be, be move
+I:20062;378;separate, many, bretheren, save, life, be, find, outlet, choose, document, life, comic, separate many, many bretheren, bretheren save, save life, life be, be find, find outlet, outlet choose, choose document, document life, life comic
+I:20062;379;hand, decision, lead, status, underground, hero, regular, movie, subject, hand decision, decision lead, lead status, status underground, underground hero, hero regular, regular movie, movie subject
+I:20062;380;be, people, matter, deserve, voice, american, splendor, let, speak, entertaining, result, be people, people matter, matter deserve, deserve voice, voice american, american splendor, splendor let, let speak, speak entertaining, entertaining result
+I:20062;381;love, movie, american, love movie, movie american
+I:20062;382;everyday, life, be, complex, stuff, everyday life, life be, be complex, complex stuff
+I:20062;383;put, doodle, be, interesting, put doodle, doodle be, be interesting
+I:20062;384;nothing, be, funny, nothing be, be funny
+I:20062;385;biography, be, be, nominate, best, film, year, thought, biography be, be be, be nominate, nominate best, best film, film year, year thought
+I:20062;386;love, film, do, wife, love film, film do, do wife
+I:20062;387;give, best, performance, be, say, lot, give best, best performance, performance be, be say, say lot
+I:20062;388;real, star, show, be, amazing, filmmaking, style, bring, film, real star, star show, show be, be amazing, amazing filmmaking, filmmaking style, style bring, bring film
+I:20062;389;have, win, outstanding, performance, have win, win outstanding, outstanding performance
+I:20062;390;american, be, hybrid, cartoon, film, footage, effective, unique, combination, american be, be hybrid, hybrid cartoon, cartoon film, film footage, footage effective, effective unique, unique combination
+I:20062;391;american, be, illustrate, first, friend, underground, comic, icon, succession, other, artist, american be, be illustrate, illustrate first, first friend, friend underground, underground comic, comic icon, icon succession, succession other, other artist
+I:20062;392;past, year, writing, have, document, daily, life, comic, past year, year writing, writing have, have document, document daily, daily life, life comic
+I:20062;393;billing, give, terrific, support, performance, boss, do, co., worker, billing give, give terrific, terrific support, support performance, performance boss, boss do, do co., co. worker
+I:20062;394;story, be, tell, conventional, cinematography, comic, strip, interview, film, documentary, comic, story be, be tell, tell conventional, conventional cinematography, cinematography comic, comic strip, strip interview, interview film, film documentary, documentary comic
+I:20062;395;keep, sprit, comic, see, movie, meet, real, keep sprit, sprit comic, comic see, see movie, movie meet, meet real
+I:20062;396;audio, commentary, combine, personal, experience, real, character, world, technical, information, filmmaker, audio commentary, commentary combine, combine personal, personal experience, experience real, real character, character world, world technical, technical information, information filmmaker
+I:20062;397;be, largest, group, have, hear, audio, commentary, be largest, largest group, group have, have hear, hear audio, audio commentary
+I:20062;398;enjoy, watch, enjoy watch
+I:20062;399;be, above, be above
+I:20062;400;be, original, fun, be original, original fun
+I:20062;401;american, splendor, be, movie, worth, watch, american splendor, splendor be, be movie, movie worth, worth watch
+I:20062;402;call, see, say, be, worthwhile, view, wish, have, minute, life, be, say, do, call see, see say, say be, be worthwhile, worthwhile view, view wish, wish have, have minute, minute life, life be, be say, say do
+I:20062;403;paul, play, splendid, paul play, play splendid
+I:20062;404;ask, be, make, name, question, ask be, be make, make name, name question
+I:20062;405;movie, have, interesting, convention, movie have, have interesting, interesting convention
+I:20062;406;clip, real, world, folk, life, personal, commentary, be, intersperse, actor, play, story, clip real, real world, world folk, folk life, life personal, personal commentary, commentary be, be intersperse, intersperse actor, actor play, play story
+I:20062;407;display, serious, act, chop, scene, flash, rare, rare, look, hope, engagement, instant, go, usual, demeanor, pessimism, curmudgeon, display serious, serious act, act chop, chop scene, scene flash, flash rare, rare rare, rare look, look hope, hope engagement, engagement instant, instant go, go usual, usual demeanor, demeanor pessimism, pessimism curmudgeon
+I:20062;408;rest, film, stand, leave, sense, life, depressed, overcome, be, live, rest film, film stand, stand leave, leave sense, sense life, life depressed, depressed overcome, overcome be, be live
+I:20062;409;be, tale, hope, americana, be tale, tale hope, hope americana
+I:20062;410;watch, little, splendid, vision, american, watch little, little splendid, splendid vision, vision american
+I:20062;411;amazing, movie, be, best, movie, amazing movie, movie be, be best, best movie
+I:20062;412;suspect, appeal, be, generational, people, be, familiar, work, film, register, suspect appeal, appeal be, be generational, generational people, people be, be familiar, familiar work, work film, film register
+I:20062;413;be, speak, close, relative, fascinating, documentary, underground, comic, artist, whack, family, be speak, speak close, close relative, relative fascinating, fascinating documentary, documentary underground, underground comic, comic artist, artist whack, whack family
+I:20062;414;draw, meet, be, marriage, make, heaven, draw meet, meet be, be marriage, marriage make, make heaven
+I:20062;415;giamatti, be, perfect, movie, demonstrate, aplomb, interchange, scene, real, giamatti be, be perfect, perfect movie, movie demonstrate, demonstrate aplomb, aplomb interchange, interchange scene, scene real
+I:20062;416;narrate, fantastic, film, criticize, filmmaker, pick, guy, claim, look, nothing, narrate fantastic, fantastic film, film criticize, criticize filmmaker, filmmaker pick, pick guy, guy claim, claim look, look nothing
+I:20062;417;be, time, movie, be, treat, real, wife, friend, interview, format, be time, time movie, movie be, be treat, treat real, real wife, wife friend, friend interview, interview format
+I:20062;418;make, way, '80, make way, way '80
+I:20062;419;best, film, best film
+I:20062;420;be, faceless, get, be faceless, faceless get
+I:20062;421;make, timely, friendship, bud, underground, comic, artist, have, hear, publish, comic, base, own, life, become, underground, hit.you, watch, develop, relationship, marriage, comic, shop, owner, write, issue, miss, make timely, timely friendship, friendship bud, bud underground, underground comic, comic artist, artist have, have hear, hear publish, publish comic, comic base, base own, own life, life become, become underground, underground hit.you, hit.you watch, watch develop, develop relationship, relationship marriage, marriage comic, comic shop, shop owner, owner write, write issue, issue miss
+I:20062;422;be, work, hospital, file, clerk?from, street, come, be work, work hospital, hospital file, file clerk?from, clerk?from street, street come
+I:20062;423;comic, book, series, create, oh, comic book, book series, series create, create oh
+I:20062;424;movie, be, make, depict, life, time, play, movie be, be make, make depict, depict life, life time, time play
+I:20062;425;tend, keep, quiet, most, time, other, have, wonderful, time, reminisce, scene, film, be, take, comic, book, form, scene, be, write, film, tend keep, keep quiet, quiet most, most time, time other, other have, have wonderful, wonderful time, time reminisce, reminisce scene, scene film, film be, be take, take comic, comic book, book form, form scene, scene be, be write, write film
+I:20062;426;american, have, be, perform, stage, play, format, feature, film, depict, actor, actual, people, be, play, american have, have be, be perform, perform stage, stage play, play format, format feature, feature film, film depict, depict actor, actor actual, actual people, people be, be play
+I:20062;427;time, movie, break, script, show, actual, scene, footage, real, do, interview, director, studio, pure, white, background, time movie, movie break, break script, script show, show actual, actual scene, scene footage, footage real, real do, do interview, interview director, director studio, studio pure, pure white, white background
+I:20062;428;think, be, amazing, think be, be amazing
+I:20062;429;be, remarkable, film, be, happy, have, own, cherish, be remarkable, remarkable film, film be, be happy, happy have, have own, own cherish
+I:20062;430;find, amazing, comic, have, be, step, world, have, enjoy, minute, find amazing, amazing comic, comic have, have be, be step, step world, world have, have enjoy, enjoy minute
+I:20062;431;be, wonderful, writer, life, go, believe, say, ordinary, life, be, complex, stuff, be wonderful, wonderful writer, writer life, life go, go believe, believe say, say ordinary, ordinary life, life be, be complex, complex stuff
+I:20062;432;be, pleasant, surprise, exist, be pleasant, pleasant surprise, surprise exist
+I:20062;433;be, great, condition, get, be great, great condition, condition get
+I:20062;434;everyman, be, life, be, chronicle, comic, form, make, screen, everyman be, be life, life be, be chronicle, chronicle comic, comic form, form make, make screen
+I:20062;435;like, see, more, work, develop, movie, do, have, lot, say, human, condition, like see, see more, more work, work develop, develop movie, movie do, do have, have lot, lot say, say human, human condition
+I:20062;436;represent, work, person, represent work, work person
+I:20062;437;popularity, film, paperback, comic, be, print, popularity film, film paperback, paperback comic, comic be, be print
+I:20062;438;audio, commentary, add, extra, layer, great, character, audio commentary, commentary add, add extra, extra layer, layer great, great character
+I:20062;439;comic, insert, make, want, see, more, work, comic insert, insert make, make want, want see, see more, more work
+I:20062;440;be, top, movie, be, theatrical, release, be top, top movie, movie be, be theatrical, theatrical release
+I:20062;441;be, great, story, man, life, be great, great story, story man, man life
+I:20062;442;thing, happen, people, change, people, grow, movie, cover, topic, poignant, look, life, harvey, pekar, full, thing happen, happen people, people change, change people, people grow, grow movie, movie cover, cover topic, topic poignant, poignant look, look life, life harvey, harvey pekar, pekar full
+I:20062;443;characterization, be, best, year, characterization be, be best, best year
+I:20062;444;movie, make, think, movie, make, laugh, movie, make, cry, movie make, make think, think movie, movie make, make laugh, laugh movie, movie make, make cry
+I:20062;445;hope, be, do, above, deserve, accolade, hope be, be do, do above, above deserve, deserve accolade
+I:20062;446;put, category, couple, other, movie, put category, category couple, couple other, other movie
+I:20062;447;deserve, high, mark, story, tell, presentation, act, deserve high, high mark, mark story, story tell, tell presentation, presentation act
+I:20062;448;recommend, anyone, enjoy, art, film, recommend anyone, anyone enjoy, enjoy art, art film
+I:20062;449;write, act, movie, write act, act movie
+I:20062;450;best, comic, book, writer, best comic, comic book, book writer
+I:20062;451;be, amazing, comic, book, character, end, film, adaptation, be amazing, amazing comic, comic book, book character, character end, end film, film adaptation
+I:20062;452;fact, look, lot, comic, book, fact look, look lot, lot comic, comic book
+I:20062;453;chase, best, work, be, cartoonist, chase best, best work, work be, be cartoonist
+I:20062;454;truth, be, perfect, underground, artist, truth be, be perfect, perfect underground, underground artist
+I:20062;455;capitalism, find, capitalism find
+I:20062;456;friend, famous, pen, new, comic, american, next, thing, know, have, wife, regular, gig, show, friend famous, famous pen, pen new, new comic, comic american, american next, next thing, thing know, know have, have wife, wife regular, regular gig, gig show
+I:20062;457;remind, superior, film, way, geek, deal, modern, society, be, brilliant, ghost, world, remind superior, superior film, film way, way geek, geek deal, deal modern, modern society, society be, be brilliant, brilliant ghost, ghost world
+I:20062;458;great, thing, be, have, earth, story, normal, people, city, come, pathos, sense, strive, be, throb, life, great thing, thing be, be have, have earth, earth story, story normal, normal people, people city, city come, come pathos, pathos sense, sense strive, strive be, be throb, throb life
+I:20062;459;story, range, reasoning, non, story range, range reasoning, reasoning non
+I:20062;460;start, think, be, successful, work, art, stand, own, start think, think be, be successful, successful work, work art, art stand, stand own
+I:20062;461;have, real, narrator, appear, comment, kind, inner, sanctum, mix, comic, film, set, have, wonderful, actor, have real, real narrator, narrator appear, appear comment, comment kind, kind inner, inner sanctum, sanctum mix, mix comic, comic film, film set, set have, have wonderful, wonderful actor
+I:20062;462;story, be, put, story be, be put
+I:20062;463;strive, develop, art, comic, book, write, other, illustrate, strive develop, develop art, art comic, comic book, book write, write other, other illustrate
+I:20062;464;freelancer, identify, freelancer identify
+I:20062;465;laugh, feel, sympathy, laugh feel, feel sympathy
+I:20062;466;believe, work, be, regard, genuine, literature, portray, age, much, wager, do, believe work, work be, be regard, regard genuine, genuine literature, literature portray, portray age, age much, much wager, wager do
+I:20062;467;be, gifted, actor, be, anything, guy, do?he, capture, essence, soul, writer, american, splender, be gifted, gifted actor, actor be, be anything, anything guy, guy do?he, do?he capture, capture essence, essence soul, soul writer, writer american, american splender
+I:20062;468;recommend, geek, love, eccentric, character, add, movie, collection, recommend geek, geek love, love eccentric, eccentric character, character add, add movie, movie collection
+I:20062;469;certain, respects, remind, other, documentary, produce, be, unique, difficult, discuss, certain respects, respects remind, remind other, other documentary, documentary produce, produce be, be unique, unique difficult, difficult discuss
+I:20062;470;intriguing, be, steadfast, refusal, compromise, cranky, opinion, media, attract, public, attention, intriguing be, be steadfast, steadfast refusal, refusal compromise, compromise cranky, cranky opinion, opinion media, media attract, attract public, public attention
+I:20062;471;impressive, be, skill, impressive be, be skill
+I:20062;472;berman, coordinate, aforementioned, interaction, real, people, member, film, cast, berman coordinate, coordinate aforementioned, aforementioned interaction, interaction real, real people, people member, member film, film cast
+I:20062;473;begin, series, entitle, american, splendor, be, ongoing, autobiographical, narrative, draw, people, event, own, life, source, inspiration, begin series, series entitle, entitle american, american splendor, splendor be, be ongoing, ongoing autobiographical, autobiographical narrative, narrative draw, draw people, people event, event own, own life, life source, source inspiration
+I:20062;474;documentary, sort, tell, life, story, cut, stage, reenactment, event, story, interview, comment, event, documentary sort, sort tell, tell life, life story, story cut, cut stage, stage reenactment, reenactment event, event story, story interview, interview comment, comment event
+I:20062;475;american, be, offbeat, little, gem, many, way, approximate, look, style, comic, book, american be, be offbeat, offbeat little, little gem, gem many, many way, way approximate, approximate look, look style, style comic, comic book
+I:20062;476;write, direct, film, create, surrealistic, tone, have, real, friend, companion, appear, screen, next, actor, be, portray, dead, ringer, original, write direct, direct film, film create, create surrealistic, surrealistic tone, tone have, have real, real friend, friend companion, companion appear, appear screen, screen next, next actor, actor be, be portray, portray dead, dead ringer, ringer original
+I:20062;477;technique, bring, homespun, homey, sweetness, film, technique bring, bring homespun, homespun homey, homey sweetness, sweetness film
+I:20062;478;american, be, paean, social, misfit, world, people, reason, seem, fit, society, prescribe, mold, develop, strong, meaningful, bond, similar, individual, american be, be paean, paean social, social misfit, misfit world, world people, people reason, reason seem, seem fit, fit society, society prescribe, prescribe mold, mold develop, develop strong, strong meaningful, meaningful bond, bond similar, similar individual
+I:20062;479;movie, be, tribute, power, art, artist, find, purpose, release, work, work, speak, personal, emotional, level, movie be, be tribute, tribute power, power art, art artist, artist find, find purpose, purpose release, release work, work work, work speak, speak personal, personal emotional, emotional level
+I:20062;480;be, see, film, warm, good, be see, see film, film warm, warm good
+I:20062;481;emotional, focal, point, film, be, relationship, wife, play, emotional focal, focal point, point film, film be, be relationship, relationship wife, wife play
+I:20062;482;bizarre, nature, marriage, forge, lasting, commitment, base, reciprocity, devotion, bizarre nature, nature marriage, marriage forge, forge lasting, lasting commitment, commitment base, base reciprocity, reciprocity devotion
+I:20062;483;turn, flawless, performance, capture, nebbishness, cantankerousness, ultimate, likeability, man, be, portray, turn flawless, flawless performance, performance capture, capture nebbishness, nebbishness cantankerousness, cantankerousness ultimate, ultimate likeability, likeability man, man be, be portray
+I:20062;484;style, content, american, splendor, be, name, style content, content american, american splendor, splendor be, be name
+I:20062;485;find, care, people, be, battle, win, director, first, place, find care, care people, people be, be battle, battle win, win director, director first, first place
+I:20062;486;know, apraised, underground, comic, book, writer, know apraised, apraised underground, underground comic, comic book, book writer
+I:20062;487;be, play, do, great, job, be play, play do, do great, great job
+I:20062;488;movie, inventive, idea, movie inventive, inventive idea
+I:20062;489;film, be, disc, be, worth, film be, be disc, disc be, be worth
+I:20062;490;bear, chronicle, minutiae, everyday, life, file, clerk, spectacular, coincidence, meeting, comic, book, genius, be, instrumental, get, write, own, successful, graphic, novel, bear chronicle, chronicle minutiae, minutiae everyday, everyday life, life file, file clerk, clerk spectacular, spectacular coincidence, coincidence meeting, meeting comic, comic book, book genius, genius be, be instrumental, instrumental get, get write, write own, own successful, successful graphic, graphic novel
+I:20062;491;new, wife, be, hilarious, master, diagnose, people, psychiatric, disorder, new wife, wife be, be hilarious, hilarious master, master diagnose, diagnose people, people psychiatric, psychiatric disorder
+I:20062;492;innovative, entertaining, great, choice, music, pepper, film, include, final, solo, thing, parallel, real, review, jazz, album, innovative entertaining, entertaining great, great choice, choice music, music pepper, pepper film, film include, include final, final solo, solo thing, thing parallel, parallel real, real review, review jazz, jazz album
+I:20062;493;filmshot, alternate, real, wife, respective, movie, counterpart, nice, dichotomy, filmshot alternate, alternate real, real wife, wife respective, respective movie, movie counterpart, counterpart nice, nice dichotomy
+I:20062;494;be, enjoyable, movie, have, see, year, be enjoyable, enjoyable movie, movie have, have see, see year
+I:20062;495;be, hoot, underground, artist, be hoot, hoot underground, underground artist
+I:20062;496;mixture, documentary, animation, straightforward, narrative, be, innovative, thought, mixture documentary, documentary animation, animation straightforward, straightforward narrative, narrative be, be innovative, innovative thought
+I:20062;497;much, remind, film, be, mention, pass, movie, film, actor, give, accurate, performance, much remind, remind film, film be, be mention, mention pass, pass movie, movie film, film actor, actor give, give accurate, accurate performance
+I:20062;498;combination, ironic, distance, compassion, recount, subject, life, be, same, american, splendor, combination ironic, ironic distance, distance compassion, compassion recount, recount subject, subject life, life be, be same, same american, american splendor
+I:20062;499;be, more, humor, pathos, film, comic, strike, be, work, depressed, guy, be more, more humor, humor pathos, pathos film, film comic, comic strike, strike be, be work, work depressed, depressed guy
+I:20062;500;serve, narrator, appear, interview, file, footage, re, serve narrator, narrator appear, appear interview, interview file, file footage, footage re
+I:20062;501;seek, fame, find, thanks, comic, be, full, observation, life, mundane, mysterious, moment, feature, artwork, such, friend, appearance, guest, talk, show, seek fame, fame find, find thanks, thanks comic, comic be, be full, full observation, observation life, life mundane, mundane mysterious, mysterious moment, moment feature, feature artwork, artwork such, such friend, friend appearance, appearance guest, guest talk, talk show
+I:20062;502;be, enthusiastic, success, comic, book, meet, write, fan, letter, be enthusiastic, enthusiastic success, success comic, comic book, book meet, meet write, write fan, fan letter
+I:20062;503;be, good, match, other, make, other, miserable, be good, good match, match other, other make, make other, other miserable
+I:20062;504;find, premise, comic, strip, be, original, interesting, find premise, premise comic, comic strip, strip be, be original, original interesting
+I:20062;505;be, entertaining, worthwhile, film, be entertaining, entertaining worthwhile, worthwhile film
+I:20062;506;american, be, film, take, surprise, good, be, american be, be film, film take, take surprise, surprise good, good be
+I:20062;507;be, direct, duo, show, astonishing, confidence, actor, screenplay, be, work, write, be direct, direct duo, duo show, show astonishing, astonishing confidence, confidence actor, actor screenplay, screenplay be, be work, work write
+I:20062;508;confidence, be, place, act, portray, real, life, quirk, comic, book, artist, wife, many, support, role, be, pitch, perfect, confidence be, be place, place act, act portray, portray real, real life, life quirk, quirk comic, comic book, book artist, artist wife, wife many, many support, support role, role be, be pitch, pitch perfect
+I:20062;509;worry, feature, documentary, segment, real, friend, give, film, second, intriguing, layer, worry feature, feature documentary, documentary segment, segment real, real friend, friend give, give film, film second, second intriguing, intriguing layer
+I:20062;510;much, confidence, do, take, show, segment, actor, portray, real, life, man, pekar, walk, door, other, side, door, be, cut, real, life, video, footage, man, much confidence, confidence do, do take, take show, show segment, segment actor, actor portray, portray real, real life, life man, man pekar, pekar walk, walk door, door other, other side, side door, door be, be cut, cut real, real life, life video, video footage, footage man
+I:20062;511;whole, lot, confidence, whole lot, lot confidence
+I:20062;512;seem, take, challenge, stride, comedic, ability, mention, wonderful, seem take, take challenge, challenge stride, stride comedic, comedic ability, ability mention, mention wonderful
+I:20062;513;take, element, add, actual, cartoon, portion, inspire, illustration, original, american, splendor, comic, book, have, imaginative, comic, tale, imaginative, comic, man, take element, element add, add actual, actual cartoon, cartoon portion, portion inspire, inspire illustration, illustration original, original american, american splendor, splendor comic, comic book, book have, have imaginative, imaginative comic, comic tale, tale imaginative, imaginative comic, comic man
+I:20062;514;fantastic, reason, fantastic reason
+I:20062;515;entertaining, original, film, past, year, entertaining original, original film, film past, past year
+I:20062;516;actual, narrate, film, be, film, scene, be, hilarious, camera, take, viewer, occasional, brief, interview, actual narrate, narrate film, film be, be film, film scene, scene be, be hilarious, hilarious camera, camera take, take viewer, viewer occasional, occasional brief, brief interview
+I:20062;517;do, outstanding, job, wife, do outstanding, outstanding job, job wife
+I:20062;518;know, reason, film, be, celebrate, unique, point, know reason, reason film, film be, be celebrate, celebrate unique, unique point
+I:20062;519;success, be, new, class, film, school, art, waste, screen, success be, be new, new class, class film, film school, school art, art waste, waste screen
+I:20062;520;love, true, life, story, ordinary, life, love true, true life, life story, story ordinary, ordinary life
+I:20062;521;everyone, be, able, identify, part, pathetic, life, everyone be, be able, able identify, identify part, part pathetic, pathetic life
+I:20062;522;truth, comic, movie, enable, everyone, stand, laugh, truth comic, comic movie, movie enable, enable everyone, everyone stand, stand laugh
+I:20062;523;be, good, medicine, ego, be good, good medicine, medicine ego
+I:20062;524;best, part, american, be, combination, actor, real, life, people, cartoon, bring, life, best part, part american, american be, be combination, combination actor, actor real, real life, life people, people cartoon, cartoon bring, bring life
+I:20062;525;director, use, imaginative, technique, bring, element, be, do, director use, use imaginative, imaginative technique, technique bring, bring element, element be, be do
+I:20062;526;director, stlye, film, be, director stlye, stlye film, film be
+I:20062;527;act, film, be, top, notch, actor, be, play, real, person, be, easy, compare, have, do, real, people, appear, film, act film, film be, be top, top notch, notch actor, actor be, be play, play real, real person, person be, be easy, easy compare, compare have, have do, do real, real people, people appear, appear film
+I:20062;528;inventive, decent, movie, have, earn, star, have, know, life, watch, movie, inventive decent, decent movie, movie have, have earn, earn star, star have, have know, know life, life watch, watch movie
+I:20062;529;be, lot, insightful, review, agree, one, talk, film, strength, be lot, lot insightful, insightful review, review agree, agree one, one talk, talk film, film strength
+I:20062;530;paul, give, outstanding, performance, paul give, give outstanding, outstanding performance
+I:20062;531;deserve, best, sexiest, nerd, get, have, deserve best, best sexiest, sexiest nerd, nerd get, get have
+I:20062;532;relate, good, deal, person, relate good, good deal, deal person
+I:20062;533;movie, show, fact, appear, be, loser, same, time, be, absolute, winner, movie show, show fact, fact appear, appear be, be loser, loser same, same time, time be, be absolute, absolute winner
+I:20062;534;american, be, enjoyable, make, american be, be enjoyable, enjoyable make
+I:20062;535;romantic, ephinany, best, work, romantic ephinany, ephinany best, best work
+I:20062;536;filmmaker, deserve, credit, invite, think, artifice, film, example, scene, actor, interact, real, people, portray, scene, reveal, extent, film, glamorize, circle, make, audience, friendly, other, word, more, reassurring, fantasy, movie, audience, be, accustom, filmmaker deserve, deserve credit, credit invite, invite think, think artifice, artifice film, film example, example scene, scene actor, actor interact, interact real, real people, people portray, portray scene, scene reveal, reveal extent, extent film, film glamorize, glamorize circle, circle make, make audience, audience friendly, friendly other, other word, word more, more reassurring, reassurring fantasy, fantasy movie, movie audience, audience be, be accustom
+I:20062;537;be, excellent, be excellent
+I:20062;538;be, fine, actress, miscast, be fine, fine actress, actress miscast
+I:20062;539;profound, sense, be, remote, world, profound sense, sense be, be remote, remote world
+I:20062;540;be, underlying, point, film, know, do, make, wife, enjoy, film, be underlying, underlying point, point film, film know, know do, do make, make wife, wife enjoy, enjoy film
+I:20062;541;only, compliment, bestow, film, be, be, cast, only compliment, compliment bestow, bestow film, film be, be be, be cast
+I:20062;542;be, strong, engaging, character, be, best, be strong, strong engaging, engaging character, character be, be best
+I:20062;543;movie, worth, see, movie worth, worth see
+I:20062;544;have, know, be, have know, know be
+I:20062;545;title, american, splendor, offer, unique, account, life, man, make, be, work, file, clerk, local, hospital, title american, american splendor, splendor offer, offer unique, unique account, account life, life man, man make, make be, be work, work file, file clerk, clerk local, local hospital
+I:20062;546;thing, be, tell, film, be, curious, blend, fiction, non, thing be, be tell, tell film, film be, be curious, curious blend, blend fiction, fiction non
+I:20062;547;day, meet, future, underground, comic, genius, be, know, design, album, cheap, thrill, day meet, meet future, future underground, underground comic, comic genius, genius be, be know, know design, design album, album cheap, cheap thrill
+I:20062;548;collaboration, american, splendor, bring, unexpected, thing, life, be, fan, comic, come, meet, marry, collaboration american, american splendor, splendor bring, bring unexpected, unexpected thing, thing life, life be, be fan, fan comic, comic come, come meet, meet marry
+I:20062;549;rimmed, glass, be, charm, film, hold, own, messy, room, rimmed glass, glass be, be charm, charm film, film hold, hold own, own messy, messy room
+I:20062;550;appear, short, time, give, strong, impression, be, character, appear short, short time, time give, give strong, strong impression, impression be, be character
+I:20062;551;greatest, thing, american, splendor, be, succeed, show, personality, people, much, dramatize, greatest thing, thing american, american splendor, splendor be, be succeed, succeed show, show personality, personality people, people much, much dramatize
+I:20062;552;be, part, charm, film, affirm, value, life, be part, part charm, charm film, film affirm, affirm value, value life
+I:20062;553;character, depict, be, genuine, one, character depict, depict be, be genuine, genuine one
+I:20062;554;paul, be, superb, do, seem, have, change, paul be, be superb, superb do, do seem, seem have, have change
+I:20062;555;brilliant, be, undergo, perfect, transformation, show, uncanny, resemblance, real, brilliant be, be undergo, undergo perfect, perfect transformation, transformation show, show uncanny, uncanny resemblance, resemblance real
+I:20062;556;american, splendor, give, chance, meet, make, think, thin, line, ordinary, extraordinary, american splendor, splendor give, give chance, chance meet, meet make, make think, think thin, thin line, line ordinary, ordinary extraordinary
+I:20062;557;be, intriguing, piece, cinema, be intriguing, intriguing piece, piece cinema
+I:20062;558;be, million, people, live, life, similar, be million, million people, people live, live life, life similar
+I:20062;559;pull, wonderful, performance, catch, nuance, seem, be, exact, version, year, pull wonderful, wonderful performance, performance catch, catch nuance, nuance seem, seem be, be exact, exact version, version year
+I:20062;560;enjoy, film, enjoy film
+I:20062;561;life, be, inspiration, art, art, have, become, life, life be, be inspiration, inspiration art, art art, art have, have become, become life
+I:20062;562;enjoy, film, illustrate, be, unique, person, rugged, exterior, lie, substance, worth, enjoy film, film illustrate, illustrate be, be unique, unique person, person rugged, rugged exterior, exterior lie, lie substance, substance worth
+I:20062;563;be, beauty, be, splendid, be beauty, beauty be, be splendid
+I:20062;564;early, understand, take, role, be, picky, act, career, early understand, understand take, take role, role be, be picky, picky act, act career
+I:20062;565;film, smart, people, film smart, smart people
+I:20062;566;best, film, year, hand, best film, film year, year hand
+I:20062;567;be, brilliant, be brilliant
+I:20062;568;adapt, comic, book, series, silver, screen, be, real, feast, eye, more, expect, adapt comic, comic book, book series, series silver, silver screen, screen be, be real, real feast, feast eye, eye more, more expect
+I:20062;569;life, be, examine, intriguing, mixture, biographical, element, surrealism, mixed, media, documentary, interview, dramatisation, animation, dry, unconventional, humour, better, utilise, film, accumulate, satisfying, package, frustrated, lonely, everyman, something, special, life be, be examine, examine intriguing, intriguing mixture, mixture biographical, biographical element, element surrealism, surrealism mixed, mixed media, media documentary, documentary interview, interview dramatisation, dramatisation animation, animation dry, dry unconventional, unconventional humour, humour better, better utilise, utilise film, film accumulate, accumulate satisfying, satisfying package, package frustrated, frustrated lonely, lonely everyman, everyman something, something special
+I:20062;570;character, be, hilarious, intriguing, use, phrase, man, bit, funnier, see, documentary, twist, character be, be hilarious, hilarious intriguing, intriguing use, use phrase, phrase man, man bit, bit funnier, funnier see, see documentary, documentary twist
+I:20062;571;key, element, jazz, music, act, be, make, independent, film, respected, be, show, comic, book, series, film, adaptation, give, name, comic, book, childish, underprivileged, name, key element, element jazz, jazz music, music act, act be, be make, make independent, independent film, film respected, respected be, be show, show comic, comic book, book series, series film, film adaptation, adaptation give, give name, name comic, comic book, book childish, childish underprivileged, underprivileged name
+I:20062;572;be, funny, many, part, be, tragic, be, quirky, many, level, be, categorise, thing, be funny, funny many, many part, part be, be tragic, tragic be, be quirky, quirky many, many level, level be, be categorise, categorise thing
+I:20062;573;solution, be, write, comic, book, daily, ordeal, thought, solution be, be write, write comic, comic book, book daily, daily ordeal, ordeal thought
+I:20062;574;love, character, real, love character, character real
+I:20062;575;life, fictionalized, part, contribute, ultimate, love, admiration, film, life fictionalized, fictionalized part, part contribute, contribute ultimate, ultimate love, love admiration, admiration film
+I:20062;576;documentary, have, be, get, creative, last, several, year, american, splendor, be, creative, engaging, documentary have, have be, be get, get creative, creative last, last several, several year, year american, american splendor, splendor be, be creative, creative engaging
+I:20062;577;mix, dramatization, documentary, such, play, prepare, first, appearance, see, actual, television, set, be, interview, mix dramatization, dramatization documentary, documentary such, such play, play prepare, prepare first, first appearance, appearance see, see actual, actual television, television set, set be, be interview
+I:20062;578;film, capture, essence, underground, comic, least, comic, indicate, personality, creator, film capture, capture essence, essence underground, underground comic, comic least, least comic, comic indicate, indicate personality, personality creator
+I:20062;579;gruff, man, genuine, emotion, simple, need, come, misfit, hero, anyone, sympathize, gruff man, man genuine, genuine emotion, emotion simple, simple need, need come, come misfit, misfit hero, hero anyone, anyone sympathize
+I:20062;580;final, testament, subject, matter, film, be, handle, be, scenario, involve, life, final testament, testament subject, subject matter, matter film, film be, be handle, handle be, be scenario, scenario involve, involve life
+I:20062;581;threaten, illness, filmmaker, actor, do, great, job, treat, appropriate, gravity, fall, trap, threaten illness, illness filmmaker, filmmaker actor, actor do, do great, great job, job treat, treat appropriate, appropriate gravity, gravity fall, fall trap
+I:20062;582;excellent, film, deserve, more, underground, audience, excellent film, film deserve, deserve more, more underground, underground audience
+I:20062;583;cry, desperation, find, creative, outlet, create, comic, book, day, up, downs, life, cry desperation, desperation find, find creative, creative outlet, outlet create, create comic, comic book, book day, day up, up downs, downs life
+I:20062;584;venture, satire, own, life, document, own, battle, cancer, other, life, change, venture satire, satire own, own life, life document, document own, own battle, battle cancer, cancer other, other life, life change
+I:20062;585;act, capture, mannerism, gruffness, see, cut, act capture, capture mannerism, mannerism gruffness, gruffness see, see cut
+I:20062;586;be, funny, movie, be funny, funny movie
+I:20062;587;enjoy, cinematography, direction, enjoy cinematography, cinematography direction
+I:20062;588;1970, story, be, spice, cut, 1970 story, story be, be spice, spice cut
+I:20062;589;real, narrate, story, sound, stage, have, comic, book, feel, real narrate, narrate story, story sound, sound stage, stage have, have comic, comic book, book feel
+I:20062;590;be, relatable, endearing, be relatable, relatable endearing
+I:20062;591;create, own, hope, create own, own hope
+I:20062;592;money, make, better, movie, money make, make better, better movie

@@ -1,0 +1,528 @@
+I:512;1;viewer, write, storyline, viewer write, write storyline
+I:512;2;acting, be, brilliant, see, cold, untouchable, father, unwilling, bend, acting be, be brilliant, brilliant see, see cold, cold untouchable, untouchable father, father unwilling, unwilling bend
+I:512;3;child, actor, be, amazing, age, child actor, actor be, be amazing, amazing age
+I:512;4;much, emotion, exude, little, face, much, young, boy, endure, much emotion, emotion exude, exude little, little face, face much, much young, young boy, boy endure
+I:512;5;doubt, have, see, movie, torment, mysterious, thrilling, provide, such, little, detail, doubt have, have see, see movie, movie torment, torment mysterious, mysterious thrilling, thrilling provide, provide such, such little, little detail
+I:512;6;best, one, do, be, pick, clue, behavior, best one, one do, do be, be pick, pick clue, clue behavior
+I:512;7;outdoors, camping, be, see, outdoors camping, camping be, be see
+I:512;8;be, element, adventure, be element, element adventure
+I:512;9;get, explore, russian, culture, get explore, explore russian, russian culture
+I:512;10;see, film, be, best, film, week, see film, film be, be best, best film, film week
+I:512;11;be, film, beautiful, location, city, be film, film beautiful, beautiful location, location city
+I:512;12;more, end, director, doesnt, give, answer, be, figure, happen, do, happen, more end, end director, director doesnt, doesnt give, give answer, answer be, be figure, figure happen, happen do, do happen
+I:512;13;see, religious, film, film, new, old, film, brother, have, father, day, come, show, important, thing, help, survive, life, see religious, religious film, film film, film new, new old, old film, film brother, brother have, have father, father day, day come, come show, show important, important thing, thing help, help survive, survive life
+I:512;14;great, directing, great, story, great, acting, great, photography, great directing, directing great, great story, story great, great acting, acting great, great photography
+I:512;15;rate, film, star, liken, prepared, meal, be, perfection, do, satisfy, rate film, film star, star liken, liken prepared, prepared meal, meal be, be perfection, perfection do, do satisfy
+I:512;16;camera, work, be, superb, be, character, portrayal, fine, actor, camera work, work be, be superb, superb be, be character, character portrayal, portrayal fine, fine actor
+I:512;17;come, age, theme, be, punctuate, thought, come age, age theme, theme be, be punctuate, punctuate thought
+I:512;18;believe, significant, point, movie, be, matter, paternal, influence, viewer, have, experience, touch, nerve, believe significant, significant point, point movie, movie be, be matter, matter paternal, paternal influence, influence viewer, viewer have, have experience, experience touch, touch nerve
+I:512;19;be, great, movie, be great, great movie
+I:512;20;become, immerse, story, line, feel, brother, dad, become immerse, immerse story, story line, line feel, feel brother, brother dad
+I:512;21;take, go, camping, trip, character, be, open, full, take go, go camping, camping trip, trip character, character be, be open, open full
+I:512;22;development, character, be, consistent, development character, character be, be consistent
+I:512;23;fine, first, film, russian, director, fine first, first film, film russian, russian director
+I:512;24;symbolism, be, bit, heavy, handed, father, be, sort, devious, figure, be, fine, movie, symbolism be, be bit, bit heavy, heavy handed, handed father, father be, be sort, sort devious, devious figure, figure be, be fine, fine movie
+I:512;25;be, move, touch, be move, move touch
+I:512;26;favorite, film, year, take, time, explore, facet, character, favorite film, film year, year take, take time, time explore, explore facet, facet character
+I:512;27;be, affect, trip, struggle, own, perception, man, call, father, be affect, affect trip, trip struggle, struggle own, own perception, perception man, man call, call father
+I:512;28;find, move, film, be, try, force, emotion, find move, move film, film be, be try, try force, force emotion
+I:512;29;shy, easy, answer, have, be, lot, talk, end, be, ambiguous, ambiguity, be, make, film, poignant, broader, range, emotional, entitlement, be, allow, shy easy, easy answer, answer have, have be, be lot, lot talk, talk end, end be, be ambiguous, ambiguous ambiguity, ambiguity be, be make, make film, film poignant, poignant broader, broader range, range emotional, emotional entitlement, entitlement be, be allow
+I:512;30;be, clueless, father, be, anger, frustration, resentment, malice, be, wrap, undeniable, love, affection, be clueless, clueless father, father be, be anger, anger frustration, frustration resentment, resentment malice, malice be, be wrap, wrap undeniable, undeniable love, love affection
+I:512;31;present, audience, honest, grip, exploration, bond, father, son, vozvrashchenie, nail, everything, need, cement, mind, audience, present audience, audience honest, honest grip, grip exploration, exploration bond, bond father, father son, son vozvrashchenie, vozvrashchenie nail, nail everything, everything need, need cement, cement mind, mind audience
+I:512;32;flawless, performance, lead, be, illuminate, beautiful, camera, work, gritty, realism, bring, stunning, cinematography, be, effective, poignant, provocative, script, flawless performance, performance lead, lead be, be illuminate, illuminate beautiful, beautiful camera, camera work, work gritty, gritty realism, realism bring, bring stunning, stunning cinematography, cinematography be, be effective, effective poignant, poignant provocative, provocative script
+I:512;33;be, incredible, film, layer, layer, meaning, interpretation, be incredible, incredible film, film layer, layer layer, layer meaning, meaning interpretation
+I:512;34;be, prosaic, reason, wife, come, be prosaic, prosaic reason, reason wife, wife come
+I:512;35;see, brilliant, revelation, see brilliant, brilliant revelation
+I:512;36;be, genius, crew, have, layer, have, talk, interpret, re, be genius, genius crew, crew have, have layer, layer have, have talk, talk interpret, interpret re
+I:512;37;have, come, intention, wax, poetic, act, skill, younger, son, play, have come, come intention, intention wax, wax poetic, poetic act, act skill, skill younger, younger son, son play
+I:512;38;be, brilliant, way, state, be brilliant, brilliant way, way state
+I:512;39;film, be, shoot, unsurpassed, attention, beauty, cadre, film be, be shoot, shoot unsurpassed, unsurpassed attention, attention beauty, beauty cadre
+I:512;40;cinematography, be, masterful, traditional, way, remind, many, observe, nothing, new, wave, cinematography be, be masterful, masterful traditional, traditional way, way remind, remind many, many observe, observe nothing, nothing new, new wave
+I:512;41;be, amazing, think, russian, director, know, eternal, picture, be amazing, amazing think, think russian, russian director, director know, know eternal, eternal picture
+I:512;42;film, be, enigmatic, treasure, father, dig, remote, island, disappear, departure, film be, be enigmatic, enigmatic treasure, treasure father, father dig, dig remote, remote island, island disappear, disappear departure
+I:512;43;do, say, itjust, beautiful, story, landscape, photography, do say, say itjust, itjust beautiful, beautiful story, story landscape, landscape photography
+I:512;44;surprising, acting, boy, surprising acting, acting boy
+I:512;45;think, be, verysimple, imaginative, plot, think be, be verysimple, verysimple imaginative, imaginative plot
+I:512;46;time, film, move, be, asleeper, climax, stunned, time film, film move, move be, be asleeper, asleeper climax, climax stunned
+I:512;47;father, be, redeem, end, andquestion, love, boysseem, answer, father be, be redeem, redeem end, end andquestion, andquestion love, love boysseem, boysseem answer
+I:512;48;have, be, disaster, end, make, movie, beautiful, haunting, have be, be disaster, disaster end, end make, make movie, movie beautiful, beautiful haunting
+I:512;49;have, be, annoying, distracting, work, terrific, way, have be, be annoying, annoying distracting, distracting work, work terrific, terrific way
+I:512;50;emotional, aspect, triois, nail, bite, emotional aspect, aspect triois, triois nail, nail bite
+I:512;51;like, creative, originality, director, like creative, creative originality, originality director
+I:512;52;be, prepare, question, lot, end, movie, be prepare, prepare question, question lot, lot end, end movie
+I:512;53;say, be, say be
+I:512;54;agree, number, many, viewer, other, formum, be, movie, need, be, see, year, agree number, number many, many viewer, viewer other, other formum, formum be, be movie, movie need, need be, be see, see year
+I:512;55;make, remember, be, real, value, be, man, life, make remember, remember be, be real, real value, value be, be man, man life
+I:512;56;few, interesting, post, few interesting, interesting post
+I:512;57;wonderful, acting, late, wonderful acting, acting late
+I:512;58;shoot, understate, fashion, shoot understate, understate fashion
+I:512;59;minimalism, best, uncharacteristic, most, post, minimalism best, best uncharacteristic, uncharacteristic most, most post
+I:512;60;stumble, russian, film, be, surprise, stumble russian, russian film, film be, be surprise
+I:512;61;be, do, have, watch, sheer, pleasure, cinematography, compelling, story, be do, do have, have watch, watch sheer, sheer pleasure, pleasure cinematography, cinematography compelling, compelling story
+I:512;62;stylish, solid, film, stylish solid, solid film
+I:512;63;music, sound, effect, be, hunting, acting, be, spellbinding, kid, music sound, sound effect, effect be, be hunting, hunting acting, acting be, be spellbinding, spellbinding kid
+I:512;64;be, film, first, time, director, father, son, be film, film first, first time, time director, director father, father son
+I:512;65;absorb, riveting, thrilling, leave, many, question, ask, absorb riveting, riveting thrilling, thrilling leave, leave many, many question, question ask
+I:512;66;film, be, watch, find, many, metaphor, reference, become, spiritual, journey, film be, be watch, watch find, find many, many metaphor, metaphor reference, reference become, become spiritual, spiritual journey
+I:512;67;be, sure, young, director, be, much, inspire, great, master, cinema, be sure, sure young, young director, director be, be much, much inspire, inspire great, great master, master cinema
+I:512;68;return, be, nothing, short, masterpiece, return be, be nothing, nothing short, short masterpiece
+I:512;69;time, resemble, frozen, video, beautiful, shot, linger, few, seconds, quiet, tense, atmosphere, speak, tension, character, make, intriguing, film, time resemble, resemble frozen, frozen video, video beautiful, beautiful shot, shot linger, linger few, few seconds, seconds quiet, quiet tense, tense atmosphere, atmosphere speak, speak tension, tension character, character make, make intriguing, intriguing film
+I:512;70;mystery, father, return, draw, finish, film, end, spite, lull, action, mystery father, father return, return draw, draw finish, finish film, film end, end spite, spite lull, lull action
+I:512;71;be, invest, son, play, talented, young, actor, want, see, story, play, be invest, invest son, son play, play talented, talented young, young actor, actor want, want see, see story, story play
+I:512;72;be, look, beautiful, postcard, glimpse, complicated, workings, father, be look, look beautiful, beautiful postcard, postcard glimpse, glimpse complicated, complicated workings, workings father
+I:512;73;son, relationship, check, film, son relationship, relationship check, check film
+I:512;74;movie, be, direct, acting, be, good, movie be, be direct, direct acting, acting be, be good
+I:512;75;believable, movie, insightful, human, behavior, be, sad, movie, message, believable movie, movie insightful, insightful human, human behavior, behavior be, be sad, sad movie, movie message
+I:512;76;act, younger, boy, movie, be, excellent, act younger, younger boy, boy movie, movie be, be excellent
+I:512;77;say, be, worth, watch, act, excellent, visual, russian, countryside, say be, be worth, worth watch, watch act, act excellent, excellent visual, visual russian, russian countryside
+I:512;78;have, simple, storyline, spare, dialogue, take, have simple, simple storyline, storyline spare, spare dialogue, dialogue take
+I:512;79;be, way, say, be, art, film, be way, way say, say be, be art, art film
+I:512;80;film, affect, film affect
+I:512;81;be, odd, poignant, spend, lot, time, small, rowboat, be odd, odd poignant, poignant spend, spend lot, lot time, time small, small rowboat
+I:512;82;be, compelling, actor, face, be, fascinating, canvas, stubbornness, humor, hope, be compelling, compelling actor, actor face, face be, be fascinating, fascinating canvas, canvas stubbornness, stubbornness humor, humor hope
+I:512;83;brother, give, bravura, performance, brother give, give bravura, bravura performance
+I:512;84;fill, element, great, film, have, fill element, element great, great film, film have
+I:512;85;young, actor, be, talent, be, year, young actor, actor be, be talent, talent be, be year
+I:512;86;movie, build, relationship, antagonist, movie build, build relationship, relationship antagonist
+I:512;87;consider, term, appreciate, movie, consider term, term appreciate, appreciate movie
+I:512;88;best, sum, classic, russian, tragedy, best sum, sum classic, classic russian, russian tragedy
+I:512;89;have, be, real, film, have be, be real, real film
+I:512;90;step, humanity, project, whisper, heart, tickle, intellect, step humanity, humanity project, project whisper, whisper heart, heart tickle, tickle intellect
+I:512;91;want, confirmation, film, worth, watch, making, cast, dedicated, professional, risk, work, craft, want confirmation, confirmation film, film worth, worth watch, watch making, making cast, cast dedicated, dedicated professional, professional risk, risk work, work craft
+I:512;92;menacing, uplifting, film, menacing uplifting, uplifting film
+I:512;93;youngest, boy, be, superb, role, youngest boy, boy be, be superb, superb role
+I:512;94;everyone, film, be, believable, everyone film, film be, be believable
+I:512;95;regret, get, regret get
+I:512;96;act, beautiful, scenery, act beautiful, beautiful scenery
+I:512;97;thoughtful, draw, story, thoughtful draw, draw story
+I:512;98;be, interesting, story, see, area, keep, intrest, be interesting, interesting story, story see, see area, area keep, keep intrest
+I:512;99;story, line, be, amazing, complex, story line, line be, be amazing, amazing complex
+I:512;100;find, be, hold, unresolved, issue, concern, wife, son, money, find be, be hold, hold unresolved, unresolved issue, issue concern, concern wife, wife son, son money
+I:512;101;foreign, film, be, do, foreign film, film be, be do
+I:512;102;love, hate, draw, thin, line, haunting, movie, love hate, hate draw, draw thin, thin line, line haunting, haunting movie
+I:512;103;guy, play, be, good, guy play, play be, be good
+I:512;104;be, do, true, story, be do, do true, true story
+I:512;105;end, take, breath, end take, take breath
+I:512;106;lot, discuss, easy, answer, lot discuss, discuss easy, easy answer
+I:512;107;be, subtitle, help, reading, skill, be subtitle, subtitle help, help reading, reading skill
+I:512;108;dramatic, slice, life, modern, day, rural, characterize, exceptional, child, dramatic slice, slice life, life modern, modern day, day rural, rural characterize, characterize exceptional, exceptional child
+I:512;109;other, viewer, compare, such, be, spot, other viewer, viewer compare, compare such, such be, be spot
+I:512;110;movie, be, aesthetic, experience, sparse, plot, drive, actor, performance, cinematography, be, sublime, movie be, be aesthetic, aesthetic experience, experience sparse, sparse plot, plot drive, drive actor, actor performance, performance cinematography, cinematography be, be sublime
+I:512;111;have, something, do, permafrost, vodka, horde, gulag, have something, something do, do permafrost, permafrost vodka, vodka horde, horde gulag
+I:512;112;other, people, have, come, idea, be, hit, man, burglar, russian, gangster, other people, people have, have come, come idea, idea be, be hit, hit man, man burglar, burglar russian, russian gangster
+I:512;113;call, tough, love, be, necessary, survive, real, world, unrealistic, impractical, american, t., series, know, best, call tough, tough love, love be, be necessary, necessary survive, survive real, real world, world unrealistic, unrealistic impractical, impractical american, american t., t. series, series know, know best
+I:512;114;end, be, open, interpretation, give, take, end be, be open, open interpretation, interpretation give, give take
+I:512;115;cinematography, draw, viewer, film, visual, art, cinematography draw, draw viewer, viewer film, film visual, visual art
+I:512;116;script, develop, character, surprising, twist, script develop, develop character, character surprising, surprising twist
+I:512;117;musical, score, have, enough, influence, feel, emotion, character, situation, musical score, score have, have enough, enough influence, influence feel, feel emotion, emotion character, character situation
+I:512;118;film, cover, slice, time, character, life, leave, conclusion, imagination, film cover, cover slice, slice time, time character, character life, life leave, leave conclusion, conclusion imagination
+I:512;119;be, great, film, watch, capture, more, landscape, building, character, be great, great film, film watch, watch capture, capture more, more landscape, landscape building, building character
+I:512;120;let, start, fact, love, foreign, film, let start, start fact, fact love, love foreign, foreign film
+I:512;121;be, best, film, have, see, long, time, be best, best film, film have, have see, see long, long time
+I:512;122;everything, be, fantastic, everything be, be fantastic
+I:512;123;stunning, cinematography, direction, gripping, storyline, make, best, film, last, few, year, stunning cinematography, cinematography direction, direction gripping, gripping storyline, storyline make, make best, best film, film last, last few, few year
+I:512;124;line, film, be, familiar, line film, film be, be familiar
+I:512;125;whole, system, suck, wind, whole system, system suck, suck wind
+I:512;126;many, give, many, year, move, life, many give, give many, many year, year move, move life
+I:512;127;see, film, good, return, see, better, film, act, dialogue, be, prefer, movie, musical, score, notice, song, have, have, collection, see film, film good, good return, return see, see better, better film, film act, act dialogue, dialogue be, be prefer, prefer movie, movie musical, musical score, score notice, notice song, song have, have have, have collection
+I:512;128;movie, be, few, movie, give, grade, do, give, many, movie be, be few, few movie, movie give, give grade, grade do, do give, give many
+I:512;129;be, breathtaking, scenery, capture, blues, grey, life, fall, red, communism, be breathtaking, breathtaking scenery, scenery capture, capture blues, blues grey, grey life, life fall, fall red, red communism
+I:512;130;see, film, appreciate, art, motion, picture, see film, film appreciate, appreciate art, art motion, motion picture
+I:512;131;many, way, movie, reflect, classical, russian, tragedy, futility, love, presence, miscommunication, tendency, escalation, bravado, ache, human, desire, be, accept, many way, way movie, movie reflect, reflect classical, classical russian, russian tragedy, tragedy futility, futility love, love presence, presence miscommunication, miscommunication tendency, tendency escalation, escalation bravado, bravado ache, ache human, human desire, desire be, be accept
+I:512;132;end, surprise, know, boy, grow, lot, wiser, trip, end surprise, surprise know, know boy, boy grow, grow lot, lot wiser, wiser trip
+I:512;133;act, direction, cinematography, act direction, direction cinematography
+I:512;134;director, take, chance, be, be, best, expense, mainstream, audience, director take, take chance, chance be, be be, be best, best expense, expense mainstream, mainstream audience
+I:512;135;free, be, full, surprise, free be, be full, full surprise
+I:512;136;be, democracy, be, strong, be democracy, democracy be, be strong
+I:512;137;film, be, do, artistic, film be, be do, do artistic
+I:512;138;setting, whole, movie, be, dark, make, move, suspenseful, setting whole, whole movie, movie be, be dark, dark make, make move, move suspenseful
+I:512;139;movie, real, life, movie real, real life
+I:512;140;have, watch, film, russian, class, film, study, have, agree, other, post, youngest, boy, film, act, have watch, watch film, film russian, russian class, class film, film study, study have, have agree, agree other, other post, post youngest, youngest boy, boy film, film act
+I:512;141;naturalistic, meaning, realistic, portrayal, dysfunctional, relationship, stern, father, young, son, naturalistic meaning, meaning realistic, realistic portrayal, portrayal dysfunctional, dysfunctional relationship, relationship stern, stern father, father young, young son
+I:512;142;excellent, exploration, psychology, think, process, character, excellent exploration, exploration psychology, psychology think, think process, process character
+I:512;143;great, show, want, induce, ennui, depression, great show, show want, want induce, induce ennui, ennui depression
+I:512;144;love, know, first, time, director, take, less, turn, something, beautiful, haunting, love know, know first, first time, time director, director take, take less, less turn, turn something, something beautiful, beautiful haunting
+I:512;145;be, ton, director, work, whole, career, come, make, movie, good, have, less, be ton, ton director, director work, work whole, whole career, career come, come make, make movie, movie good, good have, have less
+I:512;146;be, man, few, word, second, day, take, boy, road, day, fishing, trip, be man, man few, few word, word second, second day, day take, take boy, boy road, road day, day fishing, fishing trip
+I:512;147;be, better, let, tense, mount, tell, watch, youngest, brother, play, be better, better let, let tense, tense mount, mount tell, tell watch, watch youngest, youngest brother, brother play
+I:512;148;make, boy, sixth, sense, look, red, make boy, boy sixth, sixth sense, sense look, look red
+I:512;149;good, acting, weird, story, line, enough, suspense, want, sit, good acting, acting weird, weird story, story line, line enough, enough suspense, suspense want, want sit
+I:512;150;think, acting, be, good, think acting, acting be, be good
+I:512;151;like, youngest, boy, like youngest, youngest boy
+I:512;152;think, do, great, job, believable, angry, kid, think do, do great, great job, job believable, believable angry, angry kid
+I:512;153;be, do, film, be do, do film
+I:512;154;astute, mysterious, tension, be, unrelent, time, astute mysterious, mysterious tension, tension be, be unrelent, unrelent time
+I:512;155;heartbreaking, story, beautiful, image, heartbreaking story, story beautiful, beautiful image
+I:512;156;story, brother, brief, chance, relationship, father, have, be, myth, most, life, story brother, brother brief, brief chance, chance relationship, relationship father, father have, have be, be myth, myth most, most life
+I:512;157;absence, year, father, return, take, unexpected, camping, trip, absence year, year father, father return, return take, take unexpected, unexpected camping, camping trip
+I:512;158;film, be, make, director, be, talented, way, put, film, film be, be make, make director, director be, be talented, talented way, way put, put film
+I:512;159;actor, be, amazing, actor be, be amazing
+I:512;160;recommend, film, recommend film
+I:512;161;interesting, tale, relationship, estrange, father, son, surprising, ending, interesting tale, tale relationship, relationship estrange, estrange father, father son, son surprising, surprising ending
+I:512;162;good, psychological, tale, oedipal, implication, good psychological, psychological tale, tale oedipal, oedipal implication
+I:512;163;year, absence, father, young, boy, return, home, year absence, absence father, father young, young boy, boy return, return home
+I:512;164;make, foreign, film, special, be, be, original, experience, make foreign, foreign film, film special, special be, be be, be original, original experience
+I:512;165;director, have, give, fine, psychological, thriller, director have, have give, give fine, fine psychological, psychological thriller
+I:512;166;look, feel, return, be, something, do, see, today, american, thriller, look feel, feel return, return be, be something, something do, do see, see today, today american, american thriller
+I:512;167;actor, kid, have, do, splendid, job, actor kid, kid have, have do, do splendid, splendid job
+I:512;168;turn, look, act, believable, role, turn look, look act, act believable, believable role
+I:512;169;rest, peace, rest peace
+I:512;170;low, budget, movie, excellent, movie, low budget, budget movie, movie excellent, excellent movie
+I:512;171;be, film, entire, family, watch, be film, film entire, entire family, family watch
+I:512;172;love, get, good, sense, something, worth, review, have, holy, disagree, case, love get, get good, good sense, sense something, something worth, worth review, review have, have holy, holy disagree, disagree case
+I:512;173;look, movie, expectation, find, wisdom, feel, understand, better, world, look movie, movie expectation, expectation find, find wisdom, wisdom feel, feel understand, understand better, better world
+I:512;174;lot, art, be, create, leave, thing, unanswered, mysterious, deliver, beautiful, landscape, great, music, sens, enjoy, pattern, be, uncover, mind, lot art, art be, be create, create leave, leave thing, thing unanswered, unanswered mysterious, mysterious deliver, deliver beautiful, beautiful landscape, landscape great, great music, music sens, sens enjoy, enjoy pattern, pattern be, be uncover, uncover mind
+I:512;175;move, need, be, message, take, home, reflect, learn, something, move need, need be, be message, message take, take home, home reflect, reflect learn, learn something
+I:512;176;message, transcend, boundary, knowable, world, message transcend, transcend boundary, boundary knowable, knowable world
+I:512;177;something, tell, more, be, expose, pain, exist, world, see, watch, tv, news, something tell, tell more, more be, be expose, expose pain, pain exist, exist world, world see, see watch, watch tv, tv news
+I:512;178;see, be, pain, do, live, break, overcome, see be, be pain, pain do, do live, live break, break overcome
+I:512;179;be, talk, human, situation, example, be, able, represent, build, be talk, talk human, human situation, situation example, example be, be able, able represent, represent build
+I:512;180;develop, style, own, get, shadow, develop style, style own, own get, get shadow
+I:512;181;likely, love, movie, likely love, love movie
+I:512;182;be, interesting, psychological, drama, have, nice, outdoor, scenery, be interesting, interesting psychological, psychological drama, drama have, have nice, nice outdoor, outdoor scenery
+I:512;183;be, interesting, observe, son, react, do, know, old, photograph, want, go, fishing, trip, be interesting, interesting observe, observe son, son react, react do, do know, know old, old photograph, photograph want, want go, go fishing, fishing trip
+I:512;184;visual, allegory, suspense, road, movie, deeper, dramatic, level, father, visual allegory, allegory suspense, suspense road, road movie, movie deeper, deeper dramatic, dramatic level, level father
+I:512;185;day, father, return, year, absence, next, day, take, boy, week, long, fishing, trip, day father, father return, return year, year absence, absence next, next day, day take, take boy, boy week, week long, long fishing, fishing trip
+I:512;186;return, be, impressive, debut, return be, be impressive, impressive debut
+I:512;187;have, go, deep, character, soul, heart, give, reason, action, have go, go deep, deep character, character soul, soul heart, heart give, give reason, reason action
+I:512;188;poetic, symbolism, magnificent, indifference, nature, painful, honest, dissection, close, relationship, return, prodigal, poetic symbolism, symbolism magnificent, magnificent indifference, indifference nature, nature painful, painful honest, honest dissection, dissection close, close relationship, relationship return, return prodigal
+I:512;189;movie, be, same, line, regard, suspense, create, end, movie be, be same, same line, line regard, regard suspense, suspense create, create end
+I:512;190;interesting, portrayal, story, line, interesting portrayal, portrayal story, story line
+I:512;191;lot, reflective, russian, darkness, mood, environment, lot reflective, reflective russian, russian darkness, darkness mood, mood environment
+I:512;192;interesting, poignant, hopeful, understate, interesting poignant, poignant hopeful, hopeful understate
+I:512;193;understand, message, understand message
+I:512;194;subtitle, recommend, movie, subtitle recommend, recommend movie
+I:512;195;russian, believe, story, be, engrossing, russian believe, believe story, story be, be engrossing
+I:512;196;unexpected, finish, movie, unexpected finish, finish movie
+I:512;197;be, do, be do
+I:512;198;excellent, role, portrayal, character, excellent role, role portrayal, portrayal character
+I:512;199;foreign, movie, lover, enjoy, foreign movie, movie lover, lover enjoy
+I:512;200;good, long, lonely, night, good long, long lonely, lonely night
+I:512;201;deliver, mystery, vague, message, deliver mystery, mystery vague, vague message
+I:512;202;entire, film, seem, stark, bare, raw, appearance, entire film, film seem, seem stark, stark bare, bare raw, raw appearance
+I:512;203;visual, aspect, film, lend, self, underlie, loneliness, despair, capitalize, aggression, child, father, visual aspect, aspect film, film lend, lend self, self underlie, underlie loneliness, loneliness despair, despair capitalize, capitalize aggression, aggression child, child father
+I:512;204;film, wonderful, location, talented, actor, movie, have, potential, have, plot, message, film wonderful, wonderful location, location talented, talented actor, actor movie, movie have, have potential, potential have, have plot, plot message
+I:512;205;watch, film, be, prepare, wonder, watch film, film be, be prepare, prepare wonder
+I:512;206;return, be, photograph, eloquent, film, influence, fragmented, family, reviewer, have, see, return be, be photograph, photograph eloquent, eloquent film, film influence, influence fragmented, fragmented family, family reviewer, reviewer have, have see
+I:512;207;extraordinary, understate, sensitive, perfection, return, be, sweeping, quiet, epic, story, small, family, fragmented, father, desertion, boy, mother, cope, life, unexpected, arrival, father, year, absence, extraordinary understate, understate sensitive, sensitive perfection, perfection return, return be, be sweeping, sweeping quiet, quiet epic, epic story, story small, small family, family fragmented, fragmented father, father desertion, desertion boy, boy mother, mother cope, cope life, life unexpected, unexpected arrival, arrival father, father year, year absence
+I:512;208;father, tell, boy, take, fishing, trip, father tell, tell boy, boy take, take fishing, fishing trip
+I:512;209;go, do, begin, few, day, quiet, discovery, long, absent, father, be, creature, be, fear, go do, do begin, begin few, few day, day quiet, quiet discovery, discovery long, long absent, absent father, father be, be creature, creature be, be fear
+I:512;210;be, more, simple, story, meet, eye, eye, be, romance, evocative, minimalist, atmospheric, photography, lake, cinematographer, be more, more simple, simple story, story meet, meet eye, eye eye, eye be, be romance, romance evocative, evocative minimalist, minimalist atmospheric, atmospheric photography, photography lake, lake cinematographer
+I:512;211;acting, be, highest, order, acting be, be highest, highest order
+I:512;212;musical, score, set, mood, perfection, musical score, score set, set mood, mood perfection
+I:512;213;event, make, film, powerful, mood, piece, event make, make film, film powerful, powerful mood, mood piece
+I:512;214;be, fast, paced, movie, keep, interested, be fast, fast paced, paced movie, movie keep, keep interested
+I:512;215;have, see, plenty, russian, film, many, have, be, slow, reliant, emotional, component, have see, see plenty, plenty russian, russian film, film many, many have, have be, be slow, slow reliant, reliant emotional, emotional component
+I:512;216;example, be, director, do, example be, be director, director do
+I:512;217;get, feeling, cinematography, color, do, match, movie, theme, plot, get feeling, feeling cinematography, cinematography color, color do, do match, match movie, movie theme, theme plot
+I:512;218;man, return, wife, son, man return, return wife, wife son
+I:512;219;film, be, shroud, mystery, mystery, add, film, increase, tension, film be, be shroud, shroud mystery, mystery mystery, mystery add, add film, film increase, increase tension
+I:512;220;discipline, genuine, concern, discipline genuine, genuine concern
+I:512;221;hollywood, movie, tell, story, stay, subject, hollywood movie, movie tell, tell story, story stay, stay subject
+I:512;222;like, keep, interested, like keep, keep interested
+I:512;223;journey, be, big, frame, complex, dramatis, persona, unfold, journey be, be big, big frame, frame complex, complex dramatis, dramatis persona, persona unfold
+I:512;224;visual, language, be, superb, visual language, language be, be superb
+I:512;225;young, director, conquer, admiration, great, audience, world, young director, director conquer, conquer admiration, admiration great, great audience, audience world
+I:512;226;film, award, several, important, film award, award several, several important
+I:512;227;be, magnificent, order, be magnificent, magnificent order
+I:512;228;little, gem, promising, gifted, filmmaker, little gem, gem promising, promising gifted, gifted filmmaker
+I:512;229;be, sure, rate, enigmatic, movie, cinematography, be, concern, be, star, script, be, concerned, star, be, appropriate, be sure, sure rate, rate enigmatic, enigmatic movie, movie cinematography, cinematography be, be concern, concern be, be star, star script, script be, be concerned, concerned star, star be, be appropriate
+I:512;230;movie, challenge, intellect, be, street, movie challenge, challenge intellect, intellect be, be street
+I:512;231;have, be, film, narrative, boy, be, take, unknown, father, testing, outing, extend, few, day, have be, be film, film narrative, narrative boy, boy be, be take, take unknown, unknown father, father testing, testing outing, outing extend, extend few, few day
+I:512;232;be, watch, be watch
+I:512;233;love, come, foreign, film, sweep, story, love come, come foreign, foreign film, film sweep, sweep story
+I:512;234;have, meaning, be, express, actor, have meaning, meaning be, be express, express actor
+I:512;235;movie, let, mind, imagine, history, character, relationship, make, think, father, hidden, mission, movie let, let mind, mind imagine, imagine history, history character, character relationship, relationship make, make think, think father, father hidden, hidden mission
+I:512;236;come, feeling, belong, family, appreciation, care, protection, father, side, come feeling, feeling belong, belong family, family appreciation, appreciation care, care protection, protection father, father side
+I:512;237;love, need, other, talk, term, control, demand, love need, need other, other talk, talk term, term control, control demand
+I:512;238;acting, be, spot, end, forget, be, read, subtitle, acting be, be spot, spot end, end forget, forget be, be read, read subtitle
+I:512;239;movie, be, engaging, emotional, movie be, be engaging, engaging emotional
+I:512;240;brother, father, have, show, good, acting, brother father, father have, have show, show good, good acting
+I:512;241;good, movie, father, boy, come, see, many, year, good movie, movie father, father boy, boy come, come see, see many, many year
+I:512;242;speak, movie, word, be, translate, easy, follow, screen, speak movie, movie word, word be, be translate, translate easy, easy follow, follow screen
+I:512;243;decide, take, fishing, trip, back, country, decide take, take fishing, fishing trip, trip back, back country
+I:512;244;right, elder, son, stick, father, try, share, attachment, younger, brother, remain, close, sort, non, right elder, elder son, son stick, stick father, father try, try share, share attachment, attachment younger, younger brother, brother remain, remain close, close sort, sort non
+I:512;245;return, father, son, become, return, son, father, body, mother, father, body, crucial, moment, have, load, homebound, car, return father, father son, son become, become return, return son, son father, father body, body mother, mother father, father body, body crucial, crucial moment, moment have, have load, load homebound, homebound car
+I:512;246;beautiful, story, fatherhood, teenage, be, tragic, dramatic, traumatic, beautiful story, story fatherhood, fatherhood teenage, teenage be, be tragic, tragic dramatic, dramatic traumatic
+I:512;247;authority, be, love, fatherly, love, child, need, immediate, environment, sort, love, have, be, associate, mother, father, authority be, be love, love fatherly, fatherly love, love child, child need, need immediate, immediate environment, environment sort, sort love, love have, have be, be associate, associate mother, mother father
+I:512;248;love, be, love, love be, be love
+I:512;249;story, line, be, good, father, return, expect, everything, son, be, normal, story line, line be, be good, good father, father return, return expect, expect everything, everything son, son be, be normal
+I:512;250;young, actor, play, character, young actor, actor play, play character
+I:512;251;story, depress, much, time, be, suspenseful, story depress, depress much, much time, time be, be suspenseful
+I:512;252;movie, be, unusual, have, minimal, dialogue, be, fine, directing, camera, keep, story, move, movie be, be unusual, unusual have, have minimal, minimal dialogue, dialogue be, be fine, fine directing, directing camera, camera keep, keep story, story move
+I:512;253;acting, be, good, outstanding, story, make, be, miss, acting be, be good, good outstanding, outstanding story, story make, make be, be miss
+I:512;254;movie, be, worth, star, keep, attention, notice, be, wait, see, be, go, happen, movie be, be worth, worth star, star keep, keep attention, attention notice, notice be, be wait, wait see, see be, be go, go happen
+I:512;255;tense, mysterious, disturbing, drama, deal, return, father, juxtapose, come, age, concern, brother, tense mysterious, mysterious disturbing, disturbing drama, drama deal, deal return, return father, father juxtapose, juxtapose come, come age, age concern, concern brother
+I:512;256;mysterious, subtle, tragic, mysterious subtle, subtle tragic
+I:512;257;relationship, brother, be, interesting, much, be, unspoken, piece, complexity, feeling, dad, other, relationship brother, brother be, be interesting, interesting much, much be, be unspoken, unspoken piece, piece complexity, complexity feeling, feeling dad, dad other
+I:512;258;have, universal, pal/ntsc, player, cheap, chinese, player, be, universal, day, film, recommend, get, european, version, have universal, universal pal/ntsc, pal/ntsc player, player cheap, cheap chinese, chinese player, player be, be universal, universal day, day film, film recommend, recommend get, get european, european version
+I:512;259;scenery, atmosphere, be, worth, watch, scenery atmosphere, atmosphere be, be worth, worth watch
+I:512;260;film, be, good, film be, be good
+I:512;261;be, refreshing, see, boy, act, boy, precious, wunderkind, babyish, be refreshing, refreshing see, see boy, boy act, act boy, boy precious, precious wunderkind, wunderkind babyish
+I:512;262;feel, epic, story, come, age, generation, give, feeling, job, be, import, knowledge, next, nothing, more, feel epic, epic story, story come, come age, age generation, generation give, give feeling, feeling job, job be, be import, import knowledge, knowledge next, next nothing, nothing more
+I:512;263;film, move, draw, civilization, mothering, male, world, hunting, fighting, survival, film move, move draw, draw civilization, civilization mothering, mothering male, male world, world hunting, hunting fighting, fighting survival
+I:512;264;be, much, like, movie, enjoy, part, be, bother, shortcoming, be, worth, watch, be much, much like, like movie, movie enjoy, enjoy part, part be, be bother, bother shortcoming, shortcoming be, be worth, worth watch
+I:512;265;riveting, assure, debut, russian, director, be, unsettling, psychological, drama, strained, relationship, father, estrange, son, undergo, series, endurance, test, hand, riveting assure, assure debut, debut russian, russian director, director be, be unsettling, unsettling psychological, psychological drama, drama strained, strained relationship, relationship father, father estrange, estrange son, son undergo, undergo series, series endurance, endurance test, test hand
+I:512;266;heart, film, be, mystery, tension, build, youngest, son, heart film, film be, be mystery, mystery tension, tension build, build youngest, youngest son
+I:512;267;play, seething, confidence, play seething, seething confidence
+I:512;268;bleak, disquieting, be, return, be, intriguing, trip, worth, take, bleak disquieting, disquieting be, be return, return be, be intriguing, intriguing trip, trip worth, worth take
+I:512;269;good, mood, dark, good mood, mood dark
+I:512;270;return, be, unusual, capture, hold, interest, leave, unfulfilled, very, end, return be, be unusual, unusual capture, capture hold, hold interest, interest leave, leave unfulfilled, unfulfilled very, very end
+I:512;271;terror, be, great, have, be, rescue, mother, fade, beauty, seem, place, desolate, place, terror be, be great, great have, have be, be rescue, rescue mother, mother fade, fade beauty, beauty seem, seem place, place desolate, desolate place
+I:512;272;begin, tense, journey, non, begin tense, tense journey, journey non
+I:512;273;son, be, best, solicitous, son be, be best, best solicitous
+I:512;274;reliant, strong, man, be, pal, reliant strong, strong man, man be, be pal
+I:512;275;be, construct, menacing, beautiful, landscape, render, stark, wash, be construct, construct menacing, menacing beautiful, beautiful landscape, landscape render, render stark, stark wash
+I:512;276;be, sort, film, appeal, enjoy, be sort, sort film, film appeal, appeal enjoy
+I:512;277;know, win, contest, know win, win contest
+I:512;278;be, movie, see, be movie, movie see
+I:512;279;act, film, movie, seem, raw, unpolished, act film, film movie, movie seem, seem raw, raw unpolished
+I:512;280;go, building, unexpected, climax, twist, go building, building unexpected, unexpected climax, climax twist
+I:512;281;younger, kid, be, good, younger kid, kid be, be good
+I:512;282;do, watch, foreign, movie, visual, part, movie, subtitle, make, okay, watch, do watch, watch foreign, foreign movie, movie visual, visual part, part movie, movie subtitle, subtitle make, make okay, okay watch
+I:512;283;return, be, best, movie, have, see, long, time, return be, be best, best movie, movie have, have see, see long, long time
+I:512;284;character, be, strong, interesting, character be, be strong, strong interesting
+I:512;285;best, movie, have, have, pleasure, watch, long, time, best movie, movie have, have have, have pleasure, pleasure watch, watch long, long time
+I:512;286;bring, people, share, information, remove, obstacle, such, guess, assumption, bring people, people share, share information, information remove, remove obstacle, obstacle such, such guess, guess assumption
+I:512;287;people, know, person, be, scared, offer, opportunity, people, help, person, overcome, fear, way, people know, know person, person be, be scared, scared offer, offer opportunity, opportunity people, people help, help person, person overcome, overcome fear, fear way
+I:512;288;display, communication, language, be, essential, human, existence, display communication, communication language, language be, be essential, essential human, human existence
+I:512;289;use, mise, use mise
+I:512;290;communication, be, essential, part, cinema, cinema, be, visual, storytelling, use, dialogue, other, auditory, signal, promote, story, communication be, be essential, essential part, part cinema, cinema cinema, cinema be, be visual, visual storytelling, storytelling use, use dialogue, dialogue other, other auditory, auditory signal, signal promote, promote story
+I:512;291;final, lesson, communication, film, provide, be, regard, short, existence, earth, suggest, seize, day, chance, present, final lesson, lesson communication, communication film, film provide, provide be, be regard, regard short, short existence, existence earth, earth suggest, suggest seize, seize day, day chance, chance present
+I:512;292;be, beauty, art, leave, audience, own, interpretation, thought, lead, revelation, sort, help, people, proper, communication, be beauty, beauty art, art leave, leave audience, audience own, own interpretation, interpretation thought, thought lead, lead revelation, revelation sort, sort help, help people, people proper, proper communication
+I:512;293;enjoy, russian, idiom, enjoy russian, russian idiom
+I:512;294;director, soul, viewer, be, director soul, soul viewer, viewer be
+I:512;295;story, be, move, believable, deep, psychological, emotional, level, story be, be move, move believable, believable deep, deep psychological, psychological emotional, emotional level
+I:512;296;cinematography, write, pacing, be, right, target, cinematography write, write pacing, pacing be, be right, right target
+I:512;297;acting, be, close, perfect, director, or, audience, imagine, acting be, be close, close perfect, perfect director, director or, or audience, audience imagine
+I:512;298;lose, father, right, mix, strength, mystery, cool, understatement, lose father, father right, right mix, mix strength, strength mystery, mystery cool, cool understatement
+I:512;299;character, give, many, actor, excuse, overplay, draw, attention, young, man, portray, son, true, center, film, character give, give many, many actor, actor excuse, excuse overplay, overplay draw, draw attention, attention young, young man, man portray, portray son, son true, true center, center film
+I:512;300;balance, achieve, be, tribute, care, pursue, craft, balance achieve, achieve be, be tribute, tribute care, care pursue, pursue craft
+I:512;301;young, actor, play, brother, turn, believable, move, performance, have, see, people, age, young actor, actor play, play brother, brother turn, turn believable, believable move, move performance, performance have, have see, see people, people age
+I:512;302;depths, emotion, commitment, give, role, be, extraordinary, depths emotion, emotion commitment, commitment give, give role, role be, be extraordinary
+I:512;303;fact, be, director, first, feature, film, tell, be, filmmaker, watch, fact be, be director, director first, first feature, feature film, film tell, tell be, be filmmaker, filmmaker watch
+I:512;304;talent, be, formidable, talent be, be formidable
+I:512;305;story, unfold, right, pace, story unfold, unfold right, right pace
+I:512;306;honor, film, receive, be, justified, honor film, film receive, receive be, be justified
+I:512;307;recommend, reservation, anyone, favor, art, house, cinema, recommend reservation, reservation anyone, anyone favor, favor art, art house, house cinema
+I:512;308;make, film, tell, compelling, story, make film, film tell, tell compelling, compelling story
+I:512;309;one, have, nice, documentary, min, include, film, film, one have, have nice, nice documentary, documentary min, min include, include film, film film
+I:512;310;make, informative, look, scene, make informative, informative look, look scene
+I:512;311;film, see, boy, take, painful, lengthy, journey, manner, speaking, journey, represent, passage, adolescence, something, adulthood, something, film see, see boy, boy take, take painful, painful lengthy, lengthy journey, journey manner, manner speaking, speaking journey, journey represent, represent passage, passage adolescence, adolescence something, something adulthood, adulthood something
+I:512;312;be, beautiful, worth, effort, be beautiful, beautiful worth, worth effort
+I:512;313;ruin, story, line, movie, have, premise, be, real, worthy, more, exploration, ruin story, story line, line movie, movie have, have premise, premise be, be real, real worthy, worthy more, more exploration
+I:512;314;beautiful, aspect, return, be, leave, open, interpretation, beautiful aspect, aspect return, return be, be leave, leave open, open interpretation
+I:512;315;film, be, emotional, intense, mysterious, minimalistic, film, grayish, hue, set, mood, impend, question, beginning, film be, be emotional, emotional intense, intense mysterious, mysterious minimalistic, minimalistic film, film grayish, grayish hue, hue set, set mood, mood impend, impend question, question beginning
+I:512;316;father, be, man, few, word, intense, sad, eye, father be, be man, man few, few word, word intense, intense sad, sad eye
+I:512;317;decide, take, trip, go, fishing, camping, decide take, take trip, trip go, go fishing, fishing camping
+I:512;318;have, subtitle, film, be, direct, make, wonder, ponder, hour, have subtitle, subtitle film, film be, be direct, direct make, make wonder, wonder ponder, ponder hour
+I:512;319;be, excellent, performance, small, cast, be excellent, excellent performance, performance small, small cast
+I:512;320;scene, beach, tell, father, want, love, tear, opposite, direction, be, rip, heart, hand, platter, scene beach, beach tell, tell father, father want, want love, love tear, tear opposite, opposite direction, direction be, be rip, rip heart, heart hand, hand platter
+I:512;321;older, brother, play, do, excellent, job, older brother, brother play, play do, do excellent, excellent job
+I:512;322;be, patient, viewer, life, be, go, be, look, way, slow, be, film, do, be patient, patient viewer, viewer life, life be, be go, go be, be look, look way, way slow, slow be, be film, film do
+I:512;323;return, return, return return
+I:512;324;be, simple, profound, story, perfect, be, story, andacting, show, be, main, character, allow, mystery, people, life, bepuzzle, viewer, be simple, simple profound, profound story, story perfect, perfect be, be story, story andacting, andacting show, show be, be main, main character, character allow, allow mystery, mystery people, people life, life bepuzzle, bepuzzle viewer
+I:512;325;acting, be, good, boy, do, good, job, acting be, be good, good boy, boy do, do good, good job
+I:512;326;film, expose, raw, reality, hard, life, boy, grow, fatherless, film expose, expose raw, raw reality, reality hard, hard life, life boy, boy grow, grow fatherless
+I:512;327;everybody, film, leave, old, reality, pursuit, nebulous, entice, dream, wealth, love, be, have, father, be, have, son, everybody film, film leave, leave old, old reality, reality pursuit, pursuit nebulous, nebulous entice, entice dream, dream wealth, wealth love, love be, be have, have father, father be, be have, have son
+I:512;328;worth, watch, thoughtful, viewer, worth watch, watch thoughtful, thoughtful viewer
+I:512;329;be, simple, story, film, act, make, think, be simple, simple story, story film, film act, act make, make think
+I:512;330;action, be, slow, story, require, patience, reward, end, action be, be slow, slow story, story require, require patience, patience reward, reward end
+I:512;331;starkness, siberian, setting, be, appropriate, starkness, story, starkness siberian, siberian setting, setting be, be appropriate, appropriate starkness, starkness story
+I:512;332;scary, story, dream, turn, nightmare, scary story, story dream, dream turn, turn nightmare
+I:512;333;film, power, be, reveal, contrast, event, play, question, generate, enigmatic, final, moment, film power, power be, be reveal, reveal contrast, contrast event, event play, play question, question generate, generate enigmatic, enigmatic final, final moment
+I:512;334;work, mysterious, psychological, drama, film, have, end, fit, definition, term, allegory, work mysterious, mysterious psychological, psychological drama, drama film, film have, have end, end fit, fit definition, definition term, term allegory
+I:512;335;return, make, compelling, case, favor, complex, narrative, expectation, end, life, make, kind, sense, return make, make compelling, compelling case, case favor, favor complex, complex narrative, narrative expectation, expectation end, end life, life make, make kind, kind sense
+I:512;336;absence, father, create, psychological, presence, family, see, feel, emotional, interaction, child, absence father, father create, create psychological, psychological presence, presence family, family see, see feel, feel emotional, emotional interaction, interaction child
+I:512;337;mysterious, journey, island, significance, change, mysterious journey, journey island, island significance, significance change
+I:512;338;appear, symbol, meaning, be, poetic, literal, appear symbol, symbol meaning, meaning be, be poetic, poetic literal
+I:512;339;true, tarkovskian, form, filmmaker, have, bleed, symbol, specific, reference, make, character, true tarkovskian, tarkovskian form, form filmmaker, filmmaker have, have bleed, bleed symbol, symbol specific, specific reference, reference make, make character
+I:512;340;rare, film, worth, see, other, reason, marvel, elegiac, force, story, photography, performance, director, manage, coax, actor, rare film, film worth, worth see, see other, other reason, reason marvel, marvel elegiac, elegiac force, force story, story photography, photography performance, performance director, director manage, manage coax, coax actor
+I:512;341;boy, particular, be, subtle, boy particular, particular be, be subtle
+I:512;342;say, amazing, stir, story, say amazing, amazing stir, stir story
+I:512;343;be, mesmerizing, study, heartache, father, son, experience, enforced, separation, hard, be, reunite, be mesmerizing, mesmerizing study, study heartache, heartache father, father son, son experience, experience enforced, enforced separation, separation hard, hard be, be reunite
+I:512;344;people, find, boring, have, real, appreciation, deep, quiet, probe, human, soul, gradual, excruciating, buildup, tension, great, art, portray, people find, find boring, boring have, have real, real appreciation, appreciation deep, deep quiet, quiet probe, probe human, human soul, soul gradual, gradual excruciating, excruciating buildup, buildup tension, tension great, great art, art portray
+I:512;345;be, gold, cash, jewelry, drug, be, valuable, be gold, gold cash, cash jewelry, jewelry drug, drug be, be valuable
+I:512;346;return, be, amazing, debut, director, return be, be amazing, amazing debut, debut director
+I:512;347;be, foreign, film, fan, sneer, acting, be, impeccable, video, technique, be, modern, dialog, be, character, be foreign, foreign film, film fan, fan sneer, sneer acting, acting be, be impeccable, impeccable video, video technique, technique be, be modern, modern dialog, dialog be, be character
+I:512;348;have, good, story, line, act, have good, good story, story line, line act
+I:512;349;serve, photograph, serve photograph
+I:512;350;take, return, be, haunt, move, film, have, see, take return, return be, be haunt, haunt move, move film, film have, have see
+I:512;351;cinematography, be, excellent, story, line, fit, many, family, world, cinematography be, be excellent, excellent story, story line, line fit, fit many, many family, family world
+I:512;352;be, something, movie, stick, have, watch, be something, something movie, movie stick, stick have, have watch
+I:512;353;be, move, be, disturbed, keep, think, be move, move be, be disturbed, disturbed keep, keep think
+I:512;354;refreshing, disturbing!it, be, movie, make, russian, director, outstanding, russian, actor, kid, refreshing disturbing!it, disturbing!it be, be movie, movie make, make russian, russian director, director outstanding, outstanding russian, russian actor, actor kid
+I:512;355;be, universal, story, father, return, wife, child, twelve.year, unexplained, absence, take, son, be universal, universal story, story father, father return, return wife, wife child, child twelve.year, twelve.year unexplained, unexplained absence, absence take, take son
+I:512;356;be, perfect, stranger, leave, be, little, be perfect, perfect stranger, stranger leave, leave be, be little
+I:512;357;unexpected, be, guideline, hold, breath, unexpected be, be guideline, guideline hold, hold breath
+I:512;358;photography, be, beautiful, score, time, add, real, power, image, photography be, be beautiful, beautiful score, score time, time add, add real, real power, power image
+I:512;359;see, movie, cinema, buff, average, movie, goer, see movie, movie cinema, cinema buff, buff average, average movie, movie goer
+I:512;360;be, grip, slow, pace, end, be grip, grip slow, slow pace, pace end
+I:512;361;start, continue, way, time, start continue, continue way, way time
+I:512;362;brother, have, love, other, bickering, fighting, brother have, have love, love other, other bickering, bickering fighting
+I:512;363;return, be, powerful, movie, speak, theme, manhood, fatherhood, return be, be powerful, powerful movie, movie speak, speak theme, theme manhood, manhood fatherhood
+I:512;364;be, shoot, character, be, vivid, be shoot, shoot character, character be, be vivid
+I:512;365;best, movie, have, see, long, time, best movie, movie have, have see, see long, long time
+I:512;366;fatherless, brother, russian, town, be, engage, brotherly, fight, next, day, chase, other, tell, mother, fatherless brother, brother russian, russian town, town be, be engage, engage brotherly, brotherly fight, fight next, next day, day chase, chase other, other tell, tell mother
+I:512;367;mysterious, father, take, son, fishing, trip, mother, accept, go, father, mysterious father, father take, take son, son fishing, fishing trip, trip mother, mother accept, accept go, go father
+I:512;368;climatic, point, film, start, grand, plan, steal, father, knife, confession, feeling, hatred, father, climatic point, point film, film start, start grand, grand plan, plan steal, steal father, father knife, knife confession, confession feeling, feeling hatred, hatred father
+I:512;369;old, russian, director, creation, demonstrate, move, tension, simplicity, character, evoke, psychological, thrill, old russian, russian director, director creation, creation demonstrate, demonstrate move, move tension, tension simplicity, simplicity character, character evoke, evoke psychological, psychological thrill
+I:512;370;sacred, relationship, father, son, elude, mysterious, persona, father, mission, get, box, take, innocent, son, arise, mystery, sacred relationship, relationship father, father son, son elude, elude mysterious, mysterious persona, persona father, father mission, mission get, get box, box take, take innocent, innocent son, son arise, arise mystery
+I:512;371;return, complete, wonderful, film, fill, human, action, reasonable, thought, return complete, complete wonderful, wonderful film, film fill, fill human, human action, action reasonable, reasonable thought
+I:512;372;new, talent, have, arrive, independent, russian, film, new talent, talent have, have arrive, arrive independent, independent russian, russian film
+I:512;373;enjoy, movie, be, do, young, actor, be, amazing, enjoy movie, movie be, be do, do young, young actor, actor be, be amazing
+I:512;374;be, bit, gory, violent, look, sure, be bit, bit gory, gory violent, violent look, look sure
+I:512;375;plot, be, engaging, acting, be, super, plot be, be engaging, engaging acting, acting be, be super
+I:512;376;have, like, end, overall, movie, be, interesting, have like, like end, end overall, overall movie, movie be, be interesting
+I:512;377;have, little, trouble, beginning, be, rich, symbolism, have little, little trouble, trouble beginning, beginning be, be rich, rich symbolism
+I:512;378;watch, movie, watch movie
+I:512;379;be, destine, be, remember, film, student, best, example, device, be destine, destine be, be remember, remember film, film student, student best, best example, example device
+I:512;380;look, good, story, watch, look good, good story, story watch
+I:512;381;have, good, beginning, have good, good beginning
+I:512;382;group, boy, try, prove, courage, bravery, group boy, boy try, try prove, prove courage, courage bravery
+I:512;383;beautiful, artsy, interesting, beautiful artsy, artsy interesting
+I:512;384;trip, fishing, fight, camping, sailing, trip fishing, fishing fight, fight camping, camping sailing
+I:512;385;brother, be, suck, brother be, be suck
+I:512;386;memorable, sight, scenery, realistic, eye, memorable sight, sight scenery, scenery realistic, realistic eye
+I:512;387;film, be, captivate, viewer, film be, be captivate, captivate viewer
+I:512;388;deserve, much, praise, deserve much, much praise
+I:512;389;make, excellent, addition, movie, collection, make excellent, excellent addition, addition movie, movie collection
+I:512;390;suspense, build, movie, twist, end, be, unexpected, suspense build, build movie, movie twist, twist end, end be, be unexpected
+I:512;391;be, anger, sadden, film, be anger, anger sadden, sadden film
+I:512;392;watch, second, time, see, other, side, watch second, second time, time see, see other, other side
+I:512;393;boy, act, be, great, film, be, non, boy act, act be, be great, great film, film be, be non
+I:512;394;beautiful, movie, work, simple, tale, boy, meet, father, allegory, return, have, nothing, wrong, many, memorable, scene, linger, mind, beautiful movie, movie work, work simple, simple tale, tale boy, boy meet, meet father, father allegory, allegory return, return have, have nothing, nothing wrong, wrong many, many memorable, memorable scene, scene linger, linger mind
+I:512;395;love, russian, flick, dark, be, move, love russian, russian flick, flick dark, dark be, be move
+I:512;396;younger, boy, wasa, intense, actor, younger boy, boy wasa, wasa intense, intense actor
+I:512;397;enjoy, miss, do, know, tell, reason, trip, father, enjoy miss, miss do, do know, know tell, tell reason, reason trip, trip father
+I:512;398;draw, own, conclusion, do, mind, have, end, leave, you.you, enjoy, draw own, own conclusion, conclusion do, do mind, mind have, have end, end leave, leave you.you, you.you enjoy
+I:512;399;boy, actor, be, incredible, boy actor, actor be, be incredible
+I:512;400;be, many, story, story, work, allegorical, tale, human, life, loss, grieve, regret, be many, many story, story story, story work, work allegorical, allegorical tale, tale human, human life, life loss, loss grieve, grieve regret
+I:512;401;enjoy, do, enjoy do
+I:512;402;great, movie, have, want, watch, long, time, other, thing, get, way, great movie, movie have, have want, want watch, watch long, long time, time other, other thing, thing get, get way
+I:512;403;imagine, cinema, art, form, entertainment, hour, imagine cinema, cinema art, art form, form entertainment, entertainment hour
+I:512;404;be, first, feature, movie, be, brilliant, movie, rate, %, stunning, achievement, film, be first, first feature, feature movie, movie be, be brilliant, brilliant movie, movie rate, rate %, % stunning, stunning achievement, achievement film
+I:512;405;be, first, movie, perfect, be first, first movie, movie perfect
+I:512;406;give, try, wonderful, movie, give try, try wonderful, wonderful movie
+I:512;407;favorite, while, favorite while
+I:512;408;sad, do, tale, family, life, broken, home, sad do, do tale, tale family, family life, life broken, broken home
+I:512;409;love, director, use, photograph, take, boy, end, film, explain, take, place, course, week, be, go, love director, director use, use photograph, photograph take, take boy, boy end, end film, film explain, explain take, take place, place course, course week, week be, be go
+I:512;410;absolute, best, film, have, see, absolute best, best film, film have, have see
+I:512;411;return, be, best, movie, have, come, return be, be best, best movie, movie have, have come
+I:512;412;have, be, compare, few, critic, do, wonderful, job, do, main, actor, father, son, have be, be compare, compare few, few critic, critic do, do wonderful, wonderful job, job do, do main, main actor, actor father, father son
+I:512;413;be, grey, sky, story, reach, unexpected, climax, be grey, grey sky, sky story, story reach, reach unexpected, unexpected climax
+I:512;414;lot, audience, carry, movie, be, suggest, mention, lot audience, audience carry, carry movie, movie be, be suggest, suggest mention
+I:512;415;work, transform, thriller, unsettling, psychological, study, seep, russian, mysticism, work transform, transform thriller, thriller unsettling, unsettling psychological, psychological study, study seep, seep russian, russian mysticism
+I:512;416;sweet, soft, intimate, son, be, unique, sweet soft, soft intimate, intimate son, son be, be unique
+I:512;417;do, want, ruin, end, recommend, film, sick, usual, fare, do want, want ruin, ruin end, end recommend, recommend film, film sick, sick usual, usual fare
+I:512;418;russian, film, be, best, russian film, film be, be best
+I:512;419;enjoy, foreign, film, like, message, portray, love, hurt, hurt, turn, love, enjoy foreign, foreign film, film like, like message, message portray, portray love, love hurt, hurt hurt, hurt turn, turn love
+I:512;420;buff, find, lot, like, film, buff find, find lot, lot like, like film
+I:512;421;bleak, desolate, contrast, moment, sheer, beauty, bleak desolate, desolate contrast, contrast moment, moment sheer, sheer beauty
+I:512;422;wonder, be, box, wonder be, be box
+I:512;423;grip, story, act, none, special, effect, improbable, twist, usual, film, grip story, story act, act none, none special, special effect, effect improbable, improbable twist, twist usual, usual film
+I:512;424;enjoyable, memorable, outstanding, enjoyable memorable, memorable outstanding
+I:512;425;be, box, be, father, heart, be, secondary, be box, box be, be father, father heart, heart be, be secondary
+I:512;426;be, do, give, star, brilliance, movie, be, authenticity, be do, do give, give star, star brilliance, brilliance movie, movie be, be authenticity
+I:512;427;return, austere, masterpiece, land, give, be, act, direct, film, have, see, year, return austere, austere masterpiece, masterpiece land, land give, give be, be act, act direct, direct film, film have, have see, see year
+I:512;428;film, tell, tale, brother, live, mother, grandmother, small, coastal, village, film tell, tell tale, tale brother, brother live, live mother, mother grandmother, grandmother small, small coastal, coastal village
+I:512;429;day, boy, father, return, twelve.year, absence, day boy, boy father, father return, return twelve.year, twelve.year absence
+I:512;430;single, moment, film, be, revelation, single moment, moment film, film be, be revelation
+I:512;431;capture, opposite, way, boy, react, interact, father, capture opposite, opposite way, way boy, boy react, react interact, interact father
+I:512;432;boy, seem, tune, kind, threat, father, pose, welfare, boy seem, seem tune, tune kind, kind threat, threat father, father pose, pose welfare
+I:512;433;intense, interaction, film, emerge, complex, profound, study, father, son, relationship, be, intense interaction, interaction film, film emerge, emerge complex, complex profound, profound study, study father, father son, son relationship, relationship be
+I:512;434;be, impossible, put, word, young, actor, use, facial, expression, convey, wealth, meaning, emotion, be impossible, impossible put, put word, word young, young actor, actor use, use facial, facial expression, expression convey, convey wealth, wealth meaning, meaning emotion
+I:512;435;be, impressive, boy, mysterious, father, underplay, part, man, appear, sane, rational, surface, be, seething, cauldron, untapped, emotion, be impressive, impressive boy, boy mysterious, mysterious father, father underplay, underplay part, part man, man appear, appear sane, sane rational, rational surface, surface be, be seething, seething cauldron, cauldron untapped, untapped emotion
+I:512;436;be, first, foremost, great, character, study, be first, first foremost, foremost great, great character, character study
+I:512;437;be, be, be be
+I:512;438;other, thing, return, represent, impressive, directorial, debut, s, blow, other thing, thing return, return represent, represent impressive, impressive directorial, directorial debut, debut s, s blow
+I:512;439;ability, draw, great, performance, actor, be, many, talent, display, ability draw, draw great, great performance, performance actor, actor be, be many, many talent, talent display
+I:512;440;lyrical, use, composition, way, make, nature, weather, integral, part, drama, help, draw, world, take, viewer, hour, get, own, existence, movie, have, end, lyrical use, use composition, composition way, way make, make nature, nature weather, weather integral, integral part, part drama, drama help, help draw, draw world, world take, take viewer, viewer hour, hour get, get own, own existence, existence movie, movie have, have end
+I:512;441;reverberate, day, reverberate day
+I:512;442;great, film, return, find, way, depths, soul, leave, viewer, richer, person, experience, great film, film return, return find, find way, way depths, depths soul, soul leave, leave viewer, viewer richer, richer person, person experience
+I:512;443;winner, silver, return, be, true, work, art, outstanding, film, decade, winner silver, silver return, return be, be true, true work, work art, art outstanding, outstanding film, film decade
+I:512;444;moment, film, open, be, overjoy, be, hand, brilliant, new, film, maker, fan, serious, film, be, real, thrill, moment film, film open, open be, be overjoy, overjoy be, be hand, hand brilliant, brilliant new, new film, film maker, maker fan, fan serious, serious film, film be, be real, real thrill
+I:512;445;share, story, illustrate, powerful, effect, share story, story illustrate, illustrate powerful, powerful effect
+I:512;446;turn, observe, audience, sit, rivet, unison, screen, turn observe, observe audience, audience sit, sit rivet, rivet unison, unison screen
+I:512;447;be, greatest, compliment, young, people, give, great, film, be greatest, greatest compliment, compliment young, young people, people give, give great, great film
+I:512;448;be, heart, soul, be, sure, be, be heart, heart soul, soul be, be sure, sure be
+I:512;449;give, hope, future, film, give hope, hope future, future film
+I:512;450;win, film, father, young, son, fishing, trip, year, separation, be, bleakness, moral, ambiguity, world, people, live, isolate, life, remote, island, win film, film father, father young, young son, son fishing, fishing trip, trip year, year separation, separation be, be bleakness, bleakness moral, moral ambiguity, ambiguity world, world people, people live, live isolate, isolate life, life remote, remote island
+I:512;451;stark, focus, character, travel, be, reminiscent, early, film, water, stark focus, focus character, character travel, travel be, be reminiscent, reminiscent early, early film, film water
+I:512;452;film, be, striking, slow, persistent, camera, movement, wash, color, reduce, scene, monochrome, film be, be striking, striking slow, slow persistent, persistent camera, camera movement, movement wash, wash color, color reduce, reduce scene, scene monochrome
+I:512;453;soundtrack, music, be, spare, eerie, soundtrack music, music be, be spare, spare eerie
+I:512;454;keep, watch, man, sign, true, character, respond, boy, willing, accept, man, word, other, suspicious, rebellious, keep watch, watch man, man sign, sign true, true character, character respond, respond boy, boy willing, willing accept, accept man, man word, word other, other suspicious, suspicious rebellious
+I:512;455;base, simple, premise, be, conceive, story, hold, viewer, end, leave, unanswered, question, provoke, reflection, loss, innocence, uneasy, relationship, family, self, base simple, simple premise, premise be, be conceive, conceive story, story hold, hold viewer, viewer end, end leave, leave unanswered, unanswered question, question provoke, provoke reflection, reflection loss, loss innocence, innocence uneasy, uneasy relationship, relationship family, family self
+I:512;456;let, say, return, be, gorgeous, movie, film, let say, say return, return be, be gorgeous, gorgeous movie, movie film
+I:512;457;cast, gripping, story, act, cast gripping, gripping story, story act
+I:512;458;grounds, be, worth, watch, grounds be, be worth, worth watch
+I:512;459;give, movie, recall, see, movie, take, guard, progress, give movie, movie recall, recall see, see movie, movie take, take guard, guard progress
+I:512;460;real, life, end, real life, life end
+I:512;461;interesting, russian, make, movie, english, subtitle, interesting russian, russian make, make movie, movie english, english subtitle
+I:512;462;have, see, russian, movie, be, enjoyable, have see, see russian, russian movie, movie be, be enjoyable
+I:512;463;be, entertaining, think, provoke, movie, enjoy, view, foreign, film, be entertaining, entertaining think, think provoke, provoke movie, movie enjoy, enjoy view, view foreign, foreign film
+I:512;464;couple, young, russian, brother, be, be, raise, family, absent, father, couple young, young russian, russian brother, brother be, be be, be raise, raise family, family absent, absent father
+I:512;465;bare, bone, gray, stark, movie, estrange, alcoholic, father, come, take, wary, son, journey, bare bone, bone gray, gray stark, stark movie, movie estrange, estrange alcoholic, alcoholic father, father come, come take, take wary, wary son, son journey
+I:512;466;be, amazing, russian, director, manage, direct, masterpiece, be amazing, amazing russian, russian director, director manage, manage direct, direct masterpiece
+I:512;467;simple, story, son, father, simple story, story son, son father
+I:512;468;kid, be, confuse, delighted, suspicious, same, time, kid be, be confuse, confuse delighted, delighted suspicious, suspicious same, same time
+I:512;469;offer, take, kid, day, fishing, trip, offer take, take kid, kid day, day fishing, fishing trip
+I:512;470;time, ensure, kid, be, wear, jacket, nippy, evening, time ensure, ensure kid, kid be, be wear, wear jacket, jacket nippy, nippy evening
+I:512;471;cinematography, be, simple, creative, cinematography be, be simple, simple creative
+I:512;472;year, old, acting, be, superb, be, highlight, movie, year old, old acting, acting be, be superb, superb be, be highlight, highlight movie
+I:512;473;movie, have, see, long, time, movie have, have see, see long, long time
+I:512;474;boy, do, outstanding, act, job, be, good, thing, movie, boy do, do outstanding, outstanding act, act job, job be, be good, good thing, thing movie
+I:512;475;wimp, get, fight, brother, join, friend, mock, cowardice, wimp get, get fight, fight brother, brother join, join friend, friend mock, mock cowardice
+I:512;476;be, more, be, go, take, trip, car, be more, more be, be go, go take, take trip, trip car
+I:512;477;other, time, seem, be, other time, time seem, seem be
+I:512;478;be, youthful, director, first, movie, be youthful, youthful director, director first, first movie
+I:512;479;look, good, news, russian, cinema, look good, good news, news russian, russian cinema
+I:512;480;make, tiny, budget, be, good, movie, deep, beautiful, unforgettable, make tiny, tiny budget, budget be, be good, good movie, movie deep, deep beautiful, beautiful unforgettable
+I:512;481;see, lorry, approach, distance, see lorry, lorry approach, approach distance
+I:512;482;grant, do, sound, exciting, grant do, do sound, sound exciting
+I:512;483;watch, see, mean, watch see, see mean
+I:512;484;return, film, teeter, be, serious, be, funny, food, dangle, be, sweet, salty, music, decide, be, jazz, classical, delight, make, mind, return film, film teeter, teeter be, be serious, serious be, be funny, funny food, food dangle, dangle be, be sweet, sweet salty, salty music, music decide, decide be, be jazz, jazz classical, classical delight, delight make, make mind
+I:512;485;be, have, say, film, be have, have say, say film
+I:512;486;movie, be, okay, best, movie be, be okay, okay best
+I:512;487;film, beautiful, scenery, russian, countryside, film beautiful, beautiful scenery, scenery russian, russian countryside
+I:512;488;enjoy, movie, enjoy movie
+I:512;489;movie, be, interesting, keep, glue, film, follow, story, movie be, be interesting, interesting keep, keep glue, glue film, film follow, follow story
+I:512;490;great, narration, story, great narration, narration story
+I:512;491;adverse, strong, moment, beautiful, journey, have, be, capture, splendid, scenic, spot, adverse strong, strong moment, moment beautiful, beautiful journey, journey have, have be, be capture, capture splendid, splendid scenic, scenic spot
+I:512;492;be, stellar, flawless, poise, suppress, feminine, sort, be stellar, stellar flawless, flawless poise, poise suppress, suppress feminine, feminine sort
+I:512;493;be, brilliant, actress, have, shine, timepiece, role, be brilliant, brilliant actress, actress have, have shine, shine timepiece, timepiece role
+I:512;494;film, be, captivating, start, proceed, go, film be, be captivating, captivating start, start proceed, proceed go
+I:512;495;be, great, movie, make, cry, be great, great movie, movie make, make cry
+I:512;496;love, be, other, movie, have, see, love be, be other, other movie, movie have, have see
+I:512;497;story, be, exceptional, leave, think, story be, be exceptional, exceptional leave, leave think
+I:512;498;take, time, get, do, be, good, movie, take time, time get, get do, do be, be good, good movie
+I:512;499;good, movie, young, boy, complex, unpleasant, situation, good movie, movie young, young boy, boy complex, complex unpleasant, unpleasant situation
+I:512;500;keep, glue, story, keep glue, glue story
+I:512;501;do, understand, many, people, think, be, great, movie, do understand, understand many, many people, people think, think be, be great, great movie
+I:512;502;be, good, end, be good, good end
+I:512;503;have, see, many, emotional, film, life, have, see, film, much, emotional, intensity, have see, see many, many emotional, emotional film, film life, life have, have see, see film, film much, much emotional, emotional intensity
+I:512;504;insufficiency, word, be, describe, film, insufficiency word, word be, be describe, describe film
+I:512;505;visual, seduce, visual seduce
+I:512;506;story, be, realistic, story be, be realistic
+I:512;507;interaction, father, son, be, do, interaction father, father son, son be, be do
+I:512;508;be, great, movie, be great, great movie
+I:512;509;movie, be, best, movie be, be best
+I:512;510;be, command, stern, stoic, seem, be, incapable, express, emotion, fascinating, be command, command stern, stern stoic, stoic seem, seem be, be incapable, incapable express, express emotion, emotion fascinating
+I:512;511;remains, strong, be, film, use, metaphor, remains strong, strong be, be film, film use, use metaphor
+I:512;512;maintain, stern, disposition, inflict, physical, emotional, hardship, son, know, turn, take, mere, slap, yell, deep, heart, judge, action, maintain stern, stern disposition, disposition inflict, inflict physical, physical emotional, emotional hardship, hardship son, son know, know turn, turn take, take mere, mere slap, slap yell, yell deep, deep heart, heart judge, judge action
+I:512;513;addition, intense, human, emotion, demonstrate, central, relationship, remain, palpable, return, be, allegorical, addition intense, intense human, human emotion, emotion demonstrate, demonstrate central, central relationship, relationship remain, remain palpable, palpable return, return be, be allegorical
+I:512;514;emotion, be, maintain, result, strong, acting, emotion be, be maintain, maintain result, result strong, strong acting
+I:512;515;be, naive, balance, character, symbolic, human, nature, be naive, naive balance, balance character, character symbolic, symbolic human, human nature
+I:512;516;be, impress, ability, draw, character, feeling, black, be impress, impress ability, ability draw, draw character, character feeling, feeling black
+I:512;517;come, mouth, word, be, meaningful, dig, deep, heart, be, able, witness, dimension, unfold, other, come mouth, mouth word, word be, be meaningful, meaningful dig, dig deep, deep heart, heart be, be able, able witness, witness dimension, dimension unfold, unfold other
+I:512;518;handle, twist, story, handle twist, twist story
+I:512;519;result, acting, final, third, film, carry, emotional, weight, back, serve, film, metaphor, human, message, elevate, return, level, do, see, approach, result acting, acting final, final third, third film, film carry, carry emotional, emotional weight, weight back, back serve, serve film, film metaphor, metaphor human, human message, message elevate, elevate return, return level, level do, do see, see approach
+I:512;520;applaud, child, performance, end, short, list, year, best, lead, act, performance, applaud child, child performance, performance end, end short, short list, list year, year best, best lead, lead act, act performance
+I:512;521;move, performance, child, dimensional, cinematography, gorgeous, metaphor, present, be, rare, help, admire, director, give, film, strong, core, polish, surface, move performance, performance child, child dimensional, dimensional cinematography, cinematography gorgeous, gorgeous metaphor, metaphor present, present be, be rare, rare help, help admire, admire director, director give, give film, film strong, strong core, core polish, polish surface
+I:512;522;be, great, movie, be, waste, american, audience, be, accustom, shallow, theme, beautiful, movie, be, deep, sensitive, be great, great movie, movie be, be waste, waste american, american audience, audience be, be accustom, accustom shallow, shallow theme, theme beautiful, beautiful movie, movie be, be deep, deep sensitive
+I:512;523;hold, attention, be, hard, do, hold attention, attention be, be hard, hard do
+I:512;524;picture, be, good, look, interesting, picture be, be good, good look, look interesting
+I:512;525;kid, have, incredible, strength, survival, skill, kid have, have incredible, incredible strength, strength survival, survival skill
+I:512;526;plot, be, cerebral, plot be, be cerebral
+I:512;527;be, shoot, stark, beautiful, location, be shoot, shoot stark, stark beautiful, beautiful location
+I:512;528;love, film, love film

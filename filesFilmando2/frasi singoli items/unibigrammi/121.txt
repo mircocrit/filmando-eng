@@ -1,0 +1,941 @@
+I:244;1;buy, gift, boyfriend, buy gift, gift boyfriend
+I:244;2;be, reason, story, be, relevant, be reason, reason story, story be, be relevant
+I:244;3;anyone, stir, much, controversy, be, worth, hearing, anyone stir, stir much, much controversy, controversy be, be worth, worth hearing
+I:244;4;author, most, spend, life, spout, be, worth, hope, somebody, author most, most spend, spend life, life spout, spout be, be worth, worth hope, hope somebody
+I:244;5;laugh, loud, several, time, laugh loud, loud several, several time
+I:244;6;be, life, exciting, frightening, time, folk, like, have, fun, cool, general, be life, life exciting, exciting frightening, frightening time, time folk, folk like, like have, have fun, fun cool, cool general
+I:244;7;be, enjoyable, bio, interesting, guy, be enjoyable, enjoyable bio, bio interesting, interesting guy
+I:244;8;respect, mind, be, please, hear, have, say, agree, respect mind, mind be, be please, please hear, hear have, have say, say agree
+I:244;9;be, man, extraordinary, journey, pursuit, truth, hell, be, be man, man extraordinary, extraordinary journey, journey pursuit, pursuit truth, truth hell, hell be
+I:244;10;have, nothing, respect, everyone, involve, have nothing, nothing respect, respect everyone, everyone involve
+I:244;11;nothing, lose, brilliant, mean, get, nothing lose, lose brilliant, brilliant mean, mean get
+I:244;12;eat, heart, dress, better, boot, eat heart, heart dress, dress better, better boot
+I:244;13;film, be, relevant, move, important, film be, be relevant, relevant move, move important
+I:244;14;most, be, terrific, most be, be terrific
+I:244;15;be, disc, film, part, part, be disc, disc film, film part, part part
+I:244;16;love, switch, ghetto, change, love switch, switch ghetto, ghetto change
+I:244;17;be, good, thing, get, collection, be good, good thing, thing get, get collection
+I:244;18;beautiful, movie, beautiful, digus, beautiful movie, movie beautiful, beautiful digus
+I:244;19;be, director, first, choice, play, part, quarrel, get, be director, director first, first choice, choice play, play part, part quarrel, quarrel get
+I:244;20;be, interesting, see, man, make, few, mistake, life, be, able, recover, redeem, be interesting, interesting see, see man, man make, make few, few mistake, mistake life, life be, be able, able recover, recover redeem
+I:244;21;person, do, something, help, people, earn, rights, deserve, highest, praise, person do, do something, something help, help people, people earn, earn rights, rights deserve, deserve highest, highest praise
+I:244;22;movie, explain, great, american, movie explain, explain great, great american
+I:244;23;help, cause, help cause
+I:244;24;be, great, film, maker, be great, great film, film maker
+I:244;25;be, great, actor, other, actor, have, give, spirit, realistic, treatment, be great, great actor, actor other, other actor, actor have, have give, give spirit, spirit realistic, realistic treatment
+I:244;26;film, be, good, primer, order, learn, honest, revolutionary, black, liberation, fighter, 20th, century, earn, place, history, film be, be good, good primer, primer order, order learn, learn honest, honest revolutionary, revolutionary black, black liberation, liberation fighter, fighter 20th, 20th century, century earn, earn place, place history
+I:244;27;see, movie, icon, see movie, movie icon
+I:244;28;rate, performance, be, true, everyone, great, film, rate performance, performance be, be true, true everyone, everyone great, great film
+I:244;29;be, get, disc, movie, be, great, one, opinion, be get, get disc, disc movie, movie be, be great, great one, one opinion
+I:244;30;be, lot, high, be lot, lot high
+I:244;31;direction, be, masterpiece, direction be, be masterpiece
+I:244;32;lee, best, lee best
+I:244;33;people, be, able, grasp, full, story, people be, be able, able grasp, grasp full, full story
+I:244;34;be, amazing, movie, be amazing, amazing movie
+I:244;35;be, educational, entertaining, be educational, educational entertaining
+I:244;36;be, true, turning, point, life, be true, true turning, turning point, point life
+I:244;37;favorite, month, be, due, african, american, history, black, history, favorite month, month be, be due, due african, african american, american history, history black, black history
+I:244;38;x, be, inspiring, individual, x be, be inspiring, inspiring individual
+I:244;39;film, be, incredible, be, half, know, be, phenomenal, cast, main, role, film be, be incredible, incredible be, be half, half know, know be, be phenomenal, phenomenal cast, cast main, main role
+I:244;40;have, be, say, film, concentrate, extra, have be, be say, say film, film concentrate, concentrate extra
+I:244;41;be, good, porportion, be good, good porportion
+I:244;42;edit, scene, be, interesting, edit scene, scene be, be interesting
+I:244;43;lot, people, miss, point, transformation, see, scene, appear, original, book, lot people, people miss, miss point, point transformation, transformation see, see scene, scene appear, appear original, original book
+I:244;44;be, excellent, documentary, making, film, be excellent, excellent documentary, documentary making, making film
+I:244;45;raw, uncut, talk, strong, take, number, raw uncut, uncut talk, talk strong, strong take, take number
+I:244;46;be, edit, collection, chronological, clip, young, other, major, player, excellent, biography, additional, narration, be edit, edit collection, collection chronological, chronological clip, clip young, young other, other major, major player, player excellent, excellent biography, biography additional, additional narration
+I:244;47;high, school, teacher, want, history, class, high school, school teacher, teacher want, want history, history class
+I:244;48;present, courtroom, epic, assassination, civil, rights, leader, know, x, course, follow, footstep, present courtroom, courtroom epic, epic assassination, assassination civil, civil rights, rights leader, leader know, know x, x course, course follow, follow footstep
+I:244;49;play, be, sure, think, be, bear, play, role, play be, be sure, sure think, think be, be bear, bear play, play role
+I:244;50;performance, be, true, life, actor, get, performance be, be true, true life, life actor, actor get
+I:244;51;islam, husting, day, find, be, enjoyable, essential, islam husting, husting day, day find, find be, be enjoyable, enjoyable essential
+I:244;52;think, give, impressive, performance, think give, give impressive, impressive performance
+I:244;53;eulogy, be, move, bring, tear, be, black, eulogy be, be move, move bring, bring tear, tear be, be black
+I:244;54;spectacular, film, spectacular film
+I:244;55;recommend, everyone, recommend everyone
+I:244;56;be, doubt, movie, be, classic, enjoy, generation, come, be doubt, doubt movie, movie be, be classic, classic enjoy, enjoy generation, generation come
+I:244;57;be, see, be see
+I:244;58;arrive, time, be, state, be, pleased, arrive time, time be, be state, state be, be pleased
+I:244;59;amazing, performance, shine, important, spotlight, misunderstand, american, hero, amazing performance, performance shine, shine important, important spotlight, spotlight misunderstand, misunderstand american, american hero
+I:244;60;be, realize, own, potential, leave, organization, rediscover, be realize, realize own, own potential, potential leave, leave organization, organization rediscover
+I:244;61;movie, deserve, be, redone, do, be, phenomenal, movie deserve, deserve be, be redone, redone do, do be, be phenomenal
+I:244;62;be, move, future, discuss, learn, controversy, past, be move, move future, future discuss, discuss learn, learn controversy, controversy past
+I:244;63;include, x, include x
+I:244;64;be, proud, race, love, african, american, people, family, rejection, nation, embrace, whites, brother, be, positive, improve, race, relation, be proud, proud race, race love, love african, african american, american people, people family, family rejection, rejection nation, nation embrace, embrace whites, whites brother, brother be, be positive, positive improve, improve race, race relation
+I:244;65;good, honest, view, good honest, honest view
+I:244;66;have, learn, lot, get, chance, see, year, have learn, learn lot, lot get, get chance, chance see, see year
+I:244;67;writing, direct, capture, complexity, dynamics, progress, writing direct, direct capture, capture complexity, complexity dynamics, dynamics progress
+I:244;68;amazing, writing, allign, autobiograhy, directing, be, performance, amazing writing, writing allign, allign autobiograhy, autobiograhy directing, directing be, be performance
+I:244;69;be, best, acting, history, american, film, be best, best acting, acting history, history american, american film
+I:244;70;proclaim, release, human, potential, black, man, accept, be, be, proud, color, proclaim release, release human, human potential, potential black, black man, man accept, accept be, be be, be proud, proud color
+I:244;71;be, importance, x, life, legend, propagate, concept, black, pride, be importance, importance x, x life, life legend, legend propagate, propagate concept, concept black, black pride
+I:244;72;preach, order, black, people, gain, respect, develop, respect, preach order, order black, black people, people gain, gain respect, respect develop, develop respect
+I:244;73;be, admirable, be, openness, change, be admirable, admirable be, be openness, openness change
+I:244;74;watch, x, tv, be, pleasurable, surprise, watch x, x tv, tv be, be pleasurable, pleasurable surprise
+I:244;75;tell, story, x, show, enormous, change, go, remarkable, life, tell story, story x, x show, show enormous, enormous change, change go, go remarkable, remarkable life
+I:244;76;film, fail, take, intimate, look, x, superlative, performance, counter, weakness, film fail, fail take, take intimate, intimate look, look x, x superlative, superlative performance, performance counter, counter weakness
+I:244;77;keep, interested, man, fact, film, be, film, lack, courage, explorethe, person, keep interested, interested man, man fact, fact film, film be, be film, film lack, lack courage, courage explorethe, explorethe person
+I:244;78;film, deal, historical, figure, key, event, life, film deal, deal historical, historical figure, figure key, key event, event life
+I:244;79;x, be, best, biopic, other, good, actor, x be, be best, best biopic, biopic other, other good, good actor
+I:244;80;like, cinematography, music, production, design, add, authentic, mood, movie, like cinematography, cinematography music, music production, production design, design add, add authentic, authentic mood, mood movie
+I:244;81;be, excellent, representation, black, history, story, all, learn, important, young, people, race, know, story, be, make, watch, show, evolution, butterfly, caterpillar, violence, cultural, social, awareness, hold, government, accountable, be excellent, excellent representation, representation black, black history, history story, story all, all learn, learn important, important young, young people, people race, race know, know story, story be, be make, make watch, watch show, show evolution, evolution butterfly, butterfly caterpillar, caterpillar violence, violence cultural, cultural social, social awareness, awareness hold, hold government, government accountable
+I:244;82;be, say, like, film, be say, say like, like film
+I:244;83;act, overall, be, good, act overall, overall be, be good
+I:244;84;think, make, terrific, performancethe, character, be, interesting, be, story, think make, make terrific, terrific performancethe, performancethe character, character be, be interesting, interesting be, be story
+I:244;85;do, know, much, character, comment, accuracy, suspect, movie, be, good, do know, know much, much character, character comment, comment accuracy, accuracy suspect, suspect movie, movie be, be good
+I:244;86;actual, film, be, good, actual film, film be, be good
+I:244;87;sweeping, biopic, admirable, man, idea, be, wrong, have, will, determination, defend, idea, say, sweeping biopic, biopic admirable, admirable man, man idea, idea be, be wrong, wrong have, have will, will determination, determination defend, defend idea, idea say
+I:244;88;powerful, film, sweeping, force, excellent, production, value, powerful film, film sweeping, sweeping force, force excellent, excellent production, production value
+I:244;89;compelling, study, complicated, angry, man, agree, idea, do, movie, remain, riveting, biopic, be, best, movie, compelling study, study complicated, complicated angry, angry man, man agree, agree idea, idea do, do movie, movie remain, remain riveting, riveting biopic, biopic be, be best, best movie
+I:244;90;reason, film, work, be, performance, assure, direction, reason film, film work, work be, be performance, performance assure, assure direction
+I:244;91;deliver, powerful, performance, rank, best, deliver powerful, powerful performance, performance rank, rank best
+I:244;92;be, great, support, be great, great support
+I:244;93;scale, give, film, scale give, give film
+I:244;94;tremendous, performance, x, deliver, be, greatest, movie, stand, test, time, tremendous performance, performance x, x deliver, deliver be, be greatest, greatest movie, movie stand, stand test, test time
+I:244;95;lee, do, masterful, job, show, be, partnership, husband, wife, lee do, do masterful, masterful job, job show, show be, be partnership, partnership husband, husband wife
+I:244;96;lee, take, cinema, powerful, dramatic, level, be, achieve, lee take, take cinema, cinema powerful, powerful dramatic, dramatic level, level be, be achieve
+I:244;97;be, epic, tale, spiritual, growth, family, jealousy, hatred, destroy, instant, take, finish, sentence, be epic, epic tale, tale spiritual, spiritual growth, growth family, family jealousy, jealousy hatred, hatred destroy, destroy instant, instant take, take finish, finish sentence
+I:244;98;ray, be, pleased, ray be, be pleased
+I:244;99;see, movie, many, year, theatre, experience, be, view, first, time, see movie, movie many, many year, year theatre, theatre experience, experience be, be view, view first, first time
+I:244;100;color, be, vibrant, get, feeling, be, part, movie, color be, be vibrant, vibrant get, get feeling, feeling be, be part, part movie
+I:244;101;do, have, movie, collection, recommend, order, asap, do have, have movie, movie collection, collection recommend, recommend order, order asap
+I:244;102;film, be, excellent, base, autobiography, x, film, go, deep, be, great, movie, great, leader, film be, be excellent, excellent base, base autobiography, autobiography x, x film, film go, go deep, deep be, be great, great movie, movie great, great leader
+I:244;103;credit, movie, introduce, generation, important, man, american, history, credit movie, movie introduce, introduce generation, generation important, important man, man american, american history
+I:244;104;evolution, man, stand, lesson, evolution man, man stand, stand lesson
+I:244;105;movie, help, audience, appreciate, formulation, view, change, time, movie help, help audience, audience appreciate, appreciate formulation, formulation view, view change, change time
+I:244;106;admire, most, be, depict, film, be, conviction, commitment, belief, quest, truth, willingness, admit, error, way, fact, take, direction, admire most, most be, be depict, depict film, film be, be conviction, conviction commitment, commitment belief, belief quest, quest truth, truth willingness, willingness admit, admit error, error way, way fact, fact take, take direction
+I:244;107;few, have, courage, do, same, full, view, public, few have, have courage, courage do, do same, same full, full view, view public
+I:244;108;great, movie, great, man, great movie, movie great, great man
+I:244;109;own, have, hard, time, separate, own have, have hard, hard time, time separate
+I:244;110;come, same, conclusion, film, be, best, important, movie, have, come, come same, same conclusion, conclusion film, film be, be best, best important, important movie, movie have, have come
+I:244;111;be, story, man, journey, life, be, more, be, story, family, society, nation, be story, story man, man journey, journey life, life be, be more, more be, be story, story family, family society, society nation
+I:244;112;foundation, story, x, be, american, apple, pie, flag, cross, culture, transcend, national, boundary, speak, strength, human, spirit, whole, foundation story, story x, x be, be american, american apple, apple pie, pie flag, flag cross, cross culture, culture transcend, transcend national, national boundary, boundary speak, speak strength, strength human, human spirit, spirit whole
+I:244;113;heart, soul, filmmaker, financial, backer, give, film, shine, time, sun, heart soul, soul filmmaker, filmmaker financial, financial backer, backer give, give film, film shine, shine time, time sun
+I:244;114;spike, filmmake, family, thank, create, film, present, world, spike filmmake, filmmake family, family thank, thank create, create film, film present, present world
+I:244;115;have, get, mind, go, make, history, change, world, positive, way, have get, get mind, mind go, go make, make history, history change, change world, world positive, positive way
+I:244;116;be, way, keep, spirit, alive, be way, way keep, keep spirit, spirit alive
+I:244;117;get, order, complain, get order, order complain
+I:244;118;say, x, be, great, movie, love, act, play, get, say x, x be, be great, great movie, movie love, love act, act play, play get
+I:244;119;get, character, get character
+I:244;120;bring, lot, memory, time, racial, upheaval, bring lot, lot memory, memory time, time racial, racial upheaval
+I:244;121;favorite, movie, favorite movie
+I:244;122;have, win, movie, have win, win movie
+I:244;123;make, believe, be, x, make believe, believe be, be x
+I:244;124;be, film, true, black, hero, back, fold, establishment, be film, film true, true black, black hero, hero back, back fold, fold establishment
+I:244;125;be, commit, cause, new, life, be, danger, be commit, commit cause, cause new, new life, life be, be danger
+I:244;126;want, educate, black, man, want educate, educate black, black man
+I:244;127;set, custom, be, fantastic, set custom, custom be, be fantastic
+I:244;128;be, best, movie, make, deserve, be, classic, be, become, be best, best movie, movie make, make deserve, deserve be, be classic, classic be, be become
+I:244;129;be, doubt, best, movie, have, see, entire, lifetime, have, see, become, best, movie, see, be doubt, doubt best, best movie, movie have, have see, see entire, entire lifetime, lifetime have, have see, see become, become best, best movie, movie see
+I:244;130;be, shock, star, review, call, dangerous, movie, be shock, shock star, star review, review call, call dangerous, dangerous movie
+I:244;131;movie, keep, loyal, event, people, talk, autobiography, write, movie keep, keep loyal, loyal event, event people, people talk, talk autobiography, autobiography write
+I:244;132;document, rise, fall, x, display, reason, rise, fall, document rise, rise fall, fall x, x display, display reason, reason rise, rise fall
+I:244;133;story, man, religious, belief, strong, heart, be, inspiring, story, show, achieve, anything, set, mind, story man, man religious, religious belief, belief strong, strong heart, heart be, be inspiring, inspiring story, story show, show achieve, achieve anything, anything set, set mind
+I:244;134;denzel, be, best, casting, choice, movie, have, witness, casting, denzel be, be best, best casting, casting choice, choice movie, movie have, have witness, witness casting
+I:244;135;start, film, be, deliver, infamous, speech, send, electricity, spine, start film, film be, be deliver, deliver infamous, infamous speech, speech send, send electricity, electricity spine
+I:244;136;be, special, be, delivery, be, akin, be special, special be, be delivery, delivery be, be akin
+I:244;137;spectacular, life, event, man, be, un, spectacular life, life event, event man, man be, be un
+I:244;138;make, such, high, profile, friend, such, film, star, work, other, integarationist, activist, manage, change, world, be, main, reason, have, black, man, make such, such high, high profile, profile friend, friend such, such film, film star, star work, work other, other integarationist, integarationist activist, activist manage, manage change, change world, world be, be main, main reason, reason have, have black, black man
+I:244;139;look, article, wife, find, something, heart, wrenching, look article, article wife, wife find, find something, something heart, heart wrenching
+I:244;140;be, strong, influence, life, time, blight, black, be, be strong, strong influence, influence life, life time, time blight, blight black, black be
+I:244;141;love, buy, tape, watch, least, time, plan, watch, more, love buy, buy tape, tape watch, watch least, least time, time plan, plan watch, watch more
+I:244;142;story, be, life, great, civil, rights, leader, story be, be life, life great, great civil, civil rights, rights leader
+I:244;143;be, be, best, film, be be, be best, best film
+I:244;144;do, care, lot, people, think, have, win, best, actor, award, film, have, win, best, screenpaly, best, director, best, movie, other, best, award, have, director, film, do care, care lot, lot people, people think, think have, have win, win best, best actor, actor award, award film, film have, have win, win best, best screenpaly, screenpaly best, best director, director best, best movie, movie other, other best, best award, award have, have director, director film
+I:244;145;depth, story, lee, give, backstory, historical, figure, go, book, depth story, story lee, lee give, give backstory, backstory historical, historical figure, figure go, go book
+I:244;146;give, stellar, performance, role, give stellar, stellar performance, performance role
+I:244;147;be, superb, show, transformation, man, thug, man, care, humanity, be superb, superb show, show transformation, transformation man, man thug, thug man, man care, care humanity
+I:244;148;be, best, way, describe, x, greatest, work, cinema, be best, best way, way describe, describe x, x greatest, greatest work, work cinema
+I:244;149;tell, story, x, strong, tell story, story x, x strong
+I:244;150;be, many, other, great, performance, film, make, x, best, joint, be many, many other, other great, great performance, performance film, film make, make x, x best, best joint
+I:244;151;enjoy, watch, x, rank, best, film, '90, enjoy watch, watch x, x rank, rank best, best film, film '90
+I:244;152;study, life, x, sociology, religion, class, watch, film, relax, bit, study life, life x, x sociology, sociology religion, religion class, class watch, watch film, film relax, relax bit
+I:244;153;script, seem, accurate, history, imagery, help, bring, conflict, drive, sincerity, x, life, script seem, seem accurate, accurate history, history imagery, imagery help, help bring, bring conflict, conflict drive, drive sincerity, sincerity x, x life
+I:244;154;be, grateful, bring, joint, be grateful, grateful bring, bring joint
+I:244;155;recite, line, line, be, familiar, scene, people, film, sound, recite line, line line, line be, be familiar, familiar scene, scene people, people film, film sound
+I:244;156;be, perfect, use, surround, sound, panning, stay, precise, be perfect, perfect use, use surround, surround sound, sound panning, panning stay, stay precise
+I:244;157;be, nice, look, watch, find, hard, believe, year, have, pass, be nice, nice look, look watch, watch find, find hard, hard believe, believe year, year have, have pass
+I:244;158;layer, disc, be, perfect, like, layer disc, disc be, be perfect, perfect like
+I:244;159;believe, grain, smoother, look, be, style, choice, kind, believe grain, grain smoother, smoother look, look be, be style, style choice, choice kind
+I:244;160;become, official, nation, member, picture, be, crisp, clean, expect, be, become official, official nation, nation member, member picture, picture be, be crisp, crisp clean, clean expect, expect be
+I:244;161;be, amazing, movie, life, be amazing, amazing movie, movie life
+I:244;162;be, movie, showcase, movie, make, talent, be movie, movie showcase, showcase movie, movie make, make talent
+I:244;163;be, obvious, research, last, detail, clothes, car, period, slag, word, be, use, time, make, movie, be, realistic, grab, beginning, be obvious, obvious research, research last, last detail, detail clothes, clothes car, car period, period slag, slag word, word be, be use, use time, time make, make movie, movie be, be realistic, realistic grab, grab beginning
+I:244;164;like, movie, lot, begin, mr, be, great, actor, movie, have, see, be, amazing, like movie, movie lot, lot begin, begin mr, mr be, be great, great actor, actor movie, movie have, have see, see be, be amazing
+I:244;165;mannerism, speech, passion, be, pure, mannerism speech, speech passion, passion be, be pure
+I:244;166;likeness, be, uncanny, likeness be, be uncanny
+I:244;167;gripping, film, be, inspirational, confront, reality, racism, turbulent, time, gripping film, film be, be inspirational, inspirational confront, confront reality, reality racism, racism turbulent, turbulent time
+I:244;168;special, visit, none, other, end, be, surprising, fitting, special visit, visit none, none other, other end, end be, be surprising, surprising fitting
+I:244;169;be, classic, drama, love, much, do, be classic, classic drama, drama love, love much, much do
+I:244;170;be, scare, go, tell, truth, be scare, scare go, go tell, tell truth
+I:244;171;be, rare, be rare
+I:244;172;conviction, have, great, intellect, eloquence, conviction have, have great, great intellect, intellect eloquence
+I:244;173;be, man, do, respect, man, reinvent, have, invest, face, such, tremendous, loss, sorrow, head, be man, man do, do respect, respect man, man reinvent, reinvent have, have invest, invest face, face such, such tremendous, tremendous loss, loss sorrow, sorrow head
+I:244;174;pay, ultimate, price, deserve, love, respect, pay ultimate, ultimate price, price deserve, deserve love, love respect
+I:244;175;spike, have, do, tremendous, job, re, spike have, have do, do tremendous, tremendous job, job re
+I:244;176;zoot, suit, couch, hair, walk, be, real, zoot suit, suit couch, couch hair, hair walk, walk be, be real
+I:244;177;excellent, movie, evolution, landmark, african, american, civil, rights, leader, early, sixty, see, excellent movie, movie evolution, evolution landmark, landmark african, african american, american civil, civil rights, rights leader, leader early, early sixty, sixty see
+I:244;178;do, super, job, movie, make, likeable, do super, super job, job movie, movie make, make likeable
+I:244;179;enjoy, movie, do, know, accurate, be, fact, wise, thanks, be, terrific, movie, enjoy movie, movie do, do know, know accurate, accurate be, be fact, fact wise, wise thanks, thanks be, be terrific, terrific movie
+I:244;180;best, portrait, charismatic, movie, base, true, story, wont, be, disappoint, best portrait, portrait charismatic, charismatic movie, movie base, base true, true story, story wont, wont be, be disappoint
+I:244;181;year, hear, event, life, visual, film, be, entertwine, real, visual, see, year hear, hear event, event life, life visual, visual film, film be, be entertwine, entertwine real, real visual, visual see
+I:244;182;denzel, voice, be, voice, hear, head, read, words.yes, denzel voice, voice be, be voice, voice hear, hear head, head read, read words.yes
+I:244;183;denzel, turn, amazing, performance, be, deserving, nomination, year, win, do, receive, denzel turn, turn amazing, amazing performance, performance be, be deserving, deserving nomination, nomination year, year win, win do, do receive
+I:244;184;spike, lee, greater, work, denzel, finest, spike lee, lee greater, greater work, work denzel, denzel finest
+I:244;185;cover, be, cool, cover be, be cool
+I:244;186;greatest, moive, make, be, great, chance, see, great, actor, play, great, man, greatest moive, moive make, make be, be great, great chance, chance see, see great, great actor, actor play, play great, great man
+I:244;187;be, fabulous, film, be fabulous, fabulous film
+I:244;188;acting, be, excellent, film, tell, great, story, life, man, role, civil, rights, movement, acting be, be excellent, excellent film, film tell, tell great, great story, story life, life man, man role, role civil, civil rights, rights movement
+I:244;189;do, fabulous, job, film, be, great, character, movie, do fabulous, fabulous job, job film, film be, be great, great character, character movie
+I:244;190;be, amazing, much, look, x, film, be amazing, amazing much, much look, look x, x film
+I:244;191;recommend, film, recommend film
+I:244;192;see, film, be, be, depiction, emotional, spiritual, logical, growth, man, nation, see film, film be, be be, be depiction, depiction emotional, emotional spiritual, spiritual logical, logical growth, growth man, man nation
+I:244;193;notch, mezmerize, say, least, notch mezmerize, mezmerize say, say least
+I:244;194;x, show, growth, confused, young, racist, mature, man, people, understand, take, lend, help, hand, x show, show growth, growth confused, confused young, young racist, racist mature, mature man, man people, people understand, understand take, take lend, lend help, help hand
+I:244;195;film, be, exicute, front, show, effect, racism, do, people, help, battle, further, issue, film be, be exicute, exicute front, front show, show effect, effect racism, racism do, do people, people help, help battle, battle further, further issue
+I:244;196;learn, put, color, one, skin, see, person, be, make, difference, learn, live, brother, sister, learn put, put color, color one, one skin, skin see, see person, person be, be make, make difference, difference learn, learn live, live brother, brother sister
+I:244;197;portrayal, x, be, be, be, stunning, portrayal x, x be, be be, be be, be stunning
+I:244;198;speak, volume, misunderstand, aspect, american, history, speak volume, volume misunderstand, misunderstand aspect, aspect american, american history
+I:244;199;be, great, show, kid, piece, history, black, history, be great, great show, show kid, kid piece, piece history, history black, black history
+I:244;200;account, life, x, be, excellent, have, make, film, hour, shorter, be, editing, beginning, ending, movie, little, tighter, account life, life x, x be, be excellent, excellent have, have make, make film, film hour, hour shorter, shorter be, be editing, editing beginning, beginning ending, ending movie, movie little, little tighter
+I:244;201;powerful, performance, have, see, biographical, context, powerful performance, performance have, have see, see biographical, biographical context
+I:244;202;be, good, biography, x, follow, autobiography, exception, be good, good biography, biography x, x follow, follow autobiography, autobiography exception
+I:244;203;be, great, film, release, star, train, day, be, do, be great, great film, film release, release star, star train, train day, day be, be do
+I:244;204;powerful, film, direct, do, follow, life, great, controversial, civil, rights, leader, powerful film, film direct, direct do, do follow, follow life, life great, great controversial, controversial civil, civil rights, rights leader
+I:244;205;effect, racism, project, give, film, powerful, theme, effect racism, racism project, project give, give film, film powerful, powerful theme
+I:244;206;passion, struggle, maintain, standing, keep, audience, attention, entire, passion struggle, struggle maintain, maintain standing, standing keep, keep audience, audience attention, attention entire
+I:244;207;actor, give, great, performance, state, strongest, actor give, give great, great performance, performance state, state strongest
+I:244;208;nominate, performance, best, actor, portray, emotion, charisma, nominate performance, performance best, best actor, actor portray, portray emotion, emotion charisma
+I:244;209;film, prove, be, few, modern, film prove, prove be, be few, few modern
+I:244;210;day, actor, have, pure, talent, day actor, actor have, have pure, pure talent
+I:244;211;portray, wife, portray wife
+I:244;212;underrated, actress, act, character, life, hardtime, be, live, underrated actress, actress act, act character, character life, life hardtime, hardtime be, be live
+I:244;213;such, act, strength, give, film, extra, powerful, theme, deserve, such act, act strength, strength give, give film, film extra, extra powerful, powerful theme, theme deserve
+I:244;214;be, sure, please, many, audience, year, be sure, sure please, please many, many audience, audience year
+I:244;215;film, present, hour, life, offer, great, perception, life, belief, film present, present hour, hour life, life offer, offer great, great perception, perception life, life belief
+I:244;216;be, great, movie, be great, great movie
+I:244;217;be, wonderful, actor, movie, depict, x, person, many, layer, be wonderful, wonderful actor, actor movie, movie depict, depict x, x person, person many, many layer
+I:244;218;knowledge, be, power, change, world, malcolm, x, be, great, teacher, knowledge, knowledge be, be power, power change, change world, world malcolm, malcolm x, x be, be great, great teacher, teacher knowledge
+I:244;219;be, excellent, movie, be excellent, excellent movie
+I:244;220;show, moral, intellectual, spiritual, evolution, man, numerous, external, force, attempt, block, development, show moral, moral intellectual, intellectual spiritual, spiritual evolution, evolution man, man numerous, numerous external, external force, force attempt, attempt block, block development
+I:244;221;be, necessary, see, various, experience, stage, life, appreciate, man, become, death, be necessary, necessary see, see various, various experience, experience stage, stage life, life appreciate, appreciate man, man become, become death
+I:244;222;construct, story, fallible, intelligent, drive, man, dispute, media, package, present, white, time.you, need, comfortable, chair, marathon, film, construct story, story fallible, fallible intelligent, intelligent drive, drive man, man dispute, dispute media, media package, package present, present white, white time.you, time.you need, need comfortable, comfortable chair, chair marathon, marathon film
+I:244;223;cinematography, be, sweeping, sepia, palette, pre, cinematography be, be sweeping, sweeping sepia, sepia palette, palette pre
+I:244;224;islamic, day, convey, gorgeous, riveting, image, power, man, cause, islamic day, day convey, convey gorgeous, gorgeous riveting, riveting image, image power, power man, man cause
+I:244;225;special, feature, worth, watch, be, leave, sit, film, demand, introspection, special feature, feature worth, worth watch, watch be, be leave, leave sit, sit film, film demand, demand introspection
+I:244;226;do, fantastic, job, channel, viewer, be, amaze, watch, actual, footage, do fantastic, fantastic job, job channel, channel viewer, viewer be, be amaze, amaze watch, watch actual, actual footage
+I:244;227;see, film, anyone, serious, interest, cinema, civil, rights, biopic, see film, film anyone, anyone serious, serious interest, interest cinema, cinema civil, civil rights, rights biopic
+I:244;228;capture, incendiary, spirit, civil, rights, leader, make, many, white, appreciate, propose, non, capture incendiary, incendiary spirit, spirit civil, civil rights, rights leader, leader make, make many, many white, white appreciate, appreciate propose, propose non
+I:244;229;dramatic, confrontation, see, justice, do, behalf, treat, african, american, leaf, impression, police, officer, dramatic confrontation, confrontation see, see justice, justice do, do behalf, behalf treat, treat african, african american, american leaf, leaf impression, impression police, police officer
+I:244;230;civil, rights, activist, reiterate, profound, touching, eulogy, deliver, film, civil rights, rights activist, activist reiterate, reiterate profound, profound touching, touching eulogy, eulogy deliver, deliver film
+I:244;231;be, happy, have, movie, be happy, happy have, have movie
+I:244;232;tell, many, time, have, watch, thanks, make, available, such, great, condition, tell many, many time, time have, have watch, watch thanks, thanks make, make available, available such, such great, great condition
+I:244;233;have, win, best, actor, have win, win best, best actor
+I:244;234;agree, consider, do, win, agree consider, consider do, do win
+I:244;235;have, wonder, denote, great, performance, have wonder, wonder denote, denote great, great performance
+I:244;236;do, excellent, job, movie, do excellent, excellent job, job movie
+I:244;237;do, great, job, impersonate, x, think, be, do great, great job, job impersonate, impersonate x, x think, think be
+I:244;238;love, book, put, book, hour, movie, give, viewer, good, view, life, love book, book put, put book, book hour, hour movie, movie give, give viewer, viewer good, good view, view life
+I:244;239;spike, do, exquisite, retelling, autobiography, x, spike do, do exquisite, exquisite retelling, retelling autobiography, autobiography x
+I:244;240;conceive, stunning, insightful, heart, conceive stunning, stunning insightful, insightful heart
+I:244;241;wrenching, inspiring, auspiscious, cameo, appearance, year, prison, release, year, presidential, election, wrenching inspiring, inspiring auspiscious, auspiscious cameo, cameo appearance, appearance year, year prison, prison release, release year, year presidential, presidential election
+I:244;242;be, delighted, be delighted
+I:244;243;disc, special, edition, price, disc special, special edition, edition price
+I:244;244;art, filmmaking, be, amazing, art filmmaking, filmmaking be, be amazing
+I:244;245;example, genius, skill, example genius, genius skill
+I:244;246;year, command, heft, retail, price, anniversary, edition, year command, command heft, heft retail, retail price, price anniversary, anniversary edition
+I:244;247;be, color, chronicle, pivotal, moment, life, be color, color chronicle, chronicle pivotal, pivotal moment, moment life
+I:244;248;director, take, add, valuable, insight, making, masterpiece, life, director take, take add, add valuable, valuable insight, insight making, making masterpiece, masterpiece life
+I:244;249;spike, course, take, creative, liberty, insert, film, be, funny, real, actor, be, customary, time, film, make, spike course, course take, take creative, creative liberty, liberty insert, insert film, film be, be funny, funny real, real actor, actor be, be customary, customary time, time film, film make
+I:244;250;family, young, hearty, male, young, male, be, get, erronious, label, difference, mainstream, deam, be, acceptable, young, be, family young, young hearty, hearty male, male young, young male, male be, be get, get erronious, erronious label, label difference, difference mainstream, mainstream deam, deam be, be acceptable, acceptable young, young be
+I:244;251;win, best, performance, give, win best, best performance, performance give
+I:244;252;great, movie, time, favorite, great movie, movie time, time favorite
+I:244;253;denzel, be, great, actor, denzel be, be great, great actor
+I:244;254;good, movie, interested, movie, everone, wash, movie, benzel, best, movie, good movie, movie interested, interested movie, movie everone, everone wash, wash movie, movie benzel, benzel best, best movie
+I:244;255;be, best, come, age, black, movie, be best, best come, come age, age black, black movie
+I:244;256;movie, have, stunning, appearance, movie have, have stunning, stunning appearance
+I:244;257;think, be, second, best, movie, make, think be, be second, second best, best movie, movie make
+I:244;258;note, they, need, make, movie, be, wonderful, black, leader, note they, they need, need make, make movie, movie be, be wonderful, wonderful black, black leader
+I:244;259;be, egaging, biographical, story, great, complicated, man, epic, life, great, film, be egaging, egaging biographical, biographical story, story great, great complicated, complicated man, man epic, epic life, life great, great film
+I:244;260;be, top, form, be top, top form
+I:244;261;matter, be, be, convincing, x, have, channel, spirit, matter be, be be, be convincing, convincing x, x have, have channel, channel spirit
+I:244;262;fact, bring, career, fact bring, bring career
+I:244;263;performance, lot, actor, film, performance lot, lot actor, actor film
+I:244;264;recommend, movie, other, recommend movie, movie other
+I:244;265;be, accurate, such, great, story, be accurate, accurate such, such great, great story
+I:244;266;be, watch, movie, be watch, watch movie
+I:244;267;be, classic, be classic
+I:244;268;be, sweeping, adaptation, book, malcolm, x, write, be, finest, american, bio, pic, tragic, angry, exhilarating, be sweeping, sweeping adaptation, adaptation book, book malcolm, malcolm x, x write, write be, be finest, finest american, american bio, bio pic, pic tragic, tragic angry, angry exhilarating
+I:244;269;blistering, move, portrait, great, complex, man, vivid, recreation, time, place, blistering move, move portrait, portrait great, great complex, complex man, man vivid, vivid recreation, recreation time, time place
+I:244;270;be, best, film, beautiful, look, power, cinema, great, performance, be best, best film, film beautiful, beautiful look, look power, power cinema, cinema great, great performance
+I:244;271;best, other, actor, nod, outstanding, cinematography, do, get, nominate, best other, other actor, actor nod, nod outstanding, outstanding cinematography, cinematography do, do get, get nominate
+I:244;272;be, testament, fine, script, direction, be, hour, be, boring, be testament, testament fine, fine script, script direction, direction be, be hour, hour be, be boring
+I:244;273;washington, brilliant, acting, be, heart, movie, show, drive, righteous, anger, compassion, personal, revelation, washington brilliant, brilliant acting, acting be, be heart, heart movie, movie show, show drive, drive righteous, righteous anger, anger compassion, compassion personal, personal revelation
+I:244;274;be, dynamic, multifaceted, performance, be dynamic, dynamic multifaceted, multifaceted performance
+I:244;275;hindsight, carping, film, deserve, be, see, look, fantastic, blu, hindsight carping, carping film, film deserve, deserve be, be see, see look, look fantastic, fantastic blu
+I:244;276;l, lengthy, piece, work, worth, watch, remarkable, central, performance, point, make, l lengthy, lengthy piece, piece work, work worth, worth watch, watch remarkable, remarkable central, central performance, performance point, point make
+I:244;277;american, status, american, society, american status, status american, american society
+I:244;278;manage, preach, message, integrity, self, manage preach, preach message, message integrity, integrity self
+I:244;279;determination, important, today, be, deliver, late, 50, early, 60, determination important, important today, today be, be deliver, deliver late, late 50, 50 early, early 60
+I:244;280;direction, be, control, include, remarkable, moment, direction be, be control, control include, include remarkable, remarkable moment
+I:244;281;tremendous, effort, tell, story, be, tell, remember, significant, moment, history, tremendous effort, effort tell, tell story, story be, be tell, tell remember, remember significant, significant moment, moment history
+I:244;282;excellent, portrayal, life, play, excellent, role, production, be, perfect, excellent portrayal, portrayal life, life play, play excellent, excellent role, role production, production be, be perfect
+I:244;283;friend, have, come, conclusion, have, make, important, film, latter, half, 20th, masterpiece, masterpiece, have, step, immortality, accurate, portrayal, friend have, have come, come conclusion, conclusion have, have make, make important, important film, film latter, latter half, half 20th, 20th masterpiece, masterpiece masterpiece, masterpiece have, have step, step immortality, immortality accurate, accurate portrayal
+I:244;284;immense, knowledge, medium, film, subject, matter, listen, find, challenge, understand, nature, purpose, film, actual, characteristic, art, form, cinema, immense knowledge, knowledge medium, medium film, film subject, subject matter, matter listen, listen find, find challenge, challenge understand, understand nature, nature purpose, purpose film, film actual, actual characteristic, characteristic art, art form, form cinema
+I:244;285;end, student, begin, question, think, be, become, self, evident, create, art, form, movie, end student, student begin, begin question, question think, think be, be become, become self, self evident, evident create, create art, art form, form movie
+I:244;286;general, theme, underpinning, representation, life, malcolm, x, be, miss, general theme, theme underpinning, underpinning representation, representation life, life malcolm, malcolm x, x be, be miss
+I:244;287;profound, elemental, human, spiritual, universal, be, express, tell, story, profound elemental, elemental human, human spiritual, spiritual universal, universal be, be express, express tell, tell story
+I:244;288;tell, story, way, have, spirit, tell, story, tell story, story way, way have, have spirit, spirit tell, tell story
+I:244;289;be, magnificent, film, worthy, star, cheated, be magnificent, magnificent film, film worthy, worthy star, star cheated
+I:244;290;be, new, art, form, masquerade, fantastic, film, be new, new art, art form, form masquerade, masquerade fantastic, fantastic film
+I:244;291;be, see, move, be see, see move
+I:244;292;speak, grave, speak grave
+I:244;293;see, court, beloved, father, child, see court, court beloved, beloved father, father child
+I:244;294;see, inquisitive, stern, see inquisitive, inquisitive stern
+I:244;295;assure, desire, know, everything, assure desire, desire know, know everything
+I:244;296;influential, time, influence, circumstance, find, influential time, time influence, influence circumstance, circumstance find
+I:244;297;be, humanity, celebrate, today, own, skin, color, be humanity, humanity celebrate, celebrate today, today own, own skin, skin color
+I:244;298;profound, dynamic, man, portray, profound dynamic, dynamic man, man portray
+I:244;299;be, favorite, movie, be favorite, favorite movie
+I:244;300;see, movie, educational, historical, see movie, movie educational, educational historical
+I:244;301;classic, im, glad, come, time, be, awesome, affordable, price, recommend, classic im, im glad, glad come, come time, time be, be awesome, awesome affordable, affordable price, price recommend
+I:244;302;boyfriend, love, movie, boyfriend love, love movie
+I:244;303;american, history, be, something, be, interested, american history, history be, be something, something be, be interested
+I:244;304;do, deserve, performance, train, day, have, win, career, do deserve, deserve performance, performance train, train day, day have, have win, win career
+I:244;305;showcase, man, greatest, act, ability, showcase man, man greatest, greatest act, act ability
+I:244;306;portray, legendary, figure, know, world, portray legendary, legendary figure, figure know, know world
+I:244;307;man, be, important, interesting, african, american, become, film, man be, be important, important interesting, interesting african, african american, american become, become film
+I:244;308;listen, speech, give, film, listen speech, speech give, give film
+I:244;309;direction, beautiful, shot, period, set, costume, memorable, performance, tearjerker, end, be, reason, film, be, watch, direction beautiful, beautiful shot, shot period, period set, set costume, costume memorable, memorable performance, performance tearjerker, tearjerker end, end be, be reason, reason film, film be, be watch
+I:244;310;be, classic, film, die, be classic, classic film, film die
+I:244;311;brilliant, film, make, brilliant film, film make
+I:244;312;question, portrayal, x, belong, classic, effort, question portrayal, portrayal x, x belong, belong classic, classic effort
+I:244;313;wonderful, casting, include, wife, wonderful casting, casting include, include wife
+I:244;314;hour, look, great, x, be, rich, poignant, hour look, look great, great x, x be, be rich, rich poignant
+I:244;315;work, bring, laughter, tear, righteous, indignation, silence, process, depth, work bring, bring laughter, laughter tear, tear righteous, righteous indignation, indignation silence, silence process, process depth
+I:244;316;win, portrayal, win portrayal
+I:244;317;similarity, look, be, eerie, capture, essence, strong, leader, see, unfairness, thought, idea, similarity look, look be, be eerie, eerie capture, capture essence, essence strong, strong leader, leader see, see unfairness, unfairness thought, thought idea
+I:244;318;be, require, view, american, history, course, cover, period, time, be require, require view, view american, american history, history course, course cover, cover period, period time
+I:244;319;present, fair, thorough, interesting, way, present fair, fair thorough, thorough interesting, interesting way
+I:244;320;oner, best, performance, have, see, oner best, best performance, performance have, have see
+I:244;321;love, movie, whole, cast, love movie, movie whole, whole cast
+I:244;322;be, good, leader, be good, good leader
+I:244;323;nail, performance, remain, faithful, autobiography, movie, be, base, nail performance, performance remain, remain faithful, faithful autobiography, autobiography movie, movie be, be base
+I:244;324;be, important, reminder, other, leader, be, converge, similar, anti, be important, important reminder, reminder other, other leader, leader be, be converge, converge similar, similar anti
+I:244;325;sound, boom, select, point, movie, be, crisp, sharp, sound boom, boom select, select point, point movie, movie be, be crisp, crisp sharp
+I:244;326;documentary, be, add, documentary be, be add
+I:244;327;remain, favorite, film, remain favorite, favorite film
+I:244;328;film, do, better, job, selling, x, hat, cinema, ticket, release, run, time, hour, film do, do better, better job, job selling, selling x, x hat, hat cinema, cinema ticket, ticket release, release run, run time, time hour
+I:244;329;film, rely, audio, speech, most, narrative, drive, film rely, rely audio, audio speech, speech most, most narrative, narrative drive
+I:244;330;be, white, man, inform, audience, be white, white man, man inform, inform audience
+I:244;331;great, scene, show, toy, overeager, volunteer, great scene, scene show, show toy, toy overeager, overeager volunteer
+I:244;332;people, do, realize, have, great, sense, humor, say, people do, do realize, realize have, have great, great sense, sense humor, humor say
+I:244;333;join, director, commentary, be, longtime, collaborator, editor, costume, designer, join director, director commentary, commentary be, be longtime, longtime collaborator, collaborator editor, editor costume, costume designer
+I:244;334;great, thing, be, think, change, year, great thing, thing be, be think, think change, change year
+I:244;335;denzel, do, great, job, act, usual, denzel do, do great, great job, job act, act usual
+I:244;336;accurate, tell, accurate tell
+I:244;337;watch, time, see, something, miss, be, great, teaching, tool, watch time, time see, see something, something miss, miss be, be great, great teaching, teaching tool
+I:244;338;be, great, movie, be great, great movie
+I:244;339;presentation, x, be, successful, character, play, be, beleivable, storyline, be, real, presentation x, x be, be successful, successful character, character play, play be, be beleivable, beleivable storyline, storyline be, be real
+I:244;340;make, character, realistic, make character, character realistic
+I:244;341;story, be, excellent, story be, be excellent
+I:244;342;scene, movie, be, play, realistic, part, movie, be, end, scene movie, movie be, be play, play realistic, realistic part, part movie, movie be, be end
+I:244;343;conclusion, movie, be, realistic, conclusion movie, movie be, be realistic
+I:244;344;actor, story, be, play, actor story, story be, be play
+I:244;345;enjoy, film, enjoy film
+I:244;346;end, be, good, end be, be good
+I:244;347;denzel, finest, great, directing, make, superb, job, denzel finest, finest great, great directing, directing make, make superb, superb job
+I:244;348;have, favorite, movie, time, be, have favorite, favorite movie, movie time, time be
+I:244;349;have, intelligence, charisma, bring, necessary, change, black, community, need, today, start, man, have intelligence, intelligence charisma, charisma bring, bring necessary, necessary change, change black, black community, community need, need today, today start, start man
+I:244;350;worth, people, cost, life, worth people, people cost, cost life
+I:244;351;do, amazing, job, bring, life, story, portray, way, become, flaw, do amazing, amazing job, job bring, bring life, life story, story portray, portray way, way become, become flaw
+I:244;352;enjoy, scene, younger, life, time, grow, man, be, be, shoot, be, motivational, enjoy scene, scene younger, younger life, life time, time grow, grow man, man be, be be, be shoot, shoot be, be motivational
+I:244;353;be, man, integrity, family, life, be man, man integrity, integrity family, family life
+I:244;354;suppose, follower, react, certain, aspect, idea, believe, announce, be, part, group, power, suppose follower, follower react, react certain, certain aspect, aspect idea, idea believe, believe announce, announce be, be part, part group, group power
+I:244;355;love, brand, new, item, great, price, love brand, brand new, new item, item great, great price
+I:244;356;good, movie, anybody, appreciate, history, do, good movie, movie anybody, anybody appreciate, appreciate history, history do
+I:244;357;spite, scant, attention, have, pay, be, deny, be, decade, best, film, sense, sensibility, spite scant, scant attention, attention have, have pay, pay be, be deny, deny be, be decade, decade best, best film, film sense, sense sensibility
+I:244;358;cast, be, marvelous, writing, be, superb, music, be, intoxicate, cinematography, be, unbelievable, cast be, be marvelous, marvelous writing, writing be, be superb, superb music, music be, be intoxicate, intoxicate cinematography, cinematography be, be unbelievable
+I:244;359;doubt, be, greatest, film, deserve, more, acclaim, recieve, doubt be, be greatest, greatest film, film deserve, deserve more, more acclaim, acclaim recieve
+I:244;360;be, best, film, be best, best film
+I:244;361;sure, make, wince, train, day, challenge, be, greater, sure make, make wince, wince train, train day, day challenge, challenge be, be greater
+I:244;362;have, portray, have portray
+I:244;363;job, be, break, stereotype, provide, realistic, look, man, job be, be break, break stereotype, stereotype provide, provide realistic, realistic look, look man
+I:244;364;part, be, able, do, writing, part be, be able, able do, do writing
+I:244;365;splitting, do, minor, detail, fact, remain, movie, be, faithful, life, work, splitting do, do minor, minor detail, detail fact, fact remain, remain movie, movie be, be faithful, faithful life, life work
+I:244;366;biggest, revision, be, character, portray, biggest revision, revision be, be character, character portray
+I:244;367;be, instance, writer, do, excellent, job, change, fact, order, tell, truth, be instance, instance writer, writer do, do excellent, excellent job, job change, change fact, fact order, order tell, tell truth
+I:244;368;portrayal, be, intimidate, be, engross, portrayal be, be intimidate, intimidate be, be engross
+I:244;369;meantime, have, make, do, have, get, meantime have, have make, make do, do have, have get
+I:244;370;film, good, be, little, room, complaint, film good, good be, be little, little room, room complaint
+I:244;371;be, favorite, joint, hate, characterization, like, be, be favorite, favorite joint, joint hate, hate characterization, characterization like, like be
+I:244;372;fact, film, be, minute, be, intermission, be, riveting, better, epic, make, fact film, film be, be minute, minute be, be intermission, intermission be, be riveting, riveting better, better epic, epic make
+I:244;373;be, amazing, x, bring, fire, passion, intelligence, dignity, man, have, be amazing, amazing x, x bring, bring fire, fire passion, passion intelligence, intelligence dignity, dignity man, man have
+I:244;374;have, win, have win
+I:244;375;direction, be, assure, do, use, many, visual, trick, original, story, be, good, direction be, be assure, assure do, do use, use many, many visual, visual trick, trick original, original story, story be, be good
+I:244;376;be, good, friend, crime, day, be good, good friend, friend crime, crime day
+I:244;377;think, have, add, character, give, role, be, mention, autobiography, think have, have add, add character, character give, give role, role be, be mention, mention autobiography
+I:244;378;scene, be, mesmerizing, stunning, do, happen, scene be, be mesmerizing, mesmerizing stunning, stunning do, do happen
+I:244;379;be, magnificent, balanced, thorough, biopic, fascinating, man, be magnificent, magnificent balanced, balanced thorough, thorough biopic, biopic fascinating, fascinating man
+I:244;380;be, best, film, be best, best film
+I:244;381;movie, be, great, white, people, world, be, force, see, school, movie be, be great, great white, white people, people world, world be, be force, force see, see school
+I:244;382;anybody, be, racist, love, movie, anybody be, be racist, racist love, love movie
+I:244;383;say, man, be, amazing, say man, man be, be amazing
+I:244;384;way, personafy, movie, be, incredible, way personafy, personafy movie, movie be, be incredible
+I:244;385;have, outdo, yourselve, have outdo, outdo yourselve
+I:244;386;be, landmark, world, film, recommend, be landmark, landmark world, world film, film recommend
+I:244;387;distinguish, x, nation, show, amazing, transformation, beginning, poison, hoodlum, clear, distinguish x, x nation, nation show, show amazing, amazing transformation, transformation beginning, beginning poison, poison hoodlum, hoodlum clear
+I:244;388;be, brilliant, thanks, beautiful, cinematography, true, be brilliant, brilliant thanks, thanks beautiful, beautiful cinematography, cinematography true
+I:244;389;acting, be, solid, acting be, be solid
+I:244;390;deserve, credit, seamless, presentation, deserve credit, credit seamless, seamless presentation
+I:244;391;kudos, solid, performance, kudos solid, solid performance
+I:244;392;minor, point, worth, note, minor point, point worth, worth note
+I:244;393;contrast, opening, sequence, heavy, strong, rhetoric, superimpose, burn, american, flag, police, beating, work, powerful, point, departure, controversy, image, x, brilliant, image, history, race, relation, contrast opening, opening sequence, sequence heavy, heavy strong, strong rhetoric, rhetoric superimpose, superimpose burn, burn american, american flag, flag police, police beating, beating work, work powerful, powerful point, point departure, departure controversy, controversy image, image x, x brilliant, brilliant image, image history, history race, race relation
+I:244;394;movie, hour, feel, seamless, significant, memorable, film, movie hour, hour feel, feel seamless, seamless significant, significant memorable, memorable film
+I:244;395;equate, self, equate self
+I:244;396;be, film, hold, today, be, assume, stand, own, year, moreso, be film, film hold, hold today, today be, be assume, assume stand, stand own, own year, year moreso
+I:244;397;get, watch, incredible, life, martyr, change, powerful, nation, get watch, watch incredible, incredible life, life martyr, martyr change, change powerful, powerful nation
+I:244;398;want, good, movie, full, black, actor, go, see, want good, good movie, movie full, full black, black actor, actor go, go see
+I:244;399;movie, be, make, glamorize, enigmatic, powerful, figure, style, movie be, be make, make glamorize, glamorize enigmatic, enigmatic powerful, powerful figure, figure style
+I:244;400;x, be, say, be, best, film, be, important, step, important, career, x be, be say, say be, be best, best film, film be, be important, important step, step important, important career
+I:244;401;biopic, fifth, full, biopic fifth, fifth full
+I:244;402;greatest, classic, do, jungle, fever, film, create, develop, unique, voice, make, name, prominent, independent, filmmaker, own, voice, be, hear, x, recognizable, trademark, be, tough, point, greatest classic, classic do, do jungle, jungle fever, fever film, film create, create develop, develop unique, unique voice, voice make, make name, name prominent, prominent independent, independent filmmaker, filmmaker own, own voice, voice be, be hear, hear x, x recognizable, recognizable trademark, trademark be, be tough, tough point
+I:244;403;x, be, work, art, more, statement, previous, film, x be, be work, work art, art more, more statement, statement previous, previous film
+I:244;404;be, scope, be, larger, anything, do, be scope, scope be, be larger, larger anything, anything do
+I:244;405;be, tight, focus, do, jungle, fever, tackle, head, very, subject, treat, symbolism, subtlety, film, be, natural, important, progression, logical, continuation, movie, prove, have, more, voice, be tight, tight focus, focus do, do jungle, jungle fever, fever tackle, tackle head, head very, very subject, subject treat, treat symbolism, symbolism subtlety, subtlety film, film be, be natural, natural important, important progression, progression logical, logical continuation, continuation movie, movie prove, prove have, have more, more voice
+I:244;406;drama, important, factor, be, director, care, subject, be, see, director, be, more, passionate, subject, drama important, important factor, factor be, be director, director care, care subject, subject be, be see, see director, director be, be more, more passionate, passionate subject
+I:244;407;malcolm, x, boast, huge, ensemble, cast, wonderful, performance, harrowing, performance, muslim, extremist, malcolm x, x boast, boast huge, huge ensemble, ensemble cast, cast wonderful, wonderful performance, performance harrowing, harrowing performance, performance muslim, muslim extremist
+I:244;408;movie, be, movie be
+I:244;409;prot, g, give, lifetime, performance, year, surpass, gut, prot g, g give, give lifetime, lifetime performance, performance year, year surpass, surpass gut
+I:244;410;wrenching, portrayal, x, earn, nomination, lose, base, best, actor, generation, wrenching portrayal, portrayal x, x earn, earn nomination, nomination lose, lose base, base best, best actor, actor generation
+I:244;411;x, be, best, film, be, important, film, need, be, make, be, good, thing, be, do, x be, be best, best film, film be, be important, important film, film need, need be, be make, make be, be good, good thing, thing be, be do
+I:244;412;more, be, impressive, move, beautiful, movie, more be, be impressive, impressive move, move beautiful, beautiful movie
+I:244;413;story, be, story, be, hear, biopic, be, film, culture, intelligent, person, need, watch, story be, be story, story be, be hear, hear biopic, biopic be, be film, film culture, culture intelligent, intelligent person, person need, need watch
+I:244;414;tell, be, believe, many, be, clearer, version, truth, tell be, be believe, believe many, many be, be clearer, clearer version, version truth
+I:244;415;show, truer, vision, man, family, religion, show truer, truer vision, vision man, man family, family religion
+I:244;416;read, autobiography, x, movie, capture, life, read autobiography, autobiography x, x movie, movie capture, capture life
+I:244;417;get, movie, let, first, foremost, say, be, great, actor, excel, role, take, get movie, movie let, let first, first foremost, foremost say, say be, be great, great actor, actor excel, excel role, role take
+I:244;418;many, point, fault, people, other, notable, honorable, african, deserve, be, hail, inspire, film, deserve, respect, be, characterize, great, actor, such, be, be, human, none, be, perfect, many point, point fault, fault people, people other, other notable, notable honorable, honorable african, african deserve, deserve be, be hail, hail inspire, inspire film, film deserve, deserve respect, respect be, be characterize, characterize great, great actor, actor such, such be, be be, be human, human none, none be, be perfect
+I:244;419;story, x, be, bring, life, director, story x, x be, be bring, bring life, life director
+I:244;420;struggle, achievement, be, display, truthful, fashion, struggle achievement, achievement be, be display, display truthful, truthful fashion
+I:244;421;best, act, performance, time, best act, act performance, performance time
+I:244;422;be, see, movie, be see, see movie
+I:244;423;beautiful, normatic, movie, great, man, be, contribution, everyone, movie, collection, beautiful normatic, normatic movie, movie great, great man, man be, be contribution, contribution everyone, everyone movie, movie collection
+I:244;424;recall, x, passion, eloquence, honesty, permeate, page, recall x, x passion, passion eloquence, eloquence honesty, honesty permeate, permeate page
+I:244;425;x, be, superb, rendering, bio, x be, be superb, superb rendering, rendering bio
+I:244;426;be, ideal, man, carry, x, simmer, rage, sense, justice, golden, tongue, be ideal, ideal man, man carry, carry x, x simmer, simmer rage, rage sense, sense justice, justice golden, golden tongue
+I:244;427;film, give, x, life, film give, give x, x life
+I:244;428;mind, dedicate, betterment, people, mind dedicate, dedicate betterment, betterment people
+I:244;429;shy, youth, get, hair, conk, first, time, small, time, hood, bluff, way, leadership, charismatic, preacher, wrestling, betrayal, uncertainty, portrayal, be, pitch, perfect, believable, shy youth, youth get, get hair, hair conk, conk first, first time, time small, small time, time hood, hood bluff, bluff way, way leadership, leadership charismatic, charismatic preacher, preacher wrestling, wrestling betrayal, betrayal uncertainty, uncertainty portrayal, portrayal be, be pitch, pitch perfect, perfect believable
+I:244;430;chicken, come, home, roost, comment, death, statement, be, know, give, context, remark, sting, chicken come, come home, home roost, roost comment, comment death, death statement, statement be, be know, know give, give context, context remark, remark sting
+I:244;431;call, misrepresent, approach, courage, call misrepresent, misrepresent approach, approach courage
+I:244;432;time, x, have, dismiss, white, boy, unhelpful, cause, be, impress, power, word, depth, commitment, time x, x have, have dismiss, dismiss white, white boy, boy unhelpful, unhelpful cause, cause be, be impress, impress power, power word, word depth, depth commitment
+I:244;433;x, be, work, love, man, seek, justice, truth, x be, be work, work love, love man, man seek, seek justice, justice truth
+I:244;434;say, be, good, watch, say be, be good, good watch
+I:244;435;be, long, movie, be, worth, be long, long movie, movie be, be worth
+I:244;436;love, everything, film, love everything, everything film
+I:244;437;be, write, direct, performance, be, best, opinion, career, be write, write direct, direct performance, performance be, be best, best opinion, opinion career
+I:244;438;class, deem, important, fundamental, choose, go, theater, see, movie, make, class, trip, class deem, deem important, important fundamental, fundamental choose, choose go, go theater, theater see, see movie, movie make, make class, class trip
+I:244;439;movie, have, be, nominate, academy, award, best, picture, have, win, best, actor, movie, movie have, have be, be nominate, nominate academy, academy award, award best, best picture, picture have, have win, win best, best actor, actor movie
+I:244;440;politics, life, time, portray, x, be, true, american, story, politics life, life time, time portray, portray x, x be, be true, true american, american story
+I:244;441;x, be, say, be, best, film, be, important, step, important, career, x be, be say, say be, be best, best film, film be, be important, important step, step important, important career
+I:244;442;biopic, fifth, full, biopic fifth, fifth full
+I:244;443;other, hit, do, jungle, fever, film, create, develop, unique, voice, make, name, prominent, independent, filmmaker, own, voice, be, hear, x, recognizable, trademark, be, tough, point, other hit, hit do, do jungle, jungle fever, fever film, film create, create develop, develop unique, unique voice, voice make, make name, name prominent, prominent independent, independent filmmaker, filmmaker own, own voice, voice be, be hear, hear x, x recognizable, recognizable trademark, trademark be, be tough, tough point
+I:244;444;film, be, more, statement, previous, film, film be, be more, more statement, statement previous, previous film
+I:244;445;scope, be, larger, anything, do, scope be, be larger, larger anything, anything do
+I:244;446;tackle, head, very, subject, treat, symbolism, subtlety, film, be, natural, important, progression, tackle head, head very, very subject, subject treat, treat symbolism, symbolism subtlety, subtlety film, film be, be natural, natural important, important progression
+I:244;447;biopic, important, factor, be, director, care, subject, prove, biopic important, important factor, factor be, be director, director care, care subject, subject prove
+I:244;448;malcolm, x, boast, huge, ensemble, cast, wonderful, performance, harrowing, performance, muslim, extremist, malcolm x, x boast, boast huge, huge ensemble, ensemble cast, cast wonderful, wonderful performance, performance harrowing, harrowing performance, performance muslim, muslim extremist
+I:244;449;movie, be, movie be
+I:244;450;wrenching, portrayal, earn, nomination, base, best, actor, generation, wrenching portrayal, portrayal earn, earn nomination, nomination base, base best, best actor, actor generation
+I:244;451;malcolm, x, be, important, film, be, impressive, move, film, malcolm x, x be, be important, important film, film be, be impressive, impressive move, move film
+I:244;452;film, be, recommend, culture, film be, be recommend, recommend culture
+I:244;453;be, outstanding, movie, great, black, history, item, be outstanding, outstanding movie, movie great, great black, black history, history item
+I:244;454;add, many, meaningful, collectable, possession, add many, many meaningful, meaningful collectable, collectable possession
+I:244;455;have, best, speech, know, man, have best, best speech, speech know, know man
+I:244;456;believe, capture, essence, x, t, believe capture, capture essence, essence x, x t
+I:244;457;rate, movie, star, rate movie, movie star
+I:244;458;good, price, fast, shipping, movie, much, fun, good price, price fast, fast shipping, shipping movie, movie much, much fun
+I:244;459;be, time, favorite, movie, be time, time favorite, favorite movie
+I:244;460;be, historical, icon, mine, play, best, role, have, see, act, be historical, historical icon, icon mine, mine play, play best, best role, role have, have see, see act
+I:244;461;be, great, director, actor, be great, great director, director actor
+I:244;462;be, personal, hero, mine, man, admire, consider, be, great, human, being, be personal, personal hero, hero mine, mine man, man admire, admire consider, consider be, be great, great human, human being
+I:244;463;word, speak, be, awesome, thing, word speak, speak be, be awesome, awesome thing
+I:244;464;see, make, man, great, be, capacity, positive, change, cost, end, goal, be, welfare, all, people, see make, make man, man great, great be, be capacity, capacity positive, positive change, change cost, cost end, end goal, goal be, be welfare, welfare all, all people
+I:244;465;win, performance, get, know, man, win performance, performance get, get know, know man
+I:244;466;build, commanding, performance, be, writer, build commanding, commanding performance, performance be, be writer
+I:244;467;director, ambitious, impassioned, film, date, present, turbulent, eventful, life, fill, self, director ambitious, ambitious impassioned, impassioned film, film date, date present, present turbulent, turbulent eventful, eventful life, life fill, fill self
+I:244;468;notch, cast, fluid, camerawork, create, immediacy, bristle, energy, impact, notch cast, cast fluid, fluid camerawork, camerawork create, create immediacy, immediacy bristle, bristle energy, energy impact
+I:244;469;great, movie, read, book, great movie, movie read, read book
+I:244;470;have, stick, book, be, superior, filma, inspirational, story, pure, entertainment, message, piece, race, relation, have stick, stick book, book be, be superior, superior filma, filma inspirational, inspirational story, story pure, pure entertainment, entertainment message, message piece, piece race, race relation
+I:244;471;be, great, movie, play, have, be, be great, great movie, movie play, play have, have be
+I:244;472;enjoy, movie, enjoy movie
+I:244;473;recommend, friend, recommend friend
+I:244;474;be, favorite, actor, be favorite, favorite actor
+I:244;475;movie, give, great, depiction, x, unsung, hero, movement, movie give, give great, great depiction, depiction x, x unsung, unsung hero, hero movement
+I:244;476;movie, be, great, adaptation, book, recommend, read, book, watch, film, most, book, become, film, movie be, be great, great adaptation, adaptation book, book recommend, recommend read, read book, book watch, watch film, film most, most book, book become, become film
+I:244;477;denzel, do, outstanding, job, play, role, x, have, win, denzel do, do outstanding, outstanding job, job play, play role, role x, x have, have win
+I:244;478;tell, research, character, meet, family, friend, x, get, personal, depiction, film, tell research, research character, character meet, meet family, family friend, friend x, x get, get personal, personal depiction, depiction film
+I:244;479;see, first, time, few, week, be, compelling, move, vivid, spot, imagine, see first, first time, time few, few week, week be, be compelling, compelling move, move vivid, vivid spot, spot imagine
+I:244;480;be, magnificent, way, evoke, chapter, life, criminal, past, street, pyramid, be magnificent, magnificent way, way evoke, evoke chapter, chapter life, life criminal, criminal past, past street, street pyramid
+I:244;481;be, film, act, be, crime, do, win, do, be film, film act, act be, be crime, crime do, do win, win do
+I:244;482;be, compelling, actor, talented, act, scent, woman, way, approach, amazing, tour, force, performance, lifetime, do, be compelling, compelling actor, actor talented, talented act, act scent, scent woman, woman way, way approach, approach amazing, amazing tour, tour force, force performance, performance lifetime, lifetime do
+I:244;483;think, be, spectacular, performance, time, think be, be spectacular, spectacular performance, performance time
+I:244;484;course, deserve, accolade, be, visionary, movie, project, film, course deserve, deserve accolade, accolade be, be visionary, visionary movie, movie project, project film
+I:244;485;be, bore, be, move, inspire, be bore, bore be, be move, move inspire
+I:244;486;be, fine, actor, be fine, fine actor
+I:244;487;watch, film, come, story, watch film, film come, come story
+I:244;488;best, role, career, convey, eloquence, passion, man, captivate, heart, hundred, million, people, world, best role, role career, career convey, convey eloquence, eloquence passion, passion man, man captivate, captivate heart, heart hundred, hundred million, million people, people world
+I:244;489;movie, be, base, autobiography, x, convey, essential, element, book, many, way, movie be, be base, base autobiography, autobiography x, x convey, convey essential, essential element, element book, book many, many way
+I:244;490;day, x, be, time, favorite, film, day x, x be, be time, time favorite, favorite film
+I:244;491;be, greatest, performance, be, greatest, achievement, own, film, be greatest, greatest performance, performance be, be greatest, greatest achievement, achievement own, own film
+I:244;492;be, daring, insightful, move, experience, be daring, daring insightful, insightful move, move experience
+I:244;493;entire, experience, be, inspiration, background, entire experience, experience be, be inspiration, inspiration background
+I:244;494;feel, be, important, film, see, feel be, be important, important film, film see
+I:244;495;think, movie, be, write, produce, think movie, movie be, be write, write produce
+I:244;496;be, good, movie, be good, good movie
+I:244;497;be, awesome, pair, be awesome, awesome pair
+I:244;498;excellent, film, excellent film
+I:244;499;be, outstanding, be outstanding
+I:244;500;love, love, love, love love, love love
+I:244;501;excellent, masterpiece, acting!my, family, watch, day, excellent masterpiece, masterpiece acting!my, acting!my family, family watch, watch day
+I:244;502;true, life, performance, glimpse, life, true life, life performance, performance glimpse, glimpse life
+I:244;503;see, weave, clothing, material, type, detail, see weave, weave clothing, clothing material, material type, type detail
+I:244;504;see, film, grain, that!the, best, addition, be, documentary, real, see film, film grain, grain that!the, that!the best, best addition, addition be, be documentary, documentary real
+I:244;505;get, see, extended, view, certain, sittuation, murder, public, reaction, scene, get see, see extended, extended view, view certain, certain sittuation, sittuation murder, murder public, public reaction, reaction scene
+I:244;506;be, main, reason, buy, new, be main, main reason, reason buy, buy new
+I:244;507;be, best, work, director, amazing, performance, be best, best work, work director, director amazing, amazing performance
+I:244;508;sure, deserve, best, picture/best, actor, know, be, snub, sure deserve, deserve best, best picture/best, picture/best actor, actor know, know be, be snub
+I:244;509;malcolm, x, be, masterwork, film, accessible, work, biopic, homage, oft, malcolm x, x be, be masterwork, masterwork film, film accessible, accessible work, work biopic, biopic homage, homage oft
+I:244;510;misunderstand, portray, misunderstand portray
+I:244;511;be, little, wonder, light, be little, little wonder, wonder light
+I:244;512;american, community, call, liberation, means, necessary, american community, community call, call liberation, liberation means, means necessary
+I:244;513;inclusive, force, world, inclusive force, force world
+I:244;514;film, be, record, memorial, be, be, become, film be, be record, record memorial, memorial be, be be, be become
+I:244;515;great, performance, great performance
+I:244;516;great, directiing, great directiing
+I:244;517;be, such, classy, actress, be such, such classy, classy actress
+I:244;518;movie, something, good, movie something, something good
+I:244;519;acting?spike, make, great, movie, summer, be, best, do, acting?spike make, make great, great movie, movie summer, summer be, be best, best do
+I:244;520;dude, be, bold, man, give, applaude, dude be, be bold, bold man, man give, give applaude
+I:244;521;give, mic, let, talk, put, tv, let, world, see, fool, be, give mic, mic let, let talk, talk put, put tv, tv let, let world, world see, see fool, fool be
+I:244;522;promote, powerful, black, woman, history, do, mean, anything, promote powerful, powerful black, black woman, woman history, history do, do mean, mean anything
+I:244;523;movie, be, good, book, good, see, visual, movie be, be good, good book, book good, good see, see visual
+I:244;524;x, be, great, think, come, give, thanks, living, x be, be great, great think, think come, come give, give thanks, thanks living
+I:244;525;black, angst, extreme, predjudice, injustice, reflect, beating, racial, tension, be, nothing, new, take, black angst, angst extreme, extreme predjudice, predjudice injustice, injustice reflect, reflect beating, beating racial, racial tension, tension be, be nothing, nothing new, new take
+I:244;526;tell, story, happen, year, tell story, story happen, happen year
+I:244;527;story, man, human, hero, sinner, saint, see, read, autobiography, x, x, think, x, be, worth, look, be, story man, man human, human hero, hero sinner, sinner saint, saint see, see read, read autobiography, autobiography x, x x, x think, think x, x be, be worth, worth look, look be
+I:244;528;tell, x, life, story, amazing, detail, realism, tell x, x life, life story, story amazing, amazing detail, detail realism
+I:244;529;hour, follow, be, astounding, hour follow, follow be, be astounding
+I:244;530;effort, create, sense, unity, pride, amoung, people, be, legend, hero, human, man, greatest, sense, word, effort create, create sense, sense unity, unity pride, pride amoung, amoung people, people be, be legend, legend hero, hero human, human man, man greatest, greatest sense, sense word
+I:244;531;denzel, unleash, full, calibre, performance, x, do, performance, denzel unleash, unleash full, full calibre, calibre performance, performance x, x do, do performance
+I:244;532;be, shame, x, fail, do, do, screen, award, be, say, be, man, message, be shame, shame x, x fail, fail do, do do, do screen, screen award, award be, be say, say be, be man, man message
+I:244;533;american, lifestyle, issue, pertenance, contemporary, society, american lifestyle, lifestyle issue, issue pertenance, pertenance contemporary, contemporary society
+I:244;534;be, x, do, capture, film, multus, be x, x do, do capture, capture film, film multus
+I:244;535;facet, feeling, people, represent, feeling, nation, facet feeling, feeling people, people represent, represent feeling, feeling nation
+I:244;536;be, essential, component, outstanding, filmmaker, culture, today, be essential, essential component, component outstanding, outstanding filmmaker, filmmaker culture, culture today
+I:244;537;x, be, masterpiece, x be, be masterpiece
+I:244;538;be, influential, black, actor, own, opinion, be influential, influential black, black actor, actor own, own opinion
+I:244;539;love, movie, think, nobody, have, portray, x, icon, african, american, history, better, love movie, movie think, think nobody, nobody have, have portray, portray x, x icon, icon african, african american, american history, history better
+I:244;540;great, movie, educate, man, be, understand, great movie, movie educate, educate man, man be, be understand
+I:244;541;outdo, movie, outdo movie
+I:244;542;know, much, make, interesting, viewing, know much, much make, make interesting, interesting viewing
+I:244;543;appearance, do, fantastic, job, help, beginning, movie, zoot, suit, appearance do, do fantastic, fantastic job, job help, help beginning, beginning movie, movie zoot, zoot suit
+I:244;544;serious, side, do, good, idea, x, be, be, becom, have, be, kill, serious side, side do, do good, good idea, idea x, x be, be be, be becom, becom have, have be, be kill
+I:244;545;great, condition, great, movie, base, biography, write, research, interview, best, work, great condition, condition great, great movie, movie base, base biography, biography write, write research, research interview, interview best, best work
+I:244;546;put, heart, soul, role, put heart, heart soul, soul role
+I:244;547;be, film, enjoy, be film, film enjoy
+I:244;548;opinion, x, be, greatest, film, date, greatest, most, sophisticated, film, have, see, opinion x, x be, be greatest, greatest film, film date, date greatest, greatest most, most sophisticated, sophisticated film, film have, have see
+I:244;549;x, be, masterpiece, fictional, time, be, heartfelt, story, have, see, capture, film, x be, be masterpiece, masterpiece fictional, fictional time, time be, be heartfelt, heartfelt story, story have, have see, see capture, capture film
+I:244;550;be, amazing, film, be amazing, amazing film
+I:244;551;buy, have, watch, few, time, cry, time, buy have, have watch, watch few, few time, time cry, cry time
+I:244;552;start, beginning, life, see, world, be, black, man, start beginning, beginning life, life see, see world, world be, be black, black man
+I:244;553;be, funny, sad, cinematology, be, amazing, be funny, funny sad, sad cinematology, cinematology be, be amazing
+I:244;554;love, film, be, touch, time, see, love film, film be, be touch, touch time, time see
+I:244;555;anything, performance, be, amazing, anything performance, performance be, be amazing
+I:244;556;story, live, history, great, leader, 60, story live, live history, history great, great leader, leader 60
+I:244;557;denz, excellent, role, denz excellent, excellent role
+I:244;558;make, nice, gift, make nice, nice gift
+I:244;559;story, x, be, dynamic, strong, story x, x be, be dynamic, dynamic strong
+I:244;560;performance, actor, be, worth, watch, deserving, attention, receive, movie, be, show, theater, performance actor, actor be, be worth, worth watch, watch deserving, deserving attention, attention receive, receive movie, movie be, be show, show theater
+I:244;561;recommend, anyone, enjoy, first, rate, act, powerful, stroy, recommend anyone, anyone enjoy, enjoy first, first rate, rate act, act powerful, powerful stroy
+I:244;562;craft, movie, craft movie
+I:244;563;beginning, movie, become, aware, see, friend, happy, emulate, larger, society, dress, mannerism, beginning movie, movie become, become aware, aware see, see friend, friend happy, happy emulate, emulate larger, larger society, society dress, dress mannerism
+I:244;564;notice, parallel, fawn, citizen, yesteryear, contemporary, go, happy, whites, today, notice parallel, parallel fawn, fawn citizen, citizen yesteryear, yesteryear contemporary, contemporary go, go happy, happy whites, whites today
+I:244;565;decide, join, black, decide join, join black
+I:244;566;influence, legacy, loom, larger, influence legacy, legacy loom, loom larger
+I:244;567;keep, resistance, alive, keep resistance, resistance alive
+I:244;568;movie, focus, scene, friend, shorty, movie focus, focus scene, scene friend, friend shorty
+I:244;569;movie, be, great, testimony, truth, be, movie be, be great, great testimony, testimony truth, truth be
+I:244;570;do, tremendous, job, lot, good, work, get, movie, do tremendous, tremendous job, job lot, lot good, good work, work get, get movie
+I:244;571;deserve, win, best, actor, be, deny, be, understatement, deserve win, win best, best actor, actor be, be deny, deny be, be understatement
+I:244;572;x, be, man, truth, honesty, x be, be man, man truth, truth honesty
+I:244;573;thank, spike, courage, bring, light, thank spike, spike courage, courage bring, bring light
+I:244;574;rest, actor, actress, play, major, role, do, character, rest actor, actor actress, actress play, play major, major role, role do, do character
+I:244;575;hit, home, run, film, select, portray, deliver, stunning, performance, hit home, home run, run film, film select, select portray, portray deliver, deliver stunning, stunning performance
+I:244;576;best, work, best work
+I:244;577;be, role, be, bear, play, be role, role be, be bear, bear play
+I:244;578;tell, energy, be, high, set, tell energy, energy be, be high, high set
+I:244;579;anybody, portray, someone, film, embody, person, character, make, believable, start, finish, take, someone, skilled, trained, have, passion, do, anybody portray, portray someone, someone film, film embody, embody person, person character, character make, make believable, believable start, start finish, finish take, take someone, someone skilled, skilled trained, trained have, have passion, passion do
+I:244;580;be, amazing, film, do, magnific, interpretation, be amazing, amazing film, film do, do magnific, magnific interpretation
+I:244;581;hit, stomach, way, present, black, people, american, society, think, hit stomach, stomach way, way present, present black, black people, people american, american society, society think
+I:244;582;see, film, be, younger, love, see film, film be, be younger, younger love
+I:244;583;think, adult, appreciate, struggle, stress, malcolm, x, family, have, go, think adult, adult appreciate, appreciate struggle, struggle stress, stress malcolm, malcolm x, x family, family have, have go
+I:244;584;movie, be, get, watch, own, role, movie be, be get, get watch, watch own, own role
+I:244;585;hear, people, be, frontline, movement, speak, time, period, be, poignant, read, book, hear people, people be, be frontline, frontline movement, movement speak, speak time, time period, period be, be poignant, poignant read, read book
+I:244;586;underlie, mission, lift, social, oppression, black, race, be, commendable, underlie mission, mission lift, lift social, social oppression, oppression black, black race, race be, be commendable
+I:244;587;see, film, see film
+I:244;588;great, value, money, be, revisit, site, want, great value, value money, money be, be revisit, revisit site, site want
+I:244;589;have, deliver, right, door, have deliver, deliver right, right door
+I:244;590;interesting, depiction, life, interesting depiction, depiction life
+I:244;591;great, movie, great, condition, great movie, movie great, great condition
+I:244;592;good, reenactment, actual, ballroom, assassination, base, multiple, source, good reenactment, reenactment actual, actual ballroom, ballroom assassination, assassination base, base multiple, multiple source
+I:244;593;suggest, everyone, spike, lees, best, movie, suggest everyone, everyone spike, spike lees, lees best, best movie
+I:244;594;thanks, pile, extra, stress, hassle, thanks pile, pile extra, extra stress, stress hassle
+I:244;595;good, act, be, great, good act, act be, be great
+I:244;596;bring, life, man, most, know, angry, man, bring life, life man, man most, most know, know angry, angry man
+I:244;597;smile, spirit, dead, physical, similarity, bring, much, humanize, smile spirit, spirit dead, dead physical, physical similarity, similarity bring, bring much, much humanize
+I:244;598;be, nice, see, tv, show, be, happen, hey, hey, hey, raj, be nice, nice see, see tv, tv show, show be, be happen, happen hey, hey hey, hey hey, hey raj
+I:244;599;write, deliver, actual, funeral, be, brilliant, move, have, recreate, film, write deliver, deliver actual, actual funeral, funeral be, be brilliant, brilliant move, move have, have recreate, recreate film
+I:244;600;be, huge, fan, work, movie, be, epic, do, amazing, job, condense, great, book, be huge, huge fan, fan work, work movie, movie be, be epic, epic do, do amazing, amazing job, job condense, condense great, great book
+I:244;601;life, x, be, perfect, movie, life x, x be, be perfect, perfect movie
+I:244;602;be, life, act, third, act, have, reward, life, penalty, previous, life, escape, be life, life act, act third, third act, act have, have reward, reward life, life penalty, penalty previous, previous life, life escape
+I:244;603;be, pivotal, book, scene, have, help, explain, get, money, go, be pivotal, pivotal book, book scene, scene have, have help, help explain, explain get, get money, money go
+I:244;604;disk, set, have, great, deal, extra, make, disk set, set have, have great, great deal, deal extra, extra make
+I:244;605;be, smart, include, most, be smart, smart include, include most
+I:244;606;embrace, new, self, play, embrace new, new self, self play
+I:244;607;be, delete, scene, enjoy, be delete, delete scene, scene enjoy
+I:244;608;music, fight, mood, many, time, remind, be, watch, movie, music fight, fight mood, mood many, many time, time remind, remind be, be watch, watch movie
+I:244;609;promotion, something, less, laudable?politics, movie, have, high, production, value, acting, be, good, story, be, faithful, promotion something, something less, less laudable?politics, laudable?politics movie, movie have, have high, high production, production value, value acting, acting be, be good, good story, story be, be faithful
+I:244;610;history, excite, history excite
+I:244;611;someone, like, kind, movie, think, selection, be, worthwhile, watch, someone like, like kind, kind movie, movie think, think selection, selection be, be worthwhile, worthwhile watch
+I:244;612;movie, be, make, sorty, be, true, demonstrate, turn, event, country, actuall, transpire, movie be, be make, make sorty, sorty be, be true, true demonstrate, demonstrate turn, turn event, event country, country actuall, actuall transpire
+I:244;613;be, honor, be honor
+I:244;614;islamic, conversion, prison, set, change, world, seek, thanks, film, autobiography, be, base, understand, struggle, inner, outer, justice, liberty, pursuit, have, happiness, islamic conversion, conversion prison, prison set, set change, change world, world seek, seek thanks, thanks film, film autobiography, autobiography be, be base, base understand, understand struggle, struggle inner, inner outer, outer justice, justice liberty, liberty pursuit, pursuit have, have happiness
+I:244;615;great, actor, play, x, know, movie, least, be, spearhead, strength, great actor, actor play, play x, x know, know movie, movie least, least be, be spearhead, spearhead strength
+I:244;616;be, lie, do, say, be, excellent, recommend, like, don, hat, honesty, tell, watch, lot, like, make, sure, see, least, book, excellent, be lie, lie do, do say, say be, be excellent, excellent recommend, recommend like, like don, don hat, hat honesty, honesty tell, tell watch, watch lot, lot like, like make, make sure, sure see, see least, least book, book excellent
+I:244;617;sound, be, awesome, think, be, theatre, sound be, be awesome, awesome think, think be, be theatre
+I:244;618;watch, cameo, watch cameo
+I:244;619;epic, piece, amercan, history, perform, epic piece, piece amercan, amercan history, history perform
+I:244;620;be, see, be see
+I:244;621;incredible, piece, work, incredible piece, piece work
+I:244;622;everything, film, be, great, everything film, film be, be great
+I:244;623;great, price, great price
+I:244;624;life, man, story, tell, be, read, watch, life man, man story, story tell, tell be, be read, read watch
+I:244;625;be, hope, exciting, history, lesson, get, blah, history, lesson, be hope, hope exciting, exciting history, history lesson, lesson get, get blah, blah history, history lesson
+I:244;626;autobiography, give, more, detail, be, best, watch, movie, get, better, understanding, imagination, autobiography give, give more, more detail, detail be, be best, best watch, watch movie, movie get, get better, better understanding, understanding imagination
+I:244;627;play, excellent, role, play excellent, excellent role
+I:244;628;sum, x, be, excellent, choice, sum x, x be, be excellent, excellent choice
+I:244;629;think, beginning, be, boring, ending, be, good, think beginning, beginning be, be boring, boring ending, ending be, be good
+I:244;630;remember, read, book, be, first, read, art, discipline, remember read, read book, book be, be first, first read, read art, art discipline
+I:244;631;man, story, be, full, rich, conversation, topic, be, relevant, man story, story be, be full, full rich, rich conversation, conversation topic, topic be, be relevant
+I:244;632;buy, several, year, be, think, look, buy several, several year, year be, be think, think look
+I:244;633;be, murder, young, age, be murder, murder young, young age
+I:244;634;course, be, wonderful, course be, be wonderful
+I:244;635;movie, be, great, movie be, be great
+I:244;636;be, show, amazing, life, man, be show, show amazing, amazing life, life man
+I:244;637;continue, turn, life, be, something, positive, dynamic, stand, face, evil, fight, have, many, force, end, show, tremendous, strength, have, continue turn, turn life, life be, be something, something positive, positive dynamic, dynamic stand, stand face, face evil, evil fight, fight have, have many, many force, force end, end show, show tremendous, tremendous strength, strength have
+I:244;638;story, performance, make, movie, get, story performance, performance make, make movie, movie get
+I:244;639;love, movie, portray, begin, end, love movie, movie portray, portray begin, begin end
+I:244;640;do, wonderful, job, act, do wonderful, wonderful job, job act
+I:244;641;stellar, performance, stellar performance
+I:244;642;portrayal, x, be, convincing, longer, see, screen, be, transport, time, witness, journey, portrayal x, x be, be convincing, convincing longer, longer see, see screen, screen be, be transport, transport time, time witness, witness journey
+I:244;643;be, ignore, speak, fear, subject, matter, incredible, evolution/creation, performance, cast, direction, inimitable, be ignore, ignore speak, speak fear, fear subject, subject matter, matter incredible, incredible evolution/creation, evolution/creation performance, performance cast, cast direction, direction inimitable
+I:244;644;recommend, premier, lesson, civil, rights, movement, recommend premier, premier lesson, lesson civil, civil rights, rights movement
+I:244;645;great, movie, be, man, great movie, movie be, be man
+I:244;646;great, feel, positive, revelation, historcal, fact, great feel, feel positive, positive revelation, revelation historcal, historcal fact
+I:244;647;be, be, good, be be, be good
+I:244;648;great, movie, be, act, great movie, movie be, be act
+I:244;649;vision, x, be, incredible, vision x, x be, be incredible
+I:244;650;deal, event, lead, assassination, deal event, event lead, lead assassination
+I:244;651;denzel, best, performance, be, do, win, award, denzel best, best performance, performance be, be do, do win, win award
+I:244;652;role, x, be, flawless, role, role x, x be, be flawless, flawless role
+I:244;653;get, goosebump, hear, speak, ive, see, lot, actual, speech, get goosebump, goosebump hear, hear speak, speak ive, ive see, see lot, lot actual, actual speech
+I:244;654;do, great, job, wife, support, actor, actress, be, great, do great, great job, job wife, wife support, support actor, actor actress, actress be, be great
+I:244;655;kudos, do, best, information, be, give, kudos do, do best, best information, information be, be give
+I:244;656;be, powerful, movie, have, see, be powerful, powerful movie, movie have, have see
+I:244;657;recommend, book, recommend book
+I:244;658;be, get, more, information, be, excellent, read, be get, get more, more information, information be, be excellent, excellent read
+I:244;659;good, depiction, injustice, good depiction, depiction injustice
+I:244;660;denzel, nail, role, aspect, denzel nail, nail role, role aspect
+I:244;661;be, best, film, be best, best film
+I:244;662;ray, cancilation, film, ray cancilation, cancilation film
+I:244;663;be, do, film, think, capture, alot, be, get, be, hard, make, film, define, people, history, be do, do film, film think, think capture, capture alot, alot be, be get, get be, be hard, hard make, make film, film define, define people, people history
+I:244;664;x, be, lucid, film, make, good, viewing, make, admiral, act, performace, x be, be lucid, lucid film, film make, make good, good viewing, viewing make, make admiral, admiral act, act performace
+I:244;665;be, best, film, have, see, be best, best film, film have, have see
+I:244;666;best, role, best role
+I:244;667;kudos, tell, story, kudos tell, tell story
+I:244;668;music, be, awesome, accurate, time, period, music be, be awesome, awesome accurate, accurate time, time period
+I:244;669;depict, best, act, have, give, movie, depict best, best act, act have, have give, give movie
+I:244;670;american, leader, embody, early, thuggish, way, life, crime, bear, american leader, leader embody, embody early, early thuggish, thuggish way, way life, life crime, crime bear
+I:244;671;general, movie, feature, excellent, cast, character, such, director, shorty, partner, crime, superb, acting, way, wife, do, terrific, job, emulate, clip, choppy, speech, real, general movie, movie feature, feature excellent, excellent cast, cast character, character such, such director, director shorty, shorty partner, partner crime, crime superb, superb acting, acting way, way wife, wife do, do terrific, terrific job, job emulate, emulate clip, clip choppy, choppy speech, speech real
+I:244;672;understand, choose, subtle, approach, understand choose, choose subtle, subtle approach
+I:244;673;movie, be, good, educate, audience, life, great, revolutionary, movie be, be good, good educate, educate audience, audience life, life great, great revolutionary
+I:244;674;plot, be, plot be
+I:244;675;craft, acting, be, outstanding, short, narrative, real, take, x, end, reflection, elementary, school, classroom, be, terrific, golden, finale, craft acting, acting be, be outstanding, outstanding short, short narrative, narrative real, real take, take x, x end, end reflection, reflection elementary, elementary school, school classroom, classroom be, be terrific, terrific golden, golden finale
+I:244;676;recommend, movie, get, start, x, idea, see, get, autobiography, definite, recommend movie, movie get, get start, start x, x idea, idea see, see get, get autobiography, autobiography definite
+I:244;677;last, legacy, tell, man, last legacy, legacy tell, tell man
+I:244;678;seaweed, hand, seaweed hand
+I:244;679;give, nuanced, performance, complicated, character, american, history, give nuanced, nuanced performance, performance complicated, complicated character, character american, american history
+I:244;680;appear, be, debate, reviewer, alter, history, make, entertaining, movie, appear be, be debate, debate reviewer, reviewer alter, alter history, history make, make entertaining, entertaining movie
+I:244;681;be, engross, start, finish, great, act, star, realistic, portrayal, be engross, engross start, start finish, finish great, great act, act star, star realistic, realistic portrayal
+I:244;682;veteran, actor, round, superb, cast, add, touch, clout, proceedings, veteran actor, actor round, round superb, superb cast, cast add, add touch, touch clout, clout proceedings
+I:244;683;story, be, true, outstanding, performance, make, inaccuracy, story be, be true, true outstanding, outstanding performance, performance make, make inaccuracy
+I:244;684;someone, know, little, brother, movie, be, fantastic, educational, tool, someone know, know little, little brother, brother movie, movie be, be fantastic, fantastic educational, educational tool
+I:244;685;film, be, great, depiction, struggle, ideology, transformation, film be, be great, great depiction, depiction struggle, struggle ideology, ideology transformation
+I:244;686;be, phenomenal, film, be phenomenal, phenomenal film
+I:244;687;best, performance, best performance
+I:244;688;content, be, good, story, line, move, way, way, slow, content be, be good, good story, story line, line move, move way, way way, way slow
+I:244;689;nice, overall, movie, play, lead, role, nice overall, overall movie, movie play, play lead, lead role
+I:244;690;masterpiece, best, film, make, masterpiece best, best film, film make
+I:244;691;give, best, performance, have, receive, year, academy, award, best, actor, give best, best performance, performance have, have receive, receive year, year academy, academy award, award best, best actor
+I:244;692;deny, other, deserve, award, nomination, deny other, other deserve, deserve award, award nomination
+I:244;693;true, fan, cinema, do, favor, view, film, have, true fan, fan cinema, cinema do, do favor, favor view, view film, film have
+I:244;694;have, agree, powerful, film, making, subject, matter, be, liking, have agree, agree powerful, powerful film, film making, making subject, subject matter, matter be, be liking
+I:244;695;x, be, riveting, masterpiece, be, thrilling, move, powerful, x be, be riveting, riveting masterpiece, masterpiece be, be thrilling, thrilling move, move powerful
+I:244;696;do, great, job, capture, x, do, best, performance, do great, great job, job capture, capture x, x do, do best, best performance
+I:244;697;be, film, let, know, character, time, be film, film let, let know, know character, character time
+I:244;698;love, structure, screenplay, film, love structure, structure screenplay, screenplay film
+I:244;699;first, half, be, noirish, gangster, feel, second, be, riveting, historical, document, first half, half be, be noirish, noirish gangster, gangster feel, feel second, second be, be riveting, riveting historical, historical document
+I:244;700;be, powerful, filmmaking, be, best, be powerful, powerful filmmaking, filmmaking be, be best
+I:244;701;x, be, brutal, powerful, hard, x be, be brutal, brutal powerful, powerful hard
+I:244;702;hit, full, great, performance, hit full, full great, great performance
+I:244;703;recent, summer, release, summer, reach, level, power, intensity, recent summer, summer release, release summer, summer reach, reach level, level power, power intensity
+I:244;704;be, greatest, film, decade, true, gem, be greatest, greatest film, film decade, decade true, true gem
+I:244;705;be, great, shock, read, autobio, fascinating, important, understand, be, be great, great shock, shock read, read autobio, autobio fascinating, fascinating important, important understand, understand be
+I:244;706;viewing, be, successful, evoke, extraordinary, life, viewing be, be successful, successful evoke, evoke extraordinary, extraordinary life
+I:244;707;get, factual, outline, feeling, be, x, time, get factual, factual outline, outline feeling, feeling be, be x, x time
+I:244;708;be, act, be, greatest, actor, alive, be act, act be, be greatest, greatest actor, actor alive
+I:244;709;believe, portrait, grow, role, extraordinary, ease, mercurial, energy, genius, believe portrait, portrait grow, grow role, role extraordinary, extraordinary ease, ease mercurial, mercurial energy, energy genius
+I:244;710;be, deep, question, be, content, provoke, viewing, leave, audience, vex, interested, find, be deep, deep question, question be, be content, content provoke, provoke viewing, viewing leave, leave audience, audience vex, vex interested, interested find
+I:244;711;be, brechtian, ambition, work, be brechtian, brechtian ambition, ambition work
+I:244;712;be, raft, extraordinary, personality, appear, be, be raft, raft extraordinary, extraordinary personality, personality appear, appear be
+I:244;713;x, tell, lot, be, human, x tell, tell lot, lot be, be human
+I:244;714;believe, continue, fascinate, die, moment, be, ripe, potential, change, believe continue, continue fascinate, fascinate die, die moment, moment be, be ripe, ripe potential, potential change
+I:244;715;film, make, weep, do, youth, book, film make, make weep, weep do, do youth, youth book
+I:244;716;be, go, say, be, have, receive, excellent, ode, be go, go say, say be, be have, have receive, receive excellent, excellent ode
+I:244;717;x, be, favorite, movie, classic, film, put, talent, enjoyable, spectacular, piece, x be, be favorite, favorite movie, movie classic, classic film, film put, put talent, talent enjoyable, enjoyable spectacular, spectacular piece
+I:244;718;imagine, make, past, discussion, production, imagine make, make past, past discussion, discussion production
+I:244;719;have, documentary, other, extra, split, disc, have documentary, documentary other, other extra, extra split, split disc
+I:244;720;do, great, job, production, design, grant, want, hear, cinematographer, do great, great job, job production, production design, design grant, grant want, want hear, hear cinematographer
+I:244;721;want, hear, scene, classic, touch, technique, year, wait, commentary, track, classic, scene, do, have, comment, irrelevant, comment, antique, store, have, lamp, be, charming, store, have, lot, nice, item, blah, want hear, hear scene, scene classic, classic touch, touch technique, technique year, year wait, wait commentary, commentary track, track classic, classic scene, scene do, do have, have comment, comment irrelevant, irrelevant comment, comment antique, antique store, store have, have lamp, lamp be, be charming, charming store, store have, have lot, lot nice, nice item, item blah
+I:244;722;have, win, remember, have win, win remember
+I:244;723;turn, channel, be, turn channel, channel be
+I:244;724;recommend, movie, anyone, want, free, act, lesson, recommend movie, movie anyone, anyone want, want free, free act, act lesson
+I:244;725;be, masterful, work, art, take, history, x, be masterful, masterful work, work art, art take, take history, history x
+I:244;726;rate, movie, same, list, importance, visit, rate movie, movie same, same list, list importance, importance visit
+I:244;727;think, be, american, be, more, birth, right, appreciate, movie, think be, be american, american be, be more, more birth, birth right, right appreciate, appreciate movie
+I:244;728;be, entertaining, complex, movie, complex, man, be entertaining, entertaining complex, complex movie, movie complex, complex man
+I:244;729;stunning, performance, nominate, carry, film, cinematic, excellence, stunning performance, performance nominate, nominate carry, carry film, film cinematic, cinematic excellence
+I:244;730;star, title, character, controversial, black, nationalist, be, interesting, people, live, 20th, star title, title character, character controversial, controversial black, black nationalist, nationalist be, be interesting, interesting people, people live, live 20th
+I:244;731;uncompromising, direction, focus, x, life, uncompromising direction, direction focus, focus x, x life
+I:244;732;good, support, cast, help, be, show, very, start, good support, support cast, cast help, help be, be show, show very, very start
+I:244;733;x, be, great, man, influence, million, teaching, word, x be, be great, great man, man influence, influence million, million teaching, teaching word
+I:244;734;film, do, justice, act, witty, intelligent, screenplay, film do, do justice, justice act, act witty, witty intelligent, intelligent screenplay
+I:244;735;be, see, anyone, be see, see anyone
+I:244;736;ending, be, tender, tell, next, generation, teach, society, be, humane, other, ending be, be tender, tender tell, tell next, next generation, generation teach, teach society, society be, be humane, humane other
+I:244;737;credit, start, roll, feel, warm, teary, eyed, evidence, perfect, film, credit start, start roll, roll feel, feel warm, warm teary, teary eyed, eyed evidence, evidence perfect, perfect film
+I:244;738;prove, be, deserving, recipient, love, acting, prove be, be deserving, deserving recipient, recipient love, love acting
+I:244;739;x, be, make, be, proud, buy, son, x be, be make, make be, be proud, proud buy, buy son
+I:244;740;give, performance, career, film, give performance, performance career, career film
+I:244;741;washington, work, in/as, x, be, best, actor, capture, man, ascension, street, hustler/convict, revolutionary/national, figure, washington work, work in/as, in/as x, x be, be best, best actor, actor capture, capture man, man ascension, ascension street, street hustler/convict, hustler/convict revolutionary/national, revolutionary/national figure
+I:244;742;be, wonderful, wife, be, sharp, be, excellent, be wonderful, wonderful wife, wife be, be sharp, sharp be, be excellent
+I:244;743;measure, direction, dissuade, see, amazing, motion, picture, measure direction, direction dissuade, dissuade see, see amazing, amazing motion, motion picture
+I:244;744;live, interesting, life, fill, many, transformation, live interesting, interesting life, life fill, fill many, many transformation
+I:244;745;movie, touch, civil, rights, movement, life, african, american, time, have, spiritual, aspect, regard, muslim, faith, movie touch, touch civil, civil rights, rights movement, movement life, life african, african american, american time, time have, have spiritual, spiritual aspect, aspect regard, regard muslim, muslim faith
+I:244;746;special, feature, be, excellent, special feature, feature be, be excellent
+I:244;747;be, best, film, be best, best film
+I:244;748;excellent, movie, student, be, touch, do, wonderful, job, directing, be, awesome, mannerism, excellent movie, movie student, student be, be touch, touch do, do wonderful, wonderful job, job directing, directing be, be awesome, awesome mannerism
+I:244;749;best, movie, have, watch, best movie, movie have, have watch
+I:244;750;clear, easy, shift, clear easy, easy shift
+I:244;751;good, movie, love, great, story, true, fact, life, great, actor, want, spoil, good movie, movie love, love great, great story, story true, true fact, fact life, life great, great actor, actor want, want spoil
+I:244;752;best, one, hope, be, point, view, stop, short, propaganda, do, fall, prey, white, best one, one hope, hope be, be point, point view, view stop, stop short, short propaganda, propaganda do, do fall, fall prey, prey white
+I:244;753;movie, performance, be, powerful, forgive, many, broad, stroke, enjoy, film, evaluate, sum, effect, movie performance, performance be, be powerful, powerful forgive, forgive many, many broad, broad stroke, stroke enjoy, enjoy film, film evaluate, evaluate sum, sum effect
+I:244;754;least, have, potential, bring, fuller, understanding, race, religion, daily, political, least have, have potential, potential bring, bring fuller, fuller understanding, understanding race, race religion, religion daily, daily political
+I:244;755;malcolm, come, practice, idealist, man, highest, integrity, rigorous, discipline, capable, realize, vision, brotherhood, awareness, lineage, bring, moral, intention, practice, malcolm come, come practice, practice idealist, idealist man, man highest, highest integrity, integrity rigorous, rigorous discipline, discipline capable, capable realize, realize vision, vision brotherhood, brotherhood awareness, awareness lineage, lineage bring, bring moral, moral intention, intention practice
+I:244;756;problematic, division, alignment, shia, distinction, nation, be, suggest, break, due, latter, woman, problem, be, gloss, end, movie, importance, rise, attention, such, detail, problematic division, division alignment, alignment shia, shia distinction, distinction nation, nation be, be suggest, suggest break, break due, due latter, latter woman, woman problem, problem be, be gloss, gloss end, end movie, movie importance, importance rise, rise attention, attention such, such detail
+I:244;757;be, hero, role, model, inspiration, meaningful, constructive, mythic, legacy, similar, narrative, center, outsize, human, source, point, credibility, be hero, hero role, role model, model inspiration, inspiration meaningful, meaningful constructive, constructive mythic, mythic legacy, legacy similar, similar narrative, narrative center, center outsize, outsize human, human source, source point, point credibility
+I:244;758;fledge, member, human, race, empower, pursue, achieve, excellence, color, fledge member, member human, human race, race empower, empower pursue, pursue achieve, achieve excellence, excellence color
+I:244;759;best, cinema, have, potential, be, reflective, screen, mirror, social, private, life, expose, best, worst, best cinema, cinema have, have potential, potential be, be reflective, reflective screen, screen mirror, mirror social, social private, private life, life expose, expose best, best worst
+I:244;760;make, potent, mix, powerful, chemistry, hope, continue, exert, clarify, power, color, stage, be, be, set, coming, year, test, nation, ability, practice, democracy, profess, prize, make potent, potent mix, mix powerful, powerful chemistry, chemistry hope, hope continue, continue exert, exert clarify, clarify power, power color, color stage, stage be, be be, be set, set coming, coming year, year test, test nation, nation ability, ability practice, practice democracy, democracy profess, profess prize
+I:244;761;x, be, best, film, have, see, x be, be best, best film, film have, have see
+I:244;762;overall, portrayal, x, class, president, street, hustler, convict, political, leader, be, good, get, overall portrayal, portrayal x, x class, class president, president street, street hustler, hustler convict, convict political, political leader, leader be, be good, good get
+I:244;763;director, deliver, director deliver
+I:244;764;be, many, thing, learn, charisma, fiery, rhetoric, sacrifice, be many, many thing, thing learn, learn charisma, charisma fiery, fiery rhetoric, rhetoric sacrifice
+I:244;765;documentary, disc, be, add, bonus, documentary disc, disc be, be add, add bonus
+I:244;766;be, long, be, part, move, take, whole, be, best, film, make, be long, long be, be part, part move, move take, take whole, whole be, be best, best film, film make
+I:244;767;be, perfect, be perfect
+I:244;768;movie, be, move, dramatic, movie be, be move, move dramatic
+I:244;769;matter, view, movement, movie, be, entertaining, stand, own, merit, matter view, view movement, movement movie, movie be, be entertaining, entertaining stand, stand own, own merit
+I:244;770;do, best, film, do best, best film
+I:244;771;excellent, choice, film, be, inspiration, black, non, excellent choice, choice film, film be, be inspiration, inspiration black, black non
+I:244;772;captivate, beauty, religion, man, believe, hard, work, dedication, captivate beauty, beauty religion, religion man, man believe, believe hard, hard work, work dedication
+I:244;773;ending, be, touching, bring, tear, eye, today, ending be, be touching, touching bring, bring tear, tear eye, eye today
+I:244;774;real, rest, peace, real rest, rest peace
+I:244;775;see, film, be, powerful, change, way, look, life, see film, film be, be powerful, powerful change, change way, way look, look life
+I:244;776;be, greatest, teacher, black, man, woman, have, be greatest, greatest teacher, teacher black, black man, man woman, woman have
+I:244;777;white, man, have, ton, respect, late, great, be, peace, unity, white man, man have, have ton, ton respect, respect late, late great, great be, be peace, peace unity
+I:244;778;be, beautiful, wonderful, thing, be beautiful, beautiful wonderful, wonderful thing
+I:244;779;watch, message, power, word, be, utmost, profound, find, necessary, relevant, today, watch message, message power, power word, word be, be utmost, utmost profound, profound find, find necessary, necessary relevant, relevant today
+I:244;780;watch, movie, take, time, review, documentary, second, disc, be, powerful, watch movie, movie take, take time, time review, review documentary, documentary second, second disc, disc be, be powerful
+I:244;781;read, autobiography, year, read, soul, intellect, open, read autobiography, autobiography year, year read, read soul, soul intellect, intellect open
+I:244;782;book, have, powerful, impact, psyche, go, see, movie, be, transfix, performance, book have, have powerful, powerful impact, impact psyche, psyche go, go see, see movie, movie be, be transfix, transfix performance
+I:244;783;spike, have, win, best, director, year, passion, have, do, movie, be, self, spike have, have win, win best, best director, director year, year passion, passion have, have do, do movie, movie be, be self
+I:244;784;be, important, history, be, give, respect, deserve, culture, be important, important history, history be, be give, give respect, respect deserve, deserve culture
+I:244;785;be, amazing, film, look, life, be amazing, amazing film, film look, look life
+I:244;786;see, best, role, breathe, life, complex, historical, figure, see best, best role, role breathe, breathe life, life complex, complex historical, historical figure
+I:244;787;make, understand, thing, shaped, idea, vision, progress, life, make understand, understand thing, thing shaped, shaped idea, idea vision, vision progress, progress life
+I:244;788;music, be, superb, acting, be, great, direction, be, unique, captivating, music be, be superb, superb acting, acting be, be great, great direction, direction be, be unique, unique captivating
+I:244;789;be, great, watch, keep, engross, come, learn, something, influential, man, be great, great watch, watch keep, keep engross, engross come, come learn, learn something, something influential, influential man
+I:244;790;happen, life, change, undergo, be, influential, inspiring, true, story, have, touch, heart, happen life, life change, change undergo, undergo be, be influential, influential inspiring, inspiring true, true story, story have, have touch, touch heart
+I:244;791;spike, director, do, bring, x, big, screen, portray, late, black, leader, spike director, director do, do bring, bring x, x big, big screen, screen portray, portray late, late black, black leader
+I:244;792;educate, jail, turn, be, many, expect, outspoken, strong, intelligent, spokesperson, nation, struggle, black, community, educate jail, jail turn, turn be, be many, many expect, expect outspoken, outspoken strong, strong intelligent, intelligent spokesperson, spokesperson nation, nation struggle, struggle black, black community
+I:244;793;movie, reveal, inner, conflict, result, break, become, independant, activist, movie reveal, reveal inner, inner conflict, conflict result, result break, break become, become independant, independant activist
+I:244;794;film, do, story, justice, show, pilgrimage, film do, do story, story justice, justice show, show pilgrimage
+I:244;795;best, movie, have, see, best movie, movie have, have see
+I:244;796;incredible, acting, incredible, story, line, incredible acting, acting incredible, incredible story, story line
+I:244;797;say, powerful, moment, movement, human, spirit, say powerful, powerful moment, moment movement, movement human, human spirit
+I:244;798;movie, be, impressed, ability, play, confident, smart, super, movie be, be impressed, impressed ability, ability play, play confident, confident smart, smart super
+I:244;799;watch, movie, make, realize, have, be, kind, actor, watch movie, movie make, make realize, realize have, have be, be kind, kind actor
+I:244;800;portrayal, be, full, power, subtlety, portrayal be, be full, full power, power subtlety
+I:244;801;have, have, much, interest, film, have, say, be, do, interesting, matter, fall, political, spectrum, have have, have much, much interest, interest film, film have, have say, say be, be do, do interesting, interesting matter, matter fall, fall political, political spectrum
+I:244;802;classic, motion, picture, superb, performance, classic motion, motion picture, picture superb, superb performance
+I:244;803;be, portray, fine, performace, befitting, superb, act, ability, be portray, portray fine, fine performace, performace befitting, befitting superb, superb act, act ability
+I:244;804;be, funny, part, director, be, be funny, funny part, part director, director be
+I:244;805;rest, be, great, rest be, be great
+I:244;806;expect, look, film, have, make, do, excellent, job, expect look, look film, film have, have make, make do, do excellent, excellent job
+I:244;807;remain, movie, tradition, great, music, interesting, characteristic, shot, see, sort, slide, camera, common, device, movie, remain movie, movie tradition, tradition great, great music, music interesting, interesting characteristic, characteristic shot, shot see, see sort, sort slide, slide camera, camera common, common device, device movie
+I:244;808;think, look, x, be, light, skin, lanky, do, amazing, job, think look, look x, x be, be light, light skin, skin lanky, lanky do, do amazing, amazing job
+I:244;809;stay, true, autobiography, end, scene, be, positive, uplifting, stay true, true autobiography, autobiography end, end scene, scene be, be positive, positive uplifting
+I:244;810;be, best, film, biography, make, true, epic, achievement, be best, best film, film biography, biography make, make true, true epic, epic achievement
+I:244;811;blend, artistic, side, true, sober, representation, american, icon, blend artistic, artistic side, side true, true sober, sober representation, representation american, american icon
+I:244;812;be, great, show, evolve, person, be great, great show, show evolve, evolve person
+I:244;813;best, representation, x, conceive, film, best representation, representation x, x conceive, conceive film
+I:244;814;be, time, great, performance, portrayal, historical, figure, young, be time, time great, great performance, performance portrayal, portrayal historical, historical figure, figure young
+I:244;815;be, immense, film, rank, greatest, performance, be immense, immense film, film rank, rank greatest, greatest performance
+I:244;816;portray, life, remarkable, fascinating, figure, x, go, real, detail, give, viewer, real, insight, life, time, period, portray life, life remarkable, remarkable fascinating, fascinating figure, figure x, x go, go real, real detail, detail give, give viewer, viewer real, real insight, insight life, life time, time period
+I:244;817;recommend, essential, view, anyone, interested, x, student, study, area, provide, great, overview, period, plenty, detail, key, moment, life, recommend essential, essential view, view anyone, anyone interested, interested x, x student, student study, study area, area provide, provide great, great overview, overview period, period plenty, plenty detail, detail key, key moment, moment life
+I:244;818;remember, be, grow, turmoil, be, create, time, remember be, be grow, grow turmoil, turmoil be, be create, create time
+I:244;819;movie, show, true, honor, life, life, be, influence, people, bye, speak, truth, need, be, say, movie show, show true, true honor, honor life, life life, life be, be influence, influence people, people bye, bye speak, speak truth, truth need, need be, be say
+I:244;820;word, be, powerful, today, be, word be, be powerful, powerful today, today be
+I:244;821;word, be, be, happen, be, time, word be, be be, be happen, happen be, be time
+I:244;822;great, documentary, history, amazing, man, be, misinterpret, great documentary, documentary history, history amazing, amazing man, man be, be misinterpret
+I:244;823;be, great, combination, true, talent, be great, great combination, combination true, true talent
+I:244;824;be, bear, play, role, be bear, bear play, play role
+I:244;825;be, wonderful, be, able, take, audience, entire, history, life, adult, be wonderful, wonderful be, be able, able take, take audience, audience entire, entire history, history life, life adult
+I:244;826;be, able, see, wonderful, man, become, be, be able, able see, see wonderful, wonderful man, man become, become be
+I:244;827;great, job, clothes, zoot, suit, papa, use, wear, great job, job clothes, clothes zoot, zoot suit, suit papa, papa use, use wear
+I:244;828;movie, be, superb, example, film, biopic, movie be, be superb, superb example, example film, film biopic
+I:244;829;discoverd, be, plenty, white, follower, muslim, faith, discoverd be, be plenty, plenty white, white follower, follower muslim, muslim faith
+I:244;830;teach, peace, love, teach peace, peace love
+I:244;831;be, complete, twist, word, q'ran, representation, islamic, faith, be, be complete, complete twist, twist word, word q'ran, q'ran representation, representation islamic, islamic faith, faith be
+I:244;832;please, read, educate, speak, matter, hand, please read, read educate, educate speak, speak matter, matter hand
+I:244;833;movie, be, hand, best, career, movie be, be hand, hand best, best career
+I:244;834;outdo, movie, outdo movie
+I:244;835;have, get, best, director, have get, get best, best director
+I:244;836;movie, keep, glue, screen, hour, run, bring, tear, eye, movie keep, keep glue, glue screen, screen hour, hour run, run bring, bring tear, tear eye
+I:244;837;be, film, be, bear, make, be film, film be, be bear, bear make
+I:244;838;be, sincere, hope, revisit, film, come, deluxe, be sincere, sincere hope, hope revisit, revisit film, film come, come deluxe
+I:244;839;malcolm, x, be, powerful, compelling, biography, chronicle, struggle, rise, tragic, fall, great, american, individual, malcolm x, x be, be powerful, powerful compelling, compelling biography, biography chronicle, chronicle struggle, struggle rise, rise tragic, tragic fall, fall great, great american, american individual
+I:244;840;have, receive, performance, have receive, receive performance
+I:244;841;blond, blue, eye, offer, x, drink, tin, cup, blond blue, blue eye, eye offer, offer x, x drink, drink tin, tin cup
+I:244;842;take, log, own, eye, take log, log own, own eye
+I:244;843;please, keep, mind, have, read, x, own, word, regard, gender, discrimination, little, moment, be, bit, seminal, film, please keep, keep mind, mind have, have read, read x, x own, own word, word regard, regard gender, gender discrimination, discrimination little, little moment, moment be, be bit, bit seminal, seminal film
+I:244;844;package, movie, be, good, white, devil, appreciate, anger, black, man, package movie, movie be, be good, good white, white devil, devil appreciate, appreciate anger, anger black, black man
+I:244;845;be, good, movie, be, deep, be good, good movie, movie be, be deep
+I:244;846;complex, rapid, change, life, malcolm, x, go, few, short, year, be, earth, complex rapid, rapid change, change life, life malcolm, malcolm x, x go, go few, few short, short year, year be, be earth
+I:244;847;spike, do, wonderful, job, talented, actor, involve, spike do, do wonderful, wonderful job, job talented, talented actor, actor involve
+I:244;848;be, visionary, movie, portray, such, be visionary, visionary movie, movie portray, portray such
+I:244;849;performance, be, riveting, performance be, be riveting
+I:244;850;screenplay, be, %, accurate, say, support, actor, be, fantastic, screenplay be, be %, % accurate, accurate say, say support, support actor, actor be, be fantastic
+I:244;851;see, people, world, see people, people world
+I:244;852;be, movie, have, win, be movie, movie have, have win
+I:244;853;acting, be, superb, story, line, provide, much, information, life, movie, have, first, time, see, acting be, be superb, superb story, story line, line provide, provide much, much information, information life, life movie, movie have, have first, first time, time see
+I:244;854;malcolm, x, be, interesting, movie, malcolm x, x be, be interesting, interesting movie
+I:244;855;do, wonderful, job, cinematography, do wonderful, wonderful job, job cinematography
+I:244;856;acting, be, superb, many, other, film, acting be, be superb, superb many, many other, other film
+I:244;857;set, be, outstanding, location, scene, set be, be outstanding, outstanding location, location scene
+I:244;858;malcolm, x, opinion, be, great, fil, bio, picture, malcolm x, x opinion, opinion be, be great, great fil, fil bio, bio picture
+I:244;859;be, most, ambitious, effort, date, be most, most ambitious, ambitious effort, effort date
+I:244;860;film, scope, be, expansive, film scope, scope be, be expansive
+I:244;861;film, look, be, rich, vibrant, color, set, film look, look be, be rich, rich vibrant, vibrant color, color set
+I:244;862;cinematography, be, excellent, usual, go, usual, bag, visual, trick, cinematography be, be excellent, excellent usual, usual go, go usual, usual bag, bag visual, visual trick
+I:244;863;x, have, look, be, be, own, x have, have look, look be, be be, be own
+I:244;864;have, look, polish, big, studio, movie, have look, look polish, polish big, big studio, studio movie
+I:244;865;be, dance, number, be, sight, see, be dance, dance number, number be, be sight, sight see
+I:244;866;stand, performance, go, cast, stand performance, performance go, go cast
+I:244;867;role, have, least, earn, nomination, best, support, actor, role have, have least, least earn, earn nomination, nomination best, best support, support actor
+I:244;868;stand, wicked, number, runner, stand wicked, wicked number, number runner
+I:244;869;be, splendid, ficitious, baine, be splendid, splendid ficitious, ficitious baine
+I:244;870;real, star, movie, be, real star, star movie, movie be
+I:244;871;performance, tower, rest, cast, performance tower, tower rest, rest cast
+I:244;872;best, film, do, right, thing, be, best film, film do, do right, right thing, thing be
+I:244;873;be, wonderful, sprawling, oddesey, life, influential, black, leader, 20th, century, be wonderful, wonderful sprawling, sprawling oddesey, oddesey life, life influential, influential black, black leader, leader 20th, 20th century
+I:244;874;demonstrate, snub, best, actor, pierce, haunting, unforgettable, portrayal, demonstrate snub, snub best, best actor, actor pierce, pierce haunting, haunting unforgettable, unforgettable portrayal
+I:244;875;film, be, poignant, tell, story, influencial, charismatic, fear, revolutionary, generation, film be, be poignant, poignant tell, tell story, story influencial, influencial charismatic, charismatic fear, fear revolutionary, revolutionary generation
+I:244;876;do, phenominal, job, capture, essence, story, affection, direction, conviction, sensativity, do phenominal, phenominal job, job capture, capture essence, essence story, story affection, affection direction, direction conviction, conviction sensativity
+I:244;877;matter, fact, be, best, feature, film, director, have, put, matter fact, fact be, be best, best feature, feature film, film director, director have, have put
+I:244;878;riveting, support, performance, such, notable, actor, host, other, cameo, riveting support, support performance, performance such, such notable, notable actor, actor host, host other, other cameo
+I:244;879;snub, be, nominate, best, actor, best, costume, designer, snub be, be nominate, nominate best, best actor, actor best, best costume, costume designer
+I:244;880;good, footnote, be, do, win, best, actor, aka, little, brother, good footnote, footnote be, be do, do win, win best, best actor, actor aka, aka little, little brother
+I:244;881;cinematography, be, fabulous, score, be, memorable, cinematography be, be fabulous, fabulous score, score be, be memorable
+I:244;882;be, film, crew, cast, love, show, final, product, be film, film crew, crew cast, cast love, love show, show final, final product
+I:244;883;be, poignant, important, film, be poignant, poignant important, important film
+I:244;884;illustrate, necessity, understand, need, cooperate, other, human, level, illustrate necessity, necessity understand, understand need, need cooperate, cooperate other, other human, human level
+I:244;885;hard, believe, single, film, capture, element, hard believe, believe single, single film, film capture, capture element
+I:244;886;needless, say, recommend, film, needless say, say recommend, recommend film
+I:244;887;get, do, read, book, decide, watch, movie, see, have, come, middle, movie, tv, get do, do read, read book, book decide, decide watch, watch movie, movie see, see have, have come, come middle, middle movie, movie tv
+I:244;888;recommend, read, book, get, real, portrait, x, be, recommend read, read book, book get, get real, real portrait, portrait x, x be
+I:244;889;be, surprise, remember, be surprise, surprise remember
+I:244;890;enjoy, watch, enjoy watch
+I:244;891;be, great, educational, movie, help, everybody, learn, give, outstanding, performance, one, have, do, be great, great educational, educational movie, movie help, help everybody, everybody learn, learn give, give outstanding, outstanding performance, performance one, one have, have do
+I:244;892;x, be, best, bio, x be, be best, best bio
+I:244;893;be, important, be, filmmaker, media, artist, marginalize, people, voice, be important, important be, be filmmaker, filmmaker media, media artist, artist marginalize, marginalize people, people voice
+I:244;894;justice, seek, artist, be, systematic, persistent, do, much, justice seek, seek artist, artist be, be systematic, systematic persistent, persistent do, do much
+I:244;895;have, show, do, true, good, work, earn, comfortable, income, be, doable, have show, show do, do true, true good, good work, work earn, earn comfortable, comfortable income, income be, be doable
+I:244;896;watch, film, year, feel, move, watch film, film year, year feel, feel move
+I:244;897;film, stand, comparison, film, mention, x, be, important, person, history, civil, rights, whole, world, film stand, stand comparison, comparison film, film mention, mention x, x be, be important, important person, person history, history civil, civil rights, rights whole, whole world
+I:244;898;malcolm, life, go, be, tough, thug, former, jailbird, civil, rights, leader, people, sharp, brain, uncompromising, electrifying, speech, have, hear, malcolm life, life go, go be, be tough, tough thug, thug former, former jailbird, jailbird civil, civil rights, rights leader, leader people, people sharp, sharp brain, brain uncompromising, uncompromising electrifying, electrifying speech, speech have, have hear
+I:244;899;good, film, length, watch, good film, film length, length watch
+I:244;900;be, convincing, x, be, usual, charismatic, role, be convincing, convincing x, x be, be usual, usual charismatic, charismatic role
+I:244;901;be, sad, end, amazing, life, be sad, sad end, end amazing, amazing life
+I:244;902;film, life, progress, be, feeling, be, shed, skin, shed, skin, life, crime, be, film life, life progress, progress be, be feeling, feeling be, be shed, shed skin, skin shed, shed skin, skin life, life crime, crime be
+I:244;903;feel, make, strong, impact, begin, see, humanity, black, people, worthy, concern, love, consideration, feel make, make strong, strong impact, impact begin, begin see, see humanity, humanity black, black people, people worthy, worthy concern, concern love, love consideration
+I:244;904;racial, climate, time, be, easy, understand, someone, black, despise, white, people, mainstream, white, culture, be, good, say, x, end, life, change, perspective, have, courage, doubt, conviction, begin, see, bigger, picture, racial climate, climate time, time be, be easy, easy understand, understand someone, someone black, black despise, despise white, white people, people mainstream, mainstream white, white culture, culture be, be good, good say, say x, x end, end life, life change, change perspective, perspective have, have courage, courage doubt, doubt conviction, conviction begin, begin see, see bigger, bigger picture
+I:244;905;be, great, man, be great, great man
+I:244;906;be, few, film, be few, few film
+I:244;907;anyone, know, nothing, history, black, people, world, black, peoplef, seem, be, aspect, life, movie, be, excellent, choice, anyone know, know nothing, nothing history, history black, black people, people world, world black, black peoplef, peoplef seem, seem be, be aspect, aspect life, life movie, movie be, be excellent, excellent choice
+I:244;908;great, additional, feature, booklet, accompany, movie, great additional, additional feature, feature booklet, booklet accompany, accompany movie
+I:244;909;be, great, movie, begin, end, be great, great movie, movie begin, begin end
+I:244;910;portrayal, slay, civil, rights, leader, be, riveting, portrayal slay, slay civil, civil rights, rights leader, leader be, be riveting
+I:244;911;be, see, be see
+I:244;912;enjoy, movie, great, deal, think, perform, enjoy movie, movie great, great deal, deal think, think perform
+I:244;913;end, result, be, much, wiser, humble, strong, individual, believe, good, people, race, end result, result be, be much, much wiser, wiser humble, humble strong, strong individual, individual believe, believe good, good people, people race
+I:244;914;believe, be, good, heart, life, be, journey, teach, many, thing, believe be, be good, good heart, heart life, life be, be journey, journey teach, teach many, many thing
+I:244;915;be, best, movie, have, see, date, be best, best movie, movie have, have see, see date
+I:244;916;movie, be, life, performance, be, comparable, happen, movie be, be life, life performance, performance be, be comparable, comparable happen
+I:244;917;deserve, honorary, oop, forget, honor, deserve honorary, honorary oop, oop forget, forget honor
+I:244;918;watch, movie, read, book, enlighten, watch movie, movie read, read book, book enlighten
+I:244;919;deznal, wsshingtonus, ois, fof, ghy, best, role, s, deznal wsshingtonus, wsshingtonus ois, ois fof, fof ghy, ghy best, best role, role s
+I:244;920;speike, direceting, be, amdong, hsi, top, speike direceting, direceting be, be amdong, amdong hsi, hsi top
+I:244;921;be, good, bring, x, life, show, man, transition, be good, good bring, bring x, x life, life show, show man, man transition
+I:244;922;be, super, title, role, be super, super title, title role
+I:244;923;good, film, make, movie, have, lot, interesting, part, see, movie, take, roar, twenty, good film, film make, make movie, movie have, have lot, lot interesting, interesting part, part see, see movie, movie take, take roar, roar twenty
+I:244;924;film, add, reference, back, film add, add reference, reference back
+I:244;925;film, paint, balanced, picture, malcolm, produce, film paint, paint balanced, balanced picture, picture malcolm, malcolm produce
+I:244;926;movie, be, best, film, make, be, tribute, be, balanced, fair, truthful, movie be, be best, best film, film make, make be, be tribute, tribute be, be balanced, balanced fair, fair truthful
+I:244;927;love, movie, have, first, time, see, love movie, movie have, have first, first time, time see
+I:244;928;likeness, share, be, astonishir, way, speak, act, look, be, uncanny, original, man, likeness share, share be, be astonishir, astonishir way, way speak, speak act, act look, look be, be uncanny, uncanny original, original man
+I:244;929;tell, happen, next, spoil, film, want, see, be, amazing, nothing, tell happen, happen next, next spoil, spoil film, film want, want see, see be, be amazing, amazing nothing
+I:244;930;hour, minute, keep, captivate, eye, glue, screen, hour minute, minute keep, keep captivate, captivate eye, eye glue, glue screen
+I:244;931;best, movie, have, make, best movie, movie have, have make
+I:244;932;spike, ur, genius, spike ur, ur genius
+I:244;933;love, movie, be, overjoy, have, own, collection, love movie, movie be, be overjoy, overjoy have, have own, own collection
+I:244;934;watch, movie, learn, something, subject, movie, watch movie, movie learn, learn something, something subject, subject movie
+I:244;935;have, win, best, director, film, have, win, oscar, lose, oscar, performance, believe, be, inferior, portrayal, x, be, man, opinion, innit, have win, win best, best director, director film, film have, have win, win oscar, oscar lose, lose oscar, oscar performance, performance believe, believe be, be inferior, inferior portrayal, portrayal x, x be, be man, man opinion, opinion innit
+I:244;936;be, masterful, performance, much, maligned, leader, nation, be masterful, masterful performance, performance much, much maligned, maligned leader, leader nation
+I:244;937;performance, demonstrate, be, consider, greatest, actor, time, performance demonstrate, demonstrate be, be consider, consider greatest, greatest actor, actor time
+I:244;938;scene, barbershop, dance, be, humorous, light, perform, scene barbershop, barbershop dance, dance be, be humorous, humorous light, light perform
+I:244;939;delivery, various, speech, be, do, delivery various, various speech, speech be, be do
+I:244;940;x, be, brilliant, orator, be, able, capture, skill, x be, be brilliant, brilliant orator, orator be, be able, able capture, capture skill
+I:244;941;film, be, see, film be, be see

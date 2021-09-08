@@ -1,0 +1,724 @@
+I:24918;1;premise, be, simple, premise be, be simple
+I:24918;2;be, man, perfection, attention, detail, be, something, be, see, be man, man perfection, perfection attention, attention detail, detail be, be something, something be, be see
+I:24918;3;be, protagonist, move, breakneck, speed, achieve, goal, take, movie, riveting, thrilling, finale, be protagonist, protagonist move, move breakneck, breakneck speed, speed achieve, achieve goal, goal take, take movie, movie riveting, riveting thrilling, thrilling finale
+I:24918;4;be, perfect, role, be perfect, perfect role
+I:24918;5;dull, cower, gaze, be, chill, dull cower, cower gaze, gaze be, be chill
+I:24918;6;staid, gentleman, remorseless, killer, display, tremendous, versatility, poise, staid gentleman, gentleman remorseless, remorseless killer, killer display, display tremendous, tremendous versatility, versatility poise
+I:24918;7;action, have, meaning, immediate, plan, have, backup, action have, have meaning, meaning immediate, immediate plan, plan have, have backup
+I:24918;8;quaint, be, uncharacteristic, hero, movie, quaint be, be uncharacteristic, uncharacteristic hero, hero movie
+I:24918;9;be, tribute, superb, actor, be tribute, tribute superb, superb actor
+I:24918;10;display, coolness, equal, measure, come, shy, timid, man, display coolness, coolness equal, equal measure, measure come, come shy, shy timid, timid man
+I:24918;11;character, be, intelligence, resourcefulness, humility, side, quiet, steely, determination, resolve, other, character be, be intelligence, intelligence resourcefulness, resourcefulness humility, humility side, side quiet, quiet steely, steely determination, determination resolve, resolve other
+I:24918;12;be, magnificent, display, aspect, be magnificent, magnificent display, display aspect
+I:24918;13;protagonist, take, exciting, thriller, explosive, finale, be, hard, imitate, protagonist take, take exciting, exciting thriller, thriller explosive, explosive finale, finale be, be hard, hard imitate
+I:24918;14;rest, cast, add, lot, depth, mean, respective, role, character, have, major, part, push, story, worthy, conclusion, rest cast, cast add, add lot, lot depth, depth mean, mean respective, respective role, role character, character have, have major, major part, part push, push story, story worthy, worthy conclusion
+I:24918;15;short, day, be, masterpiece, short day, day be, be masterpiece
+I:24918;16;day, jackal, show, assassin, come, point, success, day jackal, jackal show, show assassin, assassin come, come point, point success
+I:24918;17;remain, loyal, display, rare, cinematic, flair, be, hard, beat, remain loyal, loyal display, display rare, rare cinematic, cinematic flair, flair be, be hard, hard beat
+I:24918;18;watch, day, glory, watch day, day glory
+I:24918;19;rogue, assassin, movie, be, best, rogue assassin, assassin movie, movie be, be best
+I:24918;20;provide, wonderful, evocation, be, overrun, tourism, provide wonderful, wonderful evocation, evocation be, be overrun, overrun tourism
+I:24918;21;think, be, person, like, better, day, think be, be person, person like, like better, better day
+I:24918;22;see, avoid, be, fast, paced, fun, see avoid, avoid be, be fast, fast paced, paced fun
+I:24918;23;revue, day, high, revue day, day high
+I:24918;24;bring, veteran, skill, bear, have, become, timeless, classic, screen, suspense, bring veteran, veteran skill, skill bear, bear have, have become, become timeless, timeless classic, classic screen, screen suspense
+I:24918;25;key, tenacity, form, suave, assassin, play, consummate, british, coolness, key tenacity, tenacity form, form suave, suave assassin, assassin play, play consummate, consummate british, british coolness
+I:24918;26;be, killer, highest, order, master, disguise, international, elusiveness, riveting, film, follow, path, intense, straightforward, documentary, style, be killer, killer highest, highest order, order master, master disguise, disguise international, international elusiveness, elusiveness riveting, riveting film, film follow, follow path, path intense, intense straightforward, straightforward documentary, documentary style
+I:24918;27;last, great, film, bygone, age, pure, last great, great film, film bygone, bygone age, age pure
+I:24918;28;basics, suspense, kind, debonair, european, alternative, american, grittiness, french, connection, basics suspense, suspense kind, kind debonair, debonair european, european alternative, alternative american, american grittiness, grittiness french, french connection
+I:24918;29;plant, spy, high, plant spy, spy high
+I:24918;30;film, show, investigate, lead, continue, preparation, film show, show investigate, investigate lead, lead continue, continue preparation
+I:24918;31;know, trick, stay, public, hotel, know trick, trick stay, stay public, public hotel
+I:24918;32;be, celebration, major, french, holiday, be celebration, celebration major, major french, french holiday
+I:24918;33;scene, french, parade, remind, parade, yesteryear, scene french, french parade, parade remind, remind parade, parade yesteryear
+I:24918;34;legged, french, veteran, resistance, legged french, french veteran, veteran resistance
+I:24918;35;take, gendarme, top, floor, prevent, assassination, take gendarme, gendarme top, top floor, floor prevent, prevent assassination
+I:24918;36;film, be, big, hit, dramatic, story, film be, be big, big hit, hit dramatic, dramatic story
+I:24918;37;compare, film, earlier, book, see, change, simplify, story, compare film, film earlier, earlier book, book see, see change, change simplify, simplify story
+I:24918;38;stay, fresh, time, stay fresh, fresh time
+I:24918;39;product, arrive, good, condition, date, promise, product arrive, arrive good, good condition, condition date, date promise
+I:24918;40;provide, excellent, service, deliver, be, promise, provide excellent, excellent service, service deliver, deliver be, be promise
+I:24918;41;support, good, movie, support good, good movie
+I:24918;42;better, remake, better remake
+I:24918;43;film, be, superb, interpretation, great, novel, base, assasination, attempt, film be, be superb, superb interpretation, interpretation great, great novel, novel base, base assasination, assasination attempt
+I:24918;44;apply, hyperpole, riveting, gripping, tense, suspenseful, apply hyperpole, hyperpole riveting, riveting gripping, gripping tense, tense suspenseful
+I:24918;45;pace, be, smooth, follow, move, hire, assassin, prepare, detail, preparation, final, coup, pace be, be smooth, smooth follow, follow move, move hire, hire assassin, assassin prepare, prepare detail, detail preparation, preparation final, final coup
+I:24918;46;edward, be, lethal, role, assassin, edward be, be lethal, lethal role, role assassin
+I:24918;47;portray, cool, professionalism, assassin, be, determination, succeed, portray cool, cool professionalism, professionalism assassin, assassin be, be determination, determination succeed
+I:24918;48;book, film, recreate, fascinating, role, assassin, pursue, deadly, aim, step, step, book film, film recreate, recreate fascinating, fascinating role, role assassin, assassin pursue, pursue deadly, deadly aim, aim step, step step
+I:24918;49;movie, be, unique, be, intense, focus, story, be, lack, film, movie be, be unique, unique be, be intense, intense focus, focus story, story be, be lack, lack film
+I:24918;50;movie, be, amazing, be, see, movie be, be amazing, amazing be, be see
+I:24918;51;similar, french, connection, style, similar french, french connection, connection style
+I:24918;52;be, best, movie, have, see, long, time, good, act, good, movie, be best, best movie, movie have, have see, see long, long time, time good, good act, act good, good movie
+I:24918;53;be, excellent, film, be excellent, excellent film
+I:24918;54;stay, close, book, be, take, stay close, close book, book be, be take
+I:24918;55;be, superior, new, version, be superior, superior new, new version
+I:24918;56;be, suspensful, have, interesting, ending, be suspensful, suspensful have, have interesting, interesting ending
+I:24918;57;price, be, great, quick, time, take, bring, door, price be, be great, great quick, quick time, time take, take bring, bring door
+I:24918;58;day, be, best, action, day be, be best, best action
+I:24918;59;enjoy, be, suggest, read, book, enjoy be, be suggest, suggest read, read book
+I:24918;60;movie, be, classic, watch, movie be, be classic, classic watch
+I:24918;61;superior, newer, version, superior newer, newer version
+I:24918;62;fan, film, be, base, marvelous, espionage, book, fan film, film be, be base, base marvelous, marvelous espionage, espionage book
+I:24918;63;classic, cult, movie, classic cult, cult movie
+I:24918;64;day, be, outstanding, wonderful, gut, wrenching, sit, edge, seat, movie, day be, be outstanding, outstanding wonderful, wonderful gut, gut wrenching, wrenching sit, sit edge, edge seat, seat movie
+I:24918;65;relax, favorite, chair, enjoy, relax favorite, favorite chair, chair enjoy
+I:24918;66;day, be, outstanding, movie, day be, be outstanding, outstanding movie
+I:24918;67;be, matter, time, be, brilliant, catch, be matter, matter time, time be, be brilliant, brilliant catch
+I:24918;68;be, battle, outstanding, brilliant, man, be battle, battle outstanding, outstanding brilliant, brilliant man
+I:24918;69;get, course, get course
+I:24918;70;watch, movie, enjoy, watch movie, movie enjoy
+I:24918;71;movie, have, excellent, acting, tight, plot, brilliant, casting, superb, direction, movie have, have excellent, excellent acting, acting tight, tight plot, plot brilliant, brilliant casting, casting superb, superb direction
+I:24918;72;be, serious, plot, be, brilliant, casting, direction, be serious, serious plot, plot be, be brilliant, brilliant casting, casting direction
+I:24918;73;pace, movie, keep, rivet, seat, know, entire, story, read, book, pace movie, movie keep, keep rivet, rivet seat, seat know, know entire, entire story, story read, read book
+I:24918;74;film, strongest, character, be, play, assassin, film strongest, strongest character, character be, be play, play assassin
+I:24918;75;cool, calm, collect, be, focus, decisive, cool calm, calm collect, collect be, be focus, focus decisive
+I:24918;76;be, ruthless, charming, be ruthless, ruthless charming
+I:24918;77;be, cunning, meticulous, be cunning, cunning meticulous
+I:24918;78;have, toothy, smile, comb, hair, perfect, attire, make, consummate, have toothy, toothy smile, smile comb, comb hair, hair perfect, perfect attire, attire make, make consummate
+I:24918;79;lot, film, directorial, style, screenplay, seem, have, inspire, classic, lot film, film directorial, directorial style, style screenplay, screenplay seem, seem have, have inspire, inspire classic
+I:24918;80;play, perfect, professional, killer, play perfect, perfect professional, professional killer
+I:24918;81;day, be, silent, terse, film, day be, be silent, silent terse, terse film
+I:24918;82;head, shoulder, bruce, willis, re, head shoulder, shoulder bruce, bruce willis, willis re
+I:24918;83;everything, be, everything be
+I:24918;84;be, perfect, be, great, picture, be perfect, perfect be, be great, great picture
+I:24918;85;everything, film, be, good, usage, realism, pay, rich, dividend, everything film, film be, be good, good usage, usage realism, realism pay, pay rich, rich dividend
+I:24918;86;entire, film, be, wonderful, game, cat, mouse, police, intelligent, killer, entire film, film be, be wonderful, wonderful game, game cat, cat mouse, mouse police, police intelligent, intelligent killer
+I:24918;87;do, begin, stop, play, sophisticated, intelligent, killer, do, make, mistake, do begin, begin stop, stop play, play sophisticated, sophisticated intelligent, intelligent killer, killer do, do make, make mistake
+I:24918;88;watch, go, job, routine, be, amazing, watch go, go job, job routine, routine be, be amazing
+I:24918;89;feel, be, watch, learn, secret, trade, feel be, be watch, watch learn, learn secret, secret trade
+I:24918;90;make, movie, fun, watch, be, writing, character, make movie, movie fun, fun watch, watch be, be writing, writing character
+I:24918;91;detective, be, good, job, be, detective be, be good, good job, job be
+I:24918;92;day, have, many, outstanding, quality, be, make, great, master, film, day have, have many, many outstanding, outstanding quality, quality be, be make, make great, great master, master film
+I:24918;93;be, first, film, year, long, line, great, film, be first, first film, film year, year long, long line, line great, great film
+I:24918;94;many, consider, best, many consider, consider best
+I:24918;95;scene, be, plan, many, have, mention, scene, look, belong, documentary, scene be, be plan, plan many, many have, have mention, mention scene, scene look, look belong, belong documentary
+I:24918;96;great, story, handle, great story, story handle
+I:24918;97;script, be, better, novel, script be, be better, better novel
+I:24918;98;final, race, time, be, film, edit, final race, race time, time be, be film, film edit
+I:24918;99;american, version, story, be, sad, sad, second, tense, brilliant, film, american version, version story, story be, be sad, sad sad, sad second, second tense, tense brilliant, brilliant film
+I:24918;100;best, motion, picture, have, see, do, make, movie, best motion, motion picture, picture have, have see, see do, do make, make movie
+I:24918;101;acting, be, great, direction, be, concise, wastedfootage, story, move, be, photograph, casting, be, first, class, script, be, excellent, endit, turn, way, want, turn, acting be, be great, great direction, direction be, be concise, concise wastedfootage, wastedfootage story, story move, move be, be photograph, photograph casting, casting be, be first, first class, class script, script be, be excellent, excellent endit, endit turn, turn way, way want, want turn
+I:24918;102;modernmovie, maker, watch, day, see, be, do, modernmovie maker, maker watch, watch day, day see, see be, be do
+I:24918;103;be, way, see, film, be, be way, way see, see film, film be
+I:24918;104;mention, editing, be, excellent, mention editing, editing be, be excellent
+I:24918;105;set, design, cityscape, be, superb, set design, design cityscape, cityscape be, be superb
+I:24918;106;be, interesting, see, re, be interesting, interesting see, see re
+I:24918;107;political, thriller, plot, have, main, facet, detective, story, portrayal, political thriller, thriller plot, plot have, have main, main facet, facet detective, detective story, story portrayal
+I:24918;108;former, be, interesting, latter, be, fascinating, star, show, former be, be interesting, interesting latter, latter be, be fascinating, fascinating star, star show
+I:24918;109;be, fascinating, see, move, motion, obtain, multiple, identity, obtain, prepare, weapon, plan, attack, be fascinating, fascinating see, see move, move motion, motion obtain, obtain multiple, multiple identity, identity obtain, obtain prepare, prepare weapon, weapon plan, plan attack
+I:24918;110;campy, d, cor, flat, be, hilarious, campy d, d cor, cor flat, flat be, be hilarious
+I:24918;111;be, quiet, film, little, music, give, documentary, ambiance, high, seriousness, be quiet, quiet film, film little, little music, music give, give documentary, documentary ambiance, ambiance high, high seriousness
+I:24918;112;better, remake, better remake
+I:24918;113;letterbox, format, version, receive, say, be, widescreen, letterbox format, format version, version receive, receive say, say be, be widescreen
+I:24918;114;be, rattle, good, yarn, tell, messing, be, art, flick, scream, art, be rattle, rattle good, good yarn, yarn tell, tell messing, messing be, be art, art flick, flick scream, scream art
+I:24918;115;structure, be, shape, wide, gap, start, grow, narrower, hour, track, converge, point, bullet, structure be, be shape, shape wide, wide gap, gap start, start grow, grow narrower, narrower hour, hour track, track converge, converge point, point bullet
+I:24918;116;direction, have, lot, common, other, masterpiece, high, noon, effect, be, assure, outcome, direction have, have lot, lot common, common other, other masterpiece, masterpiece high, high noon, noon effect, effect be, be assure, assure outcome
+I:24918;117;film, be, good, man, rest, other, be, bad, man, rest, film be, be good, good man, man rest, rest other, other be, be bad, bad man, man rest
+I:24918;118;key, moment, come, be, tell, cover, be, blow, key moment, moment come, come be, be tell, tell cover, cover be, be blow
+I:24918;119;let, emotion, get, upper, hand, carry, be, sensible, decision, wise, percentage, player, let emotion, emotion get, get upper, upper hand, hand carry, carry be, be sensible, sensible decision, decision wise, wise percentage, percentage player
+I:24918;120;have, great, sense, work, be, necessary, be, be, economical, cost, have great, great sense, sense work, work be, be necessary, necessary be, be be, be economical, economical cost
+I:24918;121;be, outstanding, movie, fill, drama, great, action, superb, acting, be outstanding, outstanding movie, movie fill, fill drama, drama great, great action, action superb, superb acting
+I:24918;122;be, wonderful, film, be wonderful, wonderful film
+I:24918;123;location, cinematography, be, excellent, location cinematography, cinematography be, be excellent
+I:24918;124;tension, excitement, be, script, tension excitement, excitement be, be script
+I:24918;125;intense, hunt, french, police, unit, prevent, know, be, go, happen, make, taut, excellent, movie, intense hunt, hunt french, french police, police unit, unit prevent, prevent know, know be, be go, go happen, happen make, make taut, taut excellent, excellent movie
+I:24918;126;have, first, admit, love, genre, have first, first admit, admit love, love genre
+I:24918;127;adaptation, do, credible, job, sustain, tension, movie, action, require, be, skeptical, adaptation do, do credible, credible job, job sustain, sustain tension, tension movie, movie action, action require, require be, be skeptical
+I:24918;128;act, overall, be, solid, find, lack, big, name, star, refreshing, allow, focus, enjoy, film, act overall, overall be, be solid, solid find, find lack, lack big, big name, name star, star refreshing, refreshing allow, allow focus, focus enjoy, enjoy film
+I:24918;129;great, way, spend, hour, least, part, base, true, story, great way, way spend, spend hour, hour least, least part, part base, base true, true story
+I:24918;130;product, sixty, get, kick, movie, feel, be, time, product sixty, sixty get, get kick, kick movie, movie feel, feel be, be time
+I:24918;131;be, accurate, representation, time, period, be accurate, accurate representation, representation time, time period
+I:24918;132;best, political, thriller, make, comparable, better, men, best political, political thriller, thriller make, make comparable, comparable better, better men
+I:24918;133;excellent, performance, concerned, historical, background, introduce, opening, few, minute, location, film, create, riveting, masterful, film, excellent performance, performance concerned, concerned historical, historical background, background introduce, introduce opening, opening few, few minute, minute location, location film, film create, create riveting, riveting masterful, masterful film
+I:24918;134;nothing, beat, opinion, nothing beat, beat opinion
+I:24918;135;good, act, everyone, part, good act, act everyone, everyone part
+I:24918;136;do, seduction, married, woman, do seduction, seduction married, married woman
+I:24918;137;watch, day, several, night, look, day, watch day, day several, several night, night look, look day
+I:24918;138;story, be, solid, movie, be, story be, be solid, solid movie, movie be
+I:24918;139;craft, performance, movie, be, excellent, craft performance, performance movie, movie be, be excellent
+I:24918;140;book, be, better, movie, see, read, book be, be better, better movie, movie see, see read
+I:24918;141;update, version, many, story, do, have, funny, moment, serious, moment, be, good, movie, watch, more, update version, version many, many story, story do, do have, have funny, funny moment, moment serious, serious moment, moment be, be good, good movie, movie watch, watch more
+I:24918;142;be, look, intelligent, intriguing, suspense, thriller, be, be look, look intelligent, intelligent intriguing, intriguing suspense, suspense thriller, thriller be
+I:24918;143;unassuming, intelligent, french, investigator, be, put, true, test, mind, game, skilled, killer, be, hire, assassinate, unassuming intelligent, intelligent french, french investigator, investigator be, be put, put true, true test, test mind, mind game, game skilled, skilled killer, killer be, be hire, hire assassinate
+I:24918;144;paced, spy, thriller, be, make, paced spy, spy thriller, thriller be, be make
+I:24918;145;see, many, year, find, have, hold, see many, many year, year find, find have, have hold
+I:24918;146;love, series, be, fantasy, movie, have, real, love series, series be, be fantasy, fantasy movie, movie have, have real
+I:24918;147;keep, mind, have, read, book, gather, read, other, review, keep mind, mind have, have read, read book, book gather, gather read, read other, other review
+I:24918;148;be, curious, look, be curious, curious look
+I:24918;149;movie, describe, quasus, movie describe, describe quasus
+I:24918;150;base, research, narrow, field, experience, foreign, individual, code, name, jackal, love, see, resume, base research, research narrow, narrow field, field experience, experience foreign, foreign individual, individual code, code name, name jackal, jackal love, love see, see resume
+I:24918;151;demand, be, few, specific, price, be, high, reasoning, be, type, job, be, career, ender, base, level, importance, target, demand be, be few, few specific, specific price, price be, be high, high reasoning, reasoning be, be type, type job, job be, be career, career ender, ender base, base level, level importance, importance target
+I:24918;152;enjoy, lengthy, film, enjoy lengthy, lengthy film
+I:24918;153;do, wonderful, job, show, side, story, assassin, authority, intent, stop, story, converge, create, climatic, conclusion, do wonderful, wonderful job, job show, show side, side story, story assassin, assassin authority, authority intent, intent stop, stop story, story converge, converge create, create climatic, climatic conclusion
+I:24918;154;be, worth, payoff, last, minute, be, worth, wait, be worth, worth payoff, payoff last, last minute, minute be, be worth, worth wait
+I:24918;155;like, be, able, keep, few, step, authority, little, help, anticipate, danger, make, appropriate, compensate, action, like be, be able, able keep, keep few, few step, step authority, authority little, little help, help anticipate, anticipate danger, danger make, make appropriate, appropriate compensate, compensate action
+I:24918;156;detective, work, be, present, thorough, comprehensive, intelligent, detective work, work be, be present, present thorough, thorough comprehensive, comprehensive intelligent
+I:24918;157;use, location, be, wonderful, add, much, flavor, credibility, story, use location, location be, be wonderful, wonderful add, add much, much flavor, flavor credibility, credibility story
+I:24918;158;great, adaptation, great, film, great adaptation, adaptation great, great film
+I:24918;159;do, masterful, job, direct, outstanding, adaptation, political, thriller, day, do masterful, masterful job, job direct, direct outstanding, outstanding adaptation, adaptation political, political thriller, thriller day
+I:24918;160;use, documentary, style, impressive, cinematography, base, part, plot, involve, develop, plan, assassinate, use documentary, documentary style, style impressive, impressive cinematography, cinematography base, base part, part plot, plot involve, involve develop, develop plan, plan assassinate
+I:24918;161;work, excellent, framework, novel, work excellent, excellent framework, framework novel
+I:24918;162;french, production, capture, mount, tension, suspense, plot, proceed, fruition, french production, production capture, capture mount, mount tension, tension suspense, suspense plot, plot proceed, proceed fruition
+I:24918;163;chock, full, intrigue, nail, chock full, full intrigue, intrigue nail
+I:24918;164;bite, suspense, humor, day, be, mere, thriller, action, movie, bite suspense, suspense humor, humor day, day be, be mere, mere thriller, thriller action, action movie
+I:24918;165;movie, have, mega, suspense, assassin, fox, be, coolest, killer, grace, big, screen, movie have, have mega, mega suspense, suspense assassin, assassin fox, fox be, be coolest, coolest killer, killer grace, grace big, big screen
+I:24918;166;book, be, great, movie, be, book be, be great, great movie, movie be
+I:24918;167;great, example, 60, 70, espionage, film, great example, example 60, 60 70, 70 espionage, espionage film
+I:24918;168;be, great, movie, be great, great movie
+I:24918;169;plot, be, riveting, screen, writing, be, flawless, plot be, be riveting, riveting screen, screen writing, writing be, be flawless
+I:24918;170;movie, show, go, great, length, use, ingenious, method, attempt, assassinate, movie show, show go, go great, great length, length use, use ingenious, ingenious method, method attempt, attempt assassinate
+I:24918;171;police, authority, use, intelligence, tireless, detective, work, track, build, great, ending, police authority, authority use, use intelligence, intelligence tireless, tireless detective, detective work, work track, track build, build great, great ending
+I:24918;172;feel, kind, atmosphere, film, difference, work, solid, gold, screenplay, feel kind, kind atmosphere, atmosphere film, film difference, difference work, work solid, solid gold, gold screenplay
+I:24918;173;sound, be, opinion, best, expect, movie, sound be, be opinion, opinion best, best expect, expect movie
+I:24918;174;suspense, thriller, movie, rate, thebest, suspense thriller, thriller movie, movie rate, rate thebest
+I:24918;175;feel, tension, suspense, feel tension, tension suspense
+I:24918;176;avid, fan, have, collect, movie, make, novel, avid fan, fan have, have collect, collect movie, movie make, make novel
+I:24918;177;day, be, best, adaptation, day be, be best, best adaptation
+I:24918;178;excellent, performance, make, edge, seat, thriller, believable, excellent performance, performance make, make edge, edge seat, seat thriller, thriller believable
+I:24918;179;live, tumultuous, sixty, appreciate, villian, hero, fine, film, live tumultuous, tumultuous sixty, sixty appreciate, appreciate villian, villian hero, hero fine, fine film
+I:24918;180;do, much, research, book, day, do, dip, fantasy, give, accurate, look, part, french, history, many, people, know, nothing, do much, much research, research book, book day, day do, do dip, dip fantasy, fantasy give, give accurate, accurate look, look part, part french, french history, history many, many people, people know, know nothing
+I:24918;181;movie, be, faithful, novel, acting, be, excellent, little, low, movie be, be faithful, faithful novel, novel acting, acting be, be excellent, excellent little, little low
+I:24918;182;key, place, tension, build, police, close, key place, place tension, tension build, build police, police close
+I:24918;183;be, assassin, solid, brilliant, detective, work, be assassin, assassin solid, solid brilliant, brilliant detective, detective work
+I:24918;184;do, movie, do, justice, book, production, day, be, wonderful, adaptation, novel, continue, believe, be, greatest, thriller, write, do movie, movie do, do justice, justice book, book production, production day, day be, be wonderful, wonderful adaptation, adaptation novel, novel continue, continue believe, believe be, be greatest, greatest thriller, thriller write
+I:24918;185;be, hard, put, finger, make, film, great, excellent, performance, unknown, actor, wonderful, plot, fantastic, location, shooting, complete, desire, avoid, bell, whistle, special, effect, laden, movie, be, make, suspense, genre, film, day, be hard, hard put, put finger, finger make, make film, film great, great excellent, excellent performance, performance unknown, unknown actor, actor wonderful, wonderful plot, plot fantastic, fantastic location, location shooting, shooting complete, complete desire, desire avoid, avoid bell, bell whistle, whistle special, special effect, effect laden, laden movie, movie be, be make, make suspense, suspense genre, genre film, film day
+I:24918;186;young, be, brilliant, title, role, support, cast, excellent, young be, be brilliant, brilliant title, title role, role support, support cast, cast excellent
+I:24918;187;anything, film, prove, do, need, big, name, star, explosion, corner, computer, generate, effect, make, fantastic, film, anything film, film prove, prove do, do need, need big, big name, name star, star explosion, explosion corner, corner computer, computer generate, generate effect, effect make, make fantastic, fantastic film
+I:24918;188;steal, show, cast, super, brit, steal show, show cast, cast super, super brit
+I:24918;189;name, few, name few
+I:24918;190;set, star, potential, set star, star potential
+I:24918;191;film, be, tight, production, board, documentary, film be, be tight, tight production, production board, board documentary
+I:24918;192;be, mind, be mind
+I:24918;193;be, win, performance, flesh, coldblooded, killer, man, root, succeed, same, time, cheer, fail, be win, win performance, performance flesh, flesh coldblooded, coldblooded killer, killer man, man root, root succeed, succeed same, same time, time cheer, cheer fail
+I:24918;194;great, film, base, great, book, great film, film base, base great, great book
+I:24918;195;best, book, make, excellent, exciting, movie, best book, book make, make excellent, excellent exciting, exciting movie
+I:24918;196;enjoy, plot, scenary, enjoy plot, plot scenary
+I:24918;197;older, spy, movie, be, have, think, be, good, older spy, spy movie, movie be, be have, have think, think be, be good
+I:24918;198;have, see, film, least, time, period, year, like, iit, time, have see, see film, film least, least time, time period, period year, year like, like iit, iit time
+I:24918;199;be, favorite, be, story, riveting, intrigue, capture, undivided, attention, film, be favorite, favorite be, be story, story riveting, riveting intrigue, intrigue capture, capture undivided, undivided attention, attention film
+I:24918;200;want, watch, rainy, afternoon, want watch, watch rainy, rainy afternoon
+I:24918;201;means, check, day, jackal, intriguing, film, make, year, base, exceptional, novel, same, name, means check, check day, day jackal, jackal intriguing, intriguing film, film make, make year, year base, base exceptional, exceptional novel, novel same, same name
+I:24918;202;french, authority, learn, plan, dispatch, best, investigator, capture, prevent, assassination, french authority, authority learn, learn plan, plan dispatch, dispatch best, best investigator, investigator capture, capture prevent, prevent assassination
+I:24918;203;path, cross, thrilling, riveting, conclusion, path cross, cross thrilling, thrilling riveting, riveting conclusion
+I:24918;204;fox, be, wonderful, fox be, be wonderful
+I:24918;205;make, cold, calculate, killer, believable, lend, comic, vulnerability, role, make cold, cold calculate, calculate killer, killer believable, believable lend, lend comic, comic vulnerability, vulnerability role
+I:24918;206;fictional, account, describe, great, detail, effort, group, kill, fictional account, account describe, describe great, great detail, detail effort, effort group, group kill
+I:24918;207;unknown, smart, mild, unknown smart, smart mild
+I:24918;208;be, cunning, individual, be, capable, convincing, disguise, be cunning, cunning individual, individual be, be capable, capable convincing, convincing disguise
+I:24918;209;cinematography, film, be, stunning, cinematography film, film be, be stunning
+I:24918;210;european, location, be, film, color, be, gorgeous, realistic, european location, location be, be film, film color, color be, be gorgeous, gorgeous realistic
+I:24918;211;be, interesting, suspenseful, movie, excellent, script, be interesting, interesting suspenseful, suspenseful movie, movie excellent, excellent script
+I:24918;212;day, be, confuse, inferior, remake, be, marvelous, character, study, coldest, coolest, illusive, skilled, assassin, bring, silver, screen, day be, be confuse, confuse inferior, inferior remake, remake be, be marvelous, marvelous character, character study, study coldest, coldest coolest, coolest illusive, illusive skilled, skilled assassin, assassin bring, bring silver, silver screen
+I:24918;213;superior, cast, head, outstanding, script, movie, plunge, viewer, riveting, cat, superior cast, cast head, head outstanding, outstanding script, script movie, movie plunge, plunge viewer, viewer riveting, riveting cat
+I:24918;214;tension, build, man, brilliant, disguise, near, prey, intrepid, constable, step, tension build, build man, man brilliant, brilliant disguise, disguise near, near prey, prey intrepid, intrepid constable, constable step
+I:24918;215;day, get, day get
+I:24918;216;be, great, thriller, be great, great thriller
+I:24918;217;character, be, enjoyable, disguise, be, cool, character be, be enjoyable, enjoyable disguise, disguise be, be cool
+I:24918;218;lot, espionage, spy, chase, situation, lot espionage, espionage spy, spy chase, chase situation
+I:24918;219;find, pace, atmosphere, liking, have, see, few, similar, movie, find pace, pace atmosphere, atmosphere liking, liking have, have see, see few, few similar, similar movie
+I:24918;220;have, see, enjoy, film, sort, enjoy, have see, see enjoy, enjoy film, film sort, sort enjoy
+I:24918;221;like, character, act, be, good, wasnt, call, star, cast, dont, need, story, pace, be, good, worth, look, give, try, like character, character act, act be, be good, good wasnt, wasnt call, call star, star cast, cast dont, dont need, need story, story pace, pace be, be good, good worth, worth look, look give, give try
+I:24918;222;day, be, thrilling, adaptation, novel, same, name, day be, be thrilling, thrilling adaptation, adaptation novel, novel same, same name
+I:24918;223;rest, mission, rely, own, skill, cunning, rest mission, mission rely, rely own, own skill, skill cunning
+I:24918;224;much, interest, movie, be, watch, stay, step, pursue, police, security, service, lead, french, policeman, much interest, interest movie, movie be, be watch, watch stay, stay step, step pursue, pursue police, police security, security service, service lead, lead french, french policeman
+I:24918;225;day, be, recommend, fan, good, movie, drama, be, less, satisfy, adaptation, have, nothing, do, original, novel, movie, day be, be recommend, recommend fan, fan good, good movie, movie drama, drama be, be less, less satisfy, satisfy adaptation, adaptation have, have nothing, nothing do, do original, original novel, novel movie
+I:24918;226;be, great, adventure, film, be great, great adventure, adventure film
+I:24918;227;possess, simple, story, possess simple, simple story
+I:24918;228;unload, job, best, detective, unload job, job best, best detective
+I:24918;229;story, move, rapid, pace, story move, move rapid, rapid pace
+I:24918;230;film, many, character, storyline, succeed, nobody, carry, film, film many, many character, character storyline, storyline succeed, succeed nobody, nobody carry, carry film
+I:24918;231;entire, cast, provide, film, enormous, support, entire cast, cast provide, provide film, film enormous, enormous support
+I:24918;232;everybody, be, assingn, job, everybody, do, everybody be, be assingn, assingn job, job everybody, everybody do
+I:24918;233;tell, be, package, likely, order, similar, item, tell be, be package, package likely, likely order, order similar, similar item
+I:24918;234;be, great, movie, be great, great movie
+I:24918;235;opening, newsreel, type, shot, dual, story, planning, assassination, attempt, attempt, thwart, film, deliver, thrilling, exxperience, opening newsreel, newsreel type, type shot, shot dual, dual story, story planning, planning assassination, assassination attempt, attempt attempt, attempt thwart, thwart film, film deliver, deliver thrilling, thrilling exxperience
+I:24918;236;course, know, fail, buildup, climax, be, course know, know fail, fail buildup, buildup climax, climax be
+I:24918;237;love, film, love film
+I:24918;238;make, great, be, follow, go, aspect, plan, murder, make great, great be, be follow, follow go, go aspect, aspect plan, plan murder
+I:24918;239;be, great, write, make, audience, root, bad, guy, be great, great write, write make, make audience, audience root, root bad, bad guy
+I:24918;240;outstanding, script, movie, be, reason, picture, work, be, scrupulous, adherence, source, novel, broad, outline, precise, detail, outstanding script, script movie, movie be, be reason, reason picture, picture work, work be, be scrupulous, scrupulous adherence, adherence source, source novel, novel broad, broad outline, outline precise, precise detail
+I:24918;241;intricate, storyline, switch, tow, strand, intricate storyline, storyline switch, switch tow, tow strand
+I:24918;242;thanks, win, editing, admirable, taut, suspenseful, direction, veteran, director, thanks win, win editing, editing admirable, admirable taut, taut suspenseful, suspenseful direction, direction veteran, veteran director
+I:24918;243;movie, work, methodical, accumulation, detail, plan, have, ring, authenticity, do, whole, movie, movie work, work methodical, methodical accumulation, accumulation detail, detail plan, plan have, have ring, ring authenticity, authenticity do, do whole, whole movie
+I:24918;244;fox, be, outstanding, methodical, heartless, jackal, performance, be, ramrod, movie, fox be, be outstanding, outstanding methodical, methodical heartless, heartless jackal, jackal performance, performance be, be ramrod, ramrod movie
+I:24918;245;lonsdale, be, fine, pursuer, achieve, hard, task, make, dull, dedicated, man, hero, job, be, life, lonsdale be, be fine, fine pursuer, pursuer achieve, achieve hard, hard task, task make, make dull, dull dedicated, dedicated man, man hero, hero job, job be, be life
+I:24918;246;battle, wit, powerful, adversary, battle wit, wit powerful, powerful adversary
+I:24918;247;be, superb, movie, suspense, fill, political, thriller, top, drawer, be superb, superb movie, movie suspense, suspense fill, fill political, political thriller, thriller top, top drawer
+I:24918;248;let, take, snapshot, city, era, step, let take, take snapshot, snapshot city, city era, era step
+I:24918;249;walk, look, cool, tailor, lightweight, worst, wool, beige, suit, mixed, match, need, walk look, look cool, cool tailor, tailor lightweight, lightweight worst, worst wool, wool beige, beige suit, suit mixed, mixed match, match need
+I:24918;250;be, dectective, chase, finish, be dectective, dectective chase, chase finish
+I:24918;251;love, line, say, ask, love line, line say, say ask
+I:24918;252;know, movie, be, great, know movie, movie be, be great
+I:24918;253;be, great, french, show, street, scene, border, crossing, airport, continent, staging, 14th, parade, be great, great french, french show, show street, street scene, scene border, border crossing, crossing airport, airport continent, continent staging, staging 14th, 14th parade
+I:24918;254;be, great, movie, keep, edge, seat, be great, great movie, movie keep, keep edge, edge seat
+I:24918;255;engage, viewer, start, finish, be, exciting, ride, way, engage viewer, viewer start, start finish, finish be, be exciting, exciting ride, ride way
+I:24918;256;great, performance, principal, player, make, fascinating, story, dull, spot, great performance, performance principal, principal player, player make, make fascinating, fascinating story, story dull, dull spot
+I:24918;257;movie, be, captivating, study, meticulousness, plan, execute, movie be, be captivating, captivating study, study meticulousness, meticulousness plan, plan execute
+I:24918;258;film, evoke, interest, do, operate, take, viewer, cat, mouse, game, film evoke, evoke interest, interest do, do operate, operate take, take viewer, viewer cat, cat mouse, mouse game
+I:24918;259;other, side, chase, planning, detective, official, make, film, interesting, other side, side chase, chase planning, planning detective, detective official, official make, make film, film interesting
+I:24918;260;choice, ordinary, face, jackal, help, do, move, beautiful, location, choice ordinary, ordinary face, face jackal, jackal help, help do, do move, move beautiful, beautiful location
+I:24918;261;gist, gripping, interesting, enjoyable, film, gist gripping, gripping interesting, interesting enjoyable, enjoyable film
+I:24918;262;do, fine, job, create, suspense, lead, thrilling, conclusion, do fine, fine job, job create, create suspense, suspense lead, lead thrilling, thrilling conclusion
+I:24918;263;budget, feel, bring, blockbuster, budget feel, feel bring, bring blockbuster
+I:24918;264;be, good, film, taut, thriller, have, half, be good, good film, film taut, taut thriller, thriller have, have half
+I:24918;265;hope, be, successful, objective, hope be, be successful, successful objective
+I:24918;266;be, extraordinary, see, star, year, minor, role, be extraordinary, extraordinary see, see star, star year, year minor, minor role
+I:24918;267;initial, symbolic, drumbeat, be, marvelous, opener, initial symbolic, symbolic drumbeat, drumbeat be, be marvelous, marvelous opener
+I:24918;268;many, level, movie, be, great, entertainment, unfold, plot, journalistic, detail, character, involve, pace, action, scenery, many level, level movie, movie be, be great, great entertainment, entertainment unfold, unfold plot, plot journalistic, journalistic detail, detail character, character involve, involve pace, pace action, action scenery
+I:24918;269;portrayal, armorer, be, pure, perfection, portrayal armorer, armorer be, be pure, pure perfection
+I:24918;270;be, leave, great, empathy, character, portrayedadjudge, year, set, great, standard, be leave, leave great, great empathy, empathy character, character portrayedadjudge, portrayedadjudge year, year set, set great, great standard
+I:24918;271;have, find, way, masterpiece, director, give, high, noon, have find, find way, way masterpiece, masterpiece director, director give, give high, high noon
+I:24918;272;hunt, junkyard, trinket, stumble, real, gem, hunt junkyard, junkyard trinket, trinket stumble, stumble real, real gem
+I:24918;273;kid, cinematic, comic, book, today, try, emulate, computer, game, overgrown, adolescent, kid cinematic, cinematic comic, comic book, book today, today try, try emulate, emulate computer, computer game, game overgrown, overgrown adolescent
+I:24918;274;writing, direct, act, be, lean, direct, visual, style, be, spare, efficient, effective, writing direct, direct act, act be, be lean, lean direct, direct visual, visual style, style be, be spare, spare efficient, efficient effective
+I:24918;275;be, enjoyable, watch, incredible, length, film, hero, anti, be enjoyable, enjoyable watch, watch incredible, incredible length, length film, film hero, hero anti
+I:24918;276;hero, go, achieve, objective, hero go, go achieve, achieve objective
+I:24918;277;impressive, be, film, precise, relevance, today, age, terrorism, be, release, year, impressive be, be film, film precise, precise relevance, relevance today, today age, age terrorism, terrorism be, be release, release year
+I:24918;278;eerie, tale, say, least, eerie tale, tale say, say least
+I:24918;279;cast, be, superb, top, bottom, director, editor, let, mind, cast be, be superb, superb top, top bottom, bottom director, director editor, editor let, let mind
+I:24918;280;keep, engage, strategy, skill, keep engage, engage strategy, strategy skill
+I:24918;281;have, great, dialogue, explosion, great, tension, realistic, action, excellent, direction, excellent, performance, satisfying, ending, have great, great dialogue, dialogue explosion, explosion great, great tension, tension realistic, realistic action, action excellent, excellent direction, direction excellent, excellent performance, performance satisfying, satisfying ending
+I:24918;282;be, best, spy, thriller, have, see, be best, best spy, spy thriller, thriller have, have see
+I:24918;283;attention, detail, be, amazing, attention detail, detail be, be amazing
+I:24918;284;acting, be, good, plot, be, excellent, directing, be, great, acting be, be good, good plot, plot be, be excellent, excellent directing, directing be, be great
+I:24918;285;be, amazing, dedicated, professional, be, be amazing, amazing dedicated, dedicated professional, professional be
+I:24918;286;be, bad, guy, other, be, good, guy, help, have, respect, be bad, bad guy, guy other, other be, be good, good guy, guy help, help have, have respect
+I:24918;287;bell, whistle, pure, storytelling, best, bell whistle, whistle pure, pure storytelling, storytelling best
+I:24918;288;please, watch, movie, time, winner, book, please watch, watch movie, movie time, time winner, winner book
+I:24918;289;move, be, best, best, suspense, thriller, make, move be, be best, best best, best suspense, suspense thriller, thriller make
+I:24918;290;moving, aspect, film, be, realism, assassin, play, moving aspect, aspect film, film be, be realism, realism assassin, assassin play
+I:24918;291;take, special, breed, actor, play, good, believable, hit, man, be, take special, special breed, breed actor, actor play, play good, good believable, believable hit, hit man, man be
+I:24918;292;see, movie, see, day, laugh, see movie, movie see, see day, day laugh
+I:24918;293;have, remember, view, movie, come, have remember, remember view, view movie, movie come
+I:24918;294;find, copy, book, read, first, time, find copy, copy book, book read, read first, first time
+I:24918;295;have, enjoy, book, have enjoy, enjoy book
+I:24918;296;movie, be, classic, have, see, while, movie be, be classic, classic have, have see, see while
+I:24918;297;be, great, story, enjoyable, movie, give, insight, post, be great, great story, story enjoyable, enjoyable movie, movie give, give insight, insight post
+I:24918;298;best, actor, generation, best actor, actor generation
+I:24918;299;play, sublime, perfection, demand, role, play sublime, sublime perfection, perfection demand, demand role
+I:24918;300;first, image, film, be, engage, chess, film, first image, image film, film be, be engage, engage chess, chess film
+I:24918;301;movement, exceptional, mind, be, guide, amazing, sense, hunter, behavior, movement exceptional, exceptional mind, mind be, be guide, guide amazing, amazing sense, sense hunter, hunter behavior
+I:24918;302;feeling, do, exist, professional.you, be, invite, presence, authentical, tour, force, feeling do, do exist, exist professional.you, professional.you be, be invite, invite presence, presence authentical, authentical tour, tour force
+I:24918;303;moment, important, link, be, arrest, histamina, cold, sweat, invade, moment important, important link, link be, be arrest, arrest histamina, histamina cold, cold sweat, sweat invade
+I:24918;304;effort, follow, possible, clue, lead, unforgettable, mind, game, spark, human, chase, moment, decide, go, plan, drive, effort follow, follow possible, possible clue, clue lead, lead unforgettable, unforgettable mind, mind game, game spark, spark human, human chase, chase moment, moment decide, decide go, go plan, plan drive
+I:24918;305;rest, story, run, acquire, legendary, hair, raise, punch, thriller, rest story, story run, run acquire, acquire legendary, legendary hair, hair raise, raise punch, punch thriller
+I:24918;306;more, admire, famous, film, maker, win, story, more admire, admire famous, famous film, film maker, maker win, win story
+I:24918;307;location, sense, drama, be, extraordinary, make, location sense, sense drama, drama be, be extraordinary, extraordinary make
+I:24918;308;perfect, film, believe, feel, min, picture, perfect film, film believe, believe feel, feel min, min picture
+I:24918;309;be, first, best, version, be first, first best, best version
+I:24918;310;film, have, plausible, entertaining, storyline, be, whimsical, naive, tale, intrigue, modern, viewer, film have, have plausible, plausible entertaining, entertaining storyline, storyline be, be whimsical, whimsical naive, naive tale, tale intrigue, intrigue modern, modern viewer
+I:24918;311;background, much, more, plausible, exciting, remake, jackal, be, interesting, historical, study, background much, much more, more plausible, plausible exciting, exciting remake, remake jackal, jackal be, be interesting, interesting historical, historical study
+I:24918;312;be, ultimate, thinking, person, thriller, be ultimate, ultimate thinking, thinking person, person thriller
+I:24918;313;be, perfect, role, be perfect, perfect role
+I:24918;314;be, charming, cunning, dangerous, master, disguise, slip, other, people, identity, achieve, end, be charming, charming cunning, cunning dangerous, dangerous master, master disguise, disguise slip, slip other, other people, people identity, identity achieve, achieve end
+I:24918;315;french, government, effort, unmask, catch, be, elude, be, nail, bite, french government, government effort, effort unmask, unmask catch, catch be, be elude, elude be, be nail, nail bite
+I:24918;316;conclusion, exciting, film, be, certain, be, be, believe, organization, hire, conclusion exciting, exciting film, film be, be certain, certain be, be be, be believe, believe organization, organization hire
+I:24918;317;be, best, action, film, make, be best, best action, action film, film make
+I:24918;318;beautiful, cinematography, good, story, great, shot, beautiful cinematography, cinematography good, good story, story great, great shot
+I:24918;319;w, major, actor, idolize, film, story, line, hum, oil, construct, english, work, w major, major actor, actor idolize, idolize film, film story, story line, line hum, hum oil, oil construct, construct english, english work
+I:24918;320;ending, be, amazing, ending be, be amazing
+I:24918;321;dont, spy, movie, love, movie, dont spy, spy movie, movie love, love movie
+I:24918;322;conglomeration, french, british, cinematography, portray, pathological, hit, man, conglomeration french, french british, british cinematography, cinematography portray, portray pathological, pathological hit, hit man
+I:24918;323;movie, have, great, acting, terrific, plot, perfect, flow, wonderful, camera, work, movie have, have great, great acting, acting terrific, terrific plot, plot perfect, perfect flow, flow wonderful, wonderful camera, camera work
+I:24918;324;better, remake, better remake
+I:24918;325;year, be, easy, understand, historical, setting, year be, be easy, easy understand, understand historical, historical setting
+I:24918;326;rare, film, surpass, book, be, base, rare film, film surpass, surpass book, book be, be base
+I:24918;327;addition, need, special, feature, making, film, historical, background, story, biography, addition need, need special, special feature, feature making, making film, film historical, historical background, background story, story biography
+I:24918;328;capture, hold, imagination, capture hold, hold imagination
+I:24918;329;shot, location, shot location
+I:24918;330;main, actor, be, alive, active, be, entice, provide, commentary, new, release, main actor, actor be, be alive, alive active, active be, be entice, entice provide, provide commentary, commentary new, new release
+I:24918;331;movie, be, great, story, do, know, happen, rating, movie be, be great, great story, story do, do know, know happen, happen rating
+I:24918;332;handful, other, rank, best, manifestation, tasteless, epoch, handful other, other rank, rank best, best manifestation, manifestation tasteless, tasteless epoch
+I:24918;333;watch, movie, year, enjoy, time, watch movie, movie year, year enjoy, enjoy time
+I:24918;334;be, such, nuance, acting, art, direction, narrative, structure, be such, such nuance, nuance acting, acting art, art direction, direction narrative, narrative structure
+I:24918;335;be, phenomenal, movie, be phenomenal, phenomenal movie
+I:24918;336;day, be, prime, example, rare, breed, day be, be prime, prime example, example rare, rare breed
+I:24918;337;key, action, film, be, willing, respect, intelligence, audience, key action, action film, film be, be willing, willing respect, respect intelligence, intelligence audience
+I:24918;338;be, sign, story, effectiveness, majority, audience, be, aware, end, service, be, kill, film, manage, hold, viewer, attention, mixture, heart, be sign, sign story, story effectiveness, effectiveness majority, majority audience, audience be, be aware, aware end, end service, service be, be kill, kill film, film manage, manage hold, hold viewer, viewer attention, attention mixture, mixture heart
+I:24918;339;pound, suspense, fascination, watch, realistic, presentation, political, assassination, have, be, pull, pound suspense, suspense fascination, fascination watch, watch realistic, realistic presentation, presentation political, political assassination, assassination have, have be, be pull
+I:24918;340;be, recognizable, human, being, make, film, story, enthralling, be recognizable, recognizable human, human being, being make, make film, film story, story enthralling
+I:24918;341;fill, film, audience, fill film, film audience
+I:24918;342;zinnemann, be, know, brilliant, director, actor, performance, day, collection, reliable, english, french, character, actor, be, flawless, zinnemann be, be know, know brilliant, brilliant director, director actor, actor performance, performance day, day collection, collection reliable, reliable english, english french, french character, character actor, actor be, be flawless
+I:24918;343;character, be, overshadow, more, charismatic, jackal, do, good, job, film, nominal, hero, make, anonymous, detective, sort, everyman, character be, be overshadow, overshadow more, more charismatic, charismatic jackal, jackal do, do good, good job, job film, film nominal, nominal hero, hero make, make anonymous, anonymous detective, detective sort, sort everyman
+I:24918;344;have, be, stuffy, aristocratic, type, be, bit, revelation, see, performance, have be, be stuffy, stuffy aristocratic, aristocratic type, type be, be bit, bit revelation, revelation see, see performance
+I:24918;345;manage, convey, coldness, man, soul, same, time, provide, glimpe, neurotic, intensity, come, live, life, be, centered, death, manage convey, convey coldness, coldness man, man soul, soul same, same time, time provide, provide glimpe, glimpe neurotic, neurotic intensity, intensity come, come live, live life, life be, be centered, centered death
+I:24918;346;create, sympathetic, screen, villian, allow, become, create sympathetic, sympathetic screen, screen villian, villian allow, allow become
+I:24918;347;movie, be, amazing, movie be, be amazing
+I:24918;348;detail, incredable, length, go, order, get, job, do, be, amazing, believeable, same, time, detail incredable, incredable length, length go, go order, order get, get job, job do, do be, be amazing, amazing believeable, believeable same, same time
+I:24918;349;adversary, detective, be, name, elude, moment, be, fit, role, adversary detective, detective be, be name, name elude, elude moment, moment be, be fit, fit role
+I:24918;350;love, end, remind, bit, ending, love end, end remind, remind bit, bit ending
+I:24918;351;see, see, see see
+I:24918;352;be, great, film, become, favorite, be great, great film, film become, become favorite
+I:24918;353;favorite, film, favorite film
+I:24918;354;plot, be, lift, intact, wonderful, novel, involve, herculean, task, give, mid, level, police, inspector, track, stop, unknown, assassin, kill, president, plot be, be lift, lift intact, intact wonderful, wonderful novel, novel involve, involve herculean, herculean task, task give, give mid, mid level, level police, police inspector, inspector track, track stop, stop unknown, unknown assassin, assassin kill, kill president
+I:24918;355;story, be, riveting, cinematography, be, superb, wonderful, french, italian, scenery, story be, be riveting, riveting cinematography, cinematography be, be superb, superb wonderful, wonderful french, french italian, italian scenery
+I:24918;356;great, film, try, see, great film, film try, try see
+I:24918;357;direct, be, best, direct be, be best
+I:24918;358;excellent, cast, include, pre, excellent cast, cast include, include pre
+I:24918;359;wonderful, photography, french, countryside, wonderful photography, photography french, french countryside
+I:24918;360;be, rare, film, have, much, respect, villan, do, good, guy, be rare, rare film, film have, have much, much respect, respect villan, villan do, do good, good guy
+I:24918;361;be, incredible, know, ending, ala, intensity, be, none, be incredible, incredible know, know ending, ending ala, ala intensity, intensity be, be none
+I:24918;362;opinion, best, espionage, film, time, opinion best, best espionage, espionage film, film time
+I:24918;363;excelent, film, recomend, serious, friend, excelent film, film recomend, recomend serious, serious friend
+I:24918;364;mention, best, mention best
+I:24918;365;great, movie, assassin, have, liquidate, dictator, top, government, officialsis, have, be, identify, expertise, french, detectivefurther, comment, possible, great movie, movie assassin, assassin have, have liquidate, liquidate dictator, dictator top, top government, government officialsis, officialsis have, have be, be identify, identify expertise, expertise french, french detectivefurther, detectivefurther comment, comment possible
+I:24918;366;director, fred, zinnimann, day, jackal, be, rare, movie, stay, book, treat, be, viewer, have, brain, director fred, fred zinnimann, zinnimann day, day jackal, jackal be, be rare, rare movie, movie stay, stay book, book treat, treat be, be viewer, viewer have, have brain
+I:24918;367;pick, jackal, be, best, get, job, do, pick jackal, jackal be, be best, best get, get job, job do
+I:24918;368;edward, fox, be, cool, killer, take, work, serious, edward fox, fox be, be cool, cool killer, killer take, take work, work serious
+I:24918;369;thriller, willkeep, glue, til, very, end, thriller willkeep, willkeep glue, glue til, til very, very end
+I:24918;370;make, movie, be, miss, make movie, movie be, be miss
+I:24918;371;bring, bestseller, vivid, life, weave, dense, suspenseful, yarn, breathtaking, climax, bring bestseller, bestseller vivid, vivid life, life weave, weave dense, dense suspenseful, suspenseful yarn, yarn breathtaking, breathtaking climax
+I:24918;372;convey, cunning, colorless, anonymity, be, cast, intrepid, dog, convey cunning, cunning colorless, colorless anonymity, anonymity be, be cast, cast intrepid, intrepid dog
+I:24918;373;be, meticulous, clever, planner, tactician, hire, forger, fake, document, armorer, design, special, sniper, rifle, be, assemble, small, section, conceal, be meticulous, meticulous clever, clever planner, planner tactician, tactician hire, hire forger, forger fake, fake document, document armorer, armorer design, design special, special sniper, sniper rifle, rifle be, be assemble, assemble small, small section, section conceal
+I:24918;374;step, preparation, assassination, be, document, use, guile, disguise, way, have, dispatch, people, get, way, step preparation, preparation assassination, assassination be, be document, document use, use guile, guile disguise, disguise way, way have, have dispatch, dispatch people, people get, get way
+I:24918;375;french, investigation, unit, lead, unassuming, sharp, french investigation, investigation unit, unit lead, lead unassuming, unassuming sharp
+I:24918;376;be, flashy, dresser, sport, ascot, be flashy, flashy dresser, dresser sport, sport ascot
+I:24918;377;be, movie, engross, viewer, clever, complex, plot, act, photograph, great, shot, european, site, be movie, movie engross, engross viewer, viewer clever, clever complex, complex plot, plot act, act photograph, photograph great, great shot, shot european, european site
+I:24918;378;great, movie, love, great movie, movie love
+I:24918;379;nemeless, faceless, killer, know, code, name, nemeless faceless, faceless killer, killer know, know code, code name
+I:24918;380;british, do, novel, skilled, director, british do, do novel, novel skilled, skilled director
+I:24918;381;positive, impression, have, remain, time, positive impression, impression have, have remain, remain time
+I:24918;382;be, reinforce, see, yesterday, be reinforce, reinforce see, see yesterday
+I:24918;383;direction, camera, movement, street, make, believe, be, watch, documentary, direction camera, camera movement, movement street, street make, make believe, believe be, be watch, watch documentary
+I:24918;384;plot, deserve, higher, production, time, opinion, plot deserve, deserve higher, higher production, production time, time opinion
+I:24918;385;be, unknown, gendarme, be, trail, help, informer, inside, appearance, become, known, be unknown, unknown gendarme, gendarme be, be trail, trail help, help informer, informer inside, inside appearance, appearance become, become known
+I:24918;386;write, direct, film, be, predestine, greatness, case, be, great, one, write direct, direct film, film be, be predestine, predestine greatness, greatness case, case be, be great, great one
+I:24918;387;great, dramatization, story, event, earlier, post, ww2, time, frame, great dramatization, dramatization story, story event, event earlier, earlier post, post ww2, ww2 time, time frame
+I:24918;388;fine, riveting, film, be, time, better, disjointed, pile, schlock, star, fine riveting, riveting film, film be, be time, time better, better disjointed, disjointed pile, pile schlock, schlock star
+I:24918;389;be, classic, be, concern, be classic, classic be, be concern
+I:24918;390;version, be, okay, version, be, best, version be, be okay, okay version, version be, be best
+I:24918;391;ask, first, class, political, thriller, find, excellent, film, ask first, first class, class political, political thriller, thriller find, find excellent, excellent film
+I:24918;392;day, be, uncommon, movie, be, eager, see, day be, be uncommon, uncommon movie, movie be, be eager, eager see
+I:24918;393;great, film, great film
+I:24918;394;love, detective, love, love detective, detective love
+I:24918;395;be, brilliant, assassin, charming, ruthless, complete, professional, be brilliant, brilliant assassin, assassin charming, charming ruthless, ruthless complete, complete professional
+I:24918;396;give, good, try, update, version, day, origonal, remsin, best, give good, good try, try update, update version, version day, day origonal, origonal remsin, remsin best
+I:24918;397;take, time, reveal, element, plan, end, result, take time, time reveal, reveal element, element plan, plan end, end result
+I:24918;398;movie, be, believable, update, version, movie be, be believable, believable update, update version
+I:24918;399;look, good, be, streaming, subject, be, downgrade, look good, good be, be streaming, streaming subject, subject be, be downgrade
+I:24918;400;day, _, be, best, film, adaptation, book, do, director, manage, keep, vital, element, plot, pacing, book, transfer, medium, day _, _ be, be best, best film, film adaptation, adaptation book, book do, do director, director manage, manage keep, keep vital, vital element, element plot, plot pacing, pacing book, book transfer, transfer medium
+I:24918;401;be, wonderful, moment, irony, such, leader, french, terrorist, say, soldier, raise, weapon, be, show, be, shoot, firing, squad, next, day, be wonderful, wonderful moment, moment irony, irony such, such leader, leader french, french terrorist, terrorist say, say soldier, soldier raise, raise weapon, weapon be, be show, show be, be shoot, shoot firing, firing squad, squad next, next day
+I:24918;402;be, outstanding, film, be, watch, be outstanding, outstanding film, film be, be watch
+I:24918;403;hunt, keep, edge, sit, hunt keep, keep edge, edge sit
+I:24918;404;day, be, great, classic, espionage, film, 20th, day be, be great, great classic, classic espionage, espionage film, film 20th
+I:24918;405;have, review, day, new, edition, jackal, have, say, older, edition, day, be, better, richer, film, term, script, plot, character, be, better, reflection, true, assassin, create, novel, have review, review day, day new, new edition, edition jackal, jackal have, have say, say older, older edition, edition day, day be, be better, better richer, richer film, film term, term script, script plot, plot character, character be, be better, better reflection, reflection true, true assassin, assassin create, create novel
+I:24918;406;be, best, movie, make, be best, best movie, movie make
+I:24918;407;degaulle, many, reason, politics, have, numerous, attempt, life, degaulle many, many reason, reason politics, politics have, have numerous, numerous attempt, attempt life
+I:24918;408;great, stuff, great, act, unknown, several, do, act, great stuff, stuff great, great act, act unknown, unknown several, several do, do act
+I:24918;409;be, excellent, movie, be excellent, excellent movie
+I:24918;410;craft, detail, be, fascinating, craft detail, detail be, be fascinating
+I:24918;411;enjoy, process, search, enjoy process, process search
+I:24918;412;movie, time, line, do, movie time, time line, line do
+I:24918;413;computer, tracking, such, wonderful, movies/books/scripts, be, make, computer tracking, tracking such, such wonderful, wonderful movies/books/scripts, movies/books/scripts be, be make
+I:24918;414;suspense, intrigue, best, suspense intrigue, intrigue best
+I:24918;415;realize, be, intense, surveillance, french, security, intelligence, go, outside, hire, professional, killer, realize be, be intense, intense surveillance, surveillance french, french security, security intelligence, intelligence go, go outside, outside hire, hire professional, professional killer
+I:24918;416;keep, edge, seat, build, climactic, day, be, be, assassinate, keep edge, edge seat, seat build, build climactic, climactic day, day be, be be, be assassinate
+I:24918;417;be, base, cleverness, genius, assassin, intuition, perseverance, be base, base cleverness, cleverness genius, genius assassin, assassin intuition, intuition perseverance
+I:24918;418;be, obsess, job, be, challenge, be obsess, obsess job, job be, be challenge
+I:24918;419;be, hire, thanks, conniving, female, sympathizer, seduce, top, french, police, leader, terrorist, group, know, effort, protect, be, proceed, be hire, hire thanks, thanks conniving, conniving female, female sympathizer, sympathizer seduce, seduce top, top french, french police, police leader, leader terrorist, terrorist group, group know, know effort, effort protect, protect be, be proceed
+I:24918;420;be, stone, wall, be stone, stone wall
+I:24918;421;amazing, plot, wich, foreign, killer, be, hire, kill, amazing plot, plot wich, wich foreign, foreign killer, killer be, be hire, hire kill
+I:24918;422;great, plot, bee, play, great plot, plot bee, bee play
+I:24918;423;essencial, piece, art, collector, direct, byacclaimed, director, essencial piece, piece art, art collector, collector direct, direct byacclaimed, byacclaimed director
+I:24918;424;book, be, excellent, have, nuance, be, translate, screen, book be, be excellent, excellent have, have nuance, nuance be, be translate, translate screen
+I:24918;425;be, time, favorite, movie, be time, time favorite, favorite movie
+I:24918;426;love, cast, edward, fox, be, favorite, actor, love cast, cast edward, edward fox, fox be, be favorite, favorite actor
+I:24918;427;plot, be, work, capture, essence, political, climate, france, degaulle, era, plot be, be work, work capture, capture essence, essence political, political climate, climate france, france degaulle, degaulle era
+I:24918;428;view, movie, other, night, view movie, movie other, other night
+I:24918;429;have, element, great, spy/drama, movie, have element, element great, great spy/drama, spy/drama movie
+I:24918;430;killing, be, tasteful, killing be, be tasteful
+I:24918;431;compare, version, go, compare version, version go
+I:24918;432;imagine, be, true, book, imagine be, be true, true book
+I:24918;433;be, masterpiece, standard, be masterpiece, masterpiece standard
+I:24918;434;plot, be, perfect, film, be, shoot, location, more, bare, minimum, dialogue, plot be, be perfect, perfect film, film be, be shoot, shoot location, location more, more bare, bare minimum, minimum dialogue
+I:24918;435;be, efficiency, storytelling, respect, audience, demand, application, intelligence, be efficiency, efficiency storytelling, storytelling respect, respect audience, audience demand, demand application, application intelligence
+I:24918;436;detail, worth, mention, be, director, have, courage, use, shoulder, detail worth, worth mention, mention be, be director, director have, have courage, courage use, use shoulder
+I:24918;437;make, par, make par
+I:24918;438;day, be, film, intelligent, adult, day be, be film, film intelligent, intelligent adult
+I:24918;439;movie, come, beat, line, theatre, watch, play, cunning, assinate, movie come, come beat, beat line, line theatre, theatre watch, watch play, play cunning, cunning assinate
+I:24918;440;movie, be, do, have, finest, actor, movie be, be do, do have, have finest, finest actor
+I:24918;441;great, cloak, dagger, film, great cloak, cloak dagger, dagger film
+I:24918;442;light, coup, detat, scheme, resemble, true, life, light coup, coup detat, detat scheme, scheme resemble, resemble true, true life
+I:24918;443;fill, seque, marvelous, detective, theme, be, portray, fill seque, seque marvelous, marvelous detective, detective theme, theme be, be portray
+I:24918;444;be, funny, movie, be, book, have, little, word, end, be funny, funny movie, movie be, be book, book have, have little, little word, word end
+I:24918;445;be, make, movie, good, have, pull, make, book, movie, do, movie, stand, be, own, be make, make movie, movie good, good have, have pull, pull make, make book, book movie, movie do, do movie, movie stand, stand be, be own
+I:24918;446;great, film, adaptation, great, novel, great film, film adaptation, adaptation great, great novel
+I:24918;447;be, great, performance, be great, great performance
+I:24918;448;great, thing, film, be, assume, high, level, intelligence, sophistication, viewer, great thing, thing film, film be, be assume, assume high, high level, level intelligence, intelligence sophistication, sophistication viewer
+I:24918;449;great, story, terrific, writer, movie, be, book, great story, story terrific, terrific writer, writer movie, movie be, be book
+I:24918;450;be, do, good, assassin, portrayal, be do, do good, good assassin, assassin portrayal
+I:24918;451;movie, be, make, early, 60, scenery, be, fun, be, style, car, movie be, be make, make early, early 60, 60 scenery, scenery be, be fun, fun be, be style, style car
+I:24918;452;act, cast, be, excellent, be, buildup, suspense, know, end, act cast, cast be, be excellent, excellent be, be buildup, buildup suspense, suspense know, know end
+I:24918;453;book, be, excellent, pack, enough, detail, make, film, difficult, book be, be excellent, excellent pack, pack enough, enough detail, detail make, make film, film difficult
+I:24918;454;maker, film, succeed, watch, young, important, support, role, maker film, film succeed, succeed watch, watch young, young important, important support, support role
+I:24918;455;see, anyone, like, thriller, mystery, see anyone, anyone like, like thriller, thriller mystery
+I:24918;456;see, anyone, like, good, movie, genre, see anyone, anyone like, like good, good movie, movie genre
+I:24918;457;feel, be, watch, professional, assassin, minute, minute, movie, be, king, cool, man, feel be, be watch, watch professional, professional assassin, assassin minute, minute minute, minute movie, movie be, be king, king cool, cool man
+I:24918;458;movie, do, get, better, sorry, be, great, one, movie do, do get, get better, better sorry, sorry be, be great, great one
+I:24918;459;be, best, serious, movie, ive, see, be, top, collection, be, first, movie, remake, call, jackal, top, actor, be, suberb, movie, watch, rainy, day, be, kind, movie, live, be best, best serious, serious movie, movie ive, ive see, see be, be top, top collection, collection be, be first, first movie, movie remake, remake call, call jackal, jackal top, top actor, actor be, be suberb, suberb movie, movie watch, watch rainy, rainy day, day be, be kind, kind movie, movie live
+I:24918;460;film, start, build, layer, plot, exciting, trans, film start, start build, build layer, layer plot, plot exciting, exciting trans
+I:24918;461;original, film, be, full, night, entertainment, movie, be, show, part, interval, original film, film be, be full, full night, night entertainment, entertainment movie, movie be, be show, show part, part interval
+I:24918;462;have, watch, many, time, enjoy, have watch, watch many, many time, time enjoy
+I:24918;463;be, rest, unknown, cast, be rest, rest unknown, unknown cast
+I:24918;464;enjoy, bit, enjoy bit
+I:24918;465;french, police, tad, cavalry, come, aide, settler, indian, french police, police tad, tad cavalry, cavalry come, come aide, aide settler, settler indian
+I:24918;466;retire, spot, tea, retire spot, spot tea
+I:24918;467;be, terrific, film, awful, moment, acting/scripting/directing, be terrific, terrific film, film awful, awful moment, moment acting/scripting/directing
+I:24918;468;be, most, be most
+I:24918;469;dislike, strutting, bantam, dislike strutting, strutting bantam
+I:24918;470;rooster, style, star, rooster style, style star
+I:24918;471;film, survive, be, lonely, film survive, survive be, be lonely
+I:24918;472;film, be, embed, real, fascinating, historical, moment, be, true, film be, be embed, embed real, real fascinating, fascinating historical, historical moment, moment be, be true
+I:24918;473;fact, remarkable, dialog, fact remarkable, remarkable dialog
+I:24918;474;enactment, real, attempt, life, be, brilliant, film, enactment real, real attempt, attempt life, life be, be brilliant, brilliant film
+I:24918;475;be, wise, stick, close, novel, be, superb, be wise, wise stick, stick close, close novel, novel be, be superb
+I:24918;476;give, hard, shot, moment, film, be, remarkable, tell, story, entertaining, do, give hard, hard shot, shot moment, moment film, film be, be remarkable, remarkable tell, tell story, story entertaining, entertaining do
+I:24918;477;be, classic, tautness, steady, build, be classic, classic tautness, tautness steady, steady build
+I:24918;478;tension, exciting, climax, tension exciting, exciting climax
+I:24918;479;rub, eye, great, weariness, switch, light, rub eye, eye great, great weariness, weariness switch, switch light
+I:24918;480;be, better, movie, recent, remake, company, be better, better movie, movie recent, recent remake, remake company
+I:24918;481;be, bad, thing, prefer, classic, be bad, bad thing, thing prefer, prefer classic
+I:24918;482;be, perfect, casting, act, script, editing, direct, score, be perfect, perfect casting, casting act, act script, script editing, editing direct, direct score
+I:24918;483;cinematic, edifice, withstand, wind, imagination, cinematic edifice, edifice withstand, withstand wind, wind imagination
+I:24918;484;day, be, film, keep, edge, seat, day be, be film, film keep, keep edge, edge seat
+I:24918;485;act, ability, make, film, absolute, act ability, ability make, make film, film absolute
+I:24918;486;go, several, decade, have, great, manhunt, movie, film, be, best, go several, several decade, decade have, have great, great manhunt, manhunt movie, movie film, film be, be best
+I:24918;487;acting, be, good, give, cast, be, make, unknown, acting be, be good, good give, give cast, cast be, be make, make unknown
+I:24918;488;cinematography, be, good, give, audience, glimpse, beauty, cinematography be, be good, good give, give audience, audience glimpse, glimpse beauty
+I:24918;489;great, movie, great movie
+I:24918;490;movie, be, top, notch, tense, political, thriller, set, era, rule, early, movie be, be top, top notch, notch tense, tense political, political thriller, thriller set, set era, era rule, rule early
+I:24918;491;fine, british, actor, portray, cold, hearted, hire, assassin, call, french, police, fine british, british actor, actor portray, portray cold, cold hearted, hearted hire, hire assassin, assassin call, call french, french police
+I:24918;492;be, superb, be, couple, play, part, be superb, superb be, be couple, couple play, play part
+I:24918;493;rest, cast, be, cast, do, great, job, rest cast, cast be, be cast, cast do, do great, great job
+I:24918;494;movie, be, realistic, movie be, be realistic
+I:24918;495;state, automobile, be, additional, actor, picture, state automobile, automobile be, be additional, additional actor, actor picture
+I:24918;496;director, actor, be, superb, director actor, actor be, be superb
+I:24918;497;fine, thriller, sure, please, fine thriller, thriller sure, sure please
+I:24918;498;be, photogenic, be, good, suspence, know, end, be photogenic, photogenic be, be good, good suspence, suspence know, know end
+I:24918;499;be, tour, watch, movie, be tour, tour watch, watch movie
+I:24918;500;great, suspense, thriller, audience, be, grip, elusive, assassin, stealth, chief, inspector, tenacity, great suspense, suspense thriller, thriller audience, audience be, be grip, grip elusive, elusive assassin, assassin stealth, stealth chief, chief inspector, inspector tenacity
+I:24918;501;oppose, be, many, top, military, officer, have, form, conspiracy, remove, power, assassination, necessary, oppose be, be many, many top, top military, military officer, officer have, have form, form conspiracy, conspiracy remove, remove power, power assassination, assassination necessary
+I:24918;502;film, be, pace, bring, audience, cat, film be, be pace, pace bring, bring audience, audience cat
+I:24918;503;film, follow, assassin, pursuer, climactic, ending, film follow, follow assassin, assassin pursuer, pursuer climactic, climactic ending
+I:24918;504;gripping, screenplay, be, bring, life, great, act, talent, actor, competent, director, gripping screenplay, screenplay be, be bring, bring life, life great, great act, act talent, talent actor, actor competent, competent director
+I:24918;505;great, political, suspense, thriller, be, convincing, true, great political, political suspense, suspense thriller, thriller be, be convincing, convincing true
+I:24918;506;great, film, own, watch, numerous, time, great film, film own, own watch, watch numerous, numerous time
+I:24918;507;version, be, fine, movie, version be, be fine, fine movie
+I:24918;508;better, story, line, better, acting, better, story, line, better story, story line, line better, better acting, acting better, better story, story line
+I:24918;509;be, great, thriller, keep, edge, seat, be great, great thriller, thriller keep, keep edge, edge seat
+I:24918;510;way, assassin, route, intended, victim, be, portray, be, riveting, way assassin, assassin route, route intended, intended victim, victim be, be portray, portray be, be riveting
+I:24918;511;great, casting, incredible, cinematography, historic, great casting, casting incredible, incredible cinematography, cinematography historic
+I:24918;512;film, have, film have
+I:24918;513;film, be, art, be, prototype, film be, be art, art be, be prototype
+I:24918;514;manage, quick, hot, affair, french, nobleman, lonely, wife, manage quick, quick hot, hot affair, affair french, french nobleman, nobleman lonely, lonely wife
+I:24918;515;level, suspense, moment, level suspense, suspense moment
+I:24918;516;be, throwback, youth, see, atmosphere, create, be throwback, throwback youth, youth see, see atmosphere, atmosphere create
+I:24918;517;be, unknown, good, be unknown, unknown good
+I:24918;518;achieve, same, effect, movie, seem, suspenseful, documentary, achieve same, same effect, effect movie, movie seem, seem suspenseful, suspenseful documentary
+I:24918;519;adaptation, thriller, be, compulsive, view, fan, political, thriller, espionage, deadly, assassin, adaptation thriller, thriller be, be compulsive, compulsive view, view fan, fan political, political thriller, thriller espionage, espionage deadly, deadly assassin
+I:24918;520;attract, movie, maker, be, dynamic, plot, complex, character, attract movie, movie maker, maker be, be dynamic, dynamic plot, plot complex, complex character
+I:24918;521;edward, create, best, killer, buy, screen, edward create, create best, best killer, killer buy, buy screen
+I:24918;522;fox, character, be, dash, debonair, charming, ruthless, assassin, be, innovative, driven, cold, blood, fox character, character be, be dash, dash debonair, debonair charming, charming ruthless, ruthless assassin, assassin be, be innovative, innovative driven, driven cold, cold blood
+I:24918;523;best, role, be, intrepid, wily, french, police, inspector, be, give, invidious, task, find, faceless, man, be, single, mind, mission, kill, best role, role be, be intrepid, intrepid wily, wily french, french police, police inspector, inspector be, be give, give invidious, invidious task, task find, find faceless, faceless man, man be, be single, single mind, mind mission, mission kill
+I:24918;524;excellent, direction, deadly, game, cat, mouse, be, inventive, taut, brillianty, stage, excellent direction, direction deadly, deadly game, game cat, cat mouse, mouse be, be inventive, inventive taut, taut brillianty, brillianty stage
+I:24918;525;first, rate, support, cast, lesser, known, actor, lend, superb, authenticity, feel, story, love, expert, gunsmith, first rate, rate support, support cast, cast lesser, lesser known, known actor, actor lend, lend superb, superb authenticity, authenticity feel, feel story, story love, love expert, expert gunsmith
+I:24918;526;mind, day, be, a., class, entertainment, begin, end, belong, shelf, devotee, stimulating, riveting, thriller, mind day, day be, be a., a. class, class entertainment, entertainment begin, begin end, end belong, belong shelf, shelf devotee, devotee stimulating, stimulating riveting, riveting thriller
+I:24918;527;be, amaze, precision, planning, deft, skill, be amaze, amaze precision, precision planning, planning deft, deft skill
+I:24918;528;tension, excitement, be, keep, fever, pitch, political, thriller, tension excitement, excitement be, be keep, keep fever, fever pitch, pitch political, political thriller
+I:24918;529;most, entertaining, aspect, most entertaining, entertaining aspect
+I:24918;530;second, meeting, jackal, gunsmith, jackal, be, review, handiwork, admire, gun, second meeting, meeting jackal, jackal gunsmith, gunsmith jackal, jackal be, be review, review handiwork, handiwork admire, admire gun
+I:24918;531;make, perfect, sense, light, know, jackal, possible, witness, make perfect, perfect sense, sense light, light know, know jackal, jackal possible, possible witness
+I:24918;532;film, story, be, basis, appeal, film story, story be, be basis, basis appeal
+I:24918;533;film, deliver, fascinating, story, believable, character, suspense, film deliver, deliver fascinating, fascinating story, story believable, believable character, character suspense
+I:24918;534;film, version, best, seller, day, be, incredible, film version, version best, best seller, seller day, day be, be incredible
+I:24918;535;storyline, subtle, way, director, show, passage, time, be, marvelous, storyline subtle, subtle way, way director, director show, show passage, passage time, time be, be marvelous
+I:24918;536;modern, version, film, star, do, come, cinnematic, masterpiece, present, day, modern version, version film, film star, star do, do come, come cinnematic, cinnematic masterpiece, masterpiece present, present day
+I:24918;537;be, film, watch, be, true, classic, be film, film watch, watch be, be true, true classic
+I:24918;538;day, be, classic, film, continue, amaze, reviewer, day be, be classic, classic film, film continue, continue amaze, amaze reviewer
+I:24918;539;film, jackal, lead, french, authority, wild, goose, chase, hire, killer, aim, french, leader, end, occupation, film jackal, jackal lead, lead french, french authority, authority wild, wild goose, goose chase, chase hire, hire killer, killer aim, aim french, french leader, leader end, end occupation
+I:24918;540;lead, star, show, pathology, cold, blooded, killer, skill, set, be, inventive, film, magic, double, trick, character, be, understate, act, lead star, star show, show pathology, pathology cold, cold blooded, blooded killer, killer skill, skill set, set be, be inventive, inventive film, film magic, magic double, double trick, trick character, character be, be understate, understate act
+I:24918;541;be, classic, film, fort, love, sit, edge, chair, great, suspense, drama, be classic, classic film, film fort, fort love, love sit, sit edge, edge chair, chair great, great suspense, suspense drama
+I:24918;542;mention, day, do, masterful, job, show, criminal, evil, intent, be, able, integrate, country, be, detect, mention day, day do, do masterful, masterful job, job show, show criminal, criminal evil, evil intent, intent be, be able, able integrate, integrate country, country be, be detect
+I:24918;543;blood, professional, know, trade, blood professional, professional know, know trade
+I:24918;544;pace, thorough, suspense, movie, pace thorough, thorough suspense, suspense movie
+I:24918;545;acting, be, good, movie, title, character, most, people, involve, play, role, bring, sterile, nature, professional, assasin, accomplice, pursuer, acting be, be good, good movie, movie title, title character, character most, most people, people involve, involve play, play role, role bring, bring sterile, sterile nature, nature professional, professional assasin, assasin accomplice, accomplice pursuer
+I:24918;546;leave, focus, movie, preformance, be, way, good, suspense, movie, be, remember, leave focus, focus movie, movie preformance, preformance be, be way, way good, good suspense, suspense movie, movie be, be remember
+I:24918;547;movie, be, timeless, many, other, perspective, movie be, be timeless, timeless many, many other, other perspective
+I:24918;548;keep, edge, seat, wonder, forfill, contract, take, money, run!outstanding, keep edge, edge seat, seat wonder, wonder forfill, forfill contract, contract take, take money, money run!outstanding
+I:24918;549;edge, seat, classic, edge seat, seat classic
+I:24918;550;be, amaze, make, compelling, be, be amaze, amaze make, make compelling, compelling be
+I:24918;551;great, actor, storyline, do, seem, deviate, book, think, movie, be, tighter, more, thriller, book, great actor, actor storyline, storyline do, do seem, seem deviate, deviate book, book think, think movie, movie be, be tighter, tighter more, more thriller, thriller book
+I:24918;552;intelligent, thriller, keep, viewer, edge, seat, classic, veteran, work, fact, outcome, be, know, begin, intelligent thriller, thriller keep, keep viewer, viewer edge, edge seat, seat classic, classic veteran, veteran work, work fact, fact outcome, outcome be, be know, know begin
+I:24918;553;trick, be, careful, manner, unfold, tale, attempt, assassinate, legendary, politician, take, audience, breathless, ride, scenic, locale, include, beautiful, city, trick be, be careful, careful manner, manner unfold, unfold tale, tale attempt, attempt assassinate, assassinate legendary, legendary politician, politician take, take audience, audience breathless, breathless ride, ride scenic, scenic locale, locale include, include beautiful, beautiful city
+I:24918;554;be, write, review, view, movie, umpteenth, time, realise, grow, viewing, be write, write review, review view, view movie, movie umpteenth, umpteenth time, time realise, realise grow, grow viewing
+I:24918;555;forsake, explosive, action, intelligent, pacing, clever, script, stick, bestsell, novel, humble, opinion, strongest, point, movie, use, cast, solid, british, french, actor, bring, screen, documentary, fashion, race, police, nab, canny, suave, hitman, jackal, forsake explosive, explosive action, action intelligent, intelligent pacing, pacing clever, clever script, script stick, stick bestsell, bestsell novel, novel humble, humble opinion, opinion strongest, strongest point, point movie, movie use, use cast, cast solid, solid british, british french, french actor, actor bring, bring screen, screen documentary, documentary fashion, fashion race, race police, police nab, nab canny, canny suave, suave hitman, hitman jackal
+I:24918;556;juxtapose, be, devious, meticulous, preparation, hit, juxtapose be, be devious, devious meticulous, meticulous preparation, preparation hit
+I:24918;557;ability, get, skin, character, be, film, many, strength, film, documentary, style, have, be, emulate, ability get, get skin, skin character, character be, be film, film many, many strength, strength film, film documentary, documentary style, style have, have be, be emulate
+I:24918;558;gorgeous, cinematography, sound, design, be, other, strength, film, be, serve, non, gorgeous cinematography, cinematography sound, sound design, design be, be other, other strength, strength film, film be, be serve, serve non
+I:24918;559;be, excellent, text, supplement, document, making, film, be excellent, excellent text, text supplement, supplement document, document making, making film
+I:24918;560;present, many, worthy, tidbit, such, surprising, fact, day, marked, return, screen, long, hiatus, present many, many worthy, worthy tidbit, tidbit such, such surprising, surprising fact, fact day, day marked, marked return, return screen, screen long, long hiatus
+I:24918;561;be, keeper, be keeper
+I:24918;562;have, see, movie, many, time, enjoy, time, great, movie, have see, see movie, movie many, many time, time enjoy, enjoy time, time great, great movie
+I:24918;563;be, suspenseful, classic, enjoy, watch, several, times/year, be suspenseful, suspenseful classic, classic enjoy, enjoy watch, watch several, several times/year
+I:24918;564;movie, begin, real, movie begin, begin real
+I:24918;565;novel, be, depict, make, enjoyable, thrilling, entertainment, novel be, be depict, depict make, make enjoyable, enjoyable thrilling, thrilling entertainment
+I:24918;566;be, action, film, base, exceptional, character, actor, be action, action film, film base, base exceptional, exceptional character, character actor
+I:24918;567;be, cop, wonderful, french, actor, many, recognize, state, be, homely, focus, professional, assassin, be cop, cop wonderful, wonderful french, french actor, actor many, many recognize, recognize state, state be, be homely, homely focus, focus professional, professional assassin
+I:24918;568;play, cat, mouse, game, luck, be, involve, technique, inspire, intuition, play cat, cat mouse, mouse game, game luck, luck be, be involve, involve technique, technique inspire, inspire intuition
+I:24918;569;tension, be, maintain, consistent, clip, single, detail, be, quirky, believable, realistic, tension be, be maintain, maintain consistent, consistent clip, clip single, single detail, detail be, be quirky, quirky believable, believable realistic
+I:24918;570;be, storytelling, best, be storytelling, storytelling best
+I:24918;571;add, great, film, plenty, humor, dark, throw, add great, great film, film plenty, plenty humor, humor dark, dark throw
+I:24918;572;many, senior, officer, feel, betray, government, many senior, senior officer, officer feel, feel betray, betray government
+I:24918;573;be, separate, related, plot, focus, assassin, meticulous, preparation, other, thorough, effort, identify, locate, capture, be separate, separate related, related plot, plot focus, focus assassin, assassin meticulous, meticulous preparation, preparation other, other thorough, thorough effort, effort identify, identify locate, locate capture
+I:24918;574;understand, do, do, understand do, do do
+I:24918;575;be, public, official, do, job, matter, be, danger, be public, public official, official do, do job, job matter, matter be, be danger
+I:24918;576;guess, film, be, thriller, guess film, film be, be thriller
+I:24918;577;have, number, exciting, moment, have, doubt, prevail, have number, number exciting, exciting moment, moment have, have doubt, doubt prevail
+I:24918;578;interest, be, explain, seamless, development, plot, include, several, interest be, be explain, explain seamless, seamless development, development plot, plot include, include several
+I:24918;579;riveting, thrilling, summarize, response, event, crisp, cohesive, film, riveting thrilling, thrilling summarize, summarize response, response event, event crisp, crisp cohesive, cohesive film
+I:24918;580;be, outstanding, movie, way, be outstanding, outstanding movie, movie way
+I:24918;581;part, play, top, line, actor, thier, performance, prove, part play, play top, top line, line actor, actor thier, thier performance, performance prove
+I:24918;582;sit, enjoy, old, fashion, detective, work, forensic, science, get, picture, see, tv, night, sit enjoy, enjoy old, old fashion, fashion detective, detective work, work forensic, forensic science, science get, get picture, picture see, see tv, tv night
+I:24918;583;superlative, movie, have, classic, ingredient, real, thriller, non, superlative movie, movie have, have classic, classic ingredient, ingredient real, real thriller, thriller non
+I:24918;584;provide, classy, alternative, provide classy, classy alternative
+I:24918;585;be, consider, part, metropolitan, hold, status, higher, other, french, colony, be consider, consider part, part metropolitan, metropolitan hold, hold status, status higher, higher other, other french, french colony
+I:24918;586;conduct, many, assassination, conduct many, many assassination
+I:24918;587;book, movie, be, base, take, plot, step, portray, british, assassin, be, lot, determine, competent, historical, counterpart, be, book movie, movie be, be base, base take, take plot, plot step, step portray, portray british, british assassin, assassin be, be lot, lot determine, determine competent, competent historical, historical counterpart, counterpart be
+I:24918;588;end, have, be, classic, suspence, good, acting, player, story, do, dumb, many, action, thriller, today, do, end have, have be, be classic, classic suspence, suspence good, good acting, acting player, player story, story do, do dumb, dumb many, many action, action thriller, thriller today, today do
+I:24918;589;be, enjoy, have, wince, excessive, gore, violence, be enjoy, enjoy have, have wince, wince excessive, excessive gore, gore violence
+I:24918;590;pick, speed, become, intellectual, masterpiece, pick speed, speed become, become intellectual, intellectual masterpiece
+I:24918;591;get, see, smart, crook, step, set, plan, asasinate, president, get see, see smart, smart crook, crook step, step set, set plan, plan asasinate, asasinate president
+I:24918;592;director, leave, murder, lot, imagination, do, show, detail, death, assault, director leave, leave murder, murder lot, lot imagination, imagination do, do show, show detail, detail death, death assault
+I:24918;593;a, rate, film, a rate, rate film
+I:24918;594;first, class, story, act, first class, class story, story act
+I:24918;595;reproduction, be, good, reproduction be, be good
+I:24918;596;movie, be, worth, see, movie be, be worth, worth see
+I:24918;597;movie, be, true, original, bestsell, novel, same, title, day, best, have, read, movie be, be true, true original, original bestsell, bestsell novel, novel same, same title, title day, day best, best have, have read
+I:24918;598;be, outstanding, plot, compelling, be, capture, relentless, believable, ability, overcome, everything, throw, french, intelligence, service, national, police, be outstanding, outstanding plot, plot compelling, compelling be, be capture, capture relentless, relentless believable, believable ability, ability overcome, overcome everything, everything throw, throw french, french intelligence, intelligence service, service national, national police
+I:24918;599;assassin, hire, code, name, take, high, pay, high, risk, job, retire, target, simple, enough, storyline, attach, cat, mouse, game, assassin hire, hire code, code name, name take, take high, high pay, pay high, high risk, risk job, job retire, retire target, target simple, simple enough, enough storyline, storyline attach, attach cat, cat mouse, mouse game
+I:24918;600;movie, be, faithful, book, movie be, be faithful, faithful book
+I:24918;601;end, scene, be, time, suspenseful, text, end scene, scene be, be time, time suspenseful, suspenseful text
+I:24918;602;great, story, plot, assassination, french, leader, great story, story plot, plot assassination, assassination french, french leader
+I:24918;603;be, pace, read, be pace, pace read
+I:24918;604;be, superfluous, thanks, commentator, be superfluous, superfluous thanks, thanks commentator
+I:24918;605;excel, other, attempt, documentary, style, excel other, other attempt, attempt documentary, documentary style
+I:24918;606;be, favorite, film, time, be favorite, favorite film, film time
+I:24918;607;excellent, adaptation, novel, have, grow, stature, past, year, have, be, recognize, masterpiece, be, excellent adaptation, adaptation novel, novel have, have grow, grow stature, stature past, past year, year have, have be, be recognize, recognize masterpiece, masterpiece be
+I:24918;608;day, be, cinematic, suspense, finest, brilliant, performance, master, assassin, aim, sight, french, day be, be cinematic, cinematic suspense, suspense finest, finest brilliant, brilliant performance, performance master, master assassin, assassin aim, aim sight, sight french
+I:24918;609;superb, filmmaking, classic, tradition, high, noon, superb filmmaking, filmmaking classic, classic tradition, tradition high, high noon
+I:24918;610;famous, british, french, actor, day, depict, cat, famous british, british french, french actor, actor day, day depict, depict cat
+I:24918;611;actor, be, good, story, be, entertaining, sex, corpse, be, non, actor be, be good, good story, story be, be entertaining, entertaining sex, sex corpse, corpse be, be non
+I:24918;612;be, nostalgic, interested, look, year, movie, provide, good, idea, be nostalgic, nostalgic interested, interested look, look year, year movie, movie provide, provide good, good idea
+I:24918;613;true, success, film, rest, realistic, unassuming, character, french, police, commissioner, be, charge, catch, true success, success film, film rest, rest realistic, realistic unassuming, unassuming character, character french, french police, police commissioner, commissioner be, be charge, charge catch
+I:24918;614;edward, play, be, perfect, choice, edward play, play be, be perfect, perfect choice
+I:24918;615;be, fit, bill, be fit, fit bill
+I:24918;616;be, formidable, deductive, reasoning, intelligence, adversary, be formidable, formidable deductive, deductive reasoning, reasoning intelligence, intelligence adversary
+I:24918;617;allow, viewer, appreciate, admire, simple, game, cat, mouse, watch, see, succeed, catch, allow viewer, viewer appreciate, appreciate admire, admire simple, simple game, game cat, cat mouse, mouse watch, watch see, see succeed, succeed catch
+I:24918;618;allow, appreciate, intelligence, character, allow appreciate, appreciate intelligence, intelligence character
+I:24918;619;storywriter, be, understand, intrigue, be, journey, climax, storywriter be, be understand, understand intrigue, intrigue be, be journey, journey climax
+I:24918;620;line, be, aim, assistant, story, audience, line be, be aim, aim assistant, assistant story, story audience
+I:24918;621;be, best, film, make, cat, mouse, chase, policeman, try, catch, assassin, be best, best film, film make, make cat, cat mouse, mouse chase, chase policeman, policeman try, try catch, catch assassin
+I:24918;622;work, art, be, grand, simple, be, duplicated, work art, art be, be grand, grand simple, simple be, be duplicated
+I:24918;623;day, be, film, day be, be film
+I:24918;624;be, superior, work, cinema, be, judge, be, eligible, remake, do, joke, be superior, superior work, work cinema, cinema be, be judge, judge be, be eligible, eligible remake, remake do, do joke
+I:24918;625;style, director, take, viewer, believable, plot, assassinate, french, style director, director take, take viewer, viewer believable, believable plot, plot assassinate, assassinate french
+I:24918;626;be, cooler, killer, movie, more, movie, work, build, neat, climax, surprising, twist, be cooler, cooler killer, killer movie, movie more, more movie, movie work, work build, build neat, neat climax, climax surprising, surprising twist
+I:24918;627;intelligent, exciting, entertainment, be, real, winner, intelligent exciting, exciting entertainment, entertainment be, be real, real winner
+I:24918;628;best, genre, best genre
+I:24918;629;opening, sequence, true, life, assassination, attempt, degaulle, jackal, interview, leadership, assignment, try, fiction, be, compelling, sequence, type, movie, opening sequence, sequence true, true life, life assassination, assassination attempt, attempt degaulle, degaulle jackal, jackal interview, interview leadership, leadership assignment, assignment try, try fiction, fiction be, be compelling, compelling sequence, sequence type, type movie
+I:24918;630;excellent, film, feature, excellent film, film feature
+I:24918;631;be, direct, shoot, film, location, be direct, direct shoot, shoot film, film location
+I:24918;632;be, shoot, documentary, style, put, number, other, film, early, french, connection/godfather, film, spring, mind, be, entertaining, film, want, see, be shoot, shoot documentary, documentary style, style put, put number, number other, other film, film early, early french, french connection/godfather, connection/godfather film, film spring, spring mind, mind be, be entertaining, entertaining film, film want, want see
+I:24918;633;be, worth, watch, be worth, worth watch
+I:24918;634;be, understate, film, quiet, slow, be understate, understate film, film quiet, quiet slow
+I:24918;635;move, cat, mouse, game, mysterious, super, move cat, cat mouse, mouse game, game mysterious, mysterious super
+I:24918;636;be, superb, be superb
+I:24918;637;be, fact, tense, climax, thriller, know, be fact, fact tense, tense climax, climax thriller, thriller know
+I:24918;638;riveting, start, finish, riveting start, start finish
+I:24918;639;end, hit, cop, ingenious, method, track, ingenious, way, elude, end hit, hit cop, cop ingenious, ingenious method, method track, track ingenious, ingenious way, way elude
+I:24918;640;study, role, pay, viewer, portray, uncaring, egocentric, elusive, clever, individual, person, occupation, be, study role, role pay, pay viewer, viewer portray, portray uncaring, uncaring egocentric, egocentric elusive, elusive clever, clever individual, individual person, person occupation, occupation be
+I:24918;641;be, fantastic, character, be, believable, man, be, stun, elusiveness, give, do, show, be fantastic, fantastic character, character be, be believable, believable man, man be, be stun, stun elusiveness, elusiveness give, give do, do show
+I:24918;642;give, film, star, be, flawless, reward, attentiveness, year, give film, film star, star be, be flawless, flawless reward, reward attentiveness, attentiveness year
+I:24918;643;tell, story, opinion, tell story, story opinion
+I:24918;644;base, bestsell, novel, be, rare, film, do, justice, book, base bestsell, bestsell novel, novel be, be rare, rare film, film do, do justice, justice book
+I:24918;645;film, be, pace, be, laden, special, effect, have, trouble, hold, attention, film be, be pace, pace be, be laden, laden special, special effect, effect have, have trouble, trouble hold, hold attention
+I:24918;646;be, tribute, screenplay, director, know, be, assasinate, suspense, continue, build, film, right, end, be tribute, tribute screenplay, screenplay director, director know, know be, be assasinate, assasinate suspense, suspense continue, continue build, build film, film right, right end
+I:24918;647;right, combination, suspense, action, combine, intelligent, screenplay, right combination, combination suspense, suspense action, action combine, combine intelligent, intelligent screenplay
+I:24918;648;enjoy, book, have, read, see, movie, enjoy book, book have, have read, read see, see movie
+I:24918;649;read, many, book, enjoy, stuff, read many, many book, book enjoy, enjoy stuff
+I:24918;650;lovely, thig, rendition, novel, be, hold, true, real, deal, lovely thig, thig rendition, rendition novel, novel be, be hold, hold true, true real, real deal
+I:24918;651;part, movie, be, non, part movie, movie be, be non
+I:24918;652;real, thrill, be, government, official, assemble, detail, hit, man, cool, character, become, target, hit, real thrill, thrill be, be government, government official, official assemble, assemble detail, detail hit, hit man, man cool, cool character, character become, become target, target hit
+I:24918;653;good, film, need, music, good film, film need, need music
+I:24918;654;be, perfect, role, calm, ice, be perfect, perfect role, role calm, calm ice
+I:24918;655;believe, be, convincing, be, afraid, character, real, life, other, star, mention, believe be, be convincing, convincing be, be afraid, afraid character, character real, real life, life other, other star, star mention
+I:24918;656;day, be, best, action, day be, be best, best action
+I:24918;657;be, nothing, short, brilliant, be, something, hidden, treasure, be nothing, nothing short, short brilliant, brilliant be, be something, something hidden, hidden treasure
+I:24918;658;be, fantastic, be, work, realm, possibility, be fantastic, fantastic be, be work, work realm, realm possibility
+I:24918;659;human, killer, movie, last, year, human killer, killer movie, movie last, last year
+I:24918;660;be, extraordinary, feat, consider, assassin, target, be, real, historical, figure, be, assassinate, be extraordinary, extraordinary feat, feat consider, consider assassin, assassin target, target be, be real, real historical, historical figure, figure be, be assassinate
+I:24918;661;detract, bit, realism, detract bit, bit realism
+I:24918;662;be, see, be see
+I:24918;663;be, fan, so., call, spy, fiction, genre, enjoy, intrigue, suspense, least, wonderful, shot, be fan, fan so., so. call, call spy, spy fiction, fiction genre, genre enjoy, enjoy intrigue, intrigue suspense, suspense least, least wonderful, wonderful shot
+I:24918;664;be, rare, movie, doesnt, let, have, read, book, be rare, rare movie, movie doesnt, doesnt let, let have, have read, read book
+I:24918;665;movie, do, great, job, keep, glue, know, be, gon, happen, movie do, do great, great job, job keep, keep glue, glue know, know be, be gon, gon happen
+I:24918;666;story, construction, move, logical, rapid, pace, story construction, construction move, move logical, logical rapid, rapid pace
+I:24918;667;end, splendid, climax, meet, demise, end splendid, splendid climax, climax meet, meet demise
+I:24918;668;cool, way, watch, original, back, back, flop, cool way, way watch, watch original, original back, back back, back flop
+I:24918;669;be, favorite, author, movie, relate, political, suspense, drama, best, book, think, be favorite, favorite author, author movie, movie relate, relate political, political suspense, suspense drama, drama best, best book, book think
+I:24918;670;work, have, nothing, more, say, movie, work, nothing, work have, have nothing, nothing more, more say, say movie, movie work, work nothing
+I:24918;671;movie, be, classic, movie be, be classic
+I:24918;672;way, suspense, be, grip, race, way suspense, suspense be, be grip, grip race
+I:24918;673;be, final, ironic, twist, be final, final ironic, ironic twist
+I:24918;674;think, get, right, man, turn, innitial, assumption, premise, be, wrong, success, have, be, due, pure, luck, think get, get right, right man, man turn, turn innitial, innitial assumption, assumption premise, premise be, be wrong, wrong success, success have, have be, be due, due pure, pure luck
+I:24918;675;british, journalist, foreign, correspondent, turn, write, fiction, first, novel, day, become, international, best, british journalist, journalist foreign, foreign correspondent, correspondent turn, turn write, write fiction, fiction first, first novel, novel day, day become, become international, international best
+I:24918;676;seller, be, adapt, big, screen, seller be, be adapt, adapt big, big screen
+I:24918;677;star, mysterious, intelligent, plan, accomplish, task, proceed, make, reality, star mysterious, mysterious intelligent, intelligent plan, plan accomplish, accomplish task, task proceed, proceed make, make reality
+I:24918;678;combine, effort, involve, intelligence, service, several, country, produce, lead, combine effort, effort involve, involve intelligence, intelligence service, service several, several country, country produce, produce lead
+I:24918;679;most, key, element, book, be, include, movie, direction, remain, engaging, interesting, lengthy, minute, run, most key, key element, element book, book be, be include, include movie, movie direction, direction remain, remain engaging, engaging interesting, interesting lengthy, lengthy minute, minute run
+I:24918;680;tension, build, few, attempt, overdramatize, situation, tension build, build few, few attempt, attempt overdramatize, overdramatize situation
+I:24918;681;be, brilliant, professional, handle, complication, save, odd, romantic, episode, be, focus, mission, be brilliant, brilliant professional, professional handle, handle complication, complication save, save odd, odd romantic, romantic episode, episode be, be focus, focus mission
+I:24918;682;original, timely, plot, original timely, timely plot
+I:24918;683;pace, exciting, original, device, pace exciting, exciting original, original device
+I:24918;684;be, superb, hero, be superb, superb hero
+I:24918;685;be, worth, cost, novel, film, be, base, be, good, be worth, worth cost, cost novel, novel film, film be, be base, base be, be good
+I:24918;686;be, best, suspense, movie, have, see, be best, best suspense, suspense movie, movie have, have see
+I:24918;687;whole, plot, be, complicate, find, fascinating, whole plot, plot be, be complicate, complicate find, find fascinating
+I:24918;688;fact, be, true, story, make, interesting, fact be, be true, true story, story make, make interesting
+I:24918;689;give, outstanding, performance, jackal, be, be, hire, kill, give outstanding, outstanding performance, performance jackal, jackal be, be be, be hire, hire kill
+I:24918;690;see, movie, anybody, be, get, slightest, interst, suspense, see movie, movie anybody, anybody be, be get, get slightest, slightest interst, interst suspense
+I:24918;691;be, surprise, find, movie, have, be, direct, great, performance, be, be surprise, surprise find, find movie, movie have, have be, be direct, direct great, great performance, performance be
+I:24918;692;be, intrigue, remake, think, be, wise, check, original, be intrigue, intrigue remake, remake think, think be, be wise, wise check, check original
+I:24918;693;most, thing, original, be, most thing, thing original, original be
+I:24918;694;film, be, write, act, direct, film be, be write, write act, act direct
+I:24918;695;film, be, good, end, be, interested, film be, be good, good end, end be, be interested
+I:24918;696;allure, espionage, monumental, challenge, assassin, be, illustrated, allure espionage, espionage monumental, monumental challenge, challenge assassin, assassin be, be illustrated
+I:24918;697;great, story, suspense, need, gratuitous, violence, body, count, great story, story suspense, suspense need, need gratuitous, gratuitous violence, violence body, body count
+I:24918;698;do, be, act, do be, be act
+I:24918;699;draw, plot, be, excellent, draw plot, plot be, be excellent
+I:24918;700;day, action, explosion, one, be, top, keep, involve, last, frame, day action, action explosion, explosion one, one be, be top, top keep, keep involve, involve last, last frame
+I:24918;701;best, suspense, thriller, make, be, great, actor, part, best suspense, suspense thriller, thriller make, make be, be great, great actor, actor part
+I:24918;702;like, novel, whole, film, be, suspenseful, like novel, novel whole, whole film, film be, be suspenseful
+I:24918;703;iread, thebook, film, capture, book, iread thebook, thebook film, film capture, capture book
+I:24918;704;masterpiece, film, production, do, justice, masterpiece film, film production, production do, do justice
+I:24918;705;movie, take, page, book, riveting, narrative, movie take, take page, page book, book riveting, riveting narrative
+I:24918;706;excellent, adaptation, classic, excellent adaptation, adaptation classic
+I:24918;707;movie, be, cast, pace, movie be, be cast, cast pace
+I:24918;708;perfect, thriller, close, perfect thriller, thriller close
+I:24918;709;see, movie, first, read, book, think, be, good, movie, see movie, movie first, first read, read book, book think, think be, be good, good movie
+I:24918;710;have, read, book, book, be, sensational, think, movie, be, sensational, have read, read book, book book, book be, be sensational, sensational think, think movie, movie be, be sensational
+I:24918;711;casting, be, superb, casting be, be superb
+I:24918;712;movie, combination, duo, rank, kill, movie combination, combination duo, duo rank, rank kill
+I:24918;713;sophisticated, smart, do, sophisticated smart, smart do
+I:24918;714;think, person, unique, payoff, think person, person unique, unique payoff
+I:24918;715;suberb, adaptation, novel, same, name, suberb adaptation, adaptation novel, novel same, same name
+I:24918;716;character, play, be, charming, ruthless, character play, play be, be charming, charming ruthless
+I:24918;717;casual, way, kill, calm, demeanor, be, chill, compelling, watch, casual way, way kill, kill calm, calm demeanor, demeanor be, be chill, chill compelling, compelling watch
+I:24918;718;intrigue, scene, build, security, be, infiltrate, intrigue scene, scene build, build security, security be, be infiltrate
+I:24918;719;cat, mouse, game, be, deadly, get, way, cat mouse, mouse game, game be, be deadly, deadly get, get way
+I:24918;720;film, build, climax, immense, man, film build, build climax, climax immense, immense man
+I:24918;721;great, suspenseful, film, keep, fascinate, last, scene, great suspenseful, suspenseful film, film keep, keep fascinate, fascinate last, last scene
+I:24918;722;be, polished, newer, movie, be, nice, feel, capability, police, time, be, exaggerate, be polished, polished newer, newer movie, movie be, be nice, nice feel, feel capability, capability police, police time, time be, be exaggerate
+I:24918;723;catch, attention, catch attention
+I:24918;724;love, film, detective, method, use, be, simple, effective, love film, film detective, detective method, method use, use be, be simple, simple effective
