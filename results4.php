@@ -29,7 +29,7 @@
 
 	<?php
 	if (isset($_POST['valutazione4'])) {
-		$path = "../filesFilmando2/temp/report" . $_SESSION['tempo'] . ".txt";
+		$path = "filesFilmando2/temp/report" . $_SESSION['tempo'] . ".txt";
 		$file = fopen($path, "r") or die("Unable to open file!");
 		$reportValutazione = fgets($file);
 
@@ -40,7 +40,7 @@
 		$pref4 = $_POST['pref4'];       //trust level
 
 		$output = PHP_EOL . $reportValutazione . ";" . $pref0 . ";" . $pref1 . ";" . $pref2 . ";" . $pref3 . ";" . $pref4;
-		$file = fopen("../filesFilmando2/valutazione4.txt", "a") or die("Unable to open file!");
+		$file = fopen("filesFilmando2/valutazione4.txt", "a") or die("Unable to open file!");
 		fwrite($file, $output);
 		fclose($file);
 		header("location: end.php");
