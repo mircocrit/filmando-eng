@@ -1,0 +1,2778 @@
+I:9643;1;major, star, production, value, adult, story, set, tumultuous, time
+I:9643;2;man, struggle, come, term, course, life, belief, awakening, nature, power, war, develop, love, woman, future
+I:9643;3;be, lot
+I:9643;4;worth, tell, film
+I:9643;5;special, feature, be, excellent, material, go, history, character, time, film, movie
+I:9643;6;be, film, watch, more
+I:9643;7;be, epic, movie
+I:9643;8;fill, lot, action, end, twist, way
+I:9643;9;keep, entertain, interested, love
+I:9643;10;help, come, bit, contemplative, world, be, extremist, religion, adopt, reasonable, tone, coexistence
+I:9643;11;video, set, be, son, want
+I:9643;12;see, full, release, movie, make, more, sense, flow, scene, scene, purpose, direction
+I:9643;13;original, release, recommend, see
+I:9643;14;be, viewer, have, patience, maturity, appreciate, director, cut, be, time, favorite
+I:9643;15;go, tremendous, detail, be, honest, do, embellish, bit
+I:9643;16;compare, original, release, have, give, be, superior, fan, theatrical, version, be, must, see, must, own
+I:9643;17;be, true, classic
+I:9643;18;have, true, cinematic, fan
+I:9643;19;movie, be, good, theatrical, cut, director, edition
+I:9643;20;have, love, film
+I:9643;21;have, have, knack, put, grip, action, film, good, story
+I:9643;22;set, tell, grand, story, turbulent, time, history, crusade, accomplish
+I:9643;23;lack, screen, presence, opinion, pull, lead, role, epic, film
+I:9643;24;give, film, intend
+I:9643;25;be, underrated, film, have, see, long, time
+I:9643;26;be, poignant, know, religious, fanaticism, side
+I:9643;27;ridley, be, genius, film, maker
+I:9643;28;give, think, want, show, smart, director
+I:9643;29;be, get, exceptional, script, work, be, be, flaw
+I:9643;30;notable, be, relationship
+I:9643;31;be, point, afraid, measure, responsibility
+I:9643;32;be, treat, be, look
+I:9643;33;gruff, voice, realistic, approach, play, man, frustrate, position
+I:9643;34;love, respect, king, know, die, do
+I:9643;35;wonderful, character, role, have, best, speech, film
+I:9643;36;wise, voice, need
+I:9643;37;filmmaking, be, flawless
+I:9643;38;be, shot, movie, have, want, see, best, be, start, battle, trebuchet, start, release, balista
+I:9643;39;see, horizon, feel, come
+I:9643;40;be, fanatic, side, push, side, wrong, direction
+I:9643;41;film, show
+I:9643;42;movie, say, be, accurate
+I:9643;43;action, be, intense, do, great, job, traditional
+I:9643;44;animation/cg, be, excellent, acting, be, overall, good
+I:9643;45;good, musical, score, story, do, tend, lag, little, part
+I:9643;46;like, ring, mix, little, bit, history, love
+I:9643;47;be, dramatize, much, license, be, take, character, response, event, nobody, muslim, jew, be, benevolent, thoughtful, altruistic
+I:9643;48;do, exist, peace, hold, be, real
+I:9643;49;be, best, film
+I:9643;50;photography, film, be, gorgeous, score, be, hear, head, day, story, take
+I:9643;51;rank, finest, music, write, screen
+I:9643;52;be, mesmerizing, christian, queen
+I:9643;53;brilliant, cinematography, film, be, visual, treat, sens, think, story
+I:9643;54;be, confident, be, least, time, better, origianl, version, wasnt, bad
+I:9643;55;be, give, rest, story, leave, box, office, want
+I:9643;56;hand, action, siege, combat, be, fine, crusade
+I:9643;57;have, see, version, film, several, time, say, be, superior, theatrical
+I:9643;58;christian, be, capable, feel, be, fair, side, debate, offer, consider, serious, revisionist, problem
+I:9643;59;establish, be, brutalize, side, christian, be
+I:9643;60;complete, discussion, difference, film, history, need, consult, website, book, subject, feel, achieve, rare, distinction, film, par, black, hawk, down
+I:9643;61;craft, cinematography, be, beautiful, plot
+I:9643;62;feel, film, provide, new, take, fluid, subtle, struggle, occur, religion
+I:9643;63;film, encourage, resurge, interest, crusade, be, worthy, result
+I:9643;64;choose, see, film, be, version, see
+I:9643;65;see, movie, buy, sound, track
+I:9643;66;be, great, have, lot, bonus, material
+I:9643;67;worth, get, enjoy, movie, theater
+I:9643;68;review, lot, level
+I:9643;69;action, pack, medieval, adventure/romance
+I:9643;70;be, surprise, find, reasonable, amount, third
+I:9643;71;favorite, quote, movie, sum, powerful, feeling, have, have, spirituality, time, understand, lord
+I:9643;72;be, classy, widescreen, handling, film, be, rich, deserve, be, see, be, cinematic, format
+I:9643;73;gorgeous, scenery, delightful, character, costuming, imagine, watch, such, appealing, film, less, wide, screen, form
+I:9643;74;put, film, be, best
+I:9643;75;acting, film, music, be, incredible
+I:9643;76;be, perfect, gift, grandson, be, interested
+I:9643;77;be, wonderful, plot, element, sub
+I:9643;78;plot, do, make, theater, make, rich, experience
+I:9643;79;convert, friend, do, love, director, cut
+I:9643;80;enjoy, watch, movie, be, inspire, read, more, history, crusade
+I:9643;81;be, inspire, learn, more, crusade, read, character, movie, recommend, book, warrior, enjoy, have, fun
+I:9643;82;director, take, film, be, good/ok, make, favorite, film
+I:9643;83;cut, add, plot, many, character
+I:9643;84;detail, add, layer, film, be, find, want, leave, fill, be, compelling
+I:9643;85;enjoyable, entertaining, film, muslim, conquest
+I:9643;86;strong, performance, setagainst, beautiful, backdrop
+I:9643;87;line, be, do, viewer, be, sweep, sense, ofurgency, doom
+I:9643;88;disc, director, be, wait
+I:9643;89;movie, be, better, watch, scene, be, remove, restore
+I:9643;90;extra, be, excellent
+I:9643;91;documentary, costume, set, prop, rehearsal, process, everything
+I:9643;92;say, extended, director, cut, be, amazing
+I:9643;93;make, list, favorite, film, time, be, favorite, flick, be, least, favorite
+I:9643;94;have, say, love, director
+I:9643;95;missing, hour, worth, footage, add, more, depth, story, character, make, good, movie, great
+I:9643;96;be, surprise, movie, exception, affair, balian, have, read, stick, actual, history
+I:9643;97;be, opinion, prime, example
+I:9643;98;be, best, presentation, crusade, have, see
+I:9643;99;film, do, admirable, job, present, crusade
+I:9643;100;hand, manner, possible
+I:9643;101;say, film, do, best, job, present, good, bad, quality, side, leave, audience, draw, own, conclusion
+I:9643;102;be, heart, film, be, anti
+I:9643;103;cast, film, be, excellent
+I:9643;104;be, best, work, have, see, be, evil, give, interesting, portrayal
+I:9643;105;film, be, epic, finest, sense, word, deserve, more, attention, receive, thebox, office
+I:9643;106;be, portray, noble, principled, clean, christian, be, portray, base, unprincipled, filthy
+I:9643;107;be, leper, symbolize, corrupt, nature, christian, rule, high, ranking, prelate, see, be, officious, coward
+I:9643;108;polish, orderly, army, appear, beautiful, flag, wave, wind, be, stir, sight
+I:9643;109;unscrupulous, christian, knight, scheme, other, peace, muslim, leader, exude, honor
+I:9643;110;love, interest, queen, be, slut, cause, war, pique
+I:9643;111;day, fight, take, grant, survivor, safe, passage
+I:9643;112;give, picture, star, great, cinematography, soundtrack
+I:9643;113;story, be, dramatize, writer, make, liberal, use, dramatic, license
+I:9643;114;be, revere, chivalric, ideal, most, be, muslim
+I:9643;115;play, be, good, man, man, faith
+I:9643;116;be, member, religious, military, order, be, confessor, state, point, believe, order, man, commit, crime, be, order, commit
+I:9643;117;be, firm, believer, best, film, be, be, release, theater
+I:9643;118;exception, rule, be, rare, find, be, fantastic
+I:9643;119;be, pleased, extra, time
+I:9643;120;mix, dab, jewish, conflict
+I:9643;121;whole, mixture, disc, package, cram, full, educational, feature, do, get
+I:9643;122;message, movie, be, simple, war, have, take, place, excess, have, be, commit, blood, spell, be, plenty, room, peace, mutual, respect, christian, muslim, provide, be, interested, genuine, peace, oppose, tactical, peace
+I:9643;123;be, brave, leave, beaten, path
+I:9643;124;great, expression, respect
+I:9643;125;guarantee, much, have, great, deal, entertainment, get, something, change, world
+I:9643;126;love, movie, cut, make, movie, fit
+I:9643;127;first, time, see, feel, something, be, miss
+I:9643;128;think, movie, watch
+I:9643;129;be, greatest, film, grand, scale, likes
+I:9643;130;kingdom, be, great, film
+I:9643;131;like, film, theater
+I:9643;132;overall, think, be, enjoyable, like, see, rumor, directer, cut, film
+I:9643;133;disc, director, cut, recommend, version
+I:9643;134;din, behead, be, consider, more, accurate
+I:9643;135;add, benefit, set, be, vast, collection, documentary, focus, aspect, make, film, pre
+I:9643;136;production, work, actor
+I:9643;137;be, new, be, film, flow, take, time, need, tell, story
+I:9643;138;time, character, be, introduce, more, depth, tension, be, be, let, grow, have, be, set, free, terrific
+I:9643;139;be, part, fiction, part, truth, commercial, movie, depend, history
+I:9643;140;use, filmmaterial, color, setting, everything, paint, perfect, picture, think, greater, extent, better, result, other, movie
+I:9643;141;top, come, story, character, stay, day, week, month
+I:9643;142;love, honor, loyalty, faith
+I:9643;143;restore, extend, scene, version, make, new, experience
+I:9643;144;extended, version, be, superior, version, good, release, film, be, superior, theatrical, version
+I:9643;145;like, cinematic, battle, scene
+I:9643;146;fact, be, go, produce, epic, crusade, have, froth, mouth, anticipation
+I:9643;147;skinny, film, be, christian, least, believer, be, bad, secularist, be, noble
+I:9643;148;be, decent, crusade, film
+I:9643;149;be, ground, reality, keep, happy, change, keep, interested, change, make, be, understandable
+I:9643;150;be, excellent, movie
+I:9643;151;many, interesting, twist, storyline, believe, be, true
+I:9643;152;dramatic, presentation, story, be, do, draw, do, want, be, draw, get, root, good, guy, decide, be
+I:9643;153;best, film
+I:9643;154;be, steal
+I:9643;155;battle, sequence, be, best, film
+I:9643;156;be, informative, historic, movie
+I:9643;157;eva, green, bloom, invader, play, part, great
+I:9643;158;find, want, go, see, more, work
+I:9643;159;first, thing, have, mention, be, portrayal
+I:9643;160;be, get, perfect, mixture, nobility, inner, strength, wisdom, youth, fatigue, bring, illness
+I:9643;161;be, striking
+I:9643;162;voice, give, be, sweet, little, reedy
+I:9643;163;have, scene, hope, include
+I:9643;164;be, impress, performance
+I:9643;165;be, good, battle, scene
+I:9643;166;favorite, play, compelling, warrior, priest, believe, right, action, be, important, religion
+I:9643;167;be, great, good, guy, change, war
+I:9643;168;be, typical, leader, bad, guy, be, show, wise, compassionate, match
+I:9643;169;lush, setting, splendid, cinematography, scene, be, luminous, star, battle, scene, horseman, be, stir, terrifying, production, be, treat, eye, ear, mind
+I:9643;170;be, be, good, look, love, fact, story, seem, be, objective, tell, war, side, do, good, side, do, bad, end, side, retain, humanity, honor
+I:9643;171;be, third, best, movie, have, see, lotr
+I:9643;172;watch, first, time, go, read, make, immense, difference, compare, original, cut
+I:9643;173;movie, industry, have, be
+I:9643;174;be, great, movie, love, world, history, love, epic
+I:9643;175;top, favorite, movie
+I:9643;176;love, everything
+I:9643;177;be, happy, add, blu
+I:9643;178;dc, divulge, many, important, fact, wonderful, scene
+I:9643;179;combat, sequence, incorporate, vivid, trademark, cinemaviolence, get
+I:9643;180;explain, everything, assertion, defend, movie, show, be, justifiable, necessary, order, exonerate, christian, religion
+I:9643;181;value, movie, be, separation, christian, principle, non
+I:9643;182;view, christian, be, murderer, soldier, protection, white, defend, christian, civilian, fight, be, duty, christian, army
+I:9643;183;protection, be, line, christian, faith, christian, principle
+I:9643;184;attitude, determine, true, character, christian, superior
+I:9643;185;fact, life, today
+I:9643;186;anyone, say, be, paint, inacurate, picture, base, own, culpability, culpability, patriotic, christian
+I:9643;187;be, good, movie, epic, rival, scale, greatness, ring, return
+I:9643;188;dress, prop, cover
+I:9643;189;film, have, better, box, office, sale, foreign, country, feel, great, film, particular, noteworthiness, be, today
+I:9643;190;east, seem, appreciate, film, responsible, tale, reflective, greatness, western, culture, principle, special, note, be, multus
+I:9643;191;write, heart, mind, like, movie, feel, compel, give, lack, star
+I:9643;192;special, feature, be, fun, have, multus
+I:9643;193;national, cast, crew, make, be, fun, watch, movie, be, make
+I:9643;194;hour, road, show, version, entrance, music, intermission, be, enjoyable, version, be, better, theatrical, release
+I:9643;195;be, top, biggest, director, alive, today, be, receive, english, knight
+I:9643;196;film, include, conquest
+I:9643;197;be, great, film, own, right
+I:9643;198;film, direct, cinema, have, greatest, ratio, theater
+I:9643;199;record, be, remarkable, success, be, limit, popularity
+I:9643;200;receive, lot, recognition, artist
+I:9643;201;talent, former, cinematographer, art, director, show, spade, film
+I:9643;202;color, palette, change, cool, black, white, scene, blister, earth, tone, scene
+I:9643;203;cast, do, admirable, job, get, lose, role
+I:9643;204;have, presence, be, few, character, seem, go, petty, religious, politicking, film, have, pile
+I:9643;205;make, convincing, enough, knight, protector
+I:9643;206;most, people, come, see, many, battle, set, piece
+I:9643;207;military, history, buff, be, critical, epic, film, depict, historical, battle, film
+I:9643;208;film, succeed, enough, recreate, fight, politics, involve, side
+I:9643;209;acting, be, good, overall, few, casting, choice, have, be, make
+I:9643;210;old, man, want, bond, bastard, son, find, follow, dad
+I:9643;211;adventure, war, ensue, noble, deed, abound, meet, own, glorious, destiny
+I:9643;212;be, funny, be, be, hail, modern, day
+I:9643;213;money, be, wise, watch, film, see, charisma, look
+I:9643;214;bend, show, wonderful, muslim, warrior, be, do, film, lack, real, conflict
+I:9643;215;have, say, have, respect, world, direction
+I:9643;216;be, beautiful, moment, film, battle, assassin, overhead, shot, chaotic, final, battle, protect, be, brilliant
+I:9643;217;editing, exist, art, case, second
+I:9643;218;guess, be, justified, effort
+I:9643;219;cut, be, better, theatrical, cut, represent, film
+I:9643;220;hour, version, be, thoughtful, exciting, epic
+I:9643;221;course, real, star, be, amazing, visual, style, attention, period, detail, give, room, breathe, film, delve, plot
+I:9643;222;new, version, be, film, engulf, be, beauty, majesty, demand, be, re
+I:9643;223;catholic, extreme, film
+I:9643;224;be, priest, conscience, peace
+I:9643;225;loving, monk, competent, bishop
+I:9643;226;rest, assure, director, set, eye, crusade, story, be, tell, anachronistic, anti
+I:9643;227;call, little, military, excursion, christian, non
+I:9643;228;love, crusader/midevil, movie, youll
+I:9643;229;do, good, story, good, pacing
+I:9643;230;be, hollywood, be, enough, historical, fact, genuine, character, development, keep, be, battle
+I:9643;231;romance, bit, fanciful, add, interesting, spark, please, everyone
+I:9643;232;say, watch, enjoy
+I:9643;233;be, entertaining, movie, excellent, acting, few, grain, historical, fact
+I:9643;234;version, be, amazing
+I:9643;235;be, please, be, able, order, line
+I:9643;236;be, gift, request
+I:9643;237;subject, matter, be, great
+I:9643;238;action, be, good
+I:9643;239;own, regular, movie, keep
+I:9643;240;rest, movie, be, spectacular
+I:9643;241;be, sure, top, next, time
+I:9643;242;ray, family, movie, make, proud
+I:9643;243;ray, movie, tranfer, be, amazing, due, studio, be, do, transfer
+I:9643;244;ray, movie, look, best, hand
+I:9643;245;movie, be, studio
+I:9643;246;theme, be, redemption, honor, purity, heart, such, point, everything, bad, culture, be, necessary
+I:9643;247;way, movie, be, personal
+I:9643;248;record, director, cut, be, longer, make, better, use, character
+I:9643;249;be, good, piece, mideivel, castle, original, disc, version, be, worth, watch, do, seem, be, cut
+I:9643;250;ray, jump, thank
+I:9643;251;few, rip, today, headline, speech, action, be
+I:9643;252;do, military, conflict, interesting, be, strong, performance
+I:9643;253;climactic, battle, do, measure, similar, siege, sequence, lord, ring, movie, be, exciting, involve, populism, seem, few, century
+I:9643;254;great, fun, rounded, story, intense
+I:9643;255;recommend, fan, get, medieval
+I:9643;256;topic, moral, movie, have, be, contridictory, religious, aspect
+I:9643;257;movie, be, powerful, character, define, human, virtue, fault, be, reveal
+I:9643;258;be, best, film, make
+I:9643;259;seem, faint, praise, era, remove, vision, offer, honesty, timeliness, illustrate, little, have, change, last, year
+I:9643;260;be, many, historical, inaccuracy, cinematic, purpose, be, related, balian, do, have, love, affair, director, show, much, be, true
+I:9643;261;several, performance, deserve, mention, be, good, central, character, best, performance, date, bigoted, make, character, unsavory, be, wonderful, fictional, base, historic
+I:9643;262;disc, set, live, expectation
+I:9643;263;film, be, worth, owning
+I:9643;264;stand, best, say
+I:9643;265;director, cut, perfect, movie, have, make, many, problem, give, substance, character, do, give, vivid, accurate, portrait, life, be, year
+I:9643;266;rest, actor, be, fantastic, be, grumbly, father
+I:9643;267;like, original, love
+I:9643;268;ray, director, cut, film, love
+I:9643;269;ray, look, great, say, enough, film, be, best
+I:9643;270;enjoy, commentary, director, writer, lead, actor
+I:9643;271;arrive, have, give, great, enjoyment
+I:9643;272;excellent, performance, great, actor, noble, uplifting, story, make, exceptional, movie
+I:9643;273;course, be, little, anachronistic, make, higher, type, entertainment
+I:9643;274;public, version, be, good, movie
+I:9643;275;mother, be, willing, do, do, son, be, make, equal, match, blacksmith, defender
+I:9643;276;be, make, opinion, good, movie, great, movie
+I:9643;277;ray, be, director, cut, enjoy
+I:9643;278;movie, take, dark, age
+I:9643;279;think, civilized, be, fascinating, watch, little, humanity, have, change, passion, love, power, greed
+I:9643;280;be, look, escapist, costume, entertainment, obvious, bias, be
+I:9643;281;be, such, great, director, put, word, disapointed, be
+I:9643;282;do, be, know, history, speak, treatment, many, historical, figure
+I:9643;283;muddle, history
+I:9643;284;end, result, be, be, pro
+I:9643;285;other, area, be, fine, film
+I:9643;286;seige, city, be, do, effective
+I:9643;287;be, suprised, impressed, see, movie, be, able, weave, actual, event, fabric, story, say, last, year
+I:9643;288;character, portay, be, most, part, base, real, people
+I:9643;289;coarse, story, meet, range, character, be, good, guy, be
+I:9643;290;group, have, balian, hero, incoruptable, sense, honor, have, strong, identification, character
+I:9643;291;understand, future, be, director, cut, be, sure, be, interested, time, be, wait
+I:9643;292;be, movie, epic, be, please
+I:9643;293;want, serious, accurate, film, lot, fight, death, scene, moral, dilemma, be, movie, worth, check
+I:9643;294;like, theater, version, see, long, realize, scope, whole, story, enjoy, development, character, want, own
+I:9643;295;be, jewel, movie, love, learn, more, be, imagine, make
+I:9643;296;d, pop, reveal, visual, detail
+I:9643;297;body, man, willing, able, carry, sword, shoot, bow
+I:9643;298;costume, activity, woman, time, non
+I:9643;299;balian, dig, well, friend, fellow, citizen, travel, sail, hub, world, return, blacksmith, shop, have, idea
+I:9643;300;see, many, other, people, have, do, good, job, do
+I:9643;301;give, opinion
+I:9643;302;movie, be, accurate, hollywood, film, base, historical, event, be, accurate, larger, thing, detail
+I:9643;303;give, good, impression, politics, be, go
+I:9643;304;do, good, portrayal, opinion
+I:9643;305;recommend, movie
+I:9643;306;main, struggle, be
+I:9643;307;director, cut, be, hour, complex, story, be, enjoyable, have, depth, believability
+I:9643;308;try, keep, peace
+I:9643;309;want, see, good, action/adventure/drama, type, film, be
+I:9643;310;cinematography, action, sequence, music, be, great
+I:9643;311;movie, do, offer, interesting, philosophical, insight, question, ask, concern, faith, religion
+I:9643;312;character, movie, period, be, set, second, crusade, do, exist
+I:9643;313;start, crusade, invade, move, byzantine, empire, murder, do, accept, muslim, rule
+I:9643;314;say, do, take, movie, accurate, portrayal, history
+I:9643;315;make, sure, watch, director, cut, theatrical, version
+I:9643;316;give, insight, character, life, story, explain, more, do, do
+I:9643;317;graduate, degree, theology, science, religion
+I:9643;318;movie, be, require, view, history, student
+I:9643;319;show, man, true, faith, good, sense, learn, rise, religion
+I:9643;320;acting, be, wonderful, costume, excellent, be, great, director
+I:9643;321;be, accurate
+I:9643;322;movie, be, beautiful, procative
+I:9643;323;time, watch, make, own, mind, be, bad, guy
+I:9643;324;tolerance, make, better, world, have, see
+I:9643;325;movie, interesting, adventure
+I:9643;326;contain, beautiful, fight, sequence, have, little, bit, heart
+I:9643;327;particular, version, be, lot, interesting, extra, include, develop, documentary, great, featurette, historical, information, 12th, century
+I:9643;328;be, look, kill, time, like, historical, epic, great, battle, scene, give, try
+I:9643;329;find, commentary, extra, be, better, movie
+I:9643;330;be, much, anticipate, extra, buck
+I:9643;331;be, be, avid, fan, work, fascinate, crusade, appreciate, medieval, history
+I:9643;332;be, hour, be, better, film, conceive, epic, form
+I:9643;333;be, stunning
+I:9643;334;simplistic, seem, strength, lie, demonstrate, everyman, rise, own, frailty, possess, heart, wisdom, prevail
+I:9643;335;movie, come, theater, go, see, reason, interest, crusade, history, second, body, work, reputation, director
+I:9643;336;enjoy, movie, spite, historical, inaccuracy, regard, character
+I:9643;337;feel, be, definitive, film
+I:9643;338;find, key, enjoyment, film, be, view, entertainment, documentary, director, intend
+I:9643;339;succeed, level
+I:9643;340;find, be, entertaining, historical, epic, recommend, viewer, enjoy, category, film
+I:9643;341;have, like, movie, while
+I:9643;342;director, cut, be, superior, version, film
+I:9643;343;deliver, gripping, character, drive, epic, recent, memory
+I:9643;344;be, right, balance, history, dramatization, action, character, development
+I:9643;345;be, ambitious, project, be, time, extra, minute, director, cut, put, run, best, film, year, best, work, time
+I:9643;346;true, picture, have, be, release, boy, be, revelation
+I:9643;347;director, cut, be, best, movie, see
+I:9643;348;great, cast, brilliant, screenplay
+I:9643;349;add, more, storyline, make, more, sense
+I:9643;350;have, see, theatrical, version, many, time, love, see, director, cut, go
+I:9643;351;be, great, film, have, great, message
+I:9643;352;greatest, director, history, do
+I:9643;353;liam, be, incredible, most, make
+I:9643;354;boy, convincing, warrior
+I:9643;355;story, be, fascinating, fight, be, mind
+I:9643;356;good, story, interesting, character, neat, ending
+I:9643;357;be, surprise, movie
+I:9643;358;hour, storyline, keep, interest
+I:9643;359;actor, be, excellent, good, storyline
+I:9643;360;battle, scene, be, do, movie, move, fluff, right, end
+I:9643;361;movie, be, interesting, watch, have, unique, thing, look
+I:9643;362;first, minute, be, grim, dreary, excess, be, fascinating, manage, get, new, take, onscreen, old
+I:9643;363;life, leper, wear, mysterious, graceful, mask, be, memorable, visual
+I:9643;364;original, film, accurate, history
+I:9643;365;be, typecast, mind, great, support, actor, such, lord, ring, film
+I:9643;366;enjoy, opening, scene
+I:9643;367;love, interest, queen, be, play
+I:9643;368;be, great, film, stunning, visual, effect, massive, battle
+I:9643;369;version, provide, great, commentary, ton, bonus, feature
+I:9643;370;be, major, plotline, explain, everything, do, movie
+I:9643;371;hers, be, moving, story, arc, film
+I:9643;372;priest, be, brother
+I:9643;373;be, longer, be, worth
+I:9643;374;awesome, movie, love, theatrical, cut
+I:9643;375;longer, original, movie
+I:9643;376;be, excellent, movie, good, casting, story, special, effect, camera, work, music, set
+I:9643;377;enjoy, movie, 13th, enjoy, movie
+I:9643;378;great, deal, epic, battle, scene, honor, court, intrigue, make, look
+I:9643;379;take, son, way, be, wound, fight, protect, son
+I:9643;380;give, possesion, son, tell, protect, king, people
+I:9643;381;interesting, historical, film, have, great, special, feature, tell, history, movie, select, do
+I:9643;382;be, do, bit, confusing, follow, group, be, be, engage, epic, warfare
+I:9643;383;have, view, catch, nuance
+I:9643;384;u, enjoy, theatrical, love, director, cut
+I:9643;385;be, historical, religious, epic, be, be, good, movie, spite, have, major, amount, time/details, cut, theatrical, release
+I:9643;386;provide, higher, level, character, plot, development, envision, make, movie, gripping
+I:9643;387;be, everything, hope, be, action, love, story, be, thrilling
+I:9643;388;end, good, guy, get, girl, satisfaction, know, have, win
+I:9643;389;love, historical, film, be, glad, gamble, pay
+I:9643;390;means, be, best, work, be, good, border, great, movie
+I:9643;391;design, cover, box, be, nice, have, watch, extra, be, lot, keep, busy, be, fascinate, crusade, movie
+I:9643;392;good, story, give
+I:9643;393;be, love, story
+I:9643;394;let, start, say, enjoy, movie
+I:9643;395;kingdom, have, tremendous, battle, scene, swordplay, be, beautiful, shot, movie, ive, see
+I:9643;396;color, environment, stand, look, wonderful
+I:9643;397;pace, movie, fast, exciting, didnt, give, character, justice
+I:9643;398;leave, town
+I:9643;399;be, favorite, film
+I:9643;400;love, history, portray
+I:9643;401;set, be, amazing, music, beautiful, photography, stunning, costume, fabulous, be, such, marvelous, director
+I:9643;402;special, comment, be, helpful, understanding, making, epic
+I:9643;403;good, collection
+I:9643;404;do, few, line, script, have, be, give
+I:9643;405;be, good, movie, much, interest, enjoy, history
+I:9643;406;work, make, accurate, possible, let, know, great, accompany, book, pad, character, give, movie
+I:9643;407;find, interesting, film, depict, christian, be, tolerant, multicultural, diverse, nation, christian, be, tolerant, other, religious, belief
+I:9643;408;film, be, powerful, military, force, be, diverse, tolerance, non
+I:9643;409;be, beautiful, film, fascinating, architecture, set, construction, weapon, costume, design
+I:9643;410;battle, city, be, exciting, dramatic, high, point, critical, aspect, film
+I:9643;411;be, spread, present, day
+I:9643;412;be, primary, theme, film
+I:9643;413;be, good, message, day, time
+I:9643;414;have, see, interview, say, enjoy, do, movie
+I:9643;415;main, character, be, develop, other, character
+I:9643;416;film, be, base, historical, character, situation, script, do, decent, job, reduce, historical, complexity, followable, narrative
+I:9643;417;costume, be, outstanding, add, interest, be, colorful
+I:9643;418;film, get, star, reason, costuming, be, good, period
+I:9643;419;depict, religion, culture, do, understand, filmmaker, show, respect, sensitivity, strive, accuracy
+I:9643;420;make, good, jesuit, man, claim, end, movie, have, leave
+I:9643;421;remember, be, screenwriter, talk
+I:9643;422;basic, event, name, character, movie, do, bear, reasonable, resemblance, allow, poetic, license, exigency, storytelling, real, historical, event, person
+I:9643;423;be, impressive, carry, lot, star, power, contentious, apect, relentless, message, overwhelm, virtue
+I:9643;424;good, solid, movie, historical, accuracy, few, wrong
+I:9643;425;show, last, battle, scene, class, time
+I:9643;426;isnt, strongest, lead, support, cast, smart, plot, make
+I:9643;427;masterpiece, act, dialogue, message, sound, cinematography
+I:9643;428;show, do, do
+I:9643;429;give, more, be, interesting, character, film
+I:9643;430;establish, have, lot, more, night, stand
+I:9643;431;balian, history, be, course, invent, other, fact, be, defend, see, film, circumstance, see, film
+I:9643;432;final, battle, be, awesome, be
+I:9643;433;option, make, understandable, explain, part, give, background, information, have, be, know
+I:9643;434;movie, be, good, have, nonstop, action
+I:9643;435;be, good, loing, be, flim
+I:9643;436;battle, movie, be, spectacular
+I:9643;437;speech, be, good, speech
+I:9643;438;give, movie, thumb
+I:9643;439;delivery, be, timely, watch, time, time
+I:9643;440;buy, disc, set, satisfy, interest, film
+I:9643;441;watch, other, background, feature
+I:9643;442;film, set, exceed, expectation
+I:9643;443;many, director, cut, be, release, squeeze, more, money, consumer, version, be, vision, bring, full, glory, be, see, anyone, like, spectacle, great, filmmaking
+I:9643;444;give, scene, leave, be, say, first, minute, film, be, rich, lay, foundation, be, follow
+I:9643;445;be, worth, note, many, critic, review, film, be, excuse, large, scale, battle, scene, carnage, craft, think, parable, own, time
+I:9643;446;be, few, master, film, maker, active, today, part, genius, be, understand, character, plot, most, have, complete, grasp, make, great, cinema
+I:9643;447;rate, film, great, epic, make, such, film, hand, full, other
+I:9643;448;separate, film, most, other, large, scale, action, dramas, be, contain, complex, view, compete, religious, moral, stand
+I:9643;449;nlike, many, spectacles, film, use, spectacle, make, salient, point, religious, moral, dilemma, own, time
+I:9643;450;use, venue, historical, epic, illustrate, unending, moral, upheaval, have, mark, human, history, want, tolerance, fanaticism, moral, religious, dogma, blind, have, be, cause, countless, death, suffering
+I:9643;451;be, make, film, great, make, challenge, viewer, present, side, heat, topic, give, simplistic, view, side, be, evil, other, good
+I:9643;452;great, film, be, parable, intend, illuminate, present, past
+I:9643;453;sense, have, triumph, compelling, complex, film
+I:9643;454;anyone, watch, film, be, move, make, question, own, view, heart, be, make, stone
+I:9643;455;bloom, carry, movie
+I:9643;456;work, great, script, great, execution
+I:9643;457;be, significant, historical, figure, do, know, watch, movie
+I:9643;458;like, way, movie, emphasize, theme, honor, peace
+I:9643;459;send, great, message, generation
+I:9643;460;many, perfect, movie, be
+I:9643;461;look, more, aragorn, sword, balian, be, great, knight, make, epic, movie
+I:9643;462;lose, wife, be, reunite, father, great, knight, begin, spiritual, journey
+I:9643;463;pass, sword, sacred, oath, son, vow, protect, helpless, safeguard, peace, strive, harmony, religion, culture
+I:9643;464;process, find, love, become, courageous, leader, defend, strive, make, kingdom, heaven, thrive, earth
+I:9643;465;be, epic, movie, epic, length
+I:9643;466;acting, be, good, many, great, actor
+I:9643;467;plot, costume, be, excellent, set, stage
+I:9643;468;battle, scene, be, choreograph, shoot
+I:9643;469;be, fan, big, epic, be, good, movie
+I:9643;470;movie, be, great, watch, learn, something, past, portray
+I:9643;471;enjoyable, exciting
+I:9643;472;be, have, recommend, friend
+I:9643;473;enjoy, history, do, be, enthral, movie
+I:9643;474;do, great, job, portray, heart, broken, man, become, great, man
+I:9643;475;like, movie, obvious, reason, good, direction, good, acting, good, action
+I:9643;476;be, tale, true, honor, be, stay, true, heart, sell, soul
+I:9643;477;be, message, need, be, integrate, movie, society
+I:9643;478;be, incredible, movie, want, watch
+I:9643;479;peaceful, die, young, age, be, hope, blacksmith, son, take, king, place
+I:9643;480;director, cut, be, best, version, movie, be, true, kingdom, heaven
+I:9643;481;story, be, round, extra, min
+I:9643;482;good, historical, fiction, enough, action, keep, husband, engage
+I:9643;483;plenty, big, name, peak, interest, watch
+I:9643;484;have, watch, latest, installment, great, director, be, infamous, movie, last, more, usual, hour, half
+I:9643;485;clock, half, hour, have, stop, start, be, great, movie
+I:9643;486;great, number, battle, scene, be, story, line
+I:9643;487;great, job
+I:9643;488;director, cut, movie, be, only, way, go
+I:9643;489;go, see, movie, christian, know, be, worry
+I:9643;490;be, best, movie, year, story, crusade, be, put, life, screen, everyone, see
+I:9643;491;setting, landscape, be, breathtaking, cinematography, be, excellent
+I:9643;492;support, cast, include, be, amazing
+I:9643;493;carry, movie
+I:9643;494;please, have, other, question, stand, go, local, church, talk, pastor
+I:9643;495;history, buff, find, fascinating
+I:9643;496;view, do, research, find, actual, character
+I:9643;497;approach, director, be, important, note, be, new, experience, theatrical, version
+I:9643;498;minute, theatrical, release, be, flawed, masterpiece, large, plto, hole, worthy, performance
+I:9643;499;minute, director, be, epic, masterpiece, extraordinary, thematic, content, magnificent, perfromance
+I:9643;500;be, present
+I:9643;501;way, look, know, be, do
+I:9643;502;be, example
+I:9643;503;make, good
+I:9643;504;sorry, film
+I:9643;505;special, feature
+I:9643;506;certain, scene, make, perfect, sense, better, understanding, attack, wood, relationship, speak
+I:9643;507;get, great, visual, movie, have, striking, cinematography, shot, landscape
+I:9643;508;wise, be, straight, board, particular, attention, manage, be, captivating, face, be, shield, mask
+I:9643;509;director, cut, put, scene
+I:9643;510;be, good, movie
+I:9643;511;extended, edition, movie, offer, many, new, scene
+I:9643;512;give, important, information, certain, character, movie
+I:9643;513;editor, cut, be, informative, entertaining, film, first, release
+I:9643;514;do, think, would/could, enjoy, anything, more, first, release, be, surprise
+I:9643;515;say, movie, be, amazing, blu
+I:9643;516;have, champion, great, epic
+I:9643;517;be, great, film, look, fantastic, blu
+I:9643;518;movie, be, fantastic, many, level
+I:9643;519;emotion, action, graphic, realistic, make
+I:9643;520;be, watch
+I:9643;521;great, movie, end, be
+I:9643;522;put, entertaining, be, movie, want, watch
+I:9643;523;movie, be, worth, time
+I:9643;524;enjoy, theatrical, cut, see, cut, be, better
+I:9643;525;be, masterful, best, bring, epic, life
+I:9643;526;cut, story, opinion, be, explain, main, character, add, scene, be, necessary, understand, story
+I:9643;527;fit, role, balian
+I:9643;528;magnificent, soundtrack, compose
+I:9643;529;william, help, bring, feel, movie
+I:9643;530;recommend, cut, theatrical, version, alot, character, background, issue, be, define, magnificent, epic, show, be, best, director, time
+I:9643;531;director, cut, fill, expand, story, make, feel, moment
+I:9643;532;deep, deep, cut, theatrical, film, make, many, complex, political, religious, personal, layer, story, character, go
+I:9643;533;be, restore, cut, be, glorious, movie
+I:9643;534;theatrical, cut, be, good, movie, director, cut, be, superior, movie
+I:9643;535;be, life, take, dramatic, turn, be, draw, political, personal, machination, likes, have, see
+I:9643;536;movie, be, stunning, vivid, soundtrack, be, perfect
+I:9643;537;instance, couple, key, speech, reaction, shot, other, character, leave, impression, something, be, come, be
+I:9643;538;make, key, moment, bit, anticlimactic
+I:9643;539;acting, be, superb, have, be, short
+I:9643;540;fantastic, act, board, story, tell, be, mean, be, be, movie, worth, watch
+I:9643;541;speak, casting, bit, extra, get, see, early, rehearsal, be, fascinating
+I:9643;542;screenwriter, come, arrogant, place, do, put, overall, amazing, script, be, forgiveable
+I:9643;543;deserve, be
+I:9643;544;bloom, acting, be, fine
+I:9643;545;message, film, be, good
+I:9643;546;indulgant, respect, fight, scene, characterize, feign, affect, grandeur
+I:9643;547;be, hope, be
+I:9643;548;theatrical, version, be, good, film
+I:9643;549;extened, edition, be, great, film
+I:9643;550;drama, be, romance, be, major, character, have, more, screen, time, pacing, be
+I:9643;551;be, good, movie, overall, enjoy
+I:9643;552;battle, scene, be, great
+I:9643;553;movie, be, stunning, extra, be, good
+I:9643;554;be, available
+I:9643;555;be, indepth, character, develop
+I:9643;556;enjoy, storyline, act, whole, be, decent
+I:9643;557;battle, scene, scenery, be, breathtaking, rival
+I:9643;558;say, be, fine, actor, handle, role, be, expect
+I:9643;559;leper, king, be, treat
+I:9643;560;be, great, actor, tackle, anything
+I:9643;561;be, story, be, tell, that, great, thing
+I:9643;562;love, epic, picture, be, watch, be, happy, be, make
+I:9643;563;be, like, have, be, point, be, be, do
+I:9643;564;like, movie
+I:9643;565;good, effect, ok, story, descent, acting
+I:9643;566;feel, kid, movie
+I:9643;567;great, story, great, acting, great, truth, take, today
+I:9643;568;unsure, wether, bloom, manage, look, be, good, actor
+I:9643;569;hold, scene, strength, act
+I:9643;570;movie, prove
+I:9643;571;kingdom, heaven, be, do, movie, history, be, much, accurate, jerusalim, be, breathtaking
+I:9643;572;scene, be, do, have, shine
+I:9643;573;have, watch, be, same
+I:9643;574;enough, keep, history, portray, movie, keep, focus
+I:9643;575;enjoyable, real, feast, history, buff, love, good, movie
+I:9643;576;be, surley, best, motion, picture
+I:9643;577;be, great, epic, be, close, bible, tell
+I:9643;578;great, motion, picture, say, least
+I:9643;579;fan, look, be, better
+I:9643;580;masterpiece, be
+I:9643;581;dont, have, ask, forchristmas
+I:9643;582;see, face, wear, mask, due, condition, physical, presence, mannerism, vocial, performance, be, make, movie, special
+I:9643;583;good, comparison, performance, be, do, dark, movie, achieve, character, performance
+I:9643;584;time, religious, intolerance, be, powerful, reminder, major, religion, world, be, path, same, destination
+I:9643;585;keep, entertain, story, line, be, best, have, see, time
+I:9643;586;movie, have, great, production, value, excellent, acting, overall, warm, violent, story, honor, religious, moral, human, learn, get, good, heart, mercy, other
+I:9643;587;wonder, 20th, do, have, intermission, good, ole, day, keep, masterpiece, way, create
+I:9643;588;be, happy, have
+I:9643;589;story, help, appreciate, be, happen, crusade, be, ample, historical, perspective, comment, historian, bonus, disc, s, help, viewer, know, part, film, be, dramatic, element, have, basis, fact, part, be, accurate, much, be, possible
+I:9643;590;provide, model, help, envision, possibility, peace, be, administer
+I:9643;591;story, have, best, moral
+I:9643;592;best, sort, entertainment, be, kind
+I:9643;593;capacity, understand, torment, have, be, feeling, multiple, level, same, time, be, present, theatrical, release
+I:9643;594;story, be, tragic, hopeful, same, time
+I:9643;595;end, be, happy
+I:9643;596;script, be, top, flight
+I:9643;597;drive, wanton, lust, pursuit, material, gain, be, illustrate
+I:9643;598;be, finest, cinematic, work, have, see, have, see
+I:9643;599;casting, be, perfect, act, perfect, location
+I:9643;600;chivalry, be, alive
+I:9643;601;be, amazing, minunte, mean, world, diffrence, make, good, film, great
+I:9643;602;mean, true, treat, release, be, film, self, come, mountain, supplemental, material, document, aspect, film, production, pre
+I:9643;603;movie, be, go, go, history, great, film, epic
+I:9643;604;amount, development, go, movie, be, amazing
+I:9643;605;think, movie, be, good, theater
+I:9643;606;make, good, movie
+I:9643;607;have, be, scott, best, film, blade, runner, be, make, great, film
+I:9643;608;have, do, fine, job, way, film, treat, islamic, warrior
+I:9643;609;give, star, relationship, need, be, flesh
+I:9643;610;story, film, have, be, discuss, other, review, mention, additional, minute, cut
+I:9643;611;think, beginning, film, use, additional, scene, give, viewer, more, background, new, director, cut, do
+I:9643;612;significant, addition, film, be, young, son, be, heir, throne
+I:9643;613;be, good, deal, discussion, sub
+I:9643;614;additional, footage, film, appreciate, performance
+I:9643;615;have, final, duel
+I:9643;616;minor, addition, help, connect, earlier, life, observe, people, siege, believe, leader
+I:9643;617;performance, be, superb, be, marvelous, villain, be, outstanding, be, impressive, name, few
+I:9643;618;casting, role, be, restricted, actor, make, impressive, be, good
+I:9643;619;be, stunning, act, film, hold, attention, start, finish
+I:9643;620;director, cut, have, create, epic, film, worthy, place, best
+I:9643;621;be, sure, true, story, be, action, be, intense, be, outstanding
+I:9643;622;movie, be, good, drama, have, bit, love, story
+I:9643;623;be, okay, be, sort, boring, like
+I:9643;624;ray, format, be, amazing, thing
+I:9643;625;clarity, image, be, stunning
+I:9643;626;strong, addition
+I:9643;627;find, watchable
+I:9643;628;other, hand, last, historical, epic, watch, be, anything, have, seem, good
+I:9643;629;be, true, episode, little
+I:9643;630;known, history, surround, alot, untrue, detail, add, pursuant, artistic, license, dramatic, reason
+I:9643;631;heaven, be, wonderful, exercise, fantacy
+I:9643;632;have, make, good, movie, think, be, role, knight, have, choose, figure, history, mold, clay, character
+I:9643;633;aspect, movie, be, marvel, last, detail, acting, be, superb, solid, performance, support, cast, main, actor
+I:9643;634;take, time, make, sure, armor, be, accurate, event, show, period, accuracy, tell, real, story
+I:9643;635;director, cut, satisfy, theatrical, version, offer, more, nuance, insight, character, motivation, turn, enhance, story
+I:9643;636;say, be, good, be, good
+I:9643;637;beat, big, time, be, better, movie, think
+I:9643;638;best, look, one, have, see
+I:9643;639;boy, be, do, historical, standpoint
+I:9643;640;great, actor, write, love, history, be, do
+I:9643;641;mone, favorite, movie
+I:9643;642;be, good, movie
+I:9643;643;acting, cinematography, costume, set, music, be, outstanding
+I:9643;644;own, standard, version, add, minute, help, explain, more, fill, important, detail, great, story
+I:9643;645;great, movie, accurate
+I:9643;646;receive, gift, be, surprised, high, review
+I:9643;647;complain, film, be, promote, adventure, love, story, religious, conflict, be, direct, film
+I:9643;648;pilot, renowned, director
+I:9643;649;give, astonished, pirate, look
+I:9643;650;have, particular, interest
+I:9643;651;correct, be, wonderful, entertainment
+I:9643;652;face, statement, history, get, way, good, script
+I:9643;653;take, heart
+I:9643;654;costume, be, wonderful, lensing, whole, thing, be, stunning, start, finish
+I:9643;655;look, good, need, reach, deeper, mode, pull, performance
+I:9643;656;be, enjoyable, movie, have, anticipation, love, visual, impact, be, fan
+I:9643;657;watch, more, do
+I:9643;658;be, good, movie
+I:9643;659;guarantee, many, recent, winner, bad
+I:9643;660;ray, version, be, worth
+I:9643;661;detail, sumptuous, film, great, cinematography, color, effect, be, amazing
+I:9643;662;extend, version, bring, complete, terrific, story, dramatic, historical, setting
+I:9643;663;suit, role, moral, baron, reluctant, warrior, son, great, wise, desert, conquerer, complicated
+I:9643;664;be, great, film, have, many, more, fascinating, deep, character, more, dimension
+I:9643;665;add, fix, film, blu
+I:9643;666;usual, film, soundtrack, be, work, art, environmental, involve
+I:9643;667;good, guy, be, good, bad, guy, be, evil, be, devour, baby, hoagie, roll
+I:9643;668;be, sign, weak, screenwriter, director, matter, be, incapable, characterize, creation, resort, tell, audience, guy, evil, want, kill, baby, guy, good, want, everbody, love, other
+I:9643;669;show, christian, go, be, redeem, sinn, fight, religious, belief, smaller, scale, wanted, land, power
+I:9643;670;scenery, battle, costume, be, good, believable
+I:9643;671;recommend, get, disc, have, buch, delete, scene, take, movie, help, explain, have, hear
+I:9643;672;director, cut, be, better, theatrical, release
+I:9643;673;enjoy, movie, rank
+I:9643;674;be, worth, watch
+I:9643;675;whole, thing, make, more, sense
+I:9643;676;be, awsome, movie
+I:9643;677;great, actor, great, story
+I:9643;678;kid, enjoy, learn, something
+I:9643;679;movie, be, great, director, cut, be
+I:9643;680;love, origianal, theater, version, be, superior, many, way
+I:9643;681;love, be, good, movie
+I:9643;682;other, be, great, movie
+I:9643;683;longest, yard, perfect, man, madagascar, pacifer
+I:9643;684;other, hand, be, wise, peace
+I:9643;685;loving, tolerant, other, religion, righteous
+I:9643;686;be, exciting, first, time, watch
+I:9643;687;good, story, character, be, right, message, be, clear
+I:9643;688;be, epic, film
+I:9643;689;version, make, movie, make, sense
+I:9643;690;god, will
+I:9643;691;use, love, day, create, daring, timeless, work, art
+I:9643;692;cinematography, be, magnificent, thousand, extra, horsy, impressive
+I:9643;693;director, be, amazing, depiction
+I:9643;694;be, excellent
+I:9643;695;be, wonderful, villain
+I:9643;696;have, turn, be, treasure, study, character, have, be, lead, learn, much, do, further, research, meditation
+I:9643;697;film, be, do
+I:9643;698;main, actor, be, superb, convincing
+I:9643;699;be, great, small, role, manage, express, deep, emotion, passion, mask
+I:9643;700;season, movie, reflect, religion, holiness
+I:9643;701;mere, fact, have, full, shelf, stock, first, week, come, shelf, be, empty, indicate, movie, be, good
+I:9643;702;rest, movie, center, mount, tension, army, be, certain, be, able, conquer, christian, occupy
+I:9643;703;result, peace, muslism, christian, be
+I:9643;704;be, movie, sad, ending.h2, >, truth/h2, >, fact, be, excellent, movie, many, reason, like, be, fact, much, be, base, historical, fact
+I:9643;705;anthropology, major, love, movie, be, base, true, story
+I:9643;706;li, >, have, difficulty, find, real, name, middle, eastern, actor, movie, great, performance
+I:9643;707;be, great, stereotype, non
+I:9643;708;be, movie, be, breath, fresh, air, respect
+I:9643;709;kudos, next, question, carry, whole, movie
+I:9643;710;be, strong, character, great, performance, memorable, line, excellent, story, line, support, movie
+I:9643;711;be, ton, bone
+I:9643;712;doubt, be, good, action
+I:9643;713;few, month, buy, version, tell, be, world, difference
+I:9643;714;much, be, add, story, include, scene
+I:9643;715;paint, greater, picture, character, way, be, entangled, other
+I:9643;716;original, version, recommend, version
+I:9643;717;theatrical, version, movie, be, excellent, contain, much, food, think, world, wrack, religious, war
+I:9643;718;ray, edition, expect, spectacular, battle, sequence, be, disappoint
+I:9643;719;be, extend, version, many, deleted, scene, additional, scene, edition, make, story, alive
+I:9643;720;feel, understand, movie, character, motivation, better
+I:9643;721;admire, hero, lot, display, magnitude, honor
+I:9643;722;hard, find
+I:9643;723;version, have, lot, extra, scene, have, overall, blue, light, effect, yellow, light, effect, theatrical, release
+I:9643;724;movie, approach, idiocy, religion, muslim, expert, hand
+I:9643;725;original, offer, happy, ending, do, mitigate, message, film
+I:9643;726;retard, enjoy, beer
+I:9643;727;battle, scene, be, half, way, decent
+I:9643;728;epic, look, crusade, flick, have, eye, pop, battle, scene, look, gorgeous, blu
+I:9643;729;master, artisan, skill, be, display, sumptious, production
+I:9643;730;read, detail, many, historical, work, crusade, translation, see, inaccuracy
+I:9643;731;historian, portray, intelligent, tenacious, be, interesting, fact, be, leper, earliest, childhood, be, able, obtain, crown
+I:9643;732;be, true, saladin, refrain, slaughter, christian, inhabitant, due, threat, destroy, murder, muslim, inhabitant
+I:9643;733;success, army, retake, christian, provoke, third, crusade
+I:9643;734;movie, end
+I:9643;735;be, fair, say, director, want, play, conciliatory, role, muslim, faith
+I:9643;736;be, sympathetic, goal, distortion, history, benefit, anyone, best, intention
+I:9643;737;director, screenwriter, grant, right, distort, falsify, history, order, produce, more, satisfying, entertainment
+I:9643;738;same, magnificent, director, give, have, give, epic, historic, film, thrilling, action, pack, epic, honor, passion, courage
+I:9643;739;be, succeed, be, marry, sister
+I:9643;740;character, be, true, historic, figure, do, film, do, history
+I:9643;741;fate, kingdom, heaven, be, seal
+I:9643;742;balian, lead, heroic, defense, holy, city, knight, servant, peasant, increase, morale, people, besiege, city
+I:9643;743;help, man, fortification, direct, city, defens
+I:9643;744;final, battle, be, spellbinding, spectacle, be, portray
+I:9643;745;have, watch, movie
+I:9643;746;let, say, movie, end, crusade, lead
+I:9643;747;heart, be, making
+I:9643;748;epic, movie, be, recommend
+I:9643;749;epic, movie, get, old
+I:9643;750;find, watch, film, movie, be, classic, hidden, gem
+I:9643;751;fan, take, note, be, od, best, movie, movie, seek, director, cut, additional, footage
+I:9643;752;def, m, look, better, be, pack, feature, cost
+I:9643;753;promise, be, disappoint
+I:9643;754;forbid, show, history, way, be
+I:9643;755;guy, part
+I:9643;756;find, be, remarkable, scene, entire, movie
+I:9643;757;balian, return, be, confront, political, intrigue, christian, court
+I:9643;758;turn, name, husband, king
+I:9643;759;find, preview, intriguing, believe, be, worth, time, least, watch, form, own, opinion, negative, review
+I:9643;760;be, know, visual, style, be, visualist
+I:9643;761;film, be, portray, be, good, noble, people, include, leader
+I:9643;762;nice, way, honor, wife, memory
+I:9643;763;be, deep, perspective, inner, workings, human, psyche
+I:9643;764;be, most, basic, character, motivation, think, work
+I:9643;765;work, film, be, great, be, entertaining
+I:9643;766;william, be, composer, score, use, old, tick, trade, musician, know
+I:9643;767;be, lot, more, passionate, film, do, think
+I:9643;768;approach, balian, say, wicked, whore, love, wife, be, memory, be, better, whore
+I:9643;769;enjoy, see, movie, have, say, mask, be, best, part, whole, film, do, know, concept, directorial, restraint, reveal, king, disfigured, face
+I:9643;770;be, intelligent, filmmaker, do, strip, character, dignity, character, demand, be, wonderful, filmmaker, everyone, have, up, downs, right
+I:9643;771;play, good, hero, movie
+I:9643;772;make, character, real
+I:9643;773;story, line, be, historical, great, deal, license, be, take, writer
+I:9643;774;make, great, flick
+I:9643;775;imagery, everything, battle, massive, amount, crusader, blood, gore, enjoy, bit
+I:9643;776;enjoy, fight, be
+I:9643;777;learning, historic, look, religeous, life, world, be, seek, answer, living
+I:9643;778;show, power, be, power
+I:9643;779;show, man, endow, honor, common, sense, overcome, temptation, be, expose, day
+I:9643;780;be, story
+I:9643;781;thanks, skill, director, entire, production, team, cast, theatre, cut, be, feast, sens
+I:9643;782;latter, rich, complexity, restore, sub
+I:9643;783;compelling, storytelling, world, 12th, century
+I:9643;784;be, underlie, message, film, be, viewer, need, go, deceptive, simplicity, faceless, stereotyping
+I:9643;785;comprehend, christian, real, people, be, depict, longer, version, utter, futility, war, reason, be, bring, home
+I:9643;786;combine, scene, commentary, feature, additional, disk, be, version, theatre, release, version, way, deserve, be, consider, definitive, tell, epic, story
+I:9643;787;great, movie, have, be, want, get, director, cut, bit, add, bit, film
+I:9643;788;rgenre, feature, feature, new, widescreen, feature, commentary, ton, bonus, feature, disc
+I:9643;789;cult, casting, be, stern, disappointment, other, actor, actress, be, phenomenal
+I:9643;790;limited, screen, time, have, commanding, presence, advisor, king, commander, army, certain, physical, similarity, portray, believable, warrior, have, dream
+I:9643;791;be, evil, husband, play, remarkable, true, villain, film, historical, event
+I:9643;792;movie, be, epic, story, grand, vista, large, battle, interesting, character
+I:9643;793;good, choice, like
+I:9643;794;movie, be, fanastic, teacher, love
+I:9643;795;movie, do, great, job, capture, various, view, illustrate, diverse, nature, politico, muslim, side
+I:9643;796;teacher, be, infatuate, movie, show, nature, crusade, do, splendid, job, show, medieval, warfare, seige, technology
+I:9643;797;teacher, be, unsure, historical, fact, bonus, disc, include, subtitle, explain, great, amount, historical, truth, people, involve
+I:9643;798;begin, epic, such, proportion
+I:9643;799;go, show, reliance, screw, great, piece, work!second, be, important, understand, movie, deal, historical, subject, fall, crusade, general, be, number, historical, inaccuracy, most, part, introduce, dramatic, effect
+I:9643;800;crusade, today, be, time, fanaticism, barbarism, side, terrible, bloodshed, loss, civilization, whole, be, time, great, nobility, selfless, personal, act
+I:9643;801;movie, be, treat
+I:9643;802;brilliant, film, stunning, location, like, have, see
+I:9643;803;excellent, use, appreciation, lighting, effect, enormous, set, cast, thousand, want
+I:9643;804;feel, be, evenhanded, depiction, side, conflict, manage, do, few, have, accomplish
+I:9643;805;be, case, today, militant, fanatic, side, provoke, follower, break, peace, let, intolerance, prevail
+I:9643;806;let, pastor/deacon/iman, mullah/rabbi, clergy, choice, suggest, movie, portray, religion, superior
+I:9643;807;technology, force, charge, more, cost, lot, more, produce
+I:9643;808;other, take, notice
+I:9643;809;flow, story, work
+I:9643;810;ask, turn, demand, performance, do, fine, job, be, lovely, watch, be, rest, cast
+I:9643;811;return, film, future, need, good, solid, adventure, rush
+I:9643;812;great, movie, do, come, week
+I:9643;813;be, worth, pay
+I:9643;814;have, many, fine, point, make, worthwhile, intense, view, experience
+I:9643;815;time, public, be, inundate, appeal, epic, such
+I:9643;816;deserve, look, presentation, important, crusade, be, clash, volatile, region, world, modern
+I:9643;817;be, wise, universal, message, present, leader, be, important, modern, time, humanity
+I:9643;818;rich, move, epic, film, show, magnitude, impact, crusade, life, specific, individual, country, world
+I:9643;819;wrap, body, be, place, crossroads, example
+I:9643;820;performance, be, magnificent, be, believable, role
+I:9643;821;travels, city, meet, beautiful, woman, play, perfection, horseback
+I:9643;822;be, sister, king, have, be, wife, influential, closeness, king, give, advantage, political, unrest, region
+I:9643;823;destiny, be, sure, cross
+I:9643;824;battle, scene, be, immense, scope, depth
+I:9643;825;film, have, offer, viewer, interested, exciting, engage, view, experience
+I:9643;826;like, history, complex, episode, be
+I:9643;827;something, have, notice, many, reviewer, criticise
+I:9643;828;be, few, present
+I:9643;829;day, director, artist, general, courage, speak, film, ethical, crossroads, individual, face, life
+I:9643;830;unknown, father, appear, blue, offer, new, path, life, balain, see, necessity, run, past, join, new
+I:9643;831;find, father, man, journey
+I:9643;832;be, something, important, fact, be
+I:9643;833;audience, have, picture, be, symbol, individual, conscience, something, be, easy, sell, trade, bit, power, money, be, tempt, betray, other, day, have, best, excuse, case, course, religion
+I:9643;834;see, most, character, do
+I:9643;835;be, important, be, director, place, individual, complex, world, such, be, show, survive, find, sense, be, do, thanks, clear, moral, code, such, many, individual, today, world, do, have
+I:9643;836;thank, message
+I:9643;837;recommend, version, extend
+I:9643;838;be, talented, filmmaker, historian, know, movie, be, work, fiction, base, historical, event
+I:9643;839;know, do, high
+I:9643;840;please, favor, enormous, talent, make, prequel
+I:9643;841;director, be, appreciate, art, story, tell
+I:9643;842;love, movie, be, be, go, say
+I:9643;843;draw, lot, insight, parallel, conflict, go, middle, east, modern, time
+I:9643;844;be, great, movie
+I:9643;845;get, sale, be, worth, movie, be, great, blu
+I:9643;846;ray, special, feature, be, great
+I:9643;847;love, add, detail, story, line
+I:9643;848;see, side, add, whole, new, dimension, story
+I:9643;849;drop, astonishing, world, give, fictional, protagonist, guide, tell, good, story, way
+I:9643;850;want, dissertation, history, watch, documentary
+I:9643;851;central, theme, be, be, important, be, same
+I:9643;852;have, watch, several, time, have, loan, friend
+I:9643;853;have, see, like, have, see, extended, version/director, cut, be, see
+I:9643;854;tell, whole, other, part, story, add, lot, ruin, great, movie
+I:9643;855;kingdom, be, way, tell, thing, have, change, seem
+I:9643;856;kingdom, arrive, blu
+I:9643;857;ray, form, add, content, do, make, theater
+I:9643;858;anything, help, understand, circumstance, throw, event, film
+I:9643;859;fan, film, enjoy, add, content, warn, be, talk, substantial, addition, add, run, time
+I:9643;860;major, advantage, blu
+I:9643;861;high, definition, front, version, be, true, revelation
+I:9643;862;top, head, come, mind, fight, have, shipwreck, opponent, clothing, glow, yellow, pop, desert, setting
+I:9643;863;coustome, be, great, act, good, story, line, easy, follow
+I:9643;864;like, movie, good, bit
+I:9643;865;pro, lot, action, familier, actor, good, storyline
+I:9643;866;scene, videoclip, be, fascinating, film, buff, interested, filmmaking
+I:9643;867;be, interesting, story
+I:9643;868;interesting, fictional, story, set, historical, background, have, suspend, reality, belief, enjoy, movie
+I:9643;869;scene, movie, be, pure, fabrication
+I:9643;870;cavalry, knight, charge, muslim, line, escape, slaughter
+I:9643;871;read, book, inure, viewer, insulting, innaccury, allow, viewer, suspend, imagination, enjoy, excellent, film
+I:9643;872;siege, scene, wall, be, go, happen, be, exciting, craft, sequence
+I:9643;873;ridley, be, fantastic, writer, director, movie, need, be, watch, enjoy, fantastic, fiction, be
+I:9643;874;have, do, panorama, spectacle, stupendous, cast
+I:9643;875;battle, scene, be, intense, course, take, bit, knowledge, research, get, character
+I:9643;876;creep, soul
+I:9643;877;be, money, spend, musical, score, be, glorious
+I:9643;878;ancient, question, get, answer, movie, be, do
+I:9643;879;fact, fiction, mix, lovely, heartbreaking, love, story
+I:9643;880;beautiful, music, beautiful, people, film
+I:9643;881;be, movie, see
+I:9643;882;magnificant, use, special, effect
+I:9643;883;action, breath, picture, be, excellent, story
+I:9643;884;buy, movie
+I:9643;885;ray, player, do, need, tell, picture, be, fantastic, sound, be, great
+I:9643;886;hand, be, great, movie, have, watch, dozen, time
+I:9643;887;case, message, be, simple, organize, religion, be, bad, multiculturalism, be, good
+I:9643;888;sense, movie, seem, ahistorical, good, example, project, value, past
+I:9643;889;good, director, be, moment, achieve, real, suspension, disbelief
+I:9643;890;usual, get, carry, cgi, effect
+I:9643;891;army, be, bigger, siege, machine, powerful, have, be, real, life
+I:9643;892;case, be, worth, check
+I:9643;893;great, beautiful, movie, good, actor, wonderful, set, landscape, deep, story, avoid, usual, clich, be, difficult, subject
+I:9643;894;course, director, cut, be, better, theater, version, give, more, time, story, character
+I:9643;895;love, story, special, effect
+I:9643;896;director, cut, be, easier, follow, be, great, movie
+I:9643;897;ray, look, sound, great, be, movie, put, show, home, theater
+I:9643;898;score, big, time
+I:9643;899;movie, be, full, historical, event, be, interesting, minute, movie, be, sweet, skirmish, alot, continous, important, information
+I:9643;900;have, be, fan, middle
+I:9643;901;do, wonderful, job, man, want, be, hero, man, save, show, be, human, make, mistake, bad, choice, anyone
+I:9643;902;man, play, king, leprocy, do, amazing, job
+I:9643;903;do, know, be, good, be, good, movie
+I:9643;904;accurate, be, entertaining, movie
+I:9643;905;greatest, strength, be, be, greatest, liability
+I:9643;906;expensive, attempt, recreate, many, great, battle, control, be, magnificent, scope, stunning, be, presentation, strong, be, tell
+I:9643;907;humanize, army, leader, top, many, character, be, historical, recreation, political, event, be, draw, actual, event, occur, charge, 12th, century
+I:9643;908;be, say, be, many, characteristic, movie, be, good
+I:9643;909;cinematography, be, excellent
+I:9643;910;person, conjure, picture, crusade, head, picture, portray, be, close, be, go, get, mental, image
+I:9643;911;be, portray, typical, mentor/father, figure, excel, have, short, screen, time
+I:9643;912;do, magnificent, job, be, cover
+I:9643;913;give, movie, star, be, monumental, effort
+I:9643;914;be, great, topic, movie, take, more, need, chew
+I:9643;915;work, package
+I:9643;916;film, touch, subject, such, redemtpion, spirituality, personal, relationship, many, other
+I:9643;917;make, sure, play, be
+I:9643;918;love, movie
+I:9643;919;exce, ent, acting, great, star, alot, action
+I:9643;920;do, film, keep, attention
+I:9643;921;do, film, give, feel, time, place, be, take, place
+I:9643;922;love, show, theater
+I:9643;923;director, cut, restore, complete, great, film
+I:9643;924;like, movie, miss, first, time, be, curious, please, be, sure, see, version
+I:9643;925;see, movie, look, history, fall, see
+I:9643;926;time, period, be, interesting, factual, form, entertaining, move, portray, screen, accurate
+I:9643;927;do, weekend, amazement, movie, be, good
+I:9643;928;be, surprised, tank, box, office
+I:9643;929;deliver, outstanding, performance, set, storyline, be, world
+I:9643;930;give, idea, come, be, be
+I:9643;931;recommend, movie
+I:9643;932;be, have, fine, script, write, elect, focus, intimate, series, story, have, sensitivity, tenderness, offer, historical, background, understand, ongoing, battle, city
+I:9643;933;present, protection, people, lead, historical, moment, end, siege, city, describe, history, book
+I:9643;934;cast, be, excellent, small, role, make, large, such, fine, actor, other
+I:9643;935;musical, score, be, magnificent, blend, western, ecclesiastic, theme, include
+I:9643;936;be, responsible, vivid, cinematography
+I:9643;937;kingdom, heaven, be, inspiring, film, see
+I:9643;938;enjoy, movie
+I:9643;939;have, watch, several, time, time, find, something, see
+I:9643;940;be, act, costume, be, great, be, scenery
+I:9643;941;wonderful, movie, enjoy, bit
+I:9643;942;have, say, be, entertaining, movie, willing, suspend, historical, accuracy
+I:9643;943;film, act, wonderful, scenery, film, be, full, meal, be, good, enough, snack, satisfy
+I:9643;944;history, major, last, movie, want, see, be, base, fight, christian
+I:9643;945;take, gamble, go, buy
+I:9643;946;know, frame, shot, hot, get
+I:9643;947;next, thing, notice, be, costume, become, vivid, colorful, movie, progress
+I:9643;948;elaborate, costume, be, bring, life, talented, know, craft, seem, enjoy
+I:9643;949;siege, be, elaborate, stunning, sequence, put, film
+I:9643;950;be, master, type, film, think, be, warm
+I:9643;951;be, great, enjoy, actor, play, role
+I:9643;952;movie, heart, soul, wonderful, movie
+I:9643;953;do, see, theatrical, version, film, enjoy, hour, movie
+I:9643;954;end, film, be, stunned, think, be, best, film, time
+I:9643;955;fact, be, much, historical, accuracy, make, movie, fantastic
+I:9643;956;be, phenoomnal, film, use, word, masterpiece, think, work, vivid, colorful, act, realize, film
+I:9643;957;initial, storyline, be, strongest, regard, relationship, estrange, knight, neeson, illegitimate, son
+I:9643;958;character, be, go, have, lead, movie, film, change, rail
+I:9643;959;film, be, beautiful, early, scene, take, place, snowy, country, side
+I:9643;960;be, talk, mask, manage, have, better, range, draw, more, audience, sympathy
+I:9643;961;overt, political, correctness, be, easy, overlook, harm, film
+I:9643;962;favorite, film, have, change, disc, mid
+I:9643;963;hour, minute, epic, be, movie, fan, sword, sandal, genre
+I:9643;964;help, make, ok, film, become, brilliant, masterpiece
+I:9643;965;character, be, define, become, revelation, new, cut
+I:9643;966;journey, blacksmith, knight, be, credible, understanding
+I:9643;967;scott, film, be, opinion, better, film, gladiator, be, help, phenomenal, performance, suffer, story, lull
+I:9643;968;battle, fight, sequence, be, direct, assure, direction
+I:9643;969;great, disc, collection, be, own, include, everything, want, know, making, film
+I:9643;970;include, hour, scene, tour
+I:9643;971;warrant, whole, week, worth, viewing
+I:9643;972;have, say, movie, be, accurate, objective
+I:9643;973;movie, be, break
+I:9643;974;be, water
+I:9643;975;be, say, wife, watch, movie, enjoy
+I:9643;976;be, stunning, story, line, be, strong, keep, entertain
+I:9643;977;be, worthy, special, note
+I:9643;978;enjoy, good, action, film, one, have, spare, fall, victim, action, movie, plot
+I:9643;979;wonderful, movie, watch
+I:9643;980;learn, lot, movie
+I:9643;981;actor, be, real
+I:9643;982;thank, get, piece
+I:9643;983;fan, cast, theatrical, crusade, epic, be, pleased, arrival, extended, disc
+I:9643;984;result, role, be, flesh, plot, point, be, develop, entire, film, flow
+I:9643;985;character, balain, be, write, character, propel, great, destiny, happenstance, love, cast, king, queen, noble, knight, be, son, great, man
+I:9643;986;director, cut, be, passive, lucky, relationship, come, human, due, add, scene, clue, past, come, forty.yard, stare
+I:9643;987;return, true, calibur, form, allow, see, deep, love, have, son, pain, have, endure
+I:9643;988;noble, sad, scrappy, fight, day, arrow, testicle, relate, wry, moment, be, true, heart, story, be, give, time, care, deserve, first, time
+I:9643;989;beguiling, play, be, deepen, subplot, involve, young, son
+I:9643;990;be, phenomenal, actress, capture, many, color, move, performance
+I:9643;991;contriubute, emotional, gravity, sweeping, film
+I:9643;992;kingdom, cut, be, movie, want, make, epic, true, sense, word, bloody, gritty, thematic
+I:9643;993;restore, full, run, time, redeem, label, hit, kidney, move, character, heart
+I:9643;994;pound, violence, unique, take, historical, period, know, side, prostletyzing, moment, grace
+I:9643;995;period, time, know, evil, cruelty, man, most, character, seek, understanding, suppose, enemy
+I:9643;996;make, great, action, hero, sweating, grimace, beat, hell, enemy, knight, alpomp
+I:9643;997;be, compelling, movie, full, thrilling, battle, gorgeous, cinematography
+I:9643;998;complete, realize, emotional, gravity, clarity, idea
+I:9643;999;be, film, reward, repeat, viewing, take, niether, physical, moral, scope, go, deserve, place, shadow, splendid, artistic, achievement, ambitious, director
+I:9643;1000;be, enjoyable, tale, illegitimate, son, noble, return
+I:9643;1001;be, powerful, drama, movie
+I:9643;1002;like, see, good, battle, watch, movie
+I:9643;1003;movie, provide, insight, beginning, conflict, west, impact, world, today
+I:9643;1004;excellent, performance, entire, cast
+I:9643;1005;overall, pace, action, act, be, do, keep, interest
+I:9643;1006;movie, provide, best, combat, scene, age, provide, same, epic, scene, reminiscent
+I:9643;1007;recommend, part, anyone, action, movie, collection
+I:9643;1008;version, movie, have, smooth, flow, due, scene, be, be, leave, theatrical, version
+I:9643;1009;believe, version, be
+I:9643;1010;watch, movie
+I:9643;1011;be, make, interesting, insightful, formulative, era, religion
+I:9643;1012;result, movie, be, better, think, be, deserve, star, own
+I:9643;1013;cast, be, good, finest, actor, have, be, bit, utilize
+I:9643;1014;have, amazing, amount, information, anyone, interested, time, period
+I:9643;1015;watch, movie, remember, while, meet, history, history, get, mug
+I:9643;1016;review, movie, have, couple, caveat, worth, caveatingfirst, caveat, be, history
+I:9643;1017;have, use, first, hold, special, place, heart
+I:9643;1018;review, koh, be, excellent
+I:9643;1019;story, line, be, intriguing, ring, true
+I:9643;1020;lie, beginning, end, be, fascinating, enjoyable, story
+I:9643;1021;actor, briefly, everyone, do, excellent, job
+I:9643;1022;do, know, play, king, leper, clothes, be, excellent
+I:9643;1023;recommend, movie
+I:9643;1024;richer, better, develop, story, do, want, give, much, detail, spoil, rest, assure, be, long, intermission, movie
+I:9643;1025;be, sure, story, be, marvelous, know, sure
+I:9643;1026;character, be, developed, interesting, give, additional, hour, bring, spotlight, hour, version, seem, folk, play, part, big, battle, scene
+I:9643;1027;give, original, half, be
+I:9643;1028;film, look, gorgeous, get, additional, star
+I:9643;1029;masterpiece, whole, lot
+I:9643;1030;be, extra, footing, see, thatrical, version, give, s, better, understanding, story
+I:9643;1031;best, consider, be, way, direct
+I:9643;1032;let, remember, be, film, writer, have, use, artistic, licence, get, great, film
+I:9643;1033;be, epic, movie, come, american, theatre
+I:9643;1034;be, true, christian, ethic
+I:9643;1035;confess, confront, be, father, marry, mother, have, force, have, relation, love, way
+I:9643;1036;film, be, best, be, gladiator
+I:9643;1037;history, special, second, disc, make, fantastic, addition, film
+I:9643;1038;be, nice, see, fact, fiction
+I:9643;1039;brief, moment, do, location, central, character
+I:9643;1040;be, focus, power, struggle, follower
+I:9643;1041;be, portray, reasonable, man
+I:9643;1042;be, epic, film, convincing, action, sequence
+I:9643;1043;convey, weary, gnarled, strength
+I:9643;1044;be, good, arabic, princess, arrange, marriage, head, knight, become, king, wife, brother, death
+I:9643;1045;movie, be, pack, action, battle, sequence
+I:9643;1046;encourage, anyone, add, movie, collection
+I:9643;1047;special, effect, be, insane
+I:9643;1048;be, summer, action, flick, brain
+I:9643;1049;raw, look, time, holy, land, time, crusade
+I:9643;1050;move, action, pack, worth, watch
+I:9643;1051;favorite, movie
+I:9643;1052;have, love, see, more, complexity
+I:9643;1053;be, powerful, moment, film
+I:9643;1054;whole, segment, duel, muslim, release, slave, turn, be, noble
+I:9643;1055;norton, portrayal, be, splendid
+I:9643;1056;best, thing, film
+I:9643;1057;actress, play, sister, do, good, job, character
+I:9643;1058;only, kingdom, heaven, be, be, tell, be, own, conscience
+I:9643;1059;battle, scene, strike, owe, lot, lord, ring, film, good, moment, general, think, have, see
+I:9643;1060;piece, mendacity, be, think, order, give, film, happy, end
+I:9643;1061;rate, decide, watch, film, think, historical, religious, inaccuracy
+I:9643;1062;find, enjoy, term, adventure, do, work, level
+I:9643;1063;set, whole, look, be, fine
+I:9643;1064;star, look, action, casting
+I:9643;1065;compare, theatrical, version, star, director, be, solid, star
+I:9643;1066;be, good, conditions!you, have, take, time, watch, movie
+I:9643;1067;be, favorite, movie
+I:9643;1068;like, movie
+I:9643;1069;see, while
+I:9643;1070;excellent, story, line, depict, historic, event
+I:9643;1071;do, agree, religion, make, good, action, movie
+I:9643;1072;ray, discover, blu
+I:9643;1073;be, great, be, have, big, star, be, superstar, costumes/visual, effect, be, stunning
+I:9643;1074;film, hold, do, give, feel, average, crusader, life, have, be
+I:9643;1075;movie, be, master, piece
+I:9643;1076;have, get, be, best, medieval, type, movie, have, see
+I:9643;1077;other, small, gripe, film, be, see
+I:9643;1078;ray, look, wonderful, big, screen
+I:9643;1079;kingdome, be, movie, be, worth, watch, discount
+I:9643;1080;story, advance, introduce, new, fight
+I:9643;1081;actual, style, film, movie, be, good
+I:9643;1082;be, shoot
+I:9643;1083;scene, be, beautiful, take, movie, be, amazing
+I:9643;1084;love, way, movie, look
+I:9643;1085;better, many, film
+I:9643;1086;see, movie, theatre, enjoy, find, bit, choppy
+I:9643;1087;great, movie, base, actual, occurrence, era
+I:9643;1088;be, fun, ride, watch, lot, action, adventure
+I:9643;1089;movie, arrive, day, perfect, condition
+I:9643;1090;phenomenal, performance, part
+I:9643;1091;disc, set, come, pack, cool, extra
+I:9643;1092;be, get, terrific, lead, performance, best, role, beautiful, location, non
+I:9643;1093;stop, feeling, wonder, adventure
+I:9643;1094;director, cut, do, change, strength, original, release, do, have, lot, more, exposition, shed, more, light, story, character, film
+I:9643;1095;say, story, remain, strong, entertaining, visit, form, father, young, blacksmith, name, follow, crusader, be, witness, action, take, christian, templar, muslim
+I:9643;1096;be, sure, film, be, accurate, do, make, think, be, much, deeper, director, previous, film
+I:9643;1097;actor, be, cast, be, excellent, intense, performance, come, reflective, hero, most, action, fan, be, use
+I:9643;1098;be, cast, beautiful, extended, cut, give, character, depth
+I:9643;1099;rest, cast, include, be, strong, impactful
+I:9643;1100;most, people, prefer, extended, release, fill, character, motivation, fill, plot, more, exposition, like, watch, lot, say, be, better, original, release
+I:9643;1101;time, movie, fan, be, able, use, imagination, enjoy, be, original, presentation, theater, feel, original, film, be, miss, something, director, cut, satisfy
+I:9643;1102;special, feature, be, good
+I:9643;1103;however, please, be, aware
+I:9643;1104;have, see, director, cut, find, way, see, be, better, theatrical, version
+I:9643;1105;be, wife, pregnant, have, commit, suicide
+I:9643;1106;story, have, many, facet, many, layer, add, story, director
+I:9643;1107;layer, be, intriguing
+I:9643;1108;film, do, get, good, chunk, history, right, correct, filter, story, hinder, keep, enjoyment, be
+I:9643;1109;fill, violence, epic, warfare, creativity, skill, engineering, be, tactician
+I:9643;1110;film, think, assumption, be, correct, movie, pick, like, movie, be, better
+I:9643;1111;start, slow, tell, story, hang, be, surprised
+I:9643;1112;take, place, today, correct, thought
+I:9643;1113;watch, be, entertain
+I:9643;1114;net, be, huge, blockbuster, director, past, work, have, include, such, big, beast, series, black, hawk, down
+I:9643;1115;battle, scene, be, great, reminiscent, work
+I:9643;1116;think, bloom, be, overblown, be, solid, rest, cast, make, weakness, part, do, think, be
+I:9643;1117;last, great, casting, be, allow, flesh, role, create, character
+I:9643;1118;tell, story, interaction, character, be, develop, understand, make, character, exceptional, blacksmith, queen, throw, arrogant, homicidal, husband, special, relationship, exist, character
+I:9643;1119;scott, achieve, marvelous, balance, epic, scope, battle, complex, fragile, relationship, time
+I:9643;1120;leave, film, disappoint, failure, society, hopeful, uplift, promise, new, beginning, admirable, character
+I:9643;1121;man, have, son, protagonist, have, accomplish, make, world, better, place
+I:9643;1122;film, make, compare, epic, such
+I:9643;1123;love, movie, have, watch
+I:9643;1124;buy, family, member, gift, know, love
+I:9643;1125;favorite, movie, ours
+I:9643;1126;director, cut, have, son
+I:9643;1127;thing, like, director, cut, be, sword, fight, end, movie
+I:9643;1128;be, able, get, major, shortcoming, recommend, theatrical, version
+I:9643;1129;have, have, oppertunity, watch, director, cut, be, favorite, film
+I:9643;1130;actor, do, impressive, job, do, anyone, else, wonder, heck, backwoods, blacksmith, be, able, do, excellent, job, defend
+I:9643;1131;most, time, see
+I:9643;1132;see, movie, be, good, enjoy
+I:9643;1133;buy, husband, love, watch
+I:9643;1134;enjoy, movie, colour, music, acting, most, portrayal, historic, event
+I:9643;1135;movie, encourage, viewer, learn, more, period, history, represent
+I:9643;1136;many, struggle, represent, be, one, be, familiar, today
+I:9643;1137;be, incredible, gorgeous, movie
+I:9643;1138;set, costume, be, beautiful, soundtrack, match
+I:9643;1139;be, impressive, be, factual, course
+I:9643;1140;theatrical, version, be, good, director, cut, be, superior, make, lot, more, sense
+I:9643;1141;be, time, favorite, movie, recommend, everyone
+I:9643;1142;be, fan, love
+I:9643;1143;have, action, excitement, interest
+I:9643;1144;story, cinematography, act, be, fine, think, film, miss, attempt, have, emotional, core
+I:9643;1145;writer, mention, tragic, loss, lead, character, wife, be, touching, scene, matter, be, drop
+I:9643;1146;be, something, work, be, go, keep, be, great, actor
+I:9643;1147;film, do, have, redeeming, moment, such, siege, humor, brother
+I:9643;1148;cinematography, set, design, costume, be, beautiful, action, be, believable, exciting, gory
+I:9643;1149;be, good, epic, like, genre, enjoy
+I:9643;1150;film, have, story, line, find, interesting, start
+I:9643;1151;term, epic, scene, rate, epic, scene, lord, ring, term, individual, fight, scene, rate, par, gladiator
+I:9643;1152;defend, historical, accuracy, film, take, chance, say, message, film, be, bold, move, time
+I:9643;1153;hollywood, myth, be, good, guy, win, prevail, violence, defeat, alien
+I:9643;1154;be, hollywood, end
+I:9643;1155;be, great, movie
+I:9643;1156;extra, disc
+I:9643;1157;be, entertaining, film
+I:9643;1158;be, worth, watch
+I:9643;1159;great, plot, character, development
+I:9643;1160;be, unimpressed, theatrical, release, read, review, better, director, cut, be, want, see, least, be, good, movie
+I:9643;1161;hard, believe, character
+I:9643;1162;nice, depiction, priest
+I:9643;1163;depiction, be, make, be, picture, goodness, honesty
+I:9643;1164;want, be, authentic, be, honest, portrayal, side
+I:9643;1165;say, be, nice, look, film
+I:9643;1166;battle, scene, be, great, act, good
+I:9643;1167;artistic, licens, nice, look, film
+I:9643;1168;studio, release, film, magnitude, incredible, production, value, format, hold, much, information, fail, include, extra
+I:9643;1169;be, favorite, sword, board, film
+I:9643;1170;cover, range, topic, do, take, overall, story, family, honor, loyalty, religion, military, tactic, redemption
+I:9643;1171;bloom, play, main, character, dominate, scene
+I:9643;1172;be, nice, see, pop, minor, role
+I:9643;1173;deserve, mention, wise, honorable, leader
+I:9643;1174;be, huge, fan
+I:9643;1175;be, conflicted, complex, character
+I:9643;1176;many, male, lead, have, go, top, role, give, understate, performance, make, seem, more, real
+I:9643;1177;ray, transfer, be, flawless, complete, lossless, audio, track
+I:9643;1178;sound, be, great, visual, be, outstanding, battle, scene, be, see
+I:9643;1179;be, favorite, blu
+I:9643;1180;movie, be, jam, pack, action/battle, scene, give, home, theater, work
+I:9643;1181;audio, visual, sens, be, please
+I:9643;1182;be, trivia, track, provide, historical, information, movie, play
+I:9643;1183;climatic, battle, sequence, defense, be, many, gruesome, exciting, battle, scene, movie
+I:9643;1184;spoiler, know, win, enjoy, movie
+I:9643;1185;do, take, movie, accurate, enjoy, historical, fiction, be, great, movie
+I:9643;1186;act, movie, be, do, support, cast
+I:9643;1187;movie, make, interested, subject, good, book, read, dream, history
+I:9643;1188;have, do, good, job, present, story
+I:9643;1189;see, religion, have, fair, share, true, hero, true, villian, time, world, be, religious, chaos
+I:9643;1190;be, core, human, nature, seem, hate, aspect, human, life
+I:9643;1191;have, become, resent, fact, vast, majority, people, do, believe, supernatural
+I:9643;1192;most, people, be, religious, be, time, assent, fact
+I:9643;1193;think, movie, be, great, depiction, have, imagine, be
+I:9643;1194;good, movie, lot, action
+I:9643;1195;best, movie, have, see
+I:9643;1196;be, glory, step
+I:9643;1197;whole, story, son, be, take, final, version
+I:9643;1198;nothing, beat, lead, role, reluctant, knight, strong, ethical, compass
+I:9643;1199;cinematography, be, stunning, be, film
+I:9643;1200;be, best, film, make
+I:9643;1201;be, good, film
+I:9643;1202;be, movie, create, entertainment, present, balanced, view, muslim, activity
+I:9643;1203;acting, be, exceptional, support, cast
+I:9643;1204;amazing, performance, be
+I:9643;1205;be, mask, body, cover, manage, eye, voice, engage, win, viewer
+I:9643;1206;be, honest, detail, orient, movie, have, see
+I:9643;1207;be, fiction, essence, story, be, real, course, entertaining
+I:9643;1208;be, rich, movie, deep, perspective, give, high, regard
+I:9643;1209;be, snuff, film, make, moslem, jihadist, enemy, watch, delight, see, best, man, roll, hour, self
+I:9643;1210;distribute, slick, entertaining, piece, self
+I:9643;1211;be, ripe, picking, let, take
+I:9643;1212;movie, be
+I:9643;1213;make, appealing, lament, despicable, self
+I:9643;1214;grate, be, extreme, distortion, history, necessary, achieve, malevolent, depiction, western, man, glorious, episode
+I:9643;1215;people, lap, poison, voracity
+I:9643;1216;be, beautiful, dream, year, be, today
+I:9643;1217;credible, be, that?the, director, cut, demonstrate, importance, good, editing
+I:9643;1218;side, be, depict, equal, attention, understanding
+I:9643;1219;say, speech, fit, movie, understand, have, doubt, faith, god, general, see, holy, city, have, trigger, such, bloodshed
+I:9643;1220;find, cut, be, true, masterpiece, epic, film
+I:9643;1221;please, stop, try, compare, ring
+I:9643;1222;be, great, director, release, bad, taste!and, have, be, cast, due, appeal, younger, viewer, do, mean, have, be, serve, cold, plate, rank, greatest, inspiring, historical, epic, dance, wolf
+I:9643;1223;step, movie
+I:9643;1224;make, be, show, discuss, great, detail
+I:9643;1225;movie, be, min, add, scene
+I:9643;1226;best, high, def, blu
+I:9643;1227;have, decency, include, decent, special, feature
+I:9643;1228;be, excellent, choice, main, actor
+I:9643;1229;make, story, line, better
+I:9643;1230;be, sleeper
+I:9643;1231;be, sure, arrive, time, behold, come, great, shape
+I:9643;1232;obtain, regular, cut, film, watch, several, year, read, review, better, be
+I:9643;1233;be, story, come, better, film, seem, have, more, flow, plot, point, make, lot, more, sense
+I:9643;1234;be, young, disease, have, ravage, body, extent, swathe, fine, silk, silver, mask
+I:9643;1235;humane, treatment, conquer, muslim, people, kingdom, knowledge, youth, beauty, costume, gentle, body, language, pose, tender, voice, actor, combine, make, sympathetic, character
+I:9643;1236;gaze, grief, brother, dead, body
+I:9643;1237;shroud, be, life
+I:9643;1238;have, destroy, graceful, thing, world, violence, have, create
+I:9643;1239;be, realistic, battle, scene, service, historical, fiction
+I:9643;1240;brutality, be, believable, have, see, have, see, instance, be, do, effective, fiction, be, accurate
+I:9643;1241;leave, auteur, mayhem
+I:9643;1242;be, such, fine, imaginative, director
+I:9643;1243;have, give, movie, star, have, give, excellent, performance
+I:9643;1244;do, best, come, close, heroic, figure, be, visual, spectacle, be, enthralling
+I:9643;1245;be, better, piece, filmmaking, be, follow
+I:9643;1246;spare, man, life, kill, companion, renowned, fighter, sword, fight
+I:9643;1247;mind, balian, man, spare, happen, meet, middle, huge, tumultuous, battlefield
+I:9643;1248;such, believable, film, make
+I:9643;1249;disc, set, offer, complete, understanding, film, decision, director, make, staff, support, way, bring, screen
+I:9643;1250;extra, disc, support, picture, actual, history, understanding, various, technical, team, support, creation, scene, viewer, believe
+I:9643;1251;stunning, be, transport, place, time
+I:9643;1252;tint, snowy, landscape, home, village
+I:9643;1253;extended, film, other, have, write, be, looong
+I:9643;1254;ridley, artistry, enjoy
+I:9643;1255;etc, justsit, watch, enjoy, think
+I:9643;1256;cinematography, sound, visual, be, fabelous
+I:9643;1257;main, support, character, be, act, film, voice, king, amazing, play, deen, syrian, actor, have, amaze, determine, charismatic, performance
+I:9643;1258;film, be, nice, journey, history, middle, age, have, contemporary, message, end, film, today, world, event
+I:9643;1259;make, peace, peace
+I:9643;1260;be, do, expose, chivalry, character, time, opponent, leader, involve, crusade, xi, xii, century
+I:9643;1261;ray, extend, version, blow, movie, theater, release, hour, worth, see
+I:9643;1262;special, feature, disk, see, full, cut, way, be, mean, be, be, worth
+I:9643;1263;first, hour, movie, be, little, corny, have, play, movie, be, good
+I:9643;1264;location, character, battle, be, stunning, contribute, vision, crusade
+I:9643;1265;movie, be, perfect, be, good, worthy, least, view, fan
+I:9643;1266;think, original, theatrical, release, be, enjoyable, have, develop, interest, director, cut, movie, be, interested, possibility, original, have, be, improve, additional, footage
+I:9643;1267;director, cut, be, finest, motion, picture, come, time
+I:9643;1268;have, tremendous, intellectual/philisophical, depth, stunning, cinematography, ensure, repeat, enjoyable, view, run, time, find, longer, run, time, appealing
+I:9643;1269;show, true, directorial, genius, ability, make, minor, modification, history, make, masterpiece, storytelling
+I:9643;1270;work, be, enjoy, ability, do
+I:9643;1271;enjoy, movie, find, confuse, time, battle, scene
+I:9643;1272;story, be, good, costuming, be, excellent, scenery, be, fantastic
+I:9643;1273;actual, spanish, castle, be, use, main, backdrop
+I:9643;1274;like, film, recommend, anyone, enjoy, history, intrigue
+I:9643;1275;be, change, be, fascinating, give, truth
+I:9643;1276;have, do, inspire, love
+I:9643;1277;say, qualify, rule, famous, city, history?and, be, folk, get
+I:9643;1278;beautiful, movie, great, production, trademark, panoramic, shot, look, giant, move, oil, painting
+I:9643;1279;great, movie, good, item, extra, movie, cinematografy, be, excellent
+I:9643;1280;make, have, movie, while
+I:9643;1281;get, excellent, feel, want, do, film
+I:9643;1282;enjoy, extra, footage, be, price
+I:9643;1283;movie, be, interesting
+I:9643;1284;have, decent, story, line
+I:9643;1285;take, modern, 20th, century, stereotype, force, medieval, costume, drama, result, be, horrific
+I:9643;1286;read, history, see, character, be, real, performance
+I:9643;1287;point, be, be, fantasy, be, call, movie, be, great, be
+I:9643;1288;recommend, movie, cast, special, effect, act, be, excellent
+I:9643;1289;have, exceptional, performance
+I:9643;1290;be, accurate, objective, most, character, be, real, people, portrait, islamic, leader, be, outstanding
+I:9643;1291;movie, be, people, like, history, epic, movie, good, acting, course
+I:9643;1292;caution, be, reward, be, able, enjoy, rare, experience, undiluted, leisure
+I:9643;1293;be, most, review, see, good, unusual, film, something, expect
+I:9643;1294;highest, level
+I:9643;1295;armor, medieval, islamic, period, have, impression, watch, vast, historical, painting, come, life
+I:9643;1296;photography, be, breath
+I:9643;1297;affictionado, war, call, ancient, antiwue, battle, movie, sword, spear, horse, be, able, examine, enjoy, panorama, anotehr, long, shot, show, position, movement, troops, terrain, mid
+I:9643;1298;couple, homage, brilliant, charge, knight
+I:9643;1299;set, be, sublime, be, many, such, wide, variety, inerior, exterior, differin, scale, mind, be, overwhelm
+I:9643;1300;be, fair, say, film, be, spiritual, sincere, be, anti
+I:9643;1301;do, mention, be, engross
+I:9643;1302;master, director, know, utilize, synthesize, find, sound, sound, effect, music, speak, word, such, way, ear, be, refresh, mind, stimulate
+I:9643;1303;kind, auditory, confusion, few, director, work, understand, use, virtuoso
+I:9643;1304;wrier, have, give, director, script, allow, director, tell, story, picture, be, good, director, do
+I:9643;1305;use, camera, show, performer, shift, angle, move, scenery, talk, director, be, able, give, more, better, information, be, film, conversation
+I:9643;1306;actor, be, cast, story
+I:9643;1307;young, man, be, genius
+I:9643;1308;play, perfect, ideal, idealized, figure, distinguish, parcifal, arthurian, legend
+I:9643;1309;aspect, choice, anoher, heroic, fighter, other, actor, muscle
+I:9643;1310;masculine, beauty, dramatize, difference, character, other, man, have, be, harden, coarsen, intrigue, battle, murder
+I:9643;1311;cast, be, wonderful, interesting
+I:9643;1312;cast, movie, accept, challenge, most, actor, face, be, interesting, have, something, tell, story, star, extra
+I:9643;1313;face, be, thrilling, variety, beauty
+I:9643;1314;hero, heoine, be, beautiful, match
+I:9643;1315;most, have, see, enjoy, other, film, have, begin, see, peculiar, gift, be, possess, run
+I:9643;1316;primary, concern, appear, be, man, be, duty, strength, character, loyalty, personal, inegrity
+I:9643;1317;mind, be, ultimate, masterpiece
+I:9643;1318;make, work, double, tripple, duty, result, be, benefit
+I:9643;1319;be, incredible, amazing, film, have, acceptance, box
+I:9643;1320;balanced, mixture, many, real, fact, fiction, story, depict, adventure, real, christian, knight, bear, middle
+I:9643;1321;have, element, great, epic, movie, lot, action, excellent, acting, good, adaptation, real, history, include, politics, intrigue
+I:9643;1322;acting, set, action, be, exceptional
+I:9643;1323;extend, version, do, justice, brilliant, creation
+I:9643;1324;have, enjoy, version, say, good, thing
+I:9643;1325;movie, be, stunning, epic
+I:9643;1326;saladin, be, noble
+I:9643;1327;be, great
+I:9643;1328;base, fiction, give, much, truer, picture, crusade, fiction, movie
+I:9643;1329;deal, side
+I:9643;1330;kingdom, other, hand, be, mire, own, epic
+I:9643;1331;film, have, speak, role, character, be, introduce, memorable, include, film, protagonist, play
+I:9643;1332;everyone, include, be, sweep, film, rage, special, effect, set
+I:9643;1333;only, film, enjoy, watch
+I:9643;1334;make, unusual, movie, great, one
+I:9643;1335;mind, be, best
+I:9643;1336;see, original, know, choose
+I:9643;1337;shed, light, going, other, version
+I:9643;1338;main, event, original, movie, happen, cut, be, detailed, easier, get, original, version
+I:9643;1339;purported, choppiness, like, original, shorter, release, film, find, script, performance, be, stellar, spite, choppiness, become, great, sword, fighter, seem, be, little, training
+I:9643;1340;classy, intelligent, do, film, cast, do, have, force, personality, pull, big, inspirational, speech, be, perfect, quiet, grim, determination, snarky, comment, struggle, pain, guilt, put, awkward, situation
+I:9643;1341;cinematography, spectacular, battle, scene, succeed, right, way
+I:9643;1342;see, short, version, be, price
+I:9643;1343;disc, director, star, other, famous, actor, impell, rate, excellent, movie
+I:9643;1344;additional, scene, disc, movie, make, story, line, enjoyable
+I:9643;1345;additional, disc, provide, historical, setting, view, director, actor, cinematographer, set, costume, designer, other, regard, process, make, movie, significance, topic, movie, make, view, much, richer, profound, experience
+I:9643;1346;view, disc, have, rate, movie, superior
+I:9643;1347;recommend, view, purchase
+I:9643;1348;disc, director
+I:9643;1349;fix, issue, add, scene, help, film, story
+I:9643;1350;be, true, title, look, wonderful
+I:9643;1351;costume, arm, armour, be, accurate, side, main, event
+I:9643;1352;have, take, liberty, character
+I:9643;1353;tiberiade, play, be, fictional, character, base, count, wife
+I:9643;1354;balian, d'ibelin, convincing, family, exist, balian, defend, such, determination, give, term, population, be, grant, such, term
+I:9643;1355;be, legitimate, be, brother
+I:9643;1356;be, bear, ibelin, be, remain, xiii, century, main, noble, family
+I:9643;1357;nevermind, historical, accuracy, film, be, superb, exciting
+I:9643;1358;battle, scene, first, skirmish, assault, be, realistic
+I:9643;1359;entertaining, worth, good, star
+I:9643;1360;film, base, history, crusade, adventure, story, lot, noble, feeling, anf, high, spirit, do
+I:9643;1361;recommend, extend, version, add, more, depth, emotion, entire, story, blend, many, life, cause, effect
+I:9643;1362;be, means, pick, good, guy, win, kind, movie, find, refreshing
+I:9643;1363;be, have, people, enjoy, movie, show, harsh, reality, unabashed, truth
+I:9643;1364;be, true, blu
+I:9643;1365;have, see, blu
+I:9643;1366;ray, movie, have, see, be, best, look, movie
+I:9643;1367;show, scenery, pause, movie, friend, stare, tv, graphic, be, mind, blow, picture, be, sharp, color, be, beautiful
+I:9643;1368;ray, picture, be, amazing
+I:9643;1369;effect, be, good, film, be, do, be, piece
+I:9643;1370;william, mean, be, soundtrack, worth, purchase
+I:9643;1371;omission, be, actual, existence
+I:9643;1372;beautiful, set, costuming, enjoy, story, line, part, come, close, actual, event, history
+I:9643;1373;like, do, portray, bad, guy
+I:9643;1374;enjoy, battle, scene, love, role, play, convincing
+I:9643;1375;love, do, know, be, play
+I:9643;1376;terrific, director, helm, movie, great, acting, talent, such, be, doubt, mind, movie, be, go, be, great
+I:9643;1377;many, time, movie, live, expectation, historical, epic, movie, be, live, hype, build
+I:9643;1378;committal, cause, christian, get, most, part, fighting
+I:9643;1379;acting, be, good, terrific, story, let, audience, come, root, character, lead, character
+I:9643;1380;fight, scene, be, impressive, happen, seem, be, spread, hour, duration, movie, acting, be, good, directing, be, good, end, story, be, let
+I:9643;1381;other, director, come, have, gut, tell, engaging, correct, accurate, account
+I:9643;1382;be, rate, violence
+I:9643;1383;director, cut, be, welcome, addition, make, fascinating, theatrical, version
+I:9643;1384;best, part, movie, be, production, value, include, costume, scenery, cinematography, editing
+I:9643;1385;best, item, have
+I:9643;1386;minimalist, item, good, handling, come, thanks, lot
+I:9643;1387;consider, family, film
+I:9643;1388;best, movie, medieval, time
+I:9643;1389;music, scenery, amazing
+I:9643;1390;recommend, director, cut
+I:9643;1391;director, cut, be, great, eliminate, confusion, theatrical, release
+I:9643;1392;like, extra, give, insight, work, lot, detail, costume, digital, addition, be, do
+I:9643;1393;lead, character, be, engage, cause, viewer, care, outcome, movie, become, lot, sound, fury
+I:9643;1394;christian, be, fight, control
+I:9643;1395;detail, give, movie, depth
+I:9643;1396;politics, human, being, struggle, survive, be, impressive
+I:9643;1397;greatest, wisest, man, time
+I:9643;1398;give, learn, general, be, greatness
+I:9643;1399;learn, i.
+I:9643;1400;lessing, drama, show, ask, religion, be, true
+I:9643;1401;answer, famous, ring, power, prove, true, live, life, be, pleasant, eye, mankind
+I:9643;1402;promote, peace, tolerance, faith, promote, self, righteousness
+I:9643;1403;be, amazing, interesting, many, level
+I:9643;1404;point, be, believe, side, get, fair, treatment
+I:9643;1405;scare, think, see, extrapolation, world, today
+I:9643;1406;needless, say, have, create, much, animosity, part, family
+I:9643;1407;be, great, place, earth, have, great, religious/spiritual, significance, least, world, major, religion
+I:9643;1408;like, movie
+I:9643;1409;be, worry, be, go, be, time, line/events, crusade, be, refresh, be, pre
+I:9643;1410;friend, leave, last, thought, speak, truth, lead, death
+I:9643;1411;be, gift, son, be, better, theatre, version
+I:9643;1412;recommend, version, enjoy, theatre
+I:9643;1413;enjoy, movie, recommend, other, like, movie, history, crusade
+I:9643;1414;be, only, director, humble, option, make, historical, film, believable
+I:9643;1415;excellent, casting, excellent, performance, blond, hair, elf, ear
+I:9643;1416;director, be, better, shorter, version, be, first, release
+I:9643;1417;great, movie, history, buff, like, movie, faithful, history
+I:9643;1418;release, form, extend, version, be
+I:9643;1419;add, couple, story, line, several, minor, detail, scene, be, leave, shorter, version
+I:9643;1420;be, happy, add, collection
+I:9643;1421;ray, do, include, extra, feature, be, part
+I:9643;1422;see, true, blu
+I:9643;1423;gift, husband
+I:9643;1424;enjoy, extra, extend, version
+I:9643;1425;find, movie, striking, move, powerful, message
+I:9643;1426;find, be, do, inspiring, epic, thing, have, be, ignore, long, reality, time
+I:9643;1427;be, brilliant, role, other, actor, actress, add, substance, character, great, performance
+I:9643;1428;cinematography, be, do
+I:9643;1429;be, keeper, be, view
+I:9643;1430;book, progress, christian, crusade, be, amazing, detail, be, similar, book, movie
+I:9643;1431;book, go, great, wine, wonderful, cheese
+I:9643;1432;be, avid, admirer, opinion, greatest, director, planet
+I:9643;1433;sheer, scale, film, be, impressive, be, better, cinematic, director, magic, eye, come, pull, viewer, world, rely, exploit, multiple, efx, shot, do
+I:9643;1434;year, come, be, re
+I:9643;1435;evaluation, movie, restore, rightful, place, true, cinematic, masterpiece
+I:9643;1436;do, know, expect, go, movie, think, everything, be, portray, everyone, do, great, job, act, part
+I:9643;1437;recommend, movie, viewer, be, action
+I:9643;1438;be, improve, version, movie, provide, story, explain, explore, character, film, release, theatre
+I:9643;1439;theatrical, release, be, ok, director, cut, hour, more, story, be, great, backstory, violent
+I:9643;1440;doubt, watch, theatrical, release
+I:9643;1441;love, movie, era
+I:9643;1442;bloom, be, fantastic, green
+I:9643;1443;play, bring, conflict, face, today, screen
+I:9643;1444;cinematic, potential, be, realize, version, be, superior, theatrical, release
+I:9643;1445;top, many, people, expect
+I:9643;1446;play, main, character, such, control, subtlety, redemption, become, realistic, compelling, journey
+I:9643;1447;ability, navigate, landmine, retain, humanity, be, real, focus, story, theme, be, subtle, require, patience, grasp
+I:9643;1448;be, treatment, redemption, make, film, worthwhile
+I:9643;1449;film, production, value, be, movie, core
+I:9643;1450;project, year, come, film, be, classic, period, piece, good, reason
+I:9643;1451;director, cut, deserve, high, mark
+I:9643;1452;great, price, super, fast, delivery, brand, new, state
+I:9643;1453;enjoy, start, little, slow, sweet, action, pack, victory, emerge
+I:9643;1454;neat, cast, filmography
+I:9643;1455;do, enjoy, history, kind, hard, understand, hour, half, get
+I:9643;1456;be, brilliant
+I:9643;1457;give, excellent, commanding, performance, lead, cast, grace, poise
+I:9643;1458;be, best, film, date
+I:9643;1459;screenplay, be, excellent
+I:9643;1460;production, design, cinematography, be, impressive
+I:9643;1461;william, be, impressive
+I:9643;1462;year, best
+I:9643;1463;be, version, film, want, see, beginning
+I:9643;1464;enjoy, theatrical, release, film, feel, be, incomplete
+I:9643;1465;favorite, movie, date, have, strong, message, be, relationship, be, be, conception, muslim, faith
+I:9643;1466;be, culture, fight, belive, be
+I:9643;1467;be, fantastic, movie
+I:9643;1468;great, film
+I:9643;1469;heaven, be, excellent, movie, movie, be, something, have, see, long, time
+I:9643;1470;good, warfare/action, movie, base, medieval, time
+I:9643;1471;bat, start, watch, movie
+I:9643;1472;favorite, actor, step, play, large, part, king
+I:9643;1473;movie, be, star, problem, story, think, be, excellent, enjoy, actual, fight, scene, go, gory
+I:9643;1474;be, family, movie, be, great, medieval, warfare, movie
+I:9643;1475;action, sequence, be, nice, true, testiment, sword
+I:9643;1476;top, style, many, movie, do, day
+I:9643;1477;acting, be, bad, love, play, character, suit, style, act
+I:9643;1478;like, alotmoney, spend, movie
+I:9643;1479;other, lack, chemistry, believability, star, enjoy, movie
+I:9643;1480;seem, accurate, least, possible, have, fun
+I:9643;1481;be, late, party, be, good, thing
+I:9643;1482;have, watch, movie, couple, time, more, state, feel, be, strength, be, complain, major, beef
+I:9643;1483;love, scene, seem, gritty, realistic
+I:9643;1484;think, siege, scene, be, wonderful
+I:9643;1485;feel, power, treb, launch, missile
+I:9643;1486;fanaticism, true, righteousness, be, movie
+I:9643;1487;movie, be, cast
+I:9643;1488;role, be
+I:9643;1489;play, seem
+I:9643;1490;record, have, best, line
+I:9643;1491;summary, like
+I:9643;1492;make, epic, lot
+I:9643;1493;hold, repeat, viewing
+I:9643;1494;general, give, glimpse, crusade, man, involve
+I:9643;1495;good, historical, fact, good, entertainment
+I:9643;1496;be, do, incorrect
+I:9643;1497;heroic, get, chance, play
+I:9643;1498;be, find, want
+I:9643;1499;be, bear, year
+I:9643;1500;be, credible, be, beautiful, long, hair, short, hair, version, presence, powerful, man, such, give, direction
+I:9643;1501;movie, be, movie, remind, war, do, lead, anything, suffering
+I:9643;1502;do, remember, be, film, release, theater, be, see
+I:9643;1503;have, be, entire, point, film, be, strongest, message, come
+I:9643;1504;do, crafty, job, make, anti
+I:9643;1505;presentation, be, dramatic, least, be, honest, fair
+I:9643;1506;movie, be, favorite, several, member, family
+I:9643;1507;make, great, present
+I:9643;1508;com, be, easy, timely
+I:9643;1509;cinematography, story, line, be, amazing, see, unfold
+I:9643;1510;original, cut, be, good, extended, edition, give, greater, insight, character
+I:9643;1511;be, great, movie, be, time, have, original, see, version
+I:9643;1512;like, theatrical, cut, buy, day, hit, store, hear, be, director, cut, come, wonder, bother, original, be, good
+I:9643;1513;be, much, new, info, add, understanding, enjoyment
+I:9643;1514;reccommend, movie, original, cut
+I:9643;1515;afford, get
+I:9643;1516;opinion, be, great, movie
+I:9643;1517;do, have, ability, carry, movie, role, think, do, good, job
+I:9643;1518;love, story, music, true, message, meaning, movie
+I:9643;1519;greatest, story, become, man
+I:9643;1520;wonderful, look, man, think, be, talk, world, full, people, be, sure, have, word, be, live, have, live
+I:9643;1521;few, movie, be, eligible, star
+I:9643;1522;movie, have, compelling, plot, good, acting, historical, prospective
+I:9643;1523;movie, be, shoot, look, great
+I:9643;1524;add, footage, change, add, action, relationship
+I:9643;1525;do, many, thanks, release, magnificent, film
+I:9643;1526;computer, graphic, several, scene, make, film, fan, feel, home
+I:9643;1527;be, sadden, many, think, film, be, masterpiece, give, full, allotment, star
+I:9643;1528;be, use, great, film, mediocre, one, worthy, such, high, praise
+I:9643;1529;wonderful, story, line, action, scene, be, great
+I:9643;1530;love, historiy, movie, acurate, bring, past, real, life
+I:9643;1531;film, meet, goal
+I:9643;1532;film, be, set, 12th, century, be, christian, fight, control
+I:9643;1533;go, fight, force, good
+I:9643;1534;king, be, christian, be, try, keep, peace, land
+I:9643;1535;have, beautiful, sister, play
+I:9643;1536;be, terrible, actress, have, beautiful, blue, eye, wear, great, costume
+I:9643;1537;be, correct, try, show, fighting, be, personal, power, religion
+I:9643;1538;be, good, actor, be, most, other
+I:9643;1539;be, good, cinematography
+I:9643;1540;enjoy, epic, type, movie, lord, ring, recommend
+I:9643;1541;actor, be, look, way, poke, fun, give, slack, similar, movie, other, actor
+I:9643;1542;story, be, interesting, timely
+I:9643;1543;christian, believe, friendship, be, wise, be, large, scale, war, go, city
+I:9643;1544;decide, dig, hour, have, water, full, irrigation, go
+I:9643;1545;be, tell, read, line, go, pace
+I:9643;1546;do, line, be, give
+I:9643;1547;rage, deceptive, priest, angst, lose, love, courage, face, overwhelming, odds
+I:9643;1548;love, battle, movie, general, appreciate, cavalry, charge, castle, assault, other, such, scene, movie
+I:9643;1549;find, convenient, man, claim, entire, movie, be, utmost, high, moral, character
+I:9643;1550;guess, moral, be, set, have, get, sexy, babe, arm
+I:9643;1551;be, fun, romp, medieval, day, support, cast, be, great
+I:9643;1552;like, movie, tell, fair, amount, story, muslim, side, muslim, ruler, be, pick, knock
+I:9643;1553;message, respect, be, find, religion, be, healthy, like, see, more
+I:9643;1554;be, good, movie
+I:9643;1555;get, movie, decent, time, frame, state
+I:9643;1556;great, movie, way
+I:9643;1557;thank, power, be, deliver, film, be, timeless, masterpiece, fill, spiritual, truth, challenge, people, today
+I:9643;1558;get, older, brother, love, be, surprised
+I:9643;1559;wife, have, enjoy, movie, several, time, purchase
+I:9643;1560;be, fantastic, actor, remember, other, movie, ring
+I:9643;1561;good, entertainment, lot, action
+I:9643;1562;story, be, true, be, be, embellish
+I:9643;1563;father, be, powerful, man, ask, son, protect, innocent, die, certain, take, power, holy, city
+I:9643;1564;film, explore, root, muslim
+I:9643;1565;heaven, come, director
+I:9643;1566;movie, be, historic, epic, highest, caliber, fill, fantastic, score, breath
+I:9643;1567;take, visual, great, acting, beautiful, relevant, story
+I:9643;1568;capture, legendary, muslim, general, ad
+I:9643;1569;din, know, west
+I:9643;1570;backdrop, tumultuous, time, history, serve, produce, dramatic, passionate, look, event, affect, day
+I:9643;1571;heart, be, small, personal, story, context, huge, event
+I:9643;1572;time, blacksmith, find, kingdom, heaven, be, own, deed, choice, play, crucial, role, event, larger
+I:9643;1573;balian, serve, wise, tolerant, man, know, peace, be, practical, be, outnumber, moral, duty
+I:9643;1574;king, struggle, control, fanatic, lead, man, hungry, glory, power, riches, renegade, mad, be, bloodthirsty, genocidal
+I:9643;1575;saladin, wise, enlighten, ruler, have, unite, single, force, political, military, prowess
+I:9643;1576;be, tolerant, man, maintain, uneasy, peace, religious, zealot, side, cry, blood
+I:9643;1577;story, be, large, accurate
+I:9643;1578;character, such, be, fictionalize, trivial, way, fit, storyline, larger, event, atmosphere, be, portray
+I:9643;1579;tell, greater, truth, explore, role, religion, symbolism, human, conflict, constant, struggle, tolerance, intolerance, make, difference, own, choice, attitude
+I:9643;1580;special, effect, be, top, notch, cinematography, be, excellent
+I:9643;1581;heaven, have, finest, camera, work, movie, add, terrific, script, intelligent, dialogue
+I:9643;1582;larger, story, be, story, simple, man, pilgrimage, absolve, sin, find, answer, question, life, manage, do, great, thing, find, new, beginning, help, defenseless, see, world, clearer, eye
+I:9643;1583;end, cycle, violence, tragedy, be, begin, be, today, be, able, start, life, be, able, live, life, peace, knowledge, kingdom, heaven, be
+I:9643;1584;love, huge, passionate, explorative, film, respect, complexity, real, world, give, urge, tell, side, story, give, movie, look
+I:9643;1585;anyone, look
+I:9643;1586;craft, modern, epic, fill, action, intelligence, meaningful, commentary, motivation, drive, man, fight, movie, be
+I:9643;1587;be, nice, feature, pop, information, bubble, movie, point, production, decision, relevant, historical, gripe, point, particular, scene
+I:9643;1588;be, quintessential, epic, film
+I:9643;1589;harken, many, epic, motion, picture
+I:9643;1590;provide, solid, performance
+I:9643;1591;costuming, extra, bring, age, crusade, life
+I:9643;1592;anyone, appreciate, epic, film, recreation, history, enjoy, film
+I:9643;1593;think, do, diskkingdom
+I:9643;1594;be, movie, own
+I:9643;1595;acting, location, costume, story, line, be, awesome, have, twist, historical, person, event, place
+I:9643;1596;hey, entertaining, love
+I:9643;1597;ray, transfer, excellent, absence, extra
+I:9643;1598;movie, everytime, see, notice, something, new
+I:9643;1599;be, go, become, timeless, classic
+I:9643;1600;history, part, love, story, part, religion, part, war, do, want, movie, drama, action, love, history
+I:9643;1601;cut, be, something, special
+I:9643;1602;director, cut, have, be, favorite, film, hand
+I:9643;1603;be, wonderful
+I:9643;1604;film, reach, grab, way, theatrical, cut
+I:9643;1605;character, be, rich, full, several, plot, point, carry, more, weight, have, be, give, greater, context
+I:9643;1606;like, theatrical, cut, see, version, see, want
+I:9643;1607;fact, be, disc, set, extra, be, informative, entertaining, help, bit
+I:9643;1608;be, epic, film
+I:9643;1609;do, do, box, office, gargantuan, budget, film, be, worth, see
+I:9643;1610;director, cut, reinstate, minute, important, scene, add, impact, film
+I:9643;1611;come, pack, hour, special, feature
+I:9643;1612;text, commentary, stream, consist, production, historical, note, synchronous, film, interactive, production
+I:9643;1613;show, mettle, sure, hand, action, film, full, violent, spectacular, scene, melee, be, forte
+I:9643;1614;most, say, be, greater, flick, previous, enjoy, historical, connection, event, present, past, film, story, seem, realistic, have, happen, do
+I:9643;1615;performance, be, excellent, think, do, decent, job, role, competition, guy, play, do, know, name, bring, convincing, study, intensity, role, have, work, cut
+I:9643;1616;employ, overused, word, battle, be, awesome, reminscent, opening, scene
+I:9643;1617;think, part, be, accurate, interesting
+I:9643;1618;unfold, event, action, control, pace, movie, sure, hand, final, climactic, scene
+I:9643;1619;fine, film, worth, see, big, screen
+I:9643;1620;think, be, savvy, shopper
+I:9643;1621;have, return, anything, be, wonderful, experience
+I:9643;1622;receive, movie, late, evening
+I:9643;1623;think, have, order, blue, ray, extend, director, cut, disc
+I:9643;1624;be, second, time, watch, movie, original, theatrical, release, enjoy, more, first, time
+I:9643;1625;director, make, real, effort, be, faithful, historical, cultural, setting
+I:9643;1626;priest, mentor, character, give, sound, wise, spiritual, advice
+I:9643;1627;put, imagination, work, move, anachronism
+I:9643;1628;place, criticism, director, force, enjoy, movie, be, defend, city
+I:9643;1629;film, be, grand, scope, cut, make, impressive
+I:9643;1630;be, best, film, great, film, black, hawk, down, be, praise
+I:9643;1631;be, part, story, do, see, original, cut
+I:9643;1632;enjoy, cut
+I:9643;1633;least, audience, be, able, watch, be, mean, be, show
+I:9643;1634;people, be, save, son, cunning, kindness
+I:9643;1635;like, interpretation, balian
+I:9643;1636;have, act, career, continue, take, part, require, act
+I:9643;1637;do, good, job, overall, period, piece, crusade, give, movie, half, star
+I:9643;1638;be, worth, sit, be, do, costume, scenery, major, event, be, accurate
+I:9643;1639;choice, lead, character, be, good, part, be, treat, history, book, be, respect, royal, court
+I:9643;1640;rest, story, be, true
+I:9643;1641;story, be, weave, actual, fact
+I:9643;1642;get, film, r, rating, see
+I:9643;1643;be, bad, guy, court, hold, story
+I:9643;1644;want, something, be, entertaining, theme, be, good, choice
+I:9643;1645;do, act, film, prove, be, more, eye, candy
+I:9643;1646;be, excellent, balian, father
+I:9643;1647;trust, be, interesting, character
+I:9643;1648;enjoy, movie, be
+I:9643;1649;be, rendition, fall, tell, best, entertaining, way
+I:9643;1650;take, consideration, enjoy, film
+I:9643;1651;great, movie
+I:9643;1652;help, understand, time, movie
+I:9643;1653;moslem, be, good, best, get, roman, tail
+I:9643;1654;script, story, be, light, brush, stroke, have, potential, be, lovely, colorful, canvas
+I:9643;1655;be, many, enjoy, special, effect
+I:9643;1656;movie, one, have, love, hate, religion, action, sex, intrigue
+I:9643;1657;have, see, story, be
+I:9643;1658;be, excellent, storyteller
+I:9643;1659;see, more, kind, movie, future
+I:9643;1660;time, little, stiff, gloss, detail, find, be, educational, show, plight, religious, difference, similarity, haunt, region, day, issue, travel, necessity, life, water, touch, entertaining, view, be, possible, man, rise, rigor, daily, life, lack, education, show, action, make, shortcoming, person
+I:9643;1661;good, exist, man, do, little, bad, greater, good
+I:9643;1662;believe, give, gray, world
+I:9643;1663;balian, motive, be, simple, enough, seek, forgiveness
+I:9643;1664;do, best
+I:9643;1665;film, have
+I:9643;1666;enjoy, leper, king, steely, eyed, wise
+I:9643;1667;be, good, action
+I:9643;1668;film, do, good, job, end, begin, lesson, have, be, learn, least, man
+I:9643;1669;see, theater, be, half, dozen, people
+I:9643;1670;give, half, star
+I:9643;1671;like, see, decide, order
+I:9643;1672;be, red, plastic, piece, right, side
+I:9643;1673;disc, be, good
+I:9643;1674;slice, history, detail, be, make, movie, be, enlighten, struggle, continue, part, world, today
+I:9643;1675;love, background, feature, addition, story, son, change, whole, film
+I:9643;1676;money, enjoy, version, theatrical, release
+I:9643;1677;be, little, bloody, man, life, seem, enjoy
+I:9643;1678;be, history, buff, be, thrill, story, period, costume, scenery, have, many, question, character
+I:9643;1679;discover, magnificent, cut, get, answer
+I:9643;1680;move, heart, leave, soul, full
+I:9643;1681;character, development, respect, have, depth, richness
+I:9643;1682;believe, part, movie, develop, character, lead, complex, interaction, balian
+I:9643;1683;film, give, opportunity, share, feeling, anguish, guilt, feel
+I:9643;1684;be, movie, version, be, part, film, history, scope, range, feeling
+I:9643;1685;be, great, movie
+I:9643;1686;costume, scenery, set, be, awesome, feel, be, time, period
+I:9643;1687;character, be, interesting, leper, king, mask
+I:9643;1688;story, be, good, keep, draw, screen, whole, hour, do, feel
+I:9643;1689;be, beautiful, movie
+I:9643;1690;enjoy, be, glory
+I:9643;1691;be, genius, modern, cinema
+I:9643;1692;rate, movie, star
+I:9643;1693;story, have, love, ideal, happy, ending.
+I:9643;1694;like, be, best, film
+I:9643;1695;opinion, be, underrated, item, have, come
+I:9643;1696;be, favorite, movie, time, receive, little, attention
+I:9643;1697;extra, scene, explain, story
+I:9643;1698;movie, be, steal, picture, look, good
+I:9643;1699;be, interested, history, action, movie, be, movie, check
+I:9643;1700;throw, theatrical, release, window, sell, blockbuster, definitive, cut
+I:9643;1701;character, be, convincing, flashpoint, story, character, make, more, sense
+I:9643;1702;have, give, know, be, do, have, make, film, classic, least
+I:9643;1703;be, favorite, film
+I:9643;1704;beautiful, movie, be, rip, shred, editing, demand, american, movie, industry
+I:9643;1705;director, cut, restore, integrity, rich, depth
+I:9643;1706;story, be, little, embellished, be, worth, get, close, personal, feel, moral, dilemma, era
+I:9643;1707;be, great, movie, rival, anything, produce, past, year, recommend, everyone
+I:9643;1708;have, watch, movie, countless, time, storyline, be, great, battle, scene, be, grip, awesome, movie, overall
+I:9643;1709;be, movie, excel, first, category, languish, second
+I:9643;1710;be, favorite, director, time, hear, be, do, movie, crusade, be, excite
+I:9643;1711;directorial, hand, be, sharp, do, great, job, turn, bland, believable, lead, man
+I:9643;1712;reason, like, type, movie, be, accurate, clash, christian, worldview, be, take, time, human, history, have, be, give, vivid, portrayal, life, be, period, early, crusade, brutality, beauty, piece, human, history, entail
+I:9643;1713;be, message, movie, nutshell, live, accord, conscience, put, be, superior, live, accord, fanatical, religious, creed
+I:9643;1714;kingdom, heaven, title, be, refer, kingdom, conscience
+I:9643;1715;be, commit, live, peace, prayer, sound
+I:9643;1716;priest, bishop, pope
+I:9643;1717;director, cut, be, better
+I:9643;1718;love, come, watch, several, time
+I:9643;1719;contain, entire, hour, scene, entire, sub
+I:9643;1720;director, cut, be, definitive, version, film, contain, entire, sequence, film, be, necessary, appreciate, character, motive, plot, twist, film
+I:9643;1721;recommend, version, film, anyone, enjoy, original
+I:9643;1722;like, theatrical, version, love, director, cut
+I:9643;1723;director, cut, be, great, movie, fill, miss, piece
+I:9643;1724;note, wonder, version, watch, go
+I:9643;1725;strong, visual, contemplative, theme, epic, scope, fantastic, casting, be, present, screen
+I:9643;1726;time, reach, level, detail, visual
+I:9643;1727;say, film, be, visual, be, problem
+I:9643;1728;hit, park, do
+I:9643;1729;man, have, do, be, consider, absolute, best
+I:9643;1730;result, see, find, dc, be, better, film, be, theatrical, release
+I:9643;1731;ray, first, title, format, stellar, review
+I:9643;1732;acknowledge, previous, work, be, classic, feel, be, director, best, film
+I:9643;1733;sheer, ambition, craftsmanship, make, great, film, watch, piece, come, place, be, sight, beauty
+I:9643;1734;gorgeous, camera, work, lavish, set, costume, design, excellent, performance, strong, pacing, be, thoughtful, message, strike, cord, most, epic, size, fail, do
+I:9643;1735;be, charming, seductive, be, something, happen, smile
+I:9643;1736;scale, film, be
+I:9643;1737;pacing, film, hour, run, time, be, top, notch
+I:9643;1738;top, character, be, vital, plot, great, character, development, balance
+I:9643;1739;be, thanks, part, sharp, writing, provide, depart, be, first, script, less
+I:9643;1740;speech, end, come, rouse, little, bit, encouraging, face, death
+I:9643;1741;start, charming, mysterious, princess, first, half, turn, tragic, figure, second, world, start, crumble
+I:9643;1742;be, something, aura, surround, be, commanding, gentle, right, way
+I:9643;1743;other, end, equation, provide, great, support, role, ruthless
+I:9643;1744;fierce, charismatic, performance, be, display, provide, respectful, performance, historical, figure, have, see
+I:9643;1745;go, film, other, great, performer, support, role, wise, sort, entertaining, role, time, do, turn, review, something, tangent, move, next, part, film, production, design
+I:9643;1746;single, detail, film, be, put, frame, lavish, direction
+I:9643;1747;create, brilliant, vista
+I:9643;1748;outstanding, thing, film, be, usage, practical, effect, cg
+I:9643;1749;cg, be, use, spot, city, massive, siege, happen, film, climax, boat, attempt, sail, roar, wave, practical, effect, stand, tall
+I:9643;1750;scene, be, exquisite, watch
+I:9643;1751;make, mistake, film, earn, be, r, rating
+I:9643;1752;sound, play, big, part, be, snuff
+I:9643;1753;score, be, epic, grand, personal, subtle
+I:9643;1754;help, highlight, key, moment, compliment, think, score, be, outshine, film, usage, fair, amount, licensed, music
+I:9643;1755;start, time, film, come, deliver, rich, performance
+I:9643;1756;think, get, job, do, character, development, be, enough, give, pass
+I:9643;1757;feel, satisfied, take
+I:9643;1758;be, delicate, respectful, approach, period, take, place, be, nothing, short, outstanding, couple, great, production, design, action, music, script, casting
+I:9643;1759;much, doubt, make, film, excellent, continue, welcome, come
+I:9643;1760;scenery, be, beautiful, have, moment, be, better, movie
+I:9643;1761;epic, long, film, be, worthy, be, collection
+I:9643;1762;wonder, be, accurate
+I:9643;1763;special, effect, be, real
+I:9643;1764;love, movie, time, favorite, watch, have, historical, content
+I:9643;1765;be, favorite, movie, time
+I:9643;1766;music, effect, be, amazing
+I:9643;1767;be, excellent
+I:9643;1768;show, handle, play, lead, role
+I:9643;1769;movie, have, other, famous, star
+I:9643;1770;give, impressive, performance, do
+I:9643;1771;king, be, amazing
+I:9643;1772;have, lot, touching, scene
+I:9643;1773;think, be, good, movie
+I:9643;1774;think, be, brilliant, director
+I:9643;1775;make, many, good, movie
+I:9643;1776;term, king, battle, hattin, be, best, part, movie
+I:9643;1777;be, have, top, epic, movie, be, top, list, follow
+I:9643;1778;ray, be, go, collection, great, price
+I:9643;1779;movie, be, lot, better, good, gladiator, seem, be, sexy, tale, middle
+I:9643;1780;turn, man, spare, be, son, king, man, continue, do, favor, other, movie
+I:9643;1781;bloom, end, catch, eye, marry, sister, local, king
+I:9643;1782;be, excellent, battle/siege, castle, scene, good, ring, other, movie, genre
+I:9643;1783;bloom, make, excellent, hero, seem, make, impossible, happen
+I:9643;1784;like, movie
+I:9643;1785;have, way, epic, battle, scene, do, display, brutality, call, holy, war
+I:9643;1786;film, heroic, scope, be, misfire, gate, suffer, extravagance
+I:9643;1787;be, noble, dramatization, leader, conscience, have, play, crusade, seige
+I:9643;1788;moral, religious, philosophical, approach, hold, something, everyone, appreciate
+I:9643;1789;watch, movie, dozen, time, watch
+I:9643;1790;favorite, time, movie
+I:9643;1791;have, many, favorite, actor, tell, great, tale, only
+I:9643;1792;view, movie, know, be, direct, play, part, find, whole, new, appreciation, film
+I:9643;1793;film, work, be, superb, sound, be, supportive, be, happen, screen
+I:9643;1794;be, purpose, add, overall, scope, movie
+I:9643;1795;full, resolution, open, cinematic, detail, film, sound, be, crystal, clear, detailed
+I:9643;1796;reserve, star, dozen, film, be, more, particular, film, have, affect
+I:9643;1797;fare, version, make, character, come, alive
+I:9643;1798;recommend, director, cut, opinion, be, best, have, make
+I:9643;1799;seem, make, realistic, dramatic, intense, scene, be, advance, plot, be, artificial, representative, people, behave, real, life
+I:9643;1800;movie, greatest, strength, be, direction
+I:9643;1801;battle, scene, be, excellent, forest, fight, beginning, remind, viewer, opening, battle, siege, siege, tower, catapult, cast, thousand
+I:9643;1802;costume, set, be, realistic
+I:9643;1803;history, buff, be, joy, have, such, versimiltude
+I:9643;1804;scene, recall, see, beat
+I:9643;1805;be, great, attention, detail
+I:9643;1806;be, nice, touch, subdue, movie, have
+I:9643;1807;mute, hero, balian, lady, love, interest, come, ride, scene, bright, clothes, lower, veil, expose, beautiful, intellgent, face
+I:9643;1808;other, side, be, brief, scene, character, approach, great, muslim, general, remind, promise, take
+I:9643;1809;be, writer, real, task, tell, be, past, friend, be, side, story
+I:9643;1810;drama, movie, keep, go, wait, see, end
+I:9643;1811;get, be, tragic, epic, look, bloody, history, crusade, be, ravage, violence, perpetrate, name, religion, unique, character, study, interesting, deep, character
+I:9643;1812;cast, be, tremendous, good, performance, be, support, role, include
+I:9643;1813;romance, be, fictional
+I:9643;1814;have, wife, child
+I:9643;1815;focus, clash, faction, wish, live, peace, want, war
+I:9643;1816;constant, struggle, have, be, generation, learn, live, fanatic, new, arrival, trickle, want, remove, holy, site, be, theme, come, film
+I:9643;1817;political, religious, theme, be, thoughtful, instructive, be, captivating, widescreen
+I:9643;1818;dub, be, available, french, spanish
+I:9643;1819;think, do, excellent, job
+I:9643;1820;think, be, excellent, actor
+I:9643;1821;have, great, moment, story, end
+I:9643;1822;negative, find, interested, film
+I:9643;1823;cinematography, be, excellent
+I:9643;1824;be, good, news
+I:9643;1825;background, costume, feel, authentic
+I:9643;1826;arrive, find, liberating, world, christian, live, heart, world
+I:9643;1827;be, core, be, human, consciousness, do, right, thing
+I:9643;1828;negotiation, be, true, instance, phrase, like, will
+I:9643;1829;movie, be, film, have, exciting, battle, scene, be, perform
+I:9643;1830;be, extraordinary, blacksmith, live
+I:9643;1831;brief, swordfighting, lesson, be, able, defeat, man, have, train, boyhood, be, warrior
+I:9643;1832;have, ability, bond, royalty, be, offer, kingship
+I:9643;1833;insulting, be, easy, painless, heck, be, christian, go, do
+I:9643;1834;think, page, research, good, movie, be
+I:9643;1835;best, film, see, generation, show, side, religion, consider, important
+I:9643;1836;flex, visual, muscle, shine, overwhemle, battle, sequence, aid, sweeping, camerawork, forceful, editing, be, craft, extraordinary, skill
+I:9643;1837;commit, cardinal, sin, epic, moviemaking, let, story, play, second, chair, own, visual, splendor
+I:9643;1838;get, golden, oppurtunity, spoil, presence, admire, sister, take, liking
+I:9643;1839;film, be, flaw, do, mean, have, plenty, go
+I:9643;1840;stage, battle, scene, muscular, verve, sieging, be, spectacular
+I:9643;1841;be, bless, great, supporting, cast
+I:9643;1842;strength, be, peripheral, main, plotline
+I:9643;1843;credit, give, role, everything, be, get, try, register, look, feel, man, catch, extraordinary, circumstance, do, have, act, chop, need, pull
+I:9643;1844;be, expect, great, movie, base, subject, matter, director
+I:9643;1845;enjoy, scenery, set
+I:9643;1846;many, scene, be, interesting, .2
+I:9643;1847;character, be, fascinating, interpretation, real
+I:9643;1848;enjoy, scene, be, keep, interested, .4
+I:9643;1849;good, large, scale, battle
+I:9643;1850;interesting, one, be, kill, many, rest, be, caricature
+I:9643;1851;everthing, go, way, day, think, be, great, first, sight, fall, love, first, sight, first, day, make, friend, 2nd, powerful, muslim, area
+I:9643;1852;give, wide, latitude, action, film, be, top, .4
+I:9643;1853;extend, version, be, best
+I:9643;1854;bring, certain, character, full, circle
+I:9643;1855;know, be, factual, account, enjoy, story, line
+I:9643;1856;version, enjoy, give, back, ground, father
+I:9643;1857;have, original, version, buy
+I:9643;1858;have, see, countless, time, enjoy, movie
+I:9643;1859;be, worry, do, think, carry, movie, do, fantastic, job
+I:9643;1860;get, past, picture, elf, ring, see, new, respect, talent
+I:9643;1861;music, directing, act
+I:9643;1862;great, film, lover, history
+I:9643;1863;buy, gift, daughter
+I:9643;1864;be, huge, fan
+I:9643;1865;have, see, movie, year, old, daughter, say, be, good, have, watch, couple, time
+I:9643;1866;surprise, manage, grow, second, movie, portray, real, unwilling, hero, be, happy, take, casting, manage, project, strength, pain, voice, get, love, character
+I:9643;1867;story, be, astounding, casting, have, be, new, inspire, performance, show, part, history, know, time, be, important, peace, armistice, respect, great, kingdom, great, man, religion
+I:9643;1868;think, movie, be, see, learning, experience, entertainment, action, be, big, ingredient, story
+I:9643;1869;recommend, praise, story, manage, create, beautiful, gorgeous, striking, world, movie, help, remarkable, writer
+I:9643;1870;be, take, care
+I:9643;1871;minute, add, turn, decent, flat, masterpiece
+I:9643;1872;case, be, beautiful, extra, run, hour, end, film, be, be, show, way, be, mean, be
+I:9643;1873;do, like, gladiator, orlando, bloom, have, like, movie, beginning, or, end, be, perfect
+I:9643;1874;much, interest, come, way
+I:9643;1875;cut, be, few, sunset, add, minute, guy, ride, horse, spectacular, scenery
+I:9643;1876;add, material, fact, give, lot, more, plot, agree, have, be, remove
+I:9643;1877;characterisation, depth, receive, add, material, make, richer, rewarding, movie
+I:9643;1878;part, seem, little, contrived, acting, be, first, class, match, first, class, cast
+I:9643;1879;be, thorough, respects, include, support, material, other, disc
+I:9643;1880;be, excellent, movie, version, package, be, worth, get
+I:9643;1881;make, mistake, be, great, movie
+I:9643;1882;know, be, sketchy, best, course, view, skew, perspective
+I:9643;1883;custom, movie, explain, commit, suicide, soul, find, way, heaven
+I:9643;1884;bloom, performance, be, excellent, picture, bearded, young
+I:9643;1885;king, regent, leprous, king, sister, balian, love, interest
+I:9643;1886;be, first, movie, have, see, lovely, saucy, performance, erotic
+I:9643;1887;enjoy, view, be, nice, see, clothed, move, bigger, thing
+I:9643;1888;cast, overall, be, magnificent, be, imaginative, battle, scene
+I:9643;1889;colorful, costuming, be, spectacular, set, be, superb
+I:9643;1890;give, viewer, true, feeling, scope, majesty
+I:9643;1891;ray, picture, sound, be, experience
+I:9643;1892;say, be, best, blu, ray, film, available, date
+I:9643;1893;do, film, be, spectacular, realistic
+I:9643;1894;reason, rate, film, worth, see
+I:9643;1895;be, make, blood
+I:9643;1896;be, decent, number, medeival, style, movie, be, good
+I:9643;1897;cut, add, solid, amount, character, development, set, stage, people, act, way, do, be, important, movie, grand, epic, tale
+I:9643;1898;add, scenes/footage, be, neccessary, edit, be, whole, time
+I:9643;1899;enjoy, extra, time, give, prevalent, back
+I:9643;1900;storyline, be, do, doesnt, have, major, hole
+I:9643;1901;be, believable, do, care, fortune, film, go
+I:9643;1902;tough, situation, be, handle
+I:9643;1903;wouldnt, say, be, material, anything, get, job, do
+I:9643;1904;unaccredited, role, be, fantastic, feel, guy
+I:9643;1905;take, make, care
+I:9643;1906;play, be, terrific, convincing, master, leader, motivator, heart
+I:9643;1907;cast, played!the, princess, sp
+I:9643;1908;get, lot
+I:9643;1909;story, help, lot, theatrical, cut, show, start, sleep, balian
+I:9643;1910;know, deal, appreciate
+I:9643;1911;rest, cast, be, solid, do
+I:9643;1912;be, act, movie, good, character, character, development
+I:9643;1913;movie, get, bad, rap, box, office, think, be, worth, watch, interested, era
+I:9643;1914;character, be, think, entice
+I:9643;1915;better, movie, have, see
+I:9643;1916;product, be, new, perfect!i, be, happy, have, order, vendor
+I:9643;1917;cut, be, worth, watch, keep, personal, library, medieval, cinema, fan, look, real, historic, epic, film
+I:9643;1918;movie, be, close, real, time, scenario, custom, show, ideal, corruption, knight, people, state, church, kingdom, irony, call, holy, war
+I:9643;1919;be, greatest, movie, create, perfect, tale, french, man, stand, belief, people, 2nd, crusade
+I:9643;1920;flawless, sound, be, superber
+I:9643;1921;good, great, film
+I:9643;1922;orlando, do, good, job
+I:9643;1923;lovely, movie, fact, people, fight, ebven, do, holy, land, fight, fight, day, use, be, upkeep, peace, sanctity, jerusalem, uproot, ridley, scott, do, justice, be, know, like, way, play, part, message, need, be, deliver
+I:9643;1924;be, film, need, caveat, opening, sequence, base, event, suggest, crusade
+I:9643;1925;be, impressive, have, quirky, performance, manage, send, several, message, importance, symbol, meaning, honor, courage
+I:9643;1926;performance, be, strong, role, have, cancerous, skin, condition, be, kill
+I:9643;1927;addional, footage, make, whole, new, movie
+I:9643;1928;explain, tie, village
+I:9643;1929;story, direction, be, course, good
+I:9643;1930;have, be, honest
+I:9643;1931;set, be, amazing, storyline, be, great
+I:9643;1932;interest, history, be, pique, recommend, movie
+I:9643;1933;be, great, movie, deserve, do, lot, box, office
+I:9643;1934;think, wimp, exceptional, performance, movie
+I:9643;1935;bad, guy, be, develop, hatable
+I:9643;1936;production, be, class, own, be, arrangement, dts, mix
+I:9643;1937;bang, sound, let, say, extra, bit, second, do, show
+I:9643;1938;love, taste, be, bologna
+I:9643;1939;movie, be, good, many, aspect, have, be, better
+I:9643;1940;come, summer, movie, have, big, name, star, most, summer, crop
+I:9643;1941;other, role, be, play, part
+I:9643;1942;take, place, be, movie, have, be, fill, grand, scene, terrain, area, such, lush, forest, expansive, desert, rocky, mountain
+I:9643;1943;fourth, be, action, scene
+I:9643;1944;be, amazing, respect, grand, chaotic, bloody, realistic, grim, sweat, dust, cover, troops, side
+I:9643;1945;movie, character, start, blacksmith, happen, make, sword, end, display, impressive, combat, skill
+I:9643;1946;good, movie, hour, watch
+I:9643;1947;extend, version, be, amazing
+I:9643;1948;be, film, excellent, extra, feature, be, extensive, interesting
+I:9643;1949;be, best, film, be, look, epic, sweep, tale, large, scale, battle, picturesque, scenery
+I:9643;1950;lady, love, bloom, screen, guy, appreciate, fact, be, bit, be
+I:9643;1951;fact, fit, profile, action, hero, film
+I:9643;1952;film, impress, be, guarantee
+I:9643;1953;fantastic, story, self, discovery, courage, spectacular, battle, scene, end, have, glue, screen
+I:9643;1954;pop, store, pick, spend, hour, enjoy, masterful, do, come
+I:9643;1955;invest, good, history, book, let, imagination, run, wild
+I:9643;1956;have, great, storyline, overall
+I:9643;1957;battle, scene, be, superb, orlando, bloom, do, perfect, job, portray, leader, kingdom, end, movie
+I:9643;1958;soundtrack, movie, didnt, keep, attention, best
+I:9643;1959;overall, be, great, movie
+I:9643;1960;excellent, film, good, crusade, point, view, young, man, go, holy, land, redemption
+I:9643;1961;blow, raspberry, love, film, great, acting, great, effect, great, setting
+I:9643;1962;lot, thing
+I:9643;1963;director, writer, want, thrilling, story, get, keep, attention, be, glad, take, creative, license, be, movie, want, be
+I:9643;1964;hope, enjoy, t
+I:9643;1965;movie, bring, essence, true, knight/warrior, be
+I:9643;1966;tone, film, be, enhance, main, character, be, religious, film, dissuade, viewer, take, side, create, demonized, enemy, mesh, human, being, be, human
+I:9643;1967;have, expression, entire, film, be, surround, great, actor, make, look
+I:9643;1968;have, see, convincing, performance, understand, be, popular
+I:9643;1969;romance, be, copy, paste
+I:9643;1970;tell, familiar, tale, admit, timeliness, film, be, least, interesting
+I:9643;1971;actor, be, great
+I:9643;1972;be, fascinating, have, read, good, deal, crusade, history, enjoy, retelling
+I:9643;1973;delete, scene, enlarged, tell, relationship, son, make, great, deal, historical, sense
+I:9643;1974;like, little, documentary
+I:9643;1975;be, worth, price
+I:9643;1976;be, awesome, historical, event, capture, major, movie, do, belong
+I:9643;1977;rest, cast, be, brilliant
+I:9643;1978;enjoy, movie
+I:9643;1979;be, great, deal, action, character, development
+I:9643;1980;cinematography, be, excellent
+I:9643;1981;regard, actor, play, important, role, film
+I:9643;1982;be, be, good
+I:9643;1983;be, couple, cool, clich, scene
+I:9643;1984;view, version, see, be, good, movie, order, director, cut
+I:9643;1985;be, top, fav, movie, time
+I:9643;1986;movie, be, morality, play, be, excellent, morality, play
+I:9643;1987;be, essence, true, knight, incarnate
+I:9643;1988;be, brave, upright, love
+I:9643;1989;move, man, father, claim, son, remember, move, be, man, power, soul, be, keep
+I:9643;1990;be, morality, play, be, last, time, see, true, morality, exalted, play
+I:9643;1991;find, refreshing, inspiring
+I:9643;1992;ray, costume, jump, leper, mask, set, structer, look, be, sound, say, be, superior, have, blu
+I:9643;1993;excellent, historical, piece, interested, event, 3rd, crusade, be, worthwhile, effort
+I:9643;1994;background, balian, have, be, fictionalize, historical, tech, be, excellent, portrayal, key, historicfigure
+I:9643;1995;be, master, camera, film, be, exception
+I:9643;1996;win, image, classic, painting
+I:9643;1997;be, superior, original, version, fill, many, hole, story, line
+I:9643;1998;direct, film, be, beautiful, look, detailed, interesting, historical, context, dramatic, panorama
+I:9643;1999;do, credible, job, most, support, cast, be, exceptional
+I:9643;2000;good, performance, stumble, film, create, imbalance, flow, story
+I:9643;2001;do, make, whole, lot, sense, have, share, enjoyable, scene
+I:9643;2002;read, recent, review, realize, view, theatrical, version, find, stunning
+I:9643;2003;be, real, figure, real, history, be, interested
+I:9643;2004;pacing, be, good, agree, theatrical, version, use, more, character, development, look, director, cut, bear, stamp, reach, gut, pull, stamp, ethical, message
+I:9643;2005;movie, make, sense
+I:9643;2006;incredible, seem, have, better, film, be, release
+I:9643;2007;be, interesting, watch, paint, set
+I:9643;2008;phrase, religion, tolerance, abound, film, be, welcome
+I:9643;2009;history, king, be, memorable, character
+I:9643;2010;be, film, spectacle, political, allegory
+I:9643;2011;be, accomplish, feat, turn, fanaticism, cause, religion, resort, understand, importance, free, will, make, right, choice, preserve, moral, conciseness
+I:9643;2012;act, cinematography, acting, be, convincing, entire, cast, support, actor, involve
+I:9643;2013;set, location, be, awing, become, focal, point, make, film, hour, journey, pure, eye
+I:9643;2014;be, gorgeous, landscape, impressive, costume, design, appear, be, true/accurate, time, period
+I:9643;2015;example, cut, be, make, middle, fight, scene, end, showing, aftermath
+I:9643;2016;plot, pacing, character, development, be, improve
+I:9643;2017;scene, do, seem, make, much, sense, be, understand, great, clarity
+I:9643;2018;film, story, be, epic, scale, vision
+I:9643;2019;be, glue, seat, entire, time, be, more, several, occasion, utter, word, wow
+I:9643;2020;rate, effect, gorgeous, production, design, iconic, be, something, miss
+I:9643;2021;be, best, player, story
+I:9643;2022;faithful, general, servent, support, role, add, feel, film
+I:9643;2023;enjoy, movie, be, great, adventure, watch
+I:9643;2024;movie, do, great, job, duplicate, excitment, have, engender
+I:9643;2025;be, fact, nachtmare
+I:9643;2026;please, please, please, do, think, be, way, actual, history, sort, fair, middling, approximation
+I:9643;2027;prove, be, cover, dirt
+I:9643;2028;be, prettiest, person, movie
+I:9643;2029;step, female, role
+I:9643;2030;be, good, movie, like, story, take, place, crusade
+I:9643;2031;let, prime, say, be, superior, original, have, reservation, be, go, watch, film, cut, be, way, go
+I:9643;2032;additional, footage, documentary, featurette, be, worth, watch, be, interested, film, filmmaking, process
+I:9643;2033;be, interested, learn, more, have, decent, rundown, inaccuracy
+I:9643;2034;come, islamic, religion, extreme, amount, respect, reverence, be, offer, team
+I:9643;2035;give, muslim, prayer, plenty, face, time, film, shoot, christian, look
+I:9643;2036;additional, documentary, footage, reveal, much, view, islamic, religion
+I:9643;2037;instance, remark, interview, want, portray, religion, much, respect, reverence, possible, clarify, islamic, religion
+I:9643;2038;grandiose, scale, set, costume, make, film, worth, watch
+I:9643;2039;anything, get, good, idea, feel, medieval, time, costume, set
+I:9643;2040;be, worth, time, watch, featurette, provide, insight, huge, effort, involve, create, numerous, costume, epic
+I:9643;2041;weapon, design, team, do, fabulous, job, step, lord, ring, awesome, non
+I:9643;2042;special, effect, compare, ring, be, notch, technical, battle, scene, vast, army, be, impressive
+I:9643;2043;recommend, movie, anyone, enjoy, great, action, sequence, offer, plenty, eye, candy
+I:9643;2044;score, score, write, conduct
+I:9643;2045;william, be, fitting, enchanting
+I:9643;2046;music, outweigh, theatrical, release, cut, seem, blend
+I:9643;2047;be, bigger, flop, history, consider, be, acclaimed, action, director, time
+I:9643;2048;be, minute, presentation, team, package, dialogue, numerous, failing, theatrical, release, be, worth, watch, team, offer, invaluable, insight, disappointment, propriety, involve, marketing, cut, movie
+I:9643;2049;better, luck, next, time
+I:9643;2050;movie, be, recommend, friend, be, staunch, evangelical, be, expect, see, lot, speak
+I:9643;2051;turn, be, action, pack, movie, present, glimpse, genesis, today, religious, conflict
+I:9643;2052;enjoy, bit
+I:9643;2053;real, hero, be, enlightened, pagan, best, syncretistic, pelagian, show, real, man, do, need, useless, trappings
+I:9643;2054;religion, matter
+I:9643;2055;order, become, real, good, man
+I:9643;2056;be, better, place, everyone
+I:9643;2057;be, gateway, heaven
+I:9643;2058;willful, ignorance, be, obscene, bliss
+I:9643;2059;be, talk, movie, be, excellent, accurate
+I:9643;2060;have, great, act, true, story, line, lot, junk, see, today
+I:9643;2061;short, have, see, pick, love
+I:9643;2062;music, be, exceptional, haunting
+I:9643;2063;great, acting, criticise, anything, say, be, bit, young, part, play
+I:9643;2064;think, be, more, fair, side, conflict
+I:9643;2065;director, cut, be, epic
+I:9643;2066;fill, lot, back
+I:9643;2067;movie, director, cut, be, worth, check
+I:9643;2068;score, be, compelling, fitting, mood
+I:9643;2069;moral, obligation, character, be, drive, honest, desire, do
+I:9643;2070;great, battle, sequence, be, violence, spare, viewer, be, spare, vision, beheading, goring, carnage, great, detail, be, bit, blood
+I:9643;2071;battle, be, brilliant, stunning, choreography, general, understanding, war, tactic
+I:9643;2072;love, story, character, refrain, take, woman, love, own, be, marry, queen
+I:9643;2073;be, brief, scene, love, be, good
+I:9643;2074;personal, developement, be, grip
+I:9643;2075;thing, do, like, be, movie, deal, rapid, progression, unrealistic, circumstance, enjoy, movie
+I:9643;2076;entertaining, enlighten, movie, be, good
+I:9643;2077;be, bit, long, take, patience, finish, be, worth, watch
+I:9643;2078;movie, be, view, cinema, second, dic, extra, feature, be, exemplary, instance
+I:9643;2079;be, substantial, documentary, allow, viewer, understand, deeper, crusade, compare, fact, fiction, get, glimpse, thought, reflection, actor, actress, plan, process, production, process
+I:9643;2080;gesture, pick, fall, cross, put, table, be, potent, symbol, respect, tolerance, other, religion
+I:9643;2081;movie, bring, point, people, use, religion, greater, good, people, hide, facade, religion, garner, power, influence
+I:9643;2082;be, remarkable, commandment, be, kill, people, abide, simple, commandment
+I:9643;2083;memorable, movie, anyone, have, collection
+I:9643;2084;be, watch
+I:9643;2085;be, impressed, character
+I:9643;2086;bring, special, link, movie, form, perfect, chain, character
+I:9643;2087;love, epic, grandeur, movie, be, go, make, war, movie, make, side, seem, more, have, kind, complexity, moral, ambiguity
+I:9643;2088;be, kind, child, book, be, enormous, production, worthy, more, thought
+I:9643;2089;be, such, humane, philosophical, wizard
+I:9643;2090;someone, be, able, come, tell, interesting, believable, story, use, real, motive, time, period, character, do, enormous, heap, anti
+I:9643;2091;faith, familial, love, honor
+I:9643;2092;manage, tell, several, story, gratituous, battle, sex, scene
+I:9643;2093;spectacular, moroccan, backdrop, opulent, set, costume, support, ambience, have, be, lose, wash
+I:9643;2094;turn, quiet
+I:9643;2095;pace, intense, portrayal, surface, appear, be, uncomplicated, character
+I:9643;2096;adequate, marketing, finesse, be
+I:9643;2097;see, devotee, classic, epic
+I:9643;2098;be, greek, origin, movie, remind, movie, alien, introduce, new, lifeform, alien, man, breed, human, host, kill, be, come, life
+I:9643;2099;prayer, today, be, people, epic, film, take, history, only, guide, pleasure, entertainment
+I:9643;2100;be, easy, believe
+I:9643;2101;cough, same, spectacular, ambiguous, substance
+I:9643;2102;theology, present, be, inaccurate, side
+I:9643;2103;army, way, fight, captivate
+I:9643;2104;battle, be, accurate
+I:9643;2105;be, brilliant, artist, feature, give, wonderful, look, filmmaking, mind
+I:9643;2106;detailed, historical, feature, be, virtual, smorgasbord, interesting, informative, special, feature
+I:9643;2107;be, perfect, gift, bud, historian, filmmaker, artist, actor
+I:9643;2108;be, question, raise, leave, unanswered, first, time, round, be, answer, director, cut
+I:9643;2109;execute, great, skill, craftsmanship
+I:9643;2110;have, get, personal, interest, history
+I:9643;2111;visual, cinematographic, job, recreate, 12th, century, outline, intrigue, church, enemy, internal, external
+I:9643;2112;nail, grand, theme
+I:9643;2113;view, see, turn, watch
+I:9643;2114;take, ablout, night, watch, do, have, better, understanding, time, history, tie, present, day, issue, other, part
+I:9643;2115;movie, be, excellent, recommend, version, advise, anyone, waste, money, original, version
+I:9643;2116;film, be, accurate, portrayal, event, lead, reconquest, islamic, force, trigger, second, crusade
+I:9643;2117;be, time, extraordinary, event, person
+I:9643;2118;reinsert, minute, narrative, character, exploration
+I:9643;2119;feature, appropriate, musical, score
+I:9643;2120;special, note, be, greater, understanding, character, exploration, crisis, faith
+I:9643;2121;be, masterpiece, envision
+I:9643;2122;have, hard, time, name, politics, do, enjoy, movie
+I:9643;2123;strong, cast, keep, go
+I:9643;2124;be, story, french, ironworker, early, 12th, century, head, find, redemption
+I:9643;2125;impossible, be, impressed, intrigue, see, story
+I:9643;2126;be, story, make, think, be, story, help, learn, critical, piece, history
+I:9643;2127;be, story, entertain
+I:9643;2128;be, grand, work, make, accessible, anyone
+I:9643;2129;kingdom, be, panoramic, epic, suit, enlarged, vista, super, wide, screen
+I:9643;2130;show, best, huge, wide, landscape, city, troops, landscape, proceed, fill, color, detail, power
+I:9643;2131;be, film, piece, find, best, home
+I:9643;2132;ray, format, date, be, able, present, home, set, original, intent, film, look
+I:9643;2133;be, gorgeous, view, much, detail, visual, activity, scene, take, multiple, viewing, take
+I:9643;2134;be, few, film, be, beautiful
+I:9643;2135;mean, have, home, studio, system, experience, superior, audio, presentation, channel, stereo, system, provide, clear, powerful, soundtrack
+I:9643;2136;be, good, thing, musical, composition, piece, be, beautiful
+I:9643;2137;be, multimedia, experience, couple, high, definition, video, blu
+I:9643;2138;course, direct, act, movie, be, first, rate
+I:9643;2139;amazing, work, measure, learn, history, enjoy, story
+I:9643;2140;be, epic, tale, powerful, more, tearjerking, think, provoke, something, be, sure, cast, director, wish, begin
+I:9643;2141;hour, film, be, rare, theatre
+I:9643;2142;see, be, intend
+I:9643;2143;fantastic, film, see
+I:9643;2144;title, state, great, action, good, story
+I:9643;2145;dirctor, cut, be, hour, go
+I:9643;2146;movie, be, good, historical, reference, be, occur, middle, east, time
+I:9643;2147;make, film, crusade, backdrop, war, terror, be, go, be, delicate, business
+I:9643;2148;get, sacrifice, history, entertainment, film, do, ask, viewer, believe, be, watch, real, thing
+I:9643;2149;do, parade, plot, construction, fact, offend, great, many, people, give, sensitivity, subject, matter
+I:9643;2150;such, historical, gymnastics, reveal, misconception, task, face
+I:9643;2151;make, concession, history, include, wild
+I:9643;2152;orientalist, portrayal, pass, chance, explore, complexity, brilliant, kurdish, warrior, statesman
+I:9643;2153;be, void, redeeming, quality, sense, colour, lighting, remain, exquisite, leper
+I:9643;2154;king, evoke, genuine, pathos
+I:9643;2155;recommend, like, watch, time, period, movie
+I:9643;2156;find, movie, worth, watch, like, remind, other, want, whole, story, tell, history, book, do, look, movie, go, more, reliable, source
+I:9643;2157;think, movie, be, interesting
+I:9643;2158;think, intended, message, be, find, fanactic, idiot, find, good, people
+I:9643;2159;be, many, historical, inaccuracy, enjoy, movie, movie
+I:9643;2160;go, see, movie, watch, movie, documentary
+I:9643;2161;foremost, enjoy, original, theatrical, release, see, see, epic, be, intend, be, good
+I:9643;2162;environment, be, realistic, put, world, follow, journey
+I:9643;2163;nutshell, be, worth
+I:9643;2164;incredible, extra, feature
+I:9643;2165;disc, director, version, movie
+I:9643;2166;feel, double, dip, provide, unique, viewing, experience, believe, be, more, worth
+I:9643;2167;great, cast, good, performance, renown, director, be, famous, direct, battle, film, score, great, success
+I:9643;2168;ray, restoration, be, excellent, be, worthwhile, regain, ancient, epic, battle, movie
+I:9643;2169;superior, truncate, theatrical, release, edit, compromise, plot, character
+I:9643;2170;include, overture, intermission, music
+I:9643;2171;present, lot, great, scene, shot, battle, impartial, view, conflict, involve, east, west, religion, insanity
+I:9643;2172;be, spectacle, fantastic, realistic, battle, scene, portray, event, be
+I:9643;2173;take, look, version, see
+I:9643;2174;film, be, minute, be, worth
+I:9643;2175;be, minute, dull, scene, make, film, interesting
+I:9643;2176;correct, term, time, be, call, middle, age
+I:9643;2177;centric, way, view, world, be, history, be, surprise, learn, stay, theater, come, feel, movie, provide, balanced, tell, story, do, villify, side, seek, explore, root, conflict, plague, human, race, day
+I:9643;2178;give, version, film, highest, reccomendation
+I:9643;2179;director, cut, be, %, better, tie, whole, story
+I:9643;2180;play, good, complaintshave, check, special, feature, version, good, be, better, movie, think, be
+I:9643;2181;be, russian, big, slavic, nationalism, movie, be, last, great, gasp
+I:9643;2182;take, anybody, give, star, serious, look
+I:9643;2183;good, action, movie, end, crusade, holy, land
+I:9643;2184;extra, content, director, cut, make, better, film
+I:9643;2185;feel, be, watch, new, movie
+I:9643;2186;film, picturesque, land, be, film, epic, battle, control, holyland, christian
+I:9643;2187;legendary, muslim, commander, field, marshal, seek, displace, christian, have, make, peace, christian, king
+I:9643;2188;balian, defend, surrender, save, people
+I:9643;2189;return, start, new, life
+I:9643;2190;bloom, be, excellent, role, womanizer, be, movie
+I:9643;2191;love, film
+I:9643;2192;recommend, movie, anyone, like, biblical, history, action, adventure
+I:9643;2193;be, first, class, production
+I:9643;2194;main, character, be, base, real, people, exception, father
+I:9643;2195;convincing, visual, recreation, era, catch, argument, side, spotlight, self
+I:9643;2196;detail, siege, warfare, climactic, battle, huge, scale, confrontation, fiery, catapult, be, wonder, modern, filmmaking
+I:9643;2197;everyone, know, have, see, impressive, film, have, enjoy
+I:9643;2198;more, relevant, theme, read, terrific, book, see, superb
+I:9643;2199;shipper, do, good, job, protect, product, arrive, good, shape
+I:9643;2200;course, give, shot, find, great, ring, think, carry, magic, film
+I:9643;2201;think, play, big, role, carry
+I:9643;2202;battle, scene, be, good, time, picture, be, beautiful, plot, be, do, actor, be, play, character
+I:9643;2203;consider, lord, strongest, point, act, career, think, do, good, job, film
+I:9643;2204;show, do, carry, better, role, be, good, step
+I:9643;2205;recommend, film, many, other, historic, film
+I:9643;2206;be, edit, studio, demand, make, film, palatable, mainstream, audience, claim, film, hour, mark, be, box, office, poison, lotr
+I:9643;2207;clear, film, be, restore, way, have, be, see
+I:9643;2208;scene, have, sublime, editing, mean
+I:9643;2209;addition, wide
+I:9643;2210;range, battle, scene, handsome, production, value, medieval, epic, boast, greater, complexity, character, depth, theme, be, accustom, find, film, type
+I:9643;2211;set, late, 12th, film, have, great, deal, relevance, world, today, see, muslim, be, other, throat, be
+I:9643;2212;be, sociopolitical, parallel, film, draw, own, time, lift, ring, ordinary
+I:9643;2213;isin, top, form, thought, provoke, action, film
+I:9643;2214;great, cast, great, script, make, perfect, home, library
+I:9643;2215;happy, see, order, come, holiday, be, able, include, gift, son
+I:9643;2216;movie, be, base, religion, serve, good, dont, look, outward, man, heart
+I:9643;2217;master, broadsword, require, great, deal, practice
+I:9643;2218;villain, film, be, base, actual, character, come, think, be
+I:9643;2219;think, film, be, slow, be, miscast, photography, be, good, be, costume
+I:9643;2220;avid, reader, medieval, period, be, excite, see, be, do, film, base, subject
+I:9643;2221;movie, be, crusade, be, religious, war, fight, amazing, movie, sidestep, attitude, religion, timeperiod
+I:9643;2222;main, theme, movie, seem, be, be, good, person, do, good, deed, religion, do, matter
+I:9643;2223;be, good, point, movie, look, great, costume, look, good, act, be, good, battle, scene, be, do
+I:9643;2224;have, be, top, movie
+I:9643;2225;beginning, be, great, come, front, explain, short, be, see, story, be, be, be, suppose, be
+I:9643;2226;director, think, be, right, person, job, be, boss, applesauce
+I:9643;2227;great, editing, wonderful, soundtrack
+I:9643;2228;love, way, pop
+I:9643;2229;be, wonderful
+I:9643;2230;version, be, amazing, film
+I:9643;2231;verify, amount, content, have, increase
+I:9643;2232;think, performance, be, good, original, do, think, be, improve, backstory, explain, more, reaction, .2
+I:9643;2233;people, be, responsible, theatrical, cut, do, good, job, have, see, director, cut
+I:9643;2234;other, reviewer, go, crazy, exclaim, blasphemy, say, like
+I:9643;2235;pace, be, appropriate, scope, story
+I:9643;2236;movie, portray, christian, evil, muslim, good
+I:9643;2237;opinion, think, be, good, movie, agree, other, movie, be, judge, box, office
+I:9643;2238;love, war/fantasy/historical, epic, type, movie
+I:9643;2239;acting, be, decent
+I:9643;2240;real, good, acting, come, rock, seen, be, do
+I:9643;2241;yeah, overall, movie, be
+I:9643;2242;gladiator, be, have, better, storyline, better, act, action
+I:9643;2243;rainy, be, able, take, entire, hour, epic, plane
+I:9643;2244;think, be, favorite, movie, director, blow, light, age
+I:9643;2245;be, deep, moral, lesson, movie
+I:9643;2246;be, true, story
+I:9643;2247;be, great, movie, christian
+I:9643;2248;ray, technology, bring, color, colorless, blue, course, world, detail, be, see, everything, disappoint!a, great, story, theatrical, version, amazing, story, have, be, director, version
+I:9643;2249;ray, be, choose
+I:9643;2250;be, worth, penny
+I:9643;2251;be, favorite, movie, many, reason
+I:9643;2252;be, history, major, look, historical, accuracy, be, accurate, do, capture, moment
+I:9643;2253;father, half, sister, be, love, few, other, incorrect, relationship, event, take, place, major, theme, be, true
+I:9643;2254;love, religeon, be, handle, movie, be, please, see, level
+I:9643;2255;head, film, maker, have, remain, portrayal, christian, create, hero, villian, side
+I:9643;2256;plot, be, amazing, be, thrill, sens
+I:9643;2257;be, impressed
+I:9643;2258;see, theater, tough, be, good, movie
+I:9643;2259;read, favorable, review, buy
+I:9643;2260;have, soul, other, lack
+I:9643;2261;see, help, understand, many, other, thing, beginning, movie, be, village, make, sense
+I:9643;2262;like, have, see
+I:9643;2263;cristian, be, nothing, good, guy, mean, harm, be, indian, dance, wolf, humble, brave, sophisticated, man, noble, code, honour
+I:9643;2264;film, remain, alien, pure, fiction
+I:9643;2265;mean, director, own, crime, kg, child, steal, chocolate, bar, claim, rightful, owner, be, thief
+I:9643;2266;be, sure, have, put, positive, light
+I:9643;2267;director, cut, be, fulfil, theatrical, version
+I:9643;2268;be, favorite, movie, great, story
+I:9643;2269;character, movie, be, fictional, compare, real, balian, version, appear, movie, be, interesting
+I:9643;2270;exceptional, seem, get, good, understanding, atmosphere, 12th, century, event, such, lead, fall, crusader, state
+I:9643;2271;be, bit, politics, army, court
+I:9643;2272;politics, be, interesting
+I:9643;2273;character, meet, movie, trouble, be, interesting, part, small, overall, movie
+I:9643;2274;be, plenty, movie, minute, add, plenty, action, story
+I:9643;2275;siege, be, do, seem, realistic, show, difficult, be, siege, fortified, city, medieval, time
+I:9643;2276;fiction, reality, excellent, show, reccomend
+I:9643;2277;historical, balian, be, bear, establish, noble, family
+I:9643;2278;raymond, be, great, hero, film
+I:9643;2279;saladin, portray, peace, loving, hero, film, be, nothing, sort
+I:9643;2280;have, see, part, movie, satellite, know, be, winner
+I:9643;2281;movie, slip, public, more, likely, violence, find, be, good, supurb, cast, storyline, consider, do, script
+I:9643;2282;be, great, film, age
+I:9643;2283;respect, soar, most, military, historical, epic
+I:9643;2284;elevate, idea, selflessness, defense, innocent, control, idea, film
+I:9643;2285;counterpart, christian, be, character, king, military, commander, portray
+I:9643;2286;laconic, humility, fit, script
+I:9643;2287;opinion, balian, word, be, profound, more, poetic, humbleness, character, be, key, message
+I:9643;2288;film, be, load, fine, acting
+I:9643;2289;enjoy, theatrical, cut, get, ready, nice, storyline, be, delete
+I:9643;2290;more, work, be, put, establishment, character, time, meet, film, have, sense, be
+I:9643;2291;flash, be, younger, be, mother, moment, say, need, know, particular, paradise, seek, know, find
+I:9643;2292;be, look, absolution, figure, find, way, film, show, tell
+I:9643;2293;fight, climactic, duel
+I:9643;2294;ray, be, magnificent, release, recommend, anyone, have, slightest, interest, theatrical, release
+I:9643;2295;cut, have, masterpiece
+I:9643;2296;do, sound, like, version
+I:9643;2297;director, cut, be, better, film, see, theater
+I:9643;2298;enjoy, movie, great, deal
+I:9643;2299;give, comprehensive, knowledge, period, do, introduce, few, name, place, period
+I:9643;2300;boyfriend, love, movie, give, gift!the, price, be, great, want, find, other, movie
+I:9643;2301;be, great, movie, watch, rainy, day, w, company
+I:9643;2302;make, great, conversation, piece
+I:9643;2303;be, interesting, keep, move, watch
+I:9643;2304;great, historic, romantic, action, pack, film
+I:9643;2305;be, eye, candy, spectacular, scene, mass, army, trebuchet, hurl, fireball
+I:9643;2306;take, have, decent, performance, lovely, costume, accurate, sketch, event, lead, third, crusade
+I:9643;2307;be, reliant, cheap, effect, pay, little, attention, characterization, be, great, film
+I:9643;2308;do, know, power, be, control, final, cut, movie, be, mess, movie
+I:9643;2309;be, enthusiastic, movie, watcher
+I:9643;2310;authentic, look, early, hospitaler, catholic, knight, present, good, life, ethic, man
+I:9643;2311;be, epic, tale, set, be, rife, historical, inaccuracy, be, decent, story, man, find, peace, meaning, life
+I:9643;2312;play, main, character, balian, manage, play, role, do, seem, have, enough, grit, time
+I:9643;2313;be, enjoyable, film, settle, be, rhythm, appreciate, be, epic, scope
+I:9643;2314;director, cut, edition, give, film, justice, deserve, come, big, screen
+I:9643;2315;life, character, share, world, year, learn, humanity, frame, thought, way
+I:9643;2316;grant, movie, be, accurate, factual, representation, character, event, be, factual, sense, tell, live, love, believe
+I:9643;2317;sign, great, movie, be, think, play, think, be, watch, roman, gladiator, watch, roman, emperor, duel, control
+I:9643;2318;great, depiction, type, character, be, bring
+I:9643;2319;be, better, act, time, be, character, movie, be, overhyped
+I:9643;2320;other, image, thought, other, role, come, head
+I:9643;2321;be, magic
+I:9643;2322;do, want, go, great, detail, character, be, smaller, character, movie, sell, film, great, film
+I:9643;2323;claim, fame, be, great, act, film, small, scene, be, make, viewer, understand, film, message, character, message
+I:9643;2324;line, god, desire, be, point, head, point, heart
+I:9643;2325;decide, do, day, make, good, man
+I:9643;2326;writing, be, weak, part, ending, film, dialogue, character, be, fitting, time
+I:9643;2327;know, crusade, templar, history, be, amaze, profound, opinion, perception, religion, great, movie
+I:9643;2328;take, side, present, motivation, soul, christian, muslim, battle, possess, holy, city
+I:9643;2329;bring, question, be, man, be, religion
+I:9643;2330;recommend, movie
+I:9643;2331;be, long, worth, minute
+I:9643;2332;director, cut, be, amazing
+I:9643;2333;create, master, piece, be, sadley, theater
+I:9643;2334;like, theater, release, kingdom, heaven, love, director, cut, be, time, better
+I:9643;2335;star, cast, handle, amazing, cinematic, dexterity, visual, grace
+I:9643;2336;opening, scene, know, be, good, hand
+I:9643;2337;amazing, blue, hue, peaceful, presence, snowflake, authentic, costume, throw, world, story
+I:9643;2338;play, much, improve, act, skill, due, part, directing, ultra
+I:9643;2339;join, heavyweight, cast
+I:9643;2340;scene, find, guy, be, best, movie
+I:9643;2341;event, suspend, disbelief, take, vicious, foreign, fighter, master, swordsman, easier, be, enjoy, movie
+I:9643;2342;drive, movie, be, incredible, adventure, embark
+I:9643;2343;fight, occur, be, surreal, breathtaking, corrupt, battle, have, see, film
+I:9643;2344;outnumber, band, knight, rush, oncoming, muslim, tide, cavalry, scream, blood, dirt, death, portray, be, vicious, beautiful
+I:9643;2345;impressive, siege, sit, people
+I:9643;2346;end, draw, glorious, day, epic, story, be, important, battle
+I:9643;2347;movie, be, watch
+I:9643;2348;best, movie, represent, be, time, line
+I:9643;2349;be, huge, fan, historical, dramas, filmmaker, have, vision, budget, capture, look, feel, spectacle, past, event
+I:9643;2350;director, know, manage, big, budget, big, set, action, scene, involve, cast, thousand, get, screen
+I:9643;2351;be, superb, technical, film, maker, intelligent, guy
+I:9643;2352;balian, be, fine, lead, role, be, majority, other, cast, film
+I:9643;2353;muslim, actor, portray, give, noteworthy, accurate, account, historical, figure
+I:9643;2354;settle, produce, moment, clarity, arrive
+I:9643;2355;leper, king, be, gentle, wise, diplomatic, point, seem, be, be, sedate, script
+I:9643;2356;speak, divisive, nature, religion, spark, humanity, question, theology, greed, power, corrupt, peaceful, cooperation
+I:9643;2357;hey, boxed, set, do, contain, nifty, full, length, documentary, making, be, enjoyable, fan, cinema
+I:9643;2358;show, ten, million, dollar, be, spend, bring, epic, screen, department, department
+I:9643;2359;be, fun, bonus
+I:9643;2360;movie, go, enjoy
+I:9643;2361;ray, disc, own, be
+I:9643;2362;be, best, author, .2, disc, own
+I:9643;2363;be, instance, film, grain, thing, such, sky, be, minimal, give, be, film, origin, be, acceptable, least
+I:9643;2364;color, be, vibrant, gorgeous
+I:9643;2365;see, movie, first, time, un, cut, be, fantastic
+I:9643;2366;story, be, complex, make, more, sense
+I:9643;2367;be, history, teacher, be, aware, historian, be, cry, foul, inaccuracy, notice, good, amount, film, be, pleased
+I:9643;2368;have, say, admire, cast, make, film, turbulent, time
+I:9643;2369;friend, moment, be
+I:9643;2370;moment, chivalry, end, cement, positive, review, film, bring, everything, have, consider, travesty, have, leave
+I:9643;2371;be, such, extreme, moderate, teacher, emphasize, coexistence, historical, inaccuracy, be, fine, deal
+I:9643;2372;know, history, watch, film, have, chance, inspire
+I:9643;2373;masterpiece, beautiful, display, struggle, land, lay, claim
+I:9643;2374;go, make, film, seem, have, clear, view, mind
+I:9643;2375;notch, visual, effect, good, performance, superb, battle, scene
+I:9643;2376;good, action
+I:9643;2377;epic, get, film, line, character
+I:9643;2378;drive, historical, epic, fine, performance, main, star
+I:9643;2379;believe, have, be, allow, release, version, theater, great, number, cast, crew, have, be
+I:9643;2380;special, feature, be, fascinating, give, insight, making, epic, film, reason, have, fail, state
+I:9643;2381;version, be, masterpiece, film, rank, film, greatest, historical, epic, time
+I:9643;2382;be, everything, want, see, good, crusader, movie
+I:9643;2383;beautiful, perfect, intro, movie
+I:9643;2384;close, eye, wait, start, film
+I:9643;2385;20th, century, fox, fanfare, studio, logo, crap!not, good
+I:9643;2386;wall, be, breech, end, siege, army, swarm, opening, seething, mass, fight, man, clog, breech, be, realize, moment
+I:9643;2387;be, surprise, camera, pull, overhead, shot, see, army, be, hold, breech, be, contest, smaller, contingent
+I:9643;2388;only, complaint, have, movie, be, be, compliment, director, knight, understand, enjoy, fact, be, surprise, many, die
+I:9643;2389;want, see, movie, more
+I:9643;2390;other, little, thing, fight, beach
+I:9643;2391;think, movie, be, sort, ho
+I:9643;2392;be, spectacular, character, be, developed, make, character, motivation, action, lot, credible
+I:9643;2393;cinematography, be, do, costuming, act, general, plot, line, be, riveting
+I:9643;2394;againism, negative, positive, aspect
+I:9643;2395;intensity, awe, inspiring, beauty, bling
+I:9643;2396;faade, represent, paradise, power
+I:9643;2397;lovely, movie, watch, share
+I:9643;2398;be, man, dedication, be, perfect, knight, order, protect, innocent, civilian
+I:9643;2399;end, give, city, save, inhabitant
+I:9643;2400;knight, justified, murder, beginning, film, do, go, much, arc, be, good, beginning, stay, good, end
+I:9643;2401;way, have, make, cut, entire, first, act, arrival, include, dad, main, story, get, go
+I:9643;2402;be, hour, version, add, minute, original, film
+I:9643;2403;be, think
+I:9643;2404;movie, be, redeem, succeed, way, do
+I:9643;2405;much, minute, add, bulk, movie, place, greater, context, situation, hand, own, fractured, frame, mind
+I:9643;2406;have, redeem
+I:9643;2407;best, line, have, be, add, give, additional, weight, know, lie
+I:9643;2408;be, intriguing, stronger, character, feel, player, only, player
+I:9643;2409;additional, scene, be, add, give, greater, depth, major, character
+I:9643;2410;be, terrific, female, lead, fascinating, character
+I:9643;2411;be, much
+I:9643;2412;whole, sequence, be, bulk, enriched
+I:9643;2413;minor, character, blossom, something, memorable, more, moment, art, be, add
+I:9643;2414;film, be, evocative, have, visual, metaphor, do
+I:9643;2415;many, more, moment, pure, visual, magic
+I:9643;2416;moment, be, stunning
+I:9643;2417;be, sure, heart, soul, film, be, rip, first, version
+I:9643;2418;director, cut, be, terrific, redo, movie, turn, complex, epic, film
+I:9643;2419;recommend, version
+I:9643;2420;be, best, movie, shoot, top, list
+I:9643;2421;holiness, be, right, action, courage, behalf, defend, goodness
+I:9643;2422;king, make, better, world
+I:9643;2423;live, while, have, live
+I:9643;2424;remember, howsoever, be, play, soul, be, keep, presume, play, be, king, man, power
+I:9643;2425;enjoy, movie
+I:9643;2426;be, favorite, movie
+I:9643;2427;give, gift, giftee, love
+I:9643;2428;have, plenty, action, plenty, depth
+I:9643;2429;scene, old, be, spectacular
+I:9643;2430;do, good, job, lead
+I:9643;2431;do, have, gravitas, need, make, big, speech, battle, other, do, fine, job, get, admit, look, better, period, clothes
+I:9643;2432;be, excellent, usual
+I:9643;2433;get, involve, character, maximus
+I:9643;2434;story, jump, spectacular, scene, spectacular, scene, enough, tie
+I:9643;2435;have, get, scenery, costume, special, effect
+I:9643;2436;buy, gift
+I:9643;2437;look, love, film, production, value
+I:9643;2438;manage, charm, get, suspend, disbelief
+I:9643;2439;difference, minute, extra, footage, makes!as, fan, great, historical, epic, such, have, high, hope, film, be, release, theater
+I:9643;2440;film, be, improve, add, material, be, difficult, believe, be, watch, same, movie
+I:9643;2441;have, huge, interest, historical, movie
+I:9643;2442;recommend, movie, base, cast, be, much, merit, film
+I:9643;2443;make, make, worth, owning
+I:9643;2444;be, great, movie, leave, seat
+I:9643;2445;action, be, perfect, movie
+I:9643;2446;go, say, be, best, work, while
+I:9643;2447;extend, version, be, much, deeper, experience
+I:9643;2448;be, accurate, portray, people, time, way, have, be
+I:9643;2449;be, definitive, edition, film, original, be, trailer
+I:9643;2450;plus, muslim, be, excellent, feeling, see, greatest, fairest, leader, history, portray, right, manner, loving, person, teach, people, respect, religion, christianity, judaism, be, same, religion, end, same, god
+I:9643;2451;entertaining, emotional, political, recomend, film
+I:9643;2452;have, enjoy, watch, movie
+I:9643;2453;actor, be, wonderful
+I:9643;2454;dramatization, history, character, be, superb
+I:9643;2455;be, favorite, movie, time, director, cut, be, incredible, add, volume, more, movie
+I:9643;2456;most, acting, be, great, film, lead, actor
+I:9643;2457;fascinate, be, gift, pardon, pun
+I:9643;2458;wonder, middle, east, situation, come, movie, give, background, build
+I:9643;2459;treat, fascinating, movie
+I:9643;2460;be, entertaining, be, director, intention
+I:9643;2461;be, medieval, history, buff, particular, interest, crusade, i, go, film, historical, inaccuracy
+I:9643;2462;film, view, be, enjoy
+I:9643;2463;favorite, movie, watch, tell, story, be, take
+I:9643;2464;put, watch, movie
+I:9643;2465;music, selection, go, be, perfect, movie
+I:9643;2466;be, watch, need, order
+I:9643;2467;addition, be, bit, attention, faith, journey
+I:9643;2468;be, few, intelligent, movie, intelligent, epic, other, be
+I:9643;2469;intelligent, be, refer, literate, script, shades, gray, politics, world, black, white, emotion, case, christian, muslim, vice
+I:9643;2470;screenplay, be
+I:9643;2471;ground, historical, fact, other, film, mention
+I:9643;2472;win, situation, be, intelligent, enough, realize, be, lock, black
+I:9643;2473;white, world, control, most, people, function, stark, motive, hatred, love
+I:9643;2474;portray, be, hero, crusade, be, respect, real, life, christian, name, baby
+I:9643;2475;be, intelligent, mature, ruler, seek, re, claim, centerpiece, holy, place, religion, be, treat, be
+I:9643;2476;cast, be
+I:9643;2477;have, requisite, look, period, talent, expressive, feature, convey, character, thought, emotion
+I:9643;2478;riveting, moment, be, catch, close
+I:9643;2479;be, striking, look, color, make, good, physical, match
+I:9643;2480;ring, hold, crown, complete, set, extra, assemble, exhaustive, amount
+I:9643;2481;be, fun, bloody, exercise, historical, fiction
+I:9643;2482;good, costume, scenery, action, include, time, be, accustom, view
+I:9643;2483;think, film, be, decent, be, curious, see, be, cut
+I:9643;2484;recommendation, take
+I:9643;2485;epic, historical, war, film, name, few, be, lot, fun
+I:9643;2486;do, good, job, mix, fictional, historical, leper, king, play, subdue, role
+I:9643;2487;compliment, battle, sequence, be, rousing, score
+I:9643;2488;sound, fit, theme, time, period
+I:9643;2489;story, be, standard, epic, film, stuff
+I:9643;2490;have, unwitting, hero, possible, love, interest, possible, love, interest, evil, husband, engulf, massive, crusade, be, tear
+I:9643;2491;thing, be, glad, be, feel, screenwriter, do, accurate, portrayal, crusade, show, religious, side, event, socio
+I:9643;2492;be, good, epic, film
+I:9643;2493;be, nice, fighting, sequence, final, siege, lead, climax, be, stunning
+I:9643;2494;enjoy, last, year
+I:9643;2495;fi, create, film, be, superior
+I:9643;2496;be, underrated, film, pick
+I:9643;2497;example, do, become, great, fighter, know, many, military, tactic, be, blacksmith, whole, life
+I:9643;2498;acting, be, good, great
+I:9643;2499;do, best, movie, love, father, actor, casting, think, get, father/son, actor, look, least, bit
+I:9643;2500;case, enjoy, watch, handful, other, movie
+I:9643;2501;story, be, brilliant, fascinating, acting, particular, be, superb, feel
+I:9643;2502;be, good, carry, film
+I:9643;2503;refreshing, change, production
+I:9643;2504;say, movie, be, excellent, enough, have, be, say, superiority, theatrical, version, film, look, better, blu
+I:9643;2505;expansive, tell, story, crusade
+I:9643;2506;be, christian, movie, be, waxte, time, want, experience, excellent, example, attack, faith
+I:9643;2507;gloss, small, intimate, moment, story, be, get, relax, movie, sudden, jerk
+I:9643;2508;be, sloppy, say, movie, perfect, mix, action, simple, intimate, moment
+I:9643;2509;be, number, actor, actress, recognize
+I:9643;2510;be, time, king, queen, good, evil
+I:9643;2511;movie, plenty, action
+I:9643;2512;like, have, number, story, movie
+I:9643;2513;start, move, plenty, action, great, character
+I:9643;2514;plenty, wisdom, top
+I:9643;2515;clash, culture, entertain
+I:9643;2516;be, long, story, say, move, plenty, action, impressive, visual
+I:9643;2517;be, great, story, set, second, crusade
+I:9643;2518;be, glory, be, consider, be, finest, director, cut, make
+I:9643;2519;stack, look, crusade, hold, best, trio
+I:9643;2520;seem, do, look, chick, magnet, have, lot, more, do, carry, unwilling, action, hero
+I:9643;2521;battle, scene, be, terrific, expect, exceptional
+I:9643;2522;carry, be, support, cast
+I:9643;2523;be, guy, movie, fight, scene, outweigh, need, female, character, development
+I:9643;2524;moral, compass, movie, be, solid
+I:9643;2525;best, have, feeling, gain, stature, year, pass
+I:9643;2526;knowledge, be, commendable, frustration, understandable
+I:9643;2527;real, history, be, concern, gentleman, fare
+I:9643;2528;be, good, people, give, message, hope, humanity
+I:9643;2529;son, enjoy, :-rrb-, receive, time, great, condition
+I:9643;2530;play, buff, enjoy, pic
+I:9643;2531;put, piece, provide, high, definition
+I:9643;2532;enjoy, movie
+I:9643;2533;acting, be, superb, storyline, believable, overall, movie, seem, authentic
+I:9643;2534;movie, have, nice, set, great, story
+I:9643;2535;be, minute, action, overall, be, great, movie
+I:9643;2536;photography, cinematography, music, be, good
+I:9643;2537;be, big, screen, spectacular
+I:9643;2538;character, charisma, be, play, do, have, much, screen, time
+I:9643;2539;give, great, insight, movie
+I:9643;2540;enjoy, view
+I:9643;2541;be, history, major, focus, medieval, byzantine, study, want, like, film
+I:9643;2542;study, history, bother, be, good, character, have, 21st, century, concept, reality, freedom, rights, view, world
+I:9643;2543;be, say, give, plot, scene
+I:9643;2544;be, film, belong, same, conversation
+I:9643;2545;team, come, great, story, use, real, life, character, crusade, make, best, crusade, period, film
+I:9643;2546;be, cut
+I:9643;2547;the, director, cutkingdom, be, favorite, film, last, year
+I:9643;2548;minute, director, cut, give, film, room, breathe, make, convert, unbeliever
+I:9643;2549;style, tone, sixty, roadshow, better, many, way, be, richest, ambitious, recent, batch, epic
+I:9643;2550;real, winner, extra, footage, stake, be, think, be, fall, love, part, be, expand, complex, allow, mass, contradictory, motive, few, noble, impulse, emotion, be, smooth, theatrical, version
+I:9643;2551;fact, version, film, be, couple, touching, sequence
+I:9643;2552;come, add, be, bad, thing, brief, scene, compassionate, establish, incompatibility, fanatical, adherence, religious, law, action, loving, savior, be, film, major, theme
+I:9643;2553;thanks, strong, script, be, best, film
+I:9643;2554;spectacle, be, shoot, real
+I:9643;2555;be, cheaper, be, lot, impressive, look
+I:9643;2556;extra, feature
+I:9643;2557;disc, set, be, impressive, have, see, include, depressed, screenwriter, mull, failure
+I:9643;2558;cutkingdom, turn, be, best, film, visual, be, match, good, script, do, feel, afterthought
+I:9643;2559;fact, be, film, loser, be, part, reason, film, failure, find, audience, be, thing, make, interesting
+I:9643;2560;be, full, historical, error, do, encompass, ebb, flow, state, mind, point, history
+I:9643;2561;dimensional, do, least, manage
+I:9643;2562;support, cast, be, good, form, seem, be, do, leper, turn, die, king
+I:9643;2563;film, be, shoot, real, extra, largest, crowd, scene, play, real, dividend
+I:9643;2564;photography, be, superior, overpraised, work, do, overdo, dreariness
+I:9643;2565;william, score, be, competent, be, tell, much, film, need, be, score, several, cue, most, rise, knight, sequence, prayer, 13th
+I:9643;2566;let, see, believe, be, masterful, theatrical, edit, do
+I:9643;2567;be, critical, understand, context, motivation, machination, obsession, marry
+I:9643;2568;great, movie, nice, see, big, actor, play, strong, role, biblical, sense
+I:9643;2569;come, knight, minor, noble, reveal, unknown, father
+I:9643;2570;be, aware, screenwriter, have, take, creative, license, make, period, film, interesting
+I:9643;2571;be, good, man, have, be, able, maintain, peaceful, existence, surround, muslim, nation
+I:9643;2572;acting, be, strong, most, cast
+I:9643;2573;movie, have, great, action, sequence, cinematography, be, spectacular
+I:9643;2574;great, length, be, take, make, detailed, weapon, costume, siege, be, accurate, scene, siege, warfare, actual, real, life, battle, have, see, screen
+I:9643;2575;do, great, job, bring, film
+I:9643;2576;character, be, write, strong, such, be
+I:9643;2577;be, good, historical, picture
+I:9643;2578;be, decent, film, introduce, people, be, fun, film, watch, night
+I:9643;2579;kingdom, special, air, call
+I:9643;2580;history, companion, piece, be, better, major, special, feature
+I:9643;2581;movie, real, feature, be, anything, real, include, conversation, actor, film, be, real, historian
+I:9643;2582;like, theatrical, edition, extended, cut, redefine, entire, film
+I:9643;2583;additional, character, development, make, film, smart, move, be, stunning
+I:9643;2584;spite, shortcoming, rank, favorite, film
+I:9643;2585;be, phenomenal, scene, effect, great, line, find, act, liking
+I:9643;2586;be, film, gain, growing, reputation, year, become, epic, bomb, become, cult, item, recognize, masterpiece
+I:9643;2587;be, such, shame, have, much, potential, epic, story, good, character, good, setting, good, director, good, composer, good, actor, other
+I:9643;2588;look, be, stunning, succeed, do, best, create, visual, epic
+I:9643;2589;kingdom, be, success, department, make, movie, worth, watch
+I:9643;2590;movie, be, entire, failure, director, succeed, be, know
+I:9643;2591;attention, visual, detail, put, making, be, impressive
+I:9643;2592;be, base, true, story, character, play, exist, real, life
+I:9643;2593;dialogue, be, bad, be, fact, powerful
+I:9643;2594;be, good, movie, have, explain, true, historical, event, plot, husband, find, ok
+I:9643;2595;be, upset, bite, do, see, add, story
+I:9643;2596;best, movie, subject, matter, make
+I:9643;2597;be, best, example, viewer, imagine, be, make, say, subject, matter
+I:9643;2598;new, favorite, movie
+I:9643;2599;be, great, setting, be, great, overall, feel, movie, be, superb
+I:9643;2600;great, story, cinematography, be, beautiful, music, be, wonderous, overall, pleasure, watch
+I:9643;2601;watch, movie, fairy, tale, enjoy
+I:9643;2602;film, be, fantastic
+I:9643;2603;scenery, be, gorgeous, entire, film, be
+I:9643;2604;historical, inaccuracy, be, present, much, lesser, degree, many, other, film, be, name
+I:9643;2605;best, siege, film
+I:9643;2606;many, way
+I:9643;2607;anyone, pay, attention, see, be, curious
+I:9643;2608;prominent, film, such, be, peace
+I:9643;2609;film, be, tell, christian, perspective, show, conflict, christian
+I:9643;2610;christian, be, good, people
+I:9643;2611;good, people, do, good, thing
+I:9643;2612;be, true, unfortunate
+I:9643;2613;be, sorry, sin, life, show, be, good, man
+I:9643;2614;be, insistence, confess, believe, have, truth
+I:9643;2615;know, life, be
+I:9643;2616;read, book, be, good, mind
+I:9643;2617;fantastic, movie, be, dismiss, christian, slam
+I:9643;2618;understandable, accurate
+I:9643;2619;believe, everyone, interest, subject, matter, watch, movie, read, book, subject
+I:9643;2620;enjoy, film, be, historical, be, fine, piece, cinema
+I:9643;2621;add, character, development, scene, make, good, film, great, film
+I:9643;2622;soar, perception, historical, epic, be, surprising, do, box, office
+I:9643;2623;be, deny, picture, be, spectacular, achievement
+I:9643;2624;subject, be, christian, crusade, will
+I:9643;2625;be, fetch, king, sister, fictional, love, interest
+I:9643;2626;scott, visual, be, stunning, windy, port, city, entry, battle, sequence, sweeping, view, oppose, army
+I:9643;2627;use, weather, element, streaming, flag, enliven, sequence
+I:9643;2628;be, few, large, scale, director, lean, be, able, make, intimate, moment, character, meaningful, magnificent, vista
+I:9643;2629;addendeum, new, director, cut, extend, narrative, hour, expand, character, incident, accomplish, rare, feat, improve, original
+I:9643;2630;whole, character, story, line, be, restore, scene, be, enlarged, scale, intend
+I:9643;2631;love, film, have, watch, several, time
+I:9643;2632;do, enjoy, movie
+I:9643;2633;acting, be, consistent, strong, cinematography, continuity, be, admirable
+I:9643;2634;do, fine, job
+I:9643;2635;expect, be, whole, new, movie, make, sense, sic
+I:9643;2636;be, epiphany, son, see, beautiful, movie, come, great, wide, screen, spectacular, be, mean, be
+I:9643;2637;encourage, everyone, follow, get, enjoy, make, meaningful, movie, be, full, extent
+I:9643;2638;be, great, movie, be, fault, be, be, release, have, happen, have, be, block, buster, movie
+I:9643;2639;be, give, movie, star, base, photography, music, story, line
+I:9643;2640;think, movie, rate, more, entertaining, era, movie
+I:9643;2641;show, fair, light
+I:9643;2642;research, time, era, history, be, clear, be, man, honor
+I:9643;2643;movie, be, film, be, picturesque
+I:9643;2644;costume, use, be, good, other, have, point, costume, be, accurate, time, period
+I:9643;2645;be, plenty, action, portion, movie
+I:9643;2646;story, line, be, good, be, obvious, story, be, use, make, point
+I:9643;2647;sound, track, be, above, average
+I:9643;2648;movie, contain, adult, situation, be, tasteful, avoid, nudity
+I:9643;2649;movie, be, entertaining, few, movie, cover, time, period
+I:9643;2650;be, time, spend, watch
+I:9643;2651;be, dramatize, work, fiction
+I:9643;2652;let, slide, enjoy, film, story, action, be, ok
+I:9643;2653;political, religious, theme, draw, criticism, people, zoom, content, concentrate, nothing
+I:9643;2654;do, deliver, violent, spectacle, exotic, setting, enjoyable, story
+I:9643;2655;be, better, have, complex, story
+I:9643;2656;result, be, sprawling, ambitious, project, have, epic, scope, narrative, strength
+I:9643;2657;restore, material, demonstrate, original, hour, cut, be, brilliant, film, play, theatrical, late, last, year, film, have, bomb, box, office
+I:9643;2658;much, background, story, be, flesh, relationship, various, character, be, define
+I:9643;2659;be, magnificent, epic, film, recall, power, lean, epic, allow, historical, drama, breath
+I:9643;2660;have, see, theatrical, cut, owe, see, major, film, major, talent
+I:9643;2661;feature, beautiful, anamorphic, transfer, version, film, look, superior, less, issue, digital, artifact, compare, previous, edition, film
+I:9643;2662;audio, presentation, sound, wonderful, dts, track, make, exceptional, use, format
+I:9643;2663;feel, have, put, plop, middle, battle, sequence, action, sequence, be, wonderful, ambient, sound, effect, sprinkle, film, sequence, be, dialogue, drive
+I:9643;2664;special, feature, be, terrific, set
+I:9643;2665;second, part, have, cast, rehearsal, cover, everything, training, weapon, costume, test
+I:9643;2666;be, section, visual, effect, film, various, sound, element, create, unique, sound, mix, film, present, various, stage
+I:9643;2667;great, epic, style, story
+I:9643;2668;lot, action, great, scenery, costume
+I:9643;2669;actor, main, actress, keep, interested, unraveling, saga, greed, power, struggle
+I:9643;2670;movie, be, my, favorite, be, good, message, movie, believe, be
+I:9643;2671;seem, make, list
+I:9643;2672;director, cut, movie, be, leap, bound, better, theatrical, version
+I:9643;2673;make, more, sense, story, wise, be, aspect, director, cut, do, want, spoil, be, theatrical, version
+I:9643;2674;find, interesting
+I:9643;2675;appreciate, creative, cinamatography, use, small, number, actor, extra, simulate, large, battlefield, scene
+I:9643;2676;treatment, be, generous, reality, be, movie, base, historical, event, usual, poetic, license, dramatize
+I:9643;2677;difference, whole, hour, make, story, great, movie!it, watch, first, time, everything, epic, be, detailed, make, sense, watch, fresh, mind
+I:9643;2678;be, insightful, help, viewer, understand, whole, subject, play
+I:9643;2679;see, movie, be, move, story
+I:9643;2680;fact, have, memorize, creed, be, romantic
+I:9643;2681;whole, want, be, middle, action!to, fight, defend, city, fair, maiden
+I:9643;2682;movie, help, understand, difference, faith, come, meeting, point, future
+I:9643;2683;great, action, great, story, movie, have, all!mr
+I:9643;2684;movie, help, realize, boyhood, dream
+I:9643;2685;director, be, superior, film, way
+I:9643;2686;be, fan, epic, storytelling, movie, be, best
+I:9643;2687;believe, compare, epic, film, past
+I:9643;2688;have, problem, battle, gore, have, issue, be, wonderful, movie
+I:9643;2689;like, moive, be, realease, director, cut, add, more, story, answer, many, question, have, original, story
+I:9643;2690;cut, be, new, movie
+I:9643;2691;cost, christian, faith, cost, priest, life
+I:9643;2692;rest, story, build
+I:9643;2693;enter, rise, importance
+I:9643;2694;voice, be, loud, speak, secular, ruler, city, deal, jew, muslim
+I:9643;2695;battle, scene, be, dramatic
+I:9643;2696;personal, honor, be, know, respect, attacker, trade, brick, stone, city, life, citizen, safe, passage
+I:9643;2697;battle, be, vivid, part, be, computer, enhance
+I:9643;2698;be, make, character, care, better, lot, other, quasus
+I:9643;2699;have, enjoy, storytelling
+I:9643;2700;have, enjoy, choice, support, actor
+I:9643;2701;association, famous, composer, such, make, movie, timeless, think
+I:9643;2702;be, tame, story
+I:9643;2703;like, be
+I:9643;2704;do, be, great, history, lesson, full, feeling, action
+I:9643;2705;be, suprise, extra, gift, husnband, anniversary
+I:9643;2706;ray, be, great, be, audio, track
+I:9643;2707;have, deliver, promise, respect
+I:9643;2708;add, scene, answer, myriad, question, bring, true, continuity, film
+I:9643;2709;be, worth, extra, time, soooo, busy, pitiful, life
+I:9643;2710;great, film, full, director, cut
+I:9643;2711;extra, minute, be, worth, view
+I:9643;2712;extra, lepracy, storyline, make, vivid, contrast, succeed, man, wear, mask, young, boy, embark, journey, great, pain
+I:9643;2713;camera, view, listen, character, respond, key, passage, be, little, strained, time, such, view, encourage, broader, perspective, viewer
+I:9643;2714;scene, battle, scene, look, real
+I:9643;2715;good, be, bad
+I:9643;2716;disc, edition, be, film, be, enjoy, visual, soundtrack
+I:9643;2717;be, connoisseur, crusade, realize, filmmaker, put, modern, swing, event, ideology, character
+I:9643;2718;case, be, impressed, main, player, be, base, real
+I:9643;2719;life, people, gist, event, be, accurate
+I:9643;2720;dc, be, herald, best, dc, release
+I:9643;2721;be, worth, magnificent, visual, soundtrack
+I:9643;2722;story, start, strong, end, strong, dramatics, lengthy, mid
+I:9643;2723;section, be, complicate, compelling, be, likable, protagonist
+I:9643;2724;great, movie, watch
+I:9643;2725;be, long, movie, time
+I:9643;2726;be, fantastic, movie
+I:9643;2727;consider, best, costume, film, better
+I:9643;2728;be, rich, cinematic, experience, move, time, place, entertain, way
+I:9643;2729;blood, character, showcase, way, life, present, historical, battle
+I:9643;2730;be, tie, nice, story
+I:9643;2731;story, be, personal, wide, ramification
+I:9643;2732;get, everyday, joy, sorrow, world, politics
+I:9643;2733;movie, be, close, enought, historical, fact, be, convincing
+I:9643;2734;manage, walk, line, portray, side, fair, way
+I:9643;2735;be, good, guy, most, film
+I:9643;2736;do, good, job, be, convincing, be, fault, be, good, look
+I:9643;2737;rest, cast, be, top
+I:9643;2738;be, number, actor, origin
+I:9643;2739;give, film, credibility, blockbuster, tv
+I:9643;2740;lead, character, maximus, play, be, successful, self
+I:9643;2741;confident, general, fall, disfavour, cruel, twist, fate, be, turn, gladiatior
+I:9643;2742;manage, become, famous, new, role, reclaim, freedom
+I:9643;2743;combination, factor, infuse, whole, film, positive, feeling
+I:9643;2744;be, problem, movie, be, great
+I:9643;2745;pack, thrilling, beautiful, battle, scene
+I:9643;2746;be, trilogy, fantasy
+I:9643;2747;be, real, thing
+I:9643;2748;be, real, feast, eye
+I:9643;2749;manage, touch, big, question, life
+I:9643;2750;life, crisis, love, loyalty, moral, friendship
+I:9643;2751;undeniable, mark, master, director
+I:9643;2752;hope, make, sequel, fabulous, movie
+I:9643;2753;script, writer, seem, keen, confess, extra, material
+I:9643;2754;have, share, enjoy
+I:9643;2755;movie, be, exuberant, epic, uunparalell, be, year, do, recieve, critical, acclaim, reward, pish, posh, do, know, movie, be, fantastic
+I:9643;2756;watch, couple, time, make, great, adition, blu, ray, library, capture, essence, profound, theatrical, experience, amazing, costume, set, design, stunning, ultra, realistic, visual, only, surreal, thing, film, blu, ray, least, be, vibrant, color
+I:9643;2757;super, duper, please, realistic, entertaining, watch, movie, enterainment, reality, documentary
+I:9643;2758;action, look, good, wasnt
+I:9643;2759;dont, recommend
+I:9643;2760;let, tell, thing
+I:9643;2761;director, cut, be, true, masterpiece
+I:9643;2762;give, movie, second, chance
+I:9643;2763;watch, be, surprise
+I:9643;2764;be, set, treasure
+I:9643;2765;blu, ray, version, film, be, pristine
+I:9643;2766;hold, own, lead
+I:9643;2767;brilliant, transfer, fantastic, audio
+I:9643;2768;thank, job, do
+I:9643;2769;film, look, terrific, subject, matter, be, interesting
+I:9643;2770;be, be, entertain, hour, view, be
+I:9643;2771;film, have, simple, message
+I:9643;2772;congradulation, self, appoint, judgement, seat, humanity
+I:9643;2773;religous, ground, do, tremendous, job, deliver
+I:9643;2774;be, beautiful, music, be, top, notch, think, acting, be, great
+I:9643;2775;love, war, epic, keep, engage
+I:9643;2776;extra, be, nice
+I:9643;2777;like, history, extra, disc
+I:9643;2778;recommend, movie, like, last
