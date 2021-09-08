@@ -19,7 +19,7 @@
 
 	<?php
 	session_start();
-	echo $_SESSION['tecnica'] . ";" . $_SESSION['configurazione'] . ";" . implode(",", $_SESSION['contesti']) . ";" . $_SESSION['film'];
+	//echo $_SESSION['tecnica'] . ";" . $_SESSION['configurazione'] . ";" . implode(",", $_SESSION['contesti']) . ";" . $_SESSION['film'];
 	//echo implode(",",  $_SESSION['testofrasi']);
 	$spiegazione = "";
 	if ($_SESSION['tecnica'] === "centroide")

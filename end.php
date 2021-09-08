@@ -21,6 +21,7 @@
 	$film = $_SESSION['film'];
 	$titolo = $_SESSION['titolo'];
 	$listaFilm = $_SESSION['top10'];
+	echo implode(",",  $_SESSION['top10']);
 	?>
 
 	<div class="container-fluid bg-light">
