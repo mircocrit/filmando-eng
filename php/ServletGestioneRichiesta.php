@@ -11,7 +11,6 @@ $tecnica = rand(0, 1);
 if ($tecnica === 0)   $tecnica = "normale";
 else $tecnica = "pmi";
 
-$tecnica = "normale";
 $_SESSION['tecnica'] = $tecnica;
 
 $eta =      (isset($_POST['attenzione']) && $_POST['attenzione'] !== "0")  ? $_POST['attenzione'] : null;
@@ -29,11 +28,12 @@ $contextstring =  implode(",", $context);
 //TOP 10 FILM
 $top10film = array();
 $path = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/top10combinazioni-items.txt";
-$file = fopen($path, "r") or die("Unable to open file!");
+$file = fopen($path, "r") or die("Unable to open top10 file!");
 while (($line = fgets($file)) !== false) {
     $pieces = explode("\t", $line);
     if ($pieces[0] === $contextstring) {
-        array_push($top10film, $pieces[1], $pieces[2], $pieces[3], $pieces[4], $pieces[5], $pieces[6], $pieces[7], $pieces[8], $pieces[9], $pieces[10]);
+    	$idfilms = explode(",", $pieces[1]);
+        array_push($top10film, $idfilms[0], $idfilms[1], $idfilms[2], $idfilms[3], $idfilms[4], $idfilms[5], $idfilms[6], $idfilms[7], $idfilms[8], $idfilms[9]);
     }
 }
 echo "TOP10 film per CONTESTI: " . "[" . implode(",", $top10film) . "]" . "<br>";
@@ -47,7 +47,7 @@ fclose($file);
 //CENTROIDE
 $frasicentroide = array();
 $path2 = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi.txt";
-$file2 = fopen($path2, "r") or die("Unable to open file!");
+$file2 = fopen($path2, "r") or die("Unable to open contesti-item-frasi file!");
 while (($line2 = fgets($file2)) !== false) {
     $pieces = explode("\t", $line2);
     if ($pieces[0] === $contextstring) {
@@ -64,7 +64,7 @@ $_SESSION['centroide'] = $frasicentroide;
 //FRASI SINGOLE
 $frasisingole = array();
 $path3 = "../filesFilmando2/"  . $tecnica . "/" . $configurazione . "/contesti-item-frasi-singole.txt";
-$file3 = fopen($path3, "r") or die("Unable to open file!");
+$file3 = fopen($path3, "r") or die("Unable to open contesti-item-frasi-singole file!");
 while (($line3 = fgets($file3)) !== false) {
     $pieces = explode("\t", $line3);
     if ($pieces[0] === $contextstring) {

@@ -2,7 +2,7 @@
 session_start();
 
 echo $_SESSION['configurazione'] . "<br>";
-//echo $_SESSION['film']. "<br>";
+echo $_SESSION['film']. "<br>";
 echo $_SESSION['tecnica'] . "<br>";
 $contesti = $_SESSION['contesti'];
 $tecnica = $_SESSION['tecnica'];
@@ -14,7 +14,7 @@ else
     echo implode(",", $frasisingole) . "<br>";
 
 $path2 = "../filesFilmando2/Scheda Film.txt";
-$file2 = fopen($path2, "r") or die("Unable to open file!");
+$file2 = fopen($path2, "r") or die("Unable to open Scheda Film!");
 while (($line = fgets($file2)) !== false) {
     $pieces = explode(";", $line);
     if ($pieces[0] === $_SESSION['film']) {
@@ -25,7 +25,7 @@ while (($line = fgets($file2)) !== false) {
 $_SESSION['titolo'] = $titoloFilm;
 
 $path = "../filesFilmando2/frasi singoli items/intere/" . $_SESSION['film'] . ".txt";
-$file = fopen($path, "r") or die("Unable to open file!");
+$file = fopen($path, "r") or die("Unable to open frasi intere file!");
 $testofrasi = array();
 while (($line = fgets($file)) !== false) {
     $pieces = explode(";", $line);
