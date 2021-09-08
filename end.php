@@ -50,8 +50,8 @@
   		-->
 				<div class="row justify-content-md-center text-center">
 					<?php
+					$path2 = "filesFilmando2/Scheda Film.txt";
 					foreach ($listaFilm as $temp) {
-						$path2 = "filesFilmando2/Scheda Film.txt";
 						$file2 = fopen($path2, "r") or die("Unable to open file!");
 						while (($line = fgets($file2)) !== false) {
 							$pieces = explode(";", $line);
@@ -64,6 +64,7 @@
 						echo "<img src=\"jpg/" . $temp . ".jpg\" 	class=\"img-fluid\" alt=\"Responsive image\">";
 						echo "</div>";
 					}
+					unset($temp)
 					?>
 				</div>
 
