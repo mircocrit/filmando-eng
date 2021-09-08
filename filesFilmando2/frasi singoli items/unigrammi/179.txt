@@ -1,0 +1,880 @@
+I:15285;1;buy, film, think, be, interesting
+I:15285;2;love, mystery
+I:15285;3;strange, party, cryptic, performance
+I:15285;4;be, devote, love, do, anything, protect
+I:15285;5;be, kill, find, wash, creek, underground, tunnel
+I:15285;6;young, actor, be, convincing, get, impression, high, school, populate, be, big, organized, crime, syndicate
+I:15285;7;sharp, scene, be, negotiate, school, principal, first, shaft, film, fame
+I:15285;8;midst, murder, be, love, interest, note, provide, clue, investigation
+I:15285;9;be, grip, have, anticipation, whodunit, violent, convince, fight, scene
+I:15285;10;be, artful, enterprise, editing, music, underscore, nerve
+I:15285;11;be, effective, startling, teenage, murder, mystery, earnest, cast, intelligent, script
+I:15285;12;deserve, praise, screenplay, direct, skill
+I:15285;13;be, amazing, unusual, flick, angstrom, teen, parallel, kitschy, dark, humor, be, absolute, favorite
+I:15285;14;someone, be, read, find, movie, fantastic
+I:15285;15;put, classic, mystery, novel, language, work, film, base, be, fun, watch
+I:15285;16;be, surprised, much, love, film, watch, be, favorite, film, watch
+I:15285;17;twist, old, classic, make, modern, mutter, teens
+I:15285;18;get, have, film, play, convention, be, hand, come, good, end, be, detective
+I:15285;19;be, convention, story, be, everyone, story, call, life
+I:15285;20;do, have, realistic, quality, character, be, happen, possible, other
+I:15285;21;find, story, realistic, high, school, be, battle, grounds, violence, do, take, place, limelight
+I:15285;22;be, funny, play, convention, contain, textbook, noir, performance, be, reliant, wordplay, expression, expression, be, nice
+I:15285;23;sum, entire, review, feel, be, imperfect, work
+I:15285;24;think, be, excellent, movie, childhood, experience, effect, entire, life
+I:15285;25;love, movie
+I:15285;26;way, speak, character, plot, everything
+I:15285;27;dialog, make, sense, world, film, world, be, everyone, have, say, high, school, layer
+I:15285;28;movie, be, excellent, effort, unusual, direction
+I:15285;29;acting, be, good, character, be, intelligent, most, part, be, mature, teenage, character, american, movie
+I:15285;30;perfect, movie, great
+I:15285;31;be, film, have, age
+I:15285;32;remember, say, like, lot
+I:15285;33;dialog, fresh, sharp, word, express, juno, residual, thanks, noir, theme, get
+I:15285;34;love, feel
+I:15285;35;be, film, know, want, be
+I:15285;36;indulge, embrace, detailed, atmosphere, make, stand, comparable
+I:15285;37;balance, absurd, detail, surroundings, elevate, core, theme, keep, character, believable, appose, insert, caricature
+I:15285;38;rian, be, awesome
+I:15285;39;take, place, school, grounds, tell, story, curious, teen, get, message, girlfriend, claim, need, help
+I:15285;40;take, message, run, find, deep, high
+I:15285;41;levitt, add, much, weight, film, premise, aid, subtle, edge, make, believable, relatable
+I:15285;42;be, great, be, rich, girl, stay, longest
+I:15285;43;be, outstanding, layer, character, mysteriousness, conceive, moment, spark, interest
+I:15285;44;thanks, poetic, script, sharp, directorial, eye, be, new, age, noir, understand, pay, homage, feel, disguise, copycat
+I:15285;45;be, best, noir, presumptuous, teens, have, try, claim, be, smartest, take, genre, year
+I:15285;46;noir, be, hard, genre, master, ooze, enough, charm, originality, take, cake
+I:15285;47;fascinating, be, word, best, describe, film
+I:15285;48;be, clever, blend, noir, high
+I:15285;49;create, sort, milk, cookie, noir, genre, find, fascinating
+I:15285;50;story, be, intriguing, script, be, airtight
+I:15285;51;try, whole, hour, chatter, fast, pronounce, word, understand, metaphor
+I:15285;52;help, put, subtitles/captions, watch, film, catch/comprehend, line
+I:15285;53;music, be, haunt, intoxicate, character, be, classical, cast, be, laughable
+I:15285;54;film, have, potential
+I:15285;55;be, set, piece, compose, artsy, direction, unknown, include, few, potent, track, like
+I:15285;56;haunting, cowbell, theme
+I:15285;57;smooth, detective/seductress, lounge, music, be, best, casual, party, background, music, other, film, nature
+I:15285;58;life, charismatic, unstoppable, protagonist, be, propel, sharp, intelligent, dialogue
+I:15285;59;conscious, film, lack, realism, director, let, guard, articulate, focus, serious, elegant, teenager, remain, believable
+I:15285;60;be, couple, buffyesque, moment, mysterious, villain, mom, prepare, nice, snack, boy, noir, mood, switch, few, seconds, film, return, intact, previous, intensity
+I:15285;61;incongruous, unbelievable, most, dream, film, have, same, ability, hold, viewer, attention
+I:15285;62;be, fascinating, film
+I:15285;63;film, be, recommend, people, british, gritty, crime, dramas, see
+I:15285;64;be, like, be, film, enjoy, see
+I:15285;65;be, good
+I:15285;66;be, slick, stylized, thriller, young, man, try, piece, puzzle, be, leave, love, be, kill
+I:15285;67;levitt, play, lead, do, fantastic, job, play, movie
+I:15285;68;film, have, lot, reference, crime, film, include, dialogue, character
+I:15285;69;support, cast, do, great, job, pin, femme, fatale, movie
+I:15285;70;crime, film, pulp, movie, detective, story, be, movie, worth, effort
+I:15285;71;boil, noir, genre, high, school, setting, be, successful, own, term
+I:15285;72;be, lot, thing, savor, film, main, be, dialogue
+I:15285;73;be, sure, turn, subtitle, get, full, flavor
+I:15285;74;reason, love, way, high, school, seem, desert
+I:15285;75;have, enjoy, point, be, willing, forgive, anything
+I:15285;76;find, like, movie, be, able, keep, everything, spite, jargon/slang
+I:15285;77;bit, obsseive, compulsive, part, want, get, wonderful, word, nuance
+I:15285;78;exceptional, act, exceptional, musical, score
+I:15285;79;say, see, day, be, outstanding, film, have, see, year
+I:15285;80;gritty, violent, baffling, film, work, better, think, anyone, expect, better, have, right
+I:15285;81;recommend, fan, film, noir, detective, story
+I:15285;82;script, directing, acting, music, timing, trick
+I:15285;83;think, be, fantastic, story, be, great
+I:15285;84;be, way, startling, percentage, population, country, grow
+I:15285;85;language, be, strong, forceful, brilliant, setting, dark, drug
+I:15285;86;pull, noir, film, old, update, look, story, have, unique, place, genre
+I:15285;87;level, sophistication, be, up, extreme, level, show, danger, intellect, teen, population, see, celluloid
+I:15285;88;noir, comparison, be, fascinating
+I:15285;89;be, piano, play, portion, pay, homage, play, lover
+I:15285;90;shoot, location, director, alma, mater, edit, home, computer, amazing, flick, win, audience, wonderful, camera, angle, dark, theme, excellent, script
+I:15285;91;have, feel, inde, film, art, style, moremoose
+I:15285;92;deliver, goods
+I:15285;93;script, be, fantastic, actor, be
+I:15285;94;be, original, movie, appeal, anyone, like, good, story
+I:15285;95;fact, setting, style, fit, end, be, pay, make, story, intriguing, enjoyable
+I:15285;96;levitt, be, excellent, loner, hero, fit, noir, detective, archetype, mannerism, tough
+I:15285;97;character, call, mind, number, noir, hero, be, homage, protagonist, series, scene, feature, take, beating, beat, quick, succession
+I:15285;98;most, film, maintain, slow, deliberate, pace, familiar, genre, scene, particular, be, be, chase, unknown, thug, be, direct, deliever, classic, wow, moment
+I:15285;99;conclusion, feature, watermark, influence, be, easy, predict
+I:15285;100;wonderful, film, succeed, respects, be, enjoyable, detective, film, come, year, give, world, new, upcome, writer/director, watch
+I:15285;101;be, fantastic, make, crime, noir, drama, keep, guess, happen, end
+I:15285;102;move, be, high, tension, be, slick, style, dialogue
+I:15285;103;actor, be, great, say, bad, thing, movie
+I:15285;104;crime, movie, mystery, noir, be, thing, be
+I:15285;105;be, central, event, film
+I:15285;106;film, remain, involve, story, worth, view
+I:15285;107;make, high, school, cast, write, high, schooler, be, re
+I:15285;108;cast, b, actor, act, role, have, be, give, point
+I:15285;109;true, throw, noir, make, change, add, color, pull, be, excellent, movie
+I:15285;110;end, feel, good, adventure, movie, hard, dark, edge
+I:15285;111;be, modern, day, film, noir, set, high, school
+I:15285;112;sure, character, speak, way, be, like, real, life, true, gem, movie, be, be, brilliant, storytelling, likeable, character, do, seem, fetch
+I:15285;113;pin, be, crimeboss, quirky, personality, traight
+I:15285;114;movie, be, worth, watch, see, spin, be, put, character, instance, scene, involve, be, treat, meal, pin, mother, be, beat, cellar
+I:15285;115;be, interesting, idea, work, tone, movie
+I:15285;116;be, excellent, movie, worth, amount, praise, receive, be, look
+I:15285;117;good, storyline, fast, shipping
+I:15285;118;best, film, year, powerful, performance
+I:15285;119;anyone, have, see, movie, agree
+I:15285;120;levitt, steal, screen, be, sure, be, see, lot, movie
+I:15285;121;prop, strong, cast, include, watchable
+I:15285;122;get, sucker, see, movie, theatre, last, hour
+I:15285;123;be, real, mystery, movie
+I:15285;124;use, familiar, style, tell, convential, story, unfold, unconventional, way
+I:15285;125;provide, involve, story, rich, character, strange, way, be, aspect, pay, attention
+I:15285;126;familiar, state, be, clear, have, fun, watch
+I:15285;127;tell, be, narrative, style, result, be
+I:15285;128;have, be, direct, first, time, director, show, talent, evoke, mood, energy, screen
+I:15285;129;be, scene, demonstrate, character, name, pin, have, cookie, juice, serve, mother, have, meeting, brick, film, title
+I:15285;130;be, shocking, moment, film, surprise
+I:15285;131;occupy, moment, screen, time, know, know, know
+I:15285;132;say, find, sure, be, fun
+I:15285;133;drop, school
+I:15285;134;independent, movie, write, direct, be, part, stunt, part, style, part, energetic, riff, gumshoe, movie
+I:15285;135;movie, reference, be, drop, name, more, subtlety
+I:15285;136;be, part, stunt, part, style, part, energetic, riff, gumshoe, movie
+I:15285;137;television, know, be, do
+I:15285;138;serious, crackpot, tribute, old, gangster, movie
+I:15285;139;work, be, gifted, wall
+I:15285;140;talk, resourceful, relentless
+I:15285;141;particular, homage, cover, lot, thirty, ground
+I:15285;142;call, plead, help
+I:15285;143;only, ally, be, brain, super, nerd, friend, know, lot, link, unexpected, dot
+I:15285;144;meet, high, school, femme, fatale, afford, excellent, manicure, drama, queen, seem, have, heart, fondness, manipulation, high, school, greaser, shiny, pompadour, dress, black, say, love, tug, blonde, muscle, boy, combine, build, temperament, enthusiastic, steroid, aficionado
+I:15285;145;pin, know, heroin, pay, lot, better, community, college, degree
+I:15285;146;cookie, look, good
+I:15285;147;have, place, heart
+I:15285;148;levitt, manage, complete, assurance
+I:15285;149;see, know, fine, authentic, actor, be
+I:15285;150;sure, be, something, stunt
+I:15285;151;movie, grow, first, be, thrill, like
+I:15285;152;great, noir, humor, pack
+I:15285;153;other, hand, be, stylized, film, school, sort, way
+I:15285;154;acclaimed, shoestring, budget, less, deliver, considerable, bang, buck
+I:15285;155;come, director, film, audience, be, treat, unique, memorable, mystery, film
+I:15285;156;inspire, literary, work, great, detective, novel, be, know, creator, thin, man, set, create, hip, contemporary, noir, film
+I:15285;157;stylized, dialogue, limit, commercial, accessibility, film, be, give, story, refreshing, flavor
+I:15285;158;importance, be, remarkable
+I:15285;159;social, street, savvy, high, school, senior, receive, distressed, phone, call
+I:15285;160;go, resourceful, friend, brain, seem, have, dirt, everyone, school
+I:15285;161;intrigue, be, elevated, be, trouble
+I:15285;162;know, be, possible?another, great, strength, film, be, use, atmospheric, evocative, music
+I:15285;163;film, feature, talented, young, cast, include
+I:15285;164;cast, feature, cameo, role
+I:15285;165;entire, cast, be, spectacular, consider, difficulty, deliver, such, strange, stylized, dialogue, sense, sincerity
+I:15285;166;movie, be, good
+I:15285;167;debut, film, cause, something, minor, sensation, critic, discerning, cineaste, year, win, special, jury, be, nominate, award, award, best, film, production, budget
+I:15285;168;brother, film, adopt, stylized, noir, slang, case, contrast, contemporary, look, work
+I:15285;169;cast, be, excellent, handle, stylized, prose
+I:15285;170;credit, make, fascinating, choice, frame, scene, use, unusual, close
+I:15285;171;be, movie, keep, guess, know, expect, next, display, confidence, direction, trust, take, want
+I:15285;172;be, amazing, debut, film, ingenuous, premise, such, novel, way, execute, find, draw, world, have, create
+I:15285;173;be, excellent, be, obvious, get, role
+I:15285;174;be, solid, commentary, track, fill, lot, good, observation, fascinating, information, movie, be, make
+I:15285;175;be, due, cast, young, actor, play, part, sincerity, caution, appear, high
+I:15285;176;levitt, get, message
+I:15285;177;girlfriend, claim, need, help, sort, find, delving, underground, ring, high
+I:15285;178;have, be, fan, while, favor, brilliant, work, mysterious, skin, unworthy, nominee, last, year, continue, prove, weight, gold
+I:15285;179;turn, convincing, connive, manipulative, tramp, form, do, great, job, confidant, friend, brain
+I:15285;180;script, be, major, create, poetic, lingo, today, teens, give, film, interesting, perspective, lead, interesting, conversation
+I:15285;181;be, lot, be, good, have, dialog, grab, hold, attention
+I:15285;182;best, dialog, be, share, brain, spit, line, line
+I:15285;183;plot, boiler, go, pull, punch, deliver, %, give, something, new, fresh, unique, something, do, wrong, have, be, disastrous, brilliant, script, act, boot, become, fascinating, memorable, thriller, recent, year
+I:15285;184;fun, have, have, theater, year
+I:15285;185;dialogue, be, fast, clever
+I:15285;186;hear, great, review, friend
+I:15285;187;cleverness, overwhelm, film
+I:15285;188;other, oddity, notice, be, rate, be, sure, hear, single, obscenity, something, pg, movie, have
+I:15285;189;violence, hero, get, punch, lot, be, one.yes, arty
+I:15285;190;agree, be, clever, engaging, point, point
+I:15285;191;dubious, pk, choice, movie, be, surprise, turn, be, best, movie, have, see, year
+I:15285;192;debut, film, writer, director, be, stylized, clever, film, noir, teenaged, cast, speak, jargon, classic, black, white, film
+I:15285;193;set, present, day, use, shakespearean, talk
+I:15285;194;winner, film
+I:15285;195;trailer, be, intriguing, be, excite, watch, movie
+I:15285;196;actor, mumble, lot
+I:15285;197;writing, superb, adaptation, drop, story, novella, movie, be, base
+I:15285;198;time, poetic, dialogue, make, forget, be, kid, subtle, reminder, fact, add, clever, comedic, moment
+I:15285;199;brick, be, amazing, movie
+I:15285;200;best, write, movie, have, see
+I:15285;201;movie, have, paper, least
+I:15285;202;great, premise, talented, cast, great, shot, intrigue, mystery, great, film
+I:15285;203;actor, suprise, great, performance
+I:15285;204;be, aspect, film, seperate, many, other
+I:15285;205;be, creative, dialogue, use
+I:15285;206;casting, be, do
+I:15285;207;do, mention, music, score
+I:15285;208;favorite, movie, time
+I:15285;209;great, story, follow, shoot, movie, boot
+I:15285;210;movie, great, watch, jgl, be, phenomenal
+I:15285;211;addition, such, celebrated, award
+I:15285;212;stay, be, rivet, sinister, mystery, plot, touch, heartache, hero, tough
+I:15285;213;actor, play, inhabit, role, emotion, ring, true, crime, movie
+I:15285;214;everybody, excellent, be, impressed
+I:15285;215;be, action, pack, movie
+I:15285;216;be, see, movie, keep, edge, seat
+I:15285;217;recommend, friend, family
+I:15285;218;great, movie
+I:15285;219;johnson, approach, seem, innovative, casual, film
+I:15285;220;viewer, replace, mature, actor, teenager, maintain, overall, spirit, film
+I:15285;221;only, difference, be, young, director, time, create, complex, work
+I:15285;222;life, young, people, be, engaging, matter, viewer, age
+I:15285;223;find, reveal, create, work, adolescent, target
+I:15285;224;be, common, many, film, genre
+I:15285;225;sniffer, be, genuine, photo, hamburger, fast, food, menu
+I:15285;226;film, be, full, implausibility, self
+I:15285;227;cool, stuff, form, central, character, be, kind, unlikely, nerd
+I:15285;228;dracula, resemble, dope, dealer, be, hilarious, be, pump, bodyguard
+I:15285;229;camp, old, work, be, good, description, much, film
+I:15285;230;style, film, noir, narrative, technique, place, contemporary, high, school, setting
+I:15285;231;movie, timeline, jump, moment, discover, dead, body, entrance, concrete, waterway, tunnel
+I:15285;232;make, impression, look
+I:15285;233;kilter, cinematography, major, add, moody, atmosphere
+I:15285;234;plot, twist, be, clever, true, emotional, resonance, various, element, have, be, connect, effective, manner
+I:15285;235;thrill, see, movie, delight, visual, do, let, image, lie, flat, screen
+I:15285;236;movie, be, homage, noir, be, pure, unrepentant, noir
+I:15285;237;twist, dialogue, complex, plot, gorgeous, photography, femme, fatale, flower, hair, amoral, vixen, gang, war, clueless, mother, vicious, gangster, be
+I:15285;238;be, best, thing, movie
+I:15285;239;be, believable, high, school, gumshoe, solve, murder, dame
+I:15285;240;rest, cast, do, great, job, girl, be, pin
+I:15285;241;great, movie, be, ignore, original, run, do, play, theater
+I:15285;242;read, book, be, cool
+I:15285;243;be, funny, tough, high, school, be
+I:15285;244;heel, dig?brendan
+I:15285;245;get, sens, sleep, last, night
+I:15285;246;read, example, get, feel, awkward, dialogue, be, imagine, hear, dialogue, actor, do, seem, understand, dialogue
+I:15285;247;be, someone, love, good, mystery
+I:15285;248;writing, be, excellent, be, plenty, sunshine, be, plenty, dark, brooding, atmosphere
+I:15285;249;consider, soundtrack, great, exercise, minimalist, modern, music
+I:15285;250;great, casting, excellent, film
+I:15285;251;be, edge, seat, whole, movie
+I:15285;252;have, high, hope, movie
+I:15285;253;love, deep, think, suspense, movie
+I:15285;254;have, high, hope, film
+I:15285;255;best, movie, have, see, claim
+I:15285;256;film, give, teenage, life, drama, think, have
+I:15285;257;kid, love, film
+I:15285;258;year, be, ashamed, admit
+I:15285;259;be, grow, be
+I:15285;260;movie, have, beautiful, shot, love, story
+I:15285;261;cast, be, superb, merit
+I:15285;262;love, film, little
+I:15285;263;writing, be, tight, smarty, pants
+I:15285;264;character, be, detail, vivid, lovable
+I:15285;265;do, good, take, decade, get, film, make, mm
+I:15285;266;blow, win, special, jury, prize, originality, vision
+I:15285;267;enjoy, hard
+I:15285;268;be, classic, film, noir, twist
+I:15285;269;have, element, film, noir
+I:15285;270;be, twist, character, be, high, school
+I:15285;271;think, reason, film, work, be, take
+I:15285;272;character, talk, be, film, noir
+I:15285;273;be, work
+I:15285;274;create, whole, new, world, have, see, do, back, second, present, world, gritty, detail
+I:15285;275;film, work, know, be, suspend, lot, disbelief, throw, couple, scene, let, know, be, ok, laugh, want
+I:15285;276;be, great, scene, private, eye, pin, meet, dining, room, table, pin, house, mother, serve, lemonade
+I:15285;277;actor, be, top, notch
+I:15285;278;camera, work, be, great
+I:15285;279;plot, be, twisty, unpredictable
+I:15285;280;be, engaging, fun, cinematic, experience
+I:15285;281;side, note, be, fan, see, pick, direct, reference, maltese, falcon
+I:15285;282;frame, be, orchestrate, compose, perfection
+I:15285;283;dialogue, be, meter, speak, contemporary, shakespearean, beat
+I:15285;284;have, create, poetry, first, feature, length, film
+I:15285;285;pierce, verge, tear
+I:15285;286;stay, low, nose, clean, old, love, bring, world, be, spiral, control
+I:15285;287;have, flip, genre, head, brilliant, effect
+I:15285;288;medium, story, be, play, perfection
+I:15285;289;teacher, conference, be, deliver, straight, face, pierce, confidence
+I:15285;290;wit, be, laugh, seeming, absurdity, weight, story, hold, strong
+I:15285;291;place, humor, help, realize, gravity, everything
+I:15285;292;levitt, shine, role, prove, be, best
+I:15285;293;perfect, turn, violent, teen, wonderful, teenage, hustler, vagrant, disturbing, unforgettable, mysterious, skin, be, make, bold, choice, continue, great, run
+I:15285;294;accompany, score, piano, brass, jazz, fit, atmosphere, late, scene
+I:15285;295;be, stylish, modern, day, noir, use, high, school, student, main, star, student, be, go, class
+I:15285;296;keep, mood, hard
+I:15285;297;have, get, knife, eye
+I:15285;298;like, effort, make, be, fresh, take, noir, film, be
+I:15285;299;be, daring, piece, crime, cinema, revolve, certain, subculture, high, school
+I:15285;300;school, grounds, story, transpire, few, house
+I:15285;301;enjoy, movie
+I:15285;302;be, hard, apply, accept, premise, accept, bit, film
+I:15285;303;cast, character, be, joy, experience
+I:15285;304;be, refreshing, entry, murder
+I:15285;305;be, stylish, dark, funny
+I:15285;306;watch, young, actor, play, noir, archetype, talk, talk, walk, walk, be, amusing
+I:15285;307;like, lot
+I:15285;308;star, powerful, drug, lord, live, mom
+I:15285;309;sure, be, fun, watch
+I:15285;310;be, genre, piece
+I:15285;311;have, open, mind, least, realize, be, get, discover, creative, spin, stagnant, genre, excellent, performance
+I:15285;312;levitt, best, film, recent, year
+I:15285;313;be, make, movie
+I:15285;314;film, noir, mystery, set, modern, day, highschool
+I:15285;315;acting, be, excellent, cinematography, be, great
+I:15285;316;love, be, banter
+I:15285;317;levitt, give, great, performance, play, resourceful, highschool, rebel
+I:15285;318;recommend, film, anyone, someone, appreciate, film, artform
+I:15285;319;say, be, best, execute, translation, classic, noir, genre, other, period?the, script, be, smooth, stylized, manner
+I:15285;320;character, play, character, few, moment, noir, facade, be, break, point, be, teenager, mob, boss, mother, serve, protagonist, glass, milk, get, talk, business, drug, crime, espionage, work, complement, mood
+I:15285;321;be, stylized
+I:15285;322;classic, be, sure, be
+I:15285;323;watch, countless, time, make, sure, best, friend, have, see
+I:15285;324;be, good, movie, other, fact, high, schoolthis, be, much, drama, high, school, that, make, movie, funny
+I:15285;325;be, great, film, entertaining
+I:15285;326;fan, film, noir, get, kick, mixture, big
+I:15285;327;brick, be, amazing, film, due, heavy, use, tough
+I:15285;328;laugh, funny, part, be, edge, seat, tense, part
+I:15285;329;give, high, praise, director, cast
+I:15285;330;film, have, nonchalant, style, own, have, good, plot, set, start, be, bamboozled, do, use, word
+I:15285;331;best, thing, confusing, ride, be, end
+I:15285;332;strange, reason, artificiality, dialogue, farcical, nature, proceedings, work, give, conceit
+I:15285;333;detective, style, be, usual, archetype, manipulation
+I:15285;334;seem, sort, fresh, setting, high, school
+I:15285;335;most, tend, discover, detective, novel, teen, year, seem, fitting, project, trope, world, imagine, high, school, be, microcosm, thing, read, pulp, fiction
+I:15285;336;take, side
+I:15285;337;brick, crowd, enjoy
+I:15285;338;character, be, write, act
+I:15285;339;enjoyable, nice, ending
+I:15285;340;acting, be, superb, story, be, awesome, engaging, keep, eye, screen, entire, time, be, film, direct, care, be, rare, film, day
+I:15285;341;film, be, influence, class, genre, movie, many, mafia, film, be, original, piece, be, great, change, film, be, plague, mainstream, cinema, speak
+I:15285;342;cutter, flashy, trash, most, young, director, seem, grasp, hold, be, refreshing, amazing, behold
+I:15285;343;plot, be, bit, greatest, work, big
+I:15285;344;be, tense, little, convoluted, breathtaking, behold
+I:15285;345;performance, be, spot
+I:15285;346;be, aware, be, take, ride, enjoy, minute
+I:15285;347;be, ambitious, attempt, hybrid, derivitive, indy, type, film, make
+I:15285;348;such, attempt, yield, incredible, result, witch, project
+I:15285;349;be, original, concept
+I:15285;350;allow, right, treatment, have, work, degree
+I:15285;351;be, machine, gun, cadence, dialogue, delivery, time, be, funny
+I:15285;352;be, good, thing, people, real, world, do, talk, way, noir, character, do
+I:15285;353;appreciate, aspect, noir, genre, have, enjoy, do, classic, noir, film
+I:15285;354;adversary, entire, world, be, intelligent, amoral, calculate, crime, boss, gaggle, lesser, mind, goon, tow
+I:15285;355;be, confident, say, divulging, detail, do, constitute, spoiler
+I:15285;356;noir, genre, definition, be, hinge, extreme, melodrama, quirky, intense, dialogue, extreme, machismo
+I:15285;357;depict, backdrop, plausible, character, formula, work
+I:15285;358;director, writer, aim, high, be, commend
+I:15285;359;movie, be, great, character, be, intense, story, be, real, pleasure, thriller, film, noir, aficionado
+I:15285;360;be, intriguing, murder, mystery, false, turn, end, be, kind, expect, be, do
+I:15285;361;film, be, sparse, give, main, character, be, teenage, boy, shot
+I:15285;362;movie, be, good
+I:15285;363;be, type, film, catch, cable
+I:15285;364;movie, bring, life, genre, have, disappear, mainstream, cinema, bring, refreshing, feeling, originality, use, unconventional, character
+I:15285;365;leavitt, be, great, film, have, take, lot, risk, role, play
+I:15285;366;snappy, dialogue, deliver, rapid, fire, pace, flowery, turn, phrase, have, pay, attention, decipher
+I:15285;367;noir, type, film, have, standard, archetype, hero, be, seek, justice, brainy, sidekick, femme, fatale, gal, heart, gold, larger, life, villain, play, dunderhead, henchman
+I:15285;368;hear, young
+I:15285;369;film, be, daring, brutal, time, fun
+I:15285;370;turn, be, be, wonderful, neo
+I:15285;371;be, terse
+I:15285;372;act, anything, genre, have, see
+I:15285;373;several, delightful, twist, do, see, come
+I:15285;374;talk, be, kid, be, be, have, meeting, pin, kitchen, table
+I:15285;375;juxtaposition, be, hilarious, clever, needed, moment, comic, relief
+I:15285;376;movie, be, great, be, watch, time, viewer, learn, something, new
+I:15285;377;have, excellent, dark, mood, be, fascinating, filmmaker, update, film, noir, genre, modern, day, high, school
+I:15285;378;love, way, character, talk, film
+I:15285;379;recommend, watch, movie, subtitle, focus, action, subtitle, uncover, secret, twist, dialogue
+I:15285;380;movie, leave, lot, ponder, week
+I:15285;381;movie, have, great, pace, interesting, feel
+I:15285;382;levitt, have, blossom, actor, siince, time, 3rd, do, spectacular, job, take, audience, dark, world, drug, super, hip, smart, player, try, find, killer
+I:15285;383;dialogue, take, few, minute, adjust, start, emerse, director, have, create, become, part
+I:15285;384;be, alternate, world
+I:15285;385;be, lot, fun, visit
+I:15285;386;screenplay, be, consistent, deliver, add, strange, atmosphere, be, ease, something, abstract, ususal, mainstream, screenplay, write, people, want, be, spoon
+I:15285;387;speak, classic, book/movie, complaint, moment, notice
+I:15285;388;boot, hail, masterpiece
+I:15285;389;clever, concept, film, noir, contemporary, setting
+I:15285;390;effort, execution, worth, see
+I:15285;391;best, film, noir, year
+I:15285;392;sharp, tense, story, fantastic, cast, beautiful, location, great, music
+I:15285;393;levitt, best, film, triumph, writer/director
+I:15285;394;boil, noir, movie, forty, cast, high
+I:15285;395;mystery, set, high, school, be, pure, movie, fancy
+I:15285;396;clever, fascinating, ruse, be, devise
+I:15285;397;plot, be, mind, twister, worthy, kiss
+I:15285;398;acting, dialogue, be, sincere, hip
+I:15285;399;great, support, give, extra, heft
+I:15285;400;good, writing, good, act, revive
+I:15285;401;think, have, take, teenager, lot, do, order, enjoy, movie
+I:15285;402;be, movie, have, be, watch, everything, be, great
+I:15285;403;noir, detective, movie, be, elabortate, surreal, fill, good, s, dialogue
+I:15285;404;story, jump, day, see, same, girl, hand, slip, note, locker
+I:15285;405;locker, belong, course, note, give, direction, go, certain, payphone, wait
+I:15285;406;be, lot, elaborate
+I:15285;407;make, whodunit, movie, be, hard, be, be, do, many, time, see, twist, mile
+I:15285;408;happen, try, figure, be, go, be, entertaining
+I:15285;409;movie, be, elaborate, pay, close, attention
+I:15285;410;suspense, mystery, be, movie
+I:15285;411;dialogue, be, hard, follow, be, familiar, slang, cinematography, sound, music, couple, best, indie, act, have, see, make, experience, change, way, look, movie
+I:15285;412;be, great, oppinion
+I:15285;413;do, see, entertaining, fulfil, flick, afternoon
+I:15285;414;see, preview, film, be, entrance, camera, shot, style, jargon, character, be, spot
+I:15285;415;do, know, describe, genuis, film, take, novel, misguided, idea, twist, greatest, noir, detective, story, have, have, pleasure, viewing
+I:15285;416;have, lot, fun, pick, dialogue, tidbit, other, film
+I:15285;417;be, least, dozen
+I:15285;418;be, much, love, cinema, general, be, homage, genre, particular
+I:15285;419;be, review, well
+I:15285;420;smart, acting, mental, fencing, .3
+I:15285;421;smart, dialogue, tension, game
+I:15285;422;be, favorite, modern, film
+I:15285;423;transpose, realm, present, love
+I:15285;424;recommend, big, have, see, original
+I:15285;425;cover, edition, have, excellent, production, commentary, include, expand, delete, scene, be, good, viewing
+I:15285;426;be, view
+I:15285;427;online, transfer, be, good, clear, intelligible, soundtrack
+I:15285;428;delete, scene, be, good, screen, test, be, ok
+I:15285;429;term, be, use, describe, person, be, control, such, man
+I:15285;430;case, definition, be, combine
+I:15285;431;ride, car, pick
+I:15285;432;wield, weapon, shine, blade
+I:15285;433;ace, be, highest, playing, card, mean, high
+I:15285;434;strip, say, be, show, ace, be, say, most, valuable, asset, be, beauty, use, manipulate, people, lap, dog, dode, etc
+I:15285;435;delete, scene, be, great, introduction, be, good, useful, anything, great, have, offer
+I:15285;436;movie, be, best, film, have, see, auspicious, debut, akin
+I:15285;437;film, beg, good, special, edition
+I:15285;438;language, dramatic, flair, perfect, perversion, noir
+I:15285;439;do, feel, compel, offer, few, thought
+I:15285;440;recommend, film, hesitation
+I:15285;441;script, be, smart, engaging, actor, appeal, conceit, stage, classic, noir, modern
+I:15285;442;light, high, school, work
+I:15285;443;be, movie, want, be, apology
+I:15285;444;trust, know, couple, people, do, get
+I:15285;445;lover, film, love, filmmaker, show, real, knowledge, appreciation, genre, work
+I:15285;446;think, be, decent, movie
+I:15285;447;laugh, loud, scene, vice, principal, office, vice, principal, student, act, way, do
+I:15285;448;drop, start, hang, popular, kid, be, miss
+I:15285;449;speak, teen/drug, code, be, unique, have, turn, subtitle, understand
+I:15285;450;figure, slang, mean, be, fascinating, new, language
+I:15285;451;levitt, have, mature, lot, be, in3rd
+I:15285;452;carry, movie
+I:15285;453;give, subtle, eerie, performance, club
+I:15285;454;be, moody, intense, unflinching, look, teen, drug, world, be, interesting, be, curse, word, drug, be, mention, name, drug, be, take, camera
+I:15285;455;best, movie, have, see, year, best, see, year
+I:15285;456;be, interesting, dialogue, be, film
+I:15285;457;levitt, play, be, high
+I:15285;458;dialogue, be, make, film, interesting
+I:15285;459;plus, suspense, factor, help
+I:15285;460;background, music, be, wonderful, help, buildup, suspense
+I:15285;461;be, sure, find, movie, interesting
+I:15285;462;weird, little, experiment, be, half, bad, be, lot, successful, try, pull, off, be, closer
+I:15285;463;win, special, jury, have, grant, writer
+I:15285;464;other, half, be, listen, character, have, say, rhythm, be, glossary, be, idiosyncratic, dynamic, be, pure, high, school, favorite, be, be, engage, conversation, have, descend, party, say, lot, shoot, be, thesaurus, library
+I:15285;465;most, part, movie, take, place, world, adult, be, absent, be, few, notable, exception
+I:15285;466;illusion, strange, reality, be, maintain, start, finish, confront, guilty, party, middle, high, school, football, field
+I:15285;467;point, invite, comparison, maltese, falcon, point, know, have, buy, game, plan, enjoy, overt, homage, be, final, nail, coffin
+I:15285;468;result, be, enough, warrant, round, film, hope, find, something, creative, next, venture
+I:15285;469;movie, be, grip, intelligent
+I:15285;470;be, amazing, recommend, movie, anyone, enjoy, good, murder, mystery
+I:15285;471;be, edgy, cut, film, shoot, shoestring
+I:15285;472;screenplay, win, award, critic, critic
+I:15285;473;be, nominate, promising, director, critic, award
+I:15285;474;film, win, special
+I:15285;475;be, excellent, bothstop
+I:15285;476;laugh, tv, be, wonderful, see, growth, actor, poise, become, major, star, right, film
+I:15285;477;carry, love, sleeve, seek, find, truth, girlfriend, murder
+I:15285;478;go, football, star, enhance, status
+I:15285;479;create, role, be, interested, see, face, emerge
+I:15285;480;be, interesting, performance, treatment, character
+I:15285;481;noah, turn, excellent, performance
+I:15285;482;bring, childlike, charm, goth, exterior
+I:15285;483;banter, be, bouncy, ping
+I:15285;484;have, nice, moment, stage, chanteuse, enjoy, makeup
+I:15285;485;beginning, film, find, fast
+I:15285;486;film, unwind, acclimate, hip, lingo, be, cool, shorthand, provide, miss, piece, puzzle
+I:15285;487;example, talk, have, be
+I:15285;488;enjoy, film, appreciate, give, free, reign, support, character, shine
+I:15285;489;be, evening, entertainment
+I:15285;490;unique, mixture, contemporary, teen
+I:15285;491;angst, classic, noir, sensibility, be, priceless, wonderful
+I:15285;492;young, actor, rise, occasion
+I:15285;493;work, occasional
+I:15285;494;be, compelling
+I:15285;495;be, surreal, haunting, work, art, lighting, face, music, editing
+I:15285;496;renew, believe, film
+I:15285;497;see, see
+I:15285;498;happen, brick
+I:15285;499;fact, stay, top, week, spring/summer
+I:15285;500;suppose, give, concept, direction, do, good, job
+I:15285;501;levitt, do, fine, impression, teen
+I:15285;502;way, super
+I:15285;503;most, teens, real, life, be, balance, cool, self
+I:15285;504;conscious, awkwardness, everyone, exhibit, flawless, film, version, sing
+I:15285;505;hear, movie, friend, rave, deep, hardcore, heart, wrenching, film, be
+I:15285;506;have, see, preview, be, intrigue, look, fresh, unique!sadly, film, try, way, hard, be, thing, friend, say, be
+I:15285;507;feel, only, people, enjoy, movie, be, indie, high, school, kid, think, intellect
+I:15285;508;levitt, get, better, time
+I:15285;509;be, interesting, take, murder, investigation, high, school, student
+I:15285;510;hard, boil, detective, angle, be, excellent
+I:15285;511;be, fantastic, detective, story, full, twist, turn, keep, entertain, whole, time
+I:15285;512;levitt, be, phenomenal, amazing, watch
+I:15285;513;be, great, director, writer
+I:15285;514;be, old, film, noir, new, twist
+I:15285;515;great, performance, include, slyer, witty, slang, dialogue, take, simple, premise, add, innovative, flavor, create, deadly, original, yarn
+I:15285;516;feature, crisp, dialogue, atmospheric, cinematography, sparse, music, cool, style, be, force, be, reckon, original, take, neo
+I:15285;517;focus, feature, have, way, make, product
+I:15285;518;think, provide, good, look, underworld, exist, many, middle, class, american, high, school
+I:15285;519;grow, high, school, drug, prevalence, resonate
+I:15285;520;feel, relate, movie
+I:15285;521;main, character, bring, everyone, be, involve
+I:15285;522;best, revenge, have, see, movie
+I:15285;523;want, like, movie, see, preview, movie, look, interesting
+I:15285;524;only, reason, give, movie, star, be, act, be, good
+I:15285;525;think, such, critic, be, engage, subtle, hypocrisy
+I:15285;526;literalist, enjoy, classic, film, noir
+I:15285;527;be, challenge, enjoy, absurdity, enjoy, be, absurd
+I:15285;528;be, same, time, live
+I:15285;529;be, subversive, be, poke, fun, audience, expectation
+I:15285;530;movie, have, dark, tone
+I:15285;531;character, main, character, friend, confidant, brain, use, strange, slang, communicate
+I:15285;532;grow, feeling, urgency, situation, be, sure, be
+I:15285;533;be, something, important
+I:15285;534;be, suspenseful, interesting, enough, keep, watch
+I:15285;535;character, be, interesting, mysteriousness
+I:15285;536;be, good, flick
+I:15285;537;enjoy, plot, play
+I:15285;538;female, lead, be, intoxicate
+I:15285;539;be, real, treat
+I:15285;540;be, proud, slang, be, encase, witty, dialogue.you, have, like, sort, thing, course, do, be
+I:15285;541;recommend, fan, sort, thing
+I:15285;542;be, interesting, film, tell, story, college, kid, investigate, death
+I:15285;543;make, stand, be, film, be, present, style, film, noir, teenager, role, gumshoe, detective
+I:15285;544;be, nice, idea, follow, similar, plot, investigation, few, twist, turn, way
+I:15285;545;everyone, do, good, job, role, particular, lead
+I:15285;546;style, gimmick, be, solid, enough, film, everyone, play, part, story, unfold, decent, pace
+I:15285;547;style, do, set, prove, undoing
+I:15285;548;be, film, do, set, step, higher, impression, remain
+I:15285;549;do, present, interesting, juxtaposition, do, hamper, enjoyment
+I:15285;550;leave, film, be, bit, tricky, rate, be, decent, enough, film, entertaining, have, be
+I:15285;551;be, bad, watch, means, do, stand, many, other, teen, movie, worth, check
+I:15285;552;work, think, use, phrase
+I:15285;553;least, have
+I:15285;554;be, good, writing
+I:15285;555;levitt, good, mysterious, skin, teenage, strong, overtone, strong, low, tone
+I:15285;556;first, time, director, exhibit, strong, sense, style, amazing, finesse, young, cast, come, caring, thoughtful, stable, human, being
+I:15285;557;levitt, be, refreshing, daring, astringent, creation, such, be, be, miss, anyone, interested, contemporary, american, movie
+I:15285;558;have, say, be, best, movie, have, see, year, do, think, see, top
+I:15285;559;be, unfamiliar, approach, movie, be, detective
+I:15285;560;whodunit, movie, catch, be, set, modern, time, involve, high, school, kid
+I:15285;561;film, be, do, make, catch, guard
+I:15285;562;film, seem, innocent, fun, glance, get, realize, dark, brutal, get
+I:15285;563;be, film, noir, finest, poke, fun, be, dark, serious, movie
+I:15285;564;sell, movie, end, be, great, performance, cast, lead, actor
+I:15285;565;stand, be, something, have, be, admire, degree
+I:15285;566;recommend, see, more
+I:15285;567;like, first, time, appreciate, be, second, viewing
+I:15285;568;take, ride, have, say, love, minute
+I:15285;569;be, exhilarating, brilliant, film, take, lot, chance, apologize, anybody, end
+I:15285;570;be, love, hate, think, be, worth, time, check
+I:15285;571;be, look, something, be, typical, dull, recommend
+I:15285;572;be, high, list, favorite, movie, take, day
+I:15285;573;be, cultist, favorite, noir, gritty, suburban, life, today, impasse, teen, flick, reason, be, original, level, see
+I:15285;574;story, complex, form, be, core, simple, mystery
+I:15285;575;steal, film, nail, character, right, smack, skull
+I:15285;576;hero, century, have, see
+I:15285;577;be, mood, film, be, claustrophobic, horrifying, glide, line, time
+I:15285;578;exciting, refreshing, picture, experimental, eternal, spotless, mind
+I:15285;579;paint, modern, classic, be, sure, have, people, spin, seat
+I:15285;580;be, relief, have, breath, fresh, air, industry, polluted, same, thing, something, spectacular
+I:15285;581;win, special, jury, originality, vision, have, award, be, deserve
+I:15285;582;witty, entertaining, low
+I:15285;583;surprise, be, director/screenwriter, play, story, get, same, time, touch, uncomfortable, truth, grow
+I:15285;584;levitt, delicate, poetic, look, belie, limitless, resource, toughness, courage, go, underground, school, drug
+I:15285;585;be, stylish, atmospheric, miniscule, budget, be, masterful, capture, claustrophobic, milieu, antagonist, lurk
+I:15285;586;be, scene, action, suspense, put, big
+I:15285;587;levitt, be, become, great, american, screen, actor
+I:15285;588;need, see, film, catch, detail, want, see, more
+I:15285;589;like, best, be, small, budget, be, great, look
+I:15285;590;background, nice, interior, set
+I:15285;591;have, more, twist, turn, best, part, be, do, need, headphone
+I:15285;592;movie, offer, fresh, insight, hierarchy, people
+I:15285;593;give, star, good, acting
+I:15285;594;be, smart, creative, dark, sense, humor
+I:15285;595;rarity, box, office, day
+I:15285;596;whole, thing, be, great, twist, classic, film, noir, detective, genre
+I:15285;597;accept, premise, be, kind, wink
+I:15285;598;wink, audience, be, unrealistic, be, point, enjoy, ride
+I:15285;599;find, movie, interesting, riveting, time
+I:15285;600;levitt, be, terrific, talent, have, bright, future
+I:15285;601;love, documentary, film, deal, reality, credibility, rank, high, requirement, good, fiction, movie, least, good, crime, drama
+I:15285;602;give, chance, suppose, younger, viewer, be, open
+I:15285;603;schooler, be, sophisticated, devious, suspend, sense, credibility, let, story, take, enjoy
+I:15285;604;be, interesting, premise, remind, same, time
+I:15285;605;path, point, a, point, b, be, twisted, full, quick, dialogue, beautiful, camera, shot
+I:15285;606;way, movie, bounce, have, several, interesting, character, remind, movie
+I:15285;607;be, strong, film
+I:15285;608;performance, be, solid, put, big
+I:15285;609;independent, feel, movie, unique, character, crime, plot
+I:15285;610;have, see, preview, movie, be, interested, be, see, movie, list, top, high, school, movie, time, same, category, such, classic, be, intrigue
+I:15285;611;boot, film, have, edge, make, world, high, school, setting, film, noir
+I:15285;612;informant, name, brain, classic, geek, work, rubric, cube, delve, world, jock, beautiful, people, burn
+I:15285;613;be, course, beautiful, treacherous, femme, fatale
+I:15285;614;bit, score, card, be, need, keep, track, thing, lot, work, fascinating, way, plot, plot, plot, lead, tough, plain
+I:15285;615;throwback, detective, noir, flick, set, high, school, excellent, movie, keep, viewer, glue, snappy, dialogue, sturdy, plot
+I:15285;616;levitt, be, wonderful, outcast, protagonist, walk, fine, line, brooding, witty, investigate
+I:15285;617;do, want, give, anything, movie, be, movie, less, know, more, fun, ride, be
+I:15285;618;writing, be, brilliant, character, be, interesting, compelling
+I:15285;619;style, be, reminiscent, best, film, noire, have, offer, have, fresh, edgy, style
+I:15285;620;read, other, review, give, much, ruin, watch, movie, enjoy
+I:15285;621;top, favorite, have, hot, lil, hand
+I:15285;622;piece, fit, story, be, do, movie, be, fascinating, attempt, fit, noir, detective, story, interesting, most, teen, movie, give, shot
+I:15285;623;feel, school, play, people, recite, line
+I:15285;624;hang, track, down, tell, be, fine, be, problem
+I:15285;625;next, day, find, dead, charge, task, find, killer
+I:15285;626;good, be, hyped, movie, view, trailer
+I:15285;627;look, cool, edgy
+I:15285;628;film, noir, concept, movie, be, good, idea, think, concept, movie, be, good
+I:15285;629;be, great, idea, execution
+I:15285;630;movie, have, feel, novel, bring, big, screen
+I:15285;631;think, long, turn, protagonist, high
+I:15285;632;enjoy, movie
+I:15285;633;be, many, scene, have, absorb, mood, feel, atmosphere, expression, actor, face
+I:15285;634;be, lot, nod, old
+I:15285;635;levitt, make, good, showing, excellent, mysterious, skin, prove, watchable
+I:15285;636;perfect, hardboiled, detective, story, tradition
+I:15285;637;think, be, clever, entertaining, piece, work
+I:15285;638;creative, team, do, be, take, story, have, become, clich, modern, cinema, breathe, new, life
+I:15285;639;be, unique, be, high
+I:15285;640;get, enjoy, movie
+I:15285;641;adult, existence, be, do, make, movie, fun, watch
+I:15285;642;movie, brick, big, way
+I:15285;643;movie, be, good, attempt, be, art
+I:15285;644;see, movie, movie, theater, have, pre
+I:15285;645;crime, novel, be, easy, see, noir, fiction, become, such, rich, source, creative, movie
+I:15285;646;be, latest, series, great, good, movie, kiss, kiss, use, trappings, noir, literature, earlier, noir, film
+I:15285;647;speech, character, work, teenager, be, kid, serious, theme, deadly, consequence
+I:15285;648;be, joke, kiss, kiss, main, character, get, beat, humor, come, tense, confrontation, gumshoe, kingpin, be, interrupt, kingpin, mom, serve, orange, juice
+I:15285;649;much, surreal, eat, lunch, type, dialogue, be, see, device, show, lot, teens, turn, dope, dope
+I:15285;650;levitt, character, school, principal, play, great
+I:15285;651;act, film, be, top
+I:15285;652;notch, great, pleasure, see
+I:15285;653;compare, earnest, film, high, school, elephant, be, easy, see, professional, actor, elimination, background, clutter, make, better, presentation
+I:15285;654;be, nice, see, have, healthy, number, passionate, defender, page
+I:15285;655;only, wish, be, see, first, time
+I:15285;656;read, great, review, film, take, library
+I:15285;657;be, draw, presence, lead
+I:15285;658;levitt, appealing, young, actor
+I:15285;659;know, be
+I:15285;660;charming, cute, be, do, seem, street
+I:15285;661;smart, tough, guess, be, suppose, be
+I:15285;662;be, amazing, glass, survive, physical, abuse, take
+I:15285;663;be, shoot, sunny, southern, brilliant, color
+I:15285;664;do, turn, subtitle, help
+I:15285;665;act, be, good
+I:15285;666;transfer, be, wonderful, film, look, great, sound, be, par
+I:15285;667;student, be, loner, best, friend, meet, secluded, place
+I:15285;668;name, be, be, elusive
+I:15285;669;be, interesting, find, lonely, exclude, kid, find, way, popular, crowd, make, sure, know, be, determine, find, happen
+I:15285;670;movie, go, event, dialog, be, smart, heartbreaking, lot, time
+I:15285;671;wait, end, be, entire, story, culminate
+I:15285;672;have, be, best, performance, big, screen
+I:15285;673;witty, dialogue, plot, movie, make, cult, classic, year, come
+I:15285;674;recommend, film, buff, enjoy, explore, independent, art, house, film, unusual, genre
+I:15285;675;be, fair, movie
+I:15285;676;story, be, good, be, lot, miss
+I:15285;677;have, good, acting, kid, do
+I:15285;678;new, status, member
+I:15285;679;be, quirkiest, quirky, bunch, drug, kingpin, nickname, live, work, mother, basement, have, right
+I:15285;680;carry, role, amazing, amount, menace
+I:15285;681;go, ride, 'cause, be, good
+I:15285;682;seem, be, more, good, movie
+I:15285;683;component, work, dazzle
+I:15285;684;service, whole
+I:15285;685;have, watch, film, several, time, savor, competence, skill, storytelling, neck
+I:15285;686;neck, kiss, kiss, best
+I:15285;687;innovation, outstanding, dialogue, be, tone, mood, story, pull, pay
+I:15285;688;amazing, fact, be, novelty, genre
+I:15285;689;impose, handicap, disadvantage, movie, transcend, redeem
+I:15285;690;love, ball, movie
+I:15285;691;love, visual, dialogue, plot, pacing, everything
+I:15285;692;love, intelligence
+I:15285;693;respect, director/writer, have, audience
+I:15285;694;be, write, film, noir, excellent, performance
+I:15285;695;use, color, genre, be, interesting, serve, high, school, contemporary, setting
+I:15285;696;femme, fatale, be, write, be, enjoyable, film
+I:15285;697;mysterious, skin, deliver, best, film, performance
+I:15285;698;guy, status, confer, have, earn, kind, wisdom, gravitas, come, age, life, compose, hard, knock, physical, psychological
+I:15285;699;movie, be, original
+I:15285;700;be, greatest, come, director, debut, feature, film, tell
+I:15285;701;jgl, deliver, fantastic, performance, best, dialogue, recent, memory
+I:15285;702;cast, be, incredible, director, be, awesome
+I:15285;703;movie, be, top, chart
+I:15285;704;admirable, attempt, update, famous, film, noir, genre, be, entertaining, innovative, film, be, mimick, older, genre
+I:15285;705;be, stylized, map
+I:15285;706;main, character, be, outstanding
+I:15285;707;acting, be, daring, have, yell, screen, least
+I:15285;708;say, least, get, involve, circumstance
+I:15285;709;see, watch, first, time
+I:15285;710;love, character, seem, complete
+I:15285;711;cherry, top, cake, be, girl, play, important, part, movie, be, drop, dead, gorgeous
+I:15285;712;smart, cool, entertaining
+I:15285;713;watch, row, impress
+I:15285;714;witty, dialogue, believable, performance, make, have, keep, remind, character, be, high, school, student, cynical
+I:15285;715;be, great, film
+I:15285;716;mystery, unravel, create, emotional, connection, main, character, embark, tortuous, task, unveiling, kill, x., girlfriend
+I:15285;717;film, be, good, keep, attention, offer, twist, end
+I:15285;718;catch, movie, night, stay, finish
+I:15285;719;levitt, kinetic, pacing
+I:15285;720;remind, bit, film, pull, web
+I:15285;721;levitt, love, girl, be, unrequinted, mystery, surround
+I:15285;722;recommend, be, disappoint
+I:15285;723;think, highschool, experience, be, action, packed
+I:15285;724;levitt, film, be, great
+I:15285;725;creepy, funny, do
+I:15285;726;dollar, actor, special, effect, elaborate, set, create, compelling, story
+I:15285;727;utter, brilliance, film, make, difficult, write, time, watch, be, intrigue, character
+I:15285;728;levitt, carry, film, character, fearless, quick
+I:15285;729;wit, craft, line
+I:15285;730;whole, cast, work, chemistry, be, such, exchange, be, quick, have, pay, attention, catch, wit
+I:15285;731;create, tale, tradition, classic, hard, boil, detective, story, likes, maltese, falcon, quote, film, place, event, suburban, californian, high, school, give, unique, modern, edge
+I:15285;732;do, know, write, have, discover, gem
+I:15285;733;use, title, review, do, use, review, rest, assure, fit
+I:15285;734;old, be, willing, suspend, disbelief, be, easy, enjoy
+I:15285;735;be, worth, check, find, fuss, be, do, hurt, be, ground, floor
+I:15285;736;be, intense, movie
+I:15285;737;like, fact, keep, suspense
+I:15285;738;levitt, give, great, performance
+I:15285;739;brick, be, noir, story, likes, big, maltese, falcon
+I:15285;740;lady, love, enthral
+I:15285;741;twist, old, form, be, interesting
+I:15285;742;movie, seethe, smart, energy, dialogue, sizzle
+I:15285;743;watch, first, time, mystery, be, solve, journey, be, intense, swirl, be, great, watch
+I:15285;744;soundtrack, cinematography, complete, package, make, slick, movie, be, fun, dark
+I:15285;745;favorite, scene, be, best, encapsulate, film, tone, get, pull, vice, principal, office, be, ask, rat, potential, dealer, school, property
+I:15285;746;shout, have, discipline, issue, write, suspend
+I:15285;747;film, be, original, interesting, tale, beautiful, camera, work, excellent, performance
+I:15285;748;ish, detective, novel, type, tone, abound, be, poetic, reccomend, watch, subtitle, appreciate, language
+I:15285;749;act, direct, overall, plot, character, development, be, top, notch
+I:15285;750;lot, people, have, come, have, hear, movie, have, see
+I:15285;751;see, film, noir, soaked, teen, centered, tale, woe, work, better, have, think
+I:15285;752;rian, make, writing, directorial, debut, rival, most, peer, mentor
+I:15285;753;film, be, make, god, tremble, be, able, follow
+I:15285;754;calculate, heroine, be, definite, high, point, career, longevity, film, be, assure
+I:15285;755;film, be, theblade, runnerof, generation
+I:15285;756;have, live, populous, city, live, isolate, see, universal, truth, film
+I:15285;757;face, daunting, challenge, be, film, make, aware
+I:15285;758;have, homage, classic, film, noir, be, look
+I:15285;759;be, many, parallel, maltese, falcon, item, title, refer, be, sort, modern, equivalent, black, bird, mystery, other, story, genre, have, more, enough, unique, twist, turn, own
+I:15285;760;hide, body, bring, people, death, justice, same, time, make, suspect, murder
+I:15285;761;several, classic, noir, hallmark, be
+I:15285;762;gorgeous, femme, fatale, cheerleader, drama, club, member
+I:15285;763;nathan, score, be, highlight, film
+I:15285;764;movie, score, have, indie, feel, contemporary, feel, retro, feel, hint, jazz
+I:15285;765;reoccure, character, theme, lend, dramatic, emphasis, film
+I:15285;766;performance, be, be, glamorous, best, old
+I:15285;767;fashion, sense, go, place
+I:15285;768;know, love, lamp, be, quote, fame
+I:15285;769;nice, idea, be, knuckle
+I:15285;770;anyone?the, director, be, love, outrageous, gimmick, forget, add, slightest, personality, character
+I:15285;771;film, write, someone, slightest, idea, teenage, kid, be, like, be, start, person, entire, school, have, mobile, phone, example, do, need, be, be, actual, story, character, people, relate, least, care
+I:15285;772;noir, deal
+I:15285;773;try, leave, well
+I:15285;774;be, more, believable, boot
+I:15285;775;noir, have, be, favorite, genre, realm, story, weave
+I:15285;776;best, analogy, have, film, be, be, date, woman, be, beautiful, drip, sex, appeal, have, depth, substance
+I:15285;777;do, appreciate, ode, classic, noir, have, anti
+I:15285;778;framing, cinematography, be, breathtaking, be, score
+I:15285;779;positive, note, acting, be, good
+I:15285;780;levitt, do, fine, job, anti
+I:15285;781;mood, be, stark, bare, great, film, noir
+I:15285;782;lighting, cinematography, be, point
+I:15285;783;have, blockbuster, movie, pass, watch, movie, year
+I:15285;784;levitt, performance, mysterio, skin
+I:15285;785;know, people, agree, see, best, character, actor, making
+I:15285;786;movie, be, little, long, love, movie
+I:15285;787;open, be
+I:15285;788;film, have, number, strength
+I:15285;789;see, thing, see, thing, realize, be, intelligent, intelligent, most, people, realize
+I:15285;790;be, typical, high, school, world, see, world, high, schooler, psychological, perspective
+I:15285;791;plot, be, compelling, maintain, viewer, interest, wrestle, complexity
+I:15285;792;be, intriguing, film, worth, view
+I:15285;793;movie, have, great, cast, good, story, ton, eye, candy, have, go
+I:15285;794;be, impress, film
+I:15285;795;be, fan, old, detective, movie, find, movie, follow, serial
+I:15285;796;be, set, be, refreshing, change, other, attempt, make, modern, film, noir, take, place, seedy, place, night
+I:15285;797;film, rely, dialogue, progress, story, create, mood
+I:15285;798;mystery, clever, movie, like, film
+I:15285;799;high, school, be, such, perfect, setting, film, noir, seem, ridiculous, be, many, parallel, world, teenager, character, noir, be, battle, police, shamus, battle, administrator, student, shady, meeting, bridge, shady, meeting, parking, lot, school
+I:15285;800;boil, dialogue, deliver, startling, pace, talented, young, cast
+I:15285;801;levitt, be, excellent, show, real, promise, be, cast, right, role
+I:15285;802;play, role, be, scheming, drama, queen, command, attention
+I:15285;803;film, memorable, scene
+I:15285;804;protagonist, loner, rocky, exterior, noble, interior, look, do, right, thing, suspicious
+I:15285;805;powerful, ominous, villain, obsese, fifty.year
+I:15285;806;much, film, charm, come, consideration, many, allegory, adult, noir, tale
+I:15285;807;be, aware
+I:15285;808;show, maturity, seasoned, approach, directing, stimulate, photography, stunning, editing
+I:15285;809;make, excellent, sample, film, show, young, editor
+I:15285;810;have, do, spectacular, job, fashion, seamless, flow, jump, cut, point
+I:15285;811;view, shot, distorted, lens, expose, film
+I:15285;812;support, be, inventive, unorthodox, score, comprise, sort, naiive, bell, woeful, trumpet, use, music
+I:15285;813;be, best, film
+I:15285;814;go, call, top, film, have, see
+I:15285;815;view, film, experienced, director, be, stellar, film, view, debut, be, fantastic, achievement
+I:15285;816;seem, have, receive, attention, deserve, film, next, project, star, big
+I:15285;817;levitt, get, decent, role, prove, act, prowess
+I:15285;818;be, film, originality, effort, keep, industry, go, have, see, do, hesitate, leap, hunt, maltese, falcon
+I:15285;819;best, movie, have, see, year, language, send, movie, old, old, detective, movie
+I:15285;820;movie, have, many, twist, need, watch, more
+I:15285;821;vocabulary, street, thug, be, impressive
+I:15285;822;great, movie, teenager, many, lesson, learn
+I:15285;823;movie, start, good, first, build, intrigue, suspense, girl, murder, make, wonder, happen, blow, become, comical
+I:15285;824;come, movie, open, mind, give, everyone, chance, watch, go, review
+I:15285;825;levitt, be, favorite, actor
+I:15285;826;beat, little, quirky, most, movie, off, beat, quirky, character, be, movie, like
+I:15285;827;look, good
+I:15285;828;time, director, experimental, entertaining, crime, drama
+I:15285;829;take, while, get, accustom, rhythm, mood, film, lot, slang, do, find, film, engage, story, complicated, mystery, web, eccentric, character
+I:15285;830;be, love
+I:15285;831;reaction, be, be, true, be, unique
+I:15285;832;be, fun, movie
+I:15285;833;like, best, 3rd, viewing
+I:15285;834;have, cool, sortof, sexy, soundtrack, first, remind, be, full, space
+I:15285;835;film, be, nice, dark, time, staging, be, nice
+I:15285;836;plot, keep, guess, that, say, plot, be, fun
+I:15285;837;be, great, homage, noir, modern, high, school, setting
+I:15285;838;levitt, be, brilliant, actor, rest, cast, be, spot
+I:15285;839;script, camera, work, be, awesome, character, style, drive, movie, most
+I:15285;840;dialogue, be, interesting, have, sort, feel
+I:15285;841;few, scene, be, funny, intense, drama
+I:15285;842;worth, see, anyone, open
+I:15285;843;break, start, eat, lunch, popular, mysterious, crowd
+I:15285;844;delve, world, find, sickening, subculture, drug
+I:15285;845;movie, be, set, movie, big, hook, be, be, update, terrific, film, noir
+I:15285;846;dialogue, be, full, clever, pithy, line, slang, go, beautiful, woman, do, trust
+I:15285;847;directing, be, terrific
+I:15285;848;levitt, make, likeable, protagonist, crazy, proceedings, character, include, magnetic, pin
+I:15285;849;make, film, noir, style, be, stunt, tone, help, make, movie, deeper, satisfying
+I:15285;850;intricate, teen, dramas, make
+I:15285;851;recommend, fan, film, noir, sophisticated, teen, dramas
+I:15285;852;bring, table, be, refreshing, look, genre, year
+I:15285;853;be, able, take, critical, element, genre, transpose, fresh, new, locale
+I:15285;854;use, highschool, backdrop, be, do
+I:15285;855;be, amazing, be, real, film, seem, fact
+I:15285;856;bring, element, real
+I:15285;857;life, high, school, drug, culture, real
+I:15285;858;life, most, real
+I:15285;859;life, fantasy, act, be, part, culture
+I:15285;860;be, best, film, have, see, year, be, honest
+I:15285;861;emergence, interesting, conflicted, genre, film, opinion
+I:15285;862;be, action, violence, movie, have, intricate, dialouge, follow, many, word
+I:15285;863;unique, way, present, film, believe, pull, great, camera, work
+I:15285;864;great, independent, film, movie, kid, dream, movie, interest, see
+I:15285;865;movie, be, great, be, happy, have, copy
+I:15285;866;intense, dense, plot, twist, pull, attention
+I:15285;867;best, movie, have, see
+I:15285;868;solid, act, weave, modern, version, old, detective, movie
+I:15285;869;movie, be, great, write, put
+I:15285;870;be, artistic, stylish, take, movie, round
+I:15285;871;enjoy, movie, grab, first, few, minute
+I:15285;872;top, see, be, part, parody
+I:15285;873;be, bit, surreal, bit, noir, bit, high, school, drama
+I:15285;874;make, film, interesting, give, twist, be, story, feel, be, write, cast, thirty
+I:15285;875;appropriate, cast, have, be, more, cliche, whodunit, mystery
+I:15285;876;play, unique, way
+I:15285;877;be, strong, actor, help, carry, film, emotional, core
+I:15285;878;character, substitution, classic, detective, story, be, be, play
+I:15285;879;film, wrap, leave, viewer, satisfied
+I:15285;880;be, worth, check
