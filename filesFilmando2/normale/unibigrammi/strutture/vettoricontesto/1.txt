@@ -1,0 +1,1269 @@
+L            	1
+able cry     	4,349
+absorb       	9,766
+abuse        	0,000
+achieve      	2,249
+action       	0,000
+addictive    	0,000
+adjust       	2,996
+admiration   	0,000
+admire       	0,000
+admire be    	0,000
+adorable     	0,000
+adore        	0,000
+adrenaline   	0,000
+adult kid    	0,000
+advance      	1,556
+adventure    	0,000
+adventurous  	0,000
+advice       	0,000
+advise       	0,000
+affection    	0,000
+affectionate 	0,000
+affinity     	0,000
+aggression   	0,000
+aim          	2,051
+allegory     	5,085
+amazing animation	0,000
+ambiguous    	7,345
+ambitious    	9,004
+ambivalent   	5,242
+amiable      	0,000
+amorous      	0,000
+anger        	0,000
+angry        	0,000
+anguish      	0,000
+animated     	0,000
+animated feature	0,000
+animated film	0,000
+animation    	0,000
+animation movie	0,000
+animosity    	0,000
+annoyance    	0,000
+anxiety      	0,000
+appreciate   	0,000
+argue        	0,000
+arrogant     	0,000
+assist       	0,000
+attention    	6,994
+attention detail	6,172
+attract      	0,000
+attraction   	0,000
+attractive   	0,000
+autobiography	6,329
+awkward scene	0,000
+baby         	0,000
+bad          	0,000
+bad day      	0,000
+bad mood     	0,000
+bad person   	0,000
+be absorb    	6,621
+be admire    	0,000
+be adorable  	0,000
+be adventure 	0,000
+be adventurous	0,000
+be advise    	0,000
+be affection 	0,000
+be ambitious 	4,400
+be angry     	0,000
+be animated  	0,000
+be animation 	0,000
+be appreciate	0,000
+be argue     	0,000
+be assist    	0,000
+be attract   	0,000
+be baby      	0,000
+be bad       	0,000
+be beauty    	0,000
+be bitter    	0,000
+be bloody    	0,000
+be break     	0,000
+be brilliant 	0,000
+be brother   	0,000
+be calm      	0,000
+be captivate 	4,207
+be capture   	11,136
+be care      	0,000
+be careful   	8,261
+be cartoon   	0,000
+be celebrate 	0,000
+be child     	0,000
+be childhood 	0,000
+be chill     	0,000
+be clear     	0,000
+be cold      	0,000
+be comedian  	0,000
+be comedy    	0,000
+be comic     	0,000
+be company   	0,000
+be complex   	7,280
+be concentrate	3,656
+be concerned 	0,000
+be confuse   	9,219
+be couple    	0,000
+be crazy     	0,000
+be creepy    	0,000
+be cruel     	0,000
+be cry       	0,000
+be curious   	0,000
+be cute      	0,000
+be dad       	0,000
+be dark      	0,000
+be dead      	0,000
+be deep      	7,539
+be delicate  	0,000
+be delight   	0,000
+be depressing	0,000
+be difficult 	10,647
+be direct    	0,000
+be dishonest 	0,000
+be distract  	0,000
+be disturbing	0,000
+be dramatic  	0,000
+be dream     	0,000
+be drunk     	0,000
+be easy      	0,000
+be educational	4,705
+be emotional 	0,000
+be encourage 	0,000
+be energy    	0,000
+be engage    	1,967
+be engaging  	5,820
+be enigmatic 	8,377
+be enjoy     	0,000
+be enjoyable 	0,000
+be entertaining	0,000
+be evil      	0,000
+be excite    	0,000
+be exciting  	0,000
+be exhaust   	5,425
+be express   	0,000
+be extraordinary	0,000
+be fabulous  	0,000
+be fairy     	0,000
+be faith     	0,000
+be faithful  	0,000
+be false     	0,000
+be family    	0,000
+be fantasy   	0,000
+be fascinating	0,000
+be fast      	0,000
+be fight     	0,000
+be focus     	8,286
+be forgive   	0,000
+be friend    	0,000
+be friendship	0,000
+be fun       	0,000
+be funny     	0,000
+be generous  	0,000
+be gentle    	0,000
+be girlfriend	0,000
+be grace     	0,000
+be graphic   	0,000
+be grateful  	0,000
+be grow      	0,000
+be guide     	0,000
+be guilty    	0,000
+be happiness 	0,000
+be happy     	0,000
+be heart     	0,000
+be help      	0,000
+be hero      	0,000
+be hilarious 	0,000
+be history   	2,094
+be hit       	0,000
+be holiday   	0,000
+be honest    	0,000
+be hot       	0,000
+be husband   	0,000
+be imagination	0,000
+be innocent  	0,000
+be inspirational	4,237
+be instant   	0,000
+be intimate  	0,000
+be intricate 	4,539
+be intuitive 	0,000
+be ironic    	0,000
+be joy       	0,000
+be joyful    	0,000
+be kid       	0,000
+be kind      	0,000
+be kiss      	0,000
+be laugh     	0,000
+be lie       	0,000
+be light     	0,000
+be linear    	0,000
+be love      	0,000
+be lovely    	0,000
+be lover     	0,000
+be loyal     	0,000
+be magic     	0,000
+be magical   	0,000
+be mean      	5,007
+be metaphor  	2,340
+be miserable 	0,000
+be mom       	0,000
+be musical   	0,000
+be mutual    	0,000
+be mystery   	2,193
+be mystical  	0,000
+be night     	0,000
+be obvious   	0,000
+be offend    	0,000
+be original  	3,214
+be partner   	0,000
+be passion   	0,000
+be passionate	0,000
+be peace     	0,000
+be peaceful  	0,000
+be plain     	0,000
+be pleasant  	0,000
+be please    	0,000
+be pleased   	0,000
+be pleasure  	0,000
+be powerful  	0,000
+be predictable	0,000
+be profound  	9,708
+be proud     	0,000
+be pure      	0,000
+be quiet     	0,000
+be raw       	0,000
+be real      	0,000
+be relationship	0,000
+be relax     	0,000
+be reliable  	0,000
+be rely      	0,000
+be romance   	0,000
+be romantic  	0,000
+be rude      	0,000
+be sad       	0,000
+be scare     	0,000
+be scared    	0,000
+be seductive 	0,000
+be selfish   	0,000
+be sensual   	0,000
+be sentimental	0,000
+be sexual    	0,000
+be sexy      	0,000
+be shameful  	0,000
+be share     	0,000
+be shine     	0,000
+be shocking  	0,000
+be silly     	0,000
+be simple    	0,000
+be sincere   	0,000
+be smart     	2,336
+be smile     	0,000
+be smooth    	0,000
+be soft      	0,000
+be son       	0,000
+be soulmate  	0,000
+be struggle  	0,000
+be student   	0,000
+be success   	0,000
+be superhero 	0,000
+be support   	0,000
+be sweet     	0,000
+be tale      	0,000
+be teen      	0,000
+be teenager  	0,000
+be tender    	0,000
+be terrible  	0,000
+be thief     	0,000
+be thrilling 	0,000
+be tire      	0,000
+be touch     	0,000
+be tough     	0,000
+be toy       	0,000
+be triumph   	0,000
+be trust     	0,000
+be unpredictable	11,938
+be victim    	0,000
+be villain   	0,000
+be violence  	0,000
+be violent   	0,000
+be war       	0,000
+be wife      	0,000
+be win       	0,000
+be witty     	0,000
+be young     	0,000
+be youth     	0,000
+beautiful adventure	0,000
+beautiful animated	0,000
+beautiful couple	0,000
+beautiful effective	0,000
+beautiful evocative	0,000
+beautiful funny	0,000
+beautiful landscape	0,000
+beautiful location	0,000
+beautiful princess	0,000
+beautiful sentimental	0,000
+beauty       	0,000
+beauty nature	0,000
+bed          	0,000
+bedtime      	0,000
+belief       	0,000
+believable romance	0,000
+beloved      	0,000
+benevolence  	0,000
+best friend  	0,000
+betrayal     	0,000
+big brother  	0,000
+big dream    	0,000
+bitter       	0,000
+bless        	0,000
+bliss        	0,000
+blissful     	0,000
+blood        	0,000
+bloody       	0,000
+boxing       	0,000
+boyfriend    	0,000
+brain        	6,296
+brain teaser 	4,118
+break        	0,000
+break heart  	0,000
+breathe      	0,000
+breathtaking 	1,581
+breathtaking landscape	4,118
+breathtaking scene	3,617
+bright       	0,000
+brilliant    	0,000
+brother      	0,000
+call         	0,000
+calm         	0,000
+calm relax   	0,000
+calm serene  	0,000
+calming voice	0,000
+captivate    	4,849
+captivating  	2,285
+capture      	9,120
+capture attention	10,506
+capture emotion	3,263
+capture heart	0,000
+care         	0,000
+careful      	1,710
+cartoon      	0,000
+cause pain   	0,000
+celebrate    	0,000
+celebrate life	0,000
+center       	2,342
+cerebral     	2,113
+certainty    	0,000
+challenge    	3,390
+change life  	2,740
+change perception	3,656
+charity      	0,000
+charming     	0,000
+chase dream  	0,000
+cheater      	0,000
+cheerful     	0,000
+chemistry    	0,000
+chemistry moment	0,000
+cherish      	0,000
+child        	0,000
+child imagination	0,000
+child learn  	0,000
+child thing  	0,000
+childhood    	0,000
+childhood be 	0,000
+childhood memory	0,000
+childish     	0,000
+chill        	0,000
+christmas    	0,000
+clear        	0,000
+climax       	3,573
+close attention	5,876
+close heart  	0,000
+closeness    	0,000
+cold         	0,000
+cold blood   	0,000
+color        	0,000
+come true    	0,000
+comedian     	0,000
+comedy       	0,000
+comedy movie 	0,000
+comic        	0,000
+comic act    	0,000
+comic moment 	0,000
+comic scene  	0,000
+comical      	0,000
+companion    	0,000
+company      	0,000
+compelling   	1,468
+complex      	10,066
+complex character	2,839
+complex engage	4,349
+complex engaging	3,983
+complex message	5,975
+complex plot 	9,411
+complex puzzle	6,524
+complex story	3,002
+complex storyline	5,994
+complex watch	7,207
+complex world	3,582
+complexity   	2,530
+complicate   	2,795
+comprehend   	2,230
+concentrate  	6,504
+concentration	3,052
+concept      	3,192
+concerned    	0,000
+confidant    	0,000
+confide      	0,000
+confidence   	0,000
+confuse      	3,537
+confusion    	2,047
+connection   	0,000
+consequence  	2,724
+content      	0,000
+continuous   	2,388
+conversation real	4,118
+couch        	0,000
+count        	0,000
+couple       	0,000
+couple love  	0,000
+coward       	0,000
+crazy        	0,000
+crazy comedy 	0,000
+create problem	0,000
+creative     	0,000
+credibility  	0,000
+creepy       	0,000
+cruel        	0,000
+cruelty      	0,000
+cruelty life 	0,000
+crush        	0,000
+cry          	0,000
+culture      	1,520
+curiosity    	0,000
+curious      	0,000
+curse        	0,000
+cute         	0,000
+cute couple  	0,000
+cutie        	0,000
+dad          	0,000
+dark         	0,000
+darling      	0,000
+date         	0,000
+date movie   	0,000
+death        	0,000
+death be     	0,000
+deceit       	0,000
+decipher     	2,489
+decrease     	0,000
+deep         	2,162
+deep complex 	9,042
+deep connection	0,000
+deep emotion 	0,000
+deep intricate	8,699
+deep meaning 	6,072
+deep romantic	0,000
+deep understanding	5,425
+defeat enemy 	0,000
+delicate     	0,000
+delicious    	0,000
+delight      	0,000
+delight eye  	2,776
+delightful   	0,000
+deplorable   	0,000
+depress      	0,000
+depth        	6,515
+depth look   	4,680
+depth relationship	3,983
+deserve die  	0,000
+desire       	0,000
+desire love  	0,000
+desperate    	0,000
+detail       	3,538
+detective    	1,798
+devotion     	0,000
+difficult    	9,059
+difficult film	3,701
+difficult understand	9,532
+direct       	0,000
+dirty        	0,000
+discover     	2,067
+disgust      	0,000
+dishonest    	0,000
+dissatisfaction	0,000
+distract     	0,000
+disturbing   	0,000
+do wrong     	0,000
+doll         	0,000
+drama        	0,000
+dramatic     	0,000
+dramatic landscape	0,000
+dramatic situation	0,000
+dream        	0,000
+dream kid    	0,000
+dream life   	0,000
+dream movie  	0,000
+dream sequence	0,000
+dreamlike    	0,000
+dreamy       	0,000
+dreamy kiss  	0,000
+drunk        	0,000
+ease         	0,000
+easy         	0,000
+easy follow  	0,000
+easy understand	0,000
+easy watch   	0,000
+educate      	1,681
+education    	1,763
+educational  	2,740
+egotistical  	0,000
+elaborate    	2,729
+emotion      	2,686
+emotion passion	0,000
+emotional    	0,000
+emotional desire	0,000
+empathize    	2,170
+empathy      	0,000
+emphasize    	2,049
+enchant      	0,000
+enchant child	0,000
+encourage    	0,000
+enemy        	0,000
+energy       	0,000
+energy be    	0,000
+engage       	0,000
+engage plot  	6,673
+engage sad   	4,118
+engaging     	9,204
+engaging thriller	4,349
+enigma       	5,647
+enigmatic    	9,490
+enigmatic character	6,566
+enjoy        	0,000
+enjoy life   	0,000
+enjoyable    	0,000
+enlighten    	1,322
+enrage       	0,000
+enraged      	0,000
+entertaining 	0,000
+entertaining movie	3,481
+entertainment	0,000
+epic scene   	3,582
+erudite      	3,582
+euphoria     	0,000
+evil         	0,000
+evocation primitive	0,000
+evoke        	0,000
+evoke memory 	0,000
+evolve       	2,583
+exacerbate   	0,000
+exasperation 	0,000
+excellent study	0,000
+excite       	0,000
+exciting     	0,000
+exhaust      	1,974
+explain      	2,180
+explosion color	0,000
+express      	0,000
+express feel 	0,000
+express passion	0,000
+extraordinary	0,000
+fable        	0,000
+fabulous     	0,000
+fairy        	0,000
+fairy tale   	0,000
+fairytale    	0,000
+faith        	0,000
+faithful     	0,000
+fall love    	0,000
+false        	0,000
+family       	0,000
+family learn 	0,000
+family love  	0,000
+family movie 	0,000
+fancy        	0,000
+fantastic    	0,000
+fantastical  	0,000
+fantasy      	0,000
+fantasy comedy	0,000
+fantasy reality	0,000
+fascinating  	0,000
+fascination  	0,000
+fast         	0,000
+fast pace    	0,000
+favorite cartoon	0,000
+fear         	0,000
+fear be      	0,000
+feel         	0,000
+feel alive   	0,000
+feel bad     	0,000
+feel connection	0,000
+feel emotion 	4,632
+feel frustration	0,000
+feel good    	0,000
+feel guilty  	0,000
+feel lonely  	0,000
+feel pain    	0,000
+feel passion 	0,000
+feel thing   	0,000
+feel touch   	0,000
+feel true    	0,000
+feeling      	0,000
+fellow       	0,000
+fellowship   	0,000
+ferocious    	0,000
+fiction      	0,000
+fierce       	0,000
+fight        	0,000
+fight be     	0,000
+fight blood  	0,000
+fight fear   	0,000
+fight scene  	0,000
+film clear   	0,000
+film dream   	0,000
+film slow    	5,002
+find solution	6,673
+first kiss   	0,000
+first love   	0,000
+first meet   	0,000
+flash humor  	0,000
+flirt        	0,000
+fluent       	0,000
+focal        	2,513
+focus        	10,171
+focus attention	10,650
+focus story  	8,158
+focus viewer 	4,118
+foolish      	0,000
+forgive      	0,000
+fortunate    	0,000
+frantic      	0,000
+friend       	0,000
+friend movie 	0,000
+friendship   	0,000
+frustration  	0,000
+full attention	3,263
+full color   	0,000
+full emotion 	0,000
+full love    	0,000
+fun          	0,000
+fun entertaining	0,000
+fun movie    	0,000
+fun sweet    	0,000
+funny        	0,000
+funny act    	0,000
+funny awkward	0,000
+funny comedian	0,000
+funny movie  	0,000
+furious      	0,000
+fury         	0,000
+gag          	0,000
+generous     	0,000
+genius       	1,133
+gentle       	0,000
+get enough   	0,000
+gift life    	0,000
+giggle       	0,000
+girl         	0,000
+girlfriend   	0,000
+give advice  	0,000
+give birth   	0,000
+give heart   	0,000
+give help    	0,000
+glamorous    	0,000
+glue         	0,000
+glue screen  	2,759
+go school    	0,000
+go wrong     	0,000
+goal         	0,000
+golden       	0,000
+good message 	0,000
+good mood    	0,000
+good time    	0,000
+good vibe    	0,000
+good win     	0,000
+goodwill     	0,000
+gossip       	0,000
+grace        	0,000
+graphic      	0,000
+grateful     	0,000
+gratitude    	0,000
+great animation	0,000
+great emotion	0,000
+great energy 	0,000
+great lesson 	0,000
+great rhythm 	0,000
+great time   	0,000
+grip         	0,000
+gross        	0,000
+grow         	1,399
+guide        	0,000
+guilty       	0,000
+happiness    	0,000
+happy        	0,000
+happy family 	0,000
+hard         	1,105
+hard understand	4,858
+harmony      	0,000
+harrowing    	0,000
+hatred       	0,000
+haunt        	1,704
+have attention	3,494
+have care    	0,000
+have chemistry	0,000
+have confidence	0,000
+have connection	0,000
+have enjoy   	0,000
+have fear    	0,000
+have feeling 	0,000
+have fun     	0,000
+have message 	0,000
+have passion 	0,000
+have smile   	0,000
+have soul    	5,079
+have struggle	0,000
+have suspense	4,840
+head turn    	9,252
+heart        	0,000
+heart beat   	0,000
+heart break  	0,000
+heart emotion	0,000
+heart warm   	0,000
+heartbreak   	0,000
+heartstrings 	0,000
+heavenly     	0,000
+help         	0,000
+help hand    	0,000
+help relax   	0,000
+hero         	0,000
+hero story   	0,000
+hide meaning 	4,118
+hide something	4,118
+high fidelity	4,349
+hilarious    	0,000
+hilarious moment	0,000
+historical   	3,003
+historical movie	8,012
+history      	2,204
+hit          	0,000
+hit deep     	0,000
+hit hard     	0,000
+hold arm     	0,000
+hold attention	4,655
+holiday      	0,000
+honest       	0,000
+honey        	0,000
+hope future  	0,000
+hostility    	0,000
+hot          	0,000
+hour company 	0,000
+hug          	0,000
+human cruelty	0,000
+human emotion	0,000
+human feeling	0,000
+human nature 	1,981
+humiliating  	0,000
+humor        	0,000
+humor brilliant	0,000
+hurt heart   	0,000
+hurt people  	0,000
+husband      	0,000
+hypocrite    	0,000
+idea         	1,380
+illusion     	0,000
+imaginary    	0,000
+imagination  	0,000
+imagine      	0,000
+immediate    	0,000
+immersion    	5,282
+importance   	1,878
+impossible understand	6,524
+impress      	0,000
+impressive   	1,426
+impressive movie	3,080
+impressive scene	3,617
+incomprehensible	3,386
+incurable romantic	0,000
+indignation  	0,000
+infatuation  	0,000
+inform       	2,099
+innocent     	0,000
+insane       	0,000
+inspirational	4,429
+inspirational message	4,118
+instant      	0,000
+insult       	0,000
+integrity    	0,000
+intelligent  	1,462
+intelligent story	2,585
+intense      	3,995
+intense emotion	3,447
+intensify    	2,429
+interpersonal	0,000
+interpret    	4,955
+intimacy     	0,000
+intimate     	0,000
+intimate relationship	0,000
+intricate    	10,965
+intricate character	3,752
+intricate complex	4,118
+intricate plot	8,756
+intricate story	3,550
+intrigue     	3,949
+intriguing storyline	5,484
+introspective	2,938
+intuitive    	0,000
+irk          	0,000
+ironic       	0,000
+ironic funny 	0,000
+irony        	4,993
+irresistible 	0,000
+irresponsible	0,000
+joy          	0,000
+joy eye      	0,000
+joyful       	0,000
+joyous       	0,000
+juvenile     	0,000
+keep focus   	3,290
+keep promise 	0,000
+keep secret  	0,000
+key line     	3,752
+kid          	0,000
+kid adult    	0,000
+kid movie    	0,000
+kill opponent	0,000
+kind         	0,000
+kindness     	0,000
+kiss         	0,000
+kitten       	0,000
+knowledge    	1,838
+landscape    	0,000
+laugh        	0,000
+laugh hard   	0,000
+laughter     	0,000
+learn        	5,198
+learn talk   	0,000
+lesson learn 	0,000
+liar         	0,000
+lie          	0,000
+life change  	3,059
+life lesson  	4,445
+life partner 	0,000
+lift         	0,000
+light        	0,000
+light comedy 	0,000
+light note   	0,000
+light story  	0,000
+linear       	0,000
+linear storyline	0,000
+link         	2,004
+lip          	0,000
+little       	0,000
+little gem   	0,000
+little one   	0,000
+little simple	0,000
+lonesome     	0,000
+long last    	0,000
+look eye     	0,000
+loose        	0,000
+loosen       	0,000
+loss         	0,000
+loss friend  	0,000
+lovable      	0,000
+love         	0,000
+love life    	0,000
+love story   	0,000
+loveable     	0,000
+lovely       	0,000
+lovely heart 	0,000
+lovemaking   	0,000
+lover        	0,000
+low attention	0,000
+loyal        	0,000
+loyalty      	0,000
+lucidity     	3,983
+lucky        	0,000
+lull         	0,000
+lunatic      	0,000
+lust         	0,000
+mad          	0,000
+madness      	0,000
+magic        	0,000
+magical      	0,000
+magical atmosphere	0,000
+magical story	0,000
+magnetism    	0,000
+magnificent  	0,000
+make cry     	0,000
+make feel    	0,000
+make laugh   	0,000
+make sense   	3,701
+marriage     	0,000
+marry        	0,000
+martial art  	0,000
+marvelous    	0,000
+mate         	0,000
+mature       	1,714
+mean         	6,251
+mean word    	0,000
+meaningful   	1,866
+meditate     	2,814
+melodramatic 	0,000
+memory       	1,203
+mental       	5,816
+message      	0,000
+message be   	0,000
+metaphor     	1,540
+metaphor life	5,107
+mind         	1,936
+mind trip    	3,656
+miserable    	0,000
+misery       	0,000
+misunderstand	5,692
+mom          	0,000
+moment hilarious	0,000
+moment truth 	0,000
+mother       	0,000
+mother love  	0,000
+movie youth  	0,000
+much heart   	0,000
+musical      	0,000
+mutual       	0,000
+mysterious   	6,351
+mystery      	3,012
+mystical     	0,000
+mythical     	0,000
+narration    	1,933
+nice chemistry	0,000
+night        	0,000
+nightmare    	0,000
+nocturnal    	0,000
+nostalgia childhood	0,000
+obstacle     	2,938
+obvious      	0,000
+offend       	0,000
+old friend   	0,000
+onslaught    	0,000
+oppose       	0,000
+optimism     	0,000
+original     	0,000
+original set 	3,752
+outrage      	0,000
+overcome     	0,000
+pain         	0,000
+pair         	0,000
+parallel     	1,935
+partner      	0,000
+party        	0,000
+passion      	0,000
+passion chemistry	0,000
+passion desire	0,000
+passionate   	0,000
+patience     	0,000
+pay attention	10,281
+peace        	0,000
+peaceful     	0,000
+peaceful set 	0,000
+perceive     	2,170
+perfect date 	0,000
+perfect match	0,000
+perplex      	3,752
+personality  	0,000
+philosophy life	3,701
+physical attraction	0,000
+picture love 	0,000
+pique        	0,000
+piss         	0,000
+plain        	0,000
+plain simple 	0,000
+play         	0,000
+pleasant     	0,000
+pleasant dream	0,000
+pleasant movie	0,000
+please       	0,000
+pleasure     	0,000
+plot twist   	4,105
+poetry       	5,220
+poignant     	0,000
+point        	0,000
+popcorn      	0,000
+positive     	0,000
+powerful     	0,000
+powerful film	2,600
+powerful movie	0,000
+praise       	0,000
+predictable  	0,000
+pregnancy    	0,000
+princess     	0,000
+private      	0,000
+profound     	7,886
+profound love	0,000
+progress     	1,933
+promise      	0,000
+prosperous   	0,000
+proud        	0,000
+provoke      	1,297
+psycho       	0,000
+psychological	4,383
+psychological thriller	0,000
+psychology   	4,207
+punch face   	0,000
+punish       	0,000
+pure         	0,000
+pure poetry  	0,000
+put heart    	0,000
+puzzle       	8,065
+quiet        	0,000
+rage         	0,000
+raging       	0,000
+rational     	1,887
+raw          	0,000
+raw violent  	0,000
+rawness      	0,000
+real         	1,049
+real feeling 	0,000
+real joy     	0,000
+real life    	1,606
+real romance 	0,000
+real tension 	0,000
+realism      	0,000
+realism be   	0,000
+realize      	1,463
+refine       	3,263
+reflect      	0,000
+reflect life 	5,079
+regret       	0,000
+relationship 	0,000
+relax        	0,000
+relax movie  	0,000
+relaxation   	0,000
+relentless   	0,000
+reliable     	0,000
+reliance     	0,000
+rely         	0,000
+remember youth	0,000
+resentment   	0,000
+respect      	0,000
+rest         	0,000
+rest life    	0,000
+revenge      	0,000
+riddle       	3,386
+right heart  	0,000
+romance      	0,000
+romance passion	0,000
+romantic     	0,000
+romantic attraction	0,000
+romantic couple	0,000
+romantic feel	0,000
+romantic instinct	0,000
+romantic movie	0,000
+romantic set 	0,000
+romantic story	0,000
+romanticism  	0,000
+rude         	0,000
+sad          	0,000
+sarcastic    	4,212
+satirical    	2,160
+scare        	0,000
+scared       	0,000
+school       	0,000
+science fiction	2,137
+script       	1,247
+seductive    	0,000
+seductive ease	0,000
+see engage   	3,262
+see little   	0,000
+see red      	0,000
+selfish      	0,000
+sense justice	0,000
+senseless    	2,513
+sensibility  	0,000
+sensitive    	0,000
+sensitive child	0,000
+sensual      	0,000
+sentimental  	0,000
+sentimental nostalgic	0,000
+sex          	0,000
+sexual       	0,000
+sexuality    	0,000
+sexy         	0,000
+shameful     	0,000
+share        	0,000
+share interest	0,000
+sharpen      	2,663
+shine        	0,000
+shock        	3,442
+shocking     	0,000
+shocking scene	0,000
+shoot head   	0,000
+short movie  	0,000
+shoulder     	0,000
+silence      	0,000
+silent       	0,000
+silly        	0,000
+simple       	0,000
+simple easy  	0,000
+simple entertaining	0,000
+simple humor 	0,000
+simple light 	0,000
+simple plot  	0,000
+sincere      	0,000
+sit laugh    	0,000
+skill        	1,636
+slack        	0,000
+sleep        	0,000
+slow         	1,644
+slow pace    	0,000
+smart        	3,910
+smile        	0,000
+smooth       	0,000
+snack        	0,000
+soft         	0,000
+solidarity   	0,000
+solve        	7,438
+something laugh	0,000
+something learn	0,000
+something miss	3,319
+something new	2,407
+son          	0,000
+soothing     	0,000
+soothing voice	0,000
+sophisticated	4,344
+sorrow       	0,000
+soul         	4,243
+soul mate    	0,000
+soulmate     	0,000
+soundtrack   	0,000
+space        	0,000
+special      	1,027
+special effect	0,000
+spectacular  	0,000
+spectacular be	0,000
+speedy       	0,000
+spend hour   	0,000
+spirit friend	0,000
+spite        	0,000
+splendid     	0,000
+stay         	0,000
+stay focus   	3,617
+steep        	3,216
+stimulate    	0,000
+stop laugh   	0,000
+story complex	3,425
+storyline    	1,393
+storyline complex	6,524
+straight forward	0,000
+strategy     	2,396
+strength     	0,000
+struggle     	0,000
+student      	0,000
+study        	0,000
+subtle       	3,438
+succeed      	0,000
+success      	0,000
+superhero    	0,000
+superhero fan	0,000
+supernatural 	0,000
+support      	0,000
+supporter    	0,000
+surprise     	1,061
+surprising ending	3,494
+surreal      	1,764
+surreal trip 	0,000
+suspense     	1,332
+sweet        	0,000
+sweet delicate	0,000
+sweet heart  	0,000
+sweet right  	0,000
+sweetheart   	0,000
+symbolism    	1,950
+sympathetic  	0,000
+sympathy     	0,000
+take break   	0,000
+take breath  	0,000
+take easy    	0,000
+tale         	0,000
+teach        	1,396
+teach value  	0,000
+teddy        	0,000
+teddy bear   	0,000
+teen         	0,000
+teen life    	0,000
+teenage      	0,000
+tell truth   	0,000
+tender       	0,000
+tender heart 	0,000
+tense        	1,822
+terrible     	0,000
+theatrical   	1,695
+theatrical performance	3,887
+thief        	0,000
+think hard   	3,521
+thrilling    	1,662
+time fly     	0,000
+time life    	0,000
+time shine   	0,000
+tire         	0,000
+touch        	0,000
+touch heart  	0,000
+touch soul   	3,319
+touch story  	0,000
+tough        	0,000
+toy          	0,000
+treasure     	0,000
+triumph      	0,000
+true feeling 	0,000
+true friend  	0,000
+true friendship	0,000
+true love    	0,000
+trust        	0,000
+trustworthy  	0,000
+truth        	0,000
+twist        	1,268
+understand   	5,091
+understand movie	4,321
+understanding	0,000
+unhappy      	0,000
+unique       	0,000
+unity        	0,000
+unpredictable	5,137
+unpredictable exciting	6,524
+unpretentious	0,000
+unreal       	0,000
+unusual      	1,728
+uplift       	0,000
+upset        	0,000
+valuable lesson	0,000
+value love   	0,000
+victim       	0,000
+victim be    	0,000
+villain      	0,000
+violence     	0,000
+violence be  	0,000
+violent      	0,000
+violent scene	0,000
+visual       	1,265
+visual splendid	0,000
+wait         	0,000
+wake nightmare	0,000
+want learn   	0,000
+want more    	4,469
+war          	0,000
+war be       	0,000
+warm heart   	0,000
+watch calm   	0,000
+weaken       	0,000
+wedding      	0,000
+well deserve 	0,000
+whole family 	0,000
+wife         	0,000
+wild         	0,000
+win          	0,000
+witch        	0,000
+witty        	0,000
+witty dialogue	0,000
+witty interesting	0,000
+wizard       	0,000
+wondrous     	0,000
+wrath        	0,000
+young        	0,000
+young child  	0,000
+young lady   	0,000
+young man    	0,000
+young one    	0,000
+youth        	0,000

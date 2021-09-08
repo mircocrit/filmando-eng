@@ -1,0 +1,804 @@
+1;engaging, complex, absorb, mystery;1
+2;enigmatic, grow, poetry, engaging;1
+3;mean, profound, irony, attention;1
+4;profound, smart, provoke, depth, concentrate;1
+5;focus, ambitious, ambitious, profound;1
+6;capture, learn, unpredictable;1
+7;difficult, mean, teach, enigmatic, soul;1
+8;enigmatic, attention, depth, intense;1
+9;mean, depth, capture, rational, focus;1
+10;emotion, historical, difficult, absorb;1
+11;complex, intricate, brain, understand;1
+12;captivate, mean, ambitious, difficult;1
+13;poetry, profound, engaging, irony, autobiography;1
+14;learn, inspirational, unpredictable;1
+15;learn, psychology, capture, profound;1
+16;enigmatic, ambitious, deep, poetry, exhaust;1
+17;compelling, meditate, theatrical, mental;1
+18;education, advance, focus, educate, mind;1
+19;surprise, memory, hard, smart, intense;1
+20;history, metaphor, complex, engage, mind;1
+21;intelligent, original, satirical, engaging;1
+22;attention, depth, historical, engage;1
+23;psychological, focus, attention;1
+24;focus, understand, careful, intricate, engage;1
+25;ambitious, detail, engage, intricate;1
+26;suspense, narration, enigmatic, capture;1
+27;difficult, achieve, educational;1
+28;attention, mean, intricate, brain, confuse;1
+29;intense, mature, engage, engaging;1
+30;impressive, continuous, absorb, ambiguous;1
+31;psychology, concentrate, absorb, surreal;1
+32;knowledge, focus, sophisticated, challenge;1
+33;depth, irony, genius, engaging, intricate;1
+34;twist, progress, inform, focus;1
+35;slow, breathtaking, complex, challenge;1
+36;capture, brain, inspirational, complex;1
+37;real, cerebral, storyline, complex;1
+38;culture, special, skill, understand;1
+39;detail, captivate, difficult, smart;1
+40;understand, thrilling, emotion, subtle;1
+41;deep, brain, captivate, capture, enlighten, detail;1
+42;detective, history, visual, concept;1
+43;simple, gentle, relax, predictable;2
+44;fast, educational, distract;2
+45;simple, linear, plain;2
+46;linear, fun, relax, chill;2
+47;clear, easy, fun, tire, relax, enjoyable;2
+48;direct, easy, chill, peace;2
+49;plain, fluent, quiet;2
+50;entertaining, fluent;2
+51;linear, fluent, tire;2
+52;comic, smooth, distract;2
+53;instant, predictable, simple;2
+54;obvious, speedy, pleasant;2
+55;light, peaceful, calm;2
+56;intuitive, unpretentious;2
+57;intuitive, direct, pleasant;2
+58;immediate, comic, distract;2
+59;smooth, relax, gentle;2
+60;distract, peace, night, gentle;2
+61;simple, bedtime, soft, gentle;2
+62;light, instant, quiet, predictable;2
+63;light, bedtime, relax, couch;2
+64;hilarious, calm, addictive;2
+65;obvious, calm, gag, bedtime, gentle;2
+66;smooth, calm, peaceful, couch;2
+67;simple, instant, teen, peaceful;2
+68;grip, unpretentious, pleasant;2
+69;addictive, soothing;2
+70;instant, funny, speedy, calm;2
+71;direct, silent, soft, sensitive;2
+72;fast, bed, quiet;2
+73;fast, linear, peaceful;2
+74;simple, soft, gag, soothing, light;2
+75;bed, silence, soft, tender;2
+76;comedy, immediate, obvious;2
+77;obvious, plain, lull;2
+78;plain, speedy, relax;2
+79;entertaining, bed, plain;2
+80;comedy, funny, landscape;2
+81;lull, pleasant, quiet;2
+82;hilarious, fiction;2
+83;immediate, soft;2
+84;delicate, tender;2
+85;desire, darling, honey;3
+86;emotion, profound, hot;3
+87;chemistry, emotional;3
+88;feeling, date, feel;3
+89;intimacy, poignant, romance;3
+90;romantic, boyfriend, girlfriend, love;3
+91;heart, date, boyfriend;3
+92;deep, celebrate;3
+93;kiss, feel, romantic;3
+94;attract, fascinating, emotional;3
+95;couple, soulmate, wedding;3
+96;chemistry, sexual, connection;3
+97;passion, date, attraction;3
+98;partner, touch, romantic;3
+99;chemistry, romantic, sexy;3
+100;pair, kiss, heart;3
+101;heart, feel, sentimental;3
+102;hot, cute, couple, trust;3
+103;passion, sexy, sentimental;3
+104;sexy, lover, feeling;3
+105;emotion, attraction, wife;3
+106;marriage, husband;3
+107;kiss, girlfriend, cute;3
+108;celebrate, evoke, feeling;3
+109;feeling, sensual, pure;3
+110;trust, captivate, couple, lip;3
+111;romantic, attraction, husband;3
+112;wife, relationship, sex;3
+113;boyfriend, attract, trust;3
+114;hug, beauty, affection;3
+115;girlfriend,  fascinating;3
+116;crush, desire, dream;3
+117;sentimental, deep, cute, lip;3
+118;intimate, passionate, sweet;3
+119;touch, relationship;3
+120;joy, powerful, touch, profound, emotion;3
+121;partner, seductive;3
+122;rely, flirt, emotional;3
+123;deep, tender;3
+124;hit, lip, connection;3
+125;chemistry, wife, real;3
+126;profound, sexuality;3
+127;learn, adventure, musical;4
+128;family, pregnancy, adventure;4
+129;musical, holiday, message;4
+130;imaginary, giggle, juvenile;4
+131;imaginary, space, treasure;4
+132;baby, fairy, animated, kid;4
+133;fairy, play, childhood, toy;4
+134;imagination, cute, hero, baby;4
+135;adorable, superhero, smile;4
+136;adventurous, school, magic;4
+137;fantasy, cartoon, entertainment;4
+138;magical, smile, snack, message;4
+139;joy, mom, dream, dad, teenage;4
+140;son, tender, toy, adorable;4
+141;play, dad, mother, popcorn, curiosity;4
+142;fairy, young, giggle, teenage;4
+143;hug, education, grow, cartoon;4
+144;youth, sweet, happiness, funny;4
+145;animated,  childhood, adorable;4
+146;cartoon, magic, popcorn, message;4
+147;fairy, animation, christmas;4
+148;student, curious, curiosity;4
+149;cartoon, play, cute, learn;4
+150;mom, fantasy, dream, tale;4
+151;fairytale, graphic, enjoy, imagination;4
+152;child, animated, hero, mystical;4
+153;tender, imagination, cute;4
+154;magical, mystical, magic;4
+155;mom, animation, imaginary;4
+156;fun, innocent, magical;4
+157;baby, dream, childhood;4
+158;family, imagination, school;4
+159;proud, happy, love, child;4
+160;comedy, color, doll, magic;4
+161;heart, kiss, cute, school;4
+162;teen, smile, magical;4
+163;princess, feeling, superhero;4
+164;dream, hilarious, adorable;4
+165;delicious, funny, young;4
+166;enchant, creative, girl, fancy;4
+167;friend, humor, little, tale;4
+168;sensitive, study, teddy, fancy;4
+169;faith, share, sincere, loyal;5
+170;faithful, assist, advise, overcome;5
+171;confide, generous, hug, company;5
+172;express, honest, trust, share, sincere;5
+173;help, confide, party, admire, hug;5
+174;advice, party, admire, friend, reliable;5
+175;rely, encourage, friend;5
+176;care, company, forgive, confide;5
+177;generous, faithful, assist, loyal;5
+178;affection, overcome, mate, fun, faithful;5
+179;reliable, trust, call, brother;5
+180;teen, hug, brother, cry, loyal;5
+181;confide, admire, company, friend;5
+182;real, laugh, trust, fun, funny;5
+183;company, generous, encourage, faithful;5
+184;personality, care, friend, help;5
+185;generous, care, encourage, sincere;5
+186;support, entertaining, friendship;5
+187;forgive, assist, party, brother;5
+188;comic, share, loyal, help;5
+189;entertaining, mutual, trust, friend;5
+190;reliable, trust, faith;5
+191;assist, help, forgive, funny;5
+192;admiration, real, admire, friend;5
+193;advise, care, forgive, help, rely;5
+194;companion, rely, confidence;5
+195;friendship, company, admire, share;5
+196;sincere, hilarious, loyal;5
+197;faithful, trust, faith, help;5
+198;unique, enjoy, advise, share;5
+199;brother, understand, share;5
+200;count, gossip, guide, rely;5
+201;comical, encourage, reflect;5
+202;truth, mutual, comedy;5
+203;understand, uplift, triumph;5
+204;sympathetic, closeness, patience;5
+205;superhero, rely, tender, generous;5
+206;uplift, feeling, action, friendship;5
+207;touch, concerned, patience;5
+208;tender, reliable, count;5
+209;understand, fiction, triumph;5
+210;superhero, shoulder, gag, faith;5
+211;happiness, laugh, comic, teen;6
+212;happy, euphoria, please;6
+213;lovely, funny;6
+214;kind, please, laugh, peace;6
+215;laugh, fun, optimism, pleasure;6
+216;ironic, grace, funny, joy, fun;6
+217;relax, tender, joy, teen;6
+218;happiness, fun, comic, tender;6
+219;joyful, enjoy, peace, laugh, shine;6
+220;happiness, fun, pleasure;6
+221;sweet, happy, tender, admire;6
+222;lovely, comic, happy, joy, sweet;6
+223;charity, admire, shine, laugh, happy;6
+224;optimism, funny, grace, joy, laugh;6
+225;appreciate, celebrate, support;6
+226;lovely, ironic;6
+227;gratitude, win, crazy, happy;6
+228;grateful, comedy, bliss, sweet;6
+229;fun, lovely, grace, relax, sweet;6
+230;excite, exciting, enjoy, optimism;6
+231;laugh, relax, pleasure;6
+232;success, triumph, fascinating, appreciate;6
+233;lovely, ironic, kind, shine, win;6
+234;praise, hilarious, funny;6
+235;laugh, kind, happiness, support;6
+236;sincere, delight, fantasy;6
+237;peace, kindness;6
+238;energy, witty, spectacular;6
+239;happiness, exciting, fabulous, hilarious;6
+240;love, extraordinary, adorable;6
+241;sweet, hilarious;6
+242;cartoon, help, succeed;6
+243;ironic, energy, love, childhood;6
+244;exciting, brilliant;6
+245;goal, fabulous;6
+246;grateful, hilarious, adorable;6
+247;teen, delight, exciting;6
+248;impress, humor, cartoon;6
+249;fantasy, witty;6
+250;comedian, laughter;6
+251;adorable, joy, sweet;6
+252;childhood, pleasure;6
+253;angry, cruel, cruelty, war;7
+254;violent, violence, argue;7
+255;arrogant, dishonest, dramatic;7
+256;dramatic, rude, liar, cold;7
+257;loss, lie, cry, rude, sorrow;7
+258;selfish, fight, anger, punish;7
+259;thief, punish, guilty, fight;7
+260;angry, cruel, humiliating, thief;7
+261;raw, rage, sad, argue, arrogant;7
+262;angry, violent, violence, argue;7
+263;sorrow, enemy, abuse, hit, angry;7
+264;arrogant, selfish;7
+265;villain, heartbreak, nightmare;7
+266;violent, dramatic, fight, loss, hypocrite;7
+267;revenge, war, cruel, loss, offend;7
+268;death, false, anguish, violence;7
+269;dramatic, rude, selfish, raging;7
+270;betrayal, lie, cheater, drunk;7
+271;regret, hypocrite, insult, angry;7
+272;fight, anger, thief, offend;7
+273;offend, false, violent, war;7
+274;frustration, pain, misery, dark;7
+275;dramatic, guilty, regret, struggle;7
+276;silly, scared, dishonest;7
+277;egotistical, disturbing, guilty;7
+278;anger, oppose, strength;7
+279;deceit, argue, cruelty;7
+280;deplorable, cruelty, struggle;7
+281;punish, pain, false, struggle;7
+282;creepy, evil, silly, pain;7
+283;harrowing, bloody, tough;7
+284;heartbreak, humiliating;7
+285;lonesome, rawness, realism;7
+286;disturbing, dramatic, pain;7
+287;irresponsible, coward, scare;7
+288;pain, tough;7
+289;boxing, victim, strength;7
+290;fear, curse, angry, mean;7
+291;mean, fear, shameful, cruelty;7
+292;curse, blood, dirty, adrenaline;7
+293;gross, curse, piss;7
+294;bad, blood, strength;7
+295;depress, dirty, miserable;7
+296;disgust, oppose, nocturnal;7
+297;psychological, lunatic;7
+298;terrible, bitter, unhappy;7
+299;foolish, childish, shocking;7
+300;psycho, break, thrilling;7
+301;glue, tense, empathize, allegory;1
+302;puzzle, subtle, allegory;1
+303;ambiguous, haunt, unusual, mystery;1
+304;meaningful, enigma, senseless, climax;1
+305;ambivalent, autobiography;1
+306;climax, parallel, mental, confusion;1
+307;decipher, confuse, script, soul;1
+308;symbolism, link, soul, concept;1
+309;sarcastic, shock;1
+310;resentment, rage;7
+311;emotion, indignation;7
+312;resentment, wrath, revenge;7
+313;annoyance, outrage;7
+314;shock, rage;7
+315;hatred, aggression;7
+316;fury, provoke, anxiety;7
+317;hostility, frustration;7
+318;sympathy, fear, exasperation;7
+319;dissatisfaction, violent;7
+320;mad, adrenaline, exacerbate;7
+321;disgust, animosity, enrage;7
+322;fear, blood, revenge;7
+323;raging, cruel;7
+324;violence, furious;7
+325;pique, anger;7
+326;spite, raging;7
+327;irk, offend, madness;7
+328;lover, emotion, lust;3
+329;romance, passion, emotion;3
+330;romance , beloved;3
+331;affection, desire;3
+332;infatuation, marriage;3
+333;psychology, honey, intimate;3
+334;adore, cherish;3
+335;emotional, feeling;3
+336;heartstrings, marry;3
+337;benevolence, enjoy, lovemaking;3
+338;heart, care;3
+339;kindness, mate;3
+340;joyful, fun, happy;6
+341;joyous, fortunate, blissful;6
+342;happiness, pleasant, content;6
+343;lucky, proud;6
+344;prosperous, bless;6
+345;cheerful, smile;6
+346;bright, golden, excite;6
+347;positive, grateful, enjoy;6
+348;loosen, loose, meditate;2
+349;slow, ease, lift, rest;2
+350;relaxation, simple;2
+351;stay, wait, meditate;2
+352;breathe, lift, slack;2
+353;decrease, weaken;2
+354;rest, sleep;2
+355;sharpen, point, focal, immersion;1
+356;adjust, concentrate, soundtrack;1
+357;center, concentration,  solve;1
+358;strategy, aim, solve, idea;1
+359;emphasize, importance, immersion, mysterious;1
+360;absorb,lucidity, steep;1
+361;intrigue, elaborate, puzzle;1
+362;perplex, refine, mysterious;1
+363;intensify, intrigue, mental, complex;1
+364;complicate, sophisticated, intricate;1
+365;complexity, consequence, solve;1
+366;obstacle, evolve, puzzle;1
+367;ambiguous, incomprehensible, capture;1
+368;introspective, captivating, riddle;1
+369;erudite, enigma, mysterious;1
+370;interpret, realize, comprehend, perceive;1
+371;interpret, explain, misunderstand;1
+372;misunderstand, discover, psychological;1
+373;amorous, lovely, sentimental, intimate;3
+374;romance, lover, intimate, drama, connection;3
+375;melodramatic, charming, dreamy;3
+376;sensual, glamorous, seductive;3
+377;passion, sensibility, romantic, romance;3
+378;romanticism, intimacy, affectionate;3
+379;enraged, fierce, fury, dark;7
+380;ferocious, fury, desperate;7
+381;violent, wild,  outrage, upset, insane;7
+382;frantic, wild, mad, sorrow;7
+383;relentless, bitter, insane;7
+384;onslaught, provoke, dark;7
+385;connection, private, promise;3
+386;affinity, fascination, magnetism;3
+387;attract, attractive, irresistible;3
+388;affection, trust, understanding;5
+389;fellowship, company, reliance, loyalty;5
+390;empathy, interpersonal, reliance;5
+391;harmony, unity, gratitude;5
+392;solidarity, goodwill, confidence;5
+393;gratitude, devotion, mate;5
+394;admiration, help, confidant;5
+395;supporter, fellow, loyal, reliance;5
+396;faith, belief, certainty;5
+397;trustworthy, loyalty, respect;5
+398;integrity, credibility, respect;5
+399;lovely, lovable, cute, enchant;4
+400;loveable, enchant, sweetheart;4
+401;funny, kitten, cutie, amiable;4
+402;affectionate, delightful, sweet;4
+403;magic, illusion, supernatural;4
+404;wizard, mystical, fairy, magnificent;4
+405;mysterious, witch, splendid;4
+406;charming, marvelous, wondrous;4
+407;mythical, fantastic, heavenly, fable;4
+408;fable, fiction, fancy;4
+409;tale, magic, illusion, supernatural, fable;4
+410;imagination, imagine, adventure, superhero, fairy;4
+411;stimulate, fantastical, unreal, dreamlike;4
+412;deep meaning,  plot twist, be careful, intricate plot;1
+413;pay attention, complex plot, capture attention;1
+414;hold attention, engage plot, complex watch, find solution;1
+415;attention detail, focus attention;1
+416;deep meaning, pay attention, attention detail;1
+417;complex plot, capture attention, capture emotion;1
+418;reflect life, complex puzzle;1
+419;change life, plot twist, find solution;1
+420;hold attention, engage plot, intricate complex;1
+421;science fiction, touch soul, life change;1
+422;powerful film, intricate plot, intricate story;1
+423;complex watch, complex story, be careful;1
+424;metaphor life, deep understanding;1
+425;difficult film, complex engaging, intricate character;1
+426;life lesson, intriguing storyline;1
+427;focus viewer, head turn, surprising ending;1
+428;hide meaning, impressive scene, impressive movie;1
+429;full attention, breathtaking scene, key line;1
+430;be careful, delight eye, human nature, enigmatic character;1
+431;breathtaking landscape, enigmatic character, keep focus;1
+432;complex storyline, able cry, high fidelity;1
+433;historical movie, inspirational message, original set;1
+434;engage sad, story complex, intense emotion;1
+435;be unpredictable, theatrical performance, engaging thriller;1
+436;film slow, historical movie;1
+437;intelligent story, see engage, complex storyline, real life;1
+438;unpredictable exciting, storyline complex;1
+439;entertaining movie, focus attention;1
+440;conversation real, epic scene, glue screen;1
+441;joy eye, pure poetry, be simple;2
+442;be joy, beautiful landscape;2
+443;beauty nature, pleasant movie;2
+444;be calm, easy understand;2
+445;be tender, easy follow;2
+446;simple plot, straight forward;2
+447;be relax, simple easy;2
+448;easy understand, be linear;2
+449;short movie, be tire;2
+450;beautiful location, be simple;2
+451;be funny, be distract;2
+452;beauty nature, easy watch;2
+453;be soft, relax movie;2
+454;spend hour, hour company, take easy;2
+455;light comedy, be entertaining;2
+456;low attention, slow pace;2
+457;soothing voice, easy watch;2
+458;be fun, short movie;2
+459;be simple, be gentle, be relax, be predictable;2
+460;simple plot, be fast, be educational;2
+461;beautiful location, be chill;2
+462;linear storyline, be fun;2
+463;be distract, be gentle;2
+464;calming voice, beautiful landscape;2
+465;great rhythm, be relax, be enjoyable;2
+466;spend hour, hour company;2
+467;visual splendid, be enjoyable;2
+468;light story, be plain;2
+469;film clear, moment hilarious;2
+470;simple easy, pleasant dream;2
+471;funny act, be simple, be linear;2
+472;true love, first kiss, profound love, touch heart;3
+473;break heart, hit hard, soul mate;3
+474;fall love, capture heart, touch heart;3
+475;value love, warm heart, love story;3
+476;deep emotion, lovely heart, love story;3
+477;life partner, first meet, soul mate;3
+478;give heart, true feeling, first meet;3
+479;love life, hold arm, true love;3
+480;come true, dream life, heart beat;3
+481;intimate relationship, break heart, profound love;3
+482;heart warm, hit deep, fall love;3
+483;deep connection, feel connection;3
+484;perfect match, first love, heart beat;3
+485;great emotion, put heart, break heart;3
+486;make feel, feel thing, true love;3
+487;romantic set, get enough, heart break;3
+488;powerful movie, look eye;3
+489;touch story, take breath, love story;3
+490;right heart, love life, love story;3
+491;incurable romantic, close heart;3
+492;feel thing, full emotion, picture love;3
+493;feel emotion, romantic couple;3
+494;dream movie, be deep;3
+495;beautiful sentimental, fall love;3
+496;moment truth, human feeling, human emotion;3
+497;seductive ease, fun sweet, true love;3
+498;give heart, chemistry moment;3
+499;beautiful evocative, first love;3
+500;sweet delicate, sweet right;3
+501;evocation primitive, romantic story;3
+502;fairy tale, mother love, life lesson;4
+503;family love, sweet heart, movie youth;4
+504;kid movie, teddy bear, big dream;4
+505;hero story, big dream, give birth;4
+506;favorite cartoon, animation movie, evoke memory;4
+507;young man, young lady, be child;4
+508;magical atmosphere, be child;4
+509;tender heart, film dream;4
+510;fantasy reality, be adventure;4
+511;explosion color, be family, be adventure;4
+512;animated film, be holiday, have message;4
+513;beautiful princess, be musical;4
+514;little one, enchant child;4
+515;simple humor, full color, excellent study;4
+516;much heart, whole family;4
+517;surreal trip, sensitive child;4
+518;happy family, hope future;4
+519;go school, be hilarious, be kid;4
+520;be proud, be baby, be fairy, be animated;4
+521;time life, feel true, fairy tale;4
+522;special effect, big brother;4
+523;lesson learn, be animated;4
+524;beautiful animated, be grow;4
+525;beautiful adventure, remember youth;4
+526;superhero fan, child thing;4
+527;film dream, be childhood;4
+528;little gem, see little, gift life;4
+529;movie youth, be toy, have smile;4
+530;fairy tale, teen life;4
+531;dream movie, be young;4
+532;true friendship, be care;5
+533;give advice, be trust;5
+534;best friend, be faithful;5
+535;friend movie, life lesson;5
+536;be fun, true feeling;5
+537;be faith, be sincere;5
+538;share interest, be loyal;5
+539;give help, comic moment;5
+540;good time, be generous;5
+541;keep secret, be advise;5
+542;be loyal, be affection;5
+543;best friend, be concerned;5
+544;long last, true friend;5
+545;spirit friend, be help;5
+546;keep promise, keep secret;5
+547;life lesson, be advise;5
+548;help hand, be sincere;5
+549;be express, be honest, be trust;5
+550;true friend, be assist;5
+551;old friend, flash humor;5
+552;comic moment, be teen;5
+553;hilarious moment, be encourage;5
+554;great time, good time;5
+555;fun entertaining, be friend;5
+556;moment truth, be guide;5
+557;human cruelty, fun movie, funny awkward;5
+558;be generous, be company;5
+559;beautiful funny, true feeling;5
+560;fun sweet, be help, be company;5
+561;stop laugh, be friend;5
+562;feel good, be adorable, be joy;6
+563;feel good, be happy;6
+564;good time, be hilarious;6
+565;feel alive, have fun;6
+566;laugh hard, good mood;6
+567;enjoy life, delight eye;6
+568;enjoy life, hilarious moment;6
+569;celebrate life, be comedian, be cartoon;6
+570;funny comedian, comic scene;6
+571;sit laugh, be fantasy, be witty;6
+572;great energy, be delight, be exciting;6
+573;good mood, be grateful;6
+574;celebrate life, ironic funny;6
+575;funny movie, peaceful set;6
+576;great energy, be hilarious, be adorable;6
+577;good win, time shine, be appreciate;6
+578;be fabulous, childhood be;6
+579;sit laugh, awkward scene;6
+580;feel good, hilarious moment;6
+581;comic act, comic moment;6
+582;funny awkward, be exciting, be brilliant;6
+583;humor brilliant, be love, be childhood;6
+584;comedy movie, something laugh;6
+585;crazy comedy, fantasy reality;6
+586;witty dialogue, be comic, be teen;6
+587;witty interesting, be energy;6
+588;flash humor, be cartoon, be ironic;6
+589;stop laugh, real joy, good vibe;6
+590;well deserve, fantasy comedy;6
+591;be joy, be sweet;6
+592;feel bad, bad mood;7
+593;feel bad, cold blood;7
+594;make cry, be break, be thrilling;7
+595;bad person, bad day, have fear;7
+596;fight fear, feel pain;7
+597;feel lonely, hurt heart;7
+598;defeat enemy, be depressing;7
+599;feel frustration, be angry;7
+600;wake nightmare, be mean;7
+601;mean word, loss friend;7
+602;feel pain, feel guilty;7
+603;bad mood, be miserable;7
+604;fight scene, be mean, fear be;7
+605;sense justice, be shameful;7
+606;go wrong, be tough;7
+607;cruelty life, victim be;7
+608;create problem, be fight;7
+609;dramatic landscape, human cruelty;7
+610;hurt people, be scare, be victim;7
+611;deserve die, be disturbing;7
+612;do wrong, cause pain;7
+613;raw violent, be dark;7
+614;violent scene, shocking scene;7
+615;real tension, dramatic situation;7
+616;punch face, beautiful effective;7
+617;cold blood, fight scene;7
+618;shoot head, be shocking;7
+619;psychological thriller;7
+620;see red, be terrible, be bitter;7
+621;kill opponent, martial art, go wrong;7
+622;head turn, make sense;1
+623;want more, difficult understand;1
+624;stay focus, brain teaser, mind trip;1
+625;think hard, intricate plot, difficult understand;1
+626;change perception, something miss, hide something;1
+627;take break, be clear, be easy, be direct;2
+628;take break, take easy, easy follow;2
+629;be obvious, be pleasant, be tender;2
+630;young one, science fiction;4
+631;couple love, express feel;3
+632;perfect date, rest life, look eye;3
+633;romantic story, romantic movie;3
+634;depth look, deep complex;1
+635;understand movie, capture attention;1
+636;complex world, pay attention, complex character;1
+637;impossible understand, focus story;1
+638;focus story, complex engage, close attention;1
+639;complex message, hard understand;1
+640;deep complex,close attention, depth relationship;1
+641;philosophy life, deep intricate, pay attention;1
+642;something new, deep intricate, complex plot;1
+643;calm serene, simple entertaining, low attention;2
+644;little simple, time fly, calm relax;2
+645;watch calm, plain simple;2
+646;plain simple, light note, plain simple;2
+647;help relax, simple light, fast pace;2
+648;touch heart, real feeling, real romance;3
+649;beautiful couple, believable romance;3
+650;romance passion, heart emotion;3
+651;feel touch, full love;3
+652;nice chemistry, romantic feel, feel good, romantic couple;3
+653;cute couple, romantic movie;3
+654;take breath, passion desire, desire love, heart break;3
+655;touch heart, express passion, emotional desire;3
+656;physical attraction, feel passion, emotion passion;3
+657;romantic instinct, sentimental nostalgic;3
+658;date movie, heart break, deep romantic;3
+659;great emotion, romantic attraction;3
+660;passion chemistry, dreamy kiss, romantic set;3
+661;animated feature, good message, family movie;4
+662;valuable lesson, child learn;4
+663;learn talk, dream kid, young child;4
+664;childhood memory, nostalgia childhood, dream sequence;4
+665;magical story, kid adult, adult kid, something learn;4
+666;child learn, amazing animation;4
+667;great lesson, lesson learn, child imagination;4
+668;great animation, family learn;4
+669;teach value, chase dream, want learn;4
+670;chemistry moment, magical story;4
+671;be engaging, be complex, be absorb, be mystery;1
+672;be enigmatic, have soul;1
+673;be mean, be profound, have attention;1
+674;be profound, be smart, be concentrate;1
+675;be focus, be ambitious;1
+676;be capture, be unpredictable;1
+677;be difficult, be mean, be enigmatic;1
+678;be capture, be focus;1
+679;feel emotion, be absorb;1
+680;be complex, be intricate;1
+681;be captivate, be difficult;1
+682;be inspirational, be unpredictable;1
+683;be profound, be deep;1
+684;be deep, be exhaust;1
+685;be history, be metaphor, be complex, be engage;1
+686;be original, be engaging;1
+687;be confuse, be confuse;1
+688;have suspense,  be capture;1
+689;be difficult, be educational;1
+690;be clear, be easy, be funny;2
+691;be direct, be easy, be peace;2
+692;be plain, be quiet, be intuitive;2
+693;be comic, be smooth, simple plot;2
+694;be obvious, be pleasant;2
+695;be light, be peaceful, be calm;2
+696;be direct, be pleasant, be delicate;2
+697;be simple, be peace, be night;2
+698;be instant, be soft, be hilarious;2
+699;be profound, be hot, have feeling;3
+700;have chemistry, be emotional;3
+701;be romance, be love;3
+702;be romantic, be girlfriend, be love;3
+703;be heart, be deep, have feeling;3
+704;be kiss, be romantic;3
+705;be attract, be fascinating, be emotional;3
+706;be couple, be soulmate;3
+707;be sexual, have connection;3
+708;have passion, be sexy;3
+709;be partner, be touch, be romantic;3
+710;feel emotion, be sentimental;3
+711;be hot, be cute, be couple, be trust;3
+712;be passion, be sentimental;3
+713;be sexy, be lover, have feeling;3
+714;be wife, be husband, be cute;3
+715;be sensual, be pure;3
+716;be captivate, be couple;3
+717;be beauty, be fascinating;3
+718;be fascinating, be cute;3
+719;be deep, be love;3
+720;be intimate, be passionate, be sweet;3
+721;be relationship, deep emotion;3
+722;be powerful, be touch, be profound;3
+723;be seductive, be emotional;3
+724;be imagination, be cute, be hero, be baby;4
+725;be adorable, be superhero, be smile;4
+726;be adventurous, be magic, be magical;4
+727;be fantasy, be cartoon, be joy, be young;4
+728;be magical, be smile, be adorable;4
+729;be joy, be mom, be dream, be dad, be teenager;4
+730;be son, be tender, be adorable;4
+731;be fairy, be young, be magic;4
+732;be educational, be grow, be cartoon;4
+733;be youth, be sweet, be happiness, be funny;4
+734;be animated, be kid, be tale;4
+735;be magic, message be, be animation;4
+736;be student, be curious, be innocent;4
+737;be tale, be graphic, have enjoy;4
+738;be graphic, have enjoy, be imagination;4
+739;be child, be hero, be mystical;4
+740;be tender, be proud, be happy, be love;4
+741;be reliable, be brother;5
+742;be teen, be cry;5
+743;be admire, be honest;5
+744;be real, make laugh, be fun;5
+745;be funny, be faithful;5
+746;have care, be care;5
+747;be support, be friendship;5
+748;be entertaining, be mutual;5
+749;be reliable, tell truth;5
+750;be forgive, be rely;5
+751;have confidence, be funny;5
+752;be friendship, be share, be concerned;5
+753;be faithful, be faith,be touch;5
+754;be happiness, make laugh;6
+755;be happy,be pleased;6
+756;be lovely, be funny;6
+757;be kind, be please, be peace;6
+758;be laugh, be fun, be pleasure;6
+759;be ironic, be grace, be funny, be joy, be fun;6
+760;be relax, be tender, be teen;6
+761;be happiness, be fun, be comic, be tender;6
+762;be joyful, be enjoy, be smile, make laugh;6
+763;be sweet, be happy, be tender, admire be;6
+764;be lovely, be comic, be happy;6
+765;be shine, be laugh;6
+766;be delight, be grace, be laugh;6
+767;be appreciate, be celebrate;6
+768;be crazy, be pleasure;6
+769;be grateful, be comedy;6
+770;be lovely, be sweet;6
+771;be excite, be enjoy;6
+772;make laugh, be relax, be pleased;6
+773;be success, be triumph, be fascinating;6
+774;be ironic, be kind, be win;6
+775;be hilarious, be kind, be pleasure;6
+776;be sincere, be delight, be fantasy;6
+777;energy be, be witty, spectacular be;6
+778;be exciting, be fabulous, be hilarious;6
+779;be love, be extraordinary, be adorable;6
+780;be angry, be war;7
+781;be violent, be violence, be argue;7
+782;be dramatic, be rude, be cold;7
+783;be lie, be cry, be rude, be dramatic;7
+784;be selfish, fight be;7
+785;be guilty, be fight;7
+786;be cruel, be thief;7
+787;be raw, be sad;7
+788;be violent, violence be;7
+789;be hit, be bad, fight blood;7
+790;be cold, be dramatic;7
+791;be villain, heart break;7
+792;war be, be cruel;7
+793;death be, be dead, be false;7
+794;be dramatic, be rude, be selfish;7
+795;be lie, be drunk;7
+796;be thief, be offend;7
+797;be violent, be war;7
+798;be sad, be dark;7
+799;be guilty, be struggle;7
+800;be silly, be scared, be dishonest;7
+801;be disturbing, be violence;7
+802;have struggle, realism be;7
+803;be false, be bloody;7
+804;be creepy, be evil, be silly;7
